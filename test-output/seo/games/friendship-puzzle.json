@@ -1,0 +1,54 @@
+{
+  "gameId": 388,
+  "slug": "friendship-puzzle",
+  "metadata": {
+    "title": "Play Friendship Puzzle - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Friendship Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Friendship Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/friendship-puzzle",
+    "openGraph": {
+      "title": "Play Friendship Puzzle - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Friendship Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/friendship-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/friendship-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Friendship Puzzle - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Friendship Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/friendship-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Friendship Puzzle",
+      "href": "/games/friendship-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_034",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

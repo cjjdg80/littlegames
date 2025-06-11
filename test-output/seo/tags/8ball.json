@@ -1,0 +1,46 @@
+{
+  "tag": "8ball",
+  "displayName": "8ball",
+  "metadata": {
+    "title": "8ball Games - Play Free Online",
+    "description": "Discover amazing 8ball games! Play 15 free games with 8ball theme. No downloads required.",
+    "keywords": [
+      "8ball games",
+      "free online games",
+      "browser games",
+      "8ball theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/8ball",
+    "openGraph": {
+      "title": "8ball Games - Free Online Gaming",
+      "description": "Play the best 8ball games online for free. 15 games available.",
+      "image": "https://littlegames.com/images/tags/8ball-og.jpg",
+      "url": "https://littlegames.com/tags/8ball",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "8ball Games - Free Online",
+      "description": "Play 15 free 8ball games online.",
+      "image": "https://littlegames.com/images/tags/8ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "8ball",
+      "href": "/tags/8ball",
+      "current": true
+    }
+  ],
+  "description": "Discover games with 8ball theme! Our collection includes 15 carefully selected games that feature 8ball elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

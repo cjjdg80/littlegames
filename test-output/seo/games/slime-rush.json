@@ -1,0 +1,54 @@
+{
+  "gameId": 8895,
+  "slug": "slime-rush",
+  "metadata": {
+    "title": "Slime Rush - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Slime Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Slime Rush",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/slime-rush",
+    "openGraph": {
+      "title": "Slime Rush - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Slime Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slime-rush-og.jpg",
+      "url": "https://littlegames.com/games/slime-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slime Rush - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Slime Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slime-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Slime Rush",
+      "href": "/games/slime-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_751",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

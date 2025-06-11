@@ -1,0 +1,54 @@
+{
+  "gameId": 5365,
+  "slug": "blondy-extra",
+  "metadata": {
+    "title": "Free Blondy Extra Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Blondy Extra. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Blondy Extra",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/blondy-extra",
+    "openGraph": {
+      "title": "Free Blondy Extra Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Blondy Extra. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/blondy-extra-og.jpg",
+      "url": "https://littlegames.com/games/blondy-extra",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Blondy Extra Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Blondy Extra. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/blondy-extra-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Blondy Extra",
+      "href": "/games/blondy-extra",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_321",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

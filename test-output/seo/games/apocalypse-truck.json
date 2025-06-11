@@ -1,0 +1,54 @@
+{
+  "gameId": 2161,
+  "slug": "apocalypse-truck",
+  "metadata": {
+    "title": "Apocalypse Truck - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Apocalypse Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Apocalypse Truck",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/apocalypse-truck",
+    "openGraph": {
+      "title": "Apocalypse Truck - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Apocalypse Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/apocalypse-truck-og.jpg",
+      "url": "https://littlegames.com/games/apocalypse-truck",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Apocalypse Truck - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Apocalypse Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/apocalypse-truck-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Apocalypse Truck",
+      "href": "/games/apocalypse-truck",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_997",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

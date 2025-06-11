@@ -1,0 +1,54 @@
+{
+  "gameId": 5598,
+  "slug": "dice-merge",
+  "metadata": {
+    "title": "Action Game Dice Merge - Play Free Now",
+    "description": "Join the action in Dice Merge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Dice Merge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dice-merge",
+    "openGraph": {
+      "title": "Action Game Dice Merge - Play Free Now",
+      "description": "Join the action in Dice Merge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dice-merge-og.jpg",
+      "url": "https://littlegames.com/games/dice-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Dice Merge - Play Free Now",
+      "description": "Join the action in Dice Merge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dice-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dice Merge",
+      "href": "/games/dice-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_544",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

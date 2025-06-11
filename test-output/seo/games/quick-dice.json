@@ -1,0 +1,54 @@
+{
+  "gameId": 1419,
+  "slug": "quick-dice",
+  "metadata": {
+    "title": "Quick Dice - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Quick Dice. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Quick Dice",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/quick-dice",
+    "openGraph": {
+      "title": "Quick Dice - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Quick Dice. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/quick-dice-og.jpg",
+      "url": "https://littlegames.com/games/quick-dice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Quick Dice - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Quick Dice. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/quick-dice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Quick Dice",
+      "href": "/games/quick-dice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_995",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

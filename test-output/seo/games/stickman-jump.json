@@ -1,0 +1,54 @@
+{
+  "gameId": 9818,
+  "slug": "stickman-jump",
+  "metadata": {
+    "title": "Free Stickman Jump Game - Action Packed Fun",
+    "description": "Stickman Jump delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Stickman Jump",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-jump",
+    "openGraph": {
+      "title": "Free Stickman Jump Game - Action Packed Fun",
+      "description": "Stickman Jump delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stickman-jump-og.jpg",
+      "url": "https://littlegames.com/games/stickman-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stickman Jump Game - Action Packed Fun",
+      "description": "Stickman Jump delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stickman-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stickman Jump",
+      "href": "/games/stickman-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_364",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1255,
+  "slug": "traffic-run",
+  "metadata": {
+    "title": "Free Traffic Run Game - Action Packed Fun",
+    "description": "Experience thrilling action in Traffic Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Traffic Run",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/traffic-run",
+    "openGraph": {
+      "title": "Free Traffic Run Game - Action Packed Fun",
+      "description": "Experience thrilling action in Traffic Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/traffic-run-og.jpg",
+      "url": "https://littlegames.com/games/traffic-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Traffic Run Game - Action Packed Fun",
+      "description": "Experience thrilling action in Traffic Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/traffic-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Traffic Run",
+      "href": "/games/traffic-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_911",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

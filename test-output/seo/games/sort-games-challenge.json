@@ -1,0 +1,54 @@
+{
+  "gameId": 7739,
+  "slug": "sort-games-challenge",
+  "metadata": {
+    "title": "Play Sort Games Challenge - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Sort Games Challenge. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Sort Games Challenge online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/sort-games-challenge",
+    "openGraph": {
+      "title": "Play Sort Games Challenge - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Sort Games Challenge. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/sort-games-challenge-og.jpg",
+      "url": "https://littlegames.com/games/sort-games-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sort Games Challenge - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Sort Games Challenge. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/sort-games-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sort Games Challenge",
+      "href": "/games/sort-games-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_915",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

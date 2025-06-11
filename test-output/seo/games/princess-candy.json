@@ -1,0 +1,54 @@
+{
+  "gameId": 909,
+  "slug": "princess-candy",
+  "metadata": {
+    "title": "Action Game Princess Candy - Play Free Now",
+    "description": "Experience thrilling action in Princess Candy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Princess Candy",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/princess-candy",
+    "openGraph": {
+      "title": "Action Game Princess Candy - Play Free Now",
+      "description": "Experience thrilling action in Princess Candy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/princess-candy-og.jpg",
+      "url": "https://littlegames.com/games/princess-candy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Princess Candy - Play Free Now",
+      "description": "Experience thrilling action in Princess Candy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/princess-candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Princess Candy",
+      "href": "/games/princess-candy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_185",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4256,
+  "slug": "mortal-brothers-survival",
+  "metadata": {
+    "title": "Mortal Brothers Survival Online - Explore and Discover",
+    "description": "Mortal Brothers Survival offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and...",
+    "keywords": [
+      "Mortal Brothers Survival online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/mortal-brothers-survival",
+    "openGraph": {
+      "title": "Mortal Brothers Survival Online - Explore and Discover",
+      "description": "Mortal Brothers Survival offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and...",
+      "image": "https://littlegames.com/images/games/mortal-brothers-survival-og.jpg",
+      "url": "https://littlegames.com/games/mortal-brothers-survival",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mortal Brothers Survival Online - Explore and Discover",
+      "description": "Mortal Brothers Survival offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/mortal-brothers-survival-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mortal Brothers Survival",
+      "href": "/games/mortal-brothers-survival",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_945",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

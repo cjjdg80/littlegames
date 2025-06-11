@@ -1,0 +1,54 @@
+{
+  "gameId": 3012,
+  "slug": "slime-rider",
+  "metadata": {
+    "title": "Free Slime Rider Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Slime Rider. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Slime Rider",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/slime-rider",
+    "openGraph": {
+      "title": "Free Slime Rider Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Slime Rider. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/slime-rider-og.jpg",
+      "url": "https://littlegames.com/games/slime-rider",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Slime Rider Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Slime Rider. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/slime-rider-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Slime Rider",
+      "href": "/games/slime-rider",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_378",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

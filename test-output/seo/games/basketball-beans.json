@@ -1,0 +1,54 @@
+{
+  "gameId": 5220,
+  "slug": "basketball-beans",
+  "metadata": {
+    "title": "Action Game Basketball Beans - Play Free Now",
+    "description": "Dive into the action-packed world of Basketball Beans. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Basketball Beans",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/basketball-beans",
+    "openGraph": {
+      "title": "Action Game Basketball Beans - Play Free Now",
+      "description": "Dive into the action-packed world of Basketball Beans. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/basketball-beans-og.jpg",
+      "url": "https://littlegames.com/games/basketball-beans",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Basketball Beans - Play Free Now",
+      "description": "Dive into the action-packed world of Basketball Beans. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/basketball-beans-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basketball Beans",
+      "href": "/games/basketball-beans",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_826",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

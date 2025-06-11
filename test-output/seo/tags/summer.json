@@ -1,0 +1,46 @@
+{
+  "tag": "summer",
+  "displayName": "Summer",
+  "metadata": {
+    "title": "Summer Games - Play Free Online",
+    "description": "Discover amazing summer games! Play 47 free games with summer theme. No downloads required.",
+    "keywords": [
+      "summer games",
+      "free online games",
+      "browser games",
+      "summer theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/summer",
+    "openGraph": {
+      "title": "Summer Games - Free Online Gaming",
+      "description": "Play the best summer games online for free. 47 games available.",
+      "image": "https://littlegames.com/images/tags/summer-og.jpg",
+      "url": "https://littlegames.com/tags/summer",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Summer Games - Free Online",
+      "description": "Play 47 free summer games online.",
+      "image": "https://littlegames.com/images/tags/summer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Summer",
+      "href": "/tags/summer",
+      "current": true
+    }
+  ],
+  "description": "Discover games with summer theme! Our collection includes 47 carefully selected games that feature summer elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

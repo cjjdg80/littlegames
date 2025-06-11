@@ -1,0 +1,54 @@
+{
+  "gameId": 2052,
+  "slug": "funny-haircut",
+  "metadata": {
+    "title": "Free Funny Haircut Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Funny Haircut. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Funny Haircut",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/funny-haircut",
+    "openGraph": {
+      "title": "Free Funny Haircut Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Funny Haircut. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/funny-haircut-og.jpg",
+      "url": "https://littlegames.com/games/funny-haircut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Funny Haircut Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Funny Haircut. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/funny-haircut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Funny Haircut",
+      "href": "/games/funny-haircut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_618",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

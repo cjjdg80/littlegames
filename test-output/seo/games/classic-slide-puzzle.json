@@ -1,0 +1,54 @@
+{
+  "gameId": 16,
+  "slug": "classic-slide-puzzle",
+  "metadata": {
+    "title": "Classic Slide Puzzle Online - Logic and Strategy Game",
+    "description": "Classic Slide Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "puzzle games",
+      "Classic Slide Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/classic-slide-puzzle",
+    "openGraph": {
+      "title": "Classic Slide Puzzle Online - Logic and Strategy Game",
+      "description": "Classic Slide Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/classic-slide-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/classic-slide-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Classic Slide Puzzle Online - Logic and Strategy Game",
+      "description": "Classic Slide Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/classic-slide-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Classic Slide Puzzle",
+      "href": "/games/classic-slide-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_502",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

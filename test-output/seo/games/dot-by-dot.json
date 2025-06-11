@@ -1,0 +1,54 @@
+{
+  "gameId": 8118,
+  "slug": "dot-by-dot",
+  "metadata": {
+    "title": "Dot by Dot Online - Explore and Discover",
+    "description": "Start your epic journey with Dot by Dot! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Dot by Dot",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/dot-by-dot",
+    "openGraph": {
+      "title": "Dot by Dot Online - Explore and Discover",
+      "description": "Start your epic journey with Dot by Dot! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dot-by-dot-og.jpg",
+      "url": "https://littlegames.com/games/dot-by-dot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dot by Dot Online - Explore and Discover",
+      "description": "Start your epic journey with Dot by Dot! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dot-by-dot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dot by Dot",
+      "href": "/games/dot-by-dot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_667",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

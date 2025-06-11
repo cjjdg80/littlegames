@@ -1,0 +1,54 @@
+{
+  "gameId": 3620,
+  "slug": "light-it-on",
+  "metadata": {
+    "title": "Action Game Light It On - Play Free Now",
+    "description": "Experience thrilling action in Light It On! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Light It On game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/light-it-on",
+    "openGraph": {
+      "title": "Action Game Light It On - Play Free Now",
+      "description": "Experience thrilling action in Light It On! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/light-it-on-og.jpg",
+      "url": "https://littlegames.com/games/light-it-on",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Light It On - Play Free Now",
+      "description": "Experience thrilling action in Light It On! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/light-it-on-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Light It On",
+      "href": "/games/light-it-on",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_226",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

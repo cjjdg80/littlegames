@@ -1,0 +1,54 @@
+{
+  "gameId": 8713,
+  "slug": "town-run",
+  "metadata": {
+    "title": "Play Town Run - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Town Run! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+    "keywords": [
+      "Town Run online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/town-run",
+    "openGraph": {
+      "title": "Play Town Run - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Town Run! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+      "image": "https://littlegames.com/images/games/town-run-og.jpg",
+      "url": "https://littlegames.com/games/town-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Town Run - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Town Run! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/town-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Town Run",
+      "href": "/games/town-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_112",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

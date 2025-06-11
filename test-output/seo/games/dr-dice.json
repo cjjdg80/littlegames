@@ -1,0 +1,54 @@
+{
+  "gameId": 2869,
+  "slug": "dr-dice",
+  "metadata": {
+    "title": "Dr Dice Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Dr Dice. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Dr Dice online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/dr-dice",
+    "openGraph": {
+      "title": "Dr Dice Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Dr Dice. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/dr-dice-og.jpg",
+      "url": "https://littlegames.com/games/dr-dice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dr Dice Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Dr Dice. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/dr-dice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dr Dice",
+      "href": "/games/dr-dice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_945",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

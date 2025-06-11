@@ -1,0 +1,54 @@
+{
+  "gameId": 3453,
+  "slug": "memoji-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Memoji Puzzle - Test Your Skills",
+    "description": "Memoji Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Memoji Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/memoji-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Memoji Puzzle - Test Your Skills",
+      "description": "Memoji Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/memoji-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/memoji-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Memoji Puzzle - Test Your Skills",
+      "description": "Memoji Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/memoji-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Memoji Puzzle",
+      "href": "/games/memoji-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_049",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

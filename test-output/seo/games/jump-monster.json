@@ -1,0 +1,54 @@
+{
+  "gameId": 2720,
+  "slug": "jump-monster",
+  "metadata": {
+    "title": "Jump Monster Online - Ultimate Action Gaming Experience",
+    "description": "Jump Monster delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Jump Monster",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jump-monster",
+    "openGraph": {
+      "title": "Jump Monster Online - Ultimate Action Gaming Experience",
+      "description": "Jump Monster delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jump-monster-og.jpg",
+      "url": "https://littlegames.com/games/jump-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jump Monster Online - Ultimate Action Gaming Experience",
+      "description": "Jump Monster delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jump-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jump Monster",
+      "href": "/games/jump-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_326",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

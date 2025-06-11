@@ -1,0 +1,54 @@
+{
+  "gameId": 8102,
+  "slug": "sliding-gems",
+  "metadata": {
+    "title": "Free Sliding Gems Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Sliding Gems. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Sliding Gems",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sliding-gems",
+    "openGraph": {
+      "title": "Free Sliding Gems Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Sliding Gems. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sliding-gems-og.jpg",
+      "url": "https://littlegames.com/games/sliding-gems",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sliding Gems Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Sliding Gems. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sliding-gems-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sliding Gems",
+      "href": "/games/sliding-gems",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_168",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7037,
+  "slug": "sort-mart",
+  "metadata": {
+    "title": "Play Sort Mart - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Sort Mart. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Sort Mart",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/sort-mart",
+    "openGraph": {
+      "title": "Play Sort Mart - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Sort Mart. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sort-mart-og.jpg",
+      "url": "https://littlegames.com/games/sort-mart",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sort Mart - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Sort Mart. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sort-mart-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sort Mart",
+      "href": "/games/sort-mart",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_153",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

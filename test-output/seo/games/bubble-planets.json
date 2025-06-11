@@ -1,0 +1,54 @@
+{
+  "gameId": 1594,
+  "slug": "bubble-planets",
+  "metadata": {
+    "title": "Play Bubble Planets - Free Action Game Online",
+    "description": "Join the action in Bubble Planets! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bubble Planets game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-planets",
+    "openGraph": {
+      "title": "Play Bubble Planets - Free Action Game Online",
+      "description": "Join the action in Bubble Planets! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-planets-og.jpg",
+      "url": "https://littlegames.com/games/bubble-planets",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bubble Planets - Free Action Game Online",
+      "description": "Join the action in Bubble Planets! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-planets-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Planets",
+      "href": "/games/bubble-planets",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_420",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1340,
+  "slug": "cooking-fever",
+  "metadata": {
+    "title": "Action Game Cooking Fever - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Cooking Fever. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Cooking Fever",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/cooking-fever",
+    "openGraph": {
+      "title": "Action Game Cooking Fever - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Cooking Fever. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cooking-fever-og.jpg",
+      "url": "https://littlegames.com/games/cooking-fever",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Cooking Fever - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Cooking Fever. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cooking-fever-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cooking Fever",
+      "href": "/games/cooking-fever",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_546",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

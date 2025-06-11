@@ -1,0 +1,54 @@
+{
+  "gameId": 7116,
+  "slug": "barbiemania",
+  "metadata": {
+    "title": "Action Game Barbiemania - Play Free Now",
+    "description": "Join the action in Barbiemania! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Barbiemania",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/barbiemania",
+    "openGraph": {
+      "title": "Action Game Barbiemania - Play Free Now",
+      "description": "Join the action in Barbiemania! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/barbiemania-og.jpg",
+      "url": "https://littlegames.com/games/barbiemania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Barbiemania - Play Free Now",
+      "description": "Join the action in Barbiemania! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/barbiemania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Barbiemania",
+      "href": "/games/barbiemania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_602",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

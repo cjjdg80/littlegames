@@ -1,0 +1,54 @@
+{
+  "gameId": 5000,
+  "slug": "square-monsters",
+  "metadata": {
+    "title": "Action Game Square Monsters - Play Free Now",
+    "description": "Experience thrilling action in Square Monsters! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Square Monsters",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/square-monsters",
+    "openGraph": {
+      "title": "Action Game Square Monsters - Play Free Now",
+      "description": "Experience thrilling action in Square Monsters! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/square-monsters-og.jpg",
+      "url": "https://littlegames.com/games/square-monsters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Square Monsters - Play Free Now",
+      "description": "Experience thrilling action in Square Monsters! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/square-monsters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Square Monsters",
+      "href": "/games/square-monsters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_006",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8929,
+  "slug": "blocks-breaker",
+  "metadata": {
+    "title": "Play Blocks Breaker - Free Action Game Online",
+    "description": "Experience thrilling action in Blocks Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Blocks Breaker",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/blocks-breaker",
+    "openGraph": {
+      "title": "Play Blocks Breaker - Free Action Game Online",
+      "description": "Experience thrilling action in Blocks Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/blocks-breaker-og.jpg",
+      "url": "https://littlegames.com/games/blocks-breaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Blocks Breaker - Free Action Game Online",
+      "description": "Experience thrilling action in Blocks Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/blocks-breaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Blocks Breaker",
+      "href": "/games/blocks-breaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_805",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

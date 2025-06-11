@@ -1,0 +1,54 @@
+{
+  "gameId": 546,
+  "slug": "match-the-boxes",
+  "metadata": {
+    "title": "Puzzle Game Match The Boxes - Test Your Skills",
+    "description": "Put your thinking skills to the test in Match The Boxes. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Match The Boxes",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/match-the-boxes",
+    "openGraph": {
+      "title": "Puzzle Game Match The Boxes - Test Your Skills",
+      "description": "Put your thinking skills to the test in Match The Boxes. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/match-the-boxes-og.jpg",
+      "url": "https://littlegames.com/games/match-the-boxes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Match The Boxes - Test Your Skills",
+      "description": "Put your thinking skills to the test in Match The Boxes. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/match-the-boxes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Match The Boxes",
+      "href": "/games/match-the-boxes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_932",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3183,
+  "slug": "ultra-pixel-survive",
+  "metadata": {
+    "title": "Ultra Pixel Survive - Thrilling Adventure Quest",
+    "description": "Begin your quest in Ultra Pixel Survive. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Ultra Pixel Survive game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/ultra-pixel-survive",
+    "openGraph": {
+      "title": "Ultra Pixel Survive - Thrilling Adventure Quest",
+      "description": "Begin your quest in Ultra Pixel Survive. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/ultra-pixel-survive-og.jpg",
+      "url": "https://littlegames.com/games/ultra-pixel-survive",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ultra Pixel Survive - Thrilling Adventure Quest",
+      "description": "Begin your quest in Ultra Pixel Survive. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/ultra-pixel-survive-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ultra Pixel Survive",
+      "href": "/games/ultra-pixel-survive",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_682",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

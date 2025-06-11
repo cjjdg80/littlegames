@@ -1,0 +1,46 @@
+{
+  "tag": "computer",
+  "displayName": "Computer",
+  "metadata": {
+    "title": "Computer Games - Play Free Online",
+    "description": "Discover amazing computer games! Play 7 free games with computer theme. No downloads required.",
+    "keywords": [
+      "computer games",
+      "free online games",
+      "browser games",
+      "computer theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/computer",
+    "openGraph": {
+      "title": "Computer Games - Free Online Gaming",
+      "description": "Play the best computer games online for free. 7 games available.",
+      "image": "https://littlegames.com/images/tags/computer-og.jpg",
+      "url": "https://littlegames.com/tags/computer",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Computer Games - Free Online",
+      "description": "Play 7 free computer games online.",
+      "image": "https://littlegames.com/images/tags/computer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Computer",
+      "href": "/tags/computer",
+      "current": true
+    }
+  ],
+  "description": "Discover games with computer theme! Our collection includes 7 carefully selected games that feature computer elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

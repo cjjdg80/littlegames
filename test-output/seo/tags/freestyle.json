@@ -1,0 +1,46 @@
+{
+  "tag": "freestyle",
+  "displayName": "Freestyle",
+  "metadata": {
+    "title": "Freestyle Games - Play Free Online",
+    "description": "Discover amazing freestyle games! Play 3 free games with freestyle theme. No downloads required.",
+    "keywords": [
+      "freestyle games",
+      "free online games",
+      "browser games",
+      "freestyle theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/freestyle",
+    "openGraph": {
+      "title": "Freestyle Games - Free Online Gaming",
+      "description": "Play the best freestyle games online for free. 3 games available.",
+      "image": "https://littlegames.com/images/tags/freestyle-og.jpg",
+      "url": "https://littlegames.com/tags/freestyle",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Freestyle Games - Free Online",
+      "description": "Play 3 free freestyle games online.",
+      "image": "https://littlegames.com/images/tags/freestyle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Freestyle",
+      "href": "/tags/freestyle",
+      "current": true
+    }
+  ],
+  "description": "Discover games with freestyle theme! Our collection includes 3 carefully selected games that feature freestyle elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

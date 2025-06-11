@@ -1,0 +1,54 @@
+{
+  "gameId": 623,
+  "slug": "friend-rescue",
+  "metadata": {
+    "title": "Free Friend Rescue Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Friend Rescue. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Friend Rescue game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/friend-rescue",
+    "openGraph": {
+      "title": "Free Friend Rescue Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Friend Rescue. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/friend-rescue-og.jpg",
+      "url": "https://littlegames.com/games/friend-rescue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Friend Rescue Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Friend Rescue. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/friend-rescue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Friend Rescue",
+      "href": "/games/friend-rescue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_319",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

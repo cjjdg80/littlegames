@@ -1,0 +1,54 @@
+{
+  "gameId": 2789,
+  "slug": "trials-ice-ride",
+  "metadata": {
+    "title": "Trials Ice Ride Online - Ultimate Action Gaming Experience",
+    "description": "Trials Ice Ride delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Trials Ice Ride online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/trials-ice-ride",
+    "openGraph": {
+      "title": "Trials Ice Ride Online - Ultimate Action Gaming Experience",
+      "description": "Trials Ice Ride delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/trials-ice-ride-og.jpg",
+      "url": "https://littlegames.com/games/trials-ice-ride",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trials Ice Ride Online - Ultimate Action Gaming Experience",
+      "description": "Trials Ice Ride delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/trials-ice-ride-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Trials Ice Ride",
+      "href": "/games/trials-ice-ride",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_465",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

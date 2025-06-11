@@ -1,0 +1,54 @@
+{
+  "gameId": 2128,
+  "slug": "mr-dracula",
+  "metadata": {
+    "title": "Free Mr Dracula Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Mr Dracula. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Mr Dracula online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/mr-dracula",
+    "openGraph": {
+      "title": "Free Mr Dracula Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Mr Dracula. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/mr-dracula-og.jpg",
+      "url": "https://littlegames.com/games/mr-dracula",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mr Dracula Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Mr Dracula. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/mr-dracula-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Mr Dracula",
+      "href": "/games/mr-dracula",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_974",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

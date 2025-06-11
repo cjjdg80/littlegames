@@ -1,0 +1,54 @@
+{
+  "gameId": 5083,
+  "slug": "tom-memory",
+  "metadata": {
+    "title": "Play Tom Memory - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Tom Memory. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tom Memory online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tom-memory",
+    "openGraph": {
+      "title": "Play Tom Memory - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Tom Memory. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tom-memory-og.jpg",
+      "url": "https://littlegames.com/games/tom-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tom Memory - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Tom Memory. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tom-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tom Memory",
+      "href": "/games/tom-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_579",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 988,
+  "slug": "pin-circle",
+  "metadata": {
+    "title": "Pin Circle - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Pin Circle. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Pin Circle online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/pin-circle",
+    "openGraph": {
+      "title": "Pin Circle - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Pin Circle. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/pin-circle-og.jpg",
+      "url": "https://littlegames.com/games/pin-circle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pin Circle - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Pin Circle. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/pin-circle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pin Circle",
+      "href": "/games/pin-circle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_637",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

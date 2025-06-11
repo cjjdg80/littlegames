@@ -1,0 +1,54 @@
+{
+  "gameId": 3905,
+  "slug": "merge-fish",
+  "metadata": {
+    "title": "Action Game Merge Fish - Play Free Now",
+    "description": "Merge Fish delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Merge Fish",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-fish",
+    "openGraph": {
+      "title": "Action Game Merge Fish - Play Free Now",
+      "description": "Merge Fish delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-fish-og.jpg",
+      "url": "https://littlegames.com/games/merge-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Merge Fish - Play Free Now",
+      "description": "Merge Fish delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Merge Fish",
+      "href": "/games/merge-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_061",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

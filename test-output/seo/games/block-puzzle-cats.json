@@ -1,0 +1,54 @@
+{
+  "gameId": 8340,
+  "slug": "block-puzzle-cats",
+  "metadata": {
+    "title": "Puzzle Game Block Puzzle Cats - Test Your Skills",
+    "description": "Exercise your brain with Block Puzzle Cats. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Block Puzzle Cats game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/block-puzzle-cats",
+    "openGraph": {
+      "title": "Puzzle Game Block Puzzle Cats - Test Your Skills",
+      "description": "Exercise your brain with Block Puzzle Cats. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/block-puzzle-cats-og.jpg",
+      "url": "https://littlegames.com/games/block-puzzle-cats",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Block Puzzle Cats - Test Your Skills",
+      "description": "Exercise your brain with Block Puzzle Cats. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/block-puzzle-cats-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Puzzle Cats",
+      "href": "/games/block-puzzle-cats",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_546",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

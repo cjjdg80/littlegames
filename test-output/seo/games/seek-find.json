@@ -1,0 +1,54 @@
+{
+  "gameId": 8495,
+  "slug": "seek-find",
+  "metadata": {
+    "title": "Seek & Find - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Seek & Find. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Seek & Find online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/seek-find",
+    "openGraph": {
+      "title": "Seek & Find - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Seek & Find. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/seek-find-og.jpg",
+      "url": "https://littlegames.com/games/seek-find",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Seek & Find - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Seek & Find. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/seek-find-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Seek & Find",
+      "href": "/games/seek-find",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_351",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

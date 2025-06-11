@@ -1,0 +1,54 @@
+{
+  "gameId": 8960,
+  "slug": "super-tank-hero",
+  "metadata": {
+    "title": "Free Super Tank Hero Game - Action Packed Fun",
+    "description": "Experience thrilling action in Super Tank Hero! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Super Tank Hero",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/super-tank-hero",
+    "openGraph": {
+      "title": "Free Super Tank Hero Game - Action Packed Fun",
+      "description": "Experience thrilling action in Super Tank Hero! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/super-tank-hero-og.jpg",
+      "url": "https://littlegames.com/games/super-tank-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Super Tank Hero Game - Action Packed Fun",
+      "description": "Experience thrilling action in Super Tank Hero! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/super-tank-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Tank Hero",
+      "href": "/games/super-tank-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_766",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

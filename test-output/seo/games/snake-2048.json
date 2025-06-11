@@ -1,0 +1,54 @@
+{
+  "gameId": 9120,
+  "slug": "snake-2048",
+  "metadata": {
+    "title": "Free Snake 2048 Game - Action Packed Fun",
+    "description": "Join the action in Snake 2048! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Snake 2048",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/snake-2048",
+    "openGraph": {
+      "title": "Free Snake 2048 Game - Action Packed Fun",
+      "description": "Join the action in Snake 2048! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-2048-og.jpg",
+      "url": "https://littlegames.com/games/snake-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Snake 2048 Game - Action Packed Fun",
+      "description": "Join the action in Snake 2048! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Snake 2048",
+      "href": "/games/snake-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_726",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

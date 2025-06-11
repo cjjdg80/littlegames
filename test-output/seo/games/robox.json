@@ -1,0 +1,54 @@
+{
+  "gameId": 4956,
+  "slug": "robox",
+  "metadata": {
+    "title": "Action Game Robox - Play Free Now",
+    "description": "Join the action in Robox! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Robox online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/robox",
+    "openGraph": {
+      "title": "Action Game Robox - Play Free Now",
+      "description": "Join the action in Robox! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/robox-og.jpg",
+      "url": "https://littlegames.com/games/robox",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Robox - Play Free Now",
+      "description": "Join the action in Robox! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/robox-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Robox",
+      "href": "/games/robox",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_642",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

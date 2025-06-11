@@ -1,0 +1,54 @@
+{
+  "gameId": 1709,
+  "slug": "animal-paint",
+  "metadata": {
+    "title": "ANIMAL PAINT - Brain Training Puzzle Challenge",
+    "description": "ANIMAL PAINT offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "ANIMAL PAINT",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/animal-paint",
+    "openGraph": {
+      "title": "ANIMAL PAINT - Brain Training Puzzle Challenge",
+      "description": "ANIMAL PAINT offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/animal-paint-og.jpg",
+      "url": "https://littlegames.com/games/animal-paint",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ANIMAL PAINT - Brain Training Puzzle Challenge",
+      "description": "ANIMAL PAINT offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/animal-paint-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "ANIMAL PAINT",
+      "href": "/games/animal-paint",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_985",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5655,
+  "slug": "roller-coaster",
+  "metadata": {
+    "title": "Play Roller Coaster - Free Action Game Online",
+    "description": "Experience thrilling action in Roller Coaster! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Roller Coaster game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/roller-coaster",
+    "openGraph": {
+      "title": "Play Roller Coaster - Free Action Game Online",
+      "description": "Experience thrilling action in Roller Coaster! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/roller-coaster-og.jpg",
+      "url": "https://littlegames.com/games/roller-coaster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Roller Coaster - Free Action Game Online",
+      "description": "Experience thrilling action in Roller Coaster! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/roller-coaster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Roller Coaster",
+      "href": "/games/roller-coaster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_311",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

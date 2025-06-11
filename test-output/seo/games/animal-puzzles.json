@@ -1,0 +1,54 @@
+{
+  "gameId": 2260,
+  "slug": "animal-puzzles",
+  "metadata": {
+    "title": "Puzzle Game Animal Puzzles - Test Your Skills",
+    "description": "Sharpen your mind with Animal Puzzles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Animal Puzzles online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/animal-puzzles",
+    "openGraph": {
+      "title": "Puzzle Game Animal Puzzles - Test Your Skills",
+      "description": "Sharpen your mind with Animal Puzzles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/animal-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/animal-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Animal Puzzles - Test Your Skills",
+      "description": "Sharpen your mind with Animal Puzzles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/animal-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Animal Puzzles",
+      "href": "/games/animal-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_066",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "boyfriend",
+  "displayName": "Boyfriend",
+  "metadata": {
+    "title": "Boyfriend Games - Play Free Online",
+    "description": "Discover amazing boyfriend games! Play 5 free games with boyfriend theme. No downloads required.",
+    "keywords": [
+      "boyfriend games",
+      "free online games",
+      "browser games",
+      "boyfriend theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/boyfriend",
+    "openGraph": {
+      "title": "Boyfriend Games - Free Online Gaming",
+      "description": "Play the best boyfriend games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/boyfriend-og.jpg",
+      "url": "https://littlegames.com/tags/boyfriend",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Boyfriend Games - Free Online",
+      "description": "Play 5 free boyfriend games online.",
+      "image": "https://littlegames.com/images/tags/boyfriend-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Boyfriend",
+      "href": "/tags/boyfriend",
+      "current": true
+    }
+  ],
+  "description": "Discover games with boyfriend theme! Our collection includes 5 carefully selected games that feature boyfriend elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

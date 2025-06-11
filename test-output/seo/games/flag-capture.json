@@ -1,0 +1,54 @@
+{
+  "gameId": 6506,
+  "slug": "flag-capture",
+  "metadata": {
+    "title": "Action Game Flag Capture - Play Free Now",
+    "description": "Flag Capture delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Flag Capture",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/flag-capture",
+    "openGraph": {
+      "title": "Action Game Flag Capture - Play Free Now",
+      "description": "Flag Capture delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flag-capture-og.jpg",
+      "url": "https://littlegames.com/games/flag-capture",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Flag Capture - Play Free Now",
+      "description": "Flag Capture delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flag-capture-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flag Capture",
+      "href": "/games/flag-capture",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_692",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

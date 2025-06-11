@@ -1,0 +1,54 @@
+{
+  "gameId": 6941,
+  "slug": "pixel-knight-adventure",
+  "metadata": {
+    "title": "Adventure Game Pixel Knight Adventure - Journey Begins",
+    "description": "Embark on an epic journey in Pixel Knight Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+    "keywords": [
+      "play Pixel Knight Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-knight-adventure",
+    "openGraph": {
+      "title": "Adventure Game Pixel Knight Adventure - Journey Begins",
+      "description": "Embark on an epic journey in Pixel Knight Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+      "image": "https://littlegames.com/images/games/pixel-knight-adventure-og.jpg",
+      "url": "https://littlegames.com/games/pixel-knight-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Pixel Knight Adventure - Journey Begins",
+      "description": "Embark on an epic journey in Pixel Knight Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/pixel-knight-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pixel Knight Adventure",
+      "href": "/games/pixel-knight-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_180",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

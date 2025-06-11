@@ -1,0 +1,54 @@
+{
+  "gameId": 4338,
+  "slug": "under-the-rubble",
+  "metadata": {
+    "title": "Action Game Under The Rubble - Play Free Now",
+    "description": "Under The Rubble delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Under The Rubble",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/under-the-rubble",
+    "openGraph": {
+      "title": "Action Game Under The Rubble - Play Free Now",
+      "description": "Under The Rubble delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/under-the-rubble-og.jpg",
+      "url": "https://littlegames.com/games/under-the-rubble",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Under The Rubble - Play Free Now",
+      "description": "Under The Rubble delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/under-the-rubble-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Under The Rubble",
+      "href": "/games/under-the-rubble",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_484",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

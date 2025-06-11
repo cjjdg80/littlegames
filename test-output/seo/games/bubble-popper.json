@@ -1,0 +1,54 @@
+{
+  "gameId": 4388,
+  "slug": "bubble-popper",
+  "metadata": {
+    "title": "Action Game Bubble Popper - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Bubble Popper. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Bubble Popper",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-popper",
+    "openGraph": {
+      "title": "Action Game Bubble Popper - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Bubble Popper. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-popper-og.jpg",
+      "url": "https://littlegames.com/games/bubble-popper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bubble Popper - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Bubble Popper. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-popper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bubble Popper",
+      "href": "/games/bubble-popper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_034",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

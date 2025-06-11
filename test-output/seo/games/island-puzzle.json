@@ -1,0 +1,54 @@
+{
+  "gameId": 2725,
+  "slug": "island-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Island Puzzle - Test Your Skills",
+    "description": "Put your thinking skills to the test in Island Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Island Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/island-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Island Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Island Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/island-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/island-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Island Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Island Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/island-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Island Puzzle",
+      "href": "/games/island-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_481",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

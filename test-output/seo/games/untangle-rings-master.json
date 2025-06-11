@@ -1,0 +1,54 @@
+{
+  "gameId": 7683,
+  "slug": "untangle-rings-master",
+  "metadata": {
+    "title": "Untangle Rings Master - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Untangle Rings Master. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Untangle Rings Master",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/untangle-rings-master",
+    "openGraph": {
+      "title": "Untangle Rings Master - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Untangle Rings Master. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/untangle-rings-master-og.jpg",
+      "url": "https://littlegames.com/games/untangle-rings-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Untangle Rings Master - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Untangle Rings Master. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/untangle-rings-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Untangle Rings Master",
+      "href": "/games/untangle-rings-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_179",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5340,
+  "slug": "space-escape",
+  "metadata": {
+    "title": "Action Game Space Escape - Play Free Now",
+    "description": "Experience thrilling action in Space Escape! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Space Escape game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/space-escape",
+    "openGraph": {
+      "title": "Action Game Space Escape - Play Free Now",
+      "description": "Experience thrilling action in Space Escape! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/space-escape-og.jpg",
+      "url": "https://littlegames.com/games/space-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Space Escape - Play Free Now",
+      "description": "Experience thrilling action in Space Escape! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/space-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Space Escape",
+      "href": "/games/space-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_546",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

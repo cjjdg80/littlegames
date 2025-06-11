@@ -1,0 +1,54 @@
+{
+  "gameId": 5377,
+  "slug": "ice-fishing",
+  "metadata": {
+    "title": "Free Ice Fishing Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Ice Fishing. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Ice Fishing online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ice-fishing",
+    "openGraph": {
+      "title": "Free Ice Fishing Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Ice Fishing. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ice-fishing-og.jpg",
+      "url": "https://littlegames.com/games/ice-fishing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ice Fishing Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Ice Fishing. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ice-fishing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Ice Fishing",
+      "href": "/games/ice-fishing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_693",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

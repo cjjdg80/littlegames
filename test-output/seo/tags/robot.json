@@ -1,0 +1,46 @@
+{
+  "tag": "robot",
+  "displayName": "Robot",
+  "metadata": {
+    "title": "Robot Games - Play Free Online",
+    "description": "Discover amazing robot games! Play 40 free games with robot theme. No downloads required.",
+    "keywords": [
+      "robot games",
+      "free online games",
+      "browser games",
+      "robot theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/robot",
+    "openGraph": {
+      "title": "Robot Games - Free Online Gaming",
+      "description": "Play the best robot games online for free. 40 games available.",
+      "image": "https://littlegames.com/images/tags/robot-og.jpg",
+      "url": "https://littlegames.com/tags/robot",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Robot Games - Free Online",
+      "description": "Play 40 free robot games online.",
+      "image": "https://littlegames.com/images/tags/robot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Robot",
+      "href": "/tags/robot",
+      "current": true
+    }
+  ],
+  "description": "Discover games with robot theme! Our collection includes 40 carefully selected games that feature robot elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

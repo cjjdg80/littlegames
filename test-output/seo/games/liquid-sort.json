@@ -1,0 +1,54 @@
+{
+  "gameId": 5006,
+  "slug": "liquid-sort",
+  "metadata": {
+    "title": "Liquid Sort Online - Logic and Strategy Game",
+    "description": "Liquid Sort offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Liquid Sort",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/liquid-sort",
+    "openGraph": {
+      "title": "Liquid Sort Online - Logic and Strategy Game",
+      "description": "Liquid Sort offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/liquid-sort-og.jpg",
+      "url": "https://littlegames.com/games/liquid-sort",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Liquid Sort Online - Logic and Strategy Game",
+      "description": "Liquid Sort offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/liquid-sort-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Liquid Sort",
+      "href": "/games/liquid-sort",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_192",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4768,
+  "slug": "cut-grass",
+  "metadata": {
+    "title": "Cut Grass Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cut Grass. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Cut Grass",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cut-grass",
+    "openGraph": {
+      "title": "Cut Grass Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cut Grass. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cut-grass-og.jpg",
+      "url": "https://littlegames.com/games/cut-grass",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cut Grass Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cut Grass. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cut-grass-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cut Grass",
+      "href": "/games/cut-grass",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_814",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

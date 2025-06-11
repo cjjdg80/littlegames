@@ -1,0 +1,54 @@
+{
+  "gameId": 2514,
+  "slug": "jumping-box",
+  "metadata": {
+    "title": "Puzzle Game Jumping Box - Test Your Skills",
+    "description": "Put your thinking skills to the test in Jumping Box. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Jumping Box game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jumping-box",
+    "openGraph": {
+      "title": "Puzzle Game Jumping Box - Test Your Skills",
+      "description": "Put your thinking skills to the test in Jumping Box. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jumping-box-og.jpg",
+      "url": "https://littlegames.com/games/jumping-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Jumping Box - Test Your Skills",
+      "description": "Put your thinking skills to the test in Jumping Box. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jumping-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jumping Box",
+      "href": "/games/jumping-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_940",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

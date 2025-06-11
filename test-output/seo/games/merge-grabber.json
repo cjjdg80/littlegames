@@ -1,0 +1,54 @@
+{
+  "gameId": 6814,
+  "slug": "merge-grabber",
+  "metadata": {
+    "title": "Merge Grabber - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Merge Grabber. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Merge Grabber online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/merge-grabber",
+    "openGraph": {
+      "title": "Merge Grabber - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Merge Grabber. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/merge-grabber-og.jpg",
+      "url": "https://littlegames.com/games/merge-grabber",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Grabber - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Merge Grabber. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/merge-grabber-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Grabber",
+      "href": "/games/merge-grabber",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_240",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

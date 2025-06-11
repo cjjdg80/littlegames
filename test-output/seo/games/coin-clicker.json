@@ -1,0 +1,54 @@
+{
+  "gameId": 6431,
+  "slug": "coin-clicker",
+  "metadata": {
+    "title": "Play Coin Clicker - Free Action Game Online",
+    "description": "Coin Clicker delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Coin Clicker",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/coin-clicker",
+    "openGraph": {
+      "title": "Play Coin Clicker - Free Action Game Online",
+      "description": "Coin Clicker delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/coin-clicker-og.jpg",
+      "url": "https://littlegames.com/games/coin-clicker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Coin Clicker - Free Action Game Online",
+      "description": "Coin Clicker delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/coin-clicker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Coin Clicker",
+      "href": "/games/coin-clicker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_367",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

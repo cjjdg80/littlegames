@@ -1,0 +1,54 @@
+{
+  "gameId": 9583,
+  "slug": "word-rush",
+  "metadata": {
+    "title": "Word Rush Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Word Rush. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Word Rush",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/word-rush",
+    "openGraph": {
+      "title": "Word Rush Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Word Rush. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/word-rush-og.jpg",
+      "url": "https://littlegames.com/games/word-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Rush Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Word Rush. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/word-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Word Rush",
+      "href": "/games/word-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_079",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

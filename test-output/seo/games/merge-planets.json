@@ -1,0 +1,54 @@
+{
+  "gameId": 9635,
+  "slug": "merge-planets",
+  "metadata": {
+    "title": "Free Merge Planets Game - Action Packed Fun",
+    "description": "Join the action in Merge Planets! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Merge Planets game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/merge-planets",
+    "openGraph": {
+      "title": "Free Merge Planets Game - Action Packed Fun",
+      "description": "Join the action in Merge Planets! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-planets-og.jpg",
+      "url": "https://littlegames.com/games/merge-planets",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge Planets Game - Action Packed Fun",
+      "description": "Join the action in Merge Planets! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-planets-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Planets",
+      "href": "/games/merge-planets",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_691",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3904,
+  "slug": "matching-santa",
+  "metadata": {
+    "title": "Matching Santa Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Matching Santa. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Matching Santa",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/matching-santa",
+    "openGraph": {
+      "title": "Matching Santa Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Matching Santa. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/matching-santa-og.jpg",
+      "url": "https://littlegames.com/games/matching-santa",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Matching Santa Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Matching Santa. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/matching-santa-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Matching Santa",
+      "href": "/games/matching-santa",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_030",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

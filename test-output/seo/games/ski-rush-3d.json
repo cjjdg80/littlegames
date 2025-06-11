@@ -1,0 +1,54 @@
+{
+  "gameId": 4601,
+  "slug": "ski-rush-3d",
+  "metadata": {
+    "title": "Ski Rush 3D - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Ski Rush 3D. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Ski Rush 3D online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ski-rush-3d",
+    "openGraph": {
+      "title": "Ski Rush 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Ski Rush 3D. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ski-rush-3d-og.jpg",
+      "url": "https://littlegames.com/games/ski-rush-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ski Rush 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Ski Rush 3D. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ski-rush-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Ski Rush 3D",
+      "href": "/games/ski-rush-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_637",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

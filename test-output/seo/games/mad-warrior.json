@@ -1,0 +1,54 @@
+{
+  "gameId": 2680,
+  "slug": "mad-warrior",
+  "metadata": {
+    "title": "Free Mad Warrior Game - Action Packed Fun",
+    "description": "Join the action in Mad Warrior! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Mad Warrior",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mad-warrior",
+    "openGraph": {
+      "title": "Free Mad Warrior Game - Action Packed Fun",
+      "description": "Join the action in Mad Warrior! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mad-warrior-og.jpg",
+      "url": "https://littlegames.com/games/mad-warrior",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mad Warrior Game - Action Packed Fun",
+      "description": "Join the action in Mad Warrior! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mad-warrior-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mad Warrior",
+      "href": "/games/mad-warrior",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_086",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

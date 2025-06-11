@@ -1,0 +1,54 @@
+{
+  "gameId": 5995,
+  "slug": "air-lift",
+  "metadata": {
+    "title": "Free Air Lift Game - Adventure Awaits",
+    "description": "Begin your quest in Air Lift. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Air Lift game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/air-lift",
+    "openGraph": {
+      "title": "Free Air Lift Game - Adventure Awaits",
+      "description": "Begin your quest in Air Lift. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/air-lift-og.jpg",
+      "url": "https://littlegames.com/games/air-lift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Air Lift Game - Adventure Awaits",
+      "description": "Begin your quest in Air Lift. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/air-lift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Air Lift",
+      "href": "/games/air-lift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_854",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

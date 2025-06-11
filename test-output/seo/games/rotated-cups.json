@@ -1,0 +1,54 @@
+{
+  "gameId": 2208,
+  "slug": "rotated-cups",
+  "metadata": {
+    "title": "Rotated Cups - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Rotated Cups. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Rotated Cups",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/rotated-cups",
+    "openGraph": {
+      "title": "Rotated Cups - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Rotated Cups. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/rotated-cups-og.jpg",
+      "url": "https://littlegames.com/games/rotated-cups",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rotated Cups - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Rotated Cups. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/rotated-cups-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Rotated Cups",
+      "href": "/games/rotated-cups",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_454",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6118,
+  "slug": "animal-jump",
+  "metadata": {
+    "title": "Animal Jump - Thrilling Adventure Quest",
+    "description": "Animal Jump offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "play Animal Jump",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/animal-jump",
+    "openGraph": {
+      "title": "Animal Jump - Thrilling Adventure Quest",
+      "description": "Animal Jump offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/animal-jump-og.jpg",
+      "url": "https://littlegames.com/games/animal-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animal Jump - Thrilling Adventure Quest",
+      "description": "Animal Jump offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/animal-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Animal Jump",
+      "href": "/games/animal-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_667",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

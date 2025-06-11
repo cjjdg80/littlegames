@@ -1,0 +1,54 @@
+{
+  "gameId": 8832,
+  "slug": "stumble-guys",
+  "metadata": {
+    "title": "Stumble Guys Online - Ultimate Action Gaming Experience",
+    "description": "Stumble Guys delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Stumble Guys",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stumble-guys",
+    "openGraph": {
+      "title": "Stumble Guys Online - Ultimate Action Gaming Experience",
+      "description": "Stumble Guys delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stumble-guys-og.jpg",
+      "url": "https://littlegames.com/games/stumble-guys",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stumble Guys Online - Ultimate Action Gaming Experience",
+      "description": "Stumble Guys delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stumble-guys-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stumble Guys",
+      "href": "/games/stumble-guys",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_798",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

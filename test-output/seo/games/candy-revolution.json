@@ -1,0 +1,54 @@
+{
+  "gameId": 4461,
+  "slug": "candy-revolution",
+  "metadata": {
+    "title": "Candy Revolution Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Candy Revolution! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Candy Revolution",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/candy-revolution",
+    "openGraph": {
+      "title": "Candy Revolution Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Candy Revolution! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/candy-revolution-og.jpg",
+      "url": "https://littlegames.com/games/candy-revolution",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Candy Revolution Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Candy Revolution! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/candy-revolution-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Candy Revolution",
+      "href": "/games/candy-revolution",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_297",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

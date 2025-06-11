@@ -1,0 +1,54 @@
+{
+  "gameId": 5941,
+  "slug": "electric-racer",
+  "metadata": {
+    "title": "Free Electric Racer Game - Action Packed Fun",
+    "description": "Electric Racer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Electric Racer",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/electric-racer",
+    "openGraph": {
+      "title": "Free Electric Racer Game - Action Packed Fun",
+      "description": "Electric Racer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/electric-racer-og.jpg",
+      "url": "https://littlegames.com/games/electric-racer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Electric Racer Game - Action Packed Fun",
+      "description": "Electric Racer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/electric-racer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Electric Racer",
+      "href": "/games/electric-racer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_177",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

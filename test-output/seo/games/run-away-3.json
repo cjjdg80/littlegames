@@ -1,0 +1,54 @@
+{
+  "gameId": 5151,
+  "slug": "run-away-3",
+  "metadata": {
+    "title": "Adventure Game Run Away 3 - Journey Begins",
+    "description": "Start your epic journey with Run Away 3! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Run Away 3 game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/run-away-3",
+    "openGraph": {
+      "title": "Adventure Game Run Away 3 - Journey Begins",
+      "description": "Start your epic journey with Run Away 3! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/run-away-3-og.jpg",
+      "url": "https://littlegames.com/games/run-away-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Run Away 3 - Journey Begins",
+      "description": "Start your epic journey with Run Away 3! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/run-away-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Run Away 3",
+      "href": "/games/run-away-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_690",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4545,
+  "slug": "word-search-animals",
+  "metadata": {
+    "title": "Puzzle Game Word Search Animals - Test Your Skills",
+    "description": "Challenge your mind with Word Search Animals! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "puzzle games",
+      "Word Search Animals",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/word-search-animals",
+    "openGraph": {
+      "title": "Puzzle Game Word Search Animals - Test Your Skills",
+      "description": "Challenge your mind with Word Search Animals! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/word-search-animals-og.jpg",
+      "url": "https://littlegames.com/games/word-search-animals",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Word Search Animals - Test Your Skills",
+      "description": "Challenge your mind with Word Search Animals! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/word-search-animals-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Word Search Animals",
+      "href": "/games/word-search-animals",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_901",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

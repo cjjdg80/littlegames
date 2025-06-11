@@ -1,0 +1,54 @@
+{
+  "gameId": 1947,
+  "slug": "cube-flip",
+  "metadata": {
+    "title": "Cube Flip Online - Ultimate Action Gaming Experience",
+    "description": "Cube Flip delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Cube Flip",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/cube-flip",
+    "openGraph": {
+      "title": "Cube Flip Online - Ultimate Action Gaming Experience",
+      "description": "Cube Flip delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cube-flip-og.jpg",
+      "url": "https://littlegames.com/games/cube-flip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cube Flip Online - Ultimate Action Gaming Experience",
+      "description": "Cube Flip delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cube-flip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cube Flip",
+      "href": "/games/cube-flip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_363",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

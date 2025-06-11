@@ -1,0 +1,54 @@
+{
+  "gameId": 1691,
+  "slug": "cash-back",
+  "metadata": {
+    "title": "Cash Back - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Cash Back. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Cash Back",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/cash-back",
+    "openGraph": {
+      "title": "Cash Back - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Cash Back. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cash-back-og.jpg",
+      "url": "https://littlegames.com/games/cash-back",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cash Back - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Cash Back. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cash-back-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cash Back",
+      "href": "/games/cash-back",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_427",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9369,
+  "slug": "pet-runner",
+  "metadata": {
+    "title": "Free Pet Runner Game - Adventure Awaits",
+    "description": "Pet Runner offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "Pet Runner online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/pet-runner",
+    "openGraph": {
+      "title": "Free Pet Runner Game - Adventure Awaits",
+      "description": "Pet Runner offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/pet-runner-og.jpg",
+      "url": "https://littlegames.com/games/pet-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pet Runner Game - Adventure Awaits",
+      "description": "Pet Runner offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/pet-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pet Runner",
+      "href": "/games/pet-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_448",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

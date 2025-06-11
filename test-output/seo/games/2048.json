@@ -1,0 +1,54 @@
+{
+  "gameId": 3656,
+  "slug": "2048",
+  "metadata": {
+    "title": "2048 - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in 2048. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "2048 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/2048",
+    "openGraph": {
+      "title": "2048 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in 2048. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2048-og.jpg",
+      "url": "https://littlegames.com/games/2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2048 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in 2048. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2048",
+      "href": "/games/2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_342",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

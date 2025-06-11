@@ -1,0 +1,54 @@
+{
+  "gameId": 4524,
+  "slug": "cats-rotate",
+  "metadata": {
+    "title": "Puzzle Game Cats Rotate - Test Your Skills",
+    "description": "Put your thinking skills to the test in Cats Rotate. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Cats Rotate",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/cats-rotate",
+    "openGraph": {
+      "title": "Puzzle Game Cats Rotate - Test Your Skills",
+      "description": "Put your thinking skills to the test in Cats Rotate. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/cats-rotate-og.jpg",
+      "url": "https://littlegames.com/games/cats-rotate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Cats Rotate - Test Your Skills",
+      "description": "Put your thinking skills to the test in Cats Rotate. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/cats-rotate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cats Rotate",
+      "href": "/games/cats-rotate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_250",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

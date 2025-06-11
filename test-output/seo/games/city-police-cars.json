@@ -1,0 +1,54 @@
+{
+  "gameId": 3273,
+  "slug": "city-police-cars",
+  "metadata": {
+    "title": "City Police Cars Online - Ultimate Action Gaming Experience",
+    "description": "City Police Cars delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "City Police Cars game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/city-police-cars",
+    "openGraph": {
+      "title": "City Police Cars Online - Ultimate Action Gaming Experience",
+      "description": "City Police Cars delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/city-police-cars-og.jpg",
+      "url": "https://littlegames.com/games/city-police-cars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "City Police Cars Online - Ultimate Action Gaming Experience",
+      "description": "City Police Cars delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/city-police-cars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "City Police Cars",
+      "href": "/games/city-police-cars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_469",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

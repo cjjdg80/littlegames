@@ -1,0 +1,46 @@
+{
+  "tag": "matching",
+  "displayName": "Matching",
+  "metadata": {
+    "title": "Matching Games - Play Free Online",
+    "description": "Discover amazing matching games! Play 449 free games with matching theme. No downloads required.",
+    "keywords": [
+      "matching games",
+      "free online games",
+      "browser games",
+      "matching theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/matching",
+    "openGraph": {
+      "title": "Matching Games - Free Online Gaming",
+      "description": "Play the best matching games online for free. 449 games available.",
+      "image": "https://littlegames.com/images/tags/matching-og.jpg",
+      "url": "https://littlegames.com/tags/matching",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Matching Games - Free Online",
+      "description": "Play 449 free matching games online.",
+      "image": "https://littlegames.com/images/tags/matching-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Matching",
+      "href": "/tags/matching",
+      "current": true
+    }
+  ],
+  "description": "Discover games with matching theme! Our collection includes 449 carefully selected games that feature matching elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6022,
+  "slug": "2k-shoot",
+  "metadata": {
+    "title": "Action Game 2K Shoot - Play Free Now",
+    "description": "2K Shoot delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play 2K Shoot",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/2k-shoot",
+    "openGraph": {
+      "title": "Action Game 2K Shoot - Play Free Now",
+      "description": "2K Shoot delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2k-shoot-og.jpg",
+      "url": "https://littlegames.com/games/2k-shoot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game 2K Shoot - Play Free Now",
+      "description": "2K Shoot delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2k-shoot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2K Shoot",
+      "href": "/games/2k-shoot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_688",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

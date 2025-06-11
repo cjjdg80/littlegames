@@ -1,0 +1,54 @@
+{
+  "gameId": 308,
+  "slug": "ball-rotate",
+  "metadata": {
+    "title": "Ball Rotate - Brain Training Puzzle Challenge",
+    "description": "Ball Rotate offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Ball Rotate",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/ball-rotate",
+    "openGraph": {
+      "title": "Ball Rotate - Brain Training Puzzle Challenge",
+      "description": "Ball Rotate offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/ball-rotate-og.jpg",
+      "url": "https://littlegames.com/games/ball-rotate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Rotate - Brain Training Puzzle Challenge",
+      "description": "Ball Rotate offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/ball-rotate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ball Rotate",
+      "href": "/games/ball-rotate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_554",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

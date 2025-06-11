@@ -1,0 +1,54 @@
+{
+  "gameId": 2048,
+  "slug": "gp-ski-slalom",
+  "metadata": {
+    "title": "GP Ski Slalom - Exciting Action Adventure Game",
+    "description": "GP Ski Slalom delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "GP Ski Slalom game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/gp-ski-slalom",
+    "openGraph": {
+      "title": "GP Ski Slalom - Exciting Action Adventure Game",
+      "description": "GP Ski Slalom delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gp-ski-slalom-og.jpg",
+      "url": "https://littlegames.com/games/gp-ski-slalom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "GP Ski Slalom - Exciting Action Adventure Game",
+      "description": "GP Ski Slalom delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gp-ski-slalom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "GP Ski Slalom",
+      "href": "/games/gp-ski-slalom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_494",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

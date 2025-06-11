@@ -1,0 +1,54 @@
+{
+  "gameId": 3385,
+  "slug": "linquest",
+  "metadata": {
+    "title": "LinQuest - Thrilling Adventure Quest",
+    "description": "Begin your quest in LinQuest. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "LinQuest",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/linquest",
+    "openGraph": {
+      "title": "LinQuest - Thrilling Adventure Quest",
+      "description": "Begin your quest in LinQuest. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/linquest-og.jpg",
+      "url": "https://littlegames.com/games/linquest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "LinQuest - Thrilling Adventure Quest",
+      "description": "Begin your quest in LinQuest. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/linquest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "LinQuest",
+      "href": "/games/linquest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_944",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

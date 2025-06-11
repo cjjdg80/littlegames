@@ -1,0 +1,46 @@
+{
+  "tag": "dotted",
+  "displayName": "Dotted",
+  "metadata": {
+    "title": "Dotted Games - Play Free Online",
+    "description": "Discover amazing dotted games! Play 1 free games with dotted theme. No downloads required.",
+    "keywords": [
+      "dotted games",
+      "free online games",
+      "browser games",
+      "dotted theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/dotted",
+    "openGraph": {
+      "title": "Dotted Games - Free Online Gaming",
+      "description": "Play the best dotted games online for free. 1 games available.",
+      "image": "https://littlegames.com/images/tags/dotted-og.jpg",
+      "url": "https://littlegames.com/tags/dotted",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dotted Games - Free Online",
+      "description": "Play 1 free dotted games online.",
+      "image": "https://littlegames.com/images/tags/dotted-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dotted",
+      "href": "/tags/dotted",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dotted theme! Our collection includes 1 carefully selected games that feature dotted elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

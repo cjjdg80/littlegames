@@ -1,0 +1,54 @@
+{
+  "gameId": 5126,
+  "slug": "bro-draw-it",
+  "metadata": {
+    "title": "Bro draw it - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Bro draw it. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Bro draw it game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/bro-draw-it",
+    "openGraph": {
+      "title": "Bro draw it - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Bro draw it. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/bro-draw-it-og.jpg",
+      "url": "https://littlegames.com/games/bro-draw-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bro draw it - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Bro draw it. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/bro-draw-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bro draw it",
+      "href": "/games/bro-draw-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_912",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

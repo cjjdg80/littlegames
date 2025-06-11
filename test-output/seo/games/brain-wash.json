@@ -1,0 +1,54 @@
+{
+  "gameId": 2067,
+  "slug": "brain-wash",
+  "metadata": {
+    "title": "Action Game Brain Wash - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Brain Wash. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Brain Wash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/brain-wash",
+    "openGraph": {
+      "title": "Action Game Brain Wash - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Brain Wash. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/brain-wash-og.jpg",
+      "url": "https://littlegames.com/games/brain-wash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Brain Wash - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Brain Wash. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/brain-wash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Brain Wash",
+      "href": "/games/brain-wash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_083",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

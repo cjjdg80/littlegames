@@ -1,0 +1,54 @@
+{
+  "gameId": 4855,
+  "slug": "jumping-together",
+  "metadata": {
+    "title": "Play Jumping Together - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Jumping Together. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Jumping Together",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/jumping-together",
+    "openGraph": {
+      "title": "Play Jumping Together - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Jumping Together. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jumping-together-og.jpg",
+      "url": "https://littlegames.com/games/jumping-together",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jumping Together - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Jumping Together. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jumping-together-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jumping Together",
+      "href": "/games/jumping-together",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_511",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

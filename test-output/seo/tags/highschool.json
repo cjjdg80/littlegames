@@ -1,0 +1,46 @@
+{
+  "tag": "highschool",
+  "displayName": "Highschool",
+  "metadata": {
+    "title": "Highschool Games - Play Free Online",
+    "description": "Discover amazing highschool games! Play 15 free games with highschool theme. No downloads required.",
+    "keywords": [
+      "highschool games",
+      "free online games",
+      "browser games",
+      "highschool theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/highschool",
+    "openGraph": {
+      "title": "Highschool Games - Free Online Gaming",
+      "description": "Play the best highschool games online for free. 15 games available.",
+      "image": "https://littlegames.com/images/tags/highschool-og.jpg",
+      "url": "https://littlegames.com/tags/highschool",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Highschool Games - Free Online",
+      "description": "Play 15 free highschool games online.",
+      "image": "https://littlegames.com/images/tags/highschool-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Highschool",
+      "href": "/tags/highschool",
+      "current": true
+    }
+  ],
+  "description": "Discover games with highschool theme! Our collection includes 15 carefully selected games that feature highschool elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

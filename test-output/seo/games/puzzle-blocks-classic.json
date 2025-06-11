@@ -1,0 +1,54 @@
+{
+  "gameId": 9435,
+  "slug": "puzzle-blocks-classic",
+  "metadata": {
+    "title": "Puzzle Blocks Classic Online - Logic and Strategy Game",
+    "description": "Puzzle Blocks Classic offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "Puzzle Blocks Classic online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-blocks-classic",
+    "openGraph": {
+      "title": "Puzzle Blocks Classic Online - Logic and Strategy Game",
+      "description": "Puzzle Blocks Classic offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/puzzle-blocks-classic-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-blocks-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Blocks Classic Online - Logic and Strategy Game",
+      "description": "Puzzle Blocks Classic offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/puzzle-blocks-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Blocks Classic",
+      "href": "/games/puzzle-blocks-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_491",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3979,
+  "slug": "candy-pop",
+  "metadata": {
+    "title": "Candy Pop Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Candy Pop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Candy Pop",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/candy-pop",
+    "openGraph": {
+      "title": "Candy Pop Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Candy Pop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-pop-og.jpg",
+      "url": "https://littlegames.com/games/candy-pop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Candy Pop Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Candy Pop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-pop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Candy Pop",
+      "href": "/games/candy-pop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_355",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2307,
+  "slug": "jumping-whooper",
+  "metadata": {
+    "title": "Action Game Jumping Whooper - Play Free Now",
+    "description": "Join the action in Jumping Whooper! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Jumping Whooper",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jumping-whooper",
+    "openGraph": {
+      "title": "Action Game Jumping Whooper - Play Free Now",
+      "description": "Join the action in Jumping Whooper! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jumping-whooper-og.jpg",
+      "url": "https://littlegames.com/games/jumping-whooper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Jumping Whooper - Play Free Now",
+      "description": "Join the action in Jumping Whooper! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jumping-whooper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jumping Whooper",
+      "href": "/games/jumping-whooper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_523",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

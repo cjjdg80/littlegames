@@ -1,0 +1,54 @@
+{
+  "gameId": 5501,
+  "slug": "odd-elimination",
+  "metadata": {
+    "title": "Free Odd Elimination Game - Mind Bending Puzzles",
+    "description": "Odd Elimination offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Odd Elimination",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/odd-elimination",
+    "openGraph": {
+      "title": "Free Odd Elimination Game - Mind Bending Puzzles",
+      "description": "Odd Elimination offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/odd-elimination-og.jpg",
+      "url": "https://littlegames.com/games/odd-elimination",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Odd Elimination Game - Mind Bending Puzzles",
+      "description": "Odd Elimination offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/odd-elimination-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Odd Elimination",
+      "href": "/games/odd-elimination",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_537",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1120,
+  "slug": "bullet-shooter",
+  "metadata": {
+    "title": "Bullet Shooter Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Bullet Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Bullet Shooter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-shooter",
+    "openGraph": {
+      "title": "Bullet Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Bullet Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/bullet-shooter-og.jpg",
+      "url": "https://littlegames.com/games/bullet-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bullet Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Bullet Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bullet-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bullet Shooter",
+      "href": "/games/bullet-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_726",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

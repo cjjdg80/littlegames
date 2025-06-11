@@ -1,0 +1,54 @@
+{
+  "gameId": 701,
+  "slug": "trivialio",
+  "metadata": {
+    "title": "Action Game Trivial.io - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Trivial.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Trivial.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/trivialio",
+    "openGraph": {
+      "title": "Action Game Trivial.io - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Trivial.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/trivialio-og.jpg",
+      "url": "https://littlegames.com/games/trivialio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Trivial.io - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Trivial.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/trivialio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Trivial.io",
+      "href": "/games/trivialio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_737",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

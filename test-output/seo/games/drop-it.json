@@ -1,0 +1,54 @@
+{
+  "gameId": 7107,
+  "slug": "drop-it",
+  "metadata": {
+    "title": "Free Drop It Game - Action Packed Fun",
+    "description": "Experience thrilling action in Drop It! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Drop It",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/drop-it",
+    "openGraph": {
+      "title": "Free Drop It Game - Action Packed Fun",
+      "description": "Experience thrilling action in Drop It! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/drop-it-og.jpg",
+      "url": "https://littlegames.com/games/drop-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drop It Game - Action Packed Fun",
+      "description": "Experience thrilling action in Drop It! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/drop-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Drop It",
+      "href": "/games/drop-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_323",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

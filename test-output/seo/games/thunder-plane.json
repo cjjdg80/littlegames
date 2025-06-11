@@ -1,0 +1,54 @@
+{
+  "gameId": 447,
+  "slug": "thunder-plane",
+  "metadata": {
+    "title": "Thunder Plane - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Thunder Plane. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Thunder Plane",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/thunder-plane",
+    "openGraph": {
+      "title": "Thunder Plane - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Thunder Plane. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/thunder-plane-og.jpg",
+      "url": "https://littlegames.com/games/thunder-plane",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Thunder Plane - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Thunder Plane. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/thunder-plane-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Thunder Plane",
+      "href": "/games/thunder-plane",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_863",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

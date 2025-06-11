@@ -1,0 +1,54 @@
+{
+  "gameId": 2783,
+  "slug": "happy-milk-glass",
+  "metadata": {
+    "title": "Happy Milk Glass Online - Ultimate Action Gaming Experience",
+    "description": "Happy Milk Glass delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Happy Milk Glass",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/happy-milk-glass",
+    "openGraph": {
+      "title": "Happy Milk Glass Online - Ultimate Action Gaming Experience",
+      "description": "Happy Milk Glass delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/happy-milk-glass-og.jpg",
+      "url": "https://littlegames.com/games/happy-milk-glass",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Happy Milk Glass Online - Ultimate Action Gaming Experience",
+      "description": "Happy Milk Glass delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/happy-milk-glass-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Happy Milk Glass",
+      "href": "/games/happy-milk-glass",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_279",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

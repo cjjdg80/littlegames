@@ -1,0 +1,54 @@
+{
+  "gameId": 9236,
+  "slug": "run-n-shoot",
+  "metadata": {
+    "title": "Run N Shoot - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Run N Shoot. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Run N Shoot game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/run-n-shoot",
+    "openGraph": {
+      "title": "Run N Shoot - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Run N Shoot. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/run-n-shoot-og.jpg",
+      "url": "https://littlegames.com/games/run-n-shoot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Run N Shoot - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Run N Shoot. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/run-n-shoot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Run N Shoot",
+      "href": "/games/run-n-shoot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_322",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

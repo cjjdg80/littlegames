@@ -1,0 +1,54 @@
+{
+  "gameId": 2421,
+  "slug": "chrome-dino-run",
+  "metadata": {
+    "title": "Adventure Game Chrome Dino Run - Journey Begins",
+    "description": "Discover new worlds in Chrome Dino Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Chrome Dino Run",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/chrome-dino-run",
+    "openGraph": {
+      "title": "Adventure Game Chrome Dino Run - Journey Begins",
+      "description": "Discover new worlds in Chrome Dino Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/chrome-dino-run-og.jpg",
+      "url": "https://littlegames.com/games/chrome-dino-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Chrome Dino Run - Journey Begins",
+      "description": "Discover new worlds in Chrome Dino Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/chrome-dino-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Chrome Dino Run",
+      "href": "/games/chrome-dino-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_060",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

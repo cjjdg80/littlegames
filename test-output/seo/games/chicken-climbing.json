@@ -1,0 +1,54 @@
+{
+  "gameId": 3251,
+  "slug": "chicken-climbing",
+  "metadata": {
+    "title": "Action Game Chicken Climbing - Play Free Now",
+    "description": "Join the action in Chicken Climbing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Chicken Climbing",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/chicken-climbing",
+    "openGraph": {
+      "title": "Action Game Chicken Climbing - Play Free Now",
+      "description": "Join the action in Chicken Climbing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/chicken-climbing-og.jpg",
+      "url": "https://littlegames.com/games/chicken-climbing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Chicken Climbing - Play Free Now",
+      "description": "Join the action in Chicken Climbing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/chicken-climbing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Chicken Climbing",
+      "href": "/games/chicken-climbing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_787",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

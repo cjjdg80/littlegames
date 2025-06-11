@@ -1,0 +1,46 @@
+{
+  "tag": "hoops",
+  "displayName": "Hoops",
+  "metadata": {
+    "title": "Hoops Games - Play Free Online",
+    "description": "Discover amazing hoops games! Play 10 free games with hoops theme. No downloads required.",
+    "keywords": [
+      "hoops games",
+      "free online games",
+      "browser games",
+      "hoops theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/hoops",
+    "openGraph": {
+      "title": "Hoops Games - Free Online Gaming",
+      "description": "Play the best hoops games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/hoops-og.jpg",
+      "url": "https://littlegames.com/tags/hoops",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hoops Games - Free Online",
+      "description": "Play 10 free hoops games online.",
+      "image": "https://littlegames.com/images/tags/hoops-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hoops",
+      "href": "/tags/hoops",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hoops theme! Our collection includes 10 carefully selected games that feature hoops elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

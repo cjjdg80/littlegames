@@ -1,0 +1,54 @@
+{
+  "gameId": 5494,
+  "slug": "metazoa-jigsaw",
+  "metadata": {
+    "title": "Metazoa Jigsaw - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Metazoa Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Metazoa Jigsaw",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/metazoa-jigsaw",
+    "openGraph": {
+      "title": "Metazoa Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Metazoa Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/metazoa-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/metazoa-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Metazoa Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Metazoa Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/metazoa-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Metazoa Jigsaw",
+      "href": "/games/metazoa-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_320",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

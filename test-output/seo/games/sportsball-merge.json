@@ -1,0 +1,54 @@
+{
+  "gameId": 8687,
+  "slug": "sportsball-merge",
+  "metadata": {
+    "title": "Sportsball Merge Online - Ultimate Action Gaming Experience",
+    "description": "Sportsball Merge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Sportsball Merge",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/sportsball-merge",
+    "openGraph": {
+      "title": "Sportsball Merge Online - Ultimate Action Gaming Experience",
+      "description": "Sportsball Merge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sportsball-merge-og.jpg",
+      "url": "https://littlegames.com/games/sportsball-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sportsball Merge Online - Ultimate Action Gaming Experience",
+      "description": "Sportsball Merge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sportsball-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sportsball Merge",
+      "href": "/games/sportsball-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_303",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7158,
+  "slug": "halloween-mazes",
+  "metadata": {
+    "title": "Free Halloween Mazes Game - Mind Bending Puzzles",
+    "description": "Halloween Mazes offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Halloween Mazes online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-mazes",
+    "openGraph": {
+      "title": "Free Halloween Mazes Game - Mind Bending Puzzles",
+      "description": "Halloween Mazes offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/halloween-mazes-og.jpg",
+      "url": "https://littlegames.com/games/halloween-mazes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Halloween Mazes Game - Mind Bending Puzzles",
+      "description": "Halloween Mazes offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/halloween-mazes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Halloween Mazes",
+      "href": "/games/halloween-mazes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_904",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

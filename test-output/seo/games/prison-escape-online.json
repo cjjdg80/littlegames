@@ -1,0 +1,54 @@
+{
+  "gameId": 7741,
+  "slug": "prison-escape-online",
+  "metadata": {
+    "title": "Adventure Game Prison Escape Online - Journey Begins",
+    "description": "Start your epic journey with Prison Escape Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Prison Escape Online",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/prison-escape-online",
+    "openGraph": {
+      "title": "Adventure Game Prison Escape Online - Journey Begins",
+      "description": "Start your epic journey with Prison Escape Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/prison-escape-online-og.jpg",
+      "url": "https://littlegames.com/games/prison-escape-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Prison Escape Online - Journey Begins",
+      "description": "Start your epic journey with Prison Escape Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/prison-escape-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Prison Escape Online",
+      "href": "/games/prison-escape-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_980",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

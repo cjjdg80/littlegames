@@ -1,0 +1,54 @@
+{
+  "gameId": 3939,
+  "slug": "pig-ball-impostor",
+  "metadata": {
+    "title": "Pig Ball impostor Online - Explore and Discover",
+    "description": "Begin your quest in Pig Ball impostor. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Pig Ball impostor online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/pig-ball-impostor",
+    "openGraph": {
+      "title": "Pig Ball impostor Online - Explore and Discover",
+      "description": "Begin your quest in Pig Ball impostor. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/pig-ball-impostor-og.jpg",
+      "url": "https://littlegames.com/games/pig-ball-impostor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pig Ball impostor Online - Explore and Discover",
+      "description": "Begin your quest in Pig Ball impostor. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/pig-ball-impostor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pig Ball impostor",
+      "href": "/games/pig-ball-impostor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_118",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

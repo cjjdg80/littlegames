@@ -1,0 +1,54 @@
+{
+  "gameId": 233,
+  "slug": "resquack",
+  "metadata": {
+    "title": "Action Game Resquack - Play Free Now",
+    "description": "Resquack delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Resquack",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/resquack",
+    "openGraph": {
+      "title": "Action Game Resquack - Play Free Now",
+      "description": "Resquack delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/resquack-og.jpg",
+      "url": "https://littlegames.com/games/resquack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Resquack - Play Free Now",
+      "description": "Resquack delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/resquack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Resquack",
+      "href": "/games/resquack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_229",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

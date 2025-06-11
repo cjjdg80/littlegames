@@ -1,0 +1,54 @@
+{
+  "gameId": 7884,
+  "slug": "mini-springs",
+  "metadata": {
+    "title": "Mini Springs Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Mini Springs. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Mini Springs online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mini-springs",
+    "openGraph": {
+      "title": "Mini Springs Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mini Springs. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mini-springs-og.jpg",
+      "url": "https://littlegames.com/games/mini-springs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mini Springs Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mini Springs. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mini-springs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mini Springs",
+      "href": "/games/mini-springs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_410",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

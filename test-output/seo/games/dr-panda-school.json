@@ -1,0 +1,54 @@
+{
+  "gameId": 3377,
+  "slug": "dr-panda-school",
+  "metadata": {
+    "title": "Dr Panda School - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Dr Panda School! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Dr Panda School online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/dr-panda-school",
+    "openGraph": {
+      "title": "Dr Panda School - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Dr Panda School! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dr-panda-school-og.jpg",
+      "url": "https://littlegames.com/games/dr-panda-school",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dr Panda School - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Dr Panda School! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dr-panda-school-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dr Panda School",
+      "href": "/games/dr-panda-school",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_696",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

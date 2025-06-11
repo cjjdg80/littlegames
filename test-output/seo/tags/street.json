@@ -1,0 +1,46 @@
+{
+  "tag": "street",
+  "displayName": "Street",
+  "metadata": {
+    "title": "Street Games - Play Free Online",
+    "description": "Discover amazing street games! Play 10 free games with street theme. No downloads required.",
+    "keywords": [
+      "street games",
+      "free online games",
+      "browser games",
+      "street theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/street",
+    "openGraph": {
+      "title": "Street Games - Free Online Gaming",
+      "description": "Play the best street games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/street-og.jpg",
+      "url": "https://littlegames.com/tags/street",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Street Games - Free Online",
+      "description": "Play 10 free street games online.",
+      "image": "https://littlegames.com/images/tags/street-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Street",
+      "href": "/tags/street",
+      "current": true
+    }
+  ],
+  "description": "Discover games with street theme! Our collection includes 10 carefully selected games that feature street elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

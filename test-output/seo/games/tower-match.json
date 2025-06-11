@@ -1,0 +1,54 @@
+{
+  "gameId": 6499,
+  "slug": "tower-match",
+  "metadata": {
+    "title": "Free Tower Match Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Tower Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Tower Match",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tower-match",
+    "openGraph": {
+      "title": "Free Tower Match Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Tower Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/tower-match-og.jpg",
+      "url": "https://littlegames.com/games/tower-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tower Match Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Tower Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/tower-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tower Match",
+      "href": "/games/tower-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_475",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

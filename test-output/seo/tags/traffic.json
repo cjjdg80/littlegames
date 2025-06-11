@@ -1,0 +1,46 @@
+{
+  "tag": "traffic",
+  "displayName": "Traffic",
+  "metadata": {
+    "title": "Traffic Games - Play Free Online",
+    "description": "Discover amazing traffic games! Play 57 free games with traffic theme. No downloads required.",
+    "keywords": [
+      "traffic games",
+      "free online games",
+      "browser games",
+      "traffic theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/traffic",
+    "openGraph": {
+      "title": "Traffic Games - Free Online Gaming",
+      "description": "Play the best traffic games online for free. 57 games available.",
+      "image": "https://littlegames.com/images/tags/traffic-og.jpg",
+      "url": "https://littlegames.com/tags/traffic",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Traffic Games - Free Online",
+      "description": "Play 57 free traffic games online.",
+      "image": "https://littlegames.com/images/tags/traffic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Traffic",
+      "href": "/tags/traffic",
+      "current": true
+    }
+  ],
+  "description": "Discover games with traffic theme! Our collection includes 57 carefully selected games that feature traffic elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

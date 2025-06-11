@@ -1,0 +1,54 @@
+{
+  "gameId": 6333,
+  "slug": "clear-the-lot",
+  "metadata": {
+    "title": "Clear The Lot - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Clear The Lot. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Clear The Lot",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/clear-the-lot",
+    "openGraph": {
+      "title": "Clear The Lot - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Clear The Lot. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/clear-the-lot-og.jpg",
+      "url": "https://littlegames.com/games/clear-the-lot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Clear The Lot - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Clear The Lot. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/clear-the-lot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Clear The Lot",
+      "href": "/games/clear-the-lot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_329",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

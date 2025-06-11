@@ -1,0 +1,54 @@
+{
+  "gameId": 8688,
+  "slug": "juicy-match",
+  "metadata": {
+    "title": "Play Juicy Match - Free Action Game Online",
+    "description": "Juicy Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Juicy Match game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/juicy-match",
+    "openGraph": {
+      "title": "Play Juicy Match - Free Action Game Online",
+      "description": "Juicy Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/juicy-match-og.jpg",
+      "url": "https://littlegames.com/games/juicy-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Juicy Match - Free Action Game Online",
+      "description": "Juicy Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/juicy-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Juicy Match",
+      "href": "/games/juicy-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_334",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

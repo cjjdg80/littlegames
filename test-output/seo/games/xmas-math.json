@@ -1,0 +1,54 @@
+{
+  "gameId": 2076,
+  "slug": "xmas-math",
+  "metadata": {
+    "title": "Free Xmas Math Game - Action Packed Fun",
+    "description": "Join the action in Xmas Math! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Xmas Math online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/xmas-math",
+    "openGraph": {
+      "title": "Free Xmas Math Game - Action Packed Fun",
+      "description": "Join the action in Xmas Math! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/xmas-math-og.jpg",
+      "url": "https://littlegames.com/games/xmas-math",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Xmas Math Game - Action Packed Fun",
+      "description": "Join the action in Xmas Math! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/xmas-math-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Xmas Math",
+      "href": "/games/xmas-math",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_362",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

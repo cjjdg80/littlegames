@@ -1,0 +1,54 @@
+{
+  "gameId": 8825,
+  "slug": "lamphead",
+  "metadata": {
+    "title": "Play LampHead - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in LampHead. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "LampHead game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/lamphead",
+    "openGraph": {
+      "title": "Play LampHead - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in LampHead. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/lamphead-og.jpg",
+      "url": "https://littlegames.com/games/lamphead",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play LampHead - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in LampHead. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/lamphead-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "LampHead",
+      "href": "/games/lamphead",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_581",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

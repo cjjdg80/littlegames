@@ -1,0 +1,54 @@
+{
+  "gameId": 6577,
+  "slug": "balance-it",
+  "metadata": {
+    "title": "Balance It Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Balance It. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Balance It game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/balance-it",
+    "openGraph": {
+      "title": "Balance It Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Balance It. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/balance-it-og.jpg",
+      "url": "https://littlegames.com/games/balance-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Balance It Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Balance It. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/balance-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Balance It",
+      "href": "/games/balance-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_893",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

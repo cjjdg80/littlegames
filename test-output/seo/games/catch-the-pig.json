@@ -1,0 +1,54 @@
+{
+  "gameId": 9888,
+  "slug": "catch-the-pig",
+  "metadata": {
+    "title": "Catch The Pig Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Catch The Pig! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Catch The Pig online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/catch-the-pig",
+    "openGraph": {
+      "title": "Catch The Pig Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Catch The Pig! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/catch-the-pig-og.jpg",
+      "url": "https://littlegames.com/games/catch-the-pig",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Catch The Pig Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Catch The Pig! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/catch-the-pig-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Catch The Pig",
+      "href": "/games/catch-the-pig",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_534",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

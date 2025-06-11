@@ -1,0 +1,46 @@
+{
+  "tag": "dance",
+  "displayName": "Dance",
+  "metadata": {
+    "title": "Dance Games - Play Free Online",
+    "description": "Discover amazing dance games! Play 13 free games with dance theme. No downloads required.",
+    "keywords": [
+      "dance games",
+      "free online games",
+      "browser games",
+      "dance theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/dance",
+    "openGraph": {
+      "title": "Dance Games - Free Online Gaming",
+      "description": "Play the best dance games online for free. 13 games available.",
+      "image": "https://littlegames.com/images/tags/dance-og.jpg",
+      "url": "https://littlegames.com/tags/dance",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dance Games - Free Online",
+      "description": "Play 13 free dance games online.",
+      "image": "https://littlegames.com/images/tags/dance-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dance",
+      "href": "/tags/dance",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dance theme! Our collection includes 13 carefully selected games that feature dance elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

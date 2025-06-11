@@ -1,0 +1,54 @@
+{
+  "gameId": 6689,
+  "slug": "sewage",
+  "metadata": {
+    "title": "Play Sewage - Epic Adventure Game Online",
+    "description": "Begin your quest in Sewage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Sewage game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/sewage",
+    "openGraph": {
+      "title": "Play Sewage - Epic Adventure Game Online",
+      "description": "Begin your quest in Sewage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/sewage-og.jpg",
+      "url": "https://littlegames.com/games/sewage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sewage - Epic Adventure Game Online",
+      "description": "Begin your quest in Sewage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/sewage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Sewage",
+      "href": "/games/sewage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_368",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3030,
+  "slug": "sweet-candy-boom",
+  "metadata": {
+    "title": "Sweet Candy Boom Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Sweet Candy Boom! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Sweet Candy Boom online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sweet-candy-boom",
+    "openGraph": {
+      "title": "Sweet Candy Boom Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Sweet Candy Boom! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/sweet-candy-boom-og.jpg",
+      "url": "https://littlegames.com/games/sweet-candy-boom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sweet Candy Boom Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Sweet Candy Boom! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sweet-candy-boom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sweet Candy Boom",
+      "href": "/games/sweet-candy-boom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_936",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

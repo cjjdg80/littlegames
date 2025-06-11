@@ -1,0 +1,54 @@
+{
+  "gameId": 8729,
+  "slug": "pumpkin-patch",
+  "metadata": {
+    "title": "Pumpkin Patch - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Pumpkin Patch. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Pumpkin Patch",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pumpkin-patch",
+    "openGraph": {
+      "title": "Pumpkin Patch - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Pumpkin Patch. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pumpkin-patch-og.jpg",
+      "url": "https://littlegames.com/games/pumpkin-patch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pumpkin Patch - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Pumpkin Patch. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pumpkin-patch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pumpkin Patch",
+      "href": "/games/pumpkin-patch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_605",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

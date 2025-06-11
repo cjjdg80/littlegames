@@ -1,0 +1,54 @@
+{
+  "gameId": 3560,
+  "slug": "pop-halloween",
+  "metadata": {
+    "title": "Pop Halloween Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Pop Halloween! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Pop Halloween",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pop-halloween",
+    "openGraph": {
+      "title": "Pop Halloween Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Pop Halloween! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/pop-halloween-og.jpg",
+      "url": "https://littlegames.com/games/pop-halloween",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pop Halloween Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Pop Halloween! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/pop-halloween-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pop Halloween",
+      "href": "/games/pop-halloween",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_366",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

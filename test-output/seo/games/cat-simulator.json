@@ -1,0 +1,54 @@
+{
+  "gameId": 6583,
+  "slug": "cat-simulator",
+  "metadata": {
+    "title": "Play Cat simulator - Free Action Game Online",
+    "description": "Join the action in Cat simulator! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Cat simulator",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/cat-simulator",
+    "openGraph": {
+      "title": "Play Cat simulator - Free Action Game Online",
+      "description": "Join the action in Cat simulator! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cat-simulator-og.jpg",
+      "url": "https://littlegames.com/games/cat-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cat simulator - Free Action Game Online",
+      "description": "Join the action in Cat simulator! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cat-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Cat simulator",
+      "href": "/games/cat-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_083",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

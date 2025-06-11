@@ -1,0 +1,54 @@
+{
+  "gameId": 9588,
+  "slug": "merge-flow",
+  "metadata": {
+    "title": "Play Merge Flow - Free Action Game Online",
+    "description": "Merge Flow delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Merge Flow",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-flow",
+    "openGraph": {
+      "title": "Play Merge Flow - Free Action Game Online",
+      "description": "Merge Flow delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-flow-og.jpg",
+      "url": "https://littlegames.com/games/merge-flow",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Merge Flow - Free Action Game Online",
+      "description": "Merge Flow delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-flow-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Merge Flow",
+      "href": "/games/merge-flow",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_234",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

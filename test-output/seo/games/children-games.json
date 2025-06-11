@@ -1,0 +1,54 @@
+{
+  "gameId": 645,
+  "slug": "children-games",
+  "metadata": {
+    "title": "Children Games Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Children Games! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Children Games",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/children-games",
+    "openGraph": {
+      "title": "Children Games Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Children Games! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/children-games-og.jpg",
+      "url": "https://littlegames.com/games/children-games",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Children Games Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Children Games! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/children-games-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Children Games",
+      "href": "/games/children-games",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_001",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

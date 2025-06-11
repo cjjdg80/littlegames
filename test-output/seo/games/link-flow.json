@@ -1,0 +1,54 @@
+{
+  "gameId": 9590,
+  "slug": "link-flow",
+  "metadata": {
+    "title": "Link Flow Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Link Flow! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Link Flow",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/link-flow",
+    "openGraph": {
+      "title": "Link Flow Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Link Flow! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/link-flow-og.jpg",
+      "url": "https://littlegames.com/games/link-flow",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Link Flow Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Link Flow! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/link-flow-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Link Flow",
+      "href": "/games/link-flow",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_296",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

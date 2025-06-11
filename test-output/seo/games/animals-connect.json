@@ -1,0 +1,54 @@
+{
+  "gameId": 780,
+  "slug": "animals-connect",
+  "metadata": {
+    "title": "Animals Connect - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Animals Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Animals Connect game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/animals-connect",
+    "openGraph": {
+      "title": "Animals Connect - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Animals Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/animals-connect-og.jpg",
+      "url": "https://littlegames.com/games/animals-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animals Connect - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Animals Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/animals-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Animals Connect",
+      "href": "/games/animals-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_186",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

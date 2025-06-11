@@ -1,0 +1,54 @@
+{
+  "gameId": 1231,
+  "slug": "space-game",
+  "metadata": {
+    "title": "Space Game - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Space Game. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Space Game",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/space-game",
+    "openGraph": {
+      "title": "Space Game - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Space Game. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/space-game-og.jpg",
+      "url": "https://littlegames.com/games/space-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Space Game - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Space Game. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/space-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Space Game",
+      "href": "/games/space-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_167",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

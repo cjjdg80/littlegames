@@ -1,0 +1,54 @@
+{
+  "gameId": 5273,
+  "slug": "nail-stack",
+  "metadata": {
+    "title": "Free Nail Stack! Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Nail Stack!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Nail Stack!",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/nail-stack",
+    "openGraph": {
+      "title": "Free Nail Stack! Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Nail Stack!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/nail-stack-og.jpg",
+      "url": "https://littlegames.com/games/nail-stack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Nail Stack! Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Nail Stack!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/nail-stack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Nail Stack!",
+      "href": "/games/nail-stack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_469",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

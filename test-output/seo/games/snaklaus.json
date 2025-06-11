@@ -1,0 +1,54 @@
+{
+  "gameId": 3915,
+  "slug": "snaklaus",
+  "metadata": {
+    "title": "Snaklaus - Exciting Action Adventure Game",
+    "description": "Join the action in Snaklaus! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Snaklaus game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/snaklaus",
+    "openGraph": {
+      "title": "Snaklaus - Exciting Action Adventure Game",
+      "description": "Join the action in Snaklaus! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snaklaus-og.jpg",
+      "url": "https://littlegames.com/games/snaklaus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snaklaus - Exciting Action Adventure Game",
+      "description": "Join the action in Snaklaus! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snaklaus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Snaklaus",
+      "href": "/games/snaklaus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_371",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

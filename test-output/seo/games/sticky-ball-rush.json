@@ -1,0 +1,54 @@
+{
+  "gameId": 5611,
+  "slug": "sticky-ball-rush",
+  "metadata": {
+    "title": "Sticky Ball Rush Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Sticky Ball Rush! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Sticky Ball Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sticky-ball-rush",
+    "openGraph": {
+      "title": "Sticky Ball Rush Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Sticky Ball Rush! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/sticky-ball-rush-og.jpg",
+      "url": "https://littlegames.com/games/sticky-ball-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sticky Ball Rush Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Sticky Ball Rush! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sticky-ball-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sticky Ball Rush",
+      "href": "/games/sticky-ball-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_947",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

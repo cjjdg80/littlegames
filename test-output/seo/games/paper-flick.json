@@ -1,0 +1,54 @@
+{
+  "gameId": 1915,
+  "slug": "paper-flick",
+  "metadata": {
+    "title": "Play Paper Flick - Free Action Game Online",
+    "description": "Join the action in Paper Flick! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Paper Flick game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/paper-flick",
+    "openGraph": {
+      "title": "Play Paper Flick - Free Action Game Online",
+      "description": "Join the action in Paper Flick! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-flick-og.jpg",
+      "url": "https://littlegames.com/games/paper-flick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Paper Flick - Free Action Game Online",
+      "description": "Join the action in Paper Flick! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-flick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paper Flick",
+      "href": "/games/paper-flick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_371",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5289,
+  "slug": "wall-of-box",
+  "metadata": {
+    "title": "Wall Of Box Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Wall Of Box! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Wall Of Box game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/wall-of-box",
+    "openGraph": {
+      "title": "Wall Of Box Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Wall Of Box! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/wall-of-box-og.jpg",
+      "url": "https://littlegames.com/games/wall-of-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wall Of Box Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Wall Of Box! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/wall-of-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wall Of Box",
+      "href": "/games/wall-of-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_965",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

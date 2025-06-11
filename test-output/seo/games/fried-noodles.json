@@ -1,0 +1,54 @@
+{
+  "gameId": 1301,
+  "slug": "fried-noodles",
+  "metadata": {
+    "title": "Play Fried Noodles - Free Action Game Online",
+    "description": "Fried Noodles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Fried Noodles",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fried-noodles",
+    "openGraph": {
+      "title": "Play Fried Noodles - Free Action Game Online",
+      "description": "Fried Noodles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fried-noodles-og.jpg",
+      "url": "https://littlegames.com/games/fried-noodles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fried Noodles - Free Action Game Online",
+      "description": "Fried Noodles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fried-noodles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fried Noodles",
+      "href": "/games/fried-noodles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_337",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

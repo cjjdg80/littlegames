@@ -1,0 +1,46 @@
+{
+  "tag": "season",
+  "displayName": "Season",
+  "metadata": {
+    "title": "Season Games - Play Free Online",
+    "description": "Discover amazing season games! Play 9 free games with season theme. No downloads required.",
+    "keywords": [
+      "season games",
+      "free online games",
+      "browser games",
+      "season theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/season",
+    "openGraph": {
+      "title": "Season Games - Free Online Gaming",
+      "description": "Play the best season games online for free. 9 games available.",
+      "image": "https://littlegames.com/images/tags/season-og.jpg",
+      "url": "https://littlegames.com/tags/season",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Season Games - Free Online",
+      "description": "Play 9 free season games online.",
+      "image": "https://littlegames.com/images/tags/season-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Season",
+      "href": "/tags/season",
+      "current": true
+    }
+  ],
+  "description": "Discover games with season theme! Our collection includes 9 carefully selected games that feature season elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

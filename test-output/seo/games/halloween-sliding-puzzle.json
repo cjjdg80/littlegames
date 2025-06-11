@@ -1,0 +1,54 @@
+{
+  "gameId": 5765,
+  "slug": "halloween-sliding-puzzle",
+  "metadata": {
+    "title": "Halloween Sliding Puzzle - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Halloween Sliding Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Halloween Sliding Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-sliding-puzzle",
+    "openGraph": {
+      "title": "Halloween Sliding Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Halloween Sliding Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/halloween-sliding-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/halloween-sliding-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Sliding Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Halloween Sliding Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/halloween-sliding-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Halloween Sliding Puzzle",
+      "href": "/games/halloween-sliding-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_721",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

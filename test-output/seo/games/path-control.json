@@ -1,0 +1,54 @@
+{
+  "gameId": 4128,
+  "slug": "path-control",
+  "metadata": {
+    "title": "Action Game Path Control - Play Free Now",
+    "description": "Experience thrilling action in Path Control! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Path Control",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/path-control",
+    "openGraph": {
+      "title": "Action Game Path Control - Play Free Now",
+      "description": "Experience thrilling action in Path Control! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/path-control-og.jpg",
+      "url": "https://littlegames.com/games/path-control",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Path Control - Play Free Now",
+      "description": "Experience thrilling action in Path Control! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/path-control-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Path Control",
+      "href": "/games/path-control",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_974",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

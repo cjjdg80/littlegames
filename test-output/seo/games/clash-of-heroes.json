@@ -1,0 +1,54 @@
+{
+  "gameId": 5864,
+  "slug": "clash-of-heroes",
+  "metadata": {
+    "title": "Action Game Clash of Heroes - Play Free Now",
+    "description": "Join the action in Clash of Heroes! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Clash of Heroes online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/clash-of-heroes",
+    "openGraph": {
+      "title": "Action Game Clash of Heroes - Play Free Now",
+      "description": "Join the action in Clash of Heroes! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clash-of-heroes-og.jpg",
+      "url": "https://littlegames.com/games/clash-of-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Clash of Heroes - Play Free Now",
+      "description": "Join the action in Clash of Heroes! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clash-of-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Clash of Heroes",
+      "href": "/games/clash-of-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_792",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6756,
+  "slug": "parkour-block-5",
+  "metadata": {
+    "title": "Play Parkour Block 5 - Epic Adventure Game Online",
+    "description": "Start your epic journey with Parkour Block 5! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Parkour Block 5 online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-block-5",
+    "openGraph": {
+      "title": "Play Parkour Block 5 - Epic Adventure Game Online",
+      "description": "Start your epic journey with Parkour Block 5! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/parkour-block-5-og.jpg",
+      "url": "https://littlegames.com/games/parkour-block-5",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Parkour Block 5 - Epic Adventure Game Online",
+      "description": "Start your epic journey with Parkour Block 5! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/parkour-block-5-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Parkour Block 5",
+      "href": "/games/parkour-block-5",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_445",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

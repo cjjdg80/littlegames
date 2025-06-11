@@ -1,0 +1,54 @@
+{
+  "gameId": 3441,
+  "slug": "stand-0ut",
+  "metadata": {
+    "title": "Adventure Game STAND 0UT - Journey Begins",
+    "description": "STAND 0UT offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "STAND 0UT game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/stand-0ut",
+    "openGraph": {
+      "title": "Adventure Game STAND 0UT - Journey Begins",
+      "description": "STAND 0UT offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/stand-0ut-og.jpg",
+      "url": "https://littlegames.com/games/stand-0ut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game STAND 0UT - Journey Begins",
+      "description": "STAND 0UT offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/stand-0ut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "STAND 0UT",
+      "href": "/games/stand-0ut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_680",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7574,
+  "slug": "sort-parking",
+  "metadata": {
+    "title": "Sort Parking - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Sort Parking! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Sort Parking",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sort-parking",
+    "openGraph": {
+      "title": "Sort Parking - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Sort Parking! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/sort-parking-og.jpg",
+      "url": "https://littlegames.com/games/sort-parking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sort Parking - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Sort Parking! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/sort-parking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sort Parking",
+      "href": "/games/sort-parking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_800",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

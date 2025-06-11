@@ -1,0 +1,54 @@
+{
+  "gameId": 5211,
+  "slug": "slashville3d",
+  "metadata": {
+    "title": "Adventure Game Slashville3D - Journey Begins",
+    "description": "Embark on an epic journey in Slashville3D! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Slashville3D online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/slashville3d",
+    "openGraph": {
+      "title": "Adventure Game Slashville3D - Journey Begins",
+      "description": "Embark on an epic journey in Slashville3D! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/slashville3d-og.jpg",
+      "url": "https://littlegames.com/games/slashville3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Slashville3D - Journey Begins",
+      "description": "Embark on an epic journey in Slashville3D! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/slashville3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Slashville3D",
+      "href": "/games/slashville3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_550",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

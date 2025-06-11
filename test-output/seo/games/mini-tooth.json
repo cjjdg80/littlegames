@@ -1,0 +1,54 @@
+{
+  "gameId": 6873,
+  "slug": "mini-tooth",
+  "metadata": {
+    "title": "Mini Tooth - Thrilling Adventure Quest",
+    "description": "Mini Tooth offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "Mini Tooth online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/mini-tooth",
+    "openGraph": {
+      "title": "Mini Tooth - Thrilling Adventure Quest",
+      "description": "Mini Tooth offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/mini-tooth-og.jpg",
+      "url": "https://littlegames.com/games/mini-tooth",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mini Tooth - Thrilling Adventure Quest",
+      "description": "Mini Tooth offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/mini-tooth-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mini Tooth",
+      "href": "/games/mini-tooth",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_072",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

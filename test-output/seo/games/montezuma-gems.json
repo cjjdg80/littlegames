@@ -1,0 +1,54 @@
+{
+  "gameId": 2022,
+  "slug": "montezuma-gems",
+  "metadata": {
+    "title": "Montezuma Gems Online - Explore and Discover",
+    "description": "Discover new worlds in Montezuma Gems. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Montezuma Gems",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/montezuma-gems",
+    "openGraph": {
+      "title": "Montezuma Gems Online - Explore and Discover",
+      "description": "Discover new worlds in Montezuma Gems. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/montezuma-gems-og.jpg",
+      "url": "https://littlegames.com/games/montezuma-gems",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Montezuma Gems Online - Explore and Discover",
+      "description": "Discover new worlds in Montezuma Gems. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/montezuma-gems-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Montezuma Gems",
+      "href": "/games/montezuma-gems",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_691",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

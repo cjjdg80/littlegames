@@ -1,0 +1,54 @@
+{
+  "gameId": 4095,
+  "slug": "monster-shooter",
+  "metadata": {
+    "title": "Monster Shooter - Exciting Action Adventure Game",
+    "description": "Join the action in Monster Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Monster Shooter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/monster-shooter",
+    "openGraph": {
+      "title": "Monster Shooter - Exciting Action Adventure Game",
+      "description": "Join the action in Monster Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/monster-shooter-og.jpg",
+      "url": "https://littlegames.com/games/monster-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Shooter - Exciting Action Adventure Game",
+      "description": "Join the action in Monster Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/monster-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monster Shooter",
+      "href": "/games/monster-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_951",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

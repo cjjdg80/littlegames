@@ -1,0 +1,54 @@
+{
+  "gameId": 6269,
+  "slug": "block-puzzle-jewel",
+  "metadata": {
+    "title": "Puzzle Game Block Puzzle Jewel - Test Your Skills",
+    "description": "Put your thinking skills to the test in Block Puzzle Jewel. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Block Puzzle Jewel game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/block-puzzle-jewel",
+    "openGraph": {
+      "title": "Puzzle Game Block Puzzle Jewel - Test Your Skills",
+      "description": "Put your thinking skills to the test in Block Puzzle Jewel. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/block-puzzle-jewel-og.jpg",
+      "url": "https://littlegames.com/games/block-puzzle-jewel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Block Puzzle Jewel - Test Your Skills",
+      "description": "Put your thinking skills to the test in Block Puzzle Jewel. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/block-puzzle-jewel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Puzzle Jewel",
+      "href": "/games/block-puzzle-jewel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_345",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

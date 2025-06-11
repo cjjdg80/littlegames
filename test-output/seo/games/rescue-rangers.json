@@ -1,0 +1,54 @@
+{
+  "gameId": 6538,
+  "slug": "rescue-rangers",
+  "metadata": {
+    "title": "Free Rescue Rangers Game - Adventure Awaits",
+    "description": "Start your epic journey with Rescue Rangers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Rescue Rangers online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/rescue-rangers",
+    "openGraph": {
+      "title": "Free Rescue Rangers Game - Adventure Awaits",
+      "description": "Start your epic journey with Rescue Rangers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rescue-rangers-og.jpg",
+      "url": "https://littlegames.com/games/rescue-rangers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rescue Rangers Game - Adventure Awaits",
+      "description": "Start your epic journey with Rescue Rangers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rescue-rangers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rescue Rangers",
+      "href": "/games/rescue-rangers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_687",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

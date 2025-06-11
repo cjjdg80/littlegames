@@ -1,0 +1,54 @@
+{
+  "gameId": 5645,
+  "slug": "jewel-treasure",
+  "metadata": {
+    "title": "Play Jewel Treasure - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Jewel Treasure. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Jewel Treasure",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/jewel-treasure",
+    "openGraph": {
+      "title": "Play Jewel Treasure - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Jewel Treasure. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jewel-treasure-og.jpg",
+      "url": "https://littlegames.com/games/jewel-treasure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jewel Treasure - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Jewel Treasure. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jewel-treasure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jewel Treasure",
+      "href": "/games/jewel-treasure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_001",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

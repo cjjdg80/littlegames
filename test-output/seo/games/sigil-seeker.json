@@ -1,0 +1,54 @@
+{
+  "gameId": 8245,
+  "slug": "sigil-seeker",
+  "metadata": {
+    "title": "Sigil Seeker - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Sigil Seeker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Sigil Seeker online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sigil-seeker",
+    "openGraph": {
+      "title": "Sigil Seeker - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sigil Seeker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sigil-seeker-og.jpg",
+      "url": "https://littlegames.com/games/sigil-seeker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sigil Seeker - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sigil Seeker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sigil-seeker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sigil Seeker",
+      "href": "/games/sigil-seeker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_601",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

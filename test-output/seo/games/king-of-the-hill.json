@@ -1,0 +1,54 @@
+{
+  "gameId": 7688,
+  "slug": "king-of-the-hill",
+  "metadata": {
+    "title": "Action Game King Of The Hill - Play Free Now",
+    "description": "King Of The Hill delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "King Of The Hill",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/king-of-the-hill",
+    "openGraph": {
+      "title": "Action Game King Of The Hill - Play Free Now",
+      "description": "King Of The Hill delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/king-of-the-hill-og.jpg",
+      "url": "https://littlegames.com/games/king-of-the-hill",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game King Of The Hill - Play Free Now",
+      "description": "King Of The Hill delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/king-of-the-hill-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "King Of The Hill",
+      "href": "/games/king-of-the-hill",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_334",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

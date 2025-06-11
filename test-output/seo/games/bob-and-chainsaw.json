@@ -1,0 +1,54 @@
+{
+  "gameId": 2056,
+  "slug": "bob-and-chainsaw",
+  "metadata": {
+    "title": "Play Bob and Chainsaw - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Bob and Chainsaw. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bob and Chainsaw game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bob-and-chainsaw",
+    "openGraph": {
+      "title": "Play Bob and Chainsaw - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Bob and Chainsaw. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bob-and-chainsaw-og.jpg",
+      "url": "https://littlegames.com/games/bob-and-chainsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bob and Chainsaw - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Bob and Chainsaw. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bob-and-chainsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bob and Chainsaw",
+      "href": "/games/bob-and-chainsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_742",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

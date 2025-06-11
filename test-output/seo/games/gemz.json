@@ -1,0 +1,54 @@
+{
+  "gameId": 4284,
+  "slug": "gemz",
+  "metadata": {
+    "title": "Play Gemz! - Free Action Game Online",
+    "description": "Join the action in Gemz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Gemz!",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gemz",
+    "openGraph": {
+      "title": "Play Gemz! - Free Action Game Online",
+      "description": "Join the action in Gemz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gemz-og.jpg",
+      "url": "https://littlegames.com/games/gemz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gemz! - Free Action Game Online",
+      "description": "Join the action in Gemz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gemz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Gemz!",
+      "href": "/games/gemz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_810",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

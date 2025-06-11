@@ -1,0 +1,54 @@
+{
+  "gameId": 1793,
+  "slug": "connect-the-insects",
+  "metadata": {
+    "title": "Connect The Insects - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Connect The Insects! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Connect The Insects game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/connect-the-insects",
+    "openGraph": {
+      "title": "Connect The Insects - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Connect The Insects! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/connect-the-insects-og.jpg",
+      "url": "https://littlegames.com/games/connect-the-insects",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Connect The Insects - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Connect The Insects! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/connect-the-insects-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connect The Insects",
+      "href": "/games/connect-the-insects",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_589",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

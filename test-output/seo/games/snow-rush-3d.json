@@ -1,0 +1,54 @@
+{
+  "gameId": 9566,
+  "slug": "snow-rush-3d",
+  "metadata": {
+    "title": "Snow Rush 3D - Exciting Action Adventure Game",
+    "description": "Join the action in Snow Rush 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Snow Rush 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/snow-rush-3d",
+    "openGraph": {
+      "title": "Snow Rush 3D - Exciting Action Adventure Game",
+      "description": "Join the action in Snow Rush 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snow-rush-3d-og.jpg",
+      "url": "https://littlegames.com/games/snow-rush-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snow Rush 3D - Exciting Action Adventure Game",
+      "description": "Join the action in Snow Rush 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snow-rush-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Snow Rush 3D",
+      "href": "/games/snow-rush-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_552",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

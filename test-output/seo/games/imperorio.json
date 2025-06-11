@@ -1,0 +1,54 @@
+{
+  "gameId": 5558,
+  "slug": "imperorio",
+  "metadata": {
+    "title": "Imperor.io - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Imperor.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Imperor.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/imperorio",
+    "openGraph": {
+      "title": "Imperor.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Imperor.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/imperorio-og.jpg",
+      "url": "https://littlegames.com/games/imperorio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Imperor.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Imperor.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/imperorio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Imperor.io",
+      "href": "/games/imperorio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_304",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

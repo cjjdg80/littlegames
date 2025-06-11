@@ -1,0 +1,54 @@
+{
+  "gameId": 2929,
+  "slug": "speed-racer",
+  "metadata": {
+    "title": "Speed Racer - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Speed Racer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Speed Racer",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/speed-racer",
+    "openGraph": {
+      "title": "Speed Racer - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Speed Racer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/speed-racer-og.jpg",
+      "url": "https://littlegames.com/games/speed-racer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Speed Racer - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Speed Racer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/speed-racer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Speed Racer",
+      "href": "/games/speed-racer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_805",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

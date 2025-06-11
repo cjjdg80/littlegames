@@ -1,0 +1,54 @@
+{
+  "gameId": 836,
+  "slug": "dungeonro",
+  "metadata": {
+    "title": "Action Game Dungeon.ro - Play Free Now",
+    "description": "Dungeon.ro delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Dungeon.ro",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dungeonro",
+    "openGraph": {
+      "title": "Action Game Dungeon.ro - Play Free Now",
+      "description": "Dungeon.ro delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dungeonro-og.jpg",
+      "url": "https://littlegames.com/games/dungeonro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Dungeon.ro - Play Free Now",
+      "description": "Dungeon.ro delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dungeonro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dungeon.ro",
+      "href": "/games/dungeonro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_922",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1121,
+  "slug": "3d-chess",
+  "metadata": {
+    "title": "3D Chess Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in 3D Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "3D Chess game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/3d-chess",
+    "openGraph": {
+      "title": "3D Chess Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in 3D Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/3d-chess-og.jpg",
+      "url": "https://littlegames.com/games/3d-chess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "3D Chess Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in 3D Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/3d-chess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "3D Chess",
+      "href": "/games/3d-chess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_757",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

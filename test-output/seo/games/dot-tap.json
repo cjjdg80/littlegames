@@ -1,0 +1,54 @@
+{
+  "gameId": 2832,
+  "slug": "dot-tap",
+  "metadata": {
+    "title": "Dot Tap - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Dot Tap! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Dot Tap",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/dot-tap",
+    "openGraph": {
+      "title": "Dot Tap - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Dot Tap! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/dot-tap-og.jpg",
+      "url": "https://littlegames.com/games/dot-tap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dot Tap - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Dot Tap! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/dot-tap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dot Tap",
+      "href": "/games/dot-tap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_798",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

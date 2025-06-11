@@ -1,0 +1,54 @@
+{
+  "gameId": 3353,
+  "slug": "fish-story",
+  "metadata": {
+    "title": "Action Game Fish Story - Play Free Now",
+    "description": "Dive into the action-packed world of Fish Story. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Fish Story game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fish-story",
+    "openGraph": {
+      "title": "Action Game Fish Story - Play Free Now",
+      "description": "Dive into the action-packed world of Fish Story. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fish-story-og.jpg",
+      "url": "https://littlegames.com/games/fish-story",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fish Story - Play Free Now",
+      "description": "Dive into the action-packed world of Fish Story. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fish-story-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fish Story",
+      "href": "/games/fish-story",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_949",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

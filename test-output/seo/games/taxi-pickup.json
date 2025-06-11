@@ -1,0 +1,54 @@
+{
+  "gameId": 5989,
+  "slug": "taxi-pickup",
+  "metadata": {
+    "title": "Action Game Taxi Pickup - Play Free Now",
+    "description": "Experience thrilling action in Taxi Pickup! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Taxi Pickup",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/taxi-pickup",
+    "openGraph": {
+      "title": "Action Game Taxi Pickup - Play Free Now",
+      "description": "Experience thrilling action in Taxi Pickup! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/taxi-pickup-og.jpg",
+      "url": "https://littlegames.com/games/taxi-pickup",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Taxi Pickup - Play Free Now",
+      "description": "Experience thrilling action in Taxi Pickup! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/taxi-pickup-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Taxi Pickup",
+      "href": "/games/taxi-pickup",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_665",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

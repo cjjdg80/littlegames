@@ -1,0 +1,54 @@
+{
+  "gameId": 3731,
+  "slug": "squid-fighter",
+  "metadata": {
+    "title": "Squid Fighter - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Squid Fighter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Squid Fighter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/squid-fighter",
+    "openGraph": {
+      "title": "Squid Fighter - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Squid Fighter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/squid-fighter-og.jpg",
+      "url": "https://littlegames.com/games/squid-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squid Fighter - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Squid Fighter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/squid-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squid Fighter",
+      "href": "/games/squid-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_667",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "retro",
+  "displayName": "Retro",
+  "metadata": {
+    "title": "Retro Games - Play Free Online",
+    "description": "Discover amazing retro games! Play 70 free games with retro theme. No downloads required.",
+    "keywords": [
+      "retro games",
+      "free online games",
+      "browser games",
+      "retro theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/retro",
+    "openGraph": {
+      "title": "Retro Games - Free Online Gaming",
+      "description": "Play the best retro games online for free. 70 games available.",
+      "image": "https://littlegames.com/images/tags/retro-og.jpg",
+      "url": "https://littlegames.com/tags/retro",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Retro Games - Free Online",
+      "description": "Play 70 free retro games online.",
+      "image": "https://littlegames.com/images/tags/retro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Retro",
+      "href": "/tags/retro",
+      "current": true
+    }
+  ],
+  "description": "Discover games with retro theme! Our collection includes 70 carefully selected games that feature retro elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

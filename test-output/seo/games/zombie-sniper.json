@@ -1,0 +1,54 @@
+{
+  "gameId": 3256,
+  "slug": "zombie-sniper",
+  "metadata": {
+    "title": "Zombie Sniper - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Zombie Sniper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Zombie Sniper online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-sniper",
+    "openGraph": {
+      "title": "Zombie Sniper - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Zombie Sniper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zombie-sniper-og.jpg",
+      "url": "https://littlegames.com/games/zombie-sniper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombie Sniper - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Zombie Sniper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zombie-sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Sniper",
+      "href": "/games/zombie-sniper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_942",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

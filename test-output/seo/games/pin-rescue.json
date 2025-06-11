@@ -1,0 +1,54 @@
+{
+  "gameId": 1037,
+  "slug": "pin-rescue",
+  "metadata": {
+    "title": "Free Pin Rescue Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Pin Rescue! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Pin Rescue",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/pin-rescue",
+    "openGraph": {
+      "title": "Free Pin Rescue Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Pin Rescue! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/pin-rescue-og.jpg",
+      "url": "https://littlegames.com/games/pin-rescue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pin Rescue Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Pin Rescue! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/pin-rescue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pin Rescue",
+      "href": "/games/pin-rescue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_156",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

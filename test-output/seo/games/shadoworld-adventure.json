@@ -1,0 +1,54 @@
+{
+  "gameId": 2682,
+  "slug": "shadoworld-adventure",
+  "metadata": {
+    "title": "Shadoworld Adventure - Thrilling Adventure Quest",
+    "description": "Shadoworld Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "Shadoworld Adventure online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/shadoworld-adventure",
+    "openGraph": {
+      "title": "Shadoworld Adventure - Thrilling Adventure Quest",
+      "description": "Shadoworld Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/shadoworld-adventure-og.jpg",
+      "url": "https://littlegames.com/games/shadoworld-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shadoworld Adventure - Thrilling Adventure Quest",
+      "description": "Shadoworld Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/shadoworld-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Shadoworld Adventure",
+      "href": "/games/shadoworld-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_151",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

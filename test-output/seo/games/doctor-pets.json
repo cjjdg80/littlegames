@@ -1,0 +1,54 @@
+{
+  "gameId": 2043,
+  "slug": "doctor-pets",
+  "metadata": {
+    "title": "Play Doctor Pets - Free Action Game Online",
+    "description": "Experience thrilling action in Doctor Pets! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Doctor Pets online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/doctor-pets",
+    "openGraph": {
+      "title": "Play Doctor Pets - Free Action Game Online",
+      "description": "Experience thrilling action in Doctor Pets! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/doctor-pets-og.jpg",
+      "url": "https://littlegames.com/games/doctor-pets",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Doctor Pets - Free Action Game Online",
+      "description": "Experience thrilling action in Doctor Pets! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/doctor-pets-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Doctor Pets",
+      "href": "/games/doctor-pets",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_339",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

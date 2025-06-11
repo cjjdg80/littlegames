@@ -1,0 +1,54 @@
+{
+  "gameId": 1265,
+  "slug": "thiefro",
+  "metadata": {
+    "title": "Free Thief.ro Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Thief.ro. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Thief.ro",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/thiefro",
+    "openGraph": {
+      "title": "Free Thief.ro Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Thief.ro. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/thiefro-og.jpg",
+      "url": "https://littlegames.com/games/thiefro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Thief.ro Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Thief.ro. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/thiefro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Thief.ro",
+      "href": "/games/thiefro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_221",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

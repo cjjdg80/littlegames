@@ -1,0 +1,54 @@
+{
+  "gameId": 1717,
+  "slug": "flippy-bottle",
+  "metadata": {
+    "title": "Flippy Bottle Online - Ultimate Action Gaming Experience",
+    "description": "Flippy Bottle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Flippy Bottle",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/flippy-bottle",
+    "openGraph": {
+      "title": "Flippy Bottle Online - Ultimate Action Gaming Experience",
+      "description": "Flippy Bottle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flippy-bottle-og.jpg",
+      "url": "https://littlegames.com/games/flippy-bottle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flippy Bottle Online - Ultimate Action Gaming Experience",
+      "description": "Flippy Bottle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flippy-bottle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flippy Bottle",
+      "href": "/games/flippy-bottle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_233",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

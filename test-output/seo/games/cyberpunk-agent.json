@@ -1,0 +1,54 @@
+{
+  "gameId": 9204,
+  "slug": "cyberpunk-agent",
+  "metadata": {
+    "title": "Cyberpunk Agent - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Cyberpunk Agent. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Cyberpunk Agent",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cyberpunk-agent",
+    "openGraph": {
+      "title": "Cyberpunk Agent - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Cyberpunk Agent. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/cyberpunk-agent-og.jpg",
+      "url": "https://littlegames.com/games/cyberpunk-agent",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cyberpunk Agent - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Cyberpunk Agent. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cyberpunk-agent-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cyberpunk Agent",
+      "href": "/games/cyberpunk-agent",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_330",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

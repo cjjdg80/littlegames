@@ -1,0 +1,54 @@
+{
+  "gameId": 2334,
+  "slug": "drop-letters",
+  "metadata": {
+    "title": "Play Drop Letters - Free Action Game Online",
+    "description": "Drop Letters delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Drop Letters",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/drop-letters",
+    "openGraph": {
+      "title": "Play Drop Letters - Free Action Game Online",
+      "description": "Drop Letters delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drop-letters-og.jpg",
+      "url": "https://littlegames.com/games/drop-letters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Drop Letters - Free Action Game Online",
+      "description": "Drop Letters delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drop-letters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drop Letters",
+      "href": "/games/drop-letters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_360",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

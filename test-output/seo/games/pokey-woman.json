@@ -1,0 +1,54 @@
+{
+  "gameId": 2879,
+  "slug": "pokey-woman",
+  "metadata": {
+    "title": "Action Game Pokey Woman - Play Free Now",
+    "description": "Pokey Woman delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Pokey Woman",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pokey-woman",
+    "openGraph": {
+      "title": "Action Game Pokey Woman - Play Free Now",
+      "description": "Pokey Woman delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pokey-woman-og.jpg",
+      "url": "https://littlegames.com/games/pokey-woman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pokey Woman - Play Free Now",
+      "description": "Pokey Woman delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pokey-woman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pokey Woman",
+      "href": "/games/pokey-woman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_255",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

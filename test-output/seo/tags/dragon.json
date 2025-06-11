@@ -1,0 +1,46 @@
+{
+  "tag": "dragon",
+  "displayName": "Dragon",
+  "metadata": {
+    "title": "Dragon Games - Play Free Online",
+    "description": "Discover amazing dragon games! Play 32 free games with dragon theme. No downloads required.",
+    "keywords": [
+      "dragon games",
+      "free online games",
+      "browser games",
+      "dragon theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/dragon",
+    "openGraph": {
+      "title": "Dragon Games - Free Online Gaming",
+      "description": "Play the best dragon games online for free. 32 games available.",
+      "image": "https://littlegames.com/images/tags/dragon-og.jpg",
+      "url": "https://littlegames.com/tags/dragon",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dragon Games - Free Online",
+      "description": "Play 32 free dragon games online.",
+      "image": "https://littlegames.com/images/tags/dragon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dragon",
+      "href": "/tags/dragon",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dragon theme! Our collection includes 32 carefully selected games that feature dragon elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2753,
+  "slug": "trezeboost",
+  "metadata": {
+    "title": "Free trezeBoost Game - Action Packed Fun",
+    "description": "Join the action in trezeBoost! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "trezeBoost",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/trezeboost",
+    "openGraph": {
+      "title": "Free trezeBoost Game - Action Packed Fun",
+      "description": "Join the action in trezeBoost! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/trezeboost-og.jpg",
+      "url": "https://littlegames.com/games/trezeboost",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free trezeBoost Game - Action Packed Fun",
+      "description": "Join the action in trezeBoost! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/trezeboost-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "trezeBoost",
+      "href": "/games/trezeboost",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_349",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

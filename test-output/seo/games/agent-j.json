@@ -1,0 +1,54 @@
+{
+  "gameId": 3415,
+  "slug": "agent-j",
+  "metadata": {
+    "title": "Agent J Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Agent J. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Agent J online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/agent-j",
+    "openGraph": {
+      "title": "Agent J Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Agent J. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/agent-j-og.jpg",
+      "url": "https://littlegames.com/games/agent-j",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Agent J Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Agent J. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/agent-j-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Agent J",
+      "href": "/games/agent-j",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_871",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

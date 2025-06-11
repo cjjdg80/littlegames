@@ -1,0 +1,54 @@
+{
+  "gameId": 3244,
+  "slug": "fallen-figures",
+  "metadata": {
+    "title": "Fallen Figures - Exciting Action Adventure Game",
+    "description": "Fallen Figures delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Fallen Figures online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fallen-figures",
+    "openGraph": {
+      "title": "Fallen Figures - Exciting Action Adventure Game",
+      "description": "Fallen Figures delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fallen-figures-og.jpg",
+      "url": "https://littlegames.com/games/fallen-figures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fallen Figures - Exciting Action Adventure Game",
+      "description": "Fallen Figures delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fallen-figures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fallen Figures",
+      "href": "/games/fallen-figures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_570",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6477,
+  "slug": "boxes-wizard",
+  "metadata": {
+    "title": "Free Boxes Wizard Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Boxes Wizard. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Boxes Wizard",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/boxes-wizard",
+    "openGraph": {
+      "title": "Free Boxes Wizard Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Boxes Wizard. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boxes-wizard-og.jpg",
+      "url": "https://littlegames.com/games/boxes-wizard",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Boxes Wizard Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Boxes Wizard. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boxes-wizard-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Boxes Wizard",
+      "href": "/games/boxes-wizard",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_793",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

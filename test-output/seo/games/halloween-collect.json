@@ -1,0 +1,54 @@
+{
+  "gameId": 5767,
+  "slug": "halloween-collect",
+  "metadata": {
+    "title": "Halloween Collect - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Halloween Collect. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Halloween Collect online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-collect",
+    "openGraph": {
+      "title": "Halloween Collect - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Halloween Collect. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/halloween-collect-og.jpg",
+      "url": "https://littlegames.com/games/halloween-collect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Collect - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Halloween Collect. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/halloween-collect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Halloween Collect",
+      "href": "/games/halloween-collect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_783",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

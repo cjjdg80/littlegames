@@ -1,0 +1,54 @@
+{
+  "gameId": 9490,
+  "slug": "crush-the-eggs",
+  "metadata": {
+    "title": "Play Crush the Eggs - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Crush the Eggs. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Crush the Eggs online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/crush-the-eggs",
+    "openGraph": {
+      "title": "Play Crush the Eggs - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Crush the Eggs. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/crush-the-eggs-og.jpg",
+      "url": "https://littlegames.com/games/crush-the-eggs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Crush the Eggs - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Crush the Eggs. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/crush-the-eggs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crush the Eggs",
+      "href": "/games/crush-the-eggs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_196",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6299,
+  "slug": "blind-bat",
+  "metadata": {
+    "title": "Free Blind Bat Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Blind Bat. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Blind Bat",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/blind-bat",
+    "openGraph": {
+      "title": "Free Blind Bat Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Blind Bat. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/blind-bat-og.jpg",
+      "url": "https://littlegames.com/games/blind-bat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Blind Bat Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Blind Bat. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/blind-bat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Blind Bat",
+      "href": "/games/blind-bat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_275",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

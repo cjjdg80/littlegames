@@ -1,0 +1,54 @@
+{
+  "gameId": 4983,
+  "slug": "people-onet",
+  "metadata": {
+    "title": "People Onet - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in People Onet. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "People Onet online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/people-onet",
+    "openGraph": {
+      "title": "People Onet - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in People Onet. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/people-onet-og.jpg",
+      "url": "https://littlegames.com/games/people-onet",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "People Onet - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in People Onet. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/people-onet-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "People Onet",
+      "href": "/games/people-onet",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_479",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

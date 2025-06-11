@@ -1,0 +1,46 @@
+{
+  "tag": "world",
+  "displayName": "World",
+  "metadata": {
+    "title": "World Games - Play Free Online",
+    "description": "Discover amazing world games! Play 25 free games with world theme. No downloads required.",
+    "keywords": [
+      "world games",
+      "free online games",
+      "browser games",
+      "world theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/world",
+    "openGraph": {
+      "title": "World Games - Free Online Gaming",
+      "description": "Play the best world games online for free. 25 games available.",
+      "image": "https://littlegames.com/images/tags/world-og.jpg",
+      "url": "https://littlegames.com/tags/world",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "World Games - Free Online",
+      "description": "Play 25 free world games online.",
+      "image": "https://littlegames.com/images/tags/world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "World",
+      "href": "/tags/world",
+      "current": true
+    }
+  ],
+  "description": "Discover games with world theme! Our collection includes 25 carefully selected games that feature world elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

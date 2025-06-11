@@ -1,0 +1,54 @@
+{
+  "gameId": 961,
+  "slug": "dodgeball-battle",
+  "metadata": {
+    "title": "Dodgeball Battle Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Dodgeball Battle. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Dodgeball Battle",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dodgeball-battle",
+    "openGraph": {
+      "title": "Dodgeball Battle Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Dodgeball Battle. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/dodgeball-battle-og.jpg",
+      "url": "https://littlegames.com/games/dodgeball-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dodgeball Battle Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Dodgeball Battle. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dodgeball-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dodgeball Battle",
+      "href": "/games/dodgeball-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_797",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5352,
+  "slug": "command-strike-fps",
+  "metadata": {
+    "title": "Play Command Strike FPS - Free Action Game Online",
+    "description": "Dive into the action-packed world of Command Strike FPS. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "Command Strike FPS online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/command-strike-fps",
+    "openGraph": {
+      "title": "Play Command Strike FPS - Free Action Game Online",
+      "description": "Dive into the action-packed world of Command Strike FPS. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/command-strike-fps-og.jpg",
+      "url": "https://littlegames.com/games/command-strike-fps",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Command Strike FPS - Free Action Game Online",
+      "description": "Dive into the action-packed world of Command Strike FPS. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/command-strike-fps-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Command Strike FPS",
+      "href": "/games/command-strike-fps",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_918",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

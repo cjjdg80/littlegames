@@ -1,0 +1,54 @@
+{
+  "gameId": 6072,
+  "slug": "basket-battle",
+  "metadata": {
+    "title": "Basket Battle Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Basket Battle. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Basket Battle",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/basket-battle",
+    "openGraph": {
+      "title": "Basket Battle Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Basket Battle. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/basket-battle-og.jpg",
+      "url": "https://littlegames.com/games/basket-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Basket Battle Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Basket Battle. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/basket-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basket Battle",
+      "href": "/games/basket-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_238",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3243,
+  "slug": "space-donut",
+  "metadata": {
+    "title": "Free Space Donut Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Space Donut. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Space Donut",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/space-donut",
+    "openGraph": {
+      "title": "Free Space Donut Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Space Donut. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/space-donut-og.jpg",
+      "url": "https://littlegames.com/games/space-donut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Space Donut Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Space Donut. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/space-donut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Space Donut",
+      "href": "/games/space-donut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_539",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

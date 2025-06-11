@@ -1,0 +1,54 @@
+{
+  "gameId": 2895,
+  "slug": "fruit-adventure",
+  "metadata": {
+    "title": "Fruit Adventure - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Fruit Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Fruit Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-adventure",
+    "openGraph": {
+      "title": "Fruit Adventure - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Fruit Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/fruit-adventure-og.jpg",
+      "url": "https://littlegames.com/games/fruit-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruit Adventure - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Fruit Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/fruit-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fruit Adventure",
+      "href": "/games/fruit-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_754",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

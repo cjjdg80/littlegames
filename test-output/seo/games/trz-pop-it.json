@@ -1,0 +1,54 @@
+{
+  "gameId": 2962,
+  "slug": "trz-pop-it",
+  "metadata": {
+    "title": "TRZ Pop it Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in TRZ Pop it! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "TRZ Pop it online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/trz-pop-it",
+    "openGraph": {
+      "title": "TRZ Pop it Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in TRZ Pop it! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/trz-pop-it-og.jpg",
+      "url": "https://littlegames.com/games/trz-pop-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "TRZ Pop it Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in TRZ Pop it! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/trz-pop-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "TRZ Pop it",
+      "href": "/games/trz-pop-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_828",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

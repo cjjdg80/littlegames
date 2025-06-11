@@ -1,0 +1,54 @@
+{
+  "gameId": 8017,
+  "slug": "magic-printer",
+  "metadata": {
+    "title": "Play Magic Printer - Free Puzzle Game Online",
+    "description": "Challenge your mind with Magic Printer! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Magic Printer game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/magic-printer",
+    "openGraph": {
+      "title": "Play Magic Printer - Free Puzzle Game Online",
+      "description": "Challenge your mind with Magic Printer! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/magic-printer-og.jpg",
+      "url": "https://littlegames.com/games/magic-printer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Magic Printer - Free Puzzle Game Online",
+      "description": "Challenge your mind with Magic Printer! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/magic-printer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Magic Printer",
+      "href": "/games/magic-printer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_533",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

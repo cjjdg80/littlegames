@@ -1,0 +1,54 @@
+{
+  "gameId": 8814,
+  "slug": "tricky-shots",
+  "metadata": {
+    "title": "Play Tricky Shots - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Tricky Shots. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tricky Shots online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tricky-shots",
+    "openGraph": {
+      "title": "Play Tricky Shots - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Tricky Shots. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tricky-shots-og.jpg",
+      "url": "https://littlegames.com/games/tricky-shots",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tricky Shots - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Tricky Shots. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tricky-shots-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tricky Shots",
+      "href": "/games/tricky-shots",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_240",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

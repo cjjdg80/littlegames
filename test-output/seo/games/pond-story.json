@@ -1,0 +1,54 @@
+{
+  "gameId": 7174,
+  "slug": "pond-story",
+  "metadata": {
+    "title": "Play Pond Story - Epic Adventure Game Online",
+    "description": "Begin your quest in Pond Story. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Pond Story",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pond-story",
+    "openGraph": {
+      "title": "Play Pond Story - Epic Adventure Game Online",
+      "description": "Begin your quest in Pond Story. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/pond-story-og.jpg",
+      "url": "https://littlegames.com/games/pond-story",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pond Story - Epic Adventure Game Online",
+      "description": "Begin your quest in Pond Story. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/pond-story-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pond Story",
+      "href": "/games/pond-story",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_403",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3393,
+  "slug": "2-minutes-soccer",
+  "metadata": {
+    "title": "Play 2 Minutes Soccer - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in 2 Minutes Soccer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "2 Minutes Soccer game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/2-minutes-soccer",
+    "openGraph": {
+      "title": "Play 2 Minutes Soccer - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in 2 Minutes Soccer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2-minutes-soccer-og.jpg",
+      "url": "https://littlegames.com/games/2-minutes-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2 Minutes Soccer - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in 2 Minutes Soccer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2-minutes-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2 Minutes Soccer",
+      "href": "/games/2-minutes-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_189",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

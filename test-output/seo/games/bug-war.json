@@ -1,0 +1,54 @@
+{
+  "gameId": 4236,
+  "slug": "bug-war",
+  "metadata": {
+    "title": "Free Bug War Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Bug War. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Bug War",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bug-war",
+    "openGraph": {
+      "title": "Free Bug War Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bug War. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bug-war-og.jpg",
+      "url": "https://littlegames.com/games/bug-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bug War Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bug War. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bug-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Bug War",
+      "href": "/games/bug-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_324",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

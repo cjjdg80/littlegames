@@ -1,0 +1,54 @@
+{
+  "gameId": 4073,
+  "slug": "going-balls",
+  "metadata": {
+    "title": "Free Going Balls Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Going Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Going Balls",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/going-balls",
+    "openGraph": {
+      "title": "Free Going Balls Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Going Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/going-balls-og.jpg",
+      "url": "https://littlegames.com/games/going-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Going Balls Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Going Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/going-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Going Balls",
+      "href": "/games/going-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_269",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

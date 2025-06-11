@@ -1,0 +1,54 @@
+{
+  "gameId": 7695,
+  "slug": "traffic-run-puzzle",
+  "metadata": {
+    "title": "Traffic Run Puzzle Online - Logic and Strategy Game",
+    "description": "Traffic Run Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Traffic Run Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/traffic-run-puzzle",
+    "openGraph": {
+      "title": "Traffic Run Puzzle Online - Logic and Strategy Game",
+      "description": "Traffic Run Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/traffic-run-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/traffic-run-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Traffic Run Puzzle Online - Logic and Strategy Game",
+      "description": "Traffic Run Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/traffic-run-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Traffic Run Puzzle",
+      "href": "/games/traffic-run-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_551",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

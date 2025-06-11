@@ -1,0 +1,54 @@
+{
+  "gameId": 1581,
+  "slug": "2-colors-box",
+  "metadata": {
+    "title": "2 Colors Box Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of 2 Colors Box. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "2 Colors Box",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/2-colors-box",
+    "openGraph": {
+      "title": "2 Colors Box Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of 2 Colors Box. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/2-colors-box-og.jpg",
+      "url": "https://littlegames.com/games/2-colors-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2 Colors Box Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of 2 Colors Box. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/2-colors-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2 Colors Box",
+      "href": "/games/2-colors-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_017",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

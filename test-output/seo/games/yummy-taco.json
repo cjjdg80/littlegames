@@ -1,0 +1,54 @@
+{
+  "gameId": 3792,
+  "slug": "yummy-taco",
+  "metadata": {
+    "title": "Yummy Taco - Exciting Action Adventure Game",
+    "description": "Join the action in Yummy Taco! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Yummy Taco",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/yummy-taco",
+    "openGraph": {
+      "title": "Yummy Taco - Exciting Action Adventure Game",
+      "description": "Join the action in Yummy Taco! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/yummy-taco-og.jpg",
+      "url": "https://littlegames.com/games/yummy-taco",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Yummy Taco - Exciting Action Adventure Game",
+      "description": "Join the action in Yummy Taco! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/yummy-taco-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Yummy Taco",
+      "href": "/games/yummy-taco",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_558",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

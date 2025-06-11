@@ -1,0 +1,54 @@
+{
+  "gameId": 1982,
+  "slug": "tiny-archer",
+  "metadata": {
+    "title": "Tiny Archer - Exciting Action Adventure Game",
+    "description": "Join the action in Tiny Archer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Tiny Archer game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-archer",
+    "openGraph": {
+      "title": "Tiny Archer - Exciting Action Adventure Game",
+      "description": "Join the action in Tiny Archer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tiny-archer-og.jpg",
+      "url": "https://littlegames.com/games/tiny-archer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tiny Archer - Exciting Action Adventure Game",
+      "description": "Join the action in Tiny Archer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tiny-archer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tiny Archer",
+      "href": "/games/tiny-archer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_448",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

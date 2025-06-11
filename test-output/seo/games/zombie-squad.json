@@ -1,0 +1,54 @@
+{
+  "gameId": 1746,
+  "slug": "zombie-squad",
+  "metadata": {
+    "title": "Free Zombie Squad Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Zombie Squad. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Zombie Squad",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-squad",
+    "openGraph": {
+      "title": "Free Zombie Squad Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Zombie Squad. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/zombie-squad-og.jpg",
+      "url": "https://littlegames.com/games/zombie-squad",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Zombie Squad Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Zombie Squad. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/zombie-squad-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Squad",
+      "href": "/games/zombie-squad",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_132",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

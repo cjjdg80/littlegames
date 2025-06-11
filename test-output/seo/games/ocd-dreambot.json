@@ -1,0 +1,54 @@
+{
+  "gameId": 4419,
+  "slug": "ocd-dreambot",
+  "metadata": {
+    "title": "OCD Dreambot - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in OCD Dreambot! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "OCD Dreambot",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ocd-dreambot",
+    "openGraph": {
+      "title": "OCD Dreambot - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in OCD Dreambot! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/ocd-dreambot-og.jpg",
+      "url": "https://littlegames.com/games/ocd-dreambot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "OCD Dreambot - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in OCD Dreambot! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/ocd-dreambot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "OCD Dreambot",
+      "href": "/games/ocd-dreambot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_998",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

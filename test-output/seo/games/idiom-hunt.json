@@ -1,0 +1,54 @@
+{
+  "gameId": 4514,
+  "slug": "idiom-hunt",
+  "metadata": {
+    "title": "Idiom Hunt Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Idiom Hunt! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Idiom Hunt game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/idiom-hunt",
+    "openGraph": {
+      "title": "Idiom Hunt Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Idiom Hunt! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/idiom-hunt-og.jpg",
+      "url": "https://littlegames.com/games/idiom-hunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idiom Hunt Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Idiom Hunt! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/idiom-hunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Idiom Hunt",
+      "href": "/games/idiom-hunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_940",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5699,
+  "slug": "spooky-escape",
+  "metadata": {
+    "title": "Play Spooky Escape - Epic Adventure Game Online",
+    "description": "Spooky Escape offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Spooky Escape",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/spooky-escape",
+    "openGraph": {
+      "title": "Play Spooky Escape - Epic Adventure Game Online",
+      "description": "Spooky Escape offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/spooky-escape-og.jpg",
+      "url": "https://littlegames.com/games/spooky-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Spooky Escape - Epic Adventure Game Online",
+      "description": "Spooky Escape offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/spooky-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Spooky Escape",
+      "href": "/games/spooky-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_678",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

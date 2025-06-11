@@ -1,0 +1,54 @@
+{
+  "gameId": 5207,
+  "slug": "idle-painter",
+  "metadata": {
+    "title": "Action Game Idle Painter - Play Free Now",
+    "description": "Idle Painter delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Idle Painter online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/idle-painter",
+    "openGraph": {
+      "title": "Action Game Idle Painter - Play Free Now",
+      "description": "Idle Painter delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/idle-painter-og.jpg",
+      "url": "https://littlegames.com/games/idle-painter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Idle Painter - Play Free Now",
+      "description": "Idle Painter delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/idle-painter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Painter",
+      "href": "/games/idle-painter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_427",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

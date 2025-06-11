@@ -1,0 +1,54 @@
+{
+  "gameId": 1451,
+  "slug": "line-driver",
+  "metadata": {
+    "title": "Play Line Driver - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Line Driver. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Line Driver",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/line-driver",
+    "openGraph": {
+      "title": "Play Line Driver - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Line Driver. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/line-driver-og.jpg",
+      "url": "https://littlegames.com/games/line-driver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Line Driver - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Line Driver. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/line-driver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Line Driver",
+      "href": "/games/line-driver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_987",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

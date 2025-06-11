@@ -1,0 +1,54 @@
+{
+  "gameId": 682,
+  "slug": "fashion-blogger",
+  "metadata": {
+    "title": "Free Fashion Blogger Game - Action Packed Fun",
+    "description": "Experience thrilling action in Fashion Blogger! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Fashion Blogger",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fashion-blogger",
+    "openGraph": {
+      "title": "Free Fashion Blogger Game - Action Packed Fun",
+      "description": "Experience thrilling action in Fashion Blogger! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/fashion-blogger-og.jpg",
+      "url": "https://littlegames.com/games/fashion-blogger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Fashion Blogger Game - Action Packed Fun",
+      "description": "Experience thrilling action in Fashion Blogger! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/fashion-blogger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fashion Blogger",
+      "href": "/games/fashion-blogger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_148",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

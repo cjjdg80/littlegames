@@ -1,0 +1,54 @@
+{
+  "gameId": 8931,
+  "slug": "data-diggers",
+  "metadata": {
+    "title": "Action Game Data Diggers - Play Free Now",
+    "description": "Data Diggers delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Data Diggers game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/data-diggers",
+    "openGraph": {
+      "title": "Action Game Data Diggers - Play Free Now",
+      "description": "Data Diggers delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/data-diggers-og.jpg",
+      "url": "https://littlegames.com/games/data-diggers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Data Diggers - Play Free Now",
+      "description": "Data Diggers delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/data-diggers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Data Diggers",
+      "href": "/games/data-diggers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_867",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

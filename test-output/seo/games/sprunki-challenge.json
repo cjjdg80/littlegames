@@ -1,0 +1,54 @@
+{
+  "gameId": 8949,
+  "slug": "sprunki-challenge",
+  "metadata": {
+    "title": "Sprunki Challenge - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Sprunki Challenge! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Sprunki Challenge online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sprunki-challenge",
+    "openGraph": {
+      "title": "Sprunki Challenge - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Sprunki Challenge! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/sprunki-challenge-og.jpg",
+      "url": "https://littlegames.com/games/sprunki-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sprunki Challenge - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Sprunki Challenge! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sprunki-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sprunki Challenge",
+      "href": "/games/sprunki-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_425",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2829,
+  "slug": "canoe-sprint",
+  "metadata": {
+    "title": "Play Canoe Sprint - Free Action Game Online",
+    "description": "Join the action in Canoe Sprint! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Canoe Sprint",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/canoe-sprint",
+    "openGraph": {
+      "title": "Play Canoe Sprint - Free Action Game Online",
+      "description": "Join the action in Canoe Sprint! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/canoe-sprint-og.jpg",
+      "url": "https://littlegames.com/games/canoe-sprint",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Canoe Sprint - Free Action Game Online",
+      "description": "Join the action in Canoe Sprint! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/canoe-sprint-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Canoe Sprint",
+      "href": "/games/canoe-sprint",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_705",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

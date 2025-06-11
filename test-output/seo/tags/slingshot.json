@@ -1,0 +1,46 @@
+{
+  "tag": "slingshot",
+  "displayName": "Slingshot",
+  "metadata": {
+    "title": "Slingshot Games - Play Free Online",
+    "description": "Discover amazing slingshot games! Play 5 free games with slingshot theme. No downloads required.",
+    "keywords": [
+      "slingshot games",
+      "free online games",
+      "browser games",
+      "slingshot theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/slingshot",
+    "openGraph": {
+      "title": "Slingshot Games - Free Online Gaming",
+      "description": "Play the best slingshot games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/slingshot-og.jpg",
+      "url": "https://littlegames.com/tags/slingshot",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slingshot Games - Free Online",
+      "description": "Play 5 free slingshot games online.",
+      "image": "https://littlegames.com/images/tags/slingshot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Slingshot",
+      "href": "/tags/slingshot",
+      "current": true
+    }
+  ],
+  "description": "Discover games with slingshot theme! Our collection includes 5 carefully selected games that feature slingshot elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2760,
+  "slug": "giant-push",
+  "metadata": {
+    "title": "Play Giant Push! - Free Action Game Online",
+    "description": "Giant Push! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Giant Push! online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/giant-push",
+    "openGraph": {
+      "title": "Play Giant Push! - Free Action Game Online",
+      "description": "Giant Push! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/giant-push-og.jpg",
+      "url": "https://littlegames.com/games/giant-push",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Giant Push! - Free Action Game Online",
+      "description": "Giant Push! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/giant-push-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Giant Push!",
+      "href": "/games/giant-push",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_566",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

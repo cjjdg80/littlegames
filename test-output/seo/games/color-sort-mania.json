@@ -1,0 +1,54 @@
+{
+  "gameId": 7886,
+  "slug": "color-sort-mania",
+  "metadata": {
+    "title": "Color Sort Mania - Brain Training Puzzle Challenge",
+    "description": "Color Sort Mania offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Color Sort Mania",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/color-sort-mania",
+    "openGraph": {
+      "title": "Color Sort Mania - Brain Training Puzzle Challenge",
+      "description": "Color Sort Mania offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/color-sort-mania-og.jpg",
+      "url": "https://littlegames.com/games/color-sort-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Sort Mania - Brain Training Puzzle Challenge",
+      "description": "Color Sort Mania offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/color-sort-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Color Sort Mania",
+      "href": "/games/color-sort-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_472",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

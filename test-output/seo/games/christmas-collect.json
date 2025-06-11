@@ -1,0 +1,54 @@
+{
+  "gameId": 7447,
+  "slug": "christmas-collect",
+  "metadata": {
+    "title": "Christmas Collect Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Christmas Collect. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Christmas Collect",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-collect",
+    "openGraph": {
+      "title": "Christmas Collect Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Christmas Collect. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/christmas-collect-og.jpg",
+      "url": "https://littlegames.com/games/christmas-collect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Christmas Collect Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Christmas Collect. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/christmas-collect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Christmas Collect",
+      "href": "/games/christmas-collect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_863",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

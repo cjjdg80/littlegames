@@ -1,0 +1,54 @@
+{
+  "gameId": 1170,
+  "slug": "danger-corner",
+  "metadata": {
+    "title": "Play Danger Corner - Free Action Game Online",
+    "description": "Join the action in Danger Corner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Danger Corner",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/danger-corner",
+    "openGraph": {
+      "title": "Play Danger Corner - Free Action Game Online",
+      "description": "Join the action in Danger Corner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/danger-corner-og.jpg",
+      "url": "https://littlegames.com/games/danger-corner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Danger Corner - Free Action Game Online",
+      "description": "Join the action in Danger Corner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/danger-corner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Danger Corner",
+      "href": "/games/danger-corner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_276",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

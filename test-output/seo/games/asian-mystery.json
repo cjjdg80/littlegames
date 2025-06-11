@@ -1,0 +1,54 @@
+{
+  "gameId": 1514,
+  "slug": "asian-mystery",
+  "metadata": {
+    "title": "Asian Mystery - Exciting Action Adventure Game",
+    "description": "Asian Mystery delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Asian Mystery online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/asian-mystery",
+    "openGraph": {
+      "title": "Asian Mystery - Exciting Action Adventure Game",
+      "description": "Asian Mystery delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/asian-mystery-og.jpg",
+      "url": "https://littlegames.com/games/asian-mystery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Asian Mystery - Exciting Action Adventure Game",
+      "description": "Asian Mystery delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/asian-mystery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Asian Mystery",
+      "href": "/games/asian-mystery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_940",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2649,
+  "slug": "nextrealm-bubbles",
+  "metadata": {
+    "title": "Play NextRealm Bubbles - Free Action Game Online",
+    "description": "NextRealm Bubbles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "NextRealm Bubbles online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/nextrealm-bubbles",
+    "openGraph": {
+      "title": "Play NextRealm Bubbles - Free Action Game Online",
+      "description": "NextRealm Bubbles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/nextrealm-bubbles-og.jpg",
+      "url": "https://littlegames.com/games/nextrealm-bubbles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play NextRealm Bubbles - Free Action Game Online",
+      "description": "NextRealm Bubbles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/nextrealm-bubbles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "NextRealm Bubbles",
+      "href": "/games/nextrealm-bubbles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_125",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

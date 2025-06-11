@@ -1,0 +1,54 @@
+{
+  "gameId": 8194,
+  "slug": "panda-adventure",
+  "metadata": {
+    "title": "Play Panda Adventure - Epic Adventure Game Online",
+    "description": "Panda Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "Panda Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/panda-adventure",
+    "openGraph": {
+      "title": "Play Panda Adventure - Epic Adventure Game Online",
+      "description": "Panda Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/panda-adventure-og.jpg",
+      "url": "https://littlegames.com/games/panda-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Panda Adventure - Epic Adventure Game Online",
+      "description": "Panda Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/panda-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Panda Adventure",
+      "href": "/games/panda-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_023",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9412,
+  "slug": "gluttony",
+  "metadata": {
+    "title": "Gluttony - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Gluttony. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Gluttony online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/gluttony",
+    "openGraph": {
+      "title": "Gluttony - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Gluttony. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gluttony-og.jpg",
+      "url": "https://littlegames.com/games/gluttony",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gluttony - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Gluttony. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gluttony-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Gluttony",
+      "href": "/games/gluttony",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_778",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

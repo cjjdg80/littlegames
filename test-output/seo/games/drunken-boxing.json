@@ -1,0 +1,54 @@
+{
+  "gameId": 2223,
+  "slug": "drunken-boxing",
+  "metadata": {
+    "title": "Action Game Drunken Boxing - Play Free Now",
+    "description": "Dive into the action-packed world of Drunken Boxing. This sports game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Drunken Boxing",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/drunken-boxing",
+    "openGraph": {
+      "title": "Action Game Drunken Boxing - Play Free Now",
+      "description": "Dive into the action-packed world of Drunken Boxing. This sports game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/drunken-boxing-og.jpg",
+      "url": "https://littlegames.com/games/drunken-boxing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Drunken Boxing - Play Free Now",
+      "description": "Dive into the action-packed world of Drunken Boxing. This sports game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/drunken-boxing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Drunken Boxing",
+      "href": "/games/drunken-boxing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_919",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4215,
+  "slug": "alpha-guns",
+  "metadata": {
+    "title": "Alpha Guns - Exciting Action Adventure Game",
+    "description": "Join the action in Alpha Guns! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Alpha Guns game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/alpha-guns",
+    "openGraph": {
+      "title": "Alpha Guns - Exciting Action Adventure Game",
+      "description": "Join the action in Alpha Guns! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/alpha-guns-og.jpg",
+      "url": "https://littlegames.com/games/alpha-guns",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Alpha Guns - Exciting Action Adventure Game",
+      "description": "Join the action in Alpha Guns! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/alpha-guns-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Alpha Guns",
+      "href": "/games/alpha-guns",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_671",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8419,
+  "slug": "monster-truck-crush",
+  "metadata": {
+    "title": "Monster Truck Crush - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Monster Truck Crush. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Monster Truck Crush online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/monster-truck-crush",
+    "openGraph": {
+      "title": "Monster Truck Crush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Monster Truck Crush. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/monster-truck-crush-og.jpg",
+      "url": "https://littlegames.com/games/monster-truck-crush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Truck Crush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Monster Truck Crush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/monster-truck-crush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monster Truck Crush",
+      "href": "/games/monster-truck-crush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_995",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

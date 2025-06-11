@@ -1,0 +1,54 @@
+{
+  "gameId": 8527,
+  "slug": "math-quest",
+  "metadata": {
+    "title": "Free Math Quest Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Math Quest. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Math Quest",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/math-quest",
+    "openGraph": {
+      "title": "Free Math Quest Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Math Quest. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/math-quest-og.jpg",
+      "url": "https://littlegames.com/games/math-quest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Math Quest Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Math Quest. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/math-quest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Math Quest",
+      "href": "/games/math-quest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_343",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1139,
+  "slug": "hill-race-adventure",
+  "metadata": {
+    "title": "Hill Race Adventure - Exciting Action Adventure Game",
+    "description": "Join the action in Hill Race Adventure! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Hill Race Adventure game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hill-race-adventure",
+    "openGraph": {
+      "title": "Hill Race Adventure - Exciting Action Adventure Game",
+      "description": "Join the action in Hill Race Adventure! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hill-race-adventure-og.jpg",
+      "url": "https://littlegames.com/games/hill-race-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hill Race Adventure - Exciting Action Adventure Game",
+      "description": "Join the action in Hill Race Adventure! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hill-race-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hill Race Adventure",
+      "href": "/games/hill-race-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_315",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

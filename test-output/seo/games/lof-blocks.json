@@ -1,0 +1,54 @@
+{
+  "gameId": 2887,
+  "slug": "lof-blocks",
+  "metadata": {
+    "title": "Play Lof Blocks - Free Puzzle Game Online",
+    "description": "Challenge your mind with Lof Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Lof Blocks online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/lof-blocks",
+    "openGraph": {
+      "title": "Play Lof Blocks - Free Puzzle Game Online",
+      "description": "Challenge your mind with Lof Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/lof-blocks-og.jpg",
+      "url": "https://littlegames.com/games/lof-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lof Blocks - Free Puzzle Game Online",
+      "description": "Challenge your mind with Lof Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/lof-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Lof Blocks",
+      "href": "/games/lof-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_503",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

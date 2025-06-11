@@ -1,0 +1,54 @@
+{
+  "gameId": 8372,
+  "slug": "100-rooms-escape",
+  "metadata": {
+    "title": "100 Rooms Escape - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in 100 Rooms Escape. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "100 Rooms Escape game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/100-rooms-escape",
+    "openGraph": {
+      "title": "100 Rooms Escape - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in 100 Rooms Escape. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/100-rooms-escape-og.jpg",
+      "url": "https://littlegames.com/games/100-rooms-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "100 Rooms Escape - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in 100 Rooms Escape. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/100-rooms-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "100 Rooms Escape",
+      "href": "/games/100-rooms-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_538",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8660,
+  "slug": "jelly-block-puzzle",
+  "metadata": {
+    "title": "Jelly Block Puzzle - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Jelly Block Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Jelly Block Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-block-puzzle",
+    "openGraph": {
+      "title": "Jelly Block Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Jelly Block Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jelly-block-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/jelly-block-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jelly Block Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Jelly Block Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jelly-block-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jelly Block Puzzle",
+      "href": "/games/jelly-block-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_466",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

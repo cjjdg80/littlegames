@@ -1,0 +1,54 @@
+{
+  "gameId": 6217,
+  "slug": "emoji-flow",
+  "metadata": {
+    "title": "Free Emoji Flow Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Emoji Flow. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Emoji Flow",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-flow",
+    "openGraph": {
+      "title": "Free Emoji Flow Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Emoji Flow. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/emoji-flow-og.jpg",
+      "url": "https://littlegames.com/games/emoji-flow",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Emoji Flow Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Emoji Flow. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/emoji-flow-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Emoji Flow",
+      "href": "/games/emoji-flow",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_733",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8980,
+  "slug": "battleship",
+  "metadata": {
+    "title": "Action Game Battleship - Play Free Now",
+    "description": "Join the action in Battleship! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Battleship game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/battleship",
+    "openGraph": {
+      "title": "Action Game Battleship - Play Free Now",
+      "description": "Join the action in Battleship! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/battleship-og.jpg",
+      "url": "https://littlegames.com/games/battleship",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Battleship - Play Free Now",
+      "description": "Join the action in Battleship! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/battleship-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Battleship",
+      "href": "/games/battleship",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_386",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

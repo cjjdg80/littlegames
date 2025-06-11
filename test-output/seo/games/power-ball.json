@@ -1,0 +1,54 @@
+{
+  "gameId": 3041,
+  "slug": "power-ball",
+  "metadata": {
+    "title": "Play Power Ball - Free Action Game Online",
+    "description": "Power Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Power Ball",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/power-ball",
+    "openGraph": {
+      "title": "Play Power Ball - Free Action Game Online",
+      "description": "Power Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/power-ball-og.jpg",
+      "url": "https://littlegames.com/games/power-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Power Ball - Free Action Game Online",
+      "description": "Power Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/power-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Power Ball",
+      "href": "/games/power-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_277",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

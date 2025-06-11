@@ -1,0 +1,54 @@
+{
+  "gameId": 5514,
+  "slug": "zombies-are-coming",
+  "metadata": {
+    "title": "Zombies Are Coming - Exciting Action Adventure Game",
+    "description": "Join the action in Zombies Are Coming! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Zombies Are Coming online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zombies-are-coming",
+    "openGraph": {
+      "title": "Zombies Are Coming - Exciting Action Adventure Game",
+      "description": "Join the action in Zombies Are Coming! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombies-are-coming-og.jpg",
+      "url": "https://littlegames.com/games/zombies-are-coming",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombies Are Coming - Exciting Action Adventure Game",
+      "description": "Join the action in Zombies Are Coming! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombies-are-coming-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombies Are Coming",
+      "href": "/games/zombies-are-coming",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_940",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

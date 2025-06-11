@@ -1,0 +1,54 @@
+{
+  "gameId": 9830,
+  "slug": "purrfect-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Purrfect Puzzle - Test Your Skills",
+    "description": "Purrfect Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Purrfect Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/purrfect-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Purrfect Puzzle - Test Your Skills",
+      "description": "Purrfect Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/purrfect-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/purrfect-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Purrfect Puzzle - Test Your Skills",
+      "description": "Purrfect Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/purrfect-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Purrfect Puzzle",
+      "href": "/games/purrfect-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_736",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

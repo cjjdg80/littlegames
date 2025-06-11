@@ -1,0 +1,54 @@
+{
+  "gameId": 4367,
+  "slug": "atomic-puzzle-xmas",
+  "metadata": {
+    "title": "Atomic Puzzle XMas Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Atomic Puzzle XMas. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Atomic Puzzle XMas online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/atomic-puzzle-xmas",
+    "openGraph": {
+      "title": "Atomic Puzzle XMas Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Atomic Puzzle XMas. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/atomic-puzzle-xmas-og.jpg",
+      "url": "https://littlegames.com/games/atomic-puzzle-xmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Atomic Puzzle XMas Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Atomic Puzzle XMas. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/atomic-puzzle-xmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Atomic Puzzle XMas",
+      "href": "/games/atomic-puzzle-xmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_383",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6060,
+  "slug": "bowling-challenge",
+  "metadata": {
+    "title": "Play Bowling Challenge - Free Action Game Online",
+    "description": "Bowling Challenge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Bowling Challenge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bowling-challenge",
+    "openGraph": {
+      "title": "Play Bowling Challenge - Free Action Game Online",
+      "description": "Bowling Challenge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bowling-challenge-og.jpg",
+      "url": "https://littlegames.com/games/bowling-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bowling Challenge - Free Action Game Online",
+      "description": "Bowling Challenge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bowling-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bowling Challenge",
+      "href": "/games/bowling-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_866",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

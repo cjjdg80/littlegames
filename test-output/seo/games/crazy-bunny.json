@@ -1,0 +1,54 @@
+{
+  "gameId": 2972,
+  "slug": "crazy-bunny",
+  "metadata": {
+    "title": "Crazy Bunny Online - Explore and Discover",
+    "description": "Embark on an epic journey in Crazy Bunny! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Crazy Bunny game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-bunny",
+    "openGraph": {
+      "title": "Crazy Bunny Online - Explore and Discover",
+      "description": "Embark on an epic journey in Crazy Bunny! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/crazy-bunny-og.jpg",
+      "url": "https://littlegames.com/games/crazy-bunny",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crazy Bunny Online - Explore and Discover",
+      "description": "Embark on an epic journey in Crazy Bunny! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/crazy-bunny-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Crazy Bunny",
+      "href": "/games/crazy-bunny",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_141",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

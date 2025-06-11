@@ -1,0 +1,54 @@
+{
+  "gameId": 5430,
+  "slug": "twisty-roads",
+  "metadata": {
+    "title": "Free Twisty Roads! Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Twisty Roads!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Twisty Roads! online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/twisty-roads",
+    "openGraph": {
+      "title": "Free Twisty Roads! Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Twisty Roads!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/twisty-roads-og.jpg",
+      "url": "https://littlegames.com/games/twisty-roads",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Twisty Roads! Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Twisty Roads!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/twisty-roads-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Twisty Roads!",
+      "href": "/games/twisty-roads",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_336",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

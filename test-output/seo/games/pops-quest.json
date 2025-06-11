@@ -1,0 +1,54 @@
+{
+  "gameId": 9842,
+  "slug": "pops-quest",
+  "metadata": {
+    "title": "Adventure Game Pops Quest - Journey Begins",
+    "description": "Embark on an epic journey in Pops Quest! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Pops Quest",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/pops-quest",
+    "openGraph": {
+      "title": "Adventure Game Pops Quest - Journey Begins",
+      "description": "Embark on an epic journey in Pops Quest! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/pops-quest-og.jpg",
+      "url": "https://littlegames.com/games/pops-quest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Pops Quest - Journey Begins",
+      "description": "Embark on an epic journey in Pops Quest! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/pops-quest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pops Quest",
+      "href": "/games/pops-quest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_111",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

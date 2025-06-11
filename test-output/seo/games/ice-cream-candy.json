@@ -1,0 +1,54 @@
+{
+  "gameId": 4004,
+  "slug": "ice-cream-candy",
+  "metadata": {
+    "title": "Ice Cream Candy Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Ice Cream Candy. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Ice Cream Candy game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ice-cream-candy",
+    "openGraph": {
+      "title": "Ice Cream Candy Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Ice Cream Candy. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ice-cream-candy-og.jpg",
+      "url": "https://littlegames.com/games/ice-cream-candy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ice Cream Candy Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Ice Cream Candy. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ice-cream-candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ice Cream Candy",
+      "href": "/games/ice-cream-candy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_130",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1989,
+  "slug": "escape-from-prison",
+  "metadata": {
+    "title": "Play Escape from Prison - Epic Adventure Game Online",
+    "description": "Begin your quest in Escape from Prison. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Escape from Prison game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/escape-from-prison",
+    "openGraph": {
+      "title": "Play Escape from Prison - Epic Adventure Game Online",
+      "description": "Begin your quest in Escape from Prison. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/escape-from-prison-og.jpg",
+      "url": "https://littlegames.com/games/escape-from-prison",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Escape from Prison - Epic Adventure Game Online",
+      "description": "Begin your quest in Escape from Prison. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/escape-from-prison-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape from Prison",
+      "href": "/games/escape-from-prison",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_668",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

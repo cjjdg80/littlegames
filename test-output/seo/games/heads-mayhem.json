@@ -1,0 +1,54 @@
+{
+  "gameId": 940,
+  "slug": "heads-mayhem",
+  "metadata": {
+    "title": "Free Heads Mayhem Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Heads Mayhem. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Heads Mayhem",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/heads-mayhem",
+    "openGraph": {
+      "title": "Free Heads Mayhem Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Heads Mayhem. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/heads-mayhem-og.jpg",
+      "url": "https://littlegames.com/games/heads-mayhem",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Heads Mayhem Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Heads Mayhem. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/heads-mayhem-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Heads Mayhem",
+      "href": "/games/heads-mayhem",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_146",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

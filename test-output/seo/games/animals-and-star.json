@@ -1,0 +1,54 @@
+{
+  "gameId": 2897,
+  "slug": "animals-and-star",
+  "metadata": {
+    "title": "Animals And Star Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Animals And Star. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Animals And Star game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/animals-and-star",
+    "openGraph": {
+      "title": "Animals And Star Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Animals And Star. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/animals-and-star-og.jpg",
+      "url": "https://littlegames.com/games/animals-and-star",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animals And Star Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Animals And Star. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/animals-and-star-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Animals And Star",
+      "href": "/games/animals-and-star",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_813",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

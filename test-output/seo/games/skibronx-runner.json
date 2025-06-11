@@ -1,0 +1,54 @@
+{
+  "gameId": 8463,
+  "slug": "skibronx-runner",
+  "metadata": {
+    "title": "Adventure Game Skibronx Runner - Journey Begins",
+    "description": "Begin your quest in Skibronx Runner. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Skibronx Runner",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/skibronx-runner",
+    "openGraph": {
+      "title": "Adventure Game Skibronx Runner - Journey Begins",
+      "description": "Begin your quest in Skibronx Runner. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/skibronx-runner-og.jpg",
+      "url": "https://littlegames.com/games/skibronx-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Skibronx Runner - Journey Begins",
+      "description": "Begin your quest in Skibronx Runner. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/skibronx-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Skibronx Runner",
+      "href": "/games/skibronx-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_362",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

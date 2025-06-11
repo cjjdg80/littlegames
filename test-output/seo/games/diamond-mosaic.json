@@ -1,0 +1,54 @@
+{
+  "gameId": 9917,
+  "slug": "diamond-mosaic",
+  "metadata": {
+    "title": "Play Diamond mosaic - Free Action Game Online",
+    "description": "Join the action in Diamond mosaic! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Diamond mosaic",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/diamond-mosaic",
+    "openGraph": {
+      "title": "Play Diamond mosaic - Free Action Game Online",
+      "description": "Join the action in Diamond mosaic! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/diamond-mosaic-og.jpg",
+      "url": "https://littlegames.com/games/diamond-mosaic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Diamond mosaic - Free Action Game Online",
+      "description": "Join the action in Diamond mosaic! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/diamond-mosaic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Diamond mosaic",
+      "href": "/games/diamond-mosaic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_433",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

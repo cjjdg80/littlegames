@@ -1,0 +1,54 @@
+{
+  "gameId": 1880,
+  "slug": "racing-cars",
+  "metadata": {
+    "title": "Racing Cars Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Racing Cars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Racing Cars online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/racing-cars",
+    "openGraph": {
+      "title": "Racing Cars Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Racing Cars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/racing-cars-og.jpg",
+      "url": "https://littlegames.com/games/racing-cars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Racing Cars Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Racing Cars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/racing-cars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Racing Cars",
+      "href": "/games/racing-cars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_286",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

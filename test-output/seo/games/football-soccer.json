@@ -1,0 +1,54 @@
+{
+  "gameId": 7425,
+  "slug": "football-soccer",
+  "metadata": {
+    "title": "Action Game Football - Soccer - Play Free Now",
+    "description": "Football - Soccer delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Football - Soccer",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/football-soccer",
+    "openGraph": {
+      "title": "Action Game Football - Soccer - Play Free Now",
+      "description": "Football - Soccer delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/football-soccer-og.jpg",
+      "url": "https://littlegames.com/games/football-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Football - Soccer - Play Free Now",
+      "description": "Football - Soccer delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/football-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Football - Soccer",
+      "href": "/games/football-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_181",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1387,
+  "slug": "spaceugh",
+  "metadata": {
+    "title": "SpaceUgh! Online - Explore and Discover",
+    "description": "Begin your quest in SpaceUgh!. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "SpaceUgh! game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/spaceugh",
+    "openGraph": {
+      "title": "SpaceUgh! Online - Explore and Discover",
+      "description": "Begin your quest in SpaceUgh!. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/spaceugh-og.jpg",
+      "url": "https://littlegames.com/games/spaceugh",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SpaceUgh! Online - Explore and Discover",
+      "description": "Begin your quest in SpaceUgh!. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/spaceugh-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "SpaceUgh!",
+      "href": "/games/spaceugh",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_006",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

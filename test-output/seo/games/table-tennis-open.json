@@ -1,0 +1,54 @@
+{
+  "gameId": 9897,
+  "slug": "table-tennis-open",
+  "metadata": {
+    "title": "Table Tennis Open - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Table Tennis Open. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Table Tennis Open",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/table-tennis-open",
+    "openGraph": {
+      "title": "Table Tennis Open - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Table Tennis Open. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/table-tennis-open-og.jpg",
+      "url": "https://littlegames.com/games/table-tennis-open",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Table Tennis Open - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Table Tennis Open. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/table-tennis-open-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Table Tennis Open",
+      "href": "/games/table-tennis-open",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_813",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4190,
+  "slug": "noob-huggy",
+  "metadata": {
+    "title": "Noob Huggy - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Noob Huggy! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Noob Huggy",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/noob-huggy",
+    "openGraph": {
+      "title": "Noob Huggy - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Noob Huggy! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/noob-huggy-og.jpg",
+      "url": "https://littlegames.com/games/noob-huggy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Noob Huggy - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Noob Huggy! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/noob-huggy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Noob Huggy",
+      "href": "/games/noob-huggy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_899",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

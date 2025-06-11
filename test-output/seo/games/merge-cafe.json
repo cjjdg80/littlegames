@@ -1,0 +1,54 @@
+{
+  "gameId": 2575,
+  "slug": "merge-cafe",
+  "metadata": {
+    "title": "Merge Cafe - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Merge Cafe! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Merge Cafe game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/merge-cafe",
+    "openGraph": {
+      "title": "Merge Cafe - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Merge Cafe! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/merge-cafe-og.jpg",
+      "url": "https://littlegames.com/games/merge-cafe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Cafe - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Merge Cafe! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/merge-cafe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Merge Cafe",
+      "href": "/games/merge-cafe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_831",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

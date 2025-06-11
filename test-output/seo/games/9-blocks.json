@@ -1,0 +1,54 @@
+{
+  "gameId": 9029,
+  "slug": "9-blocks",
+  "metadata": {
+    "title": "Play 9 Blocks - Free Action Game Online",
+    "description": "Experience thrilling action in 9 Blocks! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "9 Blocks game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/9-blocks",
+    "openGraph": {
+      "title": "Play 9 Blocks - Free Action Game Online",
+      "description": "Experience thrilling action in 9 Blocks! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/9-blocks-og.jpg",
+      "url": "https://littlegames.com/games/9-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 9 Blocks - Free Action Game Online",
+      "description": "Experience thrilling action in 9 Blocks! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/9-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "9 Blocks",
+      "href": "/games/9-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_905",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

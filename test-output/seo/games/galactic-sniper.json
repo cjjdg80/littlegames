@@ -1,0 +1,54 @@
+{
+  "gameId": 3285,
+  "slug": "galactic-sniper",
+  "metadata": {
+    "title": "Play Galactic Sniper - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Galactic Sniper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Galactic Sniper game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/galactic-sniper",
+    "openGraph": {
+      "title": "Play Galactic Sniper - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Galactic Sniper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/galactic-sniper-og.jpg",
+      "url": "https://littlegames.com/games/galactic-sniper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Galactic Sniper - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Galactic Sniper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/galactic-sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Galactic Sniper",
+      "href": "/games/galactic-sniper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_841",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

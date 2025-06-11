@@ -1,0 +1,54 @@
+{
+  "gameId": 5131,
+  "slug": "2048-abc-runner",
+  "metadata": {
+    "title": "Action Game 2048 ABC Runner - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in 2048 ABC Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "2048 ABC Runner game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/2048-abc-runner",
+    "openGraph": {
+      "title": "Action Game 2048 ABC Runner - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in 2048 ABC Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2048-abc-runner-og.jpg",
+      "url": "https://littlegames.com/games/2048-abc-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game 2048 ABC Runner - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in 2048 ABC Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2048-abc-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2048 ABC Runner",
+      "href": "/games/2048-abc-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_067",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

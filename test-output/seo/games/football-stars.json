@@ -1,0 +1,54 @@
+{
+  "gameId": 7557,
+  "slug": "football-stars",
+  "metadata": {
+    "title": "Football Stars - Exciting Action Adventure Game",
+    "description": "Join the action in Football Stars! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Football Stars",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/football-stars",
+    "openGraph": {
+      "title": "Football Stars - Exciting Action Adventure Game",
+      "description": "Join the action in Football Stars! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/football-stars-og.jpg",
+      "url": "https://littlegames.com/games/football-stars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Football Stars - Exciting Action Adventure Game",
+      "description": "Join the action in Football Stars! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/football-stars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Football Stars",
+      "href": "/games/football-stars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_273",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

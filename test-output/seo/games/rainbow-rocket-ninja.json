@@ -1,0 +1,54 @@
+{
+  "gameId": 6108,
+  "slug": "rainbow-rocket-ninja",
+  "metadata": {
+    "title": "Rainbow Rocket Ninja Online - Explore and Discover",
+    "description": "Start your epic journey with Rainbow Rocket Ninja! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Rainbow Rocket Ninja game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/rainbow-rocket-ninja",
+    "openGraph": {
+      "title": "Rainbow Rocket Ninja Online - Explore and Discover",
+      "description": "Start your epic journey with Rainbow Rocket Ninja! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rainbow-rocket-ninja-og.jpg",
+      "url": "https://littlegames.com/games/rainbow-rocket-ninja",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rainbow Rocket Ninja Online - Explore and Discover",
+      "description": "Start your epic journey with Rainbow Rocket Ninja! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rainbow-rocket-ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rainbow Rocket Ninja",
+      "href": "/games/rainbow-rocket-ninja",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_357",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8567,
+  "slug": "animal-link",
+  "metadata": {
+    "title": "Free Animal Link Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Animal Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Animal Link",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/animal-link",
+    "openGraph": {
+      "title": "Free Animal Link Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Animal Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/animal-link-og.jpg",
+      "url": "https://littlegames.com/games/animal-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Animal Link Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Animal Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/animal-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Animal Link",
+      "href": "/games/animal-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_583",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

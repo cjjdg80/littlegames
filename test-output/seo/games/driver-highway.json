@@ -1,0 +1,54 @@
+{
+  "gameId": 2925,
+  "slug": "driver-highway",
+  "metadata": {
+    "title": "Action Game Driver Highway - Play Free Now",
+    "description": "Join the action in Driver Highway! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Driver Highway online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/driver-highway",
+    "openGraph": {
+      "title": "Action Game Driver Highway - Play Free Now",
+      "description": "Join the action in Driver Highway! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/driver-highway-og.jpg",
+      "url": "https://littlegames.com/games/driver-highway",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Driver Highway - Play Free Now",
+      "description": "Join the action in Driver Highway! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/driver-highway-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Driver Highway",
+      "href": "/games/driver-highway",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_681",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

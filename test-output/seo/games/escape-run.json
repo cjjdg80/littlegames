@@ -1,0 +1,54 @@
+{
+  "gameId": 6913,
+  "slug": "escape-run",
+  "metadata": {
+    "title": "Free Escape Run Game - Adventure Awaits",
+    "description": "Discover new worlds in Escape Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Escape Run",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/escape-run",
+    "openGraph": {
+      "title": "Free Escape Run Game - Adventure Awaits",
+      "description": "Discover new worlds in Escape Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/escape-run-og.jpg",
+      "url": "https://littlegames.com/games/escape-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Escape Run Game - Adventure Awaits",
+      "description": "Discover new worlds in Escape Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/escape-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape Run",
+      "href": "/games/escape-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_312",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

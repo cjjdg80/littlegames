@@ -1,0 +1,54 @@
+{
+  "gameId": 8945,
+  "slug": "facechart",
+  "metadata": {
+    "title": "Action Game FaceChart - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in FaceChart. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "FaceChart",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/facechart",
+    "openGraph": {
+      "title": "Action Game FaceChart - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in FaceChart. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/facechart-og.jpg",
+      "url": "https://littlegames.com/games/facechart",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game FaceChart - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in FaceChart. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/facechart-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "FaceChart",
+      "href": "/games/facechart",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_301",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

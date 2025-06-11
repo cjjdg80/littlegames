@@ -1,0 +1,54 @@
+{
+  "gameId": 9496,
+  "slug": "hunt-and-seek",
+  "metadata": {
+    "title": "Play Hunt And Seek - Epic Adventure Game Online",
+    "description": "Hunt And Seek offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Hunt And Seek game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/hunt-and-seek",
+    "openGraph": {
+      "title": "Play Hunt And Seek - Epic Adventure Game Online",
+      "description": "Hunt And Seek offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/hunt-and-seek-og.jpg",
+      "url": "https://littlegames.com/games/hunt-and-seek",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hunt And Seek - Epic Adventure Game Online",
+      "description": "Hunt And Seek offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/hunt-and-seek-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hunt And Seek",
+      "href": "/games/hunt-and-seek",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_385",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

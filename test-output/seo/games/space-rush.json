@@ -1,0 +1,54 @@
+{
+  "gameId": 1941,
+  "slug": "space-rush",
+  "metadata": {
+    "title": "Space Rush - Thrilling Adventure Quest",
+    "description": "Begin your quest in Space Rush. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Space Rush",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/space-rush",
+    "openGraph": {
+      "title": "Space Rush - Thrilling Adventure Quest",
+      "description": "Begin your quest in Space Rush. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/space-rush-og.jpg",
+      "url": "https://littlegames.com/games/space-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Space Rush - Thrilling Adventure Quest",
+      "description": "Begin your quest in Space Rush. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/space-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Space Rush",
+      "href": "/games/space-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_180",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

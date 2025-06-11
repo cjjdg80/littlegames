@@ -1,0 +1,54 @@
+{
+  "gameId": 1278,
+  "slug": "homescapes",
+  "metadata": {
+    "title": "Homescapes Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Homescapes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Homescapes game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/homescapes",
+    "openGraph": {
+      "title": "Homescapes Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Homescapes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/homescapes-og.jpg",
+      "url": "https://littlegames.com/games/homescapes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Homescapes Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Homescapes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/homescapes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Homescapes",
+      "href": "/games/homescapes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_624",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

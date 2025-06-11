@@ -1,0 +1,54 @@
+{
+  "gameId": 7124,
+  "slug": "retro-space-blaster",
+  "metadata": {
+    "title": "Retro Space Blaster - Exciting Action Adventure Game",
+    "description": "Join the action in Retro Space Blaster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Retro Space Blaster",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/retro-space-blaster",
+    "openGraph": {
+      "title": "Retro Space Blaster - Exciting Action Adventure Game",
+      "description": "Join the action in Retro Space Blaster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/retro-space-blaster-og.jpg",
+      "url": "https://littlegames.com/games/retro-space-blaster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Retro Space Blaster - Exciting Action Adventure Game",
+      "description": "Join the action in Retro Space Blaster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/retro-space-blaster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Retro Space Blaster",
+      "href": "/games/retro-space-blaster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_850",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

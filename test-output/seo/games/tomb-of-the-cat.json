@@ -1,0 +1,54 @@
+{
+  "gameId": 5283,
+  "slug": "tomb-of-the-cat",
+  "metadata": {
+    "title": "Tomb of The Cat - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Tomb of The Cat. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Tomb of The Cat",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tomb-of-the-cat",
+    "openGraph": {
+      "title": "Tomb of The Cat - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Tomb of The Cat. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/tomb-of-the-cat-og.jpg",
+      "url": "https://littlegames.com/games/tomb-of-the-cat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tomb of The Cat - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Tomb of The Cat. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tomb-of-the-cat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tomb of The Cat",
+      "href": "/games/tomb-of-the-cat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_779",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

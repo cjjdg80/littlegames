@@ -1,0 +1,54 @@
+{
+  "gameId": 6718,
+  "slug": "glamour-beachlife",
+  "metadata": {
+    "title": "Glamour BeachLife Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Glamour BeachLife! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Glamour BeachLife",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/glamour-beachlife",
+    "openGraph": {
+      "title": "Glamour BeachLife Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Glamour BeachLife! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/glamour-beachlife-og.jpg",
+      "url": "https://littlegames.com/games/glamour-beachlife",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Glamour BeachLife Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Glamour BeachLife! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/glamour-beachlife-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Glamour BeachLife",
+      "href": "/games/glamour-beachlife",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_264",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

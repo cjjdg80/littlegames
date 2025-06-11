@@ -1,0 +1,54 @@
+{
+  "gameId": 4343,
+  "slug": "super-villainy",
+  "metadata": {
+    "title": "Free Super Villainy Game - Action Packed Fun",
+    "description": "Experience thrilling action in Super Villainy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Super Villainy online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-villainy",
+    "openGraph": {
+      "title": "Free Super Villainy Game - Action Packed Fun",
+      "description": "Experience thrilling action in Super Villainy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/super-villainy-og.jpg",
+      "url": "https://littlegames.com/games/super-villainy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Super Villainy Game - Action Packed Fun",
+      "description": "Experience thrilling action in Super Villainy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/super-villainy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Villainy",
+      "href": "/games/super-villainy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_639",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

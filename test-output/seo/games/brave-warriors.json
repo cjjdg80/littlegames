@@ -1,0 +1,54 @@
+{
+  "gameId": 2198,
+  "slug": "brave-warriors",
+  "metadata": {
+    "title": "Free Brave Warriors Game - Adventure Awaits",
+    "description": "Begin your quest in Brave Warriors. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Brave Warriors online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/brave-warriors",
+    "openGraph": {
+      "title": "Free Brave Warriors Game - Adventure Awaits",
+      "description": "Begin your quest in Brave Warriors. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/brave-warriors-og.jpg",
+      "url": "https://littlegames.com/games/brave-warriors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brave Warriors Game - Adventure Awaits",
+      "description": "Begin your quest in Brave Warriors. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/brave-warriors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Brave Warriors",
+      "href": "/games/brave-warriors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_147",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

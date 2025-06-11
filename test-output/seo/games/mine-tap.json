@@ -1,0 +1,54 @@
+{
+  "gameId": 3329,
+  "slug": "mine-tap",
+  "metadata": {
+    "title": "Mine Tap - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Mine Tap. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Mine Tap",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/mine-tap",
+    "openGraph": {
+      "title": "Mine Tap - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Mine Tap. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mine-tap-og.jpg",
+      "url": "https://littlegames.com/games/mine-tap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mine Tap - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Mine Tap. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mine-tap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mine Tap",
+      "href": "/games/mine-tap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_205",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8531,
+  "slug": "landmine-cube",
+  "metadata": {
+    "title": "Landmine Cube - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Landmine Cube! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Landmine Cube online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/landmine-cube",
+    "openGraph": {
+      "title": "Landmine Cube - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Landmine Cube! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/landmine-cube-og.jpg",
+      "url": "https://littlegames.com/games/landmine-cube",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Landmine Cube - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Landmine Cube! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/landmine-cube-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Landmine Cube",
+      "href": "/games/landmine-cube",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_467",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

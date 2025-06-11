@@ -1,0 +1,54 @@
+{
+  "gameId": 4380,
+  "slug": "basket-puzzle",
+  "metadata": {
+    "title": "Free Basket Puzzle! Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Basket Puzzle!! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Basket Puzzle!",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/basket-puzzle",
+    "openGraph": {
+      "title": "Free Basket Puzzle! Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Basket Puzzle!! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/basket-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/basket-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Basket Puzzle! Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Basket Puzzle!! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/basket-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Basket Puzzle!",
+      "href": "/games/basket-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_786",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

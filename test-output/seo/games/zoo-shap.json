@@ -1,0 +1,54 @@
+{
+  "gameId": 9493,
+  "slug": "zoo-shap",
+  "metadata": {
+    "title": "Free Zoo Shap Game - Action Packed Fun",
+    "description": "Join the action in Zoo Shap! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Zoo Shap",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zoo-shap",
+    "openGraph": {
+      "title": "Free Zoo Shap Game - Action Packed Fun",
+      "description": "Join the action in Zoo Shap! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zoo-shap-og.jpg",
+      "url": "https://littlegames.com/games/zoo-shap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Zoo Shap Game - Action Packed Fun",
+      "description": "Join the action in Zoo Shap! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zoo-shap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zoo Shap",
+      "href": "/games/zoo-shap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_289",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

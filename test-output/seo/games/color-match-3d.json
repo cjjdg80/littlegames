@@ -1,0 +1,54 @@
+{
+  "gameId": 5404,
+  "slug": "color-match-3d",
+  "metadata": {
+    "title": "Play Color Match 3D - Free Action Game Online",
+    "description": "Experience thrilling action in Color Match 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Color Match 3D",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/color-match-3d",
+    "openGraph": {
+      "title": "Play Color Match 3D - Free Action Game Online",
+      "description": "Experience thrilling action in Color Match 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/color-match-3d-og.jpg",
+      "url": "https://littlegames.com/games/color-match-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Color Match 3D - Free Action Game Online",
+      "description": "Experience thrilling action in Color Match 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/color-match-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Color Match 3D",
+      "href": "/games/color-match-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_530",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

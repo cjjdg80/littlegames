@@ -1,0 +1,54 @@
+{
+  "gameId": 5438,
+  "slug": "jewelry-mosaic",
+  "metadata": {
+    "title": "Jewelry Mosaic - Exciting Action Adventure Game",
+    "description": "Join the action in Jewelry Mosaic! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Jewelry Mosaic",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/jewelry-mosaic",
+    "openGraph": {
+      "title": "Jewelry Mosaic - Exciting Action Adventure Game",
+      "description": "Join the action in Jewelry Mosaic! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jewelry-mosaic-og.jpg",
+      "url": "https://littlegames.com/games/jewelry-mosaic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jewelry Mosaic - Exciting Action Adventure Game",
+      "description": "Join the action in Jewelry Mosaic! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jewelry-mosaic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jewelry Mosaic",
+      "href": "/games/jewelry-mosaic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_584",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

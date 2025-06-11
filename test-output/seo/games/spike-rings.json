@@ -1,0 +1,54 @@
+{
+  "gameId": 875,
+  "slug": "spike-rings",
+  "metadata": {
+    "title": "Spike Rings - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Spike Rings! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Spike Rings online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/spike-rings",
+    "openGraph": {
+      "title": "Spike Rings - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Spike Rings! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/spike-rings-og.jpg",
+      "url": "https://littlegames.com/games/spike-rings",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spike Rings - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Spike Rings! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/spike-rings-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Spike Rings",
+      "href": "/games/spike-rings",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_131",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

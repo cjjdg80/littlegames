@@ -1,0 +1,54 @@
+{
+  "gameId": 2967,
+  "slug": "billiard-and-golf",
+  "metadata": {
+    "title": "Free Billiard and Golf Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Billiard and Golf. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Billiard and Golf game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/billiard-and-golf",
+    "openGraph": {
+      "title": "Free Billiard and Golf Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Billiard and Golf. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/billiard-and-golf-og.jpg",
+      "url": "https://littlegames.com/games/billiard-and-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Billiard and Golf Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Billiard and Golf. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/billiard-and-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Billiard and Golf",
+      "href": "/games/billiard-and-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_983",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

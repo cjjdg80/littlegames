@@ -1,0 +1,54 @@
+{
+  "gameId": 5013,
+  "slug": "fun-fishing",
+  "metadata": {
+    "title": "Play Fun Fishing - Free Action Game Online",
+    "description": "Join the action in Fun Fishing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Fun Fishing online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fun-fishing",
+    "openGraph": {
+      "title": "Play Fun Fishing - Free Action Game Online",
+      "description": "Join the action in Fun Fishing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-fishing-og.jpg",
+      "url": "https://littlegames.com/games/fun-fishing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fun Fishing - Free Action Game Online",
+      "description": "Join the action in Fun Fishing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-fishing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fun Fishing",
+      "href": "/games/fun-fishing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_409",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

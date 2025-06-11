@@ -1,0 +1,54 @@
+{
+  "gameId": 5138,
+  "slug": "aquatic-blocks",
+  "metadata": {
+    "title": "Aquatic Blocks Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Aquatic Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Aquatic Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/aquatic-blocks",
+    "openGraph": {
+      "title": "Aquatic Blocks Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Aquatic Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/aquatic-blocks-og.jpg",
+      "url": "https://littlegames.com/games/aquatic-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Aquatic Blocks Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Aquatic Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/aquatic-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Aquatic Blocks",
+      "href": "/games/aquatic-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_284",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

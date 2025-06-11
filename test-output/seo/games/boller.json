@@ -1,0 +1,54 @@
+{
+  "gameId": 4867,
+  "slug": "boller",
+  "metadata": {
+    "title": "Boller - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Boller! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Boller game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/boller",
+    "openGraph": {
+      "title": "Boller - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Boller! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/boller-og.jpg",
+      "url": "https://littlegames.com/games/boller",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Boller - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Boller! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/boller-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Boller",
+      "href": "/games/boller",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_883",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

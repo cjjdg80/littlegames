@@ -1,0 +1,54 @@
+{
+  "gameId": 9676,
+  "slug": "food-merge",
+  "metadata": {
+    "title": "Play Food Merge - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Food Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Food Merge",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/food-merge",
+    "openGraph": {
+      "title": "Play Food Merge - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Food Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/food-merge-og.jpg",
+      "url": "https://littlegames.com/games/food-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Food Merge - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Food Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/food-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Food Merge",
+      "href": "/games/food-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_962",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6845,
+  "slug": "miner-mole",
+  "metadata": {
+    "title": "Free MINER MOLE Game - Action Packed Fun",
+    "description": "MINER MOLE delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "MINER MOLE",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/miner-mole",
+    "openGraph": {
+      "title": "Free MINER MOLE Game - Action Packed Fun",
+      "description": "MINER MOLE delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/miner-mole-og.jpg",
+      "url": "https://littlegames.com/games/miner-mole",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free MINER MOLE Game - Action Packed Fun",
+      "description": "MINER MOLE delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/miner-mole-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "MINER MOLE",
+      "href": "/games/miner-mole",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_201",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 55,
+  "slug": "two-tunnel-3d",
+  "metadata": {
+    "title": "Two Tunnel 3D Online - Ultimate Action Gaming Experience",
+    "description": "Two Tunnel 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Two Tunnel 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/two-tunnel-3d",
+    "openGraph": {
+      "title": "Two Tunnel 3D Online - Ultimate Action Gaming Experience",
+      "description": "Two Tunnel 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/two-tunnel-3d-og.jpg",
+      "url": "https://littlegames.com/games/two-tunnel-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Two Tunnel 3D Online - Ultimate Action Gaming Experience",
+      "description": "Two Tunnel 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/two-tunnel-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Two Tunnel 3D",
+      "href": "/games/two-tunnel-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_711",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

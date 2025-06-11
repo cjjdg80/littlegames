@@ -1,0 +1,54 @@
+{
+  "gameId": 2613,
+  "slug": "jump-the-birds",
+  "metadata": {
+    "title": "Jump The Birds - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Jump The Birds. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Jump The Birds",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jump-the-birds",
+    "openGraph": {
+      "title": "Jump The Birds - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Jump The Birds. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jump-the-birds-og.jpg",
+      "url": "https://littlegames.com/games/jump-the-birds",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jump The Birds - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Jump The Birds. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jump-the-birds-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jump The Birds",
+      "href": "/games/jump-the-birds",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_009",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

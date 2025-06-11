@@ -1,0 +1,54 @@
+{
+  "gameId": 6019,
+  "slug": "cricket-legends",
+  "metadata": {
+    "title": "Action Game Cricket Legends - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Cricket Legends. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cricket Legends game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cricket-legends",
+    "openGraph": {
+      "title": "Action Game Cricket Legends - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Cricket Legends. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cricket-legends-og.jpg",
+      "url": "https://littlegames.com/games/cricket-legends",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Cricket Legends - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Cricket Legends. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cricket-legends-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Cricket Legends",
+      "href": "/games/cricket-legends",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_595",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

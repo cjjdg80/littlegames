@@ -1,0 +1,54 @@
+{
+  "gameId": 9918,
+  "slug": "pet-tile-master",
+  "metadata": {
+    "title": "Free Pet Tile Master Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Pet Tile Master. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Pet Tile Master",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pet-tile-master",
+    "openGraph": {
+      "title": "Free Pet Tile Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Pet Tile Master. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pet-tile-master-og.jpg",
+      "url": "https://littlegames.com/games/pet-tile-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pet Tile Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Pet Tile Master. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pet-tile-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pet Tile Master",
+      "href": "/games/pet-tile-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_464",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

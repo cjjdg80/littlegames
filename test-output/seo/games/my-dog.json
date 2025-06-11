@@ -1,0 +1,54 @@
+{
+  "gameId": 1712,
+  "slug": "my-dog",
+  "metadata": {
+    "title": "Free My Dog Game - Action Packed Fun",
+    "description": "Join the action in My Dog! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play My Dog",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/my-dog",
+    "openGraph": {
+      "title": "Free My Dog Game - Action Packed Fun",
+      "description": "Join the action in My Dog! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/my-dog-og.jpg",
+      "url": "https://littlegames.com/games/my-dog",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free My Dog Game - Action Packed Fun",
+      "description": "Join the action in My Dog! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/my-dog-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "My Dog",
+      "href": "/games/my-dog",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_078",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

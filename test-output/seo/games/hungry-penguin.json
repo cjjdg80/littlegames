@@ -1,0 +1,54 @@
+{
+  "gameId": 992,
+  "slug": "hungry-penguin",
+  "metadata": {
+    "title": "Free Hungry Penguin Game - Action Packed Fun",
+    "description": "Experience thrilling action in Hungry Penguin! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Hungry Penguin online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hungry-penguin",
+    "openGraph": {
+      "title": "Free Hungry Penguin Game - Action Packed Fun",
+      "description": "Experience thrilling action in Hungry Penguin! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/hungry-penguin-og.jpg",
+      "url": "https://littlegames.com/games/hungry-penguin",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hungry Penguin Game - Action Packed Fun",
+      "description": "Experience thrilling action in Hungry Penguin! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/hungry-penguin-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hungry Penguin",
+      "href": "/games/hungry-penguin",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_758",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

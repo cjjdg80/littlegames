@@ -1,0 +1,54 @@
+{
+  "gameId": 2345,
+  "slug": "puzzle-game-boys",
+  "metadata": {
+    "title": "Puzzle Game Boys - Brain Training Puzzle Challenge",
+    "description": "Puzzle Game Boys offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Puzzle Game Boys",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-game-boys",
+    "openGraph": {
+      "title": "Puzzle Game Boys - Brain Training Puzzle Challenge",
+      "description": "Puzzle Game Boys offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/puzzle-game-boys-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-game-boys",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Boys - Brain Training Puzzle Challenge",
+      "description": "Puzzle Game Boys offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/puzzle-game-boys-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Game Boys",
+      "href": "/games/puzzle-game-boys",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_701",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

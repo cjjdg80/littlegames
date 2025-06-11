@@ -1,0 +1,54 @@
+{
+  "gameId": 7428,
+  "slug": "emilys-journey",
+  "metadata": {
+    "title": "Emilys Journey - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Emilys Journey. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Emilys Journey online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/emilys-journey",
+    "openGraph": {
+      "title": "Emilys Journey - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Emilys Journey. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/emilys-journey-og.jpg",
+      "url": "https://littlegames.com/games/emilys-journey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Emilys Journey - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Emilys Journey. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/emilys-journey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Emilys Journey",
+      "href": "/games/emilys-journey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_277",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

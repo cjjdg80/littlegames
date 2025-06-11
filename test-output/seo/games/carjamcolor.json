@@ -1,0 +1,54 @@
+{
+  "gameId": 8421,
+  "slug": "carjamcolor",
+  "metadata": {
+    "title": "Action Game CarJamcolor - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in CarJamcolor. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "CarJamcolor",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/carjamcolor",
+    "openGraph": {
+      "title": "Action Game CarJamcolor - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in CarJamcolor. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/carjamcolor-og.jpg",
+      "url": "https://littlegames.com/games/carjamcolor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game CarJamcolor - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in CarJamcolor. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/carjamcolor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "CarJamcolor",
+      "href": "/games/carjamcolor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_057",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

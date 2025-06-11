@@ -1,0 +1,54 @@
+{
+  "gameId": 904,
+  "slug": "fun-kids-colors",
+  "metadata": {
+    "title": "Fun Kids Colors Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Fun Kids Colors! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Fun Kids Colors online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/fun-kids-colors",
+    "openGraph": {
+      "title": "Fun Kids Colors Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Fun Kids Colors! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/fun-kids-colors-og.jpg",
+      "url": "https://littlegames.com/games/fun-kids-colors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fun Kids Colors Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Fun Kids Colors! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/fun-kids-colors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fun Kids Colors",
+      "href": "/games/fun-kids-colors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_030",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

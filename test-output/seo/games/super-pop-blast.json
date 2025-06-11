@@ -1,0 +1,54 @@
+{
+  "gameId": 9632,
+  "slug": "super-pop-blast",
+  "metadata": {
+    "title": "Play Super Pop Blast - Free Action Game Online",
+    "description": "Super Pop Blast delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Super Pop Blast online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-pop-blast",
+    "openGraph": {
+      "title": "Play Super Pop Blast - Free Action Game Online",
+      "description": "Super Pop Blast delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-pop-blast-og.jpg",
+      "url": "https://littlegames.com/games/super-pop-blast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Super Pop Blast - Free Action Game Online",
+      "description": "Super Pop Blast delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-pop-blast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Super Pop Blast",
+      "href": "/games/super-pop-blast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_598",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

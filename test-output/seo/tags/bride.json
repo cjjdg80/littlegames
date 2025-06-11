@@ -1,0 +1,46 @@
+{
+  "tag": "bride",
+  "displayName": "Bride",
+  "metadata": {
+    "title": "Bride Games - Play Free Online",
+    "description": "Discover amazing bride games! Play 4 free games with bride theme. No downloads required.",
+    "keywords": [
+      "bride games",
+      "free online games",
+      "browser games",
+      "bride theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/bride",
+    "openGraph": {
+      "title": "Bride Games - Free Online Gaming",
+      "description": "Play the best bride games online for free. 4 games available.",
+      "image": "https://littlegames.com/images/tags/bride-og.jpg",
+      "url": "https://littlegames.com/tags/bride",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bride Games - Free Online",
+      "description": "Play 4 free bride games online.",
+      "image": "https://littlegames.com/images/tags/bride-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bride",
+      "href": "/tags/bride",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bride theme! Our collection includes 4 carefully selected games that feature bride elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

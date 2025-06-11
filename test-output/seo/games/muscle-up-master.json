@@ -1,0 +1,54 @@
+{
+  "gameId": 8232,
+  "slug": "muscle-up-master",
+  "metadata": {
+    "title": "Free Muscle Up Master Game - Action Packed Fun",
+    "description": "Muscle Up Master delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Muscle Up Master online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/muscle-up-master",
+    "openGraph": {
+      "title": "Free Muscle Up Master Game - Action Packed Fun",
+      "description": "Muscle Up Master delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/muscle-up-master-og.jpg",
+      "url": "https://littlegames.com/games/muscle-up-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Muscle Up Master Game - Action Packed Fun",
+      "description": "Muscle Up Master delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/muscle-up-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Muscle Up Master",
+      "href": "/games/muscle-up-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_198",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "jetpack",
+  "displayName": "Jetpack",
+  "metadata": {
+    "title": "Jetpack Games - Play Free Online",
+    "description": "Discover amazing jetpack games! Play 10 free games with jetpack theme. No downloads required.",
+    "keywords": [
+      "jetpack games",
+      "free online games",
+      "browser games",
+      "jetpack theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/jetpack",
+    "openGraph": {
+      "title": "Jetpack Games - Free Online Gaming",
+      "description": "Play the best jetpack games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/jetpack-og.jpg",
+      "url": "https://littlegames.com/tags/jetpack",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jetpack Games - Free Online",
+      "description": "Play 10 free jetpack games online.",
+      "image": "https://littlegames.com/images/tags/jetpack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Jetpack",
+      "href": "/tags/jetpack",
+      "current": true
+    }
+  ],
+  "description": "Discover games with jetpack theme! Our collection includes 10 carefully selected games that feature jetpack elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

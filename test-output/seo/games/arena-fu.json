@@ -1,0 +1,54 @@
+{
+  "gameId": 3158,
+  "slug": "arena-fu",
+  "metadata": {
+    "title": "Arena Fu Online - Ultimate Action Gaming Experience",
+    "description": "Arena Fu delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Arena Fu",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/arena-fu",
+    "openGraph": {
+      "title": "Arena Fu Online - Ultimate Action Gaming Experience",
+      "description": "Arena Fu delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/arena-fu-og.jpg",
+      "url": "https://littlegames.com/games/arena-fu",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Arena Fu Online - Ultimate Action Gaming Experience",
+      "description": "Arena Fu delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/arena-fu-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Arena Fu",
+      "href": "/games/arena-fu",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_904",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

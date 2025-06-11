@@ -1,0 +1,54 @@
+{
+  "gameId": 2457,
+  "slug": "jump-color",
+  "metadata": {
+    "title": "Play Jump Color - Free Action Game Online",
+    "description": "Dive into the action-packed world of Jump Color. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Jump Color game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jump-color",
+    "openGraph": {
+      "title": "Play Jump Color - Free Action Game Online",
+      "description": "Dive into the action-packed world of Jump Color. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jump-color-og.jpg",
+      "url": "https://littlegames.com/games/jump-color",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jump Color - Free Action Game Online",
+      "description": "Dive into the action-packed world of Jump Color. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jump-color-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jump Color",
+      "href": "/games/jump-color",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_173",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

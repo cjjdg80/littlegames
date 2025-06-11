@@ -1,0 +1,54 @@
+{
+  "gameId": 5239,
+  "slug": "angry-heroes",
+  "metadata": {
+    "title": "Adventure Game Angry Heroes - Journey Begins",
+    "description": "Begin your quest in Angry Heroes. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Angry Heroes game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/angry-heroes",
+    "openGraph": {
+      "title": "Adventure Game Angry Heroes - Journey Begins",
+      "description": "Begin your quest in Angry Heroes. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/angry-heroes-og.jpg",
+      "url": "https://littlegames.com/games/angry-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Angry Heroes - Journey Begins",
+      "description": "Begin your quest in Angry Heroes. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/angry-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Angry Heroes",
+      "href": "/games/angry-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_418",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

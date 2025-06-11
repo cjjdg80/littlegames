@@ -1,0 +1,54 @@
+{
+  "gameId": 3360,
+  "slug": "adventure-quiz",
+  "metadata": {
+    "title": "Action Game Adventure Quiz - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Adventure Quiz. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Adventure Quiz online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/adventure-quiz",
+    "openGraph": {
+      "title": "Action Game Adventure Quiz - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Adventure Quiz. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/adventure-quiz-og.jpg",
+      "url": "https://littlegames.com/games/adventure-quiz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Adventure Quiz - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Adventure Quiz. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/adventure-quiz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Adventure Quiz",
+      "href": "/games/adventure-quiz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_166",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4970,
+  "slug": "2d-dark-racing",
+  "metadata": {
+    "title": "Free 2D Dark Racing Game - Action Packed Fun",
+    "description": "2D Dark Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "2D Dark Racing game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/2d-dark-racing",
+    "openGraph": {
+      "title": "Free 2D Dark Racing Game - Action Packed Fun",
+      "description": "2D Dark Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2d-dark-racing-og.jpg",
+      "url": "https://littlegames.com/games/2d-dark-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free 2D Dark Racing Game - Action Packed Fun",
+      "description": "2D Dark Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2d-dark-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2D Dark Racing",
+      "href": "/games/2d-dark-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_076",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

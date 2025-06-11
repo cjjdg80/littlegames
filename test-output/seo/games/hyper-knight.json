@@ -1,0 +1,54 @@
+{
+  "gameId": 7994,
+  "slug": "hyper-knight",
+  "metadata": {
+    "title": "Hyper Knight Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Hyper Knight! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Hyper Knight game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hyper-knight",
+    "openGraph": {
+      "title": "Hyper Knight Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Hyper Knight! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hyper-knight-og.jpg",
+      "url": "https://littlegames.com/games/hyper-knight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hyper Knight Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Hyper Knight! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hyper-knight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hyper Knight",
+      "href": "/games/hyper-knight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_820",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

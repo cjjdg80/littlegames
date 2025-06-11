@@ -1,0 +1,54 @@
+{
+  "gameId": 9827,
+  "slug": "i-am-security",
+  "metadata": {
+    "title": "I Am Security Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of I Am Security. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "I Am Security",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/i-am-security",
+    "openGraph": {
+      "title": "I Am Security Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of I Am Security. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/i-am-security-og.jpg",
+      "url": "https://littlegames.com/games/i-am-security",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "I Am Security Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of I Am Security. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/i-am-security-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "I Am Security",
+      "href": "/games/i-am-security",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_643",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

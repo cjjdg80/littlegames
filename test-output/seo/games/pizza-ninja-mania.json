@@ -1,0 +1,54 @@
+{
+  "gameId": 482,
+  "slug": "pizza-ninja-mania",
+  "metadata": {
+    "title": "Pizza Ninja Mania - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Pizza Ninja Mania. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Pizza Ninja Mania online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pizza-ninja-mania",
+    "openGraph": {
+      "title": "Pizza Ninja Mania - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Pizza Ninja Mania. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pizza-ninja-mania-og.jpg",
+      "url": "https://littlegames.com/games/pizza-ninja-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pizza Ninja Mania - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Pizza Ninja Mania. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pizza-ninja-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pizza Ninja Mania",
+      "href": "/games/pizza-ninja-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_948",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8985,
+  "slug": "elite-chess",
+  "metadata": {
+    "title": "Elite Chess - Exciting Action Adventure Game",
+    "description": "Elite Chess delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Elite Chess online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/elite-chess",
+    "openGraph": {
+      "title": "Elite Chess - Exciting Action Adventure Game",
+      "description": "Elite Chess delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/elite-chess-og.jpg",
+      "url": "https://littlegames.com/games/elite-chess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Elite Chess - Exciting Action Adventure Game",
+      "description": "Elite Chess delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/elite-chess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Elite Chess",
+      "href": "/games/elite-chess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_541",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

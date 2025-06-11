@@ -1,0 +1,54 @@
+{
+  "gameId": 3914,
+  "slug": "queen-of-pop",
+  "metadata": {
+    "title": "Free Queen of Pop Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Queen of Pop. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Queen of Pop online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/queen-of-pop",
+    "openGraph": {
+      "title": "Free Queen of Pop Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Queen of Pop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/queen-of-pop-og.jpg",
+      "url": "https://littlegames.com/games/queen-of-pop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Queen of Pop Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Queen of Pop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/queen-of-pop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Queen of Pop",
+      "href": "/games/queen-of-pop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_340",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9691,
+  "slug": "cards-match-puzzle",
+  "metadata": {
+    "title": "Action Game Cards Match Puzzle - Play Free Now",
+    "description": "Cards Match Puzzle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Cards Match Puzzle game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cards-match-puzzle",
+    "openGraph": {
+      "title": "Action Game Cards Match Puzzle - Play Free Now",
+      "description": "Cards Match Puzzle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cards-match-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/cards-match-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Cards Match Puzzle - Play Free Now",
+      "description": "Cards Match Puzzle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cards-match-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cards Match Puzzle",
+      "href": "/games/cards-match-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_427",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

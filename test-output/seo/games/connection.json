@@ -1,0 +1,54 @@
+{
+  "gameId": 5521,
+  "slug": "connection",
+  "metadata": {
+    "title": "Connection! Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Connection!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Connection! online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/connection",
+    "openGraph": {
+      "title": "Connection! Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Connection!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/connection-og.jpg",
+      "url": "https://littlegames.com/games/connection",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Connection! Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Connection!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/connection-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connection!",
+      "href": "/games/connection",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_157",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

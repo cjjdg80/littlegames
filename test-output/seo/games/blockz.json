@@ -1,0 +1,54 @@
+{
+  "gameId": 238,
+  "slug": "blockz",
+  "metadata": {
+    "title": "Blockz - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Blockz! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Blockz",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/blockz",
+    "openGraph": {
+      "title": "Blockz - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Blockz! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/blockz-og.jpg",
+      "url": "https://littlegames.com/games/blockz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Blockz - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Blockz! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/blockz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Blockz",
+      "href": "/games/blockz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_384",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

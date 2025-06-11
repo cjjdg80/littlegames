@@ -1,0 +1,54 @@
+{
+  "gameId": 4065,
+  "slug": "cycling-hero",
+  "metadata": {
+    "title": "Cycling Hero Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cycling Hero. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cycling Hero online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cycling-hero",
+    "openGraph": {
+      "title": "Cycling Hero Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cycling Hero. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cycling-hero-og.jpg",
+      "url": "https://littlegames.com/games/cycling-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cycling Hero Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cycling Hero. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cycling-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cycling Hero",
+      "href": "/games/cycling-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_021",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

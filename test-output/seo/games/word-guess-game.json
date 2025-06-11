@@ -1,0 +1,54 @@
+{
+  "gameId": 8029,
+  "slug": "word-guess-game",
+  "metadata": {
+    "title": "Play Word Guess Game - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Word Guess Game. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Word Guess Game",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/word-guess-game",
+    "openGraph": {
+      "title": "Play Word Guess Game - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Word Guess Game. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/word-guess-game-og.jpg",
+      "url": "https://littlegames.com/games/word-guess-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Word Guess Game - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Word Guess Game. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/word-guess-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Word Guess Game",
+      "href": "/games/word-guess-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_905",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

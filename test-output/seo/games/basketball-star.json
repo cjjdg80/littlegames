@@ -1,0 +1,54 @@
+{
+  "gameId": 754,
+  "slug": "basketball-star",
+  "metadata": {
+    "title": "Free Basketball Star Game - Action Packed Fun",
+    "description": "Join the action in Basketball Star! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Basketball Star online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/basketball-star",
+    "openGraph": {
+      "title": "Free Basketball Star Game - Action Packed Fun",
+      "description": "Join the action in Basketball Star! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basketball-star-og.jpg",
+      "url": "https://littlegames.com/games/basketball-star",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Basketball Star Game - Action Packed Fun",
+      "description": "Join the action in Basketball Star! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basketball-star-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basketball Star",
+      "href": "/games/basketball-star",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_380",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4160,
+  "slug": "color-circle-puzzle",
+  "metadata": {
+    "title": "Free Color Circle Puzzle Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Color Circle Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Color Circle Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/color-circle-puzzle",
+    "openGraph": {
+      "title": "Free Color Circle Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Color Circle Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/color-circle-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/color-circle-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Color Circle Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Color Circle Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/color-circle-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Color Circle Puzzle",
+      "href": "/games/color-circle-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_966",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "water",
+  "displayName": "Water",
+  "metadata": {
+    "title": "Water Games - Play Free Online",
+    "description": "Discover amazing water games! Play 57 free games with water theme. No downloads required.",
+    "keywords": [
+      "water games",
+      "free online games",
+      "browser games",
+      "water theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/water",
+    "openGraph": {
+      "title": "Water Games - Free Online Gaming",
+      "description": "Play the best water games online for free. 57 games available.",
+      "image": "https://littlegames.com/images/tags/water-og.jpg",
+      "url": "https://littlegames.com/tags/water",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Water Games - Free Online",
+      "description": "Play 57 free water games online.",
+      "image": "https://littlegames.com/images/tags/water-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Water",
+      "href": "/tags/water",
+      "current": true
+    }
+  ],
+  "description": "Discover games with water theme! Our collection includes 57 carefully selected games that feature water elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

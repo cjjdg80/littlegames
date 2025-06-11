@@ -1,0 +1,54 @@
+{
+  "gameId": 4615,
+  "slug": "get-color-fast",
+  "metadata": {
+    "title": "Get Color Fast Online - Logic and Strategy Game",
+    "description": "Get Color Fast offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Get Color Fast",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/get-color-fast",
+    "openGraph": {
+      "title": "Get Color Fast Online - Logic and Strategy Game",
+      "description": "Get Color Fast offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/get-color-fast-og.jpg",
+      "url": "https://littlegames.com/games/get-color-fast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Get Color Fast Online - Logic and Strategy Game",
+      "description": "Get Color Fast offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/get-color-fast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Get Color Fast",
+      "href": "/games/get-color-fast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_071",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

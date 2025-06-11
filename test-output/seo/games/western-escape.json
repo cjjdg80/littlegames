@@ -1,0 +1,54 @@
+{
+  "gameId": 1943,
+  "slug": "western-escape",
+  "metadata": {
+    "title": "Western Escape - Thrilling Adventure Quest",
+    "description": "Begin your quest in Western Escape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Western Escape online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/western-escape",
+    "openGraph": {
+      "title": "Western Escape - Thrilling Adventure Quest",
+      "description": "Begin your quest in Western Escape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/western-escape-og.jpg",
+      "url": "https://littlegames.com/games/western-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Western Escape - Thrilling Adventure Quest",
+      "description": "Begin your quest in Western Escape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/western-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Western Escape",
+      "href": "/games/western-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_242",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

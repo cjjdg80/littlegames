@@ -1,0 +1,54 @@
+{
+  "gameId": 3328,
+  "slug": "gravity-square",
+  "metadata": {
+    "title": "Gravity Square Online - Explore and Discover",
+    "description": "Gravity Square offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Gravity Square game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/gravity-square",
+    "openGraph": {
+      "title": "Gravity Square Online - Explore and Discover",
+      "description": "Gravity Square offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/gravity-square-og.jpg",
+      "url": "https://littlegames.com/games/gravity-square",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gravity Square Online - Explore and Discover",
+      "description": "Gravity Square offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/gravity-square-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Gravity Square",
+      "href": "/games/gravity-square",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_177",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6265,
+  "slug": "pinball-brick-mania",
+  "metadata": {
+    "title": "PinBall Brick Mania Online - Ultimate Action Gaming...",
+    "description": "PinBall Brick Mania delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "PinBall Brick Mania",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pinball-brick-mania",
+    "openGraph": {
+      "title": "PinBall Brick Mania Online - Ultimate Action Gaming...",
+      "description": "PinBall Brick Mania delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pinball-brick-mania-og.jpg",
+      "url": "https://littlegames.com/games/pinball-brick-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "PinBall Brick Mania Online - Ultimate Action Gaming Experience",
+      "description": "PinBall Brick Mania delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pinball-brick-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "PinBall Brick Mania",
+      "href": "/games/pinball-brick-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_221",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

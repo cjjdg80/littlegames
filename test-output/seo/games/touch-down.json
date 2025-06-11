@@ -1,0 +1,54 @@
+{
+  "gameId": 1678,
+  "slug": "touch-down",
+  "metadata": {
+    "title": "Free Touch Down Game - Action Packed Fun",
+    "description": "Join the action in Touch Down! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Touch Down online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/touch-down",
+    "openGraph": {
+      "title": "Free Touch Down Game - Action Packed Fun",
+      "description": "Join the action in Touch Down! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/touch-down-og.jpg",
+      "url": "https://littlegames.com/games/touch-down",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Touch Down Game - Action Packed Fun",
+      "description": "Join the action in Touch Down! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/touch-down-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Touch Down",
+      "href": "/games/touch-down",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_024",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

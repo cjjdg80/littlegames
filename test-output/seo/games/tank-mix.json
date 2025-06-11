@@ -1,0 +1,54 @@
+{
+  "gameId": 5214,
+  "slug": "tank-mix",
+  "metadata": {
+    "title": "Play Tank MIX - Free Action Game Online",
+    "description": "Dive into the action-packed world of Tank MIX. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Tank MIX",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/tank-mix",
+    "openGraph": {
+      "title": "Play Tank MIX - Free Action Game Online",
+      "description": "Dive into the action-packed world of Tank MIX. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tank-mix-og.jpg",
+      "url": "https://littlegames.com/games/tank-mix",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tank MIX - Free Action Game Online",
+      "description": "Dive into the action-packed world of Tank MIX. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tank-mix-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tank MIX",
+      "href": "/games/tank-mix",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_640",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

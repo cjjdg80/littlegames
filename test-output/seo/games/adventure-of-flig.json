@@ -1,0 +1,54 @@
+{
+  "gameId": 7394,
+  "slug": "adventure-of-flig",
+  "metadata": {
+    "title": "Adventure of Flig - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Adventure of Flig! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Adventure of Flig",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/adventure-of-flig",
+    "openGraph": {
+      "title": "Adventure of Flig - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Adventure of Flig! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/adventure-of-flig-og.jpg",
+      "url": "https://littlegames.com/games/adventure-of-flig",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure of Flig - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Adventure of Flig! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/adventure-of-flig-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Adventure of Flig",
+      "href": "/games/adventure-of-flig",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_223",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

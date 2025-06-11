@@ -1,0 +1,54 @@
+{
+  "gameId": 5346,
+  "slug": "pinball-world-cup",
+  "metadata": {
+    "title": "Pinball World Cup - Exciting Action Adventure Game",
+    "description": "Join the action in Pinball World Cup! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Pinball World Cup game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pinball-world-cup",
+    "openGraph": {
+      "title": "Pinball World Cup - Exciting Action Adventure Game",
+      "description": "Join the action in Pinball World Cup! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pinball-world-cup-og.jpg",
+      "url": "https://littlegames.com/games/pinball-world-cup",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pinball World Cup - Exciting Action Adventure Game",
+      "description": "Join the action in Pinball World Cup! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pinball-world-cup-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pinball World Cup",
+      "href": "/games/pinball-world-cup",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_732",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

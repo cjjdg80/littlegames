@@ -1,0 +1,54 @@
+{
+  "gameId": 1414,
+  "slug": "alex-the-alien",
+  "metadata": {
+    "title": "Play Alex The Alien - Epic Adventure Game Online",
+    "description": "Begin your quest in Alex The Alien. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Alex The Alien game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/alex-the-alien",
+    "openGraph": {
+      "title": "Play Alex The Alien - Epic Adventure Game Online",
+      "description": "Begin your quest in Alex The Alien. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/alex-the-alien-og.jpg",
+      "url": "https://littlegames.com/games/alex-the-alien",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Alex The Alien - Epic Adventure Game Online",
+      "description": "Begin your quest in Alex The Alien. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/alex-the-alien-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Alex The Alien",
+      "href": "/games/alex-the-alien",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_843",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

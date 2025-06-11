@@ -1,0 +1,54 @@
+{
+  "gameId": 4736,
+  "slug": "steveminer-home",
+  "metadata": {
+    "title": "Steveminer Home Online - Explore and Discover",
+    "description": "Steveminer Home offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Steveminer Home online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/steveminer-home",
+    "openGraph": {
+      "title": "Steveminer Home Online - Explore and Discover",
+      "description": "Steveminer Home offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/steveminer-home-og.jpg",
+      "url": "https://littlegames.com/games/steveminer-home",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Steveminer Home Online - Explore and Discover",
+      "description": "Steveminer Home offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/steveminer-home-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Steveminer Home",
+      "href": "/games/steveminer-home",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_825",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

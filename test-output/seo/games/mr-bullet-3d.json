@@ -1,0 +1,54 @@
+{
+  "gameId": 2309,
+  "slug": "mr-bullet-3d",
+  "metadata": {
+    "title": "Mr Bullet 3D Online - Ultimate Action Gaming Experience",
+    "description": "Mr Bullet 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mr Bullet 3D online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mr-bullet-3d",
+    "openGraph": {
+      "title": "Mr Bullet 3D Online - Ultimate Action Gaming Experience",
+      "description": "Mr Bullet 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mr-bullet-3d-og.jpg",
+      "url": "https://littlegames.com/games/mr-bullet-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mr Bullet 3D Online - Ultimate Action Gaming Experience",
+      "description": "Mr Bullet 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mr-bullet-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr Bullet 3D",
+      "href": "/games/mr-bullet-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_585",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

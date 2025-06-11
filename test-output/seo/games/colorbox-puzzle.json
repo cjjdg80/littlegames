@@ -1,0 +1,54 @@
+{
+  "gameId": 6827,
+  "slug": "colorbox-puzzle",
+  "metadata": {
+    "title": "ColorBox Puzzle - Brain Training Puzzle Challenge",
+    "description": "ColorBox Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play ColorBox Puzzle",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/colorbox-puzzle",
+    "openGraph": {
+      "title": "ColorBox Puzzle - Brain Training Puzzle Challenge",
+      "description": "ColorBox Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/colorbox-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/colorbox-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ColorBox Puzzle - Brain Training Puzzle Challenge",
+      "description": "ColorBox Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/colorbox-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "ColorBox Puzzle",
+      "href": "/games/colorbox-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_643",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

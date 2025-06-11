@@ -1,0 +1,54 @@
+{
+  "gameId": 5224,
+  "slug": "grappler",
+  "metadata": {
+    "title": "Free Grappler Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Grappler. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Grappler",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/grappler",
+    "openGraph": {
+      "title": "Free Grappler Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Grappler. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/grappler-og.jpg",
+      "url": "https://littlegames.com/games/grappler",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Grappler Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Grappler. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/grappler-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Grappler",
+      "href": "/games/grappler",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_950",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

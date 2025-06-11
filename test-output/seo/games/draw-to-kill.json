@@ -1,0 +1,54 @@
+{
+  "gameId": 7864,
+  "slug": "draw-to-kill",
+  "metadata": {
+    "title": "Free Draw To Kill Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Draw To Kill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Draw To Kill",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-to-kill",
+    "openGraph": {
+      "title": "Free Draw To Kill Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Draw To Kill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/draw-to-kill-og.jpg",
+      "url": "https://littlegames.com/games/draw-to-kill",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Draw To Kill Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Draw To Kill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/draw-to-kill-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Draw To Kill",
+      "href": "/games/draw-to-kill",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_790",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

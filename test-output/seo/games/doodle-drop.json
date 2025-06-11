@@ -1,0 +1,54 @@
+{
+  "gameId": 7045,
+  "slug": "doodle-drop",
+  "metadata": {
+    "title": "Free Doodle Drop Game - Action Packed Fun",
+    "description": "Join the action in Doodle Drop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Doodle Drop",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/doodle-drop",
+    "openGraph": {
+      "title": "Free Doodle Drop Game - Action Packed Fun",
+      "description": "Join the action in Doodle Drop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/doodle-drop-og.jpg",
+      "url": "https://littlegames.com/games/doodle-drop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Doodle Drop Game - Action Packed Fun",
+      "description": "Join the action in Doodle Drop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/doodle-drop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Doodle Drop",
+      "href": "/games/doodle-drop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_401",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

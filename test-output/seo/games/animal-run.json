@@ -1,0 +1,54 @@
+{
+  "gameId": 6527,
+  "slug": "animal-run",
+  "metadata": {
+    "title": "Play Animal Run - Epic Adventure Game Online",
+    "description": "Discover new worlds in Animal Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Animal Run online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/animal-run",
+    "openGraph": {
+      "title": "Play Animal Run - Epic Adventure Game Online",
+      "description": "Discover new worlds in Animal Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/animal-run-og.jpg",
+      "url": "https://littlegames.com/games/animal-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Animal Run - Epic Adventure Game Online",
+      "description": "Discover new worlds in Animal Run. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/animal-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Animal Run",
+      "href": "/games/animal-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_346",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

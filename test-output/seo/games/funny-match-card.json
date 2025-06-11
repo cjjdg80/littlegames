@@ -1,0 +1,54 @@
+{
+  "gameId": 250,
+  "slug": "funny-match-card",
+  "metadata": {
+    "title": "Funny Match Card - Exciting Action Adventure Game",
+    "description": "Join the action in Funny Match Card! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Funny Match Card",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/funny-match-card",
+    "openGraph": {
+      "title": "Funny Match Card - Exciting Action Adventure Game",
+      "description": "Join the action in Funny Match Card! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/funny-match-card-og.jpg",
+      "url": "https://littlegames.com/games/funny-match-card",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Funny Match Card - Exciting Action Adventure Game",
+      "description": "Join the action in Funny Match Card! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/funny-match-card-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Funny Match Card",
+      "href": "/games/funny-match-card",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_756",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4356,
+  "slug": "purple-monster-adventure",
+  "metadata": {
+    "title": "Adventure Game Purple Monster Adventure - Journey Begins",
+    "description": "Begin your quest in Purple Monster Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Purple Monster Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/purple-monster-adventure",
+    "openGraph": {
+      "title": "Adventure Game Purple Monster Adventure - Journey Begins",
+      "description": "Begin your quest in Purple Monster Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/purple-monster-adventure-og.jpg",
+      "url": "https://littlegames.com/games/purple-monster-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Purple Monster Adventure - Journey Begins",
+      "description": "Begin your quest in Purple Monster Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/purple-monster-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Purple Monster Adventure",
+      "href": "/games/purple-monster-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_045",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

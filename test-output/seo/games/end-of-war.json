@@ -1,0 +1,54 @@
+{
+  "gameId": 6462,
+  "slug": "end-of-war",
+  "metadata": {
+    "title": "Free End of War Game - Action Packed Fun",
+    "description": "Experience thrilling action in End of War! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "End of War online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/end-of-war",
+    "openGraph": {
+      "title": "Free End of War Game - Action Packed Fun",
+      "description": "Experience thrilling action in End of War! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/end-of-war-og.jpg",
+      "url": "https://littlegames.com/games/end-of-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free End of War Game - Action Packed Fun",
+      "description": "Experience thrilling action in End of War! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/end-of-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "End of War",
+      "href": "/games/end-of-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_328",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

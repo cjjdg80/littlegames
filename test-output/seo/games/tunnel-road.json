@@ -1,0 +1,54 @@
+{
+  "gameId": 9655,
+  "slug": "tunnel-road",
+  "metadata": {
+    "title": "Tunnel Road - Exciting Action Adventure Game",
+    "description": "Tunnel Road delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Tunnel Road",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tunnel-road",
+    "openGraph": {
+      "title": "Tunnel Road - Exciting Action Adventure Game",
+      "description": "Tunnel Road delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tunnel-road-og.jpg",
+      "url": "https://littlegames.com/games/tunnel-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tunnel Road - Exciting Action Adventure Game",
+      "description": "Tunnel Road delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tunnel-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tunnel Road",
+      "href": "/games/tunnel-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_311",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

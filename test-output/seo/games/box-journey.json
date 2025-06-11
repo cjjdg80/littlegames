@@ -1,0 +1,54 @@
+{
+  "gameId": 7547,
+  "slug": "box-journey",
+  "metadata": {
+    "title": "Adventure Game Box Journey - Journey Begins",
+    "description": "Begin your quest in Box Journey. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Box Journey game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/box-journey",
+    "openGraph": {
+      "title": "Adventure Game Box Journey - Journey Begins",
+      "description": "Begin your quest in Box Journey. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/box-journey-og.jpg",
+      "url": "https://littlegames.com/games/box-journey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Box Journey - Journey Begins",
+      "description": "Begin your quest in Box Journey. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/box-journey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Box Journey",
+      "href": "/games/box-journey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_966",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

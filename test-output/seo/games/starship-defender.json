@@ -1,0 +1,54 @@
+{
+  "gameId": 4955,
+  "slug": "starship-defender",
+  "metadata": {
+    "title": "Free Starship Defender Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Starship Defender. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Starship Defender game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/starship-defender",
+    "openGraph": {
+      "title": "Free Starship Defender Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Starship Defender. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/starship-defender-og.jpg",
+      "url": "https://littlegames.com/games/starship-defender",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Starship Defender Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Starship Defender. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/starship-defender-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Starship Defender",
+      "href": "/games/starship-defender",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_611",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

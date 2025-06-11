@@ -1,0 +1,54 @@
+{
+  "gameId": 4265,
+  "slug": "word-search",
+  "metadata": {
+    "title": "Word Search - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Word Search. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Word Search",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/word-search",
+    "openGraph": {
+      "title": "Word Search - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Word Search. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/word-search-og.jpg",
+      "url": "https://littlegames.com/games/word-search",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Search - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Word Search. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/word-search-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Word Search",
+      "href": "/games/word-search",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_221",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

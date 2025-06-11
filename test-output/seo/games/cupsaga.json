@@ -1,0 +1,54 @@
+{
+  "gameId": 5939,
+  "slug": "cupsaga",
+  "metadata": {
+    "title": "Action Game Cupsaga - Play Free Now",
+    "description": "Join the action in Cupsaga! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Cupsaga game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cupsaga",
+    "openGraph": {
+      "title": "Action Game Cupsaga - Play Free Now",
+      "description": "Join the action in Cupsaga! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cupsaga-og.jpg",
+      "url": "https://littlegames.com/games/cupsaga",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Cupsaga - Play Free Now",
+      "description": "Join the action in Cupsaga! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cupsaga-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cupsaga",
+      "href": "/games/cupsaga",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_115",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

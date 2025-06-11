@@ -1,0 +1,54 @@
+{
+  "gameId": 5097,
+  "slug": "om-nom-bounce",
+  "metadata": {
+    "title": "Om Nom Bounce Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Om Nom Bounce. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Om Nom Bounce online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/om-nom-bounce",
+    "openGraph": {
+      "title": "Om Nom Bounce Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Om Nom Bounce. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/om-nom-bounce-og.jpg",
+      "url": "https://littlegames.com/games/om-nom-bounce",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Om Nom Bounce Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Om Nom Bounce. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/om-nom-bounce-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Om Nom Bounce",
+      "href": "/games/om-nom-bounce",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_013",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

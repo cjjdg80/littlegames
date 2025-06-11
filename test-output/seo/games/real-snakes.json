@@ -1,0 +1,54 @@
+{
+  "gameId": 4213,
+  "slug": "real-snakes",
+  "metadata": {
+    "title": "Real Snakes Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Real Snakes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Real Snakes online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/real-snakes",
+    "openGraph": {
+      "title": "Real Snakes Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Real Snakes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/real-snakes-og.jpg",
+      "url": "https://littlegames.com/games/real-snakes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Real Snakes Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Real Snakes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/real-snakes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Real Snakes",
+      "href": "/games/real-snakes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_609",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

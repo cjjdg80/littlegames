@@ -1,0 +1,54 @@
+{
+  "gameId": 5557,
+  "slug": "minesweeper",
+  "metadata": {
+    "title": "Free Minesweeper Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Minesweeper. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Minesweeper game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/minesweeper",
+    "openGraph": {
+      "title": "Free Minesweeper Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Minesweeper. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/minesweeper-og.jpg",
+      "url": "https://littlegames.com/games/minesweeper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Minesweeper Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Minesweeper. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/minesweeper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Minesweeper",
+      "href": "/games/minesweeper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_273",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

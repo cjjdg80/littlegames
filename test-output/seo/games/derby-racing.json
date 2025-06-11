@@ -1,0 +1,54 @@
+{
+  "gameId": 1662,
+  "slug": "derby-racing",
+  "metadata": {
+    "title": "Free Derby Racing Game - Action Packed Fun",
+    "description": "Join the action in Derby Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Derby Racing",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/derby-racing",
+    "openGraph": {
+      "title": "Free Derby Racing Game - Action Packed Fun",
+      "description": "Join the action in Derby Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/derby-racing-og.jpg",
+      "url": "https://littlegames.com/games/derby-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Derby Racing Game - Action Packed Fun",
+      "description": "Join the action in Derby Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/derby-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Derby Racing",
+      "href": "/games/derby-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_528",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

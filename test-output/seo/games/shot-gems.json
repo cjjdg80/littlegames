@@ -1,0 +1,54 @@
+{
+  "gameId": 3585,
+  "slug": "shot-gems",
+  "metadata": {
+    "title": "Shot Gems Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Shot Gems! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Shot Gems",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shot-gems",
+    "openGraph": {
+      "title": "Shot Gems Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shot Gems! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shot-gems-og.jpg",
+      "url": "https://littlegames.com/games/shot-gems",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shot Gems Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shot Gems! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shot-gems-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shot Gems",
+      "href": "/games/shot-gems",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_141",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

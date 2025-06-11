@@ -1,0 +1,54 @@
+{
+  "gameId": 1526,
+  "slug": "mansion-solitaire",
+  "metadata": {
+    "title": "Free Mansion Solitaire Game - Action Packed Fun",
+    "description": "Join the action in Mansion Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mansion Solitaire online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mansion-solitaire",
+    "openGraph": {
+      "title": "Free Mansion Solitaire Game - Action Packed Fun",
+      "description": "Join the action in Mansion Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mansion-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/mansion-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mansion Solitaire Game - Action Packed Fun",
+      "description": "Join the action in Mansion Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mansion-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mansion Solitaire",
+      "href": "/games/mansion-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_312",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

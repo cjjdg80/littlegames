@@ -1,0 +1,54 @@
+{
+  "gameId": 7928,
+  "slug": "ace-car-racing",
+  "metadata": {
+    "title": "Ace Car Racing - Exciting Action Adventure Game",
+    "description": "Ace Car Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Ace Car Racing",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/ace-car-racing",
+    "openGraph": {
+      "title": "Ace Car Racing - Exciting Action Adventure Game",
+      "description": "Ace Car Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ace-car-racing-og.jpg",
+      "url": "https://littlegames.com/games/ace-car-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ace Car Racing - Exciting Action Adventure Game",
+      "description": "Ace Car Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ace-car-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ace Car Racing",
+      "href": "/games/ace-car-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_774",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

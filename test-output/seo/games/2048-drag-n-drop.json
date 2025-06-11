@@ -1,0 +1,54 @@
+{
+  "gameId": 3124,
+  "slug": "2048-drag-n-drop",
+  "metadata": {
+    "title": "Play 2048 Drag 'n drop - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in 2048 Drag 'n drop. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "2048 Drag 'n drop online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/2048-drag-n-drop",
+    "openGraph": {
+      "title": "Play 2048 Drag 'n drop - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in 2048 Drag 'n drop. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/2048-drag-n-drop-og.jpg",
+      "url": "https://littlegames.com/games/2048-drag-n-drop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2048 Drag 'n drop - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in 2048 Drag 'n drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/2048-drag-n-drop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2048 Drag 'n drop",
+      "href": "/games/2048-drag-n-drop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_850",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

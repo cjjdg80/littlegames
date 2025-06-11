@@ -1,0 +1,54 @@
+{
+  "gameId": 6305,
+  "slug": "kimono-fashion",
+  "metadata": {
+    "title": "Kimono Fashion Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Kimono Fashion! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Kimono Fashion online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/kimono-fashion",
+    "openGraph": {
+      "title": "Kimono Fashion Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Kimono Fashion! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/kimono-fashion-og.jpg",
+      "url": "https://littlegames.com/games/kimono-fashion",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kimono Fashion Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Kimono Fashion! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/kimono-fashion-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kimono Fashion",
+      "href": "/games/kimono-fashion",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_461",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

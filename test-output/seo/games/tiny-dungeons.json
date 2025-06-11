@@ -1,0 +1,54 @@
+{
+  "gameId": 2183,
+  "slug": "tiny-dungeons",
+  "metadata": {
+    "title": "Play Tiny Dungeons - Epic Adventure Game Online",
+    "description": "Start your epic journey with Tiny Dungeons! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Tiny Dungeons game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-dungeons",
+    "openGraph": {
+      "title": "Play Tiny Dungeons - Epic Adventure Game Online",
+      "description": "Start your epic journey with Tiny Dungeons! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/tiny-dungeons-og.jpg",
+      "url": "https://littlegames.com/games/tiny-dungeons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tiny Dungeons - Epic Adventure Game Online",
+      "description": "Start your epic journey with Tiny Dungeons! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/tiny-dungeons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Tiny Dungeons",
+      "href": "/games/tiny-dungeons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_682",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

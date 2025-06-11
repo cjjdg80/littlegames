@@ -1,0 +1,54 @@
+{
+  "gameId": 3142,
+  "slug": "spiderblock",
+  "metadata": {
+    "title": "Free Spiderblock Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Spiderblock! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Spiderblock game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/spiderblock",
+    "openGraph": {
+      "title": "Free Spiderblock Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Spiderblock! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/spiderblock-og.jpg",
+      "url": "https://littlegames.com/games/spiderblock",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Spiderblock Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Spiderblock! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/spiderblock-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Spiderblock",
+      "href": "/games/spiderblock",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_411",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

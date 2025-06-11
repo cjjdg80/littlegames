@@ -1,0 +1,54 @@
+{
+  "gameId": 5384,
+  "slug": "zen-triple-3d",
+  "metadata": {
+    "title": "Zen Triple 3D Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Zen Triple 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Zen Triple 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zen-triple-3d",
+    "openGraph": {
+      "title": "Zen Triple 3D Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Zen Triple 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/zen-triple-3d-og.jpg",
+      "url": "https://littlegames.com/games/zen-triple-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zen Triple 3D Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Zen Triple 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zen-triple-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zen Triple 3D",
+      "href": "/games/zen-triple-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_910",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

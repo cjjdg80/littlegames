@@ -1,0 +1,54 @@
+{
+  "gameId": 9482,
+  "slug": "nuclear-day-survival",
+  "metadata": {
+    "title": "Nuclear Day Survival - Thrilling Adventure Quest",
+    "description": "Nuclear Day Survival offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "Nuclear Day Survival game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/nuclear-day-survival",
+    "openGraph": {
+      "title": "Nuclear Day Survival - Thrilling Adventure Quest",
+      "description": "Nuclear Day Survival offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/nuclear-day-survival-og.jpg",
+      "url": "https://littlegames.com/games/nuclear-day-survival",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Nuclear Day Survival - Thrilling Adventure Quest",
+      "description": "Nuclear Day Survival offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/nuclear-day-survival-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Nuclear Day Survival",
+      "href": "/games/nuclear-day-survival",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_951",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

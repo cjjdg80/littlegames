@@ -1,0 +1,46 @@
+{
+  "tag": "alchemy",
+  "displayName": "Alchemy",
+  "metadata": {
+    "title": "Alchemy Games - Play Free Online",
+    "description": "Discover amazing alchemy games! Play 3 free games with alchemy theme. No downloads required.",
+    "keywords": [
+      "alchemy games",
+      "free online games",
+      "browser games",
+      "alchemy theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/alchemy",
+    "openGraph": {
+      "title": "Alchemy Games - Free Online Gaming",
+      "description": "Play the best alchemy games online for free. 3 games available.",
+      "image": "https://littlegames.com/images/tags/alchemy-og.jpg",
+      "url": "https://littlegames.com/tags/alchemy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Alchemy Games - Free Online",
+      "description": "Play 3 free alchemy games online.",
+      "image": "https://littlegames.com/images/tags/alchemy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Alchemy",
+      "href": "/tags/alchemy",
+      "current": true
+    }
+  ],
+  "description": "Discover games with alchemy theme! Our collection includes 3 carefully selected games that feature alchemy elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

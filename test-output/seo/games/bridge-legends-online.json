@@ -1,0 +1,54 @@
+{
+  "gameId": 3331,
+  "slug": "bridge-legends-online",
+  "metadata": {
+    "title": "Free Bridge Legends Online Game - Adventure Awaits",
+    "description": "Start your epic journey with Bridge Legends Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Bridge Legends Online online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/bridge-legends-online",
+    "openGraph": {
+      "title": "Free Bridge Legends Online Game - Adventure Awaits",
+      "description": "Start your epic journey with Bridge Legends Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/bridge-legends-online-og.jpg",
+      "url": "https://littlegames.com/games/bridge-legends-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bridge Legends Online Game - Adventure Awaits",
+      "description": "Start your epic journey with Bridge Legends Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/bridge-legends-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Bridge Legends Online",
+      "href": "/games/bridge-legends-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_270",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

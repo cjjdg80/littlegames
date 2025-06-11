@@ -1,0 +1,54 @@
+{
+  "gameId": 4655,
+  "slug": "diamond-rush",
+  "metadata": {
+    "title": "Diamond Rush - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Diamond Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Diamond Rush",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/diamond-rush",
+    "openGraph": {
+      "title": "Diamond Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Diamond Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/diamond-rush-og.jpg",
+      "url": "https://littlegames.com/games/diamond-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diamond Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Diamond Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/diamond-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Diamond Rush",
+      "href": "/games/diamond-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_311",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

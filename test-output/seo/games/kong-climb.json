@@ -1,0 +1,54 @@
+{
+  "gameId": 5112,
+  "slug": "kong-climb",
+  "metadata": {
+    "title": "Kong Climb - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Kong Climb. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Kong Climb",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/kong-climb",
+    "openGraph": {
+      "title": "Kong Climb - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Kong Climb. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/kong-climb-og.jpg",
+      "url": "https://littlegames.com/games/kong-climb",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kong Climb - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Kong Climb. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/kong-climb-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Kong Climb",
+      "href": "/games/kong-climb",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_478",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

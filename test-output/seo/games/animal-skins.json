@@ -1,0 +1,54 @@
+{
+  "gameId": 1573,
+  "slug": "animal-skins",
+  "metadata": {
+    "title": "Animal Skins Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Animal Skins. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Animal Skins",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/animal-skins",
+    "openGraph": {
+      "title": "Animal Skins Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Animal Skins. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/animal-skins-og.jpg",
+      "url": "https://littlegames.com/games/animal-skins",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animal Skins Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Animal Skins. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/animal-skins-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Animal Skins",
+      "href": "/games/animal-skins",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_769",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

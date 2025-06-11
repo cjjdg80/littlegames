@@ -1,0 +1,54 @@
+{
+  "gameId": 2631,
+  "slug": "save-the-fish",
+  "metadata": {
+    "title": "Save The Fish - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Save The Fish! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Save The Fish game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-fish",
+    "openGraph": {
+      "title": "Save The Fish - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Save The Fish! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/save-the-fish-og.jpg",
+      "url": "https://littlegames.com/games/save-the-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Save The Fish - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Save The Fish! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/save-the-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Save The Fish",
+      "href": "/games/save-the-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_570",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

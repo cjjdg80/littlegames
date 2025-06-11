@@ -1,0 +1,54 @@
+{
+  "gameId": 6789,
+  "slug": "dino-merge-and-fight",
+  "metadata": {
+    "title": "Dino: Merge and Fight - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Dino: Merge and Fight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "Dino: Merge and Fight game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dino-merge-and-fight",
+    "openGraph": {
+      "title": "Dino: Merge and Fight - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Dino: Merge and Fight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/dino-merge-and-fight-og.jpg",
+      "url": "https://littlegames.com/games/dino-merge-and-fight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dino: Merge and Fight - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Dino: Merge and Fight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dino-merge-and-fight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dino: Merge and Fight",
+      "href": "/games/dino-merge-and-fight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_465",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

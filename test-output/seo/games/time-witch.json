@@ -1,0 +1,54 @@
+{
+  "gameId": 3855,
+  "slug": "time-witch",
+  "metadata": {
+    "title": "Free Time Witch Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Time Witch. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Time Witch",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/time-witch",
+    "openGraph": {
+      "title": "Free Time Witch Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Time Witch. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/time-witch-og.jpg",
+      "url": "https://littlegames.com/games/time-witch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Time Witch Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Time Witch. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/time-witch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Time Witch",
+      "href": "/games/time-witch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_511",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

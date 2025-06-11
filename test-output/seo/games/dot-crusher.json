@@ -1,0 +1,54 @@
+{
+  "gameId": 4903,
+  "slug": "dot-crusher",
+  "metadata": {
+    "title": "Dot Crusher Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Dot Crusher. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dot Crusher game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dot-crusher",
+    "openGraph": {
+      "title": "Dot Crusher Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dot Crusher. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dot-crusher-og.jpg",
+      "url": "https://littlegames.com/games/dot-crusher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dot Crusher Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dot Crusher. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dot-crusher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dot Crusher",
+      "href": "/games/dot-crusher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_999",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

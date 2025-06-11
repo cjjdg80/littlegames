@@ -1,0 +1,54 @@
+{
+  "gameId": 5428,
+  "slug": "mini-coins",
+  "metadata": {
+    "title": "Mini Coins Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Mini Coins! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Mini Coins online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mini-coins",
+    "openGraph": {
+      "title": "Mini Coins Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mini Coins! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/mini-coins-og.jpg",
+      "url": "https://littlegames.com/games/mini-coins",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mini Coins Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mini Coins! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mini-coins-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mini Coins",
+      "href": "/games/mini-coins",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_274",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

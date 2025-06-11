@@ -1,0 +1,54 @@
+{
+  "gameId": 3500,
+  "slug": "halloween-puzzles",
+  "metadata": {
+    "title": "Free Halloween Puzzles Game - Mind Bending Puzzles",
+    "description": "Halloween Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Halloween Puzzles",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-puzzles",
+    "openGraph": {
+      "title": "Free Halloween Puzzles Game - Mind Bending Puzzles",
+      "description": "Halloween Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/halloween-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/halloween-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Halloween Puzzles Game - Mind Bending Puzzles",
+      "description": "Halloween Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/halloween-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Halloween Puzzles",
+      "href": "/games/halloween-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_506",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

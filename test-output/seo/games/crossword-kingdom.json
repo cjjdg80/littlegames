@@ -1,0 +1,54 @@
+{
+  "gameId": 6844,
+  "slug": "crossword-kingdom",
+  "metadata": {
+    "title": "Play Crossword Kingdom - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Crossword Kingdom! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Crossword Kingdom game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/crossword-kingdom",
+    "openGraph": {
+      "title": "Play Crossword Kingdom - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Crossword Kingdom! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/crossword-kingdom-og.jpg",
+      "url": "https://littlegames.com/games/crossword-kingdom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Crossword Kingdom - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Crossword Kingdom! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/crossword-kingdom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crossword Kingdom",
+      "href": "/games/crossword-kingdom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_170",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

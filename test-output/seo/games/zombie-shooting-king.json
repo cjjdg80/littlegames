@@ -1,0 +1,54 @@
+{
+  "gameId": 9889,
+  "slug": "zombie-shooting-king",
+  "metadata": {
+    "title": "Free Zombie Shooting King Game - Adventure Awaits",
+    "description": "Begin your quest in Zombie Shooting King. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Zombie Shooting King online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-shooting-king",
+    "openGraph": {
+      "title": "Free Zombie Shooting King Game - Adventure Awaits",
+      "description": "Begin your quest in Zombie Shooting King. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/zombie-shooting-king-og.jpg",
+      "url": "https://littlegames.com/games/zombie-shooting-king",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Zombie Shooting King Game - Adventure Awaits",
+      "description": "Begin your quest in Zombie Shooting King. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/zombie-shooting-king-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Zombie Shooting King",
+      "href": "/games/zombie-shooting-king",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_568",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

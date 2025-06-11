@@ -1,0 +1,54 @@
+{
+  "gameId": 2739,
+  "slug": "jump-cube",
+  "metadata": {
+    "title": "Free Jump cube Game - Action Packed Fun",
+    "description": "Experience thrilling action in Jump cube! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Jump cube online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jump-cube",
+    "openGraph": {
+      "title": "Free Jump cube Game - Action Packed Fun",
+      "description": "Experience thrilling action in Jump cube! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/jump-cube-og.jpg",
+      "url": "https://littlegames.com/games/jump-cube",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jump cube Game - Action Packed Fun",
+      "description": "Experience thrilling action in Jump cube! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/jump-cube-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jump cube",
+      "href": "/games/jump-cube",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_915",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

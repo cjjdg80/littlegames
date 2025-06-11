@@ -1,0 +1,54 @@
+{
+  "gameId": 717,
+  "slug": "defeat-the-monster",
+  "metadata": {
+    "title": "Defeat the monster - Thrilling Adventure Quest",
+    "description": "Begin your quest in Defeat the monster. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Defeat the monster game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/defeat-the-monster",
+    "openGraph": {
+      "title": "Defeat the monster - Thrilling Adventure Quest",
+      "description": "Begin your quest in Defeat the monster. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/defeat-the-monster-og.jpg",
+      "url": "https://littlegames.com/games/defeat-the-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Defeat the monster - Thrilling Adventure Quest",
+      "description": "Begin your quest in Defeat the monster. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/defeat-the-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Defeat the monster",
+      "href": "/games/defeat-the-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_236",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

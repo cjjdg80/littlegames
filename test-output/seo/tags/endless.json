@@ -1,0 +1,46 @@
+{
+  "tag": "endless",
+  "displayName": "Endless",
+  "metadata": {
+    "title": "Endless Games - Play Free Online",
+    "description": "Discover amazing endless games! Play 200 free games with endless theme. No downloads required.",
+    "keywords": [
+      "endless games",
+      "free online games",
+      "browser games",
+      "endless theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/endless",
+    "openGraph": {
+      "title": "Endless Games - Free Online Gaming",
+      "description": "Play the best endless games online for free. 200 games available.",
+      "image": "https://littlegames.com/images/tags/endless-og.jpg",
+      "url": "https://littlegames.com/tags/endless",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Endless Games - Free Online",
+      "description": "Play 200 free endless games online.",
+      "image": "https://littlegames.com/images/tags/endless-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Endless",
+      "href": "/tags/endless",
+      "current": true
+    }
+  ],
+  "description": "Discover games with endless theme! Our collection includes 200 carefully selected games that feature endless elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

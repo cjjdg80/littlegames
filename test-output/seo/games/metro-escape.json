@@ -1,0 +1,54 @@
+{
+  "gameId": 9868,
+  "slug": "metro-escape",
+  "metadata": {
+    "title": "Metro Escape Online - Logic and Strategy Game",
+    "description": "Metro Escape offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Metro Escape",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/metro-escape",
+    "openGraph": {
+      "title": "Metro Escape Online - Logic and Strategy Game",
+      "description": "Metro Escape offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/metro-escape-og.jpg",
+      "url": "https://littlegames.com/games/metro-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Metro Escape Online - Logic and Strategy Game",
+      "description": "Metro Escape offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/metro-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Metro Escape",
+      "href": "/games/metro-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_914",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

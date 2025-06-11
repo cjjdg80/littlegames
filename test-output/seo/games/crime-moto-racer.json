@@ -1,0 +1,54 @@
+{
+  "gameId": 5593,
+  "slug": "crime-moto-racer",
+  "metadata": {
+    "title": "Crime Moto Racer - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Crime Moto Racer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Crime Moto Racer game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crime-moto-racer",
+    "openGraph": {
+      "title": "Crime Moto Racer - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Crime Moto Racer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crime-moto-racer-og.jpg",
+      "url": "https://littlegames.com/games/crime-moto-racer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crime Moto Racer - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Crime Moto Racer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crime-moto-racer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crime Moto Racer",
+      "href": "/games/crime-moto-racer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_389",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5579,
+  "slug": "toon-blast-online",
+  "metadata": {
+    "title": "Toon Blast Online - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Toon Blast Online. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Toon Blast Online",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/toon-blast-online",
+    "openGraph": {
+      "title": "Toon Blast Online - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Toon Blast Online. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/toon-blast-online-og.jpg",
+      "url": "https://littlegames.com/games/toon-blast-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Toon Blast Online - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Toon Blast Online. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/toon-blast-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Toon Blast Online",
+      "href": "/games/toon-blast-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_958",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

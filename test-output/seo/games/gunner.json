@@ -1,0 +1,54 @@
+{
+  "gameId": 2762,
+  "slug": "gunner",
+  "metadata": {
+    "title": "Gunner - Exciting Action Adventure Game",
+    "description": "Join the action in Gunner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Gunner",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gunner",
+    "openGraph": {
+      "title": "Gunner - Exciting Action Adventure Game",
+      "description": "Join the action in Gunner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gunner-og.jpg",
+      "url": "https://littlegames.com/games/gunner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gunner - Exciting Action Adventure Game",
+      "description": "Join the action in Gunner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gunner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gunner",
+      "href": "/games/gunner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_628",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

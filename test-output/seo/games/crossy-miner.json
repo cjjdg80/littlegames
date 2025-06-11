@@ -1,0 +1,54 @@
+{
+  "gameId": 3002,
+  "slug": "crossy-miner",
+  "metadata": {
+    "title": "Action Game Crossy Miner - Play Free Now",
+    "description": "Dive into the action-packed world of Crossy Miner. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Crossy Miner",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/crossy-miner",
+    "openGraph": {
+      "title": "Action Game Crossy Miner - Play Free Now",
+      "description": "Dive into the action-packed world of Crossy Miner. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/crossy-miner-og.jpg",
+      "url": "https://littlegames.com/games/crossy-miner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Crossy Miner - Play Free Now",
+      "description": "Dive into the action-packed world of Crossy Miner. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/crossy-miner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crossy Miner",
+      "href": "/games/crossy-miner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_068",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

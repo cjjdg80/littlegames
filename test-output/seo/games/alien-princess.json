@@ -1,0 +1,54 @@
+{
+  "gameId": 6300,
+  "slug": "alien-princess",
+  "metadata": {
+    "title": "Action Game Alien Princess - Play Free Now",
+    "description": "Join the action in Alien Princess! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Alien Princess",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/alien-princess",
+    "openGraph": {
+      "title": "Action Game Alien Princess - Play Free Now",
+      "description": "Join the action in Alien Princess! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/alien-princess-og.jpg",
+      "url": "https://littlegames.com/games/alien-princess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Alien Princess - Play Free Now",
+      "description": "Join the action in Alien Princess! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/alien-princess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Alien Princess",
+      "href": "/games/alien-princess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_306",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

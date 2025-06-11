@@ -1,0 +1,54 @@
+{
+  "gameId": 6361,
+  "slug": "storyzoo-games",
+  "metadata": {
+    "title": "Play StoryZoo Games - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in StoryZoo Games! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "StoryZoo Games",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/storyzoo-games",
+    "openGraph": {
+      "title": "Play StoryZoo Games - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in StoryZoo Games! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/storyzoo-games-og.jpg",
+      "url": "https://littlegames.com/games/storyzoo-games",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play StoryZoo Games - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in StoryZoo Games! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/storyzoo-games-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "StoryZoo Games",
+      "href": "/games/storyzoo-games",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_200",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

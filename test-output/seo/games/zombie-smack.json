@@ -1,0 +1,54 @@
+{
+  "gameId": 2991,
+  "slug": "zombie-smack",
+  "metadata": {
+    "title": "Free Zombie Smack Game - Action Packed Fun",
+    "description": "Zombie Smack delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Zombie Smack online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-smack",
+    "openGraph": {
+      "title": "Free Zombie Smack Game - Action Packed Fun",
+      "description": "Zombie Smack delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zombie-smack-og.jpg",
+      "url": "https://littlegames.com/games/zombie-smack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Zombie Smack Game - Action Packed Fun",
+      "description": "Zombie Smack delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zombie-smack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Smack",
+      "href": "/games/zombie-smack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_727",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

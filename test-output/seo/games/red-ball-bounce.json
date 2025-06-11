@@ -1,0 +1,54 @@
+{
+  "gameId": 5669,
+  "slug": "red-ball-bounce",
+  "metadata": {
+    "title": "Play Red Ball Bounce - Epic Adventure Game Online",
+    "description": "Red Ball Bounce offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Red Ball Bounce online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/red-ball-bounce",
+    "openGraph": {
+      "title": "Play Red Ball Bounce - Epic Adventure Game Online",
+      "description": "Red Ball Bounce offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/red-ball-bounce-og.jpg",
+      "url": "https://littlegames.com/games/red-ball-bounce",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Red Ball Bounce - Epic Adventure Game Online",
+      "description": "Red Ball Bounce offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/red-ball-bounce-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Red Ball Bounce",
+      "href": "/games/red-ball-bounce",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_748",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

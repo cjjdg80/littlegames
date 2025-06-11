@@ -1,0 +1,54 @@
+{
+  "gameId": 8496,
+  "slug": "portals",
+  "metadata": {
+    "title": "Portals - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Portals! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Portals",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/portals",
+    "openGraph": {
+      "title": "Portals - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Portals! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/portals-og.jpg",
+      "url": "https://littlegames.com/games/portals",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Portals - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Portals! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/portals-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Portals",
+      "href": "/games/portals",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_385",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

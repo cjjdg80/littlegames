@@ -1,0 +1,54 @@
+{
+  "gameId": 6375,
+  "slug": "jewels-classic",
+  "metadata": {
+    "title": "Play Jewels Classic - Free Action Game Online",
+    "description": "Dive into the action-packed world of Jewels Classic. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Jewels Classic",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/jewels-classic",
+    "openGraph": {
+      "title": "Play Jewels Classic - Free Action Game Online",
+      "description": "Dive into the action-packed world of Jewels Classic. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/jewels-classic-og.jpg",
+      "url": "https://littlegames.com/games/jewels-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jewels Classic - Free Action Game Online",
+      "description": "Dive into the action-packed world of Jewels Classic. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jewels-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jewels Classic",
+      "href": "/games/jewels-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_631",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

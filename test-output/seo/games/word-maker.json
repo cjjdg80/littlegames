@@ -1,0 +1,54 @@
+{
+  "gameId": 6781,
+  "slug": "word-maker",
+  "metadata": {
+    "title": "Play Word Maker - Free Action Game Online",
+    "description": "Word Maker delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Word Maker",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/word-maker",
+    "openGraph": {
+      "title": "Play Word Maker - Free Action Game Online",
+      "description": "Word Maker delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/word-maker-og.jpg",
+      "url": "https://littlegames.com/games/word-maker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Word Maker - Free Action Game Online",
+      "description": "Word Maker delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/word-maker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Word Maker",
+      "href": "/games/word-maker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_217",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

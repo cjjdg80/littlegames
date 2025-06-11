@@ -1,0 +1,54 @@
+{
+  "gameId": 933,
+  "slug": "chubby-runner",
+  "metadata": {
+    "title": "Action Game Chubby Runner - Play Free Now",
+    "description": "Chubby Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Chubby Runner game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/chubby-runner",
+    "openGraph": {
+      "title": "Action Game Chubby Runner - Play Free Now",
+      "description": "Chubby Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chubby-runner-og.jpg",
+      "url": "https://littlegames.com/games/chubby-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Chubby Runner - Play Free Now",
+      "description": "Chubby Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chubby-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chubby Runner",
+      "href": "/games/chubby-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_929",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

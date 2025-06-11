@@ -1,0 +1,54 @@
+{
+  "gameId": 4818,
+  "slug": "popstar-mania",
+  "metadata": {
+    "title": "Free PopStar Mania Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in PopStar Mania. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "PopStar Mania online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/popstar-mania",
+    "openGraph": {
+      "title": "Free PopStar Mania Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in PopStar Mania. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/popstar-mania-og.jpg",
+      "url": "https://littlegames.com/games/popstar-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free PopStar Mania Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in PopStar Mania. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/popstar-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "PopStar Mania",
+      "href": "/games/popstar-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_364",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

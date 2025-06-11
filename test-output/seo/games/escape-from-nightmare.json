@@ -1,0 +1,54 @@
+{
+  "gameId": 4350,
+  "slug": "escape-from-nightmare",
+  "metadata": {
+    "title": "Adventure Game Escape From Nightmare - Journey Begins",
+    "description": "Start your epic journey with Escape From Nightmare! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Escape From Nightmare game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/escape-from-nightmare",
+    "openGraph": {
+      "title": "Adventure Game Escape From Nightmare - Journey Begins",
+      "description": "Start your epic journey with Escape From Nightmare! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/escape-from-nightmare-og.jpg",
+      "url": "https://littlegames.com/games/escape-from-nightmare",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Escape From Nightmare - Journey Begins",
+      "description": "Start your epic journey with Escape From Nightmare! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/escape-from-nightmare-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape From Nightmare",
+      "href": "/games/escape-from-nightmare",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_859",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

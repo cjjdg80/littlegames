@@ -1,0 +1,54 @@
+{
+  "gameId": 3205,
+  "slug": "double-driving",
+  "metadata": {
+    "title": "Double Driving - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Double Driving! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Double Driving",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/double-driving",
+    "openGraph": {
+      "title": "Double Driving - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Double Driving! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/double-driving-og.jpg",
+      "url": "https://littlegames.com/games/double-driving",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Double Driving - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Double Driving! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/double-driving-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Double Driving",
+      "href": "/games/double-driving",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_361",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

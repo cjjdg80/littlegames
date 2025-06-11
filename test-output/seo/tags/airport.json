@@ -1,0 +1,46 @@
+{
+  "tag": "airport",
+  "displayName": "Airport",
+  "metadata": {
+    "title": "Airport Games - Play Free Online",
+    "description": "Discover amazing airport games! Play 6 free games with airport theme. No downloads required.",
+    "keywords": [
+      "airport games",
+      "free online games",
+      "browser games",
+      "airport theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/airport",
+    "openGraph": {
+      "title": "Airport Games - Free Online Gaming",
+      "description": "Play the best airport games online for free. 6 games available.",
+      "image": "https://littlegames.com/images/tags/airport-og.jpg",
+      "url": "https://littlegames.com/tags/airport",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Airport Games - Free Online",
+      "description": "Play 6 free airport games online.",
+      "image": "https://littlegames.com/images/tags/airport-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Airport",
+      "href": "/tags/airport",
+      "current": true
+    }
+  ],
+  "description": "Discover games with airport theme! Our collection includes 6 carefully selected games that feature airport elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

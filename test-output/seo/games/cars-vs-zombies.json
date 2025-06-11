@@ -1,0 +1,54 @@
+{
+  "gameId": 4254,
+  "slug": "cars-vs-zombies",
+  "metadata": {
+    "title": "Free Cars vs Zombies Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Cars vs Zombies. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Cars vs Zombies",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cars-vs-zombies",
+    "openGraph": {
+      "title": "Free Cars vs Zombies Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cars vs Zombies. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cars-vs-zombies-og.jpg",
+      "url": "https://littlegames.com/games/cars-vs-zombies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Cars vs Zombies Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cars vs Zombies. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cars-vs-zombies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cars vs Zombies",
+      "href": "/games/cars-vs-zombies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_880",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

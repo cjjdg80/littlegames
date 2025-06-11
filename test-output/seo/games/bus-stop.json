@@ -1,0 +1,54 @@
+{
+  "gameId": 6246,
+  "slug": "bus-stop",
+  "metadata": {
+    "title": "Action Game Bus Stop - Play Free Now",
+    "description": "Dive into the action-packed world of Bus Stop. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Bus Stop",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bus-stop",
+    "openGraph": {
+      "title": "Action Game Bus Stop - Play Free Now",
+      "description": "Dive into the action-packed world of Bus Stop. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bus-stop-og.jpg",
+      "url": "https://littlegames.com/games/bus-stop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bus Stop - Play Free Now",
+      "description": "Dive into the action-packed world of Bus Stop. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bus-stop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bus Stop",
+      "href": "/games/bus-stop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_632",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3599,
+  "slug": "tricky-tiles",
+  "metadata": {
+    "title": "Action Game Tricky Tiles - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Tricky Tiles. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tricky Tiles online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tricky-tiles",
+    "openGraph": {
+      "title": "Action Game Tricky Tiles - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Tricky Tiles. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tricky-tiles-og.jpg",
+      "url": "https://littlegames.com/games/tricky-tiles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tricky Tiles - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Tricky Tiles. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tricky-tiles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tricky Tiles",
+      "href": "/games/tricky-tiles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_575",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

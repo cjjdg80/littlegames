@@ -1,0 +1,54 @@
+{
+  "gameId": 2458,
+  "slug": "spider-trump",
+  "metadata": {
+    "title": "Spider Trump - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Spider Trump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Spider Trump game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/spider-trump",
+    "openGraph": {
+      "title": "Spider Trump - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Spider Trump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/spider-trump-og.jpg",
+      "url": "https://littlegames.com/games/spider-trump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spider Trump - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Spider Trump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/spider-trump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Spider Trump",
+      "href": "/games/spider-trump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_204",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

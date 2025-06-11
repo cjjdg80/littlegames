@@ -1,0 +1,54 @@
+{
+  "gameId": 4522,
+  "slug": "music-garden",
+  "metadata": {
+    "title": "Music Garden Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Music Garden. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Music Garden",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/music-garden",
+    "openGraph": {
+      "title": "Music Garden Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Music Garden. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/music-garden-og.jpg",
+      "url": "https://littlegames.com/games/music-garden",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Music Garden Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Music Garden. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/music-garden-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Music Garden",
+      "href": "/games/music-garden",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_188",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

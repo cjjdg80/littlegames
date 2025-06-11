@@ -1,0 +1,54 @@
+{
+  "gameId": 3845,
+  "slug": "dalgona-candy",
+  "metadata": {
+    "title": "Dalgona Candy Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Dalgona Candy. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dalgona Candy game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dalgona-candy",
+    "openGraph": {
+      "title": "Dalgona Candy Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dalgona Candy. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dalgona-candy-og.jpg",
+      "url": "https://littlegames.com/games/dalgona-candy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dalgona Candy Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dalgona Candy. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dalgona-candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dalgona Candy",
+      "href": "/games/dalgona-candy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_201",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

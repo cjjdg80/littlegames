@@ -1,0 +1,54 @@
+{
+  "gameId": 5168,
+  "slug": "shapik-the-quest",
+  "metadata": {
+    "title": "Shapik The Quest - Thrilling Adventure Quest",
+    "description": "Shapik The Quest offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Shapik The Quest",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/shapik-the-quest",
+    "openGraph": {
+      "title": "Shapik The Quest - Thrilling Adventure Quest",
+      "description": "Shapik The Quest offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/shapik-the-quest-og.jpg",
+      "url": "https://littlegames.com/games/shapik-the-quest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shapik The Quest - Thrilling Adventure Quest",
+      "description": "Shapik The Quest offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/shapik-the-quest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Shapik The Quest",
+      "href": "/games/shapik-the-quest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_217",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

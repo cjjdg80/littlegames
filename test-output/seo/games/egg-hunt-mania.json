@@ -1,0 +1,54 @@
+{
+  "gameId": 8110,
+  "slug": "egg-hunt-mania",
+  "metadata": {
+    "title": "Action Game Egg Hunt Mania - Play Free Now",
+    "description": "Egg Hunt Mania delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Egg Hunt Mania online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/egg-hunt-mania",
+    "openGraph": {
+      "title": "Action Game Egg Hunt Mania - Play Free Now",
+      "description": "Egg Hunt Mania delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/egg-hunt-mania-og.jpg",
+      "url": "https://littlegames.com/games/egg-hunt-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Egg Hunt Mania - Play Free Now",
+      "description": "Egg Hunt Mania delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/egg-hunt-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Egg Hunt Mania",
+      "href": "/games/egg-hunt-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_416",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

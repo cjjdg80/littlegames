@@ -1,0 +1,54 @@
+{
+  "gameId": 2780,
+  "slug": "super-archer",
+  "metadata": {
+    "title": "Play Super Archer - Free Action Game Online",
+    "description": "Join the action in Super Archer! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Super Archer",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/super-archer",
+    "openGraph": {
+      "title": "Play Super Archer - Free Action Game Online",
+      "description": "Join the action in Super Archer! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-archer-og.jpg",
+      "url": "https://littlegames.com/games/super-archer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Super Archer - Free Action Game Online",
+      "description": "Join the action in Super Archer! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-archer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Super Archer",
+      "href": "/games/super-archer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_186",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8434,
+  "slug": "golf-orbit",
+  "metadata": {
+    "title": "Golf Orbit - Exciting Action Adventure Game",
+    "description": "Join the action in Golf Orbit! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Golf Orbit",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/golf-orbit",
+    "openGraph": {
+      "title": "Golf Orbit - Exciting Action Adventure Game",
+      "description": "Join the action in Golf Orbit! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/golf-orbit-og.jpg",
+      "url": "https://littlegames.com/games/golf-orbit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Golf Orbit - Exciting Action Adventure Game",
+      "description": "Join the action in Golf Orbit! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/golf-orbit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Golf Orbit",
+      "href": "/games/golf-orbit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_460",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

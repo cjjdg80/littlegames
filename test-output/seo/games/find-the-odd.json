@@ -1,0 +1,54 @@
+{
+  "gameId": 606,
+  "slug": "find-the-odd",
+  "metadata": {
+    "title": "Play Find the Odd - Free Puzzle Game Online",
+    "description": "Exercise your brain with Find the Odd. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Find the Odd",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-odd",
+    "openGraph": {
+      "title": "Play Find the Odd - Free Puzzle Game Online",
+      "description": "Exercise your brain with Find the Odd. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/find-the-odd-og.jpg",
+      "url": "https://littlegames.com/games/find-the-odd",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Find the Odd - Free Puzzle Game Online",
+      "description": "Exercise your brain with Find the Odd. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/find-the-odd-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Find the Odd",
+      "href": "/games/find-the-odd",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_792",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

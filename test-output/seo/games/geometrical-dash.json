@@ -1,0 +1,54 @@
+{
+  "gameId": 782,
+  "slug": "geometrical-dash",
+  "metadata": {
+    "title": "Geometrical Dash Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Geometrical Dash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Geometrical Dash",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/geometrical-dash",
+    "openGraph": {
+      "title": "Geometrical Dash Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Geometrical Dash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/geometrical-dash-og.jpg",
+      "url": "https://littlegames.com/games/geometrical-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometrical Dash Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Geometrical Dash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/geometrical-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Geometrical Dash",
+      "href": "/games/geometrical-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_248",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

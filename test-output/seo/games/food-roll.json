@@ -1,0 +1,54 @@
+{
+  "gameId": 2629,
+  "slug": "food-roll",
+  "metadata": {
+    "title": "Play Food Roll - Epic Adventure Game Online",
+    "description": "Start your epic journey with Food Roll! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Food Roll game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/food-roll",
+    "openGraph": {
+      "title": "Play Food Roll - Epic Adventure Game Online",
+      "description": "Start your epic journey with Food Roll! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/food-roll-og.jpg",
+      "url": "https://littlegames.com/games/food-roll",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Food Roll - Epic Adventure Game Online",
+      "description": "Start your epic journey with Food Roll! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/food-roll-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Food Roll",
+      "href": "/games/food-roll",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_508",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

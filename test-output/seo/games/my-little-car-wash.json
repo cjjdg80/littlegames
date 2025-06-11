@@ -1,0 +1,54 @@
+{
+  "gameId": 7656,
+  "slug": "my-little-car-wash",
+  "metadata": {
+    "title": "My Little Car Wash Online - Ultimate Action Gaming...",
+    "description": "Experience thrilling action in My Little Car Wash! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "My Little Car Wash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/my-little-car-wash",
+    "openGraph": {
+      "title": "My Little Car Wash Online - Ultimate Action Gaming...",
+      "description": "Experience thrilling action in My Little Car Wash! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/my-little-car-wash-og.jpg",
+      "url": "https://littlegames.com/games/my-little-car-wash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Little Car Wash Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in My Little Car Wash! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/my-little-car-wash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "My Little Car Wash",
+      "href": "/games/my-little-car-wash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_342",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

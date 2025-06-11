@@ -1,0 +1,54 @@
+{
+  "gameId": 5571,
+  "slug": "coin-dozer",
+  "metadata": {
+    "title": "Coin Dozer - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Coin Dozer. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Coin Dozer online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/coin-dozer",
+    "openGraph": {
+      "title": "Coin Dozer - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Coin Dozer. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/coin-dozer-og.jpg",
+      "url": "https://littlegames.com/games/coin-dozer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Coin Dozer - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Coin Dozer. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/coin-dozer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Coin Dozer",
+      "href": "/games/coin-dozer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_711",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9092,
+  "slug": "flip-it-3d",
+  "metadata": {
+    "title": "Flip It 3D - Brain Training Puzzle Challenge",
+    "description": "Flip It 3D offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Flip It 3D",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/flip-it-3d",
+    "openGraph": {
+      "title": "Flip It 3D - Brain Training Puzzle Challenge",
+      "description": "Flip It 3D offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/flip-it-3d-og.jpg",
+      "url": "https://littlegames.com/games/flip-it-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flip It 3D - Brain Training Puzzle Challenge",
+      "description": "Flip It 3D offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/flip-it-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Flip It 3D",
+      "href": "/games/flip-it-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_858",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4387,
+  "slug": "sweet-crush",
+  "metadata": {
+    "title": "Sweet Crush Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Sweet Crush. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Sweet Crush online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sweet-crush",
+    "openGraph": {
+      "title": "Sweet Crush Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Sweet Crush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sweet-crush-og.jpg",
+      "url": "https://littlegames.com/games/sweet-crush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sweet Crush Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Sweet Crush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sweet-crush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sweet Crush",
+      "href": "/games/sweet-crush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_003",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

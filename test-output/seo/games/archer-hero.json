@@ -1,0 +1,54 @@
+{
+  "gameId": 2934,
+  "slug": "archer-hero",
+  "metadata": {
+    "title": "Action Game Archer Hero - Play Free Now",
+    "description": "Experience thrilling action in Archer Hero! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Archer Hero game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/archer-hero",
+    "openGraph": {
+      "title": "Action Game Archer Hero - Play Free Now",
+      "description": "Experience thrilling action in Archer Hero! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/archer-hero-og.jpg",
+      "url": "https://littlegames.com/games/archer-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Archer Hero - Play Free Now",
+      "description": "Experience thrilling action in Archer Hero! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/archer-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Archer Hero",
+      "href": "/games/archer-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_960",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3933,
+  "slug": "run-run-duck",
+  "metadata": {
+    "title": "Adventure Game Run Run Duck - Journey Begins",
+    "description": "Embark on an epic journey in Run Run Duck! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Run Run Duck",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/run-run-duck",
+    "openGraph": {
+      "title": "Adventure Game Run Run Duck - Journey Begins",
+      "description": "Embark on an epic journey in Run Run Duck! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/run-run-duck-og.jpg",
+      "url": "https://littlegames.com/games/run-run-duck",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Run Run Duck - Journey Begins",
+      "description": "Embark on an epic journey in Run Run Duck! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/run-run-duck-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Run Run Duck",
+      "href": "/games/run-run-duck",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_932",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

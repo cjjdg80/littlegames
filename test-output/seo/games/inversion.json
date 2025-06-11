@@ -1,0 +1,54 @@
+{
+  "gameId": 5215,
+  "slug": "inversion",
+  "metadata": {
+    "title": "Free INVERSION Game - Action Packed Fun",
+    "description": "Experience thrilling action in INVERSION! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play INVERSION",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/inversion",
+    "openGraph": {
+      "title": "Free INVERSION Game - Action Packed Fun",
+      "description": "Experience thrilling action in INVERSION! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/inversion-og.jpg",
+      "url": "https://littlegames.com/games/inversion",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free INVERSION Game - Action Packed Fun",
+      "description": "Experience thrilling action in INVERSION! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/inversion-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "INVERSION",
+      "href": "/games/inversion",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_671",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

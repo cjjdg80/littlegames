@@ -1,0 +1,54 @@
+{
+  "gameId": 6371,
+  "slug": "chick-chicken-connect",
+  "metadata": {
+    "title": "CHICK CHICKEN CONNECT Online - Ultimate Action Gaming...",
+    "description": "CHICK CHICKEN CONNECT delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "CHICK CHICKEN CONNECT",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/chick-chicken-connect",
+    "openGraph": {
+      "title": "CHICK CHICKEN CONNECT Online - Ultimate Action Gaming...",
+      "description": "CHICK CHICKEN CONNECT delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chick-chicken-connect-og.jpg",
+      "url": "https://littlegames.com/games/chick-chicken-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "CHICK CHICKEN CONNECT Online - Ultimate Action Gaming Experience",
+      "description": "CHICK CHICKEN CONNECT delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chick-chicken-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "CHICK CHICKEN CONNECT",
+      "href": "/games/chick-chicken-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_507",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

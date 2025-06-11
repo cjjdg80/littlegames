@@ -1,0 +1,54 @@
+{
+  "gameId": 1905,
+  "slug": "lucky-life",
+  "metadata": {
+    "title": "Lucky Life - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Lucky Life! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Lucky Life",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lucky-life",
+    "openGraph": {
+      "title": "Lucky Life - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Lucky Life! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/lucky-life-og.jpg",
+      "url": "https://littlegames.com/games/lucky-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Lucky Life - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Lucky Life! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/lucky-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Lucky Life",
+      "href": "/games/lucky-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_064",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6447,
+  "slug": "bubble-pop-classic",
+  "metadata": {
+    "title": "Bubble Pop Classic - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Bubble Pop Classic! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Bubble Pop Classic",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-pop-classic",
+    "openGraph": {
+      "title": "Bubble Pop Classic - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Bubble Pop Classic! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/bubble-pop-classic-og.jpg",
+      "url": "https://littlegames.com/games/bubble-pop-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Pop Classic - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Bubble Pop Classic! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/bubble-pop-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bubble Pop Classic",
+      "href": "/games/bubble-pop-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_863",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

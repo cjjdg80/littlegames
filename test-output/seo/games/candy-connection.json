@@ -1,0 +1,54 @@
+{
+  "gameId": 1683,
+  "slug": "candy-connection",
+  "metadata": {
+    "title": "Action Game Candy Connection - Play Free Now",
+    "description": "Candy Connection delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Candy Connection game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/candy-connection",
+    "openGraph": {
+      "title": "Action Game Candy Connection - Play Free Now",
+      "description": "Candy Connection delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/candy-connection-og.jpg",
+      "url": "https://littlegames.com/games/candy-connection",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Candy Connection - Play Free Now",
+      "description": "Candy Connection delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/candy-connection-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Candy Connection",
+      "href": "/games/candy-connection",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_179",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5015,
+  "slug": "draw-the-bridge",
+  "metadata": {
+    "title": "Draw the Bridge - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Draw the Bridge. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Draw the Bridge game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/draw-the-bridge",
+    "openGraph": {
+      "title": "Draw the Bridge - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Draw the Bridge. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/draw-the-bridge-og.jpg",
+      "url": "https://littlegames.com/games/draw-the-bridge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw the Bridge - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Draw the Bridge. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/draw-the-bridge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Draw the Bridge",
+      "href": "/games/draw-the-bridge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_474",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

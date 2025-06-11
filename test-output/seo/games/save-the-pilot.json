@@ -1,0 +1,54 @@
+{
+  "gameId": 119,
+  "slug": "save-the-pilot",
+  "metadata": {
+    "title": "Play Save The Pilot - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Save The Pilot. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Save The Pilot online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-pilot",
+    "openGraph": {
+      "title": "Play Save The Pilot - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Save The Pilot. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/save-the-pilot-og.jpg",
+      "url": "https://littlegames.com/games/save-the-pilot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Save The Pilot - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Save The Pilot. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/save-the-pilot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save The Pilot",
+      "href": "/games/save-the-pilot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_695",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

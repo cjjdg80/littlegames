@@ -1,0 +1,54 @@
+{
+  "gameId": 9022,
+  "slug": "epic-mine",
+  "metadata": {
+    "title": "Epic Mine - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Epic Mine! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Epic Mine",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/epic-mine",
+    "openGraph": {
+      "title": "Epic Mine - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Epic Mine! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/epic-mine-og.jpg",
+      "url": "https://littlegames.com/games/epic-mine",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Epic Mine - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Epic Mine! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/epic-mine-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Epic Mine",
+      "href": "/games/epic-mine",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_691",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

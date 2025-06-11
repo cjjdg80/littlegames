@@ -1,0 +1,54 @@
+{
+  "gameId": 5135,
+  "slug": "air-slip",
+  "metadata": {
+    "title": "Air Slip Online - Logic and Strategy Game",
+    "description": "Air Slip offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Air Slip",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/air-slip",
+    "openGraph": {
+      "title": "Air Slip Online - Logic and Strategy Game",
+      "description": "Air Slip offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/air-slip-og.jpg",
+      "url": "https://littlegames.com/games/air-slip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Air Slip Online - Logic and Strategy Game",
+      "description": "Air Slip offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/air-slip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Air Slip",
+      "href": "/games/air-slip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_191",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

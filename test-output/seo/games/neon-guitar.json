@@ -1,0 +1,54 @@
+{
+  "gameId": 2892,
+  "slug": "neon-guitar",
+  "metadata": {
+    "title": "Free Neon Guitar Game - Action Packed Fun",
+    "description": "Experience thrilling action in Neon Guitar! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Neon Guitar",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/neon-guitar",
+    "openGraph": {
+      "title": "Free Neon Guitar Game - Action Packed Fun",
+      "description": "Experience thrilling action in Neon Guitar! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/neon-guitar-og.jpg",
+      "url": "https://littlegames.com/games/neon-guitar",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Neon Guitar Game - Action Packed Fun",
+      "description": "Experience thrilling action in Neon Guitar! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/neon-guitar-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Neon Guitar",
+      "href": "/games/neon-guitar",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_658",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

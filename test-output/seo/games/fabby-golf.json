@@ -1,0 +1,54 @@
+{
+  "gameId": 5217,
+  "slug": "fabby-golf",
+  "metadata": {
+    "title": "Free Fabby Golf! Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Fabby Golf!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Fabby Golf!",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fabby-golf",
+    "openGraph": {
+      "title": "Free Fabby Golf! Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Fabby Golf!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fabby-golf-og.jpg",
+      "url": "https://littlegames.com/games/fabby-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Fabby Golf! Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Fabby Golf!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fabby-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fabby Golf!",
+      "href": "/games/fabby-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_733",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

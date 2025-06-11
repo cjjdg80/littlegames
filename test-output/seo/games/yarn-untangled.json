@@ -1,0 +1,54 @@
+{
+  "gameId": 4701,
+  "slug": "yarn-untangled",
+  "metadata": {
+    "title": "Action Game Yarn Untangled - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Yarn Untangled. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Yarn Untangled",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/yarn-untangled",
+    "openGraph": {
+      "title": "Action Game Yarn Untangled - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Yarn Untangled. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/yarn-untangled-og.jpg",
+      "url": "https://littlegames.com/games/yarn-untangled",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Yarn Untangled - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Yarn Untangled. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/yarn-untangled-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Yarn Untangled",
+      "href": "/games/yarn-untangled",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_737",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4811,
+  "slug": "my-cute-pet",
+  "metadata": {
+    "title": "Free MY CUTE PET Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in MY CUTE PET. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "MY CUTE PET online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/my-cute-pet",
+    "openGraph": {
+      "title": "Free MY CUTE PET Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in MY CUTE PET. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-cute-pet-og.jpg",
+      "url": "https://littlegames.com/games/my-cute-pet",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free MY CUTE PET Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in MY CUTE PET. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-cute-pet-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "MY CUTE PET",
+      "href": "/games/my-cute-pet",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_147",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

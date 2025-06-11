@@ -1,0 +1,54 @@
+{
+  "gameId": 4355,
+  "slug": "cheat-death",
+  "metadata": {
+    "title": "Play Cheat Death - Free Puzzle Game Online",
+    "description": "Cheat Death offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Cheat Death online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/cheat-death",
+    "openGraph": {
+      "title": "Play Cheat Death - Free Puzzle Game Online",
+      "description": "Cheat Death offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/cheat-death-og.jpg",
+      "url": "https://littlegames.com/games/cheat-death",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cheat Death - Free Puzzle Game Online",
+      "description": "Cheat Death offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/cheat-death-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cheat Death",
+      "href": "/games/cheat-death",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_011",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

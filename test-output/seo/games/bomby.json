@@ -1,0 +1,54 @@
+{
+  "gameId": 9409,
+  "slug": "bomby",
+  "metadata": {
+    "title": "Free Bomby Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Bomby. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Bomby",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bomby",
+    "openGraph": {
+      "title": "Free Bomby Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Bomby. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bomby-og.jpg",
+      "url": "https://littlegames.com/games/bomby",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bomby Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Bomby. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bomby-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bomby",
+      "href": "/games/bomby",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_685",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

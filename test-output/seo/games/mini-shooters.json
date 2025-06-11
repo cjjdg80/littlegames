@@ -1,0 +1,54 @@
+{
+  "gameId": 8894,
+  "slug": "mini-shooters",
+  "metadata": {
+    "title": "Mini Shooters - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Mini Shooters. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Mini Shooters",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mini-shooters",
+    "openGraph": {
+      "title": "Mini Shooters - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mini Shooters. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mini-shooters-og.jpg",
+      "url": "https://littlegames.com/games/mini-shooters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mini Shooters - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mini Shooters. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mini-shooters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mini Shooters",
+      "href": "/games/mini-shooters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_720",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

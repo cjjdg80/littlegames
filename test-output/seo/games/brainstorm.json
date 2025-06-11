@@ -1,0 +1,54 @@
+{
+  "gameId": 2172,
+  "slug": "brainstorm",
+  "metadata": {
+    "title": "Puzzle Game Brainstorm - Test Your Skills",
+    "description": "Sharpen your mind with Brainstorm! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Brainstorm",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/brainstorm",
+    "openGraph": {
+      "title": "Puzzle Game Brainstorm - Test Your Skills",
+      "description": "Sharpen your mind with Brainstorm! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/brainstorm-og.jpg",
+      "url": "https://littlegames.com/games/brainstorm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Brainstorm - Test Your Skills",
+      "description": "Sharpen your mind with Brainstorm! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/brainstorm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Brainstorm",
+      "href": "/games/brainstorm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_338",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

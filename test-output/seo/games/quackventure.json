@@ -1,0 +1,54 @@
+{
+  "gameId": 9277,
+  "slug": "quackventure",
+  "metadata": {
+    "title": "Quackventure Online - Explore and Discover",
+    "description": "Embark on an epic journey in Quackventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Quackventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/quackventure",
+    "openGraph": {
+      "title": "Quackventure Online - Explore and Discover",
+      "description": "Embark on an epic journey in Quackventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/quackventure-og.jpg",
+      "url": "https://littlegames.com/games/quackventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Quackventure Online - Explore and Discover",
+      "description": "Embark on an epic journey in Quackventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/quackventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Quackventure",
+      "href": "/games/quackventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_596",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

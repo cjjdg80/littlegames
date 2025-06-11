@@ -1,0 +1,54 @@
+{
+  "gameId": 4442,
+  "slug": "ai-vendetta",
+  "metadata": {
+    "title": "AI Vendetta Online - Explore and Discover",
+    "description": "Embark on an epic journey in AI Vendetta! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "AI Vendetta online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/ai-vendetta",
+    "openGraph": {
+      "title": "AI Vendetta Online - Explore and Discover",
+      "description": "Embark on an epic journey in AI Vendetta! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/ai-vendetta-og.jpg",
+      "url": "https://littlegames.com/games/ai-vendetta",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI Vendetta Online - Explore and Discover",
+      "description": "Embark on an epic journey in AI Vendetta! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/ai-vendetta-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "AI Vendetta",
+      "href": "/games/ai-vendetta",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_711",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

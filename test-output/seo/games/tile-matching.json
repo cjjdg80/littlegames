@@ -1,0 +1,54 @@
+{
+  "gameId": 4844,
+  "slug": "tile-matching",
+  "metadata": {
+    "title": "Free Tile Matching Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Tile Matching! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Tile Matching online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/tile-matching",
+    "openGraph": {
+      "title": "Free Tile Matching Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Tile Matching! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/tile-matching-og.jpg",
+      "url": "https://littlegames.com/games/tile-matching",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tile Matching Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Tile Matching! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/tile-matching-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tile Matching",
+      "href": "/games/tile-matching",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_170",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5212,
+  "slug": "heroes-towers",
+  "metadata": {
+    "title": "Heroes Towers - Exciting Action Adventure Game",
+    "description": "Heroes Towers delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "play Heroes Towers",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/heroes-towers",
+    "openGraph": {
+      "title": "Heroes Towers - Exciting Action Adventure Game",
+      "description": "Heroes Towers delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/heroes-towers-og.jpg",
+      "url": "https://littlegames.com/games/heroes-towers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Heroes Towers - Exciting Action Adventure Game",
+      "description": "Heroes Towers delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/heroes-towers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Heroes Towers",
+      "href": "/games/heroes-towers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_580",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

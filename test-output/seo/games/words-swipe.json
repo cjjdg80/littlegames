@@ -1,0 +1,54 @@
+{
+  "gameId": 4893,
+  "slug": "words-swipe",
+  "metadata": {
+    "title": "Words Swipe Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Words Swipe. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Words Swipe online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/words-swipe",
+    "openGraph": {
+      "title": "Words Swipe Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Words Swipe. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/words-swipe-og.jpg",
+      "url": "https://littlegames.com/games/words-swipe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Words Swipe Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Words Swipe. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/words-swipe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Words Swipe",
+      "href": "/games/words-swipe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_689",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

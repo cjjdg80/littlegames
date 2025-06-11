@@ -1,0 +1,54 @@
+{
+  "gameId": 4574,
+  "slug": "rails-and-stations",
+  "metadata": {
+    "title": "Rails and Stations - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Rails and Stations. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Rails and Stations",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/rails-and-stations",
+    "openGraph": {
+      "title": "Rails and Stations - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Rails and Stations. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/rails-and-stations-og.jpg",
+      "url": "https://littlegames.com/games/rails-and-stations",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rails and Stations - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Rails and Stations. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/rails-and-stations-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rails and Stations",
+      "href": "/games/rails-and-stations",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_800",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

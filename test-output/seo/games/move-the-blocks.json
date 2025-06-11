@@ -1,0 +1,54 @@
+{
+  "gameId": 5094,
+  "slug": "move-the-blocks",
+  "metadata": {
+    "title": "Free Move the Blocks Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Move the Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Move the Blocks game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/move-the-blocks",
+    "openGraph": {
+      "title": "Free Move the Blocks Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Move the Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/move-the-blocks-og.jpg",
+      "url": "https://littlegames.com/games/move-the-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Move the Blocks Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Move the Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/move-the-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Move the Blocks",
+      "href": "/games/move-the-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_920",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

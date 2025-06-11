@@ -1,0 +1,54 @@
+{
+  "gameId": 105,
+  "slug": "killing-the-virus",
+  "metadata": {
+    "title": "Killing the Virus - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Killing the Virus. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Killing the Virus game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/killing-the-virus",
+    "openGraph": {
+      "title": "Killing the Virus - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Killing the Virus. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/killing-the-virus-og.jpg",
+      "url": "https://littlegames.com/games/killing-the-virus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Killing the Virus - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Killing the Virus. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/killing-the-virus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Killing the Virus",
+      "href": "/games/killing-the-virus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_261",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

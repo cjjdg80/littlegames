@@ -1,0 +1,54 @@
+{
+  "gameId": 4194,
+  "slug": "monsters-td",
+  "metadata": {
+    "title": "Free Monsters TD Game - Action Packed Fun",
+    "description": "Join the action in Monsters TD! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Monsters TD game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/monsters-td",
+    "openGraph": {
+      "title": "Free Monsters TD Game - Action Packed Fun",
+      "description": "Join the action in Monsters TD! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/monsters-td-og.jpg",
+      "url": "https://littlegames.com/games/monsters-td",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Monsters TD Game - Action Packed Fun",
+      "description": "Join the action in Monsters TD! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/monsters-td-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monsters TD",
+      "href": "/games/monsters-td",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_020",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

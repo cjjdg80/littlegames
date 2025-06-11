@@ -1,0 +1,54 @@
+{
+  "gameId": 7684,
+  "slug": "valentine-hidden-heart",
+  "metadata": {
+    "title": "Valentine Hidden Heart - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Valentine Hidden Heart! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+    "keywords": [
+      "Valentine Hidden Heart game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/valentine-hidden-heart",
+    "openGraph": {
+      "title": "Valentine Hidden Heart - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Valentine Hidden Heart! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+      "image": "https://littlegames.com/images/games/valentine-hidden-heart-og.jpg",
+      "url": "https://littlegames.com/games/valentine-hidden-heart",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Valentine Hidden Heart - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Valentine Hidden Heart! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/valentine-hidden-heart-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Valentine Hidden Heart",
+      "href": "/games/valentine-hidden-heart",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_210",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

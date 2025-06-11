@@ -1,0 +1,54 @@
+{
+  "gameId": 5841,
+  "slug": "mahjong-dogs",
+  "metadata": {
+    "title": "Play Mahjong Dogs - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Mahjong Dogs. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Mahjong Dogs online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-dogs",
+    "openGraph": {
+      "title": "Play Mahjong Dogs - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mahjong Dogs. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mahjong-dogs-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-dogs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mahjong Dogs - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mahjong Dogs. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mahjong-dogs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Dogs",
+      "href": "/games/mahjong-dogs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_077",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

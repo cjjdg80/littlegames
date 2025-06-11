@@ -1,0 +1,54 @@
+{
+  "gameId": 2619,
+  "slug": "zoo-pong",
+  "metadata": {
+    "title": "Play Zoo Pong - Free Action Game Online",
+    "description": "Experience thrilling action in Zoo Pong! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Zoo Pong",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zoo-pong",
+    "openGraph": {
+      "title": "Play Zoo Pong - Free Action Game Online",
+      "description": "Experience thrilling action in Zoo Pong! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/zoo-pong-og.jpg",
+      "url": "https://littlegames.com/games/zoo-pong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zoo Pong - Free Action Game Online",
+      "description": "Experience thrilling action in Zoo Pong! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zoo-pong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zoo Pong",
+      "href": "/games/zoo-pong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_195",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5848,
+  "slug": "super-pinball",
+  "metadata": {
+    "title": "Super Pinball Online - Ultimate Action Gaming Experience",
+    "description": "Super Pinball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Super Pinball online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-pinball",
+    "openGraph": {
+      "title": "Super Pinball Online - Ultimate Action Gaming Experience",
+      "description": "Super Pinball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-pinball-og.jpg",
+      "url": "https://littlegames.com/games/super-pinball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Pinball Online - Ultimate Action Gaming Experience",
+      "description": "Super Pinball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-pinball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Pinball",
+      "href": "/games/super-pinball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_294",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

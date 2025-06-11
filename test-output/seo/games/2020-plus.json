@@ -1,0 +1,54 @@
+{
+  "gameId": 6427,
+  "slug": "2020-plus",
+  "metadata": {
+    "title": "2020 Plus - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with 2020 Plus! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play 2020 Plus",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/2020-plus",
+    "openGraph": {
+      "title": "2020 Plus - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with 2020 Plus! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/2020-plus-og.jpg",
+      "url": "https://littlegames.com/games/2020-plus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2020 Plus - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with 2020 Plus! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/2020-plus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "2020 Plus",
+      "href": "/games/2020-plus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_243",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

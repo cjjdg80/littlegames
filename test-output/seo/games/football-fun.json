@@ -1,0 +1,54 @@
+{
+  "gameId": 8900,
+  "slug": "football-fun",
+  "metadata": {
+    "title": "Play Football Fun - Free Action Game Online",
+    "description": "Experience thrilling action in Football Fun! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Football Fun",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/football-fun",
+    "openGraph": {
+      "title": "Play Football Fun - Free Action Game Online",
+      "description": "Experience thrilling action in Football Fun! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/football-fun-og.jpg",
+      "url": "https://littlegames.com/games/football-fun",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Football Fun - Free Action Game Online",
+      "description": "Experience thrilling action in Football Fun! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/football-fun-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Football Fun",
+      "href": "/games/football-fun",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_906",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "wheelie",
+  "displayName": "Wheelie",
+  "metadata": {
+    "title": "Wheelie Games - Play Free Online",
+    "description": "Discover amazing wheelie games! Play 3 free games with wheelie theme. No downloads required.",
+    "keywords": [
+      "wheelie games",
+      "free online games",
+      "browser games",
+      "wheelie theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/wheelie",
+    "openGraph": {
+      "title": "Wheelie Games - Free Online Gaming",
+      "description": "Play the best wheelie games online for free. 3 games available.",
+      "image": "https://littlegames.com/images/tags/wheelie-og.jpg",
+      "url": "https://littlegames.com/tags/wheelie",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wheelie Games - Free Online",
+      "description": "Play 3 free wheelie games online.",
+      "image": "https://littlegames.com/images/tags/wheelie-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Wheelie",
+      "href": "/tags/wheelie",
+      "current": true
+    }
+  ],
+  "description": "Discover games with wheelie theme! Our collection includes 3 carefully selected games that feature wheelie elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

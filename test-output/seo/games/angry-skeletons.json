@@ -1,0 +1,54 @@
+{
+  "gameId": 648,
+  "slug": "angry-skeletons",
+  "metadata": {
+    "title": "Play Angry Skeletons - Free Action Game Online",
+    "description": "Angry Skeletons delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Angry Skeletons online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/angry-skeletons",
+    "openGraph": {
+      "title": "Play Angry Skeletons - Free Action Game Online",
+      "description": "Angry Skeletons delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/angry-skeletons-og.jpg",
+      "url": "https://littlegames.com/games/angry-skeletons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Angry Skeletons - Free Action Game Online",
+      "description": "Angry Skeletons delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/angry-skeletons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Angry Skeletons",
+      "href": "/games/angry-skeletons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_094",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 784,
+  "slug": "wood-tower",
+  "metadata": {
+    "title": "Wood Tower - Brain Training Puzzle Challenge",
+    "description": "Wood Tower offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Wood Tower",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/wood-tower",
+    "openGraph": {
+      "title": "Wood Tower - Brain Training Puzzle Challenge",
+      "description": "Wood Tower offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/wood-tower-og.jpg",
+      "url": "https://littlegames.com/games/wood-tower",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wood Tower - Brain Training Puzzle Challenge",
+      "description": "Wood Tower offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/wood-tower-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Wood Tower",
+      "href": "/games/wood-tower",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_310",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

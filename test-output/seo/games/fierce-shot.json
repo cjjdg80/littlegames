@@ -1,0 +1,54 @@
+{
+  "gameId": 6080,
+  "slug": "fierce-shot",
+  "metadata": {
+    "title": "Fierce Shot Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Fierce Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Fierce Shot",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fierce-shot",
+    "openGraph": {
+      "title": "Fierce Shot Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Fierce Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fierce-shot-og.jpg",
+      "url": "https://littlegames.com/games/fierce-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fierce Shot Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Fierce Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fierce-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fierce Shot",
+      "href": "/games/fierce-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_486",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

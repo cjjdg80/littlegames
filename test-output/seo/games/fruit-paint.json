@@ -1,0 +1,54 @@
+{
+  "gameId": 1444,
+  "slug": "fruit-paint",
+  "metadata": {
+    "title": "Fruit Paint Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Fruit Paint. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Fruit Paint",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-paint",
+    "openGraph": {
+      "title": "Fruit Paint Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Fruit Paint. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fruit-paint-og.jpg",
+      "url": "https://littlegames.com/games/fruit-paint",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruit Paint Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Fruit Paint. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fruit-paint-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fruit Paint",
+      "href": "/games/fruit-paint",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_770",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

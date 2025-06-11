@@ -1,0 +1,54 @@
+{
+  "gameId": 3128,
+  "slug": "mahjong-crush-saga",
+  "metadata": {
+    "title": "Mahjong Crush Saga - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Mahjong Crush Saga! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Mahjong Crush Saga",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-crush-saga",
+    "openGraph": {
+      "title": "Mahjong Crush Saga - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Mahjong Crush Saga! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/mahjong-crush-saga-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-crush-saga",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong Crush Saga - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Mahjong Crush Saga! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mahjong-crush-saga-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Crush Saga",
+      "href": "/games/mahjong-crush-saga",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_974",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

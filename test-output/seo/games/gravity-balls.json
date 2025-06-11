@@ -1,0 +1,54 @@
+{
+  "gameId": 2447,
+  "slug": "gravity-balls",
+  "metadata": {
+    "title": "Play Gravity Balls - Free Action Game Online",
+    "description": "Gravity Balls delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Gravity Balls",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/gravity-balls",
+    "openGraph": {
+      "title": "Play Gravity Balls - Free Action Game Online",
+      "description": "Gravity Balls delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gravity-balls-og.jpg",
+      "url": "https://littlegames.com/games/gravity-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gravity Balls - Free Action Game Online",
+      "description": "Gravity Balls delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gravity-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gravity Balls",
+      "href": "/games/gravity-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_863",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

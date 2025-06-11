@@ -1,0 +1,54 @@
+{
+  "gameId": 564,
+  "slug": "forcezio",
+  "metadata": {
+    "title": "ForceZ.io Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in ForceZ.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "ForceZ.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/forcezio",
+    "openGraph": {
+      "title": "ForceZ.io Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in ForceZ.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/forcezio-og.jpg",
+      "url": "https://littlegames.com/games/forcezio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ForceZ.io Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in ForceZ.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/forcezio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "ForceZ.io",
+      "href": "/games/forcezio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_490",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

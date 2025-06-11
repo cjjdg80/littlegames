@@ -1,0 +1,54 @@
+{
+  "gameId": 6329,
+  "slug": "home-decor-memory",
+  "metadata": {
+    "title": "Puzzle Game Home Decor Memory - Test Your Skills",
+    "description": "Challenge your mind with Home Decor Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "play Home Decor Memory",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/home-decor-memory",
+    "openGraph": {
+      "title": "Puzzle Game Home Decor Memory - Test Your Skills",
+      "description": "Challenge your mind with Home Decor Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/home-decor-memory-og.jpg",
+      "url": "https://littlegames.com/games/home-decor-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Home Decor Memory - Test Your Skills",
+      "description": "Challenge your mind with Home Decor Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/home-decor-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Home Decor Memory",
+      "href": "/games/home-decor-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_205",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

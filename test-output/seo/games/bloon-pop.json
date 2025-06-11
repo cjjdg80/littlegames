@@ -1,0 +1,54 @@
+{
+  "gameId": 4571,
+  "slug": "bloon-pop",
+  "metadata": {
+    "title": "Free Bloon Pop Game - Action Packed Fun",
+    "description": "Join the action in Bloon Pop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bloon Pop online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bloon-pop",
+    "openGraph": {
+      "title": "Free Bloon Pop Game - Action Packed Fun",
+      "description": "Join the action in Bloon Pop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bloon-pop-og.jpg",
+      "url": "https://littlegames.com/games/bloon-pop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bloon Pop Game - Action Packed Fun",
+      "description": "Join the action in Bloon Pop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bloon-pop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bloon Pop",
+      "href": "/games/bloon-pop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_707",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

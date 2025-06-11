@@ -1,0 +1,54 @@
+{
+  "gameId": 1926,
+  "slug": "best-link",
+  "metadata": {
+    "title": "Best Link Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Best Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Best Link",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/best-link",
+    "openGraph": {
+      "title": "Best Link Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Best Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/best-link-og.jpg",
+      "url": "https://littlegames.com/games/best-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Best Link Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Best Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/best-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Best Link",
+      "href": "/games/best-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_712",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

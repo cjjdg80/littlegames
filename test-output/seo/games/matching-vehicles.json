@@ -1,0 +1,54 @@
+{
+  "gameId": 2671,
+  "slug": "matching-vehicles",
+  "metadata": {
+    "title": "Play Matching Vehicles - Free Puzzle Game Online",
+    "description": "Matching Vehicles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Matching Vehicles",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/matching-vehicles",
+    "openGraph": {
+      "title": "Play Matching Vehicles - Free Puzzle Game Online",
+      "description": "Matching Vehicles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/matching-vehicles-og.jpg",
+      "url": "https://littlegames.com/games/matching-vehicles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Matching Vehicles - Free Puzzle Game Online",
+      "description": "Matching Vehicles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/matching-vehicles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Matching Vehicles",
+      "href": "/games/matching-vehicles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_807",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "ghost",
+  "displayName": "Ghost",
+  "metadata": {
+    "title": "Ghost Games - Play Free Online",
+    "description": "Discover amazing ghost games! Play 19 free games with ghost theme. No downloads required.",
+    "keywords": [
+      "ghost games",
+      "free online games",
+      "browser games",
+      "ghost theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/ghost",
+    "openGraph": {
+      "title": "Ghost Games - Free Online Gaming",
+      "description": "Play the best ghost games online for free. 19 games available.",
+      "image": "https://littlegames.com/images/tags/ghost-og.jpg",
+      "url": "https://littlegames.com/tags/ghost",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ghost Games - Free Online",
+      "description": "Play 19 free ghost games online.",
+      "image": "https://littlegames.com/images/tags/ghost-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Ghost",
+      "href": "/tags/ghost",
+      "current": true
+    }
+  ],
+  "description": "Discover games with ghost theme! Our collection includes 19 carefully selected games that feature ghost elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

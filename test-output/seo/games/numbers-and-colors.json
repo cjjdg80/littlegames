@@ -1,0 +1,54 @@
+{
+  "gameId": 1716,
+  "slug": "numbers-and-colors",
+  "metadata": {
+    "title": "Play Numbers and Colors - Free Action Game Online",
+    "description": "Numbers and Colors delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Numbers and Colors",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/numbers-and-colors",
+    "openGraph": {
+      "title": "Play Numbers and Colors - Free Action Game Online",
+      "description": "Numbers and Colors delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/numbers-and-colors-og.jpg",
+      "url": "https://littlegames.com/games/numbers-and-colors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Numbers and Colors - Free Action Game Online",
+      "description": "Numbers and Colors delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/numbers-and-colors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Numbers and Colors",
+      "href": "/games/numbers-and-colors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_202",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

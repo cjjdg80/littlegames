@@ -1,0 +1,54 @@
+{
+  "gameId": 9568,
+  "slug": "kingdom-puzzles",
+  "metadata": {
+    "title": "Play Kingdom Puzzles - Free Puzzle Game Online",
+    "description": "Challenge your mind with Kingdom Puzzles! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "play Kingdom Puzzles",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/kingdom-puzzles",
+    "openGraph": {
+      "title": "Play Kingdom Puzzles - Free Puzzle Game Online",
+      "description": "Challenge your mind with Kingdom Puzzles! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/kingdom-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/kingdom-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kingdom Puzzles - Free Puzzle Game Online",
+      "description": "Challenge your mind with Kingdom Puzzles! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/kingdom-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kingdom Puzzles",
+      "href": "/games/kingdom-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_614",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

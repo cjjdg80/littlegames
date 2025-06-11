@@ -1,0 +1,54 @@
+{
+  "gameId": 3746,
+  "slug": "tap-tap-colors",
+  "metadata": {
+    "title": "Tap Tap Colors Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Tap Tap Colors. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Tap Tap Colors game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tap-tap-colors",
+    "openGraph": {
+      "title": "Tap Tap Colors Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Tap Tap Colors. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/tap-tap-colors-og.jpg",
+      "url": "https://littlegames.com/games/tap-tap-colors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tap Tap Colors Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Tap Tap Colors. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tap-tap-colors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tap Tap Colors",
+      "href": "/games/tap-tap-colors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_132",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

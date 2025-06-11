@@ -1,0 +1,54 @@
+{
+  "gameId": 3494,
+  "slug": "virus-shot",
+  "metadata": {
+    "title": "Puzzle Game Virus Shot - Test Your Skills",
+    "description": "Put your thinking skills to the test in Virus Shot. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Virus Shot online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/virus-shot",
+    "openGraph": {
+      "title": "Puzzle Game Virus Shot - Test Your Skills",
+      "description": "Put your thinking skills to the test in Virus Shot. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/virus-shot-og.jpg",
+      "url": "https://littlegames.com/games/virus-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Virus Shot - Test Your Skills",
+      "description": "Put your thinking skills to the test in Virus Shot. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/virus-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Virus Shot",
+      "href": "/games/virus-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_320",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

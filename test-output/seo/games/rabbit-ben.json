@@ -1,0 +1,54 @@
+{
+  "gameId": 1136,
+  "slug": "rabbit-ben",
+  "metadata": {
+    "title": "Rabbit Ben Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Rabbit Ben! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Rabbit Ben game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/rabbit-ben",
+    "openGraph": {
+      "title": "Rabbit Ben Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Rabbit Ben! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/rabbit-ben-og.jpg",
+      "url": "https://littlegames.com/games/rabbit-ben",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rabbit Ben Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Rabbit Ben! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/rabbit-ben-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rabbit Ben",
+      "href": "/games/rabbit-ben",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_222",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

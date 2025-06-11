@@ -1,0 +1,54 @@
+{
+  "gameId": 7490,
+  "slug": "combo-jump",
+  "metadata": {
+    "title": "Action Game Combo Jump - Play Free Now",
+    "description": "Dive into the action-packed world of Combo Jump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Combo Jump",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/combo-jump",
+    "openGraph": {
+      "title": "Action Game Combo Jump - Play Free Now",
+      "description": "Dive into the action-packed world of Combo Jump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/combo-jump-og.jpg",
+      "url": "https://littlegames.com/games/combo-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Combo Jump - Play Free Now",
+      "description": "Dive into the action-packed world of Combo Jump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/combo-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Combo Jump",
+      "href": "/games/combo-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_196",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

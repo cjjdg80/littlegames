@@ -1,0 +1,54 @@
+{
+  "gameId": 4637,
+  "slug": "perfect-first-date",
+  "metadata": {
+    "title": "Perfect First Date - Exciting Action Adventure Game",
+    "description": "Perfect First Date delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Perfect First Date",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/perfect-first-date",
+    "openGraph": {
+      "title": "Perfect First Date - Exciting Action Adventure Game",
+      "description": "Perfect First Date delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/perfect-first-date-og.jpg",
+      "url": "https://littlegames.com/games/perfect-first-date",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Perfect First Date - Exciting Action Adventure Game",
+      "description": "Perfect First Date delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/perfect-first-date-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Perfect First Date",
+      "href": "/games/perfect-first-date",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_753",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

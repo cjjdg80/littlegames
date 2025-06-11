@@ -1,0 +1,54 @@
+{
+  "gameId": 1617,
+  "slug": "yatzy",
+  "metadata": {
+    "title": "Free Yatzy Game - Action Packed Fun",
+    "description": "Experience thrilling action in Yatzy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Yatzy",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/yatzy",
+    "openGraph": {
+      "title": "Free Yatzy Game - Action Packed Fun",
+      "description": "Experience thrilling action in Yatzy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/yatzy-og.jpg",
+      "url": "https://littlegames.com/games/yatzy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Yatzy Game - Action Packed Fun",
+      "description": "Experience thrilling action in Yatzy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/yatzy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Yatzy",
+      "href": "/games/yatzy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_133",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

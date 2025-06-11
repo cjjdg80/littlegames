@@ -1,0 +1,54 @@
+{
+  "gameId": 6885,
+  "slug": "moto-madness",
+  "metadata": {
+    "title": "Play Moto Madness - Free Action Game Online",
+    "description": "Experience thrilling action in Moto Madness! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Moto Madness",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/moto-madness",
+    "openGraph": {
+      "title": "Play Moto Madness - Free Action Game Online",
+      "description": "Experience thrilling action in Moto Madness! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/moto-madness-og.jpg",
+      "url": "https://littlegames.com/games/moto-madness",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Moto Madness - Free Action Game Online",
+      "description": "Experience thrilling action in Moto Madness! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/moto-madness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Moto Madness",
+      "href": "/games/moto-madness",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_441",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

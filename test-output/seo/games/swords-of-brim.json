@@ -1,0 +1,54 @@
+{
+  "gameId": 288,
+  "slug": "swords-of-brim",
+  "metadata": {
+    "title": "Action Game Swords of Brim - Play Free Now",
+    "description": "Swords of Brim delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Swords of Brim",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/swords-of-brim",
+    "openGraph": {
+      "title": "Action Game Swords of Brim - Play Free Now",
+      "description": "Swords of Brim delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/swords-of-brim-og.jpg",
+      "url": "https://littlegames.com/games/swords-of-brim",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Swords of Brim - Play Free Now",
+      "description": "Swords of Brim delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/swords-of-brim-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Swords of Brim",
+      "href": "/games/swords-of-brim",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_934",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

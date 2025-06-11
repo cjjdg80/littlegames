@@ -1,0 +1,54 @@
+{
+  "gameId": 3619,
+  "slug": "battle-soccer-arena",
+  "metadata": {
+    "title": "Play Battle Soccer Arena - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Battle Soccer Arena. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Battle Soccer Arena game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/battle-soccer-arena",
+    "openGraph": {
+      "title": "Play Battle Soccer Arena - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Battle Soccer Arena. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/battle-soccer-arena-og.jpg",
+      "url": "https://littlegames.com/games/battle-soccer-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Battle Soccer Arena - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Battle Soccer Arena. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/battle-soccer-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Battle Soccer Arena",
+      "href": "/games/battle-soccer-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_195",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

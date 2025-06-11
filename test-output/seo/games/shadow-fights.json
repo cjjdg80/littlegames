@@ -1,0 +1,54 @@
+{
+  "gameId": 3179,
+  "slug": "shadow-fights",
+  "metadata": {
+    "title": "Free Shadow Fights Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Shadow Fights. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Shadow Fights online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/shadow-fights",
+    "openGraph": {
+      "title": "Free Shadow Fights Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Shadow Fights. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/shadow-fights-og.jpg",
+      "url": "https://littlegames.com/games/shadow-fights",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Shadow Fights Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Shadow Fights. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/shadow-fights-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shadow Fights",
+      "href": "/games/shadow-fights",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_555",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

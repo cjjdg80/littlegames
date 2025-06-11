@@ -1,0 +1,54 @@
+{
+  "gameId": 6868,
+  "slug": "super-megabot-adventure",
+  "metadata": {
+    "title": "Free Super Megabot Adventure Game - Adventure Awaits",
+    "description": "Begin your quest in Super Megabot Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Super Megabot Adventure online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/super-megabot-adventure",
+    "openGraph": {
+      "title": "Free Super Megabot Adventure Game - Adventure Awaits",
+      "description": "Begin your quest in Super Megabot Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-megabot-adventure-og.jpg",
+      "url": "https://littlegames.com/games/super-megabot-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Super Megabot Adventure Game - Adventure Awaits",
+      "description": "Begin your quest in Super Megabot Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-megabot-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Megabot Adventure",
+      "href": "/games/super-megabot-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_917",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

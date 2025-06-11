@@ -1,0 +1,54 @@
+{
+  "gameId": 2361,
+  "slug": "stacky-dash",
+  "metadata": {
+    "title": "Stacky Dash - Brain Training Puzzle Challenge",
+    "description": "Stacky Dash offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Stacky Dash game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/stacky-dash",
+    "openGraph": {
+      "title": "Stacky Dash - Brain Training Puzzle Challenge",
+      "description": "Stacky Dash offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/stacky-dash-og.jpg",
+      "url": "https://littlegames.com/games/stacky-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stacky Dash - Brain Training Puzzle Challenge",
+      "description": "Stacky Dash offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/stacky-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Stacky Dash",
+      "href": "/games/stacky-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_197",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2555,
+  "slug": "bubble-invasion",
+  "metadata": {
+    "title": "Bubble Invasion Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Bubble Invasion! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bubble Invasion online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-invasion",
+    "openGraph": {
+      "title": "Bubble Invasion Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bubble Invasion! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-invasion-og.jpg",
+      "url": "https://littlegames.com/games/bubble-invasion",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Invasion Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bubble Invasion! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-invasion-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Invasion",
+      "href": "/games/bubble-invasion",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_211",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

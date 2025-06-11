@@ -1,0 +1,54 @@
+{
+  "gameId": 3114,
+  "slug": "police-escape",
+  "metadata": {
+    "title": "Police Escape - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Police Escape! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Police Escape online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/police-escape",
+    "openGraph": {
+      "title": "Police Escape - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Police Escape! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/police-escape-og.jpg",
+      "url": "https://littlegames.com/games/police-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Police Escape - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Police Escape! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/police-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Police Escape",
+      "href": "/games/police-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_540",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

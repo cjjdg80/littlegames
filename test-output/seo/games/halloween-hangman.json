@@ -1,0 +1,54 @@
+{
+  "gameId": 1861,
+  "slug": "halloween-hangman",
+  "metadata": {
+    "title": "Action Game Halloween Hangman - Play Free Now",
+    "description": "Halloween Hangman delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Halloween Hangman game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-hangman",
+    "openGraph": {
+      "title": "Action Game Halloween Hangman - Play Free Now",
+      "description": "Halloween Hangman delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/halloween-hangman-og.jpg",
+      "url": "https://littlegames.com/games/halloween-hangman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Halloween Hangman - Play Free Now",
+      "description": "Halloween Hangman delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/halloween-hangman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Halloween Hangman",
+      "href": "/games/halloween-hangman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_697",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

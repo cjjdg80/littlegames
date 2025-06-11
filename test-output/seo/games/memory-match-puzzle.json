@@ -1,0 +1,54 @@
+{
+  "gameId": 6603,
+  "slug": "memory-match-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Memory Match - Puzzle - Test Your Skills",
+    "description": "Sharpen your mind with Memory Match - Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+    "keywords": [
+      "Memory Match - Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/memory-match-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Memory Match - Puzzle - Test Your Skills",
+      "description": "Sharpen your mind with Memory Match - Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+      "image": "https://littlegames.com/images/games/memory-match-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/memory-match-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Memory Match - Puzzle - Test Your Skills",
+      "description": "Sharpen your mind with Memory Match - Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/memory-match-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Memory Match - Puzzle",
+      "href": "/games/memory-match-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_699",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

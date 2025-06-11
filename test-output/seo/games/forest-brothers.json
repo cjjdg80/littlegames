@@ -1,0 +1,54 @@
+{
+  "gameId": 1552,
+  "slug": "forest-brothers",
+  "metadata": {
+    "title": "Forest Brothers - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Forest Brothers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Forest Brothers",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/forest-brothers",
+    "openGraph": {
+      "title": "Forest Brothers - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Forest Brothers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/forest-brothers-og.jpg",
+      "url": "https://littlegames.com/games/forest-brothers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Forest Brothers - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Forest Brothers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/forest-brothers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Forest Brothers",
+      "href": "/games/forest-brothers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_121",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4427,
+  "slug": "pokey-stick",
+  "metadata": {
+    "title": "Play Pokey Stick - Free Action Game Online",
+    "description": "Dive into the action-packed world of Pokey Stick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Pokey Stick",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pokey-stick",
+    "openGraph": {
+      "title": "Play Pokey Stick - Free Action Game Online",
+      "description": "Dive into the action-packed world of Pokey Stick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pokey-stick-og.jpg",
+      "url": "https://littlegames.com/games/pokey-stick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pokey Stick - Free Action Game Online",
+      "description": "Dive into the action-packed world of Pokey Stick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pokey-stick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pokey Stick",
+      "href": "/games/pokey-stick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_243",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

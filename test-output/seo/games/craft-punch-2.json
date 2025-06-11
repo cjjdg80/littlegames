@@ -1,0 +1,54 @@
+{
+  "gameId": 3302,
+  "slug": "craft-punch-2",
+  "metadata": {
+    "title": "Craft Punch 2 - Exciting Action Adventure Game",
+    "description": "Craft Punch 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Craft Punch 2 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/craft-punch-2",
+    "openGraph": {
+      "title": "Craft Punch 2 - Exciting Action Adventure Game",
+      "description": "Craft Punch 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/craft-punch-2-og.jpg",
+      "url": "https://littlegames.com/games/craft-punch-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Craft Punch 2 - Exciting Action Adventure Game",
+      "description": "Craft Punch 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/craft-punch-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Craft Punch 2",
+      "href": "/games/craft-punch-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_368",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

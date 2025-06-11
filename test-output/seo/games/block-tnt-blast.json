@@ -1,0 +1,54 @@
+{
+  "gameId": 7940,
+  "slug": "block-tnt-blast",
+  "metadata": {
+    "title": "Play Block TNT Blast - Free Action Game Online",
+    "description": "Join the action in Block TNT Blast! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Block TNT Blast",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/block-tnt-blast",
+    "openGraph": {
+      "title": "Play Block TNT Blast - Free Action Game Online",
+      "description": "Join the action in Block TNT Blast! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/block-tnt-blast-og.jpg",
+      "url": "https://littlegames.com/games/block-tnt-blast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Block TNT Blast - Free Action Game Online",
+      "description": "Join the action in Block TNT Blast! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/block-tnt-blast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Block TNT Blast",
+      "href": "/games/block-tnt-blast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_150",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

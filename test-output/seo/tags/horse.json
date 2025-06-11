@@ -1,0 +1,46 @@
+{
+  "tag": "horse",
+  "displayName": "Horse",
+  "metadata": {
+    "title": "Horse Games - Play Free Online",
+    "description": "Discover amazing horse games! Play 14 free games with horse theme. No downloads required.",
+    "keywords": [
+      "horse games",
+      "free online games",
+      "browser games",
+      "horse theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/horse",
+    "openGraph": {
+      "title": "Horse Games - Free Online Gaming",
+      "description": "Play the best horse games online for free. 14 games available.",
+      "image": "https://littlegames.com/images/tags/horse-og.jpg",
+      "url": "https://littlegames.com/tags/horse",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Horse Games - Free Online",
+      "description": "Play 14 free horse games online.",
+      "image": "https://littlegames.com/images/tags/horse-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Horse",
+      "href": "/tags/horse",
+      "current": true
+    }
+  ],
+  "description": "Discover games with horse theme! Our collection includes 14 carefully selected games that feature horse elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

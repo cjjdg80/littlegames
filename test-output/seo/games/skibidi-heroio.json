@@ -1,0 +1,54 @@
+{
+  "gameId": 7314,
+  "slug": "skibidi-heroio",
+  "metadata": {
+    "title": "Skibidi Hero.IO Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Skibidi Hero.IO! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Skibidi Hero.IO online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/skibidi-heroio",
+    "openGraph": {
+      "title": "Skibidi Hero.IO Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Skibidi Hero.IO! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/skibidi-heroio-og.jpg",
+      "url": "https://littlegames.com/games/skibidi-heroio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Skibidi Hero.IO Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Skibidi Hero.IO! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/skibidi-heroio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Skibidi Hero.IO",
+      "href": "/games/skibidi-heroio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_740",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

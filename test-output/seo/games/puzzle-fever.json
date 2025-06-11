@@ -1,0 +1,54 @@
+{
+  "gameId": 7846,
+  "slug": "puzzle-fever",
+  "metadata": {
+    "title": "Free Puzzle Fever Game - Action Packed Fun",
+    "description": "Join the action in Puzzle Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Puzzle Fever",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-fever",
+    "openGraph": {
+      "title": "Free Puzzle Fever Game - Action Packed Fun",
+      "description": "Join the action in Puzzle Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/puzzle-fever-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-fever",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Puzzle Fever Game - Action Packed Fun",
+      "description": "Join the action in Puzzle Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/puzzle-fever-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Puzzle Fever",
+      "href": "/games/puzzle-fever",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_232",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

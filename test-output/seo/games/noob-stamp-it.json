@@ -1,0 +1,54 @@
+{
+  "gameId": 6539,
+  "slug": "noob-stamp-it",
+  "metadata": {
+    "title": "Noob Stamp It Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Noob Stamp It! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Noob Stamp It online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/noob-stamp-it",
+    "openGraph": {
+      "title": "Noob Stamp It Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Noob Stamp It! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/noob-stamp-it-og.jpg",
+      "url": "https://littlegames.com/games/noob-stamp-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Noob Stamp It Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Noob Stamp It! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/noob-stamp-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Noob Stamp It",
+      "href": "/games/noob-stamp-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_715",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

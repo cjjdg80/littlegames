@@ -1,0 +1,54 @@
+{
+  "gameId": 2581,
+  "slug": "slingshot-jetpack",
+  "metadata": {
+    "title": "Play Slingshot Jetpack - Free Action Game Online",
+    "description": "Dive into the action-packed world of Slingshot Jetpack. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Slingshot Jetpack game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/slingshot-jetpack",
+    "openGraph": {
+      "title": "Play Slingshot Jetpack - Free Action Game Online",
+      "description": "Dive into the action-packed world of Slingshot Jetpack. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/slingshot-jetpack-og.jpg",
+      "url": "https://littlegames.com/games/slingshot-jetpack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Slingshot Jetpack - Free Action Game Online",
+      "description": "Dive into the action-packed world of Slingshot Jetpack. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slingshot-jetpack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Slingshot Jetpack",
+      "href": "/games/slingshot-jetpack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_017",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 712,
+  "slug": "table-hockey",
+  "metadata": {
+    "title": "Puzzle Game Table Hockey - Test Your Skills",
+    "description": "Exercise your brain with Table Hockey. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Table Hockey game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/table-hockey",
+    "openGraph": {
+      "title": "Puzzle Game Table Hockey - Test Your Skills",
+      "description": "Exercise your brain with Table Hockey. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/table-hockey-og.jpg",
+      "url": "https://littlegames.com/games/table-hockey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Table Hockey - Test Your Skills",
+      "description": "Exercise your brain with Table Hockey. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/table-hockey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Table Hockey",
+      "href": "/games/table-hockey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_078",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

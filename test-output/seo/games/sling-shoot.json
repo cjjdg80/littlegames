@@ -1,0 +1,54 @@
+{
+  "gameId": 6815,
+  "slug": "sling-shoot",
+  "metadata": {
+    "title": "SLING & SHOOT! - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of SLING & SHOOT!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play SLING & SHOOT!",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sling-shoot",
+    "openGraph": {
+      "title": "SLING & SHOOT! - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of SLING & SHOOT!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/sling-shoot-og.jpg",
+      "url": "https://littlegames.com/games/sling-shoot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SLING & SHOOT! - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of SLING & SHOOT!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sling-shoot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "SLING & SHOOT!",
+      "href": "/games/sling-shoot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_271",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

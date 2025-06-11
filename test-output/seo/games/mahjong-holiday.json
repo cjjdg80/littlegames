@@ -1,0 +1,54 @@
+{
+  "gameId": 7207,
+  "slug": "mahjong-holiday",
+  "metadata": {
+    "title": "Action Game Mahjong Holiday - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Mahjong Holiday. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Mahjong Holiday",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-holiday",
+    "openGraph": {
+      "title": "Action Game Mahjong Holiday - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Mahjong Holiday. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mahjong-holiday-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-holiday",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Mahjong Holiday - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Mahjong Holiday. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mahjong-holiday-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Holiday",
+      "href": "/games/mahjong-holiday",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_423",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

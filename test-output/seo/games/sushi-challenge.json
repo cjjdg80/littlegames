@@ -1,0 +1,54 @@
+{
+  "gameId": 2617,
+  "slug": "sushi-challenge",
+  "metadata": {
+    "title": "Play Sushi Challenge - Free Action Game Online",
+    "description": "Join the action in Sushi Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Sushi Challenge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sushi-challenge",
+    "openGraph": {
+      "title": "Play Sushi Challenge - Free Action Game Online",
+      "description": "Join the action in Sushi Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sushi-challenge-og.jpg",
+      "url": "https://littlegames.com/games/sushi-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sushi Challenge - Free Action Game Online",
+      "description": "Join the action in Sushi Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sushi-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sushi Challenge",
+      "href": "/games/sushi-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_133",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

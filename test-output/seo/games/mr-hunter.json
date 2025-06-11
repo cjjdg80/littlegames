@@ -1,0 +1,54 @@
+{
+  "gameId": 2359,
+  "slug": "mr-hunter",
+  "metadata": {
+    "title": "Play Mr. Hunter - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Mr. Hunter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Mr. Hunter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mr-hunter",
+    "openGraph": {
+      "title": "Play Mr. Hunter - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mr. Hunter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mr-hunter-og.jpg",
+      "url": "https://littlegames.com/games/mr-hunter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mr. Hunter - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mr. Hunter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mr-hunter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr. Hunter",
+      "href": "/games/mr-hunter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_135",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

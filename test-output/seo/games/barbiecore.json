@@ -1,0 +1,54 @@
+{
+  "gameId": 6818,
+  "slug": "barbiecore",
+  "metadata": {
+    "title": "Action Game Barbiecore - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Barbiecore. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Barbiecore game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/barbiecore",
+    "openGraph": {
+      "title": "Action Game Barbiecore - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Barbiecore. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/barbiecore-og.jpg",
+      "url": "https://littlegames.com/games/barbiecore",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Barbiecore - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Barbiecore. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/barbiecore-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Barbiecore",
+      "href": "/games/barbiecore",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_364",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

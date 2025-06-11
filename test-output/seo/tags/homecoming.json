@@ -1,0 +1,46 @@
+{
+  "tag": "homecoming",
+  "displayName": "Homecoming",
+  "metadata": {
+    "title": "Homecoming Games - Play Free Online",
+    "description": "Discover amazing homecoming games! Play 2 free games with homecoming theme. No downloads required.",
+    "keywords": [
+      "homecoming games",
+      "free online games",
+      "browser games",
+      "homecoming theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/homecoming",
+    "openGraph": {
+      "title": "Homecoming Games - Free Online Gaming",
+      "description": "Play the best homecoming games online for free. 2 games available.",
+      "image": "https://littlegames.com/images/tags/homecoming-og.jpg",
+      "url": "https://littlegames.com/tags/homecoming",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Homecoming Games - Free Online",
+      "description": "Play 2 free homecoming games online.",
+      "image": "https://littlegames.com/images/tags/homecoming-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Homecoming",
+      "href": "/tags/homecoming",
+      "current": true
+    }
+  ],
+  "description": "Discover games with homecoming theme! Our collection includes 2 carefully selected games that feature homecoming elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

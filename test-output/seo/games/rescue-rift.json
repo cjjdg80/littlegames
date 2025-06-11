@@ -1,0 +1,54 @@
+{
+  "gameId": 7780,
+  "slug": "rescue-rift",
+  "metadata": {
+    "title": "Play Rescue Rift - Free Action Game Online",
+    "description": "Dive into the action-packed world of Rescue Rift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Rescue Rift",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/rescue-rift",
+    "openGraph": {
+      "title": "Play Rescue Rift - Free Action Game Online",
+      "description": "Dive into the action-packed world of Rescue Rift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/rescue-rift-og.jpg",
+      "url": "https://littlegames.com/games/rescue-rift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Rescue Rift - Free Action Game Online",
+      "description": "Dive into the action-packed world of Rescue Rift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/rescue-rift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rescue Rift",
+      "href": "/games/rescue-rift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_186",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

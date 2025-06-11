@@ -1,0 +1,54 @@
+{
+  "gameId": 2669,
+  "slug": "family-clash",
+  "metadata": {
+    "title": "Free Family Clash Game - Action Packed Fun",
+    "description": "Join the action in Family Clash! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Family Clash online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/family-clash",
+    "openGraph": {
+      "title": "Free Family Clash Game - Action Packed Fun",
+      "description": "Join the action in Family Clash! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/family-clash-og.jpg",
+      "url": "https://littlegames.com/games/family-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Family Clash Game - Action Packed Fun",
+      "description": "Join the action in Family Clash! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/family-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Family Clash",
+      "href": "/games/family-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_747",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

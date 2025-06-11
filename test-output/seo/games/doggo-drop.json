@@ -1,0 +1,54 @@
+{
+  "gameId": 9602,
+  "slug": "doggo-drop",
+  "metadata": {
+    "title": "Play Doggo Drop - Free Action Game Online",
+    "description": "Doggo Drop delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Doggo Drop online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/doggo-drop",
+    "openGraph": {
+      "title": "Play Doggo Drop - Free Action Game Online",
+      "description": "Doggo Drop delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/doggo-drop-og.jpg",
+      "url": "https://littlegames.com/games/doggo-drop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Doggo Drop - Free Action Game Online",
+      "description": "Doggo Drop delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/doggo-drop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Doggo Drop",
+      "href": "/games/doggo-drop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_668",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

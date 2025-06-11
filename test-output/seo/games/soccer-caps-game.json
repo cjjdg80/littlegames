@@ -1,0 +1,54 @@
+{
+  "gameId": 1509,
+  "slug": "soccer-caps-game",
+  "metadata": {
+    "title": "Soccer Caps Game Online - Ultimate Action Gaming Experience",
+    "description": "Soccer Caps Game delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Soccer Caps Game game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-caps-game",
+    "openGraph": {
+      "title": "Soccer Caps Game Online - Ultimate Action Gaming Experience",
+      "description": "Soccer Caps Game delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/soccer-caps-game-og.jpg",
+      "url": "https://littlegames.com/games/soccer-caps-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Soccer Caps Game Online - Ultimate Action Gaming Experience",
+      "description": "Soccer Caps Game delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/soccer-caps-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Soccer Caps Game",
+      "href": "/games/soccer-caps-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_785",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

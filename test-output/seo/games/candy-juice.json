@@ -1,0 +1,54 @@
+{
+  "gameId": 3578,
+  "slug": "candy-juice",
+  "metadata": {
+    "title": "Candy Juice - Exciting Action Adventure Game",
+    "description": "Join the action in Candy Juice! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Candy Juice online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/candy-juice",
+    "openGraph": {
+      "title": "Candy Juice - Exciting Action Adventure Game",
+      "description": "Join the action in Candy Juice! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-juice-og.jpg",
+      "url": "https://littlegames.com/games/candy-juice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Candy Juice - Exciting Action Adventure Game",
+      "description": "Join the action in Candy Juice! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-juice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Candy Juice",
+      "href": "/games/candy-juice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_924",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

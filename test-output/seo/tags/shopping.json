@@ -1,0 +1,46 @@
+{
+  "tag": "shopping",
+  "displayName": "Shopping",
+  "metadata": {
+    "title": "Shopping Games - Play Free Online",
+    "description": "Discover amazing shopping games! Play 48 free games with shopping theme. No downloads required.",
+    "keywords": [
+      "shopping games",
+      "free online games",
+      "browser games",
+      "shopping theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/shopping",
+    "openGraph": {
+      "title": "Shopping Games - Free Online Gaming",
+      "description": "Play the best shopping games online for free. 48 games available.",
+      "image": "https://littlegames.com/images/tags/shopping-og.jpg",
+      "url": "https://littlegames.com/tags/shopping",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shopping Games - Free Online",
+      "description": "Play 48 free shopping games online.",
+      "image": "https://littlegames.com/images/tags/shopping-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Shopping",
+      "href": "/tags/shopping",
+      "current": true
+    }
+  ],
+  "description": "Discover games with shopping theme! Our collection includes 48 carefully selected games that feature shopping elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2766,
+  "slug": "math-merge",
+  "metadata": {
+    "title": "Math Merge Online - Ultimate Action Gaming Experience",
+    "description": "Math Merge delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Math Merge",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/math-merge",
+    "openGraph": {
+      "title": "Math Merge Online - Ultimate Action Gaming Experience",
+      "description": "Math Merge delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/math-merge-og.jpg",
+      "url": "https://littlegames.com/games/math-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Math Merge Online - Ultimate Action Gaming Experience",
+      "description": "Math Merge delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/math-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Math Merge",
+      "href": "/games/math-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_752",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

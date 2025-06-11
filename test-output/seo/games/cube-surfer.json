@@ -1,0 +1,54 @@
+{
+  "gameId": 680,
+  "slug": "cube-surfer",
+  "metadata": {
+    "title": "Play Cube Surfer - Free Action Game Online",
+    "description": "Cube Surfer delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "play Cube Surfer",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cube-surfer",
+    "openGraph": {
+      "title": "Play Cube Surfer - Free Action Game Online",
+      "description": "Cube Surfer delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cube-surfer-og.jpg",
+      "url": "https://littlegames.com/games/cube-surfer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cube Surfer - Free Action Game Online",
+      "description": "Cube Surfer delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cube-surfer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Cube Surfer",
+      "href": "/games/cube-surfer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_086",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

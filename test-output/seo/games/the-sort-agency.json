@@ -1,0 +1,54 @@
+{
+  "gameId": 9123,
+  "slug": "the-sort-agency",
+  "metadata": {
+    "title": "The Sort Agency Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in The Sort Agency! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "The Sort Agency game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/the-sort-agency",
+    "openGraph": {
+      "title": "The Sort Agency Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in The Sort Agency! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/the-sort-agency-og.jpg",
+      "url": "https://littlegames.com/games/the-sort-agency",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Sort Agency Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in The Sort Agency! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/the-sort-agency-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "The Sort Agency",
+      "href": "/games/the-sort-agency",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_819",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

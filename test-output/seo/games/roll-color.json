@@ -1,0 +1,54 @@
+{
+  "gameId": 1682,
+  "slug": "roll-color",
+  "metadata": {
+    "title": "Free Roll Color Game - Action Packed Fun",
+    "description": "Join the action in Roll Color! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Roll Color",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/roll-color",
+    "openGraph": {
+      "title": "Free Roll Color Game - Action Packed Fun",
+      "description": "Join the action in Roll Color! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/roll-color-og.jpg",
+      "url": "https://littlegames.com/games/roll-color",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Roll Color Game - Action Packed Fun",
+      "description": "Join the action in Roll Color! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/roll-color-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Roll Color",
+      "href": "/games/roll-color",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_148",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

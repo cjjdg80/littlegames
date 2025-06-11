@@ -1,0 +1,54 @@
+{
+  "gameId": 9629,
+  "slug": "the-best-warrior",
+  "metadata": {
+    "title": "Play The Best Warrior - Epic Adventure Game Online",
+    "description": "The Best Warrior offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "The Best Warrior",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/the-best-warrior",
+    "openGraph": {
+      "title": "Play The Best Warrior - Epic Adventure Game Online",
+      "description": "The Best Warrior offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/the-best-warrior-og.jpg",
+      "url": "https://littlegames.com/games/the-best-warrior",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play The Best Warrior - Epic Adventure Game Online",
+      "description": "The Best Warrior offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/the-best-warrior-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "The Best Warrior",
+      "href": "/games/the-best-warrior",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_508",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

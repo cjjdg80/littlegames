@@ -1,0 +1,54 @@
+{
+  "gameId": 1052,
+  "slug": "monster-matching",
+  "metadata": {
+    "title": "Monster Matching Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Monster Matching! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Monster Matching game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/monster-matching",
+    "openGraph": {
+      "title": "Monster Matching Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Monster Matching! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/monster-matching-og.jpg",
+      "url": "https://littlegames.com/games/monster-matching",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Matching Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Monster Matching! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/monster-matching-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Monster Matching",
+      "href": "/games/monster-matching",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_618",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

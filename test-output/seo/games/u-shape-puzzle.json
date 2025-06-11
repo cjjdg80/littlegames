@@ -1,0 +1,54 @@
+{
+  "gameId": 9864,
+  "slug": "u-shape-puzzle",
+  "metadata": {
+    "title": "U Shape Puzzle Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in U Shape Puzzle! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "U Shape Puzzle game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/u-shape-puzzle",
+    "openGraph": {
+      "title": "U Shape Puzzle Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in U Shape Puzzle! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/u-shape-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/u-shape-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "U Shape Puzzle Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in U Shape Puzzle! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/u-shape-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "U Shape Puzzle",
+      "href": "/games/u-shape-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_790",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

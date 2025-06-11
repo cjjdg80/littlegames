@@ -1,0 +1,54 @@
+{
+  "gameId": 7103,
+  "slug": "cute-cat-town",
+  "metadata": {
+    "title": "Cute Cat Town - Exciting Action Adventure Game",
+    "description": "Join the action in Cute Cat Town! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Cute Cat Town",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cute-cat-town",
+    "openGraph": {
+      "title": "Cute Cat Town - Exciting Action Adventure Game",
+      "description": "Join the action in Cute Cat Town! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cute-cat-town-og.jpg",
+      "url": "https://littlegames.com/games/cute-cat-town",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cute Cat Town - Exciting Action Adventure Game",
+      "description": "Join the action in Cute Cat Town! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cute-cat-town-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cute Cat Town",
+      "href": "/games/cute-cat-town",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_199",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

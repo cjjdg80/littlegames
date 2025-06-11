@@ -1,0 +1,54 @@
+{
+  "gameId": 8086,
+  "slug": "sea-match",
+  "metadata": {
+    "title": "Sea Match - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Sea Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Sea Match",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/sea-match",
+    "openGraph": {
+      "title": "Sea Match - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Sea Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/sea-match-og.jpg",
+      "url": "https://littlegames.com/games/sea-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sea Match - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Sea Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/sea-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sea Match",
+      "href": "/games/sea-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_672",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

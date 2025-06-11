@@ -1,0 +1,54 @@
+{
+  "gameId": 9098,
+  "slug": "sniper-freeze",
+  "metadata": {
+    "title": "Sniper Freeze Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Sniper Freeze. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Sniper Freeze",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sniper-freeze",
+    "openGraph": {
+      "title": "Sniper Freeze Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sniper Freeze. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/sniper-freeze-og.jpg",
+      "url": "https://littlegames.com/games/sniper-freeze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sniper Freeze Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sniper Freeze. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sniper-freeze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sniper Freeze",
+      "href": "/games/sniper-freeze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_044",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

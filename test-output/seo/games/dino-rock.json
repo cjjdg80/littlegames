@@ -1,0 +1,54 @@
+{
+  "gameId": 1220,
+  "slug": "dino-rock",
+  "metadata": {
+    "title": "Dino Rock Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Dino Rock. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Dino Rock online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dino-rock",
+    "openGraph": {
+      "title": "Dino Rock Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Dino Rock. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dino-rock-og.jpg",
+      "url": "https://littlegames.com/games/dino-rock",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dino Rock Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Dino Rock. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dino-rock-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dino Rock",
+      "href": "/games/dino-rock",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_826",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

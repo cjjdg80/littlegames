@@ -1,0 +1,54 @@
+{
+  "gameId": 7238,
+  "slug": "jetpack-heroes",
+  "metadata": {
+    "title": "Free Jetpack Heroes Game - Action Packed Fun",
+    "description": "Experience thrilling action in Jetpack Heroes! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Jetpack Heroes",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jetpack-heroes",
+    "openGraph": {
+      "title": "Free Jetpack Heroes Game - Action Packed Fun",
+      "description": "Experience thrilling action in Jetpack Heroes! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/jetpack-heroes-og.jpg",
+      "url": "https://littlegames.com/games/jetpack-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jetpack Heroes Game - Action Packed Fun",
+      "description": "Experience thrilling action in Jetpack Heroes! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/jetpack-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jetpack Heroes",
+      "href": "/games/jetpack-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_384",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

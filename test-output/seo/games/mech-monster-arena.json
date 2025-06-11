@@ -1,0 +1,54 @@
+{
+  "gameId": 8405,
+  "slug": "mech-monster-arena",
+  "metadata": {
+    "title": "Mech Monster Arena Online - Ultimate Action Gaming...",
+    "description": "Get ready for adrenaline-pumping action in Mech Monster Arena. This free online strategy game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Mech Monster Arena online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mech-monster-arena",
+    "openGraph": {
+      "title": "Mech Monster Arena Online - Ultimate Action Gaming...",
+      "description": "Get ready for adrenaline-pumping action in Mech Monster Arena. This free online strategy game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/mech-monster-arena-og.jpg",
+      "url": "https://littlegames.com/games/mech-monster-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mech Monster Arena Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Mech Monster Arena. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mech-monster-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Mech Monster Arena",
+      "href": "/games/mech-monster-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_563",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

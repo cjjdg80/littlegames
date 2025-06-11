@@ -1,0 +1,54 @@
+{
+  "gameId": 7876,
+  "slug": "shape-shifting",
+  "metadata": {
+    "title": "Action Game Shape-Shifting - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Shape-Shifting. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Shape-Shifting game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/shape-shifting",
+    "openGraph": {
+      "title": "Action Game Shape-Shifting - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Shape-Shifting. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shape-shifting-og.jpg",
+      "url": "https://littlegames.com/games/shape-shifting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Shape-Shifting - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Shape-Shifting. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shape-shifting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shape-Shifting",
+      "href": "/games/shape-shifting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_162",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

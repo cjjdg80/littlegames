@@ -1,0 +1,54 @@
+{
+  "gameId": 6755,
+  "slug": "archery-master",
+  "metadata": {
+    "title": "Play Archery Master - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Archery Master. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Archery Master",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/archery-master",
+    "openGraph": {
+      "title": "Play Archery Master - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Archery Master. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/archery-master-og.jpg",
+      "url": "https://littlegames.com/games/archery-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Archery Master - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Archery Master. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/archery-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Archery Master",
+      "href": "/games/archery-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_411",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

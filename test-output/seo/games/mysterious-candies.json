@@ -1,0 +1,54 @@
+{
+  "gameId": 366,
+  "slug": "mysterious-candies",
+  "metadata": {
+    "title": "Puzzle Game Mysterious Candies - Test Your Skills",
+    "description": "Exercise your brain with Mysterious Candies. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "Mysterious Candies game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/mysterious-candies",
+    "openGraph": {
+      "title": "Puzzle Game Mysterious Candies - Test Your Skills",
+      "description": "Exercise your brain with Mysterious Candies. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/mysterious-candies-og.jpg",
+      "url": "https://littlegames.com/games/mysterious-candies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Mysterious Candies - Test Your Skills",
+      "description": "Exercise your brain with Mysterious Candies. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/mysterious-candies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Mysterious Candies",
+      "href": "/games/mysterious-candies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_352",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

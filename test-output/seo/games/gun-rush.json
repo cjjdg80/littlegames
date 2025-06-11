@@ -1,0 +1,54 @@
+{
+  "gameId": 7743,
+  "slug": "gun-rush",
+  "metadata": {
+    "title": "Play Gun Rush - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Gun Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Gun Rush",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/gun-rush",
+    "openGraph": {
+      "title": "Play Gun Rush - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Gun Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gun-rush-og.jpg",
+      "url": "https://littlegames.com/games/gun-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gun Rush - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Gun Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gun-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gun Rush",
+      "href": "/games/gun-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_039",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

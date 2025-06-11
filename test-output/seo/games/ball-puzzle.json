@@ -1,0 +1,54 @@
+{
+  "gameId": 6230,
+  "slug": "ball-puzzle",
+  "metadata": {
+    "title": "Ball Puzzle Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Ball Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Ball Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/ball-puzzle",
+    "openGraph": {
+      "title": "Ball Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Ball Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/ball-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/ball-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Ball Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/ball-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ball Puzzle",
+      "href": "/games/ball-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_136",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

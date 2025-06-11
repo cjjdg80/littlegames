@@ -1,0 +1,54 @@
+{
+  "gameId": 1882,
+  "slug": "stick-archery",
+  "metadata": {
+    "title": "Free Stick Archery Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Stick Archery. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Stick Archery",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/stick-archery",
+    "openGraph": {
+      "title": "Free Stick Archery Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Stick Archery. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/stick-archery-og.jpg",
+      "url": "https://littlegames.com/games/stick-archery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stick Archery Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Stick Archery. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stick-archery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stick Archery",
+      "href": "/games/stick-archery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_348",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

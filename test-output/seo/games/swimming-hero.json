@@ -1,0 +1,54 @@
+{
+  "gameId": 3095,
+  "slug": "swimming-hero",
+  "metadata": {
+    "title": "Play Swimming Hero - Free Action Game Online",
+    "description": "Join the action in Swimming Hero! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Swimming Hero game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/swimming-hero",
+    "openGraph": {
+      "title": "Play Swimming Hero - Free Action Game Online",
+      "description": "Join the action in Swimming Hero! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/swimming-hero-og.jpg",
+      "url": "https://littlegames.com/games/swimming-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Swimming Hero - Free Action Game Online",
+      "description": "Join the action in Swimming Hero! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/swimming-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Swimming Hero",
+      "href": "/games/swimming-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_951",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

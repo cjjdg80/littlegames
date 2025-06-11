@@ -1,0 +1,54 @@
+{
+  "gameId": 4294,
+  "slug": "fuse-3",
+  "metadata": {
+    "title": "Play Fuse 3 - Free Action Game Online",
+    "description": "Join the action in Fuse 3! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Fuse 3",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fuse-3",
+    "openGraph": {
+      "title": "Play Fuse 3 - Free Action Game Online",
+      "description": "Join the action in Fuse 3! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fuse-3-og.jpg",
+      "url": "https://littlegames.com/games/fuse-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fuse 3 - Free Action Game Online",
+      "description": "Join the action in Fuse 3! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fuse-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fuse 3",
+      "href": "/games/fuse-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_120",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

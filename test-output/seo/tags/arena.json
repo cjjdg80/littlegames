@@ -1,0 +1,46 @@
+{
+  "tag": "arena",
+  "displayName": "Arena",
+  "metadata": {
+    "title": "Arena Games - Play Free Online",
+    "description": "Discover amazing arena games! Play 129 free games with arena theme. No downloads required.",
+    "keywords": [
+      "arena games",
+      "free online games",
+      "browser games",
+      "arena theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/arena",
+    "openGraph": {
+      "title": "Arena Games - Free Online Gaming",
+      "description": "Play the best arena games online for free. 129 games available.",
+      "image": "https://littlegames.com/images/tags/arena-og.jpg",
+      "url": "https://littlegames.com/tags/arena",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Arena Games - Free Online",
+      "description": "Play 129 free arena games online.",
+      "image": "https://littlegames.com/images/tags/arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Arena",
+      "href": "/tags/arena",
+      "current": true
+    }
+  ],
+  "description": "Discover games with arena theme! Our collection includes 129 carefully selected games that feature arena elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

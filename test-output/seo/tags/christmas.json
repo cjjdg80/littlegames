@@ -1,0 +1,46 @@
+{
+  "tag": "christmas",
+  "displayName": "Christmas",
+  "metadata": {
+    "title": "Christmas Games - Play Free Online",
+    "description": "Discover amazing christmas games! Play 216 free games with christmas theme. No downloads required.",
+    "keywords": [
+      "christmas games",
+      "free online games",
+      "browser games",
+      "christmas theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/christmas",
+    "openGraph": {
+      "title": "Christmas Games - Free Online Gaming",
+      "description": "Play the best christmas games online for free. 216 games available.",
+      "image": "https://littlegames.com/images/tags/christmas-og.jpg",
+      "url": "https://littlegames.com/tags/christmas",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Christmas Games - Free Online",
+      "description": "Play 216 free christmas games online.",
+      "image": "https://littlegames.com/images/tags/christmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Christmas",
+      "href": "/tags/christmas",
+      "current": true
+    }
+  ],
+  "description": "Discover games with christmas theme! Our collection includes 216 carefully selected games that feature christmas elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

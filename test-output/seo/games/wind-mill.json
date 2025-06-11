@@ -1,0 +1,54 @@
+{
+  "gameId": 595,
+  "slug": "wind-mill",
+  "metadata": {
+    "title": "Wind Mill Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Wind Mill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Wind Mill",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/wind-mill",
+    "openGraph": {
+      "title": "Wind Mill Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Wind Mill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wind-mill-og.jpg",
+      "url": "https://littlegames.com/games/wind-mill",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wind Mill Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Wind Mill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wind-mill-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wind Mill",
+      "href": "/games/wind-mill",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_451",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

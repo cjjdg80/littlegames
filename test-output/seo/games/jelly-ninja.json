@@ -1,0 +1,54 @@
+{
+  "gameId": 916,
+  "slug": "jelly-ninja",
+  "metadata": {
+    "title": "Action Game Jelly Ninja - Play Free Now",
+    "description": "Jelly Ninja delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Jelly Ninja",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-ninja",
+    "openGraph": {
+      "title": "Action Game Jelly Ninja - Play Free Now",
+      "description": "Jelly Ninja delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jelly-ninja-og.jpg",
+      "url": "https://littlegames.com/games/jelly-ninja",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Jelly Ninja - Play Free Now",
+      "description": "Jelly Ninja delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jelly-ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jelly Ninja",
+      "href": "/games/jelly-ninja",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_402",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

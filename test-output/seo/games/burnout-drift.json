@@ -1,0 +1,54 @@
+{
+  "gameId": 6078,
+  "slug": "burnout-drift",
+  "metadata": {
+    "title": "Free Burnout Drift Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Burnout Drift. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Burnout Drift",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/burnout-drift",
+    "openGraph": {
+      "title": "Free Burnout Drift Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Burnout Drift. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/burnout-drift-og.jpg",
+      "url": "https://littlegames.com/games/burnout-drift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Burnout Drift Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Burnout Drift. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/burnout-drift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Burnout Drift",
+      "href": "/games/burnout-drift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_424",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3747,
+  "slug": "human-vehicle",
+  "metadata": {
+    "title": "Free Human Vehicle Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Human Vehicle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Human Vehicle online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/human-vehicle",
+    "openGraph": {
+      "title": "Free Human Vehicle Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Human Vehicle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/human-vehicle-og.jpg",
+      "url": "https://littlegames.com/games/human-vehicle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Human Vehicle Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Human Vehicle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/human-vehicle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Human Vehicle",
+      "href": "/games/human-vehicle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_163",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

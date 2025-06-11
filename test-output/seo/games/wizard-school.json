@@ -1,0 +1,54 @@
+{
+  "gameId": 5169,
+  "slug": "wizard-school",
+  "metadata": {
+    "title": "Wizard School Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Wizard School. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Wizard School online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wizard-school",
+    "openGraph": {
+      "title": "Wizard School Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Wizard School. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/wizard-school-og.jpg",
+      "url": "https://littlegames.com/games/wizard-school",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wizard School Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Wizard School. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wizard-school-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wizard School",
+      "href": "/games/wizard-school",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_245",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

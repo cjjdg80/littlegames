@@ -1,0 +1,54 @@
+{
+  "gameId": 892,
+  "slug": "football-flick",
+  "metadata": {
+    "title": "Play Football Flick - Free Action Game Online",
+    "description": "Dive into the action-packed world of Football Flick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Football Flick",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/football-flick",
+    "openGraph": {
+      "title": "Play Football Flick - Free Action Game Online",
+      "description": "Dive into the action-packed world of Football Flick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/football-flick-og.jpg",
+      "url": "https://littlegames.com/games/football-flick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Football Flick - Free Action Game Online",
+      "description": "Dive into the action-packed world of Football Flick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/football-flick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Football Flick",
+      "href": "/games/football-flick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_658",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

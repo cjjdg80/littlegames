@@ -1,0 +1,54 @@
+{
+  "gameId": 3671,
+  "slug": "match-adventure",
+  "metadata": {
+    "title": "Adventure Game Match Adventure - Journey Begins",
+    "description": "Discover new worlds in Match Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Match Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/match-adventure",
+    "openGraph": {
+      "title": "Adventure Game Match Adventure - Journey Begins",
+      "description": "Discover new worlds in Match Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/match-adventure-og.jpg",
+      "url": "https://littlegames.com/games/match-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Match Adventure - Journey Begins",
+      "description": "Discover new worlds in Match Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/match-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Match Adventure",
+      "href": "/games/match-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_810",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

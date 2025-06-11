@@ -1,0 +1,54 @@
+{
+  "gameId": 503,
+  "slug": "preschool-games",
+  "metadata": {
+    "title": "Preschool Games Online - Ultimate Action Gaming Experience",
+    "description": "Preschool Games delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Preschool Games",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/preschool-games",
+    "openGraph": {
+      "title": "Preschool Games Online - Ultimate Action Gaming Experience",
+      "description": "Preschool Games delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/preschool-games-og.jpg",
+      "url": "https://littlegames.com/games/preschool-games",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Preschool Games Online - Ultimate Action Gaming Experience",
+      "description": "Preschool Games delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/preschool-games-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Preschool Games",
+      "href": "/games/preschool-games",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_599",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

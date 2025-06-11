@@ -1,0 +1,54 @@
+{
+  "gameId": 7672,
+  "slug": "royal-jigsaw",
+  "metadata": {
+    "title": "Free Royal Jigsaw Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Royal Jigsaw. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Royal Jigsaw",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/royal-jigsaw",
+    "openGraph": {
+      "title": "Free Royal Jigsaw Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Royal Jigsaw. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/royal-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/royal-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Royal Jigsaw Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Royal Jigsaw. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/royal-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Royal Jigsaw",
+      "href": "/games/royal-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_838",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8777,
+  "slug": "car-fighter",
+  "metadata": {
+    "title": "Car Fighter - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Car Fighter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Car Fighter online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/car-fighter",
+    "openGraph": {
+      "title": "Car Fighter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Car Fighter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/car-fighter-og.jpg",
+      "url": "https://littlegames.com/games/car-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Car Fighter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Car Fighter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/car-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Car Fighter",
+      "href": "/games/car-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_093",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

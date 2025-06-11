@@ -1,0 +1,54 @@
+{
+  "gameId": 7201,
+  "slug": "rescue-girl",
+  "metadata": {
+    "title": "Rescue Girl Online - Explore and Discover",
+    "description": "Discover new worlds in Rescue Girl. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Rescue Girl game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/rescue-girl",
+    "openGraph": {
+      "title": "Rescue Girl Online - Explore and Discover",
+      "description": "Discover new worlds in Rescue Girl. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/rescue-girl-og.jpg",
+      "url": "https://littlegames.com/games/rescue-girl",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rescue Girl Online - Explore and Discover",
+      "description": "Discover new worlds in Rescue Girl. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/rescue-girl-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rescue Girl",
+      "href": "/games/rescue-girl",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_240",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

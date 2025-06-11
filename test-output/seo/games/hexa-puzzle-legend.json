@@ -1,0 +1,54 @@
+{
+  "gameId": 1241,
+  "slug": "hexa-puzzle-legend",
+  "metadata": {
+    "title": "Puzzle Game Hexa Puzzle Legend - Test Your Skills",
+    "description": "Put your thinking skills to the test in Hexa Puzzle Legend. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Hexa Puzzle Legend",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-puzzle-legend",
+    "openGraph": {
+      "title": "Puzzle Game Hexa Puzzle Legend - Test Your Skills",
+      "description": "Put your thinking skills to the test in Hexa Puzzle Legend. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hexa-puzzle-legend-og.jpg",
+      "url": "https://littlegames.com/games/hexa-puzzle-legend",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Hexa Puzzle Legend - Test Your Skills",
+      "description": "Put your thinking skills to the test in Hexa Puzzle Legend. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hexa-puzzle-legend-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexa Puzzle Legend",
+      "href": "/games/hexa-puzzle-legend",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_477",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

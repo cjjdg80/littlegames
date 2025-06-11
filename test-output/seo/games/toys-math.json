@@ -1,0 +1,54 @@
+{
+  "gameId": 4866,
+  "slug": "toys-math",
+  "metadata": {
+    "title": "Free Toys Math Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Toys Math! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Toys Math game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/toys-math",
+    "openGraph": {
+      "title": "Free Toys Math Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Toys Math! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/toys-math-og.jpg",
+      "url": "https://littlegames.com/games/toys-math",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Toys Math Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Toys Math! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/toys-math-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Toys Math",
+      "href": "/games/toys-math",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_852",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

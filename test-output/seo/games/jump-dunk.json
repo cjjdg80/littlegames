@@ -1,0 +1,54 @@
+{
+  "gameId": 5537,
+  "slug": "jump-dunk",
+  "metadata": {
+    "title": "Jump Dunk - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Jump Dunk. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Jump Dunk",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/jump-dunk",
+    "openGraph": {
+      "title": "Jump Dunk - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Jump Dunk. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jump-dunk-og.jpg",
+      "url": "https://littlegames.com/games/jump-dunk",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jump Dunk - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Jump Dunk. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jump-dunk-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jump Dunk",
+      "href": "/games/jump-dunk",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_653",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

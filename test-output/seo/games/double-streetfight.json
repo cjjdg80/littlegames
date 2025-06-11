@@ -1,0 +1,54 @@
+{
+  "gameId": 2170,
+  "slug": "double-streetfight",
+  "metadata": {
+    "title": "Double StreetFight Online - Ultimate Action Gaming...",
+    "description": "Dive into the action-packed world of Double StreetFight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Double StreetFight",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/double-streetfight",
+    "openGraph": {
+      "title": "Double StreetFight Online - Ultimate Action Gaming...",
+      "description": "Dive into the action-packed world of Double StreetFight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/double-streetfight-og.jpg",
+      "url": "https://littlegames.com/games/double-streetfight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Double StreetFight Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Double StreetFight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/double-streetfight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Double StreetFight",
+      "href": "/games/double-streetfight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_276",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

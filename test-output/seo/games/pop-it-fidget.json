@@ -1,0 +1,54 @@
+{
+  "gameId": 3102,
+  "slug": "pop-it-fidget",
+  "metadata": {
+    "title": "Pop It Fidget - Exciting Action Adventure Game",
+    "description": "Pop It Fidget delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Pop It Fidget",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pop-it-fidget",
+    "openGraph": {
+      "title": "Pop It Fidget - Exciting Action Adventure Game",
+      "description": "Pop It Fidget delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pop-it-fidget-og.jpg",
+      "url": "https://littlegames.com/games/pop-it-fidget",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pop It Fidget - Exciting Action Adventure Game",
+      "description": "Pop It Fidget delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pop-it-fidget-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pop It Fidget",
+      "href": "/games/pop-it-fidget",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_168",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

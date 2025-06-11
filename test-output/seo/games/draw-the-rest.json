@@ -1,0 +1,54 @@
+{
+  "gameId": 1584,
+  "slug": "draw-the-rest",
+  "metadata": {
+    "title": "Free Draw The Rest Game - Action Packed Fun",
+    "description": "Draw The Rest delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Draw The Rest",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-the-rest",
+    "openGraph": {
+      "title": "Free Draw The Rest Game - Action Packed Fun",
+      "description": "Draw The Rest delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/draw-the-rest-og.jpg",
+      "url": "https://littlegames.com/games/draw-the-rest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Draw The Rest Game - Action Packed Fun",
+      "description": "Draw The Rest delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/draw-the-rest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw The Rest",
+      "href": "/games/draw-the-rest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_110",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

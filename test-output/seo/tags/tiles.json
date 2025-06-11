@@ -1,0 +1,46 @@
+{
+  "tag": "tiles",
+  "displayName": "Tiles",
+  "metadata": {
+    "title": "Tiles Games - Play Free Online",
+    "description": "Discover amazing tiles games! Play 105 free games with tiles theme. No downloads required.",
+    "keywords": [
+      "tiles games",
+      "free online games",
+      "browser games",
+      "tiles theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/tiles",
+    "openGraph": {
+      "title": "Tiles Games - Free Online Gaming",
+      "description": "Play the best tiles games online for free. 105 games available.",
+      "image": "https://littlegames.com/images/tags/tiles-og.jpg",
+      "url": "https://littlegames.com/tags/tiles",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tiles Games - Free Online",
+      "description": "Play 105 free tiles games online.",
+      "image": "https://littlegames.com/images/tags/tiles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tiles",
+      "href": "/tags/tiles",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tiles theme! Our collection includes 105 carefully selected games that feature tiles elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

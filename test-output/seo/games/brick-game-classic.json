@@ -1,0 +1,54 @@
+{
+  "gameId": 8530,
+  "slug": "brick-game-classic",
+  "metadata": {
+    "title": "Play Brick Game Classic - Free Puzzle Game Online",
+    "description": "Exercise your brain with Brick Game Classic. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "play Brick Game Classic",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/brick-game-classic",
+    "openGraph": {
+      "title": "Play Brick Game Classic - Free Puzzle Game Online",
+      "description": "Exercise your brain with Brick Game Classic. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/brick-game-classic-og.jpg",
+      "url": "https://littlegames.com/games/brick-game-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Brick Game Classic - Free Puzzle Game Online",
+      "description": "Exercise your brain with Brick Game Classic. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/brick-game-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Brick Game Classic",
+      "href": "/games/brick-game-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_436",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

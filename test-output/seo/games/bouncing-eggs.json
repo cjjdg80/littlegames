@@ -1,0 +1,54 @@
+{
+  "gameId": 2495,
+  "slug": "bouncing-eggs",
+  "metadata": {
+    "title": "Bouncing Eggs - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Bouncing Eggs. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Bouncing Eggs online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bouncing-eggs",
+    "openGraph": {
+      "title": "Bouncing Eggs - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Bouncing Eggs. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/bouncing-eggs-og.jpg",
+      "url": "https://littlegames.com/games/bouncing-eggs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bouncing Eggs - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Bouncing Eggs. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bouncing-eggs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bouncing Eggs",
+      "href": "/games/bouncing-eggs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_351",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1658,
+  "slug": "quick-color-tap",
+  "metadata": {
+    "title": "Play Quick Color Tap - Free Action Game Online",
+    "description": "Experience thrilling action in Quick Color Tap! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Quick Color Tap",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/quick-color-tap",
+    "openGraph": {
+      "title": "Play Quick Color Tap - Free Action Game Online",
+      "description": "Experience thrilling action in Quick Color Tap! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/quick-color-tap-og.jpg",
+      "url": "https://littlegames.com/games/quick-color-tap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Quick Color Tap - Free Action Game Online",
+      "description": "Experience thrilling action in Quick Color Tap! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/quick-color-tap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Quick Color Tap",
+      "href": "/games/quick-color-tap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_404",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

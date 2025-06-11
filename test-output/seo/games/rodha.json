@@ -1,0 +1,54 @@
+{
+  "gameId": 7472,
+  "slug": "rodha",
+  "metadata": {
+    "title": "Rodha - Thrilling Adventure Quest",
+    "description": "Rodha offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "Rodha game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/rodha",
+    "openGraph": {
+      "title": "Rodha - Thrilling Adventure Quest",
+      "description": "Rodha offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/rodha-og.jpg",
+      "url": "https://littlegames.com/games/rodha",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rodha - Thrilling Adventure Quest",
+      "description": "Rodha offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/rodha-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rodha",
+      "href": "/games/rodha",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_641",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

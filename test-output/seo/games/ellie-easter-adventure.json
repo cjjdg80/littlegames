@@ -1,0 +1,54 @@
+{
+  "gameId": 6422,
+  "slug": "ellie-easter-adventure",
+  "metadata": {
+    "title": "Ellie Easter Adventure - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Ellie Easter Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+    "keywords": [
+      "adventure games",
+      "Ellie Easter Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ellie-easter-adventure",
+    "openGraph": {
+      "title": "Ellie Easter Adventure - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Ellie Easter Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+      "image": "https://littlegames.com/images/games/ellie-easter-adventure-og.jpg",
+      "url": "https://littlegames.com/games/ellie-easter-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ellie Easter Adventure - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Ellie Easter Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/ellie-easter-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ellie Easter Adventure",
+      "href": "/games/ellie-easter-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_091",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

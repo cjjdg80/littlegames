@@ -1,0 +1,54 @@
+{
+  "gameId": 9043,
+  "slug": "skating-park",
+  "metadata": {
+    "title": "Skating Park - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Skating Park. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Skating Park game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/skating-park",
+    "openGraph": {
+      "title": "Skating Park - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Skating Park. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/skating-park-og.jpg",
+      "url": "https://littlegames.com/games/skating-park",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Skating Park - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Skating Park. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/skating-park-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Skating Park",
+      "href": "/games/skating-park",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_339",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

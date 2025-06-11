@@ -1,0 +1,54 @@
+{
+  "gameId": 3812,
+  "slug": "fruit-master",
+  "metadata": {
+    "title": "Action Game Fruit Master - Play Free Now",
+    "description": "Experience thrilling action in Fruit Master! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Fruit Master",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-master",
+    "openGraph": {
+      "title": "Action Game Fruit Master - Play Free Now",
+      "description": "Experience thrilling action in Fruit Master! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/fruit-master-og.jpg",
+      "url": "https://littlegames.com/games/fruit-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fruit Master - Play Free Now",
+      "description": "Experience thrilling action in Fruit Master! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/fruit-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fruit Master",
+      "href": "/games/fruit-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_178",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

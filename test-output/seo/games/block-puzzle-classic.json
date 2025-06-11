@@ -1,0 +1,54 @@
+{
+  "gameId": 3064,
+  "slug": "block-puzzle-classic",
+  "metadata": {
+    "title": "Block Puzzle Classic Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Block Puzzle Classic! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+    "keywords": [
+      "play Block Puzzle Classic",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/block-puzzle-classic",
+    "openGraph": {
+      "title": "Block Puzzle Classic Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Block Puzzle Classic! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+      "image": "https://littlegames.com/images/games/block-puzzle-classic-og.jpg",
+      "url": "https://littlegames.com/games/block-puzzle-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Block Puzzle Classic Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Block Puzzle Classic! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/block-puzzle-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Puzzle Classic",
+      "href": "/games/block-puzzle-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_990",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

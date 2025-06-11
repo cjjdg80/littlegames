@@ -1,0 +1,54 @@
+{
+  "gameId": 1732,
+  "slug": "sky-fly",
+  "metadata": {
+    "title": "Sky Fly - Exciting Action Adventure Game",
+    "description": "Sky Fly delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Sky Fly",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sky-fly",
+    "openGraph": {
+      "title": "Sky Fly - Exciting Action Adventure Game",
+      "description": "Sky Fly delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sky-fly-og.jpg",
+      "url": "https://littlegames.com/games/sky-fly",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sky Fly - Exciting Action Adventure Game",
+      "description": "Sky Fly delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sky-fly-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sky Fly",
+      "href": "/games/sky-fly",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_698",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

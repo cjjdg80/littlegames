@@ -1,0 +1,54 @@
+{
+  "gameId": 3869,
+  "slug": "puzzle-santa-dash",
+  "metadata": {
+    "title": "Puzzle Santa Dash - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Puzzle Santa Dash. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Puzzle Santa Dash",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-santa-dash",
+    "openGraph": {
+      "title": "Puzzle Santa Dash - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Puzzle Santa Dash. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/puzzle-santa-dash-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-santa-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Santa Dash - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Puzzle Santa Dash. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/puzzle-santa-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Santa Dash",
+      "href": "/games/puzzle-santa-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_945",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

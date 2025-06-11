@@ -1,0 +1,54 @@
+{
+  "gameId": 7937,
+  "slug": "gate-heroes-battle",
+  "metadata": {
+    "title": "Play Gate Heroes Battle - Free Action Game Online",
+    "description": "Join the action in Gate Heroes Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Gate Heroes Battle",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gate-heroes-battle",
+    "openGraph": {
+      "title": "Play Gate Heroes Battle - Free Action Game Online",
+      "description": "Join the action in Gate Heroes Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gate-heroes-battle-og.jpg",
+      "url": "https://littlegames.com/games/gate-heroes-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gate Heroes Battle - Free Action Game Online",
+      "description": "Join the action in Gate Heroes Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gate-heroes-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gate Heroes Battle",
+      "href": "/games/gate-heroes-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_053",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

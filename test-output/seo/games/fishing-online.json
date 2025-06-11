@@ -1,0 +1,54 @@
+{
+  "gameId": 1775,
+  "slug": "fishing-online",
+  "metadata": {
+    "title": "Fishing Online Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Fishing Online! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Fishing Online game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fishing-online",
+    "openGraph": {
+      "title": "Fishing Online Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Fishing Online! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/fishing-online-og.jpg",
+      "url": "https://littlegames.com/games/fishing-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fishing Online Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Fishing Online! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/fishing-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fishing Online",
+      "href": "/games/fishing-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_031",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "dotconnect",
+  "displayName": "Dotconnect",
+  "metadata": {
+    "title": "Dotconnect Games - Play Free Online",
+    "description": "Discover amazing dotconnect games! Play 8 free games with dotconnect theme. No downloads required.",
+    "keywords": [
+      "dotconnect games",
+      "free online games",
+      "browser games",
+      "dotconnect theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/dotconnect",
+    "openGraph": {
+      "title": "Dotconnect Games - Free Online Gaming",
+      "description": "Play the best dotconnect games online for free. 8 games available.",
+      "image": "https://littlegames.com/images/tags/dotconnect-og.jpg",
+      "url": "https://littlegames.com/tags/dotconnect",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dotconnect Games - Free Online",
+      "description": "Play 8 free dotconnect games online.",
+      "image": "https://littlegames.com/images/tags/dotconnect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dotconnect",
+      "href": "/tags/dotconnect",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dotconnect theme! Our collection includes 8 carefully selected games that feature dotconnect elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

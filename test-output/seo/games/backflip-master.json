@@ -1,0 +1,54 @@
+{
+  "gameId": 8418,
+  "slug": "backflip-master",
+  "metadata": {
+    "title": "Backflip Master Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Backflip Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Backflip Master",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/backflip-master",
+    "openGraph": {
+      "title": "Backflip Master Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Backflip Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/backflip-master-og.jpg",
+      "url": "https://littlegames.com/games/backflip-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Backflip Master Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Backflip Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/backflip-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Backflip Master",
+      "href": "/games/backflip-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_964",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

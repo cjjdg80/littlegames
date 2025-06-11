@@ -1,0 +1,54 @@
+{
+  "gameId": 6042,
+  "slug": "tasty-drop",
+  "metadata": {
+    "title": "Tasty Drop Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Tasty Drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Tasty Drop",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tasty-drop",
+    "openGraph": {
+      "title": "Tasty Drop Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Tasty Drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tasty-drop-og.jpg",
+      "url": "https://littlegames.com/games/tasty-drop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tasty Drop Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Tasty Drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tasty-drop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tasty Drop",
+      "href": "/games/tasty-drop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_308",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

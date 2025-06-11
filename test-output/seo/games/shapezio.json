@@ -1,0 +1,54 @@
+{
+  "gameId": 510,
+  "slug": "shapezio",
+  "metadata": {
+    "title": "Free shapez.io Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in shapez.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play shapez.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shapezio",
+    "openGraph": {
+      "title": "Free shapez.io Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in shapez.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shapezio-og.jpg",
+      "url": "https://littlegames.com/games/shapezio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free shapez.io Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in shapez.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shapezio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "shapez.io",
+      "href": "/games/shapezio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_816",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

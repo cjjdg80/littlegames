@@ -1,0 +1,46 @@
+{
+  "tag": "fastfood",
+  "displayName": "Fastfood",
+  "metadata": {
+    "title": "Fastfood Games - Play Free Online",
+    "description": "Discover amazing fastfood games! Play 12 free games with fastfood theme. No downloads required.",
+    "keywords": [
+      "fastfood games",
+      "free online games",
+      "browser games",
+      "fastfood theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/fastfood",
+    "openGraph": {
+      "title": "Fastfood Games - Free Online Gaming",
+      "description": "Play the best fastfood games online for free. 12 games available.",
+      "image": "https://littlegames.com/images/tags/fastfood-og.jpg",
+      "url": "https://littlegames.com/tags/fastfood",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fastfood Games - Free Online",
+      "description": "Play 12 free fastfood games online.",
+      "image": "https://littlegames.com/images/tags/fastfood-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fastfood",
+      "href": "/tags/fastfood",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fastfood theme! Our collection includes 12 carefully selected games that feature fastfood elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

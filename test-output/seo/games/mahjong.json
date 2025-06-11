@@ -1,0 +1,54 @@
+{
+  "gameId": 5559,
+  "slug": "mahjong",
+  "metadata": {
+    "title": "Free Mahjong Game - Action Packed Fun",
+    "description": "Join the action in Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mahjong online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong",
+    "openGraph": {
+      "title": "Free Mahjong Game - Action Packed Fun",
+      "description": "Join the action in Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-og.jpg",
+      "url": "https://littlegames.com/games/mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mahjong Game - Action Packed Fun",
+      "description": "Join the action in Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong",
+      "href": "/games/mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_335",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

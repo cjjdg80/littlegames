@@ -1,0 +1,54 @@
+{
+  "gameId": 10,
+  "slug": "stack-ball-2",
+  "metadata": {
+    "title": "Stack Ball 2 Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Stack Ball 2! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Stack Ball 2",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/stack-ball-2",
+    "openGraph": {
+      "title": "Stack Ball 2 Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Stack Ball 2! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/stack-ball-2-og.jpg",
+      "url": "https://littlegames.com/games/stack-ball-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stack Ball 2 Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Stack Ball 2! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/stack-ball-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stack Ball 2",
+      "href": "/games/stack-ball-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_316",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

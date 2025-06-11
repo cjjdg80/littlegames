@@ -1,0 +1,54 @@
+{
+  "gameId": 4563,
+  "slug": "animal-pairs",
+  "metadata": {
+    "title": "Action Game Animal Pairs - Play Free Now",
+    "description": "Experience thrilling action in Animal Pairs! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Animal Pairs game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/animal-pairs",
+    "openGraph": {
+      "title": "Action Game Animal Pairs - Play Free Now",
+      "description": "Experience thrilling action in Animal Pairs! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/animal-pairs-og.jpg",
+      "url": "https://littlegames.com/games/animal-pairs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Animal Pairs - Play Free Now",
+      "description": "Experience thrilling action in Animal Pairs! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/animal-pairs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Animal Pairs",
+      "href": "/games/animal-pairs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_459",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8631,
+  "slug": "planet-merge",
+  "metadata": {
+    "title": "Planet Merge Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Planet Merge. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Planet Merge",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/planet-merge",
+    "openGraph": {
+      "title": "Planet Merge Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Planet Merge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/planet-merge-og.jpg",
+      "url": "https://littlegames.com/games/planet-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Planet Merge Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Planet Merge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/planet-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Planet Merge",
+      "href": "/games/planet-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_567",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3263,
+  "slug": "color-snake",
+  "metadata": {
+    "title": "Color Snake Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Color Snake. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Color Snake game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/color-snake",
+    "openGraph": {
+      "title": "Color Snake Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Color Snake. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/color-snake-og.jpg",
+      "url": "https://littlegames.com/games/color-snake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Snake Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Color Snake. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/color-snake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Snake",
+      "href": "/games/color-snake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_159",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

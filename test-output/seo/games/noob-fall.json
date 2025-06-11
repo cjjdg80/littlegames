@@ -1,0 +1,54 @@
+{
+  "gameId": 5301,
+  "slug": "noob-fall",
+  "metadata": {
+    "title": "Free Noob Fall Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Noob Fall. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Noob Fall game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/noob-fall",
+    "openGraph": {
+      "title": "Free Noob Fall Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Noob Fall. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/noob-fall-og.jpg",
+      "url": "https://littlegames.com/games/noob-fall",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Noob Fall Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Noob Fall. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/noob-fall-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Noob Fall",
+      "href": "/games/noob-fall",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_337",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

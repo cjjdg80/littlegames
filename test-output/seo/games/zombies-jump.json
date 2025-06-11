@@ -1,0 +1,54 @@
+{
+  "gameId": 2698,
+  "slug": "zombies-jump",
+  "metadata": {
+    "title": "Play Zombies Jump - Free Action Game Online",
+    "description": "Join the action in Zombies Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Zombies Jump online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zombies-jump",
+    "openGraph": {
+      "title": "Play Zombies Jump - Free Action Game Online",
+      "description": "Join the action in Zombies Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombies-jump-og.jpg",
+      "url": "https://littlegames.com/games/zombies-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zombies Jump - Free Action Game Online",
+      "description": "Join the action in Zombies Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombies-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombies Jump",
+      "href": "/games/zombies-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_644",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

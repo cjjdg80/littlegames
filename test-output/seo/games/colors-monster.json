@@ -1,0 +1,54 @@
+{
+  "gameId": 1652,
+  "slug": "colors-monster",
+  "metadata": {
+    "title": "Action Game Colors Monster - Play Free Now",
+    "description": "Join the action in Colors Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Colors Monster",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/colors-monster",
+    "openGraph": {
+      "title": "Action Game Colors Monster - Play Free Now",
+      "description": "Join the action in Colors Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/colors-monster-og.jpg",
+      "url": "https://littlegames.com/games/colors-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Colors Monster - Play Free Now",
+      "description": "Join the action in Colors Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/colors-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Colors Monster",
+      "href": "/games/colors-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_218",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "health",
+  "displayName": "Health",
+  "metadata": {
+    "title": "Health Games - Play Free Online",
+    "description": "Discover amazing health games! Play 8 free games with health theme. No downloads required.",
+    "keywords": [
+      "health games",
+      "free online games",
+      "browser games",
+      "health theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/health",
+    "openGraph": {
+      "title": "Health Games - Free Online Gaming",
+      "description": "Play the best health games online for free. 8 games available.",
+      "image": "https://littlegames.com/images/tags/health-og.jpg",
+      "url": "https://littlegames.com/tags/health",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Health Games - Free Online",
+      "description": "Play 8 free health games online.",
+      "image": "https://littlegames.com/images/tags/health-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Health",
+      "href": "/tags/health",
+      "current": true
+    }
+  ],
+  "description": "Discover games with health theme! Our collection includes 8 carefully selected games that feature health elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

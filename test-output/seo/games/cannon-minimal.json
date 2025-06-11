@@ -1,0 +1,54 @@
+{
+  "gameId": 5018,
+  "slug": "cannon-minimal",
+  "metadata": {
+    "title": "Play Cannon Minimal - Free Action Game Online",
+    "description": "Cannon Minimal delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Cannon Minimal",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/cannon-minimal",
+    "openGraph": {
+      "title": "Play Cannon Minimal - Free Action Game Online",
+      "description": "Cannon Minimal delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cannon-minimal-og.jpg",
+      "url": "https://littlegames.com/games/cannon-minimal",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cannon Minimal - Free Action Game Online",
+      "description": "Cannon Minimal delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cannon-minimal-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cannon Minimal",
+      "href": "/games/cannon-minimal",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_564",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

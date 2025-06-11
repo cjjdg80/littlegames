@@ -1,0 +1,54 @@
+{
+  "gameId": 2618,
+  "slug": "among-hill-climber",
+  "metadata": {
+    "title": "Among Hill Climber - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Among Hill Climber! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Among Hill Climber",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/among-hill-climber",
+    "openGraph": {
+      "title": "Among Hill Climber - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Among Hill Climber! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/among-hill-climber-og.jpg",
+      "url": "https://littlegames.com/games/among-hill-climber",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Among Hill Climber - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Among Hill Climber! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/among-hill-climber-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Among Hill Climber",
+      "href": "/games/among-hill-climber",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_167",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

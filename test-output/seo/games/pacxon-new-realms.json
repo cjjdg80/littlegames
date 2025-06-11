@@ -1,0 +1,54 @@
+{
+  "gameId": 8082,
+  "slug": "pacxon-new-realms",
+  "metadata": {
+    "title": "PacXon New Realms Online - Ultimate Action Gaming Experience",
+    "description": "PacXon New Realms delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "PacXon New Realms",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pacxon-new-realms",
+    "openGraph": {
+      "title": "PacXon New Realms Online - Ultimate Action Gaming Experience",
+      "description": "PacXon New Realms delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pacxon-new-realms-og.jpg",
+      "url": "https://littlegames.com/games/pacxon-new-realms",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "PacXon New Realms Online - Ultimate Action Gaming Experience",
+      "description": "PacXon New Realms delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pacxon-new-realms-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "PacXon New Realms",
+      "href": "/games/pacxon-new-realms",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_548",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

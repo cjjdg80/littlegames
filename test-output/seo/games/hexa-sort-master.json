@@ -1,0 +1,54 @@
+{
+  "gameId": 8275,
+  "slug": "hexa-sort-master",
+  "metadata": {
+    "title": "Hexa Sort Master Online - Logic and Strategy Game",
+    "description": "Hexa Sort Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Hexa Sort Master online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-sort-master",
+    "openGraph": {
+      "title": "Hexa Sort Master Online - Logic and Strategy Game",
+      "description": "Hexa Sort Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hexa-sort-master-og.jpg",
+      "url": "https://littlegames.com/games/hexa-sort-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hexa Sort Master Online - Logic and Strategy Game",
+      "description": "Hexa Sort Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hexa-sort-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexa Sort Master",
+      "href": "/games/hexa-sort-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_531",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

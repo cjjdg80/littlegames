@@ -1,0 +1,54 @@
+{
+  "gameId": 6044,
+  "slug": "dot-trigger",
+  "metadata": {
+    "title": "Dot Trigger - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Dot Trigger. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dot Trigger online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dot-trigger",
+    "openGraph": {
+      "title": "Dot Trigger - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Dot Trigger. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dot-trigger-og.jpg",
+      "url": "https://littlegames.com/games/dot-trigger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dot Trigger - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Dot Trigger. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dot-trigger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dot Trigger",
+      "href": "/games/dot-trigger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_370",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

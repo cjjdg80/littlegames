@@ -1,0 +1,54 @@
+{
+  "gameId": 2041,
+  "slug": "love-and-treasure-quest",
+  "metadata": {
+    "title": "Adventure Game Love and Treasure Quest - Journey Begins",
+    "description": "Begin your quest in Love and Treasure Quest. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Love and Treasure Quest",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/love-and-treasure-quest",
+    "openGraph": {
+      "title": "Adventure Game Love and Treasure Quest - Journey Begins",
+      "description": "Begin your quest in Love and Treasure Quest. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/love-and-treasure-quest-og.jpg",
+      "url": "https://littlegames.com/games/love-and-treasure-quest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Love and Treasure Quest - Journey Begins",
+      "description": "Begin your quest in Love and Treasure Quest. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/love-and-treasure-quest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Love and Treasure Quest",
+      "href": "/games/love-and-treasure-quest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_280",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

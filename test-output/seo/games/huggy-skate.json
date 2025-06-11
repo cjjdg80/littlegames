@@ -1,0 +1,54 @@
+{
+  "gameId": 4346,
+  "slug": "huggy-skate",
+  "metadata": {
+    "title": "Huggy Skate Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Huggy Skate. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Huggy Skate",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/huggy-skate",
+    "openGraph": {
+      "title": "Huggy Skate Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Huggy Skate. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/huggy-skate-og.jpg",
+      "url": "https://littlegames.com/games/huggy-skate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Huggy Skate Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Huggy Skate. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/huggy-skate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Huggy Skate",
+      "href": "/games/huggy-skate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_732",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

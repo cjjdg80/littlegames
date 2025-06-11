@@ -1,0 +1,54 @@
+{
+  "gameId": 6987,
+  "slug": "word-sprint",
+  "metadata": {
+    "title": "Puzzle Game Word Sprint - Test Your Skills",
+    "description": "Exercise your brain with Word Sprint. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Word Sprint",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/word-sprint",
+    "openGraph": {
+      "title": "Puzzle Game Word Sprint - Test Your Skills",
+      "description": "Exercise your brain with Word Sprint. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/word-sprint-og.jpg",
+      "url": "https://littlegames.com/games/word-sprint",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Word Sprint - Test Your Skills",
+      "description": "Exercise your brain with Word Sprint. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/word-sprint-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Word Sprint",
+      "href": "/games/word-sprint",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_603",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

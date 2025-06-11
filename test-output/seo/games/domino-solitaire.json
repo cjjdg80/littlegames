@@ -1,0 +1,54 @@
+{
+  "gameId": 8549,
+  "slug": "domino-solitaire",
+  "metadata": {
+    "title": "Domino Solitaire - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Domino Solitaire. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Domino Solitaire",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/domino-solitaire",
+    "openGraph": {
+      "title": "Domino Solitaire - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Domino Solitaire. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/domino-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/domino-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Domino Solitaire - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Domino Solitaire. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/domino-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Domino Solitaire",
+      "href": "/games/domino-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_025",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

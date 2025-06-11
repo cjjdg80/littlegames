@@ -1,0 +1,46 @@
+{
+  "tag": "guessing",
+  "displayName": "Guessing",
+  "metadata": {
+    "title": "Guessing Games - Play Free Online",
+    "description": "Discover amazing guessing games! Play 16 free games with guessing theme. No downloads required.",
+    "keywords": [
+      "guessing games",
+      "free online games",
+      "browser games",
+      "guessing theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/guessing",
+    "openGraph": {
+      "title": "Guessing Games - Free Online Gaming",
+      "description": "Play the best guessing games online for free. 16 games available.",
+      "image": "https://littlegames.com/images/tags/guessing-og.jpg",
+      "url": "https://littlegames.com/tags/guessing",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Guessing Games - Free Online",
+      "description": "Play 16 free guessing games online.",
+      "image": "https://littlegames.com/images/tags/guessing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Guessing",
+      "href": "/tags/guessing",
+      "current": true
+    }
+  ],
+  "description": "Discover games with guessing theme! Our collection includes 16 carefully selected games that feature guessing elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4008,
+  "slug": "monstersio",
+  "metadata": {
+    "title": "Free Monsters.io Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Monsters.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Monsters.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/monstersio",
+    "openGraph": {
+      "title": "Free Monsters.io Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Monsters.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/monstersio-og.jpg",
+      "url": "https://littlegames.com/games/monstersio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Monsters.io Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Monsters.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/monstersio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monsters.io",
+      "href": "/games/monstersio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_254",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

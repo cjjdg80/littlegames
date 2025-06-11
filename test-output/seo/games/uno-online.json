@@ -1,0 +1,54 @@
+{
+  "gameId": 9049,
+  "slug": "uno-online",
+  "metadata": {
+    "title": "Free Uno Online Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Uno Online. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Uno Online online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/uno-online",
+    "openGraph": {
+      "title": "Free Uno Online Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Uno Online. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/uno-online-og.jpg",
+      "url": "https://littlegames.com/games/uno-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Uno Online Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Uno Online. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/uno-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Uno Online",
+      "href": "/games/uno-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_527",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

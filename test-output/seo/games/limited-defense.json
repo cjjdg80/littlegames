@@ -1,0 +1,54 @@
+{
+  "gameId": 9645,
+  "slug": "limited-defense",
+  "metadata": {
+    "title": "Limited Defense - Exciting Action Adventure Game",
+    "description": "Limited Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Limited Defense",
+      "free online games",
+      "strategy games"
+    ],
+    "canonical": "https://littlegames.com/games/limited-defense",
+    "openGraph": {
+      "title": "Limited Defense - Exciting Action Adventure Game",
+      "description": "Limited Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/limited-defense-og.jpg",
+      "url": "https://littlegames.com/games/limited-defense",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Limited Defense - Exciting Action Adventure Game",
+      "description": "Limited Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/limited-defense-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Limited Defense",
+      "href": "/games/limited-defense",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_003",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

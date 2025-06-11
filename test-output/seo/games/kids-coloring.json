@@ -1,0 +1,54 @@
+{
+  "gameId": 7936,
+  "slug": "kids-coloring",
+  "metadata": {
+    "title": "Kids Coloring - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Kids Coloring. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Kids Coloring",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/kids-coloring",
+    "openGraph": {
+      "title": "Kids Coloring - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Kids Coloring. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kids-coloring-og.jpg",
+      "url": "https://littlegames.com/games/kids-coloring",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kids Coloring - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Kids Coloring. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kids-coloring-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kids Coloring",
+      "href": "/games/kids-coloring",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_022",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

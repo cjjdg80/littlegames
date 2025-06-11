@@ -1,0 +1,54 @@
+{
+  "gameId": 5459,
+  "slug": "rubek",
+  "metadata": {
+    "title": "Free Rubek Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Rubek! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Rubek",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/rubek",
+    "openGraph": {
+      "title": "Free Rubek Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Rubek! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/rubek-og.jpg",
+      "url": "https://littlegames.com/games/rubek",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rubek Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Rubek! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/rubek-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Rubek",
+      "href": "/games/rubek",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_235",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

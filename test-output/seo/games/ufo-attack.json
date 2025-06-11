@@ -1,0 +1,54 @@
+{
+  "gameId": 8588,
+  "slug": "ufo-attack",
+  "metadata": {
+    "title": "UFO Attack - Thrilling Adventure Quest",
+    "description": "UFO Attack offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "play UFO Attack",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/ufo-attack",
+    "openGraph": {
+      "title": "UFO Attack - Thrilling Adventure Quest",
+      "description": "UFO Attack offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/ufo-attack-og.jpg",
+      "url": "https://littlegames.com/games/ufo-attack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "UFO Attack - Thrilling Adventure Quest",
+      "description": "UFO Attack offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/ufo-attack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "UFO Attack",
+      "href": "/games/ufo-attack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_237",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

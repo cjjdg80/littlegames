@@ -1,0 +1,54 @@
+{
+  "gameId": 3003,
+  "slug": "merge-monster-pool",
+  "metadata": {
+    "title": "Free Merge Monster Pool Game - Action Packed Fun",
+    "description": "Join the action in Merge Monster Pool! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Merge Monster Pool game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/merge-monster-pool",
+    "openGraph": {
+      "title": "Free Merge Monster Pool Game - Action Packed Fun",
+      "description": "Join the action in Merge Monster Pool! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-monster-pool-og.jpg",
+      "url": "https://littlegames.com/games/merge-monster-pool",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge Monster Pool Game - Action Packed Fun",
+      "description": "Join the action in Merge Monster Pool! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-monster-pool-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Merge Monster Pool",
+      "href": "/games/merge-monster-pool",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_099",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

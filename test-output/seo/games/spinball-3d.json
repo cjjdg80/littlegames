@@ -1,0 +1,54 @@
+{
+  "gameId": 1703,
+  "slug": "spinball-3d",
+  "metadata": {
+    "title": "Action Game Spinball 3D - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Spinball 3D. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Spinball 3D",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/spinball-3d",
+    "openGraph": {
+      "title": "Action Game Spinball 3D - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Spinball 3D. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/spinball-3d-og.jpg",
+      "url": "https://littlegames.com/games/spinball-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Spinball 3D - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Spinball 3D. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/spinball-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Spinball 3D",
+      "href": "/games/spinball-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_799",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

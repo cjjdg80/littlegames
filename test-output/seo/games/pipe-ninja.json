@@ -1,0 +1,54 @@
+{
+  "gameId": 693,
+  "slug": "pipe-ninja",
+  "metadata": {
+    "title": "Free Pipe Ninja Game - Action Packed Fun",
+    "description": "Experience thrilling action in Pipe Ninja! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Pipe Ninja",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pipe-ninja",
+    "openGraph": {
+      "title": "Free Pipe Ninja Game - Action Packed Fun",
+      "description": "Experience thrilling action in Pipe Ninja! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/pipe-ninja-og.jpg",
+      "url": "https://littlegames.com/games/pipe-ninja",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pipe Ninja Game - Action Packed Fun",
+      "description": "Experience thrilling action in Pipe Ninja! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pipe-ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pipe Ninja",
+      "href": "/games/pipe-ninja",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_489",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

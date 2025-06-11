@@ -1,0 +1,54 @@
+{
+  "gameId": 1559,
+  "slug": "eboy-fashion",
+  "metadata": {
+    "title": "Free eBoy Fashion Game - Action Packed Fun",
+    "description": "eBoy Fashion delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "eBoy Fashion online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/eboy-fashion",
+    "openGraph": {
+      "title": "Free eBoy Fashion Game - Action Packed Fun",
+      "description": "eBoy Fashion delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/eboy-fashion-og.jpg",
+      "url": "https://littlegames.com/games/eboy-fashion",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free eBoy Fashion Game - Action Packed Fun",
+      "description": "eBoy Fashion delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/eboy-fashion-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "eBoy Fashion",
+      "href": "/games/eboy-fashion",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_335",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

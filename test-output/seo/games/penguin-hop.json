@@ -1,0 +1,54 @@
+{
+  "gameId": 4660,
+  "slug": "penguin-hop",
+  "metadata": {
+    "title": "Penguin Hop Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Penguin Hop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Penguin Hop game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/penguin-hop",
+    "openGraph": {
+      "title": "Penguin Hop Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Penguin Hop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/penguin-hop-og.jpg",
+      "url": "https://littlegames.com/games/penguin-hop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Penguin Hop Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Penguin Hop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/penguin-hop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Penguin Hop",
+      "href": "/games/penguin-hop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_466",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

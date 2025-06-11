@@ -1,0 +1,54 @@
+{
+  "gameId": 316,
+  "slug": "jack-runner",
+  "metadata": {
+    "title": "Free Jack Runner Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Jack Runner! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Jack Runner game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/jack-runner",
+    "openGraph": {
+      "title": "Free Jack Runner Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Jack Runner! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/jack-runner-og.jpg",
+      "url": "https://littlegames.com/games/jack-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jack Runner Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Jack Runner! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/jack-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Jack Runner",
+      "href": "/games/jack-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_805",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3748,
+  "slug": "tiny-clash",
+  "metadata": {
+    "title": "Action Game Tiny Clash - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Tiny Clash. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tiny Clash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-clash",
+    "openGraph": {
+      "title": "Action Game Tiny Clash - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Tiny Clash. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tiny-clash-og.jpg",
+      "url": "https://littlegames.com/games/tiny-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tiny Clash - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Tiny Clash. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tiny-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Tiny Clash",
+      "href": "/games/tiny-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_196",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

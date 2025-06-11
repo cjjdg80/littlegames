@@ -1,0 +1,54 @@
+{
+  "gameId": 2927,
+  "slug": "maneuver",
+  "metadata": {
+    "title": "MANEUVER Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in MANEUVER! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "MANEUVER",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/maneuver",
+    "openGraph": {
+      "title": "MANEUVER Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in MANEUVER! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/maneuver-og.jpg",
+      "url": "https://littlegames.com/games/maneuver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "MANEUVER Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in MANEUVER! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/maneuver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "MANEUVER",
+      "href": "/games/maneuver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_743",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8818,
+  "slug": "bed-wars",
+  "metadata": {
+    "title": "Play Bed Wars - Free Action Game Online",
+    "description": "Join the action in Bed Wars! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Bed Wars",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bed-wars",
+    "openGraph": {
+      "title": "Play Bed Wars - Free Action Game Online",
+      "description": "Join the action in Bed Wars! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bed-wars-og.jpg",
+      "url": "https://littlegames.com/games/bed-wars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bed Wars - Free Action Game Online",
+      "description": "Join the action in Bed Wars! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bed-wars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bed Wars",
+      "href": "/games/bed-wars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_364",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

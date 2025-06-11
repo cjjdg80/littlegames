@@ -1,0 +1,54 @@
+{
+  "gameId": 5187,
+  "slug": "2048-run-3d",
+  "metadata": {
+    "title": "Free 2048 Run 3D Game - Action Packed Fun",
+    "description": "2048 Run 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "2048 Run 3D online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/2048-run-3d",
+    "openGraph": {
+      "title": "Free 2048 Run 3D Game - Action Packed Fun",
+      "description": "2048 Run 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048-run-3d-og.jpg",
+      "url": "https://littlegames.com/games/2048-run-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free 2048 Run 3D Game - Action Packed Fun",
+      "description": "2048 Run 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048-run-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2048 Run 3D",
+      "href": "/games/2048-run-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_803",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

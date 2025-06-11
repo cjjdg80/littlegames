@@ -1,0 +1,54 @@
+{
+  "gameId": 8808,
+  "slug": "sandwich-runner",
+  "metadata": {
+    "title": "Sandwich Runner Online - Ultimate Action Gaming Experience",
+    "description": "Sandwich Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Sandwich Runner online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sandwich-runner",
+    "openGraph": {
+      "title": "Sandwich Runner Online - Ultimate Action Gaming Experience",
+      "description": "Sandwich Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sandwich-runner-og.jpg",
+      "url": "https://littlegames.com/games/sandwich-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sandwich Runner Online - Ultimate Action Gaming Experience",
+      "description": "Sandwich Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sandwich-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sandwich Runner",
+      "href": "/games/sandwich-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_054",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

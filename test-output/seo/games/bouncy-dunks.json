@@ -1,0 +1,54 @@
+{
+  "gameId": 1317,
+  "slug": "bouncy-dunks",
+  "metadata": {
+    "title": "Bouncy Dunks Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Bouncy Dunks! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bouncy Dunks online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bouncy-dunks",
+    "openGraph": {
+      "title": "Bouncy Dunks Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bouncy Dunks! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-dunks-og.jpg",
+      "url": "https://littlegames.com/games/bouncy-dunks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bouncy Dunks Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bouncy Dunks! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-dunks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bouncy Dunks",
+      "href": "/games/bouncy-dunks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_833",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

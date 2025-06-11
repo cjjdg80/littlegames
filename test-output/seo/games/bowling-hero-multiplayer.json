@@ -1,0 +1,54 @@
+{
+  "gameId": 3502,
+  "slug": "bowling-hero-multiplayer",
+  "metadata": {
+    "title": "Free Bowling Hero Multiplayer Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Bowling Hero Multiplayer. This sports game features instant browser play and delivers non-stop excitement. Start playing...",
+    "keywords": [
+      "Bowling Hero Multiplayer online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bowling-hero-multiplayer",
+    "openGraph": {
+      "title": "Free Bowling Hero Multiplayer Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bowling Hero Multiplayer. This sports game features instant browser play and delivers non-stop excitement. Start playing...",
+      "image": "https://littlegames.com/images/games/bowling-hero-multiplayer-og.jpg",
+      "url": "https://littlegames.com/games/bowling-hero-multiplayer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bowling Hero Multiplayer Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bowling Hero Multiplayer. This sports game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bowling-hero-multiplayer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Bowling Hero Multiplayer",
+      "href": "/games/bowling-hero-multiplayer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_568",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

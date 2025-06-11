@@ -1,0 +1,54 @@
+{
+  "gameId": 9557,
+  "slug": "the-superhero-league",
+  "metadata": {
+    "title": "Play The Superhero League - Epic Adventure Game Online",
+    "description": "Begin your quest in The Superhero League. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play The Superhero League",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/the-superhero-league",
+    "openGraph": {
+      "title": "Play The Superhero League - Epic Adventure Game Online",
+      "description": "Begin your quest in The Superhero League. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/the-superhero-league-og.jpg",
+      "url": "https://littlegames.com/games/the-superhero-league",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play The Superhero League - Epic Adventure Game Online",
+      "description": "Begin your quest in The Superhero League. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/the-superhero-league-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "The Superhero League",
+      "href": "/games/the-superhero-league",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_276",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

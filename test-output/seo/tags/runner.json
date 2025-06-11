@@ -1,0 +1,46 @@
+{
+  "tag": "runner",
+  "displayName": "Runner",
+  "metadata": {
+    "title": "Runner Games - Play Free Online",
+    "description": "Discover amazing runner games! Play 254 free games with runner theme. No downloads required.",
+    "keywords": [
+      "runner games",
+      "free online games",
+      "browser games",
+      "runner theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/runner",
+    "openGraph": {
+      "title": "Runner Games - Free Online Gaming",
+      "description": "Play the best runner games online for free. 254 games available.",
+      "image": "https://littlegames.com/images/tags/runner-og.jpg",
+      "url": "https://littlegames.com/tags/runner",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Runner Games - Free Online",
+      "description": "Play 254 free runner games online.",
+      "image": "https://littlegames.com/images/tags/runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Runner",
+      "href": "/tags/runner",
+      "current": true
+    }
+  ],
+  "description": "Discover games with runner theme! Our collection includes 254 carefully selected games that feature runner elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

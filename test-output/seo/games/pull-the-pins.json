@@ -1,0 +1,54 @@
+{
+  "gameId": 9408,
+  "slug": "pull-the-pins",
+  "metadata": {
+    "title": "Pull The Pins Online - Ultimate Action Gaming Experience",
+    "description": "Pull The Pins delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Pull The Pins online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pull-the-pins",
+    "openGraph": {
+      "title": "Pull The Pins Online - Ultimate Action Gaming Experience",
+      "description": "Pull The Pins delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pull-the-pins-og.jpg",
+      "url": "https://littlegames.com/games/pull-the-pins",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pull The Pins Online - Ultimate Action Gaming Experience",
+      "description": "Pull The Pins delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pull-the-pins-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pull The Pins",
+      "href": "/games/pull-the-pins",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_654",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2418,
+  "slug": "jelly-cubes",
+  "metadata": {
+    "title": "Free Jelly Cubes Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Jelly Cubes! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Jelly Cubes",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-cubes",
+    "openGraph": {
+      "title": "Free Jelly Cubes Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Jelly Cubes! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/jelly-cubes-og.jpg",
+      "url": "https://littlegames.com/games/jelly-cubes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jelly Cubes Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Jelly Cubes! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/jelly-cubes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jelly Cubes",
+      "href": "/games/jelly-cubes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_964",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

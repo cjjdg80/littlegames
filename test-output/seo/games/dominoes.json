@@ -1,0 +1,54 @@
+{
+  "gameId": 765,
+  "slug": "dominoes",
+  "metadata": {
+    "title": "Dominoes Online - Ultimate Action Gaming Experience",
+    "description": "Dominoes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Dominoes game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dominoes",
+    "openGraph": {
+      "title": "Dominoes Online - Ultimate Action Gaming Experience",
+      "description": "Dominoes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dominoes-og.jpg",
+      "url": "https://littlegames.com/games/dominoes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dominoes Online - Ultimate Action Gaming Experience",
+      "description": "Dominoes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dominoes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dominoes",
+      "href": "/games/dominoes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_721",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

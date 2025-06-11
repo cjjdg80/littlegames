@@ -1,0 +1,54 @@
+{
+  "gameId": 2214,
+  "slug": "brick-surfer",
+  "metadata": {
+    "title": "Play Brick Surfer - Free Action Game Online",
+    "description": "Join the action in Brick Surfer! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Brick Surfer",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/brick-surfer",
+    "openGraph": {
+      "title": "Play Brick Surfer - Free Action Game Online",
+      "description": "Join the action in Brick Surfer! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/brick-surfer-og.jpg",
+      "url": "https://littlegames.com/games/brick-surfer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Brick Surfer - Free Action Game Online",
+      "description": "Join the action in Brick Surfer! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/brick-surfer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Brick Surfer",
+      "href": "/games/brick-surfer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_640",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

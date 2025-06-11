@@ -1,0 +1,54 @@
+{
+  "gameId": 9239,
+  "slug": "limited-kaboom",
+  "metadata": {
+    "title": "Puzzle Game Limited Kaboom - Test Your Skills",
+    "description": "Exercise your brain with Limited Kaboom. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Limited Kaboom game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/limited-kaboom",
+    "openGraph": {
+      "title": "Puzzle Game Limited Kaboom - Test Your Skills",
+      "description": "Exercise your brain with Limited Kaboom. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/limited-kaboom-og.jpg",
+      "url": "https://littlegames.com/games/limited-kaboom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Limited Kaboom - Test Your Skills",
+      "description": "Exercise your brain with Limited Kaboom. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/limited-kaboom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Limited Kaboom",
+      "href": "/games/limited-kaboom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_415",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

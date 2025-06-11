@@ -1,0 +1,54 @@
+{
+  "gameId": 8065,
+  "slug": "merge-sesame",
+  "metadata": {
+    "title": "Merge Sesame Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Merge Sesame! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Merge Sesame",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-sesame",
+    "openGraph": {
+      "title": "Merge Sesame Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Merge Sesame! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-sesame-og.jpg",
+      "url": "https://littlegames.com/games/merge-sesame",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Sesame Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Merge Sesame! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-sesame-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Sesame",
+      "href": "/games/merge-sesame",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_021",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

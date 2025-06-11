@@ -1,0 +1,54 @@
+{
+  "gameId": 3981,
+  "slug": "zodiac-signs-memory",
+  "metadata": {
+    "title": "Zodiac Signs Memory - Brain Training Puzzle Challenge",
+    "description": "Zodiac Signs Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "puzzle games",
+      "Zodiac Signs Memory",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/zodiac-signs-memory",
+    "openGraph": {
+      "title": "Zodiac Signs Memory - Brain Training Puzzle Challenge",
+      "description": "Zodiac Signs Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/zodiac-signs-memory-og.jpg",
+      "url": "https://littlegames.com/games/zodiac-signs-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zodiac Signs Memory - Brain Training Puzzle Challenge",
+      "description": "Zodiac Signs Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/zodiac-signs-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Zodiac Signs Memory",
+      "href": "/games/zodiac-signs-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_417",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

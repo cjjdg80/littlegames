@@ -1,0 +1,54 @@
+{
+  "gameId": 8668,
+  "slug": "choco-blocks",
+  "metadata": {
+    "title": "Free Choco Blocks Game - Action Packed Fun",
+    "description": "Join the action in Choco Blocks! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Choco Blocks",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/choco-blocks",
+    "openGraph": {
+      "title": "Free Choco Blocks Game - Action Packed Fun",
+      "description": "Join the action in Choco Blocks! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/choco-blocks-og.jpg",
+      "url": "https://littlegames.com/games/choco-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Choco Blocks Game - Action Packed Fun",
+      "description": "Join the action in Choco Blocks! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/choco-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Choco Blocks",
+      "href": "/games/choco-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_714",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

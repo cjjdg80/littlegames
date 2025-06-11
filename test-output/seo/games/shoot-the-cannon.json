@@ -1,0 +1,54 @@
+{
+  "gameId": 6245,
+  "slug": "shoot-the-cannon",
+  "metadata": {
+    "title": "Shoot The Cannon - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Shoot The Cannon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Shoot The Cannon",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shoot-the-cannon",
+    "openGraph": {
+      "title": "Shoot The Cannon - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Shoot The Cannon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shoot-the-cannon-og.jpg",
+      "url": "https://littlegames.com/games/shoot-the-cannon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shoot The Cannon - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Shoot The Cannon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shoot-the-cannon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shoot The Cannon",
+      "href": "/games/shoot-the-cannon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_601",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

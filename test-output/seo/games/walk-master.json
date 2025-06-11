@@ -1,0 +1,54 @@
+{
+  "gameId": 594,
+  "slug": "walk-master",
+  "metadata": {
+    "title": "Free Walk Master Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Walk Master. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Walk Master online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/walk-master",
+    "openGraph": {
+      "title": "Free Walk Master Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Walk Master. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/walk-master-og.jpg",
+      "url": "https://littlegames.com/games/walk-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Walk Master Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Walk Master. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/walk-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Walk Master",
+      "href": "/games/walk-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_420",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

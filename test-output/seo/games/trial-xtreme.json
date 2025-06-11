@@ -1,0 +1,54 @@
+{
+  "gameId": 8540,
+  "slug": "trial-xtreme",
+  "metadata": {
+    "title": "Action Game Trial Xtreme - Play Free Now",
+    "description": "Trial Xtreme delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Trial Xtreme online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/trial-xtreme",
+    "openGraph": {
+      "title": "Action Game Trial Xtreme - Play Free Now",
+      "description": "Trial Xtreme delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/trial-xtreme-og.jpg",
+      "url": "https://littlegames.com/games/trial-xtreme",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Trial Xtreme - Play Free Now",
+      "description": "Trial Xtreme delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/trial-xtreme-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Trial Xtreme",
+      "href": "/games/trial-xtreme",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_746",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

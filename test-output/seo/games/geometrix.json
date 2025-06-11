@@ -1,0 +1,54 @@
+{
+  "gameId": 9891,
+  "slug": "geometrix",
+  "metadata": {
+    "title": "Geometrix - Exciting Action Adventure Game",
+    "description": "Join the action in Geometrix! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Geometrix online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/geometrix",
+    "openGraph": {
+      "title": "Geometrix - Exciting Action Adventure Game",
+      "description": "Join the action in Geometrix! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/geometrix-og.jpg",
+      "url": "https://littlegames.com/games/geometrix",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometrix - Exciting Action Adventure Game",
+      "description": "Join the action in Geometrix! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/geometrix-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Geometrix",
+      "href": "/games/geometrix",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_627",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

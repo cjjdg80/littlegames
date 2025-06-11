@@ -1,0 +1,46 @@
+{
+  "tag": "recovery",
+  "displayName": "Recovery",
+  "metadata": {
+    "title": "Recovery Games - Play Free Online",
+    "description": "Discover amazing recovery games! Play 1 free games with recovery theme. No downloads required.",
+    "keywords": [
+      "recovery games",
+      "free online games",
+      "browser games",
+      "recovery theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/recovery",
+    "openGraph": {
+      "title": "Recovery Games - Free Online Gaming",
+      "description": "Play the best recovery games online for free. 1 games available.",
+      "image": "https://littlegames.com/images/tags/recovery-og.jpg",
+      "url": "https://littlegames.com/tags/recovery",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Recovery Games - Free Online",
+      "description": "Play 1 free recovery games online.",
+      "image": "https://littlegames.com/images/tags/recovery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Recovery",
+      "href": "/tags/recovery",
+      "current": true
+    }
+  ],
+  "description": "Discover games with recovery theme! Our collection includes 1 carefully selected games that feature recovery elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9809,
+  "slug": "physics-balls",
+  "metadata": {
+    "title": "Physics Balls - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Physics Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Physics Balls game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/physics-balls",
+    "openGraph": {
+      "title": "Physics Balls - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Physics Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/physics-balls-og.jpg",
+      "url": "https://littlegames.com/games/physics-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Physics Balls - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Physics Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/physics-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Physics Balls",
+      "href": "/games/physics-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_085",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

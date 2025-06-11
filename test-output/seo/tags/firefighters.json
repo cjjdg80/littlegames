@@ -1,0 +1,46 @@
+{
+  "tag": "firefighters",
+  "displayName": "Firefighters",
+  "metadata": {
+    "title": "Firefighters Games - Play Free Online",
+    "description": "Discover amazing firefighters games! Play 9 free games with firefighters theme. No downloads required.",
+    "keywords": [
+      "firefighters games",
+      "free online games",
+      "browser games",
+      "firefighters theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/firefighters",
+    "openGraph": {
+      "title": "Firefighters Games - Free Online Gaming",
+      "description": "Play the best firefighters games online for free. 9 games available.",
+      "image": "https://littlegames.com/images/tags/firefighters-og.jpg",
+      "url": "https://littlegames.com/tags/firefighters",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Firefighters Games - Free Online",
+      "description": "Play 9 free firefighters games online.",
+      "image": "https://littlegames.com/images/tags/firefighters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Firefighters",
+      "href": "/tags/firefighters",
+      "current": true
+    }
+  ],
+  "description": "Discover games with firefighters theme! Our collection includes 9 carefully selected games that feature firefighters elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

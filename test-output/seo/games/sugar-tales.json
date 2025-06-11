@@ -1,0 +1,54 @@
+{
+  "gameId": 4331,
+  "slug": "sugar-tales",
+  "metadata": {
+    "title": "Sugar Tales - Brain Training Puzzle Challenge",
+    "description": "Sugar Tales offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Sugar Tales game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sugar-tales",
+    "openGraph": {
+      "title": "Sugar Tales - Brain Training Puzzle Challenge",
+      "description": "Sugar Tales offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sugar-tales-og.jpg",
+      "url": "https://littlegames.com/games/sugar-tales",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sugar Tales - Brain Training Puzzle Challenge",
+      "description": "Sugar Tales offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sugar-tales-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sugar Tales",
+      "href": "/games/sugar-tales",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_267",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

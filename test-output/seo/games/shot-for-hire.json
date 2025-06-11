@@ -1,0 +1,54 @@
+{
+  "gameId": 6347,
+  "slug": "shot-for-hire",
+  "metadata": {
+    "title": "Action Game Shot For Hire - Play Free Now",
+    "description": "Join the action in Shot For Hire! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Shot For Hire",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shot-for-hire",
+    "openGraph": {
+      "title": "Action Game Shot For Hire - Play Free Now",
+      "description": "Join the action in Shot For Hire! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shot-for-hire-og.jpg",
+      "url": "https://littlegames.com/games/shot-for-hire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Shot For Hire - Play Free Now",
+      "description": "Join the action in Shot For Hire! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shot-for-hire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shot For Hire",
+      "href": "/games/shot-for-hire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_763",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

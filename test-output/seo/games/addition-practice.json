@@ -1,0 +1,54 @@
+{
+  "gameId": 1680,
+  "slug": "addition-practice",
+  "metadata": {
+    "title": "Free Addition Practice Game - Mind Bending Puzzles",
+    "description": "Addition Practice offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Addition Practice game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/addition-practice",
+    "openGraph": {
+      "title": "Free Addition Practice Game - Mind Bending Puzzles",
+      "description": "Addition Practice offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/addition-practice-og.jpg",
+      "url": "https://littlegames.com/games/addition-practice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Addition Practice Game - Mind Bending Puzzles",
+      "description": "Addition Practice offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/addition-practice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Addition Practice",
+      "href": "/games/addition-practice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_086",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

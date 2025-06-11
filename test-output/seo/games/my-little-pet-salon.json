@@ -1,0 +1,54 @@
+{
+  "gameId": 3468,
+  "slug": "my-little-pet-salon",
+  "metadata": {
+    "title": "Play My Little Pet Salon - Epic Adventure Game Online",
+    "description": "Start your epic journey with My Little Pet Salon! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "My Little Pet Salon",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/my-little-pet-salon",
+    "openGraph": {
+      "title": "Play My Little Pet Salon - Epic Adventure Game Online",
+      "description": "Start your epic journey with My Little Pet Salon! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/my-little-pet-salon-og.jpg",
+      "url": "https://littlegames.com/games/my-little-pet-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play My Little Pet Salon - Epic Adventure Game Online",
+      "description": "Start your epic journey with My Little Pet Salon! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/my-little-pet-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "My Little Pet Salon",
+      "href": "/games/my-little-pet-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_517",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

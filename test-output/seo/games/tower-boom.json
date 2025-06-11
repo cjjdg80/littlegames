@@ -1,0 +1,54 @@
+{
+  "gameId": 5423,
+  "slug": "tower-boom",
+  "metadata": {
+    "title": "Free Tower Boom Game - Action Packed Fun",
+    "description": "Experience thrilling action in Tower Boom! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Tower Boom",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tower-boom",
+    "openGraph": {
+      "title": "Free Tower Boom Game - Action Packed Fun",
+      "description": "Experience thrilling action in Tower Boom! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/tower-boom-og.jpg",
+      "url": "https://littlegames.com/games/tower-boom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tower Boom Game - Action Packed Fun",
+      "description": "Experience thrilling action in Tower Boom! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tower-boom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tower Boom",
+      "href": "/games/tower-boom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_119",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

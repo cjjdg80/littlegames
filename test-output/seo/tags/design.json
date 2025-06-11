@@ -1,0 +1,46 @@
+{
+  "tag": "design",
+  "displayName": "Design",
+  "metadata": {
+    "title": "Design Games - Play Free Online",
+    "description": "Discover amazing design games! Play 51 free games with design theme. No downloads required.",
+    "keywords": [
+      "design games",
+      "free online games",
+      "browser games",
+      "design theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/design",
+    "openGraph": {
+      "title": "Design Games - Free Online Gaming",
+      "description": "Play the best design games online for free. 51 games available.",
+      "image": "https://littlegames.com/images/tags/design-og.jpg",
+      "url": "https://littlegames.com/tags/design",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Design Games - Free Online",
+      "description": "Play 51 free design games online.",
+      "image": "https://littlegames.com/images/tags/design-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Design",
+      "href": "/tags/design",
+      "current": true
+    }
+  ],
+  "description": "Discover games with design theme! Our collection includes 51 carefully selected games that feature design elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

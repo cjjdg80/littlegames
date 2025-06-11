@@ -1,0 +1,54 @@
+{
+  "gameId": 9480,
+  "slug": "ball-mania",
+  "metadata": {
+    "title": "Action Game Ball Mania! - Play Free Now",
+    "description": "Ball Mania! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Ball Mania! online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ball-mania",
+    "openGraph": {
+      "title": "Action Game Ball Mania! - Play Free Now",
+      "description": "Ball Mania! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ball-mania-og.jpg",
+      "url": "https://littlegames.com/games/ball-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ball Mania! - Play Free Now",
+      "description": "Ball Mania! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ball-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ball Mania!",
+      "href": "/games/ball-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_886",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

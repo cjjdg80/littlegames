@@ -1,0 +1,54 @@
+{
+  "gameId": 9169,
+  "slug": "boxteria",
+  "metadata": {
+    "title": "Play Boxteria - Free Action Game Online",
+    "description": "Experience thrilling action in Boxteria! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Boxteria online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/boxteria",
+    "openGraph": {
+      "title": "Play Boxteria - Free Action Game Online",
+      "description": "Experience thrilling action in Boxteria! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/boxteria-og.jpg",
+      "url": "https://littlegames.com/games/boxteria",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Boxteria - Free Action Game Online",
+      "description": "Experience thrilling action in Boxteria! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/boxteria-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Boxteria",
+      "href": "/games/boxteria",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_245",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1174,
+  "slug": "super-buddy-run",
+  "metadata": {
+    "title": "Super Buddy Run Online - Explore and Discover",
+    "description": "Begin your quest in Super Buddy Run. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Super Buddy Run game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/super-buddy-run",
+    "openGraph": {
+      "title": "Super Buddy Run Online - Explore and Discover",
+      "description": "Begin your quest in Super Buddy Run. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-buddy-run-og.jpg",
+      "url": "https://littlegames.com/games/super-buddy-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Buddy Run Online - Explore and Discover",
+      "description": "Begin your quest in Super Buddy Run. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-buddy-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Buddy Run",
+      "href": "/games/super-buddy-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_403",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

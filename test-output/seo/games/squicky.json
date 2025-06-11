@@ -1,0 +1,54 @@
+{
+  "gameId": 5635,
+  "slug": "squicky",
+  "metadata": {
+    "title": "Squicky Online - Explore and Discover",
+    "description": "Start your epic journey with Squicky! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Squicky",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/squicky",
+    "openGraph": {
+      "title": "Squicky Online - Explore and Discover",
+      "description": "Start your epic journey with Squicky! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/squicky-og.jpg",
+      "url": "https://littlegames.com/games/squicky",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squicky Online - Explore and Discover",
+      "description": "Start your epic journey with Squicky! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/squicky-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Squicky",
+      "href": "/games/squicky",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_694",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

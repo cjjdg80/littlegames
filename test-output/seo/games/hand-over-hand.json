@@ -1,0 +1,54 @@
+{
+  "gameId": 8301,
+  "slug": "hand-over-hand",
+  "metadata": {
+    "title": "Hand Over Hand - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Hand Over Hand. This free online simulation game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Hand Over Hand game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hand-over-hand",
+    "openGraph": {
+      "title": "Hand Over Hand - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hand Over Hand. This free online simulation game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/hand-over-hand-og.jpg",
+      "url": "https://littlegames.com/games/hand-over-hand",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hand Over Hand - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hand Over Hand. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hand-over-hand-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Hand Over Hand",
+      "href": "/games/hand-over-hand",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_341",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6317,
+  "slug": "fruit-lines",
+  "metadata": {
+    "title": "Puzzle Game Fruit Lines - Test Your Skills",
+    "description": "Put your thinking skills to the test in Fruit Lines. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Fruit Lines game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-lines",
+    "openGraph": {
+      "title": "Puzzle Game Fruit Lines - Test Your Skills",
+      "description": "Put your thinking skills to the test in Fruit Lines. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fruit-lines-og.jpg",
+      "url": "https://littlegames.com/games/fruit-lines",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Fruit Lines - Test Your Skills",
+      "description": "Put your thinking skills to the test in Fruit Lines. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fruit-lines-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fruit Lines",
+      "href": "/games/fruit-lines",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_833",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

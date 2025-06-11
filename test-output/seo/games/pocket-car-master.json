@@ -1,0 +1,54 @@
+{
+  "gameId": 7890,
+  "slug": "pocket-car-master",
+  "metadata": {
+    "title": "Free Pocket Car Master Game - Action Packed Fun",
+    "description": "Pocket Car Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Pocket Car Master game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pocket-car-master",
+    "openGraph": {
+      "title": "Free Pocket Car Master Game - Action Packed Fun",
+      "description": "Pocket Car Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pocket-car-master-og.jpg",
+      "url": "https://littlegames.com/games/pocket-car-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pocket Car Master Game - Action Packed Fun",
+      "description": "Pocket Car Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pocket-car-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pocket Car Master",
+      "href": "/games/pocket-car-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_596",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

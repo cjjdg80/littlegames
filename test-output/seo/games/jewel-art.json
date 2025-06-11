@@ -1,0 +1,54 @@
+{
+  "gameId": 7245,
+  "slug": "jewel-art",
+  "metadata": {
+    "title": "Play Jewel Art - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Jewel Art. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Jewel Art",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jewel-art",
+    "openGraph": {
+      "title": "Play Jewel Art - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Jewel Art. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jewel-art-og.jpg",
+      "url": "https://littlegames.com/games/jewel-art",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jewel Art - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Jewel Art. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jewel-art-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jewel Art",
+      "href": "/games/jewel-art",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_601",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

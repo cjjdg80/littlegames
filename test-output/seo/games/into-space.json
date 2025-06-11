@@ -1,0 +1,54 @@
+{
+  "gameId": 4173,
+  "slug": "into-space",
+  "metadata": {
+    "title": "Into Space - Exciting Action Adventure Game",
+    "description": "Into Space delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Into Space",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/into-space",
+    "openGraph": {
+      "title": "Into Space - Exciting Action Adventure Game",
+      "description": "Into Space delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/into-space-og.jpg",
+      "url": "https://littlegames.com/games/into-space",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Into Space - Exciting Action Adventure Game",
+      "description": "Into Space delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/into-space-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Into Space",
+      "href": "/games/into-space",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_369",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

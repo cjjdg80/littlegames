@@ -1,0 +1,54 @@
+{
+  "gameId": 3530,
+  "slug": "strike-half",
+  "metadata": {
+    "title": "Strike Half Online - Ultimate Action Gaming Experience",
+    "description": "Strike Half delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Strike Half online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/strike-half",
+    "openGraph": {
+      "title": "Strike Half Online - Ultimate Action Gaming Experience",
+      "description": "Strike Half delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/strike-half-og.jpg",
+      "url": "https://littlegames.com/games/strike-half",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Strike Half Online - Ultimate Action Gaming Experience",
+      "description": "Strike Half delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/strike-half-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Strike Half",
+      "href": "/games/strike-half",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_436",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

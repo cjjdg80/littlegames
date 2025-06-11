@@ -1,0 +1,46 @@
+{
+  "tag": "2048",
+  "displayName": "2048",
+  "metadata": {
+    "title": "2048 Games - Play Free Online",
+    "description": "Discover amazing 2048 games! Play 114 free games with 2048 theme. No downloads required.",
+    "keywords": [
+      "2048 games",
+      "free online games",
+      "browser games",
+      "2048 theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/2048",
+    "openGraph": {
+      "title": "2048 Games - Free Online Gaming",
+      "description": "Play the best 2048 games online for free. 114 games available.",
+      "image": "https://littlegames.com/images/tags/2048-og.jpg",
+      "url": "https://littlegames.com/tags/2048",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2048 Games - Free Online",
+      "description": "Play 114 free 2048 games online.",
+      "image": "https://littlegames.com/images/tags/2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "2048",
+      "href": "/tags/2048",
+      "current": true
+    }
+  ],
+  "description": "Discover games with 2048 theme! Our collection includes 114 carefully selected games that feature 2048 elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

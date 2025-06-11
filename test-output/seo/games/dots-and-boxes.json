@@ -1,0 +1,54 @@
+{
+  "gameId": 7017,
+  "slug": "dots-and-boxes",
+  "metadata": {
+    "title": "Dots and Boxes Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Dots and Boxes. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Dots and Boxes game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dots-and-boxes",
+    "openGraph": {
+      "title": "Dots and Boxes Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Dots and Boxes. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/dots-and-boxes-og.jpg",
+      "url": "https://littlegames.com/games/dots-and-boxes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dots and Boxes Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Dots and Boxes. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dots-and-boxes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dots and Boxes",
+      "href": "/games/dots-and-boxes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_533",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

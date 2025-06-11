@@ -1,0 +1,54 @@
+{
+  "gameId": 8781,
+  "slug": "gladiator-fights",
+  "metadata": {
+    "title": "Gladiator Fights - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Gladiator Fights. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Gladiator Fights",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/gladiator-fights",
+    "openGraph": {
+      "title": "Gladiator Fights - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Gladiator Fights. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gladiator-fights-og.jpg",
+      "url": "https://littlegames.com/games/gladiator-fights",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gladiator Fights - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Gladiator Fights. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gladiator-fights-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gladiator Fights",
+      "href": "/games/gladiator-fights",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_217",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

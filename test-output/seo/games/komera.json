@@ -1,0 +1,54 @@
+{
+  "gameId": 7265,
+  "slug": "komera",
+  "metadata": {
+    "title": "Free Komera Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Komera. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Komera",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/komera",
+    "openGraph": {
+      "title": "Free Komera Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Komera. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/komera-og.jpg",
+      "url": "https://littlegames.com/games/komera",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Komera Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Komera. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/komera-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Komera",
+      "href": "/games/komera",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_221",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

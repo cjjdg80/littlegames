@@ -1,0 +1,54 @@
+{
+  "gameId": 3648,
+  "slug": "quizzing-measurement",
+  "metadata": {
+    "title": "Free Quizzing Measurement Game - Action Packed Fun",
+    "description": "Quizzing Measurement delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Quizzing Measurement game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/quizzing-measurement",
+    "openGraph": {
+      "title": "Free Quizzing Measurement Game - Action Packed Fun",
+      "description": "Quizzing Measurement delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/quizzing-measurement-og.jpg",
+      "url": "https://littlegames.com/games/quizzing-measurement",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Quizzing Measurement Game - Action Packed Fun",
+      "description": "Quizzing Measurement delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/quizzing-measurement-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Quizzing Measurement",
+      "href": "/games/quizzing-measurement",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_094",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

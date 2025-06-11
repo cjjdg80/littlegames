@@ -1,0 +1,54 @@
+{
+  "gameId": 7258,
+  "slug": "oh-my-goth",
+  "metadata": {
+    "title": "Oh My Goth - Exciting Action Adventure Game",
+    "description": "Join the action in Oh My Goth! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Oh My Goth",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/oh-my-goth",
+    "openGraph": {
+      "title": "Oh My Goth - Exciting Action Adventure Game",
+      "description": "Join the action in Oh My Goth! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/oh-my-goth-og.jpg",
+      "url": "https://littlegames.com/games/oh-my-goth",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Oh My Goth - Exciting Action Adventure Game",
+      "description": "Join the action in Oh My Goth! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/oh-my-goth-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Oh My Goth",
+      "href": "/games/oh-my-goth",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_004",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

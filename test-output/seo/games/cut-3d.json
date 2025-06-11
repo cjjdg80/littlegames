@@ -1,0 +1,54 @@
+{
+  "gameId": 6262,
+  "slug": "cut-3d",
+  "metadata": {
+    "title": "Cut 3D Online - Explore and Discover",
+    "description": "Begin your quest in Cut 3D. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Cut 3D online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/cut-3d",
+    "openGraph": {
+      "title": "Cut 3D Online - Explore and Discover",
+      "description": "Begin your quest in Cut 3D. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/cut-3d-og.jpg",
+      "url": "https://littlegames.com/games/cut-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cut 3D Online - Explore and Discover",
+      "description": "Begin your quest in Cut 3D. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/cut-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Cut 3D",
+      "href": "/games/cut-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_131",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

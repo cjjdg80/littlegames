@@ -1,0 +1,54 @@
+{
+  "gameId": 385,
+  "slug": "my-ice-cream-truck",
+  "metadata": {
+    "title": "My Ice Cream Truck - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in My Ice Cream Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "My Ice Cream Truck",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/my-ice-cream-truck",
+    "openGraph": {
+      "title": "My Ice Cream Truck - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in My Ice Cream Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/my-ice-cream-truck-og.jpg",
+      "url": "https://littlegames.com/games/my-ice-cream-truck",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Ice Cream Truck - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in My Ice Cream Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/my-ice-cream-truck-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "My Ice Cream Truck",
+      "href": "/games/my-ice-cream-truck",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_941",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

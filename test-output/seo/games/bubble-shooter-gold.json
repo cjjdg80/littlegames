@@ -1,0 +1,54 @@
+{
+  "gameId": 7148,
+  "slug": "bubble-shooter-gold",
+  "metadata": {
+    "title": "Free Bubble Shooter Gold Game - Action Packed Fun",
+    "description": "Experience thrilling action in Bubble Shooter Gold! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Bubble Shooter Gold online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-shooter-gold",
+    "openGraph": {
+      "title": "Free Bubble Shooter Gold Game - Action Packed Fun",
+      "description": "Experience thrilling action in Bubble Shooter Gold! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/bubble-shooter-gold-og.jpg",
+      "url": "https://littlegames.com/games/bubble-shooter-gold",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bubble Shooter Gold Game - Action Packed Fun",
+      "description": "Experience thrilling action in Bubble Shooter Gold! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/bubble-shooter-gold-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Shooter Gold",
+      "href": "/games/bubble-shooter-gold",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_594",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

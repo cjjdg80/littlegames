@@ -1,0 +1,54 @@
+{
+  "gameId": 6503,
+  "slug": "hexa-block-puzzle",
+  "metadata": {
+    "title": "Free Hexa Block Puzzle Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Hexa Block Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Hexa Block Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-block-puzzle",
+    "openGraph": {
+      "title": "Free Hexa Block Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Hexa Block Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hexa-block-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/hexa-block-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hexa Block Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Hexa Block Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hexa-block-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexa Block Puzzle",
+      "href": "/games/hexa-block-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_599",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

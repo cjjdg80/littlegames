@@ -1,0 +1,46 @@
+{
+  "tag": "coffee",
+  "displayName": "Coffee",
+  "metadata": {
+    "title": "Coffee Games - Play Free Online",
+    "description": "Discover amazing coffee games! Play 4 free games with coffee theme. No downloads required.",
+    "keywords": [
+      "coffee games",
+      "free online games",
+      "browser games",
+      "coffee theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/coffee",
+    "openGraph": {
+      "title": "Coffee Games - Free Online Gaming",
+      "description": "Play the best coffee games online for free. 4 games available.",
+      "image": "https://littlegames.com/images/tags/coffee-og.jpg",
+      "url": "https://littlegames.com/tags/coffee",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Coffee Games - Free Online",
+      "description": "Play 4 free coffee games online.",
+      "image": "https://littlegames.com/images/tags/coffee-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Coffee",
+      "href": "/tags/coffee",
+      "current": true
+    }
+  ],
+  "description": "Discover games with coffee theme! Our collection includes 4 carefully selected games that feature coffee elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1087,
+  "slug": "stack-jump",
+  "metadata": {
+    "title": "Stack Jump - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Stack Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Stack Jump",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stack-jump",
+    "openGraph": {
+      "title": "Stack Jump - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Stack Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/stack-jump-og.jpg",
+      "url": "https://littlegames.com/games/stack-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stack Jump - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Stack Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/stack-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stack Jump",
+      "href": "/games/stack-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_703",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

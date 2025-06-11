@@ -1,0 +1,54 @@
+{
+  "gameId": 8634,
+  "slug": "angry-flappy",
+  "metadata": {
+    "title": "Play Angry Flappy - Free Action Game Online",
+    "description": "Join the action in Angry Flappy! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Angry Flappy game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/angry-flappy",
+    "openGraph": {
+      "title": "Play Angry Flappy - Free Action Game Online",
+      "description": "Join the action in Angry Flappy! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/angry-flappy-og.jpg",
+      "url": "https://littlegames.com/games/angry-flappy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Angry Flappy - Free Action Game Online",
+      "description": "Join the action in Angry Flappy! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/angry-flappy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Angry Flappy",
+      "href": "/games/angry-flappy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_660",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

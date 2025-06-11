@@ -1,0 +1,54 @@
+{
+  "gameId": 2083,
+  "slug": "santa-weightlifter",
+  "metadata": {
+    "title": "Santa Weightlifter - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Santa Weightlifter. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "Santa Weightlifter online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/santa-weightlifter",
+    "openGraph": {
+      "title": "Santa Weightlifter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Santa Weightlifter. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/santa-weightlifter-og.jpg",
+      "url": "https://littlegames.com/games/santa-weightlifter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Weightlifter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Santa Weightlifter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/santa-weightlifter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Santa Weightlifter",
+      "href": "/games/santa-weightlifter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_579",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

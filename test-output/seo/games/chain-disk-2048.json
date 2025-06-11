@@ -1,0 +1,54 @@
+{
+  "gameId": 6563,
+  "slug": "chain-disk-2048",
+  "metadata": {
+    "title": "Chain Disk 2048 - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Chain Disk 2048. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Chain Disk 2048 game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/chain-disk-2048",
+    "openGraph": {
+      "title": "Chain Disk 2048 - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Chain Disk 2048. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/chain-disk-2048-og.jpg",
+      "url": "https://littlegames.com/games/chain-disk-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chain Disk 2048 - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Chain Disk 2048. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/chain-disk-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Chain Disk 2048",
+      "href": "/games/chain-disk-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_459",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

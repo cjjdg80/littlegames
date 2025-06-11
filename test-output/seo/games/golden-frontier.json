@@ -1,0 +1,54 @@
+{
+  "gameId": 8285,
+  "slug": "golden-frontier",
+  "metadata": {
+    "title": "Play Golden Frontier - Epic Adventure Game Online",
+    "description": "Start your epic journey with Golden Frontier! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Golden Frontier",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/golden-frontier",
+    "openGraph": {
+      "title": "Play Golden Frontier - Epic Adventure Game Online",
+      "description": "Start your epic journey with Golden Frontier! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/golden-frontier-og.jpg",
+      "url": "https://littlegames.com/games/golden-frontier",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Golden Frontier - Epic Adventure Game Online",
+      "description": "Start your epic journey with Golden Frontier! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/golden-frontier-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Golden Frontier",
+      "href": "/games/golden-frontier",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_844",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

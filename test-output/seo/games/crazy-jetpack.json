@@ -1,0 +1,54 @@
+{
+  "gameId": 4548,
+  "slug": "crazy-jetpack",
+  "metadata": {
+    "title": "Play Crazy Jetpack - Free Action Game Online",
+    "description": "Dive into the action-packed world of Crazy Jetpack. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Crazy Jetpack game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-jetpack",
+    "openGraph": {
+      "title": "Play Crazy Jetpack - Free Action Game Online",
+      "description": "Dive into the action-packed world of Crazy Jetpack. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/crazy-jetpack-og.jpg",
+      "url": "https://littlegames.com/games/crazy-jetpack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Crazy Jetpack - Free Action Game Online",
+      "description": "Dive into the action-packed world of Crazy Jetpack. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/crazy-jetpack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crazy Jetpack",
+      "href": "/games/crazy-jetpack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_994",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

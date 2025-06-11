@@ -1,0 +1,54 @@
+{
+  "gameId": 559,
+  "slug": "basketball-shoot",
+  "metadata": {
+    "title": "Play Basketball Shoot - Free Action Game Online",
+    "description": "Experience thrilling action in Basketball Shoot! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Basketball Shoot",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/basketball-shoot",
+    "openGraph": {
+      "title": "Play Basketball Shoot - Free Action Game Online",
+      "description": "Experience thrilling action in Basketball Shoot! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/basketball-shoot-og.jpg",
+      "url": "https://littlegames.com/games/basketball-shoot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Basketball Shoot - Free Action Game Online",
+      "description": "Experience thrilling action in Basketball Shoot! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/basketball-shoot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basketball Shoot",
+      "href": "/games/basketball-shoot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_335",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

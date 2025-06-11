@@ -1,0 +1,54 @@
+{
+  "gameId": 3247,
+  "slug": "fruit-doctor",
+  "metadata": {
+    "title": "Play Fruit Doctor - Free Action Game Online",
+    "description": "Fruit Doctor delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Fruit Doctor game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-doctor",
+    "openGraph": {
+      "title": "Play Fruit Doctor - Free Action Game Online",
+      "description": "Fruit Doctor delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fruit-doctor-og.jpg",
+      "url": "https://littlegames.com/games/fruit-doctor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fruit Doctor - Free Action Game Online",
+      "description": "Fruit Doctor delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fruit-doctor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fruit Doctor",
+      "href": "/games/fruit-doctor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_663",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

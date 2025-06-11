@@ -1,0 +1,54 @@
+{
+  "gameId": 5231,
+  "slug": "spill-wine",
+  "metadata": {
+    "title": "Free Spill Wine Game - Action Packed Fun",
+    "description": "Spill Wine delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Spill Wine game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/spill-wine",
+    "openGraph": {
+      "title": "Free Spill Wine Game - Action Packed Fun",
+      "description": "Spill Wine delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/spill-wine-og.jpg",
+      "url": "https://littlegames.com/games/spill-wine",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Spill Wine Game - Action Packed Fun",
+      "description": "Spill Wine delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/spill-wine-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Spill Wine",
+      "href": "/games/spill-wine",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_167",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

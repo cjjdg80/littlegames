@@ -1,0 +1,54 @@
+{
+  "gameId": 5943,
+  "slug": "astro-race",
+  "metadata": {
+    "title": "Astro Race Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Astro Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Astro Race",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/astro-race",
+    "openGraph": {
+      "title": "Astro Race Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Astro Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/astro-race-og.jpg",
+      "url": "https://littlegames.com/games/astro-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Astro Race Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Astro Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/astro-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Astro Race",
+      "href": "/games/astro-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_239",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5102,
+  "slug": "axel-dungeon",
+  "metadata": {
+    "title": "Action Game Axel Dungeon - Play Free Now",
+    "description": "Dive into the action-packed world of Axel Dungeon. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Axel Dungeon",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/axel-dungeon",
+    "openGraph": {
+      "title": "Action Game Axel Dungeon - Play Free Now",
+      "description": "Dive into the action-packed world of Axel Dungeon. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/axel-dungeon-og.jpg",
+      "url": "https://littlegames.com/games/axel-dungeon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Axel Dungeon - Play Free Now",
+      "description": "Dive into the action-packed world of Axel Dungeon. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/axel-dungeon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Axel Dungeon",
+      "href": "/games/axel-dungeon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_168",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

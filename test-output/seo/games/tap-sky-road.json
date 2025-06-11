@@ -1,0 +1,54 @@
+{
+  "gameId": 7176,
+  "slug": "tap-sky-road",
+  "metadata": {
+    "title": "Tap Sky Road Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Tap Sky Road! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Tap Sky Road online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tap-sky-road",
+    "openGraph": {
+      "title": "Tap Sky Road Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Tap Sky Road! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/tap-sky-road-og.jpg",
+      "url": "https://littlegames.com/games/tap-sky-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tap Sky Road Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Tap Sky Road! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tap-sky-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tap Sky Road",
+      "href": "/games/tap-sky-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_462",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

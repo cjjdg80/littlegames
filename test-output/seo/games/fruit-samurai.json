@@ -1,0 +1,54 @@
+{
+  "gameId": 772,
+  "slug": "fruit-samurai",
+  "metadata": {
+    "title": "Free Fruit Samurai Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Fruit Samurai. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Fruit Samurai",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-samurai",
+    "openGraph": {
+      "title": "Free Fruit Samurai Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Fruit Samurai. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fruit-samurai-og.jpg",
+      "url": "https://littlegames.com/games/fruit-samurai",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Fruit Samurai Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Fruit Samurai. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fruit-samurai-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fruit Samurai",
+      "href": "/games/fruit-samurai",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_938",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4582,
+  "slug": "overloaded-bus",
+  "metadata": {
+    "title": "Free Overloaded Bus Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Overloaded Bus. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Overloaded Bus game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/overloaded-bus",
+    "openGraph": {
+      "title": "Free Overloaded Bus Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Overloaded Bus. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/overloaded-bus-og.jpg",
+      "url": "https://littlegames.com/games/overloaded-bus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Overloaded Bus Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Overloaded Bus. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/overloaded-bus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Overloaded Bus",
+      "href": "/games/overloaded-bus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_048",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 960,
+  "slug": "dino-run-adventure",
+  "metadata": {
+    "title": "Dino Run Adventure Online - Explore and Discover",
+    "description": "Dino Run Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Dino Run Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/dino-run-adventure",
+    "openGraph": {
+      "title": "Dino Run Adventure Online - Explore and Discover",
+      "description": "Dino Run Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/dino-run-adventure-og.jpg",
+      "url": "https://littlegames.com/games/dino-run-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dino Run Adventure Online - Explore and Discover",
+      "description": "Dino Run Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/dino-run-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dino Run Adventure",
+      "href": "/games/dino-run-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_769",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

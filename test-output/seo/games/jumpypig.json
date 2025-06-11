@@ -1,0 +1,54 @@
+{
+  "gameId": 4762,
+  "slug": "jumpypig",
+  "metadata": {
+    "title": "Action Game JumpyPig - Play Free Now",
+    "description": "JumpyPig delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play JumpyPig",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jumpypig",
+    "openGraph": {
+      "title": "Action Game JumpyPig - Play Free Now",
+      "description": "JumpyPig delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumpypig-og.jpg",
+      "url": "https://littlegames.com/games/jumpypig",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game JumpyPig - Play Free Now",
+      "description": "JumpyPig delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumpypig-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "JumpyPig",
+      "href": "/games/jumpypig",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_628",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

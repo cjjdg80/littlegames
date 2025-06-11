@@ -1,0 +1,54 @@
+{
+  "gameId": 1670,
+  "slug": "warrior-monster",
+  "metadata": {
+    "title": "Warrior Monster Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Warrior Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Warrior Monster",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/warrior-monster",
+    "openGraph": {
+      "title": "Warrior Monster Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Warrior Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/warrior-monster-og.jpg",
+      "url": "https://littlegames.com/games/warrior-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Warrior Monster Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Warrior Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/warrior-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Warrior Monster",
+      "href": "/games/warrior-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_776",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

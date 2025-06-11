@@ -1,0 +1,54 @@
+{
+  "gameId": 5001,
+  "slug": "tic-tac-toe",
+  "metadata": {
+    "title": "Action Game Tic tac toe - Play Free Now",
+    "description": "Tic tac toe delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Tic tac toe online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tic-tac-toe",
+    "openGraph": {
+      "title": "Action Game Tic tac toe - Play Free Now",
+      "description": "Tic tac toe delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tic-tac-toe-og.jpg",
+      "url": "https://littlegames.com/games/tic-tac-toe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tic tac toe - Play Free Now",
+      "description": "Tic tac toe delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tic-tac-toe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tic tac toe",
+      "href": "/games/tic-tac-toe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_037",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9885,
+  "slug": "sustainable",
+  "metadata": {
+    "title": "Play SuStainable - Free Action Game Online",
+    "description": "Experience thrilling action in SuStainable! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "SuStainable",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/sustainable",
+    "openGraph": {
+      "title": "Play SuStainable - Free Action Game Online",
+      "description": "Experience thrilling action in SuStainable! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/sustainable-og.jpg",
+      "url": "https://littlegames.com/games/sustainable",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play SuStainable - Free Action Game Online",
+      "description": "Experience thrilling action in SuStainable! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sustainable-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "SuStainable",
+      "href": "/games/sustainable",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_441",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

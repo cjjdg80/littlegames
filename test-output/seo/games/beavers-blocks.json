@@ -1,0 +1,54 @@
+{
+  "gameId": 6034,
+  "slug": "beavers-blocks",
+  "metadata": {
+    "title": "Beaver's Blocks - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Beaver's Blocks. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Beaver's Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/beavers-blocks",
+    "openGraph": {
+      "title": "Beaver's Blocks - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Beaver's Blocks. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/beavers-blocks-og.jpg",
+      "url": "https://littlegames.com/games/beavers-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Beaver's Blocks - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Beaver's Blocks. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/beavers-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Beaver's Blocks",
+      "href": "/games/beavers-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_060",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

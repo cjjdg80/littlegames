@@ -1,0 +1,54 @@
+{
+  "gameId": 1213,
+  "slug": "the-angler",
+  "metadata": {
+    "title": "The Angler - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of The Angler. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play The Angler",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/the-angler",
+    "openGraph": {
+      "title": "The Angler - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of The Angler. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/the-angler-og.jpg",
+      "url": "https://littlegames.com/games/the-angler",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Angler - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of The Angler. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/the-angler-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "The Angler",
+      "href": "/games/the-angler",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_609",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

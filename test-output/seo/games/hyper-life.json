@@ -1,0 +1,54 @@
+{
+  "gameId": 2049,
+  "slug": "hyper-life",
+  "metadata": {
+    "title": "Free Hyper Life Game - Action Packed Fun",
+    "description": "Hyper Life delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Hyper Life",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/hyper-life",
+    "openGraph": {
+      "title": "Free Hyper Life Game - Action Packed Fun",
+      "description": "Hyper Life delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hyper-life-og.jpg",
+      "url": "https://littlegames.com/games/hyper-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hyper Life Game - Action Packed Fun",
+      "description": "Hyper Life delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hyper-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hyper Life",
+      "href": "/games/hyper-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_525",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

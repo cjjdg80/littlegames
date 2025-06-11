@@ -1,0 +1,54 @@
+{
+  "gameId": 2193,
+  "slug": "bubble-shooter",
+  "metadata": {
+    "title": "Bubble Shooter Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Bubble Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Bubble Shooter",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-shooter",
+    "openGraph": {
+      "title": "Bubble Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bubble Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-shooter-og.jpg",
+      "url": "https://littlegames.com/games/bubble-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bubble Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Shooter",
+      "href": "/games/bubble-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_989",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

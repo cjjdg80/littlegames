@@ -1,0 +1,46 @@
+{
+  "tag": "biker",
+  "displayName": "Biker",
+  "metadata": {
+    "title": "Biker Games - Play Free Online",
+    "description": "Discover amazing biker games! Play 38 free games with biker theme. No downloads required.",
+    "keywords": [
+      "biker games",
+      "free online games",
+      "browser games",
+      "biker theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/biker",
+    "openGraph": {
+      "title": "Biker Games - Free Online Gaming",
+      "description": "Play the best biker games online for free. 38 games available.",
+      "image": "https://littlegames.com/images/tags/biker-og.jpg",
+      "url": "https://littlegames.com/tags/biker",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Biker Games - Free Online",
+      "description": "Play 38 free biker games online.",
+      "image": "https://littlegames.com/images/tags/biker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Biker",
+      "href": "/tags/biker",
+      "current": true
+    }
+  ],
+  "description": "Discover games with biker theme! Our collection includes 38 carefully selected games that feature biker elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

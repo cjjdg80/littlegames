@@ -1,0 +1,54 @@
+{
+  "gameId": 5965,
+  "slug": "tappy-driver",
+  "metadata": {
+    "title": "Tappy Driver Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Tappy Driver! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Tappy Driver",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/tappy-driver",
+    "openGraph": {
+      "title": "Tappy Driver Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Tappy Driver! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tappy-driver-og.jpg",
+      "url": "https://littlegames.com/games/tappy-driver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tappy Driver Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Tappy Driver! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tappy-driver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tappy Driver",
+      "href": "/games/tappy-driver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_921",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "monster",
+  "displayName": "Monster",
+  "metadata": {
+    "title": "Monster Games - Play Free Online",
+    "description": "Discover amazing monster games! Play 107 free games with monster theme. No downloads required.",
+    "keywords": [
+      "monster games",
+      "free online games",
+      "browser games",
+      "monster theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/monster",
+    "openGraph": {
+      "title": "Monster Games - Free Online Gaming",
+      "description": "Play the best monster games online for free. 107 games available.",
+      "image": "https://littlegames.com/images/tags/monster-og.jpg",
+      "url": "https://littlegames.com/tags/monster",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Games - Free Online",
+      "description": "Play 107 free monster games online.",
+      "image": "https://littlegames.com/images/tags/monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Monster",
+      "href": "/tags/monster",
+      "current": true
+    }
+  ],
+  "description": "Discover games with monster theme! Our collection includes 107 carefully selected games that feature monster elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

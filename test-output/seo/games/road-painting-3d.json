@@ -1,0 +1,54 @@
+{
+  "gameId": 5213,
+  "slug": "road-painting-3d",
+  "metadata": {
+    "title": "Road Painting 3D - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Road Painting 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Road Painting 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/road-painting-3d",
+    "openGraph": {
+      "title": "Road Painting 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Road Painting 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/road-painting-3d-og.jpg",
+      "url": "https://littlegames.com/games/road-painting-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Road Painting 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Road Painting 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/road-painting-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Road Painting 3D",
+      "href": "/games/road-painting-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_609",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

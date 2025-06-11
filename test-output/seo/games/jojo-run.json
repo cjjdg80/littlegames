@@ -1,0 +1,54 @@
+{
+  "gameId": 616,
+  "slug": "jojo-run",
+  "metadata": {
+    "title": "JoJo Run Online - Explore and Discover",
+    "description": "Start your epic journey with JoJo Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "JoJo Run online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/jojo-run",
+    "openGraph": {
+      "title": "JoJo Run Online - Explore and Discover",
+      "description": "Start your epic journey with JoJo Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/jojo-run-og.jpg",
+      "url": "https://littlegames.com/games/jojo-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "JoJo Run Online - Explore and Discover",
+      "description": "Start your epic journey with JoJo Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/jojo-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "JoJo Run",
+      "href": "/games/jojo-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_105",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

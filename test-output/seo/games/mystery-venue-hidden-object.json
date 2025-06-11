@@ -1,0 +1,54 @@
+{
+  "gameId": 3419,
+  "slug": "mystery-venue-hidden-object",
+  "metadata": {
+    "title": "Free Mystery Venue Hidden Object Game - Adventure Awaits",
+    "description": "Discover new worlds in Mystery Venue Hidden Object. This exciting adventure game offers instant browser play and provides endless exploration opportunities....",
+    "keywords": [
+      "Mystery Venue Hidden Object game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/mystery-venue-hidden-object",
+    "openGraph": {
+      "title": "Free Mystery Venue Hidden Object Game - Adventure Awaits",
+      "description": "Discover new worlds in Mystery Venue Hidden Object. This exciting adventure game offers instant browser play and provides endless exploration opportunities....",
+      "image": "https://littlegames.com/images/games/mystery-venue-hidden-object-og.jpg",
+      "url": "https://littlegames.com/games/mystery-venue-hidden-object",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mystery Venue Hidden Object Game - Adventure Awaits",
+      "description": "Discover new worlds in Mystery Venue Hidden Object. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/mystery-venue-hidden-object-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mystery Venue Hidden Object",
+      "href": "/games/mystery-venue-hidden-object",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_998",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

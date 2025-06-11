@@ -1,0 +1,54 @@
+{
+  "gameId": 4643,
+  "slug": "find-the-fish",
+  "metadata": {
+    "title": "Action Game Find The Fish - Play Free Now",
+    "description": "Dive into the action-packed world of Find The Fish. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Find The Fish online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-fish",
+    "openGraph": {
+      "title": "Action Game Find The Fish - Play Free Now",
+      "description": "Dive into the action-packed world of Find The Fish. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/find-the-fish-og.jpg",
+      "url": "https://littlegames.com/games/find-the-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Find The Fish - Play Free Now",
+      "description": "Dive into the action-packed world of Find The Fish. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/find-the-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Find The Fish",
+      "href": "/games/find-the-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_939",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

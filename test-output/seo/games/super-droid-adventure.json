@@ -1,0 +1,54 @@
+{
+  "gameId": 6139,
+  "slug": "super-droid-adventure",
+  "metadata": {
+    "title": "Super Droid Adventure - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Super Droid Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+    "keywords": [
+      "adventure games",
+      "Super Droid Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-droid-adventure",
+    "openGraph": {
+      "title": "Super Droid Adventure - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Super Droid Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+      "image": "https://littlegames.com/images/games/super-droid-adventure-og.jpg",
+      "url": "https://littlegames.com/games/super-droid-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Droid Adventure - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Super Droid Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/super-droid-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Droid Adventure",
+      "href": "/games/super-droid-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_318",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

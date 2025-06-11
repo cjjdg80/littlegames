@@ -1,0 +1,54 @@
+{
+  "gameId": 3169,
+  "slug": "find-pair",
+  "metadata": {
+    "title": "Action Game Find Pair - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Find Pair. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Find Pair online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/find-pair",
+    "openGraph": {
+      "title": "Action Game Find Pair - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Find Pair. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/find-pair-og.jpg",
+      "url": "https://littlegames.com/games/find-pair",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Find Pair - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Find Pair. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/find-pair-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Find Pair",
+      "href": "/games/find-pair",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_245",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

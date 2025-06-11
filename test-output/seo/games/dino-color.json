@@ -1,0 +1,54 @@
+{
+  "gameId": 1710,
+  "slug": "dino-color",
+  "metadata": {
+    "title": "Play Dino Color - Free Action Game Online",
+    "description": "Experience thrilling action in Dino Color! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Dino Color online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dino-color",
+    "openGraph": {
+      "title": "Play Dino Color - Free Action Game Online",
+      "description": "Experience thrilling action in Dino Color! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/dino-color-og.jpg",
+      "url": "https://littlegames.com/games/dino-color",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Dino Color - Free Action Game Online",
+      "description": "Experience thrilling action in Dino Color! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/dino-color-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dino Color",
+      "href": "/games/dino-color",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_016",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

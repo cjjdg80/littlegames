@@ -1,0 +1,54 @@
+{
+  "gameId": 541,
+  "slug": "ninja-run",
+  "metadata": {
+    "title": "Ninja Run - Exciting Action Adventure Game",
+    "description": "Join the action in Ninja Run! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Ninja Run online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-run",
+    "openGraph": {
+      "title": "Ninja Run - Exciting Action Adventure Game",
+      "description": "Join the action in Ninja Run! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ninja-run-og.jpg",
+      "url": "https://littlegames.com/games/ninja-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Run - Exciting Action Adventure Game",
+      "description": "Join the action in Ninja Run! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ninja-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ninja Run",
+      "href": "/games/ninja-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_777",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

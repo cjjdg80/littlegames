@@ -1,0 +1,54 @@
+{
+  "gameId": 5157,
+  "slug": "mahjong-alchemy",
+  "metadata": {
+    "title": "Mahjong Alchemy - Exciting Action Adventure Game",
+    "description": "Join the action in Mahjong Alchemy! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mahjong Alchemy online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-alchemy",
+    "openGraph": {
+      "title": "Mahjong Alchemy - Exciting Action Adventure Game",
+      "description": "Join the action in Mahjong Alchemy! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-alchemy-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-alchemy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong Alchemy - Exciting Action Adventure Game",
+      "description": "Join the action in Mahjong Alchemy! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-alchemy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Alchemy",
+      "href": "/games/mahjong-alchemy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_873",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4475,
+  "slug": "linez",
+  "metadata": {
+    "title": "Linez! - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Linez!. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Linez! game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/linez",
+    "openGraph": {
+      "title": "Linez! - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Linez!. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/linez-og.jpg",
+      "url": "https://littlegames.com/games/linez",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Linez! - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Linez!. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/linez-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Linez!",
+      "href": "/games/linez",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_731",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

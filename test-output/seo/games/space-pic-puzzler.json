@@ -1,0 +1,54 @@
+{
+  "gameId": 1940,
+  "slug": "space-pic-puzzler",
+  "metadata": {
+    "title": "Space Pic Puzzler - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Space Pic Puzzler. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Space Pic Puzzler game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/space-pic-puzzler",
+    "openGraph": {
+      "title": "Space Pic Puzzler - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Space Pic Puzzler. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/space-pic-puzzler-og.jpg",
+      "url": "https://littlegames.com/games/space-pic-puzzler",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Space Pic Puzzler - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Space Pic Puzzler. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/space-pic-puzzler-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Space Pic Puzzler",
+      "href": "/games/space-pic-puzzler",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_146",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

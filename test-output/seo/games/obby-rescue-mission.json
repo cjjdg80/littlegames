@@ -1,0 +1,54 @@
+{
+  "gameId": 8886,
+  "slug": "obby-rescue-mission",
+  "metadata": {
+    "title": "Play Obby Rescue Mission - Epic Adventure Game Online",
+    "description": "Obby Rescue Mission offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "adventure games",
+      "Obby Rescue Mission",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/obby-rescue-mission",
+    "openGraph": {
+      "title": "Play Obby Rescue Mission - Epic Adventure Game Online",
+      "description": "Obby Rescue Mission offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/obby-rescue-mission-og.jpg",
+      "url": "https://littlegames.com/games/obby-rescue-mission",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Obby Rescue Mission - Epic Adventure Game Online",
+      "description": "Obby Rescue Mission offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/obby-rescue-mission-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Obby Rescue Mission",
+      "href": "/games/obby-rescue-mission",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_475",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

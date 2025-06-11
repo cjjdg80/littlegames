@@ -1,0 +1,54 @@
+{
+  "gameId": 3069,
+  "slug": "candy-burst",
+  "metadata": {
+    "title": "Puzzle Game Candy Burst - Test Your Skills",
+    "description": "Challenge your mind with Candy Burst! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Candy Burst online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/candy-burst",
+    "openGraph": {
+      "title": "Puzzle Game Candy Burst - Test Your Skills",
+      "description": "Challenge your mind with Candy Burst! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-burst-og.jpg",
+      "url": "https://littlegames.com/games/candy-burst",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Candy Burst - Test Your Skills",
+      "description": "Challenge your mind with Candy Burst! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-burst-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Candy Burst",
+      "href": "/games/candy-burst",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_145",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

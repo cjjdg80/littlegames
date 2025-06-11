@@ -1,0 +1,54 @@
+{
+  "gameId": 6348,
+  "slug": "mangavania",
+  "metadata": {
+    "title": "Play Mangavania - Epic Adventure Game Online",
+    "description": "Begin your quest in Mangavania. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Mangavania",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/mangavania",
+    "openGraph": {
+      "title": "Play Mangavania - Epic Adventure Game Online",
+      "description": "Begin your quest in Mangavania. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/mangavania-og.jpg",
+      "url": "https://littlegames.com/games/mangavania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mangavania - Epic Adventure Game Online",
+      "description": "Begin your quest in Mangavania. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/mangavania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mangavania",
+      "href": "/games/mangavania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_797",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

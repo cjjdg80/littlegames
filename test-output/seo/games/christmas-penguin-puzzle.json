@@ -1,0 +1,54 @@
+{
+  "gameId": 2194,
+  "slug": "christmas-penguin-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Christmas Penguin Puzzle - Test Your Skills",
+    "description": "Put your thinking skills to the test in Christmas Penguin Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Christmas Penguin Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-penguin-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Christmas Penguin Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Christmas Penguin Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/christmas-penguin-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/christmas-penguin-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Christmas Penguin Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Christmas Penguin Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/christmas-penguin-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Christmas Penguin Puzzle",
+      "href": "/games/christmas-penguin-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_020",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

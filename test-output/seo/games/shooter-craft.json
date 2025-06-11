@@ -1,0 +1,54 @@
+{
+  "gameId": 5402,
+  "slug": "shooter-craft",
+  "metadata": {
+    "title": "Action Game Shooter Craft - Play Free Now",
+    "description": "Experience thrilling action in Shooter Craft! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Shooter Craft",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shooter-craft",
+    "openGraph": {
+      "title": "Action Game Shooter Craft - Play Free Now",
+      "description": "Experience thrilling action in Shooter Craft! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/shooter-craft-og.jpg",
+      "url": "https://littlegames.com/games/shooter-craft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Shooter Craft - Play Free Now",
+      "description": "Experience thrilling action in Shooter Craft! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/shooter-craft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shooter Craft",
+      "href": "/games/shooter-craft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_468",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2266,
+  "slug": "stacky-run",
+  "metadata": {
+    "title": "Action Game Stacky Run - Play Free Now",
+    "description": "Dive into the action-packed world of Stacky Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Stacky Run",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stacky-run",
+    "openGraph": {
+      "title": "Action Game Stacky Run - Play Free Now",
+      "description": "Dive into the action-packed world of Stacky Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stacky-run-og.jpg",
+      "url": "https://littlegames.com/games/stacky-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Stacky Run - Play Free Now",
+      "description": "Dive into the action-packed world of Stacky Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stacky-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stacky Run",
+      "href": "/games/stacky-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_252",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

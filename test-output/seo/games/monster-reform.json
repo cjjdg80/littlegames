@@ -1,0 +1,54 @@
+{
+  "gameId": 6190,
+  "slug": "monster-reform",
+  "metadata": {
+    "title": "Monster Reform Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Monster Reform! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Monster Reform game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/monster-reform",
+    "openGraph": {
+      "title": "Monster Reform Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Monster Reform! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/monster-reform-og.jpg",
+      "url": "https://littlegames.com/games/monster-reform",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Reform Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Monster Reform! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/monster-reform-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Monster Reform",
+      "href": "/games/monster-reform",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_896",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

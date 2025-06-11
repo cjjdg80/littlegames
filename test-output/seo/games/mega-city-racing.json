@@ -1,0 +1,54 @@
+{
+  "gameId": 2687,
+  "slug": "mega-city-racing",
+  "metadata": {
+    "title": "Free Mega City Racing Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Mega City Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Mega City Racing",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mega-city-racing",
+    "openGraph": {
+      "title": "Free Mega City Racing Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Mega City Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mega-city-racing-og.jpg",
+      "url": "https://littlegames.com/games/mega-city-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mega City Racing Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Mega City Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mega-city-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mega City Racing",
+      "href": "/games/mega-city-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_303",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

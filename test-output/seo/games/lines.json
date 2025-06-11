@@ -1,0 +1,54 @@
+{
+  "gameId": 2212,
+  "slug": "lines",
+  "metadata": {
+    "title": "Puzzle Game Lines - Test Your Skills",
+    "description": "Sharpen your mind with Lines! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Lines",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/lines",
+    "openGraph": {
+      "title": "Puzzle Game Lines - Test Your Skills",
+      "description": "Sharpen your mind with Lines! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/lines-og.jpg",
+      "url": "https://littlegames.com/games/lines",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Lines - Test Your Skills",
+      "description": "Sharpen your mind with Lines! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/lines-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Lines",
+      "href": "/games/lines",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_578",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

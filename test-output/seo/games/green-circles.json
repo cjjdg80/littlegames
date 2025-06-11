@@ -1,0 +1,54 @@
+{
+  "gameId": 3195,
+  "slug": "green-circles",
+  "metadata": {
+    "title": "Green Circles - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Green Circles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Green Circles",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/green-circles",
+    "openGraph": {
+      "title": "Green Circles - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Green Circles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/green-circles-og.jpg",
+      "url": "https://littlegames.com/games/green-circles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Green Circles - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Green Circles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/green-circles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Green Circles",
+      "href": "/games/green-circles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_051",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

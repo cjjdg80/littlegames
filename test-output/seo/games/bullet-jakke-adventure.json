@@ -1,0 +1,54 @@
+{
+  "gameId": 3451,
+  "slug": "bullet-jakke-adventure",
+  "metadata": {
+    "title": "Bullet Jakke Adventure Online - Explore and Discover",
+    "description": "Begin your quest in Bullet Jakke Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Bullet Jakke Adventure online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-jakke-adventure",
+    "openGraph": {
+      "title": "Bullet Jakke Adventure Online - Explore and Discover",
+      "description": "Begin your quest in Bullet Jakke Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/bullet-jakke-adventure-og.jpg",
+      "url": "https://littlegames.com/games/bullet-jakke-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bullet Jakke Adventure Online - Explore and Discover",
+      "description": "Begin your quest in Bullet Jakke Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/bullet-jakke-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Bullet Jakke Adventure",
+      "href": "/games/bullet-jakke-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_990",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

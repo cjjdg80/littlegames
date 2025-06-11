@@ -1,0 +1,54 @@
+{
+  "gameId": 1167,
+  "slug": "mini-golf-adventure",
+  "metadata": {
+    "title": "Free Mini Golf Adventure Game - Adventure Awaits",
+    "description": "Start your epic journey with Mini Golf Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Mini Golf Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/mini-golf-adventure",
+    "openGraph": {
+      "title": "Free Mini Golf Adventure Game - Adventure Awaits",
+      "description": "Start your epic journey with Mini Golf Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/mini-golf-adventure-og.jpg",
+      "url": "https://littlegames.com/games/mini-golf-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mini Golf Adventure Game - Adventure Awaits",
+      "description": "Start your epic journey with Mini Golf Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/mini-golf-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mini Golf Adventure",
+      "href": "/games/mini-golf-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_186",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

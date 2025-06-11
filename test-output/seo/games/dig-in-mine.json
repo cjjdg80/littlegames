@@ -1,0 +1,54 @@
+{
+  "gameId": 7155,
+  "slug": "dig-in-mine",
+  "metadata": {
+    "title": "Play Dig In Mine - Free Action Game Online",
+    "description": "Join the action in Dig In Mine! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Dig In Mine game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dig-in-mine",
+    "openGraph": {
+      "title": "Play Dig In Mine - Free Action Game Online",
+      "description": "Join the action in Dig In Mine! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dig-in-mine-og.jpg",
+      "url": "https://littlegames.com/games/dig-in-mine",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Dig In Mine - Free Action Game Online",
+      "description": "Join the action in Dig In Mine! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dig-in-mine-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dig In Mine",
+      "href": "/games/dig-in-mine",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_811",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4745,
+  "slug": "stickman-warriors",
+  "metadata": {
+    "title": "Adventure Game Stickman Warriors - Journey Begins",
+    "description": "Embark on an epic journey in Stickman Warriors! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "Stickman Warriors online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-warriors",
+    "openGraph": {
+      "title": "Adventure Game Stickman Warriors - Journey Begins",
+      "description": "Embark on an epic journey in Stickman Warriors! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/stickman-warriors-og.jpg",
+      "url": "https://littlegames.com/games/stickman-warriors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Stickman Warriors - Journey Begins",
+      "description": "Embark on an epic journey in Stickman Warriors! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-warriors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stickman Warriors",
+      "href": "/games/stickman-warriors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_104",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

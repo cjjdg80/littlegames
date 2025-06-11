@@ -1,0 +1,54 @@
+{
+  "gameId": 5085,
+  "slug": "idle-lumber-hero",
+  "metadata": {
+    "title": "Play Idle Lumber Hero - Free Action Game Online",
+    "description": "Idle Lumber Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "play Idle Lumber Hero",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-lumber-hero",
+    "openGraph": {
+      "title": "Play Idle Lumber Hero - Free Action Game Online",
+      "description": "Idle Lumber Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/idle-lumber-hero-og.jpg",
+      "url": "https://littlegames.com/games/idle-lumber-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Idle Lumber Hero - Free Action Game Online",
+      "description": "Idle Lumber Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/idle-lumber-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Lumber Hero",
+      "href": "/games/idle-lumber-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_645",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

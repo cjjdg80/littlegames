@@ -1,0 +1,54 @@
+{
+  "gameId": 8879,
+  "slug": "zombie-idle-defense",
+  "metadata": {
+    "title": "Zombie Idle Defense - Thrilling Adventure Quest",
+    "description": "Begin your quest in Zombie Idle Defense. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Zombie Idle Defense game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-idle-defense",
+    "openGraph": {
+      "title": "Zombie Idle Defense - Thrilling Adventure Quest",
+      "description": "Begin your quest in Zombie Idle Defense. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/zombie-idle-defense-og.jpg",
+      "url": "https://littlegames.com/games/zombie-idle-defense",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombie Idle Defense - Thrilling Adventure Quest",
+      "description": "Begin your quest in Zombie Idle Defense. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/zombie-idle-defense-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Zombie Idle Defense",
+      "href": "/games/zombie-idle-defense",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_258",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

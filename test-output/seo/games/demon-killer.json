@@ -1,0 +1,54 @@
+{
+  "gameId": 3529,
+  "slug": "demon-killer",
+  "metadata": {
+    "title": "Demon Killer Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Demon Killer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Demon Killer",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/demon-killer",
+    "openGraph": {
+      "title": "Demon Killer Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Demon Killer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/demon-killer-og.jpg",
+      "url": "https://littlegames.com/games/demon-killer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Demon Killer Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Demon Killer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/demon-killer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Demon Killer",
+      "href": "/games/demon-killer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_405",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

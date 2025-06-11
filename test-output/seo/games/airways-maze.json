@@ -1,0 +1,54 @@
+{
+  "gameId": 8427,
+  "slug": "airways-maze",
+  "metadata": {
+    "title": "Airways Maze Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Airways Maze. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Airways Maze game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/airways-maze",
+    "openGraph": {
+      "title": "Airways Maze Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Airways Maze. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/airways-maze-og.jpg",
+      "url": "https://littlegames.com/games/airways-maze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Airways Maze Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Airways Maze. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/airways-maze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Airways Maze",
+      "href": "/games/airways-maze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_243",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

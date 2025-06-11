@@ -1,0 +1,54 @@
+{
+  "gameId": 5333,
+  "slug": "ship-invaders",
+  "metadata": {
+    "title": "Ship Invaders Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Ship Invaders! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Ship Invaders",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ship-invaders",
+    "openGraph": {
+      "title": "Ship Invaders Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ship Invaders! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/ship-invaders-og.jpg",
+      "url": "https://littlegames.com/games/ship-invaders",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ship Invaders Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ship Invaders! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ship-invaders-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ship Invaders",
+      "href": "/games/ship-invaders",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_329",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

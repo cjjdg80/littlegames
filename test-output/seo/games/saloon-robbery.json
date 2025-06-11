@@ -1,0 +1,54 @@
+{
+  "gameId": 6900,
+  "slug": "saloon-robbery",
+  "metadata": {
+    "title": "Free Saloon Robbery Game - Action Packed Fun",
+    "description": "Experience thrilling action in Saloon Robbery! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Saloon Robbery game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/saloon-robbery",
+    "openGraph": {
+      "title": "Free Saloon Robbery Game - Action Packed Fun",
+      "description": "Experience thrilling action in Saloon Robbery! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/saloon-robbery-og.jpg",
+      "url": "https://littlegames.com/games/saloon-robbery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Saloon Robbery Game - Action Packed Fun",
+      "description": "Experience thrilling action in Saloon Robbery! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/saloon-robbery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Saloon Robbery",
+      "href": "/games/saloon-robbery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_906",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

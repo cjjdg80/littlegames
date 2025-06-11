@@ -1,0 +1,54 @@
+{
+  "gameId": 4059,
+  "slug": "cannon-shooter",
+  "metadata": {
+    "title": "Cannon Shooter Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Cannon Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Cannon Shooter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cannon-shooter",
+    "openGraph": {
+      "title": "Cannon Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Cannon Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/cannon-shooter-og.jpg",
+      "url": "https://littlegames.com/games/cannon-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cannon Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Cannon Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cannon-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cannon Shooter",
+      "href": "/games/cannon-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_835",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

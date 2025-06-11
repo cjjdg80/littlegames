@@ -1,0 +1,54 @@
+{
+  "gameId": 3087,
+  "slug": "ring-challenge",
+  "metadata": {
+    "title": "Play Ring Challenge - Free Action Game Online",
+    "description": "Dive into the action-packed world of Ring Challenge. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Ring Challenge online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ring-challenge",
+    "openGraph": {
+      "title": "Play Ring Challenge - Free Action Game Online",
+      "description": "Dive into the action-packed world of Ring Challenge. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/ring-challenge-og.jpg",
+      "url": "https://littlegames.com/games/ring-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ring Challenge - Free Action Game Online",
+      "description": "Dive into the action-packed world of Ring Challenge. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ring-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ring Challenge",
+      "href": "/games/ring-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_703",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

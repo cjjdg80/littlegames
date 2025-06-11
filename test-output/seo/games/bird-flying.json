@@ -1,0 +1,54 @@
+{
+  "gameId": 1214,
+  "slug": "bird-flying",
+  "metadata": {
+    "title": "Free Bird Flying Game - Mind Bending Puzzles",
+    "description": "Bird Flying offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Bird Flying",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/bird-flying",
+    "openGraph": {
+      "title": "Free Bird Flying Game - Mind Bending Puzzles",
+      "description": "Bird Flying offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/bird-flying-og.jpg",
+      "url": "https://littlegames.com/games/bird-flying",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bird Flying Game - Mind Bending Puzzles",
+      "description": "Bird Flying offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/bird-flying-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bird Flying",
+      "href": "/games/bird-flying",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_640",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

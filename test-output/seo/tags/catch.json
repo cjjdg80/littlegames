@@ -1,0 +1,46 @@
+{
+  "tag": "catch",
+  "displayName": "Catch",
+  "metadata": {
+    "title": "Catch Games - Play Free Online",
+    "description": "Discover amazing catch games! Play 22 free games with catch theme. No downloads required.",
+    "keywords": [
+      "catch games",
+      "free online games",
+      "browser games",
+      "catch theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/catch",
+    "openGraph": {
+      "title": "Catch Games - Free Online Gaming",
+      "description": "Play the best catch games online for free. 22 games available.",
+      "image": "https://littlegames.com/images/tags/catch-og.jpg",
+      "url": "https://littlegames.com/tags/catch",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Catch Games - Free Online",
+      "description": "Play 22 free catch games online.",
+      "image": "https://littlegames.com/images/tags/catch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Catch",
+      "href": "/tags/catch",
+      "current": true
+    }
+  ],
+  "description": "Discover games with catch theme! Our collection includes 22 carefully selected games that feature catch elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

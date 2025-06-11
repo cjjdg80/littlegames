@@ -1,0 +1,54 @@
+{
+  "gameId": 6768,
+  "slug": "merge-to-battle",
+  "metadata": {
+    "title": "Play Merge To Battle - Free Action Game Online",
+    "description": "Merge To Battle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Merge To Battle",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-to-battle",
+    "openGraph": {
+      "title": "Play Merge To Battle - Free Action Game Online",
+      "description": "Merge To Battle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-to-battle-og.jpg",
+      "url": "https://littlegames.com/games/merge-to-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Merge To Battle - Free Action Game Online",
+      "description": "Merge To Battle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-to-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge To Battle",
+      "href": "/games/merge-to-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_814",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

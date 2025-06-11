@@ -1,0 +1,54 @@
+{
+  "gameId": 7420,
+  "slug": "balanced-running",
+  "metadata": {
+    "title": "Play Balanced Running - Free Action Game Online",
+    "description": "Balanced Running delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Balanced Running online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/balanced-running",
+    "openGraph": {
+      "title": "Play Balanced Running - Free Action Game Online",
+      "description": "Balanced Running delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/balanced-running-og.jpg",
+      "url": "https://littlegames.com/games/balanced-running",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Balanced Running - Free Action Game Online",
+      "description": "Balanced Running delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/balanced-running-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Balanced Running",
+      "href": "/games/balanced-running",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_026",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

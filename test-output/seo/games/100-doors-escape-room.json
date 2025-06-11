@@ -1,0 +1,54 @@
+{
+  "gameId": 6381,
+  "slug": "100-doors-escape-room",
+  "metadata": {
+    "title": "Adventure Game 100 Doors Escape Room - Journey Begins",
+    "description": "Begin your quest in 100 Doors Escape Room. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play 100 Doors Escape Room",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/100-doors-escape-room",
+    "openGraph": {
+      "title": "Adventure Game 100 Doors Escape Room - Journey Begins",
+      "description": "Begin your quest in 100 Doors Escape Room. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/100-doors-escape-room-og.jpg",
+      "url": "https://littlegames.com/games/100-doors-escape-room",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game 100 Doors Escape Room - Journey Begins",
+      "description": "Begin your quest in 100 Doors Escape Room. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/100-doors-escape-room-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "100 Doors Escape Room",
+      "href": "/games/100-doors-escape-room",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_820",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

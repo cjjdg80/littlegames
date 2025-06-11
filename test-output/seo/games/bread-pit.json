@@ -1,0 +1,54 @@
+{
+  "gameId": 1792,
+  "slug": "bread-pit",
+  "metadata": {
+    "title": "Play Bread Pit - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Bread Pit! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Bread Pit game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/bread-pit",
+    "openGraph": {
+      "title": "Play Bread Pit - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Bread Pit! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/bread-pit-og.jpg",
+      "url": "https://littlegames.com/games/bread-pit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bread Pit - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Bread Pit! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/bread-pit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bread Pit",
+      "href": "/games/bread-pit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_558",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

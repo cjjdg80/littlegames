@@ -1,0 +1,54 @@
+{
+  "gameId": 8659,
+  "slug": "color-sort-puzzle",
+  "metadata": {
+    "title": "Color Sort Puzzle Online - Ultimate Action Gaming Experience",
+    "description": "Color Sort Puzzle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Color Sort Puzzle",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/color-sort-puzzle",
+    "openGraph": {
+      "title": "Color Sort Puzzle Online - Ultimate Action Gaming Experience",
+      "description": "Color Sort Puzzle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-sort-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/color-sort-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Sort Puzzle Online - Ultimate Action Gaming Experience",
+      "description": "Color Sort Puzzle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-sort-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Sort Puzzle",
+      "href": "/games/color-sort-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_435",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

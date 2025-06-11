@@ -1,0 +1,54 @@
+{
+  "gameId": 6407,
+  "slug": "hammer-hit",
+  "metadata": {
+    "title": "Action Game Hammer Hit - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Hammer Hit. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Hammer Hit game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hammer-hit",
+    "openGraph": {
+      "title": "Action Game Hammer Hit - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Hammer Hit. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hammer-hit-og.jpg",
+      "url": "https://littlegames.com/games/hammer-hit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Hammer Hit - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Hammer Hit. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hammer-hit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hammer Hit",
+      "href": "/games/hammer-hit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_623",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

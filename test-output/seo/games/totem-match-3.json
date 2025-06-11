@@ -1,0 +1,54 @@
+{
+  "gameId": 269,
+  "slug": "totem-match-3",
+  "metadata": {
+    "title": "Totem Match 3 - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Totem Match 3. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Totem Match 3",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/totem-match-3",
+    "openGraph": {
+      "title": "Totem Match 3 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Totem Match 3. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/totem-match-3-og.jpg",
+      "url": "https://littlegames.com/games/totem-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Totem Match 3 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Totem Match 3. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/totem-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Totem Match 3",
+      "href": "/games/totem-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_345",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

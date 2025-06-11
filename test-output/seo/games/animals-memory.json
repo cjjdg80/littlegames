@@ -1,0 +1,54 @@
+{
+  "gameId": 3303,
+  "slug": "animals-memory",
+  "metadata": {
+    "title": "Play Animals Memory - Free Action Game Online",
+    "description": "Join the action in Animals Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Animals Memory",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/animals-memory",
+    "openGraph": {
+      "title": "Play Animals Memory - Free Action Game Online",
+      "description": "Join the action in Animals Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/animals-memory-og.jpg",
+      "url": "https://littlegames.com/games/animals-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Animals Memory - Free Action Game Online",
+      "description": "Join the action in Animals Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/animals-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Animals Memory",
+      "href": "/games/animals-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_399",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

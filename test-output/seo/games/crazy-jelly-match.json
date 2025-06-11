@@ -1,0 +1,54 @@
+{
+  "gameId": 1616,
+  "slug": "crazy-jelly-match",
+  "metadata": {
+    "title": "Puzzle Game Crazy Jelly Match - Test Your Skills",
+    "description": "Sharpen your mind with Crazy Jelly Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Crazy Jelly Match game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-jelly-match",
+    "openGraph": {
+      "title": "Puzzle Game Crazy Jelly Match - Test Your Skills",
+      "description": "Sharpen your mind with Crazy Jelly Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/crazy-jelly-match-og.jpg",
+      "url": "https://littlegames.com/games/crazy-jelly-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Crazy Jelly Match - Test Your Skills",
+      "description": "Sharpen your mind with Crazy Jelly Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/crazy-jelly-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crazy Jelly Match",
+      "href": "/games/crazy-jelly-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_102",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

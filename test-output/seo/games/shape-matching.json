@@ -1,0 +1,54 @@
+{
+  "gameId": 4973,
+  "slug": "shape-matching",
+  "metadata": {
+    "title": "shape matching - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with shape matching! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "shape matching",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/shape-matching",
+    "openGraph": {
+      "title": "shape matching - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with shape matching! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/shape-matching-og.jpg",
+      "url": "https://littlegames.com/games/shape-matching",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "shape matching - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with shape matching! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/shape-matching-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "shape matching",
+      "href": "/games/shape-matching",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_169",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

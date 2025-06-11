@@ -1,0 +1,54 @@
+{
+  "gameId": 8805,
+  "slug": "sheep-vs-wolf",
+  "metadata": {
+    "title": "Sheep vs Wolf - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Sheep vs Wolf! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Sheep vs Wolf online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/sheep-vs-wolf",
+    "openGraph": {
+      "title": "Sheep vs Wolf - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Sheep vs Wolf! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/sheep-vs-wolf-og.jpg",
+      "url": "https://littlegames.com/games/sheep-vs-wolf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sheep vs Wolf - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Sheep vs Wolf! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/sheep-vs-wolf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sheep vs Wolf",
+      "href": "/games/sheep-vs-wolf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_961",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

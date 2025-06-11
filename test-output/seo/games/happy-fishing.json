@@ -1,0 +1,54 @@
+{
+  "gameId": 2173,
+  "slug": "happy-fishing",
+  "metadata": {
+    "title": "Play Happy Fishing - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Happy Fishing! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Happy Fishing",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/happy-fishing",
+    "openGraph": {
+      "title": "Play Happy Fishing - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Happy Fishing! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/happy-fishing-og.jpg",
+      "url": "https://littlegames.com/games/happy-fishing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Happy Fishing - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Happy Fishing! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/happy-fishing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Happy Fishing",
+      "href": "/games/happy-fishing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_369",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

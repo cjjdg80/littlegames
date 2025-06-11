@@ -1,0 +1,54 @@
+{
+  "gameId": 1837,
+  "slug": "halloween-pumpkins",
+  "metadata": {
+    "title": "Halloween Pumpkins Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Halloween Pumpkins! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "play Halloween Pumpkins",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-pumpkins",
+    "openGraph": {
+      "title": "Halloween Pumpkins Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Halloween Pumpkins! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/halloween-pumpkins-og.jpg",
+      "url": "https://littlegames.com/games/halloween-pumpkins",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Pumpkins Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Halloween Pumpkins! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/halloween-pumpkins-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Halloween Pumpkins",
+      "href": "/games/halloween-pumpkins",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_953",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

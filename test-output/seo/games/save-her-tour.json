@@ -1,0 +1,54 @@
+{
+  "gameId": 8022,
+  "slug": "save-her-tour",
+  "metadata": {
+    "title": "Free Save Her Tour Game - Mind Bending Puzzles",
+    "description": "Save Her Tour offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Save Her Tour online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/save-her-tour",
+    "openGraph": {
+      "title": "Free Save Her Tour Game - Mind Bending Puzzles",
+      "description": "Save Her Tour offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/save-her-tour-og.jpg",
+      "url": "https://littlegames.com/games/save-her-tour",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Save Her Tour Game - Mind Bending Puzzles",
+      "description": "Save Her Tour offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/save-her-tour-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Save Her Tour",
+      "href": "/games/save-her-tour",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_688",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

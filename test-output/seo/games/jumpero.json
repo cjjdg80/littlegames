@@ -1,0 +1,54 @@
+{
+  "gameId": 3053,
+  "slug": "jumpero",
+  "metadata": {
+    "title": "Jumpero Online - Ultimate Action Gaming Experience",
+    "description": "Jumpero delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Jumpero game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jumpero",
+    "openGraph": {
+      "title": "Jumpero Online - Ultimate Action Gaming Experience",
+      "description": "Jumpero delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumpero-og.jpg",
+      "url": "https://littlegames.com/games/jumpero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jumpero Online - Ultimate Action Gaming Experience",
+      "description": "Jumpero delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumpero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jumpero",
+      "href": "/games/jumpero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_649",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

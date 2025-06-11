@@ -1,0 +1,54 @@
+{
+  "gameId": 6819,
+  "slug": "flipman",
+  "metadata": {
+    "title": "Action Game Flipman - Play Free Now",
+    "description": "Join the action in Flipman! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Flipman",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/flipman",
+    "openGraph": {
+      "title": "Action Game Flipman - Play Free Now",
+      "description": "Join the action in Flipman! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flipman-og.jpg",
+      "url": "https://littlegames.com/games/flipman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Flipman - Play Free Now",
+      "description": "Join the action in Flipman! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flipman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flipman",
+      "href": "/games/flipman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_395",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

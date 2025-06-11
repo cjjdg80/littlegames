@@ -1,0 +1,54 @@
+{
+  "gameId": 464,
+  "slug": "pocket-hockey",
+  "metadata": {
+    "title": "Play Pocket Hockey - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Pocket Hockey. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Pocket Hockey game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pocket-hockey",
+    "openGraph": {
+      "title": "Play Pocket Hockey - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Pocket Hockey. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pocket-hockey-og.jpg",
+      "url": "https://littlegames.com/games/pocket-hockey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pocket Hockey - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Pocket Hockey. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pocket-hockey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Pocket Hockey",
+      "href": "/games/pocket-hockey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_390",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

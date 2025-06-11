@@ -1,0 +1,46 @@
+{
+  "tag": "witch",
+  "displayName": "Witch",
+  "metadata": {
+    "title": "Witch Games - Play Free Online",
+    "description": "Discover amazing witch games! Play 9 free games with witch theme. No downloads required.",
+    "keywords": [
+      "witch games",
+      "free online games",
+      "browser games",
+      "witch theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/witch",
+    "openGraph": {
+      "title": "Witch Games - Free Online Gaming",
+      "description": "Play the best witch games online for free. 9 games available.",
+      "image": "https://littlegames.com/images/tags/witch-og.jpg",
+      "url": "https://littlegames.com/tags/witch",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Witch Games - Free Online",
+      "description": "Play 9 free witch games online.",
+      "image": "https://littlegames.com/images/tags/witch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Witch",
+      "href": "/tags/witch",
+      "current": true
+    }
+  ],
+  "description": "Discover games with witch theme! Our collection includes 9 carefully selected games that feature witch elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

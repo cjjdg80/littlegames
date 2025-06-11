@@ -1,0 +1,54 @@
+{
+  "gameId": 7074,
+  "slug": "tile-match-puzzle",
+  "metadata": {
+    "title": "Free Tile Match Puzzle Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Tile Match Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "puzzle games",
+      "Tile Match Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tile-match-puzzle",
+    "openGraph": {
+      "title": "Free Tile Match Puzzle Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Tile Match Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/tile-match-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/tile-match-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tile Match Puzzle Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Tile Match Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/tile-match-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tile Match Puzzle",
+      "href": "/games/tile-match-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_300",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

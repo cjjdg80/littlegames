@@ -1,0 +1,54 @@
+{
+  "gameId": 2638,
+  "slug": "fluffy-merge",
+  "metadata": {
+    "title": "Fluffy Merge Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Fluffy Merge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Fluffy Merge",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fluffy-merge",
+    "openGraph": {
+      "title": "Fluffy Merge Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Fluffy Merge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/fluffy-merge-og.jpg",
+      "url": "https://littlegames.com/games/fluffy-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fluffy Merge Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Fluffy Merge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/fluffy-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fluffy Merge",
+      "href": "/games/fluffy-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_784",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

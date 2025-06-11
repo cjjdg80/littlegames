@@ -1,0 +1,54 @@
+{
+  "gameId": 3684,
+  "slug": "pou",
+  "metadata": {
+    "title": "Play Pou - Epic Adventure Game Online",
+    "description": "Start your epic journey with Pou! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Pou game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/pou",
+    "openGraph": {
+      "title": "Play Pou - Epic Adventure Game Online",
+      "description": "Start your epic journey with Pou! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/pou-og.jpg",
+      "url": "https://littlegames.com/games/pou",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pou - Epic Adventure Game Online",
+      "description": "Start your epic journey with Pou! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/pou-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pou",
+      "href": "/games/pou",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_213",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

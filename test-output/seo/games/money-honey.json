@@ -1,0 +1,54 @@
+{
+  "gameId": 6026,
+  "slug": "money-honey",
+  "metadata": {
+    "title": "Money Honey Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Money Honey! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Money Honey online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/money-honey",
+    "openGraph": {
+      "title": "Money Honey Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Money Honey! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/money-honey-og.jpg",
+      "url": "https://littlegames.com/games/money-honey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Money Honey Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Money Honey! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/money-honey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Money Honey",
+      "href": "/games/money-honey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_812",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

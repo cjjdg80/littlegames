@@ -1,0 +1,54 @@
+{
+  "gameId": 9356,
+  "slug": "shop-sorting-2",
+  "metadata": {
+    "title": "Puzzle Game Shop Sorting 2 - Test Your Skills",
+    "description": "Sharpen your mind with Shop Sorting 2! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Shop Sorting 2 game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/shop-sorting-2",
+    "openGraph": {
+      "title": "Puzzle Game Shop Sorting 2 - Test Your Skills",
+      "description": "Sharpen your mind with Shop Sorting 2! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/shop-sorting-2-og.jpg",
+      "url": "https://littlegames.com/games/shop-sorting-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Shop Sorting 2 - Test Your Skills",
+      "description": "Sharpen your mind with Shop Sorting 2! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/shop-sorting-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Shop Sorting 2",
+      "href": "/games/shop-sorting-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_042",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

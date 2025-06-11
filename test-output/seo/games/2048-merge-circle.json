@@ -1,0 +1,54 @@
+{
+  "gameId": 9804,
+  "slug": "2048-merge-circle",
+  "metadata": {
+    "title": "Puzzle Game 2048 Merge Circle - Test Your Skills",
+    "description": "Put your thinking skills to the test in 2048 Merge Circle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "2048 Merge Circle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/2048-merge-circle",
+    "openGraph": {
+      "title": "Puzzle Game 2048 Merge Circle - Test Your Skills",
+      "description": "Put your thinking skills to the test in 2048 Merge Circle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/2048-merge-circle-og.jpg",
+      "url": "https://littlegames.com/games/2048-merge-circle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game 2048 Merge Circle - Test Your Skills",
+      "description": "Put your thinking skills to the test in 2048 Merge Circle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/2048-merge-circle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "2048 Merge Circle",
+      "href": "/games/2048-merge-circle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_930",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

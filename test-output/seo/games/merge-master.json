@@ -1,0 +1,54 @@
+{
+  "gameId": 5475,
+  "slug": "merge-master",
+  "metadata": {
+    "title": "Free Merge Master Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Merge Master. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Merge Master",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-master",
+    "openGraph": {
+      "title": "Free Merge Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Merge Master. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/merge-master-og.jpg",
+      "url": "https://littlegames.com/games/merge-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Merge Master. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/merge-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Master",
+      "href": "/games/merge-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_731",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

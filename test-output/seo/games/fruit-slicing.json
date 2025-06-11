@@ -1,0 +1,54 @@
+{
+  "gameId": 25,
+  "slug": "fruit-slicing",
+  "metadata": {
+    "title": "Fruit Slicing - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Fruit Slicing. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Fruit Slicing online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-slicing",
+    "openGraph": {
+      "title": "Fruit Slicing - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Fruit Slicing. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/fruit-slicing-og.jpg",
+      "url": "https://littlegames.com/games/fruit-slicing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruit Slicing - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Fruit Slicing. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fruit-slicing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fruit Slicing",
+      "href": "/games/fruit-slicing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_781",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

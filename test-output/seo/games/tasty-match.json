@@ -1,0 +1,54 @@
+{
+  "gameId": 5148,
+  "slug": "tasty-match",
+  "metadata": {
+    "title": "Tasty Match - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Tasty Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Tasty Match",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/tasty-match",
+    "openGraph": {
+      "title": "Tasty Match - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Tasty Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/tasty-match-og.jpg",
+      "url": "https://littlegames.com/games/tasty-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tasty Match - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Tasty Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/tasty-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tasty Match",
+      "href": "/games/tasty-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_594",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

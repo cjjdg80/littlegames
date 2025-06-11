@@ -1,0 +1,54 @@
+{
+  "gameId": 846,
+  "slug": "liar",
+  "metadata": {
+    "title": "Puzzle Game LIAR! - Test Your Skills",
+    "description": "Exercise your brain with LIAR!. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "LIAR! online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/liar",
+    "openGraph": {
+      "title": "Puzzle Game LIAR! - Test Your Skills",
+      "description": "Exercise your brain with LIAR!. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/liar-og.jpg",
+      "url": "https://littlegames.com/games/liar",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game LIAR! - Test Your Skills",
+      "description": "Exercise your brain with LIAR!. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/liar-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "LIAR!",
+      "href": "/games/liar",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_232",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

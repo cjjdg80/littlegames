@@ -1,0 +1,46 @@
+{
+  "tag": "daily",
+  "displayName": "Daily",
+  "metadata": {
+    "title": "Daily Games - Play Free Online",
+    "description": "Discover amazing daily games! Play 5 free games with daily theme. No downloads required.",
+    "keywords": [
+      "daily games",
+      "free online games",
+      "browser games",
+      "daily theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/daily",
+    "openGraph": {
+      "title": "Daily Games - Free Online Gaming",
+      "description": "Play the best daily games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/daily-og.jpg",
+      "url": "https://littlegames.com/tags/daily",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Daily Games - Free Online",
+      "description": "Play 5 free daily games online.",
+      "image": "https://littlegames.com/images/tags/daily-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Daily",
+      "href": "/tags/daily",
+      "current": true
+    }
+  ],
+  "description": "Discover games with daily theme! Our collection includes 5 carefully selected games that feature daily elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

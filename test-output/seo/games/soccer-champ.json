@@ -1,0 +1,54 @@
+{
+  "gameId": 3066,
+  "slug": "soccer-champ",
+  "metadata": {
+    "title": "Free Soccer Champ Game - Action Packed Fun",
+    "description": "Join the action in Soccer Champ! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Soccer Champ",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-champ",
+    "openGraph": {
+      "title": "Free Soccer Champ Game - Action Packed Fun",
+      "description": "Join the action in Soccer Champ! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/soccer-champ-og.jpg",
+      "url": "https://littlegames.com/games/soccer-champ",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Soccer Champ Game - Action Packed Fun",
+      "description": "Join the action in Soccer Champ! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/soccer-champ-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Soccer Champ",
+      "href": "/games/soccer-champ",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_052",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4131,
+  "slug": "pirate-jack",
+  "metadata": {
+    "title": "Free Pirate Jack Game - Adventure Awaits",
+    "description": "Start your epic journey with Pirate Jack! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Pirate Jack",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/pirate-jack",
+    "openGraph": {
+      "title": "Free Pirate Jack Game - Adventure Awaits",
+      "description": "Start your epic journey with Pirate Jack! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/pirate-jack-og.jpg",
+      "url": "https://littlegames.com/games/pirate-jack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pirate Jack Game - Adventure Awaits",
+      "description": "Start your epic journey with Pirate Jack! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/pirate-jack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pirate Jack",
+      "href": "/games/pirate-jack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_070",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 713,
+  "slug": "mini-cart-racing",
+  "metadata": {
+    "title": "Action Game Mini Cart Racing - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Mini Cart Racing. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Mini Cart Racing",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mini-cart-racing",
+    "openGraph": {
+      "title": "Action Game Mini Cart Racing - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Mini Cart Racing. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mini-cart-racing-og.jpg",
+      "url": "https://littlegames.com/games/mini-cart-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Mini Cart Racing - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Mini Cart Racing. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mini-cart-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mini Cart Racing",
+      "href": "/games/mini-cart-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_109",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

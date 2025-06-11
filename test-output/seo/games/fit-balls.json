@@ -1,0 +1,54 @@
+{
+  "gameId": 2381,
+  "slug": "fit-balls",
+  "metadata": {
+    "title": "Fit Balls Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Fit Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Fit Balls game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fit-balls",
+    "openGraph": {
+      "title": "Fit Balls Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fit Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fit-balls-og.jpg",
+      "url": "https://littlegames.com/games/fit-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fit Balls Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fit Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fit-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fit Balls",
+      "href": "/games/fit-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_817",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

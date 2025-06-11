@@ -1,0 +1,54 @@
+{
+  "gameId": 6838,
+  "slug": "hack-this",
+  "metadata": {
+    "title": "Hack This! Online - Ultimate Action Gaming Experience",
+    "description": "Hack This! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Hack This! online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hack-this",
+    "openGraph": {
+      "title": "Hack This! Online - Ultimate Action Gaming Experience",
+      "description": "Hack This! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hack-this-og.jpg",
+      "url": "https://littlegames.com/games/hack-this",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hack This! Online - Ultimate Action Gaming Experience",
+      "description": "Hack This! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hack-this-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hack This!",
+      "href": "/games/hack-this",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_984",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

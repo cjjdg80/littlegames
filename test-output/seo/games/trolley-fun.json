@@ -1,0 +1,54 @@
+{
+  "gameId": 7974,
+  "slug": "trolley-fun",
+  "metadata": {
+    "title": "Trolley fun - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Trolley fun. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Trolley fun",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/trolley-fun",
+    "openGraph": {
+      "title": "Trolley fun - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Trolley fun. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/trolley-fun-og.jpg",
+      "url": "https://littlegames.com/games/trolley-fun",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trolley fun - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Trolley fun. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/trolley-fun-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Trolley fun",
+      "href": "/games/trolley-fun",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_204",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4894,
+  "slug": "flappy-copter",
+  "metadata": {
+    "title": "Flappy Copter - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Flappy Copter. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Flappy Copter online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-copter",
+    "openGraph": {
+      "title": "Flappy Copter - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Flappy Copter. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/flappy-copter-og.jpg",
+      "url": "https://littlegames.com/games/flappy-copter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flappy Copter - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Flappy Copter. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/flappy-copter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flappy Copter",
+      "href": "/games/flappy-copter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_720",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

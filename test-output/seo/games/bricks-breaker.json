@@ -1,0 +1,54 @@
+{
+  "gameId": 4394,
+  "slug": "bricks-breaker",
+  "metadata": {
+    "title": "Play Bricks Breaker - Free Action Game Online",
+    "description": "Join the action in Bricks Breaker! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Bricks Breaker",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bricks-breaker",
+    "openGraph": {
+      "title": "Play Bricks Breaker - Free Action Game Online",
+      "description": "Join the action in Bricks Breaker! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bricks-breaker-og.jpg",
+      "url": "https://littlegames.com/games/bricks-breaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bricks Breaker - Free Action Game Online",
+      "description": "Join the action in Bricks Breaker! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bricks-breaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bricks Breaker",
+      "href": "/games/bricks-breaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_220",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

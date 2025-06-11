@@ -1,0 +1,54 @@
+{
+  "gameId": 2860,
+  "slug": "oomee-pop",
+  "metadata": {
+    "title": "Action Game Oomee Pop - Play Free Now",
+    "description": "Oomee Pop delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Oomee Pop",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/oomee-pop",
+    "openGraph": {
+      "title": "Action Game Oomee Pop - Play Free Now",
+      "description": "Oomee Pop delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/oomee-pop-og.jpg",
+      "url": "https://littlegames.com/games/oomee-pop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Oomee Pop - Play Free Now",
+      "description": "Oomee Pop delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/oomee-pop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Oomee Pop",
+      "href": "/games/oomee-pop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_666",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

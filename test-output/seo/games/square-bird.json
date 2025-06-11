@@ -1,0 +1,54 @@
+{
+  "gameId": 154,
+  "slug": "square-bird",
+  "metadata": {
+    "title": "Play Square Bird - Free Action Game Online",
+    "description": "Experience thrilling action in Square Bird! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Square Bird",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/square-bird",
+    "openGraph": {
+      "title": "Play Square Bird - Free Action Game Online",
+      "description": "Experience thrilling action in Square Bird! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/square-bird-og.jpg",
+      "url": "https://littlegames.com/games/square-bird",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Square Bird - Free Action Game Online",
+      "description": "Experience thrilling action in Square Bird! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/square-bird-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Square Bird",
+      "href": "/games/square-bird",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_780",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

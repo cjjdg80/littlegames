@@ -1,0 +1,54 @@
+{
+  "gameId": 3848,
+  "slug": "alien-mahjong",
+  "metadata": {
+    "title": "Play Alien Mahjong - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Alien Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Alien Mahjong game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/alien-mahjong",
+    "openGraph": {
+      "title": "Play Alien Mahjong - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Alien Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/alien-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/alien-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Alien Mahjong - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Alien Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/alien-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Alien Mahjong",
+      "href": "/games/alien-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_294",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3271,
+  "slug": "castle-defense",
+  "metadata": {
+    "title": "Play Castle Defense - Free Action Game Online",
+    "description": "Castle Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "play Castle Defense",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/castle-defense",
+    "openGraph": {
+      "title": "Play Castle Defense - Free Action Game Online",
+      "description": "Castle Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/castle-defense-og.jpg",
+      "url": "https://littlegames.com/games/castle-defense",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Castle Defense - Free Action Game Online",
+      "description": "Castle Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/castle-defense-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Castle Defense",
+      "href": "/games/castle-defense",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_409",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

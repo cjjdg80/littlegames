@@ -1,0 +1,54 @@
+{
+  "gameId": 2819,
+  "slug": "colors-bubble-shooter",
+  "metadata": {
+    "title": "Colors Bubble Shooter - Exciting Action Adventure Game",
+    "description": "Colors Bubble Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Colors Bubble Shooter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/colors-bubble-shooter",
+    "openGraph": {
+      "title": "Colors Bubble Shooter - Exciting Action Adventure Game",
+      "description": "Colors Bubble Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/colors-bubble-shooter-og.jpg",
+      "url": "https://littlegames.com/games/colors-bubble-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Colors Bubble Shooter - Exciting Action Adventure Game",
+      "description": "Colors Bubble Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/colors-bubble-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Colors Bubble Shooter",
+      "href": "/games/colors-bubble-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_395",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

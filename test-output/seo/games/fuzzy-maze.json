@@ -1,0 +1,54 @@
+{
+  "gameId": 399,
+  "slug": "fuzzy-maze",
+  "metadata": {
+    "title": "Fuzzy Maze - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Fuzzy Maze! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Fuzzy Maze game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fuzzy-maze",
+    "openGraph": {
+      "title": "Fuzzy Maze - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Fuzzy Maze! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/fuzzy-maze-og.jpg",
+      "url": "https://littlegames.com/games/fuzzy-maze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fuzzy Maze - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Fuzzy Maze! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/fuzzy-maze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fuzzy Maze",
+      "href": "/games/fuzzy-maze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_375",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

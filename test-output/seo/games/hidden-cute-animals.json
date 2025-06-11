@@ -1,0 +1,54 @@
+{
+  "gameId": 1445,
+  "slug": "hidden-cute-animals",
+  "metadata": {
+    "title": "Adventure Game Hidden Cute Animals - Journey Begins",
+    "description": "Start your epic journey with Hidden Cute Animals! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Hidden Cute Animals game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/hidden-cute-animals",
+    "openGraph": {
+      "title": "Adventure Game Hidden Cute Animals - Journey Begins",
+      "description": "Start your epic journey with Hidden Cute Animals! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hidden-cute-animals-og.jpg",
+      "url": "https://littlegames.com/games/hidden-cute-animals",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Hidden Cute Animals - Journey Begins",
+      "description": "Start your epic journey with Hidden Cute Animals! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hidden-cute-animals-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hidden Cute Animals",
+      "href": "/games/hidden-cute-animals",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_804",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

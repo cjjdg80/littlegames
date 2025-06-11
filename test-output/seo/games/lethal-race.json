@@ -1,0 +1,54 @@
+{
+  "gameId": 4492,
+  "slug": "lethal-race",
+  "metadata": {
+    "title": "Free Lethal Race Game - Action Packed Fun",
+    "description": "Join the action in Lethal Race! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Lethal Race online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lethal-race",
+    "openGraph": {
+      "title": "Free Lethal Race Game - Action Packed Fun",
+      "description": "Join the action in Lethal Race! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lethal-race-og.jpg",
+      "url": "https://littlegames.com/games/lethal-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Lethal Race Game - Action Packed Fun",
+      "description": "Join the action in Lethal Race! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lethal-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Lethal Race",
+      "href": "/games/lethal-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_258",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

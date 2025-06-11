@@ -1,0 +1,54 @@
+{
+  "gameId": 3511,
+  "slug": "vex-6",
+  "metadata": {
+    "title": "Vex 6 Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Vex 6. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Vex 6 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/vex-6",
+    "openGraph": {
+      "title": "Vex 6 Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Vex 6. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/vex-6-og.jpg",
+      "url": "https://littlegames.com/games/vex-6",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Vex 6 Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Vex 6. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/vex-6-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Vex 6",
+      "href": "/games/vex-6",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_847",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3420,
+  "slug": "go-to-dot",
+  "metadata": {
+    "title": "Free Go To Dot Game - Action Packed Fun",
+    "description": "Go To Dot delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Go To Dot online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/go-to-dot",
+    "openGraph": {
+      "title": "Free Go To Dot Game - Action Packed Fun",
+      "description": "Go To Dot delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/go-to-dot-og.jpg",
+      "url": "https://littlegames.com/games/go-to-dot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Go To Dot Game - Action Packed Fun",
+      "description": "Go To Dot delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/go-to-dot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Go To Dot",
+      "href": "/games/go-to-dot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_026",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8259,
+  "slug": "mutant-run",
+  "metadata": {
+    "title": "Mutant run - Exciting Action Adventure Game",
+    "description": "Join the action in Mutant run! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Mutant run",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/mutant-run",
+    "openGraph": {
+      "title": "Mutant run - Exciting Action Adventure Game",
+      "description": "Join the action in Mutant run! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mutant-run-og.jpg",
+      "url": "https://littlegames.com/games/mutant-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mutant run - Exciting Action Adventure Game",
+      "description": "Join the action in Mutant run! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mutant-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mutant run",
+      "href": "/games/mutant-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_035",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

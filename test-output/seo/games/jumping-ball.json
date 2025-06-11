@@ -1,0 +1,54 @@
+{
+  "gameId": 5639,
+  "slug": "jumping-ball",
+  "metadata": {
+    "title": "Jumping Ball - Exciting Action Adventure Game",
+    "description": "Jumping Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Jumping Ball online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jumping-ball",
+    "openGraph": {
+      "title": "Jumping Ball - Exciting Action Adventure Game",
+      "description": "Jumping Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumping-ball-og.jpg",
+      "url": "https://littlegames.com/games/jumping-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jumping Ball - Exciting Action Adventure Game",
+      "description": "Jumping Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumping-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jumping Ball",
+      "href": "/games/jumping-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_815",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

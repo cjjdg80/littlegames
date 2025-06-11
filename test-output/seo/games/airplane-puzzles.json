@@ -1,0 +1,54 @@
+{
+  "gameId": 2427,
+  "slug": "airplane-puzzles",
+  "metadata": {
+    "title": "Free Airplane Puzzles Game - Mind Bending Puzzles",
+    "description": "Airplane Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Airplane Puzzles online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/airplane-puzzles",
+    "openGraph": {
+      "title": "Free Airplane Puzzles Game - Mind Bending Puzzles",
+      "description": "Airplane Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/airplane-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/airplane-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Airplane Puzzles Game - Mind Bending Puzzles",
+      "description": "Airplane Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/airplane-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Airplane Puzzles",
+      "href": "/games/airplane-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_243",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

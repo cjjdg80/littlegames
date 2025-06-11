@@ -1,0 +1,54 @@
+{
+  "gameId": 1879,
+  "slug": "nerd-quiz",
+  "metadata": {
+    "title": "Nerd Quiz Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Nerd Quiz! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Nerd Quiz",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/nerd-quiz",
+    "openGraph": {
+      "title": "Nerd Quiz Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Nerd Quiz! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/nerd-quiz-og.jpg",
+      "url": "https://littlegames.com/games/nerd-quiz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Nerd Quiz Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Nerd Quiz! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/nerd-quiz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Nerd Quiz",
+      "href": "/games/nerd-quiz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_255",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

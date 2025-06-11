@@ -1,0 +1,54 @@
+{
+  "gameId": 4802,
+  "slug": "noob-vs-pro-challenge",
+  "metadata": {
+    "title": "Adventure Game Noob vs Pro Challenge - Journey Begins",
+    "description": "Discover new worlds in Noob vs Pro Challenge. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+    "keywords": [
+      "Noob vs Pro Challenge game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/noob-vs-pro-challenge",
+    "openGraph": {
+      "title": "Adventure Game Noob vs Pro Challenge - Journey Begins",
+      "description": "Discover new worlds in Noob vs Pro Challenge. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+      "image": "https://littlegames.com/images/games/noob-vs-pro-challenge-og.jpg",
+      "url": "https://littlegames.com/games/noob-vs-pro-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Noob vs Pro Challenge - Journey Begins",
+      "description": "Discover new worlds in Noob vs Pro Challenge. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/noob-vs-pro-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Noob vs Pro Challenge",
+      "href": "/games/noob-vs-pro-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_871",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

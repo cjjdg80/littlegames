@@ -1,0 +1,54 @@
+{
+  "gameId": 3425,
+  "slug": "army-sniper",
+  "metadata": {
+    "title": "Army Sniper - Exciting Action Adventure Game",
+    "description": "Join the action in Army Sniper! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Army Sniper",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/army-sniper",
+    "openGraph": {
+      "title": "Army Sniper - Exciting Action Adventure Game",
+      "description": "Join the action in Army Sniper! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/army-sniper-og.jpg",
+      "url": "https://littlegames.com/games/army-sniper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Army Sniper - Exciting Action Adventure Game",
+      "description": "Join the action in Army Sniper! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/army-sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Army Sniper",
+      "href": "/games/army-sniper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_181",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

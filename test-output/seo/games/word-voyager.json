@@ -1,0 +1,54 @@
+{
+  "gameId": 8685,
+  "slug": "word-voyager",
+  "metadata": {
+    "title": "Puzzle Game Word Voyager - Test Your Skills",
+    "description": "Challenge your mind with Word Voyager! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Word Voyager online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/word-voyager",
+    "openGraph": {
+      "title": "Puzzle Game Word Voyager - Test Your Skills",
+      "description": "Challenge your mind with Word Voyager! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/word-voyager-og.jpg",
+      "url": "https://littlegames.com/games/word-voyager",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Word Voyager - Test Your Skills",
+      "description": "Challenge your mind with Word Voyager! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/word-voyager-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Word Voyager",
+      "href": "/games/word-voyager",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_241",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

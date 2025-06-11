@@ -1,0 +1,54 @@
+{
+  "gameId": 1421,
+  "slug": "pocket-sniper",
+  "metadata": {
+    "title": "Action Game Pocket Sniper - Play Free Now",
+    "description": "Pocket Sniper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Pocket Sniper game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pocket-sniper",
+    "openGraph": {
+      "title": "Action Game Pocket Sniper - Play Free Now",
+      "description": "Pocket Sniper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pocket-sniper-og.jpg",
+      "url": "https://littlegames.com/games/pocket-sniper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pocket Sniper - Play Free Now",
+      "description": "Pocket Sniper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pocket-sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pocket Sniper",
+      "href": "/games/pocket-sniper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_057",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

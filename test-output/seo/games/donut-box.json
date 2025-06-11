@@ -1,0 +1,54 @@
+{
+  "gameId": 8253,
+  "slug": "donut-box",
+  "metadata": {
+    "title": "Donut Box - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Donut Box. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Donut Box game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/donut-box",
+    "openGraph": {
+      "title": "Donut Box - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Donut Box. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/donut-box-og.jpg",
+      "url": "https://littlegames.com/games/donut-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Donut Box - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Donut Box. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/donut-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Donut Box",
+      "href": "/games/donut-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_849",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

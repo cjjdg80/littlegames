@@ -1,0 +1,46 @@
+{
+  "tag": "hockey",
+  "displayName": "Hockey",
+  "metadata": {
+    "title": "Hockey Games - Play Free Online",
+    "description": "Discover amazing hockey games! Play 8 free games with hockey theme. No downloads required.",
+    "keywords": [
+      "hockey games",
+      "free online games",
+      "browser games",
+      "hockey theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/hockey",
+    "openGraph": {
+      "title": "Hockey Games - Free Online Gaming",
+      "description": "Play the best hockey games online for free. 8 games available.",
+      "image": "https://littlegames.com/images/tags/hockey-og.jpg",
+      "url": "https://littlegames.com/tags/hockey",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hockey Games - Free Online",
+      "description": "Play 8 free hockey games online.",
+      "image": "https://littlegames.com/images/tags/hockey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hockey",
+      "href": "/tags/hockey",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hockey theme! Our collection includes 8 carefully selected games that feature hockey elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

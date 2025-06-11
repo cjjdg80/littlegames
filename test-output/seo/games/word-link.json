@@ -1,0 +1,54 @@
+{
+  "gameId": 455,
+  "slug": "word-link",
+  "metadata": {
+    "title": "Word Link Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Word Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Word Link",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/word-link",
+    "openGraph": {
+      "title": "Word Link Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Word Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/word-link-og.jpg",
+      "url": "https://littlegames.com/games/word-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Link Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Word Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/word-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Word Link",
+      "href": "/games/word-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_111",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

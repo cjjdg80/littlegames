@@ -1,0 +1,54 @@
+{
+  "gameId": 895,
+  "slug": "knot-logical-game",
+  "metadata": {
+    "title": "Knot Logical Game - Brain Training Puzzle Challenge",
+    "description": "Knot Logical Game offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Knot Logical Game",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/knot-logical-game",
+    "openGraph": {
+      "title": "Knot Logical Game - Brain Training Puzzle Challenge",
+      "description": "Knot Logical Game offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/knot-logical-game-og.jpg",
+      "url": "https://littlegames.com/games/knot-logical-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Knot Logical Game - Brain Training Puzzle Challenge",
+      "description": "Knot Logical Game offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/knot-logical-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Knot Logical Game",
+      "href": "/games/knot-logical-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_751",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7627,
+  "slug": "fruit-survivor",
+  "metadata": {
+    "title": "Play Fruit Survivor - Epic Adventure Game Online",
+    "description": "Fruit Survivor offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Fruit Survivor",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-survivor",
+    "openGraph": {
+      "title": "Play Fruit Survivor - Epic Adventure Game Online",
+      "description": "Fruit Survivor offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/fruit-survivor-og.jpg",
+      "url": "https://littlegames.com/games/fruit-survivor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fruit Survivor - Epic Adventure Game Online",
+      "description": "Fruit Survivor offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/fruit-survivor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fruit Survivor",
+      "href": "/games/fruit-survivor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_446",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

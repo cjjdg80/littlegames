@@ -1,0 +1,54 @@
+{
+  "gameId": 8192,
+  "slug": "cube-connect",
+  "metadata": {
+    "title": "Cube Connect - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Cube Connect! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Cube Connect online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/cube-connect",
+    "openGraph": {
+      "title": "Cube Connect - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Cube Connect! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/cube-connect-og.jpg",
+      "url": "https://littlegames.com/games/cube-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cube Connect - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Cube Connect! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/cube-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cube Connect",
+      "href": "/games/cube-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_958",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

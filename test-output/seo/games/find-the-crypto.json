@@ -1,0 +1,54 @@
+{
+  "gameId": 4980,
+  "slug": "find-the-crypto",
+  "metadata": {
+    "title": "Free Find The Crypto Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Find The Crypto. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Find The Crypto",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-crypto",
+    "openGraph": {
+      "title": "Free Find The Crypto Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Find The Crypto. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/find-the-crypto-og.jpg",
+      "url": "https://littlegames.com/games/find-the-crypto",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Find The Crypto Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Find The Crypto. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/find-the-crypto-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Find The Crypto",
+      "href": "/games/find-the-crypto",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_386",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

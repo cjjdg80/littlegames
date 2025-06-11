@@ -1,0 +1,54 @@
+{
+  "gameId": 1511,
+  "slug": "super-runcraft",
+  "metadata": {
+    "title": "Free Super RunCraft Game - Adventure Awaits",
+    "description": "Start your epic journey with Super RunCraft! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Super RunCraft",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/super-runcraft",
+    "openGraph": {
+      "title": "Free Super RunCraft Game - Adventure Awaits",
+      "description": "Start your epic journey with Super RunCraft! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/super-runcraft-og.jpg",
+      "url": "https://littlegames.com/games/super-runcraft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Super RunCraft Game - Adventure Awaits",
+      "description": "Start your epic journey with Super RunCraft! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/super-runcraft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super RunCraft",
+      "href": "/games/super-runcraft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_850",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

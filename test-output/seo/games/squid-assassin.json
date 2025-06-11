@@ -1,0 +1,54 @@
+{
+  "gameId": 4804,
+  "slug": "squid-assassin",
+  "metadata": {
+    "title": "Play Squid Assassin - Epic Adventure Game Online",
+    "description": "Discover new worlds in Squid Assassin. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Squid Assassin online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/squid-assassin",
+    "openGraph": {
+      "title": "Play Squid Assassin - Epic Adventure Game Online",
+      "description": "Discover new worlds in Squid Assassin. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/squid-assassin-og.jpg",
+      "url": "https://littlegames.com/games/squid-assassin",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Squid Assassin - Epic Adventure Game Online",
+      "description": "Discover new worlds in Squid Assassin. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/squid-assassin-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Squid Assassin",
+      "href": "/games/squid-assassin",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_933",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3322,
+  "slug": "domino-battle",
+  "metadata": {
+    "title": "Domino Battle - Exciting Action Adventure Game",
+    "description": "Join the action in Domino Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Domino Battle",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/domino-battle",
+    "openGraph": {
+      "title": "Domino Battle - Exciting Action Adventure Game",
+      "description": "Join the action in Domino Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/domino-battle-og.jpg",
+      "url": "https://littlegames.com/games/domino-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Domino Battle - Exciting Action Adventure Game",
+      "description": "Join the action in Domino Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/domino-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Domino Battle",
+      "href": "/games/domino-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_988",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3238,
+  "slug": "yellow-ball",
+  "metadata": {
+    "title": "Puzzle Game Yellow Ball - Test Your Skills",
+    "description": "Yellow Ball offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Yellow Ball game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/yellow-ball",
+    "openGraph": {
+      "title": "Puzzle Game Yellow Ball - Test Your Skills",
+      "description": "Yellow Ball offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/yellow-ball-og.jpg",
+      "url": "https://littlegames.com/games/yellow-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Yellow Ball - Test Your Skills",
+      "description": "Yellow Ball offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/yellow-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Yellow Ball",
+      "href": "/games/yellow-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_384",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

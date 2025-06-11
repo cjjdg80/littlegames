@@ -1,0 +1,54 @@
+{
+  "gameId": 6016,
+  "slug": "catch-huggy-wuggy",
+  "metadata": {
+    "title": "Adventure Game Catch Huggy Wuggy! - Journey Begins",
+    "description": "Discover new worlds in Catch Huggy Wuggy!. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Catch Huggy Wuggy! game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/catch-huggy-wuggy",
+    "openGraph": {
+      "title": "Adventure Game Catch Huggy Wuggy! - Journey Begins",
+      "description": "Discover new worlds in Catch Huggy Wuggy!. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/catch-huggy-wuggy-og.jpg",
+      "url": "https://littlegames.com/games/catch-huggy-wuggy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Catch Huggy Wuggy! - Journey Begins",
+      "description": "Discover new worlds in Catch Huggy Wuggy!. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/catch-huggy-wuggy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Catch Huggy Wuggy!",
+      "href": "/games/catch-huggy-wuggy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_505",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

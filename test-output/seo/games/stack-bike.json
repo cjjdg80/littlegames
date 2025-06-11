@@ -1,0 +1,54 @@
+{
+  "gameId": 4895,
+  "slug": "stack-bike",
+  "metadata": {
+    "title": "Stack Bike Online - Ultimate Action Gaming Experience",
+    "description": "Stack Bike delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Stack Bike game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/stack-bike",
+    "openGraph": {
+      "title": "Stack Bike Online - Ultimate Action Gaming Experience",
+      "description": "Stack Bike delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stack-bike-og.jpg",
+      "url": "https://littlegames.com/games/stack-bike",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stack Bike Online - Ultimate Action Gaming Experience",
+      "description": "Stack Bike delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stack-bike-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stack Bike",
+      "href": "/games/stack-bike",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_751",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

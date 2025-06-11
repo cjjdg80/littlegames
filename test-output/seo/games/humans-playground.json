@@ -1,0 +1,54 @@
+{
+  "gameId": 7371,
+  "slug": "humans-playground",
+  "metadata": {
+    "title": "Play Humans Playground - Epic Adventure Game Online",
+    "description": "Discover new worlds in Humans Playground. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Humans Playground online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/humans-playground",
+    "openGraph": {
+      "title": "Play Humans Playground - Epic Adventure Game Online",
+      "description": "Discover new worlds in Humans Playground. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/humans-playground-og.jpg",
+      "url": "https://littlegames.com/games/humans-playground",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Humans Playground - Epic Adventure Game Online",
+      "description": "Discover new worlds in Humans Playground. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/humans-playground-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Humans Playground",
+      "href": "/games/humans-playground",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_510",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

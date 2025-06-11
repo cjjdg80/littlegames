@@ -1,0 +1,54 @@
+{
+  "gameId": 47,
+  "slug": "21-solitaire",
+  "metadata": {
+    "title": "Action Game 21 Solitaire - Play Free Now",
+    "description": "Join the action in 21 Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "21 Solitaire online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/21-solitaire",
+    "openGraph": {
+      "title": "Action Game 21 Solitaire - Play Free Now",
+      "description": "Join the action in 21 Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/21-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/21-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game 21 Solitaire - Play Free Now",
+      "description": "Join the action in 21 Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/21-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "21 Solitaire",
+      "href": "/games/21-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_463",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2778,
+  "slug": "idle-zoo",
+  "metadata": {
+    "title": "Action Game Idle Zoo - Play Free Now",
+    "description": "Experience thrilling action in Idle Zoo! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Idle Zoo",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-zoo",
+    "openGraph": {
+      "title": "Action Game Idle Zoo - Play Free Now",
+      "description": "Experience thrilling action in Idle Zoo! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/idle-zoo-og.jpg",
+      "url": "https://littlegames.com/games/idle-zoo",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Idle Zoo - Play Free Now",
+      "description": "Experience thrilling action in Idle Zoo! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/idle-zoo-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Zoo",
+      "href": "/games/idle-zoo",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_128",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

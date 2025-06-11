@@ -1,0 +1,54 @@
+{
+  "gameId": 5111,
+  "slug": "foxy-golf-royale",
+  "metadata": {
+    "title": "Play Foxy Golf Royale - Free Action Game Online",
+    "description": "Foxy Golf Royale delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "Foxy Golf Royale game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/foxy-golf-royale",
+    "openGraph": {
+      "title": "Play Foxy Golf Royale - Free Action Game Online",
+      "description": "Foxy Golf Royale delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/foxy-golf-royale-og.jpg",
+      "url": "https://littlegames.com/games/foxy-golf-royale",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Foxy Golf Royale - Free Action Game Online",
+      "description": "Foxy Golf Royale delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/foxy-golf-royale-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Foxy Golf Royale",
+      "href": "/games/foxy-golf-royale",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_447",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

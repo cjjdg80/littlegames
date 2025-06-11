@@ -1,0 +1,46 @@
+{
+  "tag": "bricks",
+  "displayName": "Bricks",
+  "metadata": {
+    "title": "Bricks Games - Play Free Online",
+    "description": "Discover amazing bricks games! Play 5 free games with bricks theme. No downloads required.",
+    "keywords": [
+      "bricks games",
+      "free online games",
+      "browser games",
+      "bricks theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/bricks",
+    "openGraph": {
+      "title": "Bricks Games - Free Online Gaming",
+      "description": "Play the best bricks games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/bricks-og.jpg",
+      "url": "https://littlegames.com/tags/bricks",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bricks Games - Free Online",
+      "description": "Play 5 free bricks games online.",
+      "image": "https://littlegames.com/images/tags/bricks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bricks",
+      "href": "/tags/bricks",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bricks theme! Our collection includes 5 carefully selected games that feature bricks elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

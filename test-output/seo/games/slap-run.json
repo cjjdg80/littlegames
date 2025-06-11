@@ -1,0 +1,54 @@
+{
+  "gameId": 6242,
+  "slug": "slap-run",
+  "metadata": {
+    "title": "Free Slap & Run Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Slap & Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Slap & Run game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/slap-run",
+    "openGraph": {
+      "title": "Free Slap & Run Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Slap & Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slap-run-og.jpg",
+      "url": "https://littlegames.com/games/slap-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Slap & Run Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Slap & Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slap-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Slap & Run",
+      "href": "/games/slap-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_508",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

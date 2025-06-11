@@ -1,0 +1,54 @@
+{
+  "gameId": 508,
+  "slug": "fruit-cutter",
+  "metadata": {
+    "title": "Fruit Cutter Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Fruit Cutter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Fruit Cutter game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-cutter",
+    "openGraph": {
+      "title": "Fruit Cutter Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Fruit Cutter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/fruit-cutter-og.jpg",
+      "url": "https://littlegames.com/games/fruit-cutter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruit Cutter Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Fruit Cutter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/fruit-cutter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fruit Cutter",
+      "href": "/games/fruit-cutter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_754",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

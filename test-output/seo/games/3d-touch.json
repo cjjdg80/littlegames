@@ -1,0 +1,54 @@
+{
+  "gameId": 5522,
+  "slug": "3d-touch",
+  "metadata": {
+    "title": "Play 3D Touch - Free Puzzle Game Online",
+    "description": "Exercise your brain with 3D Touch. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "play 3D Touch",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/3d-touch",
+    "openGraph": {
+      "title": "Play 3D Touch - Free Puzzle Game Online",
+      "description": "Exercise your brain with 3D Touch. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/3d-touch-og.jpg",
+      "url": "https://littlegames.com/games/3d-touch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 3D Touch - Free Puzzle Game Online",
+      "description": "Exercise your brain with 3D Touch. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/3d-touch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "3D Touch",
+      "href": "/games/3d-touch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_188",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

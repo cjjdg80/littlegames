@@ -1,0 +1,54 @@
+{
+  "gameId": 7020,
+  "slug": "animals-blocks",
+  "metadata": {
+    "title": "Animals Blocks Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Animals Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Animals Blocks online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/animals-blocks",
+    "openGraph": {
+      "title": "Animals Blocks Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Animals Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/animals-blocks-og.jpg",
+      "url": "https://littlegames.com/games/animals-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animals Blocks Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Animals Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/animals-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Animals Blocks",
+      "href": "/games/animals-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_626",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

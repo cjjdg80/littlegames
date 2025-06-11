@@ -1,0 +1,54 @@
+{
+  "gameId": 8111,
+  "slug": "tap-go-deluxe",
+  "metadata": {
+    "title": "Free Tap & Go Deluxe Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Tap & Go Deluxe. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tap & Go Deluxe game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tap-go-deluxe",
+    "openGraph": {
+      "title": "Free Tap & Go Deluxe Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tap & Go Deluxe. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tap-go-deluxe-og.jpg",
+      "url": "https://littlegames.com/games/tap-go-deluxe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tap & Go Deluxe Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tap & Go Deluxe. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tap-go-deluxe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tap & Go Deluxe",
+      "href": "/games/tap-go-deluxe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_447",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

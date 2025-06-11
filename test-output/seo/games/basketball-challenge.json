@@ -1,0 +1,54 @@
+{
+  "gameId": 6077,
+  "slug": "basketball-challenge",
+  "metadata": {
+    "title": "Play Basketball Challenge - Free Action Game Online",
+    "description": "Dive into the action-packed world of Basketball Challenge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "play Basketball Challenge",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/basketball-challenge",
+    "openGraph": {
+      "title": "Play Basketball Challenge - Free Action Game Online",
+      "description": "Dive into the action-packed world of Basketball Challenge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/basketball-challenge-og.jpg",
+      "url": "https://littlegames.com/games/basketball-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Basketball Challenge - Free Action Game Online",
+      "description": "Dive into the action-packed world of Basketball Challenge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/basketball-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basketball Challenge",
+      "href": "/games/basketball-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_393",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

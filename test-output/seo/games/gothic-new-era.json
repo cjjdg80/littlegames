@@ -1,0 +1,54 @@
+{
+  "gameId": 5761,
+  "slug": "gothic-new-era",
+  "metadata": {
+    "title": "Gothic New Era - Exciting Action Adventure Game",
+    "description": "Gothic New Era delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Gothic New Era online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/gothic-new-era",
+    "openGraph": {
+      "title": "Gothic New Era - Exciting Action Adventure Game",
+      "description": "Gothic New Era delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gothic-new-era-og.jpg",
+      "url": "https://littlegames.com/games/gothic-new-era",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gothic New Era - Exciting Action Adventure Game",
+      "description": "Gothic New Era delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gothic-new-era-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gothic New Era",
+      "href": "/games/gothic-new-era",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_597",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7120,
+  "slug": "car-makeup",
+  "metadata": {
+    "title": "Action Game Car Makeup - Play Free Now",
+    "description": "Car Makeup delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Car Makeup online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/car-makeup",
+    "openGraph": {
+      "title": "Action Game Car Makeup - Play Free Now",
+      "description": "Car Makeup delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/car-makeup-og.jpg",
+      "url": "https://littlegames.com/games/car-makeup",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Car Makeup - Play Free Now",
+      "description": "Car Makeup delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/car-makeup-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Car Makeup",
+      "href": "/games/car-makeup",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_726",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

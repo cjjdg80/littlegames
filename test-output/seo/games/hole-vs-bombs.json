@@ -1,0 +1,54 @@
+{
+  "gameId": 2186,
+  "slug": "hole-vs-bombs",
+  "metadata": {
+    "title": "Hole vs Bombs - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Hole vs Bombs. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Hole vs Bombs game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hole-vs-bombs",
+    "openGraph": {
+      "title": "Hole vs Bombs - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hole vs Bombs. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hole-vs-bombs-og.jpg",
+      "url": "https://littlegames.com/games/hole-vs-bombs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hole vs Bombs - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hole vs Bombs. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hole-vs-bombs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hole vs Bombs",
+      "href": "/games/hole-vs-bombs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_772",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

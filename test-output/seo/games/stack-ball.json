@@ -1,0 +1,54 @@
+{
+  "gameId": 5895,
+  "slug": "stack-ball",
+  "metadata": {
+    "title": "Stack Ball Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Stack Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Stack Ball online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stack-ball",
+    "openGraph": {
+      "title": "Stack Ball Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Stack Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stack-ball-og.jpg",
+      "url": "https://littlegames.com/games/stack-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stack Ball Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Stack Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stack-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stack Ball",
+      "href": "/games/stack-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_751",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3680,
+  "slug": "numbers-bricks",
+  "metadata": {
+    "title": "Numbers Bricks - Exciting Action Adventure Game",
+    "description": "Numbers Bricks delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Numbers Bricks",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/numbers-bricks",
+    "openGraph": {
+      "title": "Numbers Bricks - Exciting Action Adventure Game",
+      "description": "Numbers Bricks delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/numbers-bricks-og.jpg",
+      "url": "https://littlegames.com/games/numbers-bricks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Numbers Bricks - Exciting Action Adventure Game",
+      "description": "Numbers Bricks delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/numbers-bricks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Numbers Bricks",
+      "href": "/games/numbers-bricks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_086",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

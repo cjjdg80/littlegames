@@ -1,0 +1,54 @@
+{
+  "gameId": 7707,
+  "slug": "gin-rummy",
+  "metadata": {
+    "title": "Action Game Gin Rummy - Play Free Now",
+    "description": "Dive into the action-packed world of Gin Rummy. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Gin Rummy",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/gin-rummy",
+    "openGraph": {
+      "title": "Action Game Gin Rummy - Play Free Now",
+      "description": "Dive into the action-packed world of Gin Rummy. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gin-rummy-og.jpg",
+      "url": "https://littlegames.com/games/gin-rummy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Gin Rummy - Play Free Now",
+      "description": "Dive into the action-packed world of Gin Rummy. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gin-rummy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gin Rummy",
+      "href": "/games/gin-rummy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_923",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

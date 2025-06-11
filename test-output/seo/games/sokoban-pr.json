@@ -1,0 +1,54 @@
+{
+  "gameId": 9313,
+  "slug": "sokoban-pr",
+  "metadata": {
+    "title": "Puzzle Game Sokoban P/R - Test Your Skills",
+    "description": "Challenge your mind with Sokoban P/R! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Sokoban P/R game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sokoban-pr",
+    "openGraph": {
+      "title": "Puzzle Game Sokoban P/R - Test Your Skills",
+      "description": "Challenge your mind with Sokoban P/R! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/sokoban-pr-og.jpg",
+      "url": "https://littlegames.com/games/sokoban-pr",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Sokoban P/R - Test Your Skills",
+      "description": "Challenge your mind with Sokoban P/R! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/sokoban-pr-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sokoban P/R",
+      "href": "/games/sokoban-pr",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_709",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

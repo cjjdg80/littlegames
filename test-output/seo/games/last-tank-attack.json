@@ -1,0 +1,54 @@
+{
+  "gameId": 109,
+  "slug": "last-tank-attack",
+  "metadata": {
+    "title": "Last Tank Attack Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Last Tank Attack! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Last Tank Attack online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/last-tank-attack",
+    "openGraph": {
+      "title": "Last Tank Attack Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Last Tank Attack! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/last-tank-attack-og.jpg",
+      "url": "https://littlegames.com/games/last-tank-attack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Last Tank Attack Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Last Tank Attack! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/last-tank-attack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Last Tank Attack",
+      "href": "/games/last-tank-attack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_385",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

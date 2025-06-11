@@ -1,0 +1,54 @@
+{
+  "gameId": 6500,
+  "slug": "grass-cutting-puzzle",
+  "metadata": {
+    "title": "Free Grass Cutting Puzzle Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Grass Cutting Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Grass Cutting Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/grass-cutting-puzzle",
+    "openGraph": {
+      "title": "Free Grass Cutting Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Grass Cutting Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/grass-cutting-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/grass-cutting-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Grass Cutting Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Grass Cutting Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/grass-cutting-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Grass Cutting Puzzle",
+      "href": "/games/grass-cutting-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_506",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

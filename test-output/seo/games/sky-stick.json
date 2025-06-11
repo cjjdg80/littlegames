@@ -1,0 +1,54 @@
+{
+  "gameId": 4586,
+  "slug": "sky-stick",
+  "metadata": {
+    "title": "Sky Stick Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Sky Stick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Sky Stick online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sky-stick",
+    "openGraph": {
+      "title": "Sky Stick Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sky Stick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sky-stick-og.jpg",
+      "url": "https://littlegames.com/games/sky-stick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sky Stick Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sky Stick. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sky-stick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sky Stick",
+      "href": "/games/sky-stick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_172",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

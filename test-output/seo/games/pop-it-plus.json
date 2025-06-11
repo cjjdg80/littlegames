@@ -1,0 +1,54 @@
+{
+  "gameId": 2932,
+  "slug": "pop-it-plus",
+  "metadata": {
+    "title": "POP it Plus Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in POP it Plus. This free online simulation game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "POP it Plus game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pop-it-plus",
+    "openGraph": {
+      "title": "POP it Plus Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in POP it Plus. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pop-it-plus-og.jpg",
+      "url": "https://littlegames.com/games/pop-it-plus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "POP it Plus Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in POP it Plus. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pop-it-plus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "POP it Plus",
+      "href": "/games/pop-it-plus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_902",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

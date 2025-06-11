@@ -1,0 +1,54 @@
+{
+  "gameId": 3649,
+  "slug": "target",
+  "metadata": {
+    "title": "Action Game Target - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Target. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Target",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/target",
+    "openGraph": {
+      "title": "Action Game Target - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Target. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/target-og.jpg",
+      "url": "https://littlegames.com/games/target",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Target - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Target. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/target-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Target",
+      "href": "/games/target",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_125",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

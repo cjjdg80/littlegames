@@ -1,0 +1,54 @@
+{
+  "gameId": 3872,
+  "slug": "train-surfers",
+  "metadata": {
+    "title": "Train Surfers Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Train Surfers! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Train Surfers",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/train-surfers",
+    "openGraph": {
+      "title": "Train Surfers Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Train Surfers! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/train-surfers-og.jpg",
+      "url": "https://littlegames.com/games/train-surfers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Train Surfers Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Train Surfers! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/train-surfers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Train Surfers",
+      "href": "/games/train-surfers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_038",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

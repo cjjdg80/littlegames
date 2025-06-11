@@ -1,0 +1,46 @@
+{
+  "tag": "desert",
+  "displayName": "Desert",
+  "metadata": {
+    "title": "Desert Games - Play Free Online",
+    "description": "Discover amazing desert games! Play 10 free games with desert theme. No downloads required.",
+    "keywords": [
+      "desert games",
+      "free online games",
+      "browser games",
+      "desert theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/desert",
+    "openGraph": {
+      "title": "Desert Games - Free Online Gaming",
+      "description": "Play the best desert games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/desert-og.jpg",
+      "url": "https://littlegames.com/tags/desert",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Desert Games - Free Online",
+      "description": "Play 10 free desert games online.",
+      "image": "https://littlegames.com/images/tags/desert-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Desert",
+      "href": "/tags/desert",
+      "current": true
+    }
+  ],
+  "description": "Discover games with desert theme! Our collection includes 10 carefully selected games that feature desert elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6862,
+  "slug": "mirror-wizard",
+  "metadata": {
+    "title": "Mirror Wizard Online - Ultimate Action Gaming Experience",
+    "description": "Mirror Wizard delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Mirror Wizard",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mirror-wizard",
+    "openGraph": {
+      "title": "Mirror Wizard Online - Ultimate Action Gaming Experience",
+      "description": "Mirror Wizard delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mirror-wizard-og.jpg",
+      "url": "https://littlegames.com/games/mirror-wizard",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mirror Wizard Online - Ultimate Action Gaming Experience",
+      "description": "Mirror Wizard delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mirror-wizard-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mirror Wizard",
+      "href": "/games/mirror-wizard",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_728",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

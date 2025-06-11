@@ -1,0 +1,54 @@
+{
+  "gameId": 6843,
+  "slug": "ball-up-3d",
+  "metadata": {
+    "title": "Ball Up 3D - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Ball Up 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Ball Up 3D",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/ball-up-3d",
+    "openGraph": {
+      "title": "Ball Up 3D - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Ball Up 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ball-up-3d-og.jpg",
+      "url": "https://littlegames.com/games/ball-up-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Up 3D - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Ball Up 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ball-up-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ball Up 3D",
+      "href": "/games/ball-up-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_139",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4680,
+  "slug": "colorful-racing",
+  "metadata": {
+    "title": "Play Colorful Racing - Free Action Game Online",
+    "description": "Colorful Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Colorful Racing",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/colorful-racing",
+    "openGraph": {
+      "title": "Play Colorful Racing - Free Action Game Online",
+      "description": "Colorful Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/colorful-racing-og.jpg",
+      "url": "https://littlegames.com/games/colorful-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Colorful Racing - Free Action Game Online",
+      "description": "Colorful Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/colorful-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Colorful Racing",
+      "href": "/games/colorful-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_086",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

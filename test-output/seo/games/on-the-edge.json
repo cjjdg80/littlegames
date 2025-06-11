@@ -1,0 +1,54 @@
+{
+  "gameId": 4074,
+  "slug": "on-the-edge",
+  "metadata": {
+    "title": "On the edge Online - Ultimate Action Gaming Experience",
+    "description": "On the edge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play On the edge",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/on-the-edge",
+    "openGraph": {
+      "title": "On the edge Online - Ultimate Action Gaming Experience",
+      "description": "On the edge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/on-the-edge-og.jpg",
+      "url": "https://littlegames.com/games/on-the-edge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "On the edge Online - Ultimate Action Gaming Experience",
+      "description": "On the edge delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/on-the-edge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "On the edge",
+      "href": "/games/on-the-edge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_300",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

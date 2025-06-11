@@ -1,0 +1,54 @@
+{
+  "gameId": 9451,
+  "slug": "dress-princess",
+  "metadata": {
+    "title": "Dress Princess - Exciting Action Adventure Game",
+    "description": "Dress Princess delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Dress Princess",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dress-princess",
+    "openGraph": {
+      "title": "Dress Princess - Exciting Action Adventure Game",
+      "description": "Dress Princess delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dress-princess-og.jpg",
+      "url": "https://littlegames.com/games/dress-princess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dress Princess - Exciting Action Adventure Game",
+      "description": "Dress Princess delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dress-princess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dress Princess",
+      "href": "/games/dress-princess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_987",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

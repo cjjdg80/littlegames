@@ -1,0 +1,54 @@
+{
+  "gameId": 1499,
+  "slug": "what-is",
+  "metadata": {
+    "title": "What is - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of What is. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play What is",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/what-is",
+    "openGraph": {
+      "title": "What is - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of What is. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/what-is-og.jpg",
+      "url": "https://littlegames.com/games/what-is",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "What is - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of What is. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/what-is-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "What is",
+      "href": "/games/what-is",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_475",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

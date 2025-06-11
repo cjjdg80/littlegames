@@ -1,0 +1,54 @@
+{
+  "gameId": 9517,
+  "slug": "zumba-story",
+  "metadata": {
+    "title": "Action Game Zumba Story - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Zumba Story. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Zumba Story",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/zumba-story",
+    "openGraph": {
+      "title": "Action Game Zumba Story - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Zumba Story. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zumba-story-og.jpg",
+      "url": "https://littlegames.com/games/zumba-story",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Zumba Story - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Zumba Story. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zumba-story-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zumba Story",
+      "href": "/games/zumba-story",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_033",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

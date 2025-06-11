@@ -1,0 +1,54 @@
+{
+  "gameId": 6594,
+  "slug": "poo-hammer",
+  "metadata": {
+    "title": "Poo Hammer Online - Explore and Discover",
+    "description": "Discover new worlds in Poo Hammer. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Poo Hammer",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/poo-hammer",
+    "openGraph": {
+      "title": "Poo Hammer Online - Explore and Discover",
+      "description": "Discover new worlds in Poo Hammer. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/poo-hammer-og.jpg",
+      "url": "https://littlegames.com/games/poo-hammer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Poo Hammer Online - Explore and Discover",
+      "description": "Discover new worlds in Poo Hammer. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/poo-hammer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Poo Hammer",
+      "href": "/games/poo-hammer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_423",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

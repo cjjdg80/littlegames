@@ -1,0 +1,54 @@
+{
+  "gameId": 1650,
+  "slug": "short-life",
+  "metadata": {
+    "title": "Adventure Game Short Life - Journey Begins",
+    "description": "Begin your quest in Short Life. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Short Life",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/short-life",
+    "openGraph": {
+      "title": "Adventure Game Short Life - Journey Begins",
+      "description": "Begin your quest in Short Life. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/short-life-og.jpg",
+      "url": "https://littlegames.com/games/short-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Short Life - Journey Begins",
+      "description": "Begin your quest in Short Life. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/short-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Short Life",
+      "href": "/games/short-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_159",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

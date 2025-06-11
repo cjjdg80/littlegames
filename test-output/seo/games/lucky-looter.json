@@ -1,0 +1,54 @@
+{
+  "gameId": 38,
+  "slug": "lucky-looter",
+  "metadata": {
+    "title": "Play Lucky Looter - Free Action Game Online",
+    "description": "Join the action in Lucky Looter! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Lucky Looter online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lucky-looter",
+    "openGraph": {
+      "title": "Play Lucky Looter - Free Action Game Online",
+      "description": "Join the action in Lucky Looter! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lucky-looter-og.jpg",
+      "url": "https://littlegames.com/games/lucky-looter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lucky Looter - Free Action Game Online",
+      "description": "Join the action in Lucky Looter! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lucky-looter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Lucky Looter",
+      "href": "/games/lucky-looter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_184",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

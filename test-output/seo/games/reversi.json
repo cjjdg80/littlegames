@@ -1,0 +1,54 @@
+{
+  "gameId": 8499,
+  "slug": "reversi",
+  "metadata": {
+    "title": "Action Game Reversi - Play Free Now",
+    "description": "Experience thrilling action in Reversi! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Reversi game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/reversi",
+    "openGraph": {
+      "title": "Action Game Reversi - Play Free Now",
+      "description": "Experience thrilling action in Reversi! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/reversi-og.jpg",
+      "url": "https://littlegames.com/games/reversi",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Reversi - Play Free Now",
+      "description": "Experience thrilling action in Reversi! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/reversi-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Reversi",
+      "href": "/games/reversi",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_475",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

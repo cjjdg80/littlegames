@@ -1,0 +1,54 @@
+{
+  "gameId": 7602,
+  "slug": "clash-of-stone",
+  "metadata": {
+    "title": "Free Clash of Stone Game - Action Packed Fun",
+    "description": "Join the action in Clash of Stone! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Clash of Stone",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/clash-of-stone",
+    "openGraph": {
+      "title": "Free Clash of Stone Game - Action Packed Fun",
+      "description": "Join the action in Clash of Stone! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clash-of-stone-og.jpg",
+      "url": "https://littlegames.com/games/clash-of-stone",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Clash of Stone Game - Action Packed Fun",
+      "description": "Join the action in Clash of Stone! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clash-of-stone-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Clash of Stone",
+      "href": "/games/clash-of-stone",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_668",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

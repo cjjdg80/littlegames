@@ -1,0 +1,54 @@
+{
+  "gameId": 3757,
+  "slug": "cut-and-dunk",
+  "metadata": {
+    "title": "Cut and Dunk - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Cut and Dunk. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Cut and Dunk",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cut-and-dunk",
+    "openGraph": {
+      "title": "Cut and Dunk - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Cut and Dunk. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cut-and-dunk-og.jpg",
+      "url": "https://littlegames.com/games/cut-and-dunk",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cut and Dunk - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Cut and Dunk. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cut-and-dunk-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cut and Dunk",
+      "href": "/games/cut-and-dunk",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_473",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2951,
+  "slug": "sploopio",
+  "metadata": {
+    "title": "Sploop.io - Exciting Action Adventure Game",
+    "description": "Sploop.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Sploop.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sploopio",
+    "openGraph": {
+      "title": "Sploop.io - Exciting Action Adventure Game",
+      "description": "Sploop.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sploopio-og.jpg",
+      "url": "https://littlegames.com/games/sploopio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sploop.io - Exciting Action Adventure Game",
+      "description": "Sploop.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sploopio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sploop.io",
+      "href": "/games/sploopio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_487",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

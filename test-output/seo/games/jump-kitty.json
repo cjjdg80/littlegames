@@ -1,0 +1,54 @@
+{
+  "gameId": 956,
+  "slug": "jump-kitty",
+  "metadata": {
+    "title": "Jump Kitty Online - Ultimate Action Gaming Experience",
+    "description": "Jump Kitty delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Jump Kitty online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jump-kitty",
+    "openGraph": {
+      "title": "Jump Kitty Online - Ultimate Action Gaming Experience",
+      "description": "Jump Kitty delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jump-kitty-og.jpg",
+      "url": "https://littlegames.com/games/jump-kitty",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jump Kitty Online - Ultimate Action Gaming Experience",
+      "description": "Jump Kitty delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jump-kitty-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jump Kitty",
+      "href": "/games/jump-kitty",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_642",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

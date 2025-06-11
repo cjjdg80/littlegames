@@ -1,0 +1,54 @@
+{
+  "gameId": 3925,
+  "slug": "pig-ball-christmas",
+  "metadata": {
+    "title": "Play Pig Ball Christmas - Epic Adventure Game Online",
+    "description": "Start your epic journey with Pig Ball Christmas! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Pig Ball Christmas",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/pig-ball-christmas",
+    "openGraph": {
+      "title": "Play Pig Ball Christmas - Epic Adventure Game Online",
+      "description": "Start your epic journey with Pig Ball Christmas! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/pig-ball-christmas-og.jpg",
+      "url": "https://littlegames.com/games/pig-ball-christmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pig Ball Christmas - Epic Adventure Game Online",
+      "description": "Start your epic journey with Pig Ball Christmas! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/pig-ball-christmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pig Ball Christmas",
+      "href": "/games/pig-ball-christmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_684",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

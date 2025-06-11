@@ -1,0 +1,54 @@
+{
+  "gameId": 7329,
+  "slug": "smile-style",
+  "metadata": {
+    "title": "Smile Style - Exciting Action Adventure Game",
+    "description": "Smile Style delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Smile Style online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/smile-style",
+    "openGraph": {
+      "title": "Smile Style - Exciting Action Adventure Game",
+      "description": "Smile Style delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/smile-style-og.jpg",
+      "url": "https://littlegames.com/games/smile-style",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Smile Style - Exciting Action Adventure Game",
+      "description": "Smile Style delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/smile-style-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Smile Style",
+      "href": "/games/smile-style",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_205",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

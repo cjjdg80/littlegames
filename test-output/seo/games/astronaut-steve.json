@@ -1,0 +1,54 @@
+{
+  "gameId": 2965,
+  "slug": "astronaut-steve",
+  "metadata": {
+    "title": "Adventure Game Astronaut Steve - Journey Begins",
+    "description": "Discover new worlds in Astronaut Steve. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Astronaut Steve",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/astronaut-steve",
+    "openGraph": {
+      "title": "Adventure Game Astronaut Steve - Journey Begins",
+      "description": "Discover new worlds in Astronaut Steve. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/astronaut-steve-og.jpg",
+      "url": "https://littlegames.com/games/astronaut-steve",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Astronaut Steve - Journey Begins",
+      "description": "Discover new worlds in Astronaut Steve. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/astronaut-steve-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Astronaut Steve",
+      "href": "/games/astronaut-steve",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_924",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

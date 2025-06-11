@@ -1,0 +1,54 @@
+{
+  "gameId": 66,
+  "slug": "cool-castle-match-3",
+  "metadata": {
+    "title": "Cool Castle Match 3 - Exciting Action Adventure Game",
+    "description": "Join the action in Cool Castle Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Cool Castle Match 3 online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cool-castle-match-3",
+    "openGraph": {
+      "title": "Cool Castle Match 3 - Exciting Action Adventure Game",
+      "description": "Join the action in Cool Castle Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cool-castle-match-3-og.jpg",
+      "url": "https://littlegames.com/games/cool-castle-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cool Castle Match 3 - Exciting Action Adventure Game",
+      "description": "Join the action in Cool Castle Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cool-castle-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cool Castle Match 3",
+      "href": "/games/cool-castle-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_052",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

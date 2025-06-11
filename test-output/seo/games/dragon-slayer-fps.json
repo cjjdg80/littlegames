@@ -1,0 +1,54 @@
+{
+  "gameId": 458,
+  "slug": "dragon-slayer-fps",
+  "metadata": {
+    "title": "Dragon Slayer FPS Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Dragon Slayer FPS. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Dragon Slayer FPS online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dragon-slayer-fps",
+    "openGraph": {
+      "title": "Dragon Slayer FPS Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dragon Slayer FPS. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/dragon-slayer-fps-og.jpg",
+      "url": "https://littlegames.com/games/dragon-slayer-fps",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dragon Slayer FPS Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dragon Slayer FPS. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dragon-slayer-fps-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dragon Slayer FPS",
+      "href": "/games/dragon-slayer-fps",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_204",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

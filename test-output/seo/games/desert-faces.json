@@ -1,0 +1,54 @@
+{
+  "gameId": 4878,
+  "slug": "desert-faces",
+  "metadata": {
+    "title": "Desert Faces - Exciting Action Adventure Game",
+    "description": "Desert Faces delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Desert Faces online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/desert-faces",
+    "openGraph": {
+      "title": "Desert Faces - Exciting Action Adventure Game",
+      "description": "Desert Faces delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/desert-faces-og.jpg",
+      "url": "https://littlegames.com/games/desert-faces",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Desert Faces - Exciting Action Adventure Game",
+      "description": "Desert Faces delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/desert-faces-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Desert Faces",
+      "href": "/games/desert-faces",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_224",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3667,
+  "slug": "amogusio",
+  "metadata": {
+    "title": "Free Amogus.io Game - Action Packed Fun",
+    "description": "Amogus.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Amogus.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/amogusio",
+    "openGraph": {
+      "title": "Free Amogus.io Game - Action Packed Fun",
+      "description": "Amogus.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/amogusio-og.jpg",
+      "url": "https://littlegames.com/games/amogusio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Amogus.io Game - Action Packed Fun",
+      "description": "Amogus.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/amogusio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Amogus.io",
+      "href": "/games/amogusio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_683",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

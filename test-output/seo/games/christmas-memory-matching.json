@@ -1,0 +1,54 @@
+{
+  "gameId": 2114,
+  "slug": "christmas-memory-matching",
+  "metadata": {
+    "title": "Play Christmas Memory Matching - Free Puzzle Game Online",
+    "description": "Challenge your mind with Christmas Memory Matching! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play...",
+    "keywords": [
+      "Christmas Memory Matching game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-memory-matching",
+    "openGraph": {
+      "title": "Play Christmas Memory Matching - Free Puzzle Game Online",
+      "description": "Challenge your mind with Christmas Memory Matching! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play...",
+      "image": "https://littlegames.com/images/games/christmas-memory-matching-og.jpg",
+      "url": "https://littlegames.com/games/christmas-memory-matching",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Christmas Memory Matching - Free Puzzle Game Online",
+      "description": "Challenge your mind with Christmas Memory Matching! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/christmas-memory-matching-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Christmas Memory Matching",
+      "href": "/games/christmas-memory-matching",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_540",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5061,
+  "slug": "pac-hero",
+  "metadata": {
+    "title": "Play Pac Hero - Free Action Game Online",
+    "description": "Pac Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Pac Hero",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pac-hero",
+    "openGraph": {
+      "title": "Play Pac Hero - Free Action Game Online",
+      "description": "Pac Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pac-hero-og.jpg",
+      "url": "https://littlegames.com/games/pac-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pac Hero - Free Action Game Online",
+      "description": "Pac Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pac-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pac Hero",
+      "href": "/games/pac-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_897",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

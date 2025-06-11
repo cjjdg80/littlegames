@@ -1,0 +1,54 @@
+{
+  "gameId": 9846,
+  "slug": "paint-roller",
+  "metadata": {
+    "title": "Paint Roller Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Paint Roller! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Paint Roller",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/paint-roller",
+    "openGraph": {
+      "title": "Paint Roller Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Paint Roller! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/paint-roller-og.jpg",
+      "url": "https://littlegames.com/games/paint-roller",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paint Roller Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Paint Roller! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/paint-roller-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Paint Roller",
+      "href": "/games/paint-roller",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_232",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

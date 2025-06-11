@@ -1,0 +1,54 @@
+{
+  "gameId": 340,
+  "slug": "tank-mayhem",
+  "metadata": {
+    "title": "Tank Mayhem Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Tank Mayhem! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Tank Mayhem online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tank-mayhem",
+    "openGraph": {
+      "title": "Tank Mayhem Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Tank Mayhem! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tank-mayhem-og.jpg",
+      "url": "https://littlegames.com/games/tank-mayhem",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tank Mayhem Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Tank Mayhem! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tank-mayhem-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tank Mayhem",
+      "href": "/games/tank-mayhem",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_546",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

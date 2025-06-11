@@ -1,0 +1,54 @@
+{
+  "gameId": 6419,
+  "slug": "squid-fall-guy",
+  "metadata": {
+    "title": "Squid Fall Guy - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Squid Fall Guy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Squid Fall Guy online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/squid-fall-guy",
+    "openGraph": {
+      "title": "Squid Fall Guy - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Squid Fall Guy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/squid-fall-guy-og.jpg",
+      "url": "https://littlegames.com/games/squid-fall-guy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squid Fall Guy - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Squid Fall Guy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/squid-fall-guy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Squid Fall Guy",
+      "href": "/games/squid-fall-guy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_995",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 699,
+  "slug": "king-of-strings",
+  "metadata": {
+    "title": "Play King Of Strings - Free Action Game Online",
+    "description": "King Of Strings delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "King Of Strings game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/king-of-strings",
+    "openGraph": {
+      "title": "Play King Of Strings - Free Action Game Online",
+      "description": "King Of Strings delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/king-of-strings-og.jpg",
+      "url": "https://littlegames.com/games/king-of-strings",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play King Of Strings - Free Action Game Online",
+      "description": "King Of Strings delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/king-of-strings-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "King Of Strings",
+      "href": "/games/king-of-strings",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_675",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

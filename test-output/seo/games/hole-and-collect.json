@@ -1,0 +1,54 @@
+{
+  "gameId": 7308,
+  "slug": "hole-and-collect",
+  "metadata": {
+    "title": "Hole and Collect Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Hole and Collect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Hole and Collect",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hole-and-collect",
+    "openGraph": {
+      "title": "Hole and Collect Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Hole and Collect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/hole-and-collect-og.jpg",
+      "url": "https://littlegames.com/games/hole-and-collect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hole and Collect Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Hole and Collect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/hole-and-collect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hole and Collect",
+      "href": "/games/hole-and-collect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_554",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

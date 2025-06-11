@@ -1,0 +1,54 @@
+{
+  "gameId": 9157,
+  "slug": "daily-wordler",
+  "metadata": {
+    "title": "Daily Wordler Online - Logic and Strategy Game",
+    "description": "Daily Wordler offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Daily Wordler",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/daily-wordler",
+    "openGraph": {
+      "title": "Daily Wordler Online - Logic and Strategy Game",
+      "description": "Daily Wordler offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/daily-wordler-og.jpg",
+      "url": "https://littlegames.com/games/daily-wordler",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Daily Wordler Online - Logic and Strategy Game",
+      "description": "Daily Wordler offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/daily-wordler-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Daily Wordler",
+      "href": "/games/daily-wordler",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_873",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

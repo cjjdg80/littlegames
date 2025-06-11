@@ -1,0 +1,54 @@
+{
+  "gameId": 2900,
+  "slug": "color-roller",
+  "metadata": {
+    "title": "Action Game Color Roller - Play Free Now",
+    "description": "Join the action in Color Roller! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Color Roller game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/color-roller",
+    "openGraph": {
+      "title": "Action Game Color Roller - Play Free Now",
+      "description": "Join the action in Color Roller! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-roller-og.jpg",
+      "url": "https://littlegames.com/games/color-roller",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Color Roller - Play Free Now",
+      "description": "Join the action in Color Roller! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-roller-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Roller",
+      "href": "/games/color-roller",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_906",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9527,
+  "slug": "draw-war",
+  "metadata": {
+    "title": "Play Draw War - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Draw War. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Draw War",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-war",
+    "openGraph": {
+      "title": "Play Draw War - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Draw War. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/draw-war-og.jpg",
+      "url": "https://littlegames.com/games/draw-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Draw War - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Draw War. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/draw-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw War",
+      "href": "/games/draw-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_343",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

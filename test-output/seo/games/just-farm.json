@@ -1,0 +1,54 @@
+{
+  "gameId": 4716,
+  "slug": "just-farm",
+  "metadata": {
+    "title": "Just Farm Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Just Farm. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Just Farm",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/just-farm",
+    "openGraph": {
+      "title": "Just Farm Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Just Farm. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/just-farm-og.jpg",
+      "url": "https://littlegames.com/games/just-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Just Farm Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Just Farm. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/just-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Just Farm",
+      "href": "/games/just-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_206",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

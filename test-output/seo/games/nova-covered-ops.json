@@ -1,0 +1,54 @@
+{
+  "gameId": 5742,
+  "slug": "nova-covered-ops",
+  "metadata": {
+    "title": "NOVA Covered Ops Online - Explore and Discover",
+    "description": "NOVA Covered Ops offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "NOVA Covered Ops online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/nova-covered-ops",
+    "openGraph": {
+      "title": "NOVA Covered Ops Online - Explore and Discover",
+      "description": "NOVA Covered Ops offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/nova-covered-ops-og.jpg",
+      "url": "https://littlegames.com/games/nova-covered-ops",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "NOVA Covered Ops Online - Explore and Discover",
+      "description": "NOVA Covered Ops offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/nova-covered-ops-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "NOVA Covered Ops",
+      "href": "/games/nova-covered-ops",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_011",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

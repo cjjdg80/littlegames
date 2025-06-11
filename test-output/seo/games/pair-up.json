@@ -1,0 +1,54 @@
+{
+  "gameId": 6092,
+  "slug": "pair-up",
+  "metadata": {
+    "title": "Free Pair Up Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Pair Up! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Pair Up online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/pair-up",
+    "openGraph": {
+      "title": "Free Pair Up Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Pair Up! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/pair-up-og.jpg",
+      "url": "https://littlegames.com/games/pair-up",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pair Up Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Pair Up! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/pair-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pair Up",
+      "href": "/games/pair-up",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_858",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

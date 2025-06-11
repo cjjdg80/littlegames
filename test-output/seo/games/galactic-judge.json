@@ -1,0 +1,54 @@
+{
+  "gameId": 11,
+  "slug": "galactic-judge",
+  "metadata": {
+    "title": "Galactic Judge - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Galactic Judge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Galactic Judge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/galactic-judge",
+    "openGraph": {
+      "title": "Galactic Judge - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Galactic Judge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/galactic-judge-og.jpg",
+      "url": "https://littlegames.com/games/galactic-judge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Galactic Judge - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Galactic Judge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/galactic-judge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Galactic Judge",
+      "href": "/games/galactic-judge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_347",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

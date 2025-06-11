@@ -1,0 +1,54 @@
+{
+  "gameId": 7689,
+  "slug": "dino-shooter-pro",
+  "metadata": {
+    "title": "Dino Shooter Pro Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Dino Shooter Pro! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Dino Shooter Pro",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/dino-shooter-pro",
+    "openGraph": {
+      "title": "Dino Shooter Pro Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Dino Shooter Pro! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/dino-shooter-pro-og.jpg",
+      "url": "https://littlegames.com/games/dino-shooter-pro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dino Shooter Pro Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Dino Shooter Pro! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/dino-shooter-pro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dino Shooter Pro",
+      "href": "/games/dino-shooter-pro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_365",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

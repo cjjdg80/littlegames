@@ -1,0 +1,54 @@
+{
+  "gameId": 4085,
+  "slug": "summon-the-hero",
+  "metadata": {
+    "title": "Summon the Hero Online - Explore and Discover",
+    "description": "Summon the Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Summon the Hero game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/summon-the-hero",
+    "openGraph": {
+      "title": "Summon the Hero Online - Explore and Discover",
+      "description": "Summon the Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/summon-the-hero-og.jpg",
+      "url": "https://littlegames.com/games/summon-the-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Summon the Hero Online - Explore and Discover",
+      "description": "Summon the Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/summon-the-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Summon the Hero",
+      "href": "/games/summon-the-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_644",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8093,
+  "slug": "pin-detective",
+  "metadata": {
+    "title": "Action Game Pin Detective - Play Free Now",
+    "description": "Join the action in Pin Detective! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Pin Detective",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pin-detective",
+    "openGraph": {
+      "title": "Action Game Pin Detective - Play Free Now",
+      "description": "Join the action in Pin Detective! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pin-detective-og.jpg",
+      "url": "https://littlegames.com/games/pin-detective",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pin Detective - Play Free Now",
+      "description": "Join the action in Pin Detective! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pin-detective-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pin Detective",
+      "href": "/games/pin-detective",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_889",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

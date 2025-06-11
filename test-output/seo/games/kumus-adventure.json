@@ -1,0 +1,54 @@
+{
+  "gameId": 1778,
+  "slug": "kumus-adventure",
+  "metadata": {
+    "title": "Kumu's Adventure - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Kumu's Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Kumu's Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/kumus-adventure",
+    "openGraph": {
+      "title": "Kumu's Adventure - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Kumu's Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/kumus-adventure-og.jpg",
+      "url": "https://littlegames.com/games/kumus-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kumu's Adventure - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Kumu's Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/kumus-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Kumu's Adventure",
+      "href": "/games/kumus-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_127",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

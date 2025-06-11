@@ -1,0 +1,54 @@
+{
+  "gameId": 312,
+  "slug": "broken-bridge-car",
+  "metadata": {
+    "title": "Broken Bridge Car - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Broken Bridge Car! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Broken Bridge Car game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/broken-bridge-car",
+    "openGraph": {
+      "title": "Broken Bridge Car - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Broken Bridge Car! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/broken-bridge-car-og.jpg",
+      "url": "https://littlegames.com/games/broken-bridge-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Broken Bridge Car - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Broken Bridge Car! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/broken-bridge-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Broken Bridge Car",
+      "href": "/games/broken-bridge-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_681",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

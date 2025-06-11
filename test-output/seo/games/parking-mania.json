@@ -1,0 +1,54 @@
+{
+  "gameId": 6464,
+  "slug": "parking-mania",
+  "metadata": {
+    "title": "Parking Mania - Thrilling Adventure Quest",
+    "description": "Begin your quest in Parking Mania. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Parking Mania",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/parking-mania",
+    "openGraph": {
+      "title": "Parking Mania - Thrilling Adventure Quest",
+      "description": "Begin your quest in Parking Mania. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/parking-mania-og.jpg",
+      "url": "https://littlegames.com/games/parking-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parking Mania - Thrilling Adventure Quest",
+      "description": "Begin your quest in Parking Mania. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/parking-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Parking Mania",
+      "href": "/games/parking-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_393",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

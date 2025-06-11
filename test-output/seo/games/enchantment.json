@@ -1,0 +1,54 @@
+{
+  "gameId": 4781,
+  "slug": "enchantment",
+  "metadata": {
+    "title": "Action Game Enchantment - Play Free Now",
+    "description": "Join the action in Enchantment! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Enchantment",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/enchantment",
+    "openGraph": {
+      "title": "Action Game Enchantment - Play Free Now",
+      "description": "Join the action in Enchantment! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/enchantment-og.jpg",
+      "url": "https://littlegames.com/games/enchantment",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Enchantment - Play Free Now",
+      "description": "Join the action in Enchantment! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/enchantment-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Enchantment",
+      "href": "/games/enchantment",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_217",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

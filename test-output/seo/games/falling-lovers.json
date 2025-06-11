@@ -1,0 +1,54 @@
+{
+  "gameId": 4612,
+  "slug": "falling-lovers",
+  "metadata": {
+    "title": "Falling Lovers Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Falling Lovers. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Falling Lovers",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/falling-lovers",
+    "openGraph": {
+      "title": "Falling Lovers Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Falling Lovers. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/falling-lovers-og.jpg",
+      "url": "https://littlegames.com/games/falling-lovers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Falling Lovers Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Falling Lovers. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/falling-lovers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Falling Lovers",
+      "href": "/games/falling-lovers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_978",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8076,
+  "slug": "fish-feeding",
+  "metadata": {
+    "title": "Fish Feeding Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Fish Feeding! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Fish Feeding",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fish-feeding",
+    "openGraph": {
+      "title": "Fish Feeding Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fish Feeding! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fish-feeding-og.jpg",
+      "url": "https://littlegames.com/games/fish-feeding",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fish Feeding Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fish Feeding! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fish-feeding-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fish Feeding",
+      "href": "/games/fish-feeding",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_362",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

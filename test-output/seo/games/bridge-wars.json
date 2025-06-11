@@ -1,0 +1,54 @@
+{
+  "gameId": 8320,
+  "slug": "bridge-wars",
+  "metadata": {
+    "title": "Play Bridge Wars - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Bridge Wars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Bridge Wars",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bridge-wars",
+    "openGraph": {
+      "title": "Play Bridge Wars - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Bridge Wars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bridge-wars-og.jpg",
+      "url": "https://littlegames.com/games/bridge-wars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bridge Wars - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Bridge Wars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bridge-wars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bridge Wars",
+      "href": "/games/bridge-wars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_926",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

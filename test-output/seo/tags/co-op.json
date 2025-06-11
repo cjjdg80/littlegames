@@ -1,0 +1,46 @@
+{
+  "tag": "co-op",
+  "displayName": "Co Op",
+  "metadata": {
+    "title": "Co Op Games - Play Free Online",
+    "description": "Discover amazing co op games! Play 199 free games with co op theme. No downloads required.",
+    "keywords": [
+      "co op games",
+      "free online games",
+      "browser games",
+      "co op theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/co-op",
+    "openGraph": {
+      "title": "Co Op Games - Free Online Gaming",
+      "description": "Play the best co op games online for free. 199 games available.",
+      "image": "https://littlegames.com/images/tags/co-op-og.jpg",
+      "url": "https://littlegames.com/tags/co-op",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Co Op Games - Free Online",
+      "description": "Play 199 free co op games online.",
+      "image": "https://littlegames.com/images/tags/co-op-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Co Op",
+      "href": "/tags/co-op",
+      "current": true
+    }
+  ],
+  "description": "Discover games with co op theme! Our collection includes 199 carefully selected games that feature co op elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

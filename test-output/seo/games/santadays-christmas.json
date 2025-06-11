@@ -1,0 +1,54 @@
+{
+  "gameId": 2086,
+  "slug": "santadays-christmas",
+  "metadata": {
+    "title": "SantaDays Christmas - Exciting Action Adventure Game",
+    "description": "SantaDays Christmas delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "SantaDays Christmas",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/santadays-christmas",
+    "openGraph": {
+      "title": "SantaDays Christmas - Exciting Action Adventure Game",
+      "description": "SantaDays Christmas delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/santadays-christmas-og.jpg",
+      "url": "https://littlegames.com/games/santadays-christmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SantaDays Christmas - Exciting Action Adventure Game",
+      "description": "SantaDays Christmas delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/santadays-christmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "SantaDays Christmas",
+      "href": "/games/santadays-christmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_672",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

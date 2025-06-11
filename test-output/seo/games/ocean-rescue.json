@@ -1,0 +1,54 @@
+{
+  "gameId": 9613,
+  "slug": "ocean-rescue",
+  "metadata": {
+    "title": "Ocean Rescue Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Ocean Rescue! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Ocean Rescue game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ocean-rescue",
+    "openGraph": {
+      "title": "Ocean Rescue Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ocean Rescue! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/ocean-rescue-og.jpg",
+      "url": "https://littlegames.com/games/ocean-rescue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ocean Rescue Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ocean Rescue! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ocean-rescue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ocean Rescue",
+      "href": "/games/ocean-rescue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_009",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

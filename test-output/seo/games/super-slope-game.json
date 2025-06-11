@@ -1,0 +1,54 @@
+{
+  "gameId": 4235,
+  "slug": "super-slope-game",
+  "metadata": {
+    "title": "Super Slope Game - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Super Slope Game. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Super Slope Game online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-slope-game",
+    "openGraph": {
+      "title": "Super Slope Game - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Super Slope Game. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/super-slope-game-og.jpg",
+      "url": "https://littlegames.com/games/super-slope-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Slope Game - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Super Slope Game. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/super-slope-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Slope Game",
+      "href": "/games/super-slope-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_291",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

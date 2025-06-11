@@ -1,0 +1,54 @@
+{
+  "gameId": 4949,
+  "slug": "pin-spin",
+  "metadata": {
+    "title": "Pin Spin ! - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Pin Spin !. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Pin Spin ! game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pin-spin",
+    "openGraph": {
+      "title": "Pin Spin ! - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Pin Spin !. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pin-spin-og.jpg",
+      "url": "https://littlegames.com/games/pin-spin",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pin Spin ! - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Pin Spin !. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pin-spin-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pin Spin !",
+      "href": "/games/pin-spin",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_425",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

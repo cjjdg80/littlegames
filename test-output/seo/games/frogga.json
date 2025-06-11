@@ -1,0 +1,54 @@
+{
+  "gameId": 8109,
+  "slug": "frogga",
+  "metadata": {
+    "title": "Frogga - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Frogga! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Frogga game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/frogga",
+    "openGraph": {
+      "title": "Frogga - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Frogga! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/frogga-og.jpg",
+      "url": "https://littlegames.com/games/frogga",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Frogga - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Frogga! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/frogga-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Frogga",
+      "href": "/games/frogga",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_385",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

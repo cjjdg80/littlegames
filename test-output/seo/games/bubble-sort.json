@@ -1,0 +1,54 @@
+{
+  "gameId": 6318,
+  "slug": "bubble-sort",
+  "metadata": {
+    "title": "Action Game Bubble Sort - Play Free Now",
+    "description": "Bubble Sort delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Bubble Sort",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-sort",
+    "openGraph": {
+      "title": "Action Game Bubble Sort - Play Free Now",
+      "description": "Bubble Sort delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bubble-sort-og.jpg",
+      "url": "https://littlegames.com/games/bubble-sort",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bubble Sort - Play Free Now",
+      "description": "Bubble Sort delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bubble-sort-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Sort",
+      "href": "/games/bubble-sort",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_864",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

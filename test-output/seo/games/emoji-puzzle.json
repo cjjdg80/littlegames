@@ -1,0 +1,54 @@
+{
+  "gameId": 1894,
+  "slug": "emoji-puzzle",
+  "metadata": {
+    "title": "Free Emoji Puzzle! Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Emoji Puzzle!! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Emoji Puzzle!",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-puzzle",
+    "openGraph": {
+      "title": "Free Emoji Puzzle! Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Emoji Puzzle!! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/emoji-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Emoji Puzzle! Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Emoji Puzzle!! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Emoji Puzzle!",
+      "href": "/games/emoji-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_720",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

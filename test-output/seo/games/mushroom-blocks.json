@@ -1,0 +1,54 @@
+{
+  "gameId": 8755,
+  "slug": "mushroom-blocks",
+  "metadata": {
+    "title": "Free Mushroom blocks Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Mushroom blocks. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Mushroom blocks",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mushroom-blocks",
+    "openGraph": {
+      "title": "Free Mushroom blocks Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Mushroom blocks. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mushroom-blocks-og.jpg",
+      "url": "https://littlegames.com/games/mushroom-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mushroom blocks Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Mushroom blocks. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mushroom-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mushroom blocks",
+      "href": "/games/mushroom-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_411",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

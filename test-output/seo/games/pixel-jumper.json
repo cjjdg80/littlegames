@@ -1,0 +1,54 @@
+{
+  "gameId": 747,
+  "slug": "pixel-jumper",
+  "metadata": {
+    "title": "Action Game Pixel Jumper - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Pixel Jumper. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Pixel Jumper online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-jumper",
+    "openGraph": {
+      "title": "Action Game Pixel Jumper - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Pixel Jumper. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pixel-jumper-og.jpg",
+      "url": "https://littlegames.com/games/pixel-jumper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pixel Jumper - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Pixel Jumper. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pixel-jumper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pixel Jumper",
+      "href": "/games/pixel-jumper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_163",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

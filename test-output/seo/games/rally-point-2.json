@@ -1,0 +1,54 @@
+{
+  "gameId": 3021,
+  "slug": "rally-point-2",
+  "metadata": {
+    "title": "Rally Point 2 Online - Ultimate Action Gaming Experience",
+    "description": "Rally Point 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Rally Point 2 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/rally-point-2",
+    "openGraph": {
+      "title": "Rally Point 2 Online - Ultimate Action Gaming Experience",
+      "description": "Rally Point 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rally-point-2-og.jpg",
+      "url": "https://littlegames.com/games/rally-point-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rally Point 2 Online - Ultimate Action Gaming Experience",
+      "description": "Rally Point 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rally-point-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rally Point 2",
+      "href": "/games/rally-point-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_657",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

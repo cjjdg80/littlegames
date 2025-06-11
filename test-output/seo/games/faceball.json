@@ -1,0 +1,54 @@
+{
+  "gameId": 4626,
+  "slug": "faceball",
+  "metadata": {
+    "title": "Faceball - Exciting Action Adventure Game",
+    "description": "Join the action in Faceball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Faceball online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/faceball",
+    "openGraph": {
+      "title": "Faceball - Exciting Action Adventure Game",
+      "description": "Join the action in Faceball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/faceball-og.jpg",
+      "url": "https://littlegames.com/games/faceball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Faceball - Exciting Action Adventure Game",
+      "description": "Join the action in Faceball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/faceball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Faceball",
+      "href": "/games/faceball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_412",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

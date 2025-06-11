@@ -1,0 +1,54 @@
+{
+  "gameId": 5683,
+  "slug": "word-holiday",
+  "metadata": {
+    "title": "Word Holiday Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Word Holiday! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Word Holiday",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/word-holiday",
+    "openGraph": {
+      "title": "Word Holiday Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Word Holiday! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/word-holiday-og.jpg",
+      "url": "https://littlegames.com/games/word-holiday",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Holiday Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Word Holiday! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/word-holiday-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Word Holiday",
+      "href": "/games/word-holiday",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_179",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

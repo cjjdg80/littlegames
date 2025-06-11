@@ -1,0 +1,54 @@
+{
+  "gameId": 576,
+  "slug": "axe-master",
+  "metadata": {
+    "title": "Axe Master - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Axe Master! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Axe Master",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/axe-master",
+    "openGraph": {
+      "title": "Axe Master - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Axe Master! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/axe-master-og.jpg",
+      "url": "https://littlegames.com/games/axe-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Axe Master - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Axe Master! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/axe-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Axe Master",
+      "href": "/games/axe-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_862",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

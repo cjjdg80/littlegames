@@ -1,0 +1,54 @@
+{
+  "gameId": 1230,
+  "slug": "wall-breaker",
+  "metadata": {
+    "title": "Wall Breaker - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Wall Breaker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Wall Breaker",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/wall-breaker",
+    "openGraph": {
+      "title": "Wall Breaker - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Wall Breaker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wall-breaker-og.jpg",
+      "url": "https://littlegames.com/games/wall-breaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wall Breaker - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Wall Breaker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wall-breaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Wall Breaker",
+      "href": "/games/wall-breaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_136",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

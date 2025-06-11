@@ -1,0 +1,54 @@
+{
+  "gameId": 214,
+  "slug": "double-gun",
+  "metadata": {
+    "title": "Free Double Gun Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Double Gun. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Double Gun online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/double-gun",
+    "openGraph": {
+      "title": "Free Double Gun Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Double Gun. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/double-gun-og.jpg",
+      "url": "https://littlegames.com/games/double-gun",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Double Gun Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Double Gun. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/double-gun-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Double Gun",
+      "href": "/games/double-gun",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_640",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

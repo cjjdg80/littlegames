@@ -1,0 +1,54 @@
+{
+  "gameId": 2861,
+  "slug": "dice-push",
+  "metadata": {
+    "title": "Action Game Dice Push - Play Free Now",
+    "description": "Experience thrilling action in Dice Push! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Dice Push game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dice-push",
+    "openGraph": {
+      "title": "Action Game Dice Push - Play Free Now",
+      "description": "Experience thrilling action in Dice Push! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/dice-push-og.jpg",
+      "url": "https://littlegames.com/games/dice-push",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Dice Push - Play Free Now",
+      "description": "Experience thrilling action in Dice Push! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/dice-push-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dice Push",
+      "href": "/games/dice-push",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_697",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

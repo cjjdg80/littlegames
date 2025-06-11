@@ -1,0 +1,54 @@
+{
+  "gameId": 2600,
+  "slug": "tile-mahjong",
+  "metadata": {
+    "title": "Tile Mahjong Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Tile Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Tile Mahjong",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tile-mahjong",
+    "openGraph": {
+      "title": "Tile Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Tile Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tile-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/tile-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tile Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Tile Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tile-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tile Mahjong",
+      "href": "/games/tile-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_606",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

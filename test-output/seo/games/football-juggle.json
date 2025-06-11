@@ -1,0 +1,54 @@
+{
+  "gameId": 5581,
+  "slug": "football-juggle",
+  "metadata": {
+    "title": "Play Football Juggle - Free Action Game Online",
+    "description": "Experience thrilling action in Football Juggle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Football Juggle online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/football-juggle",
+    "openGraph": {
+      "title": "Play Football Juggle - Free Action Game Online",
+      "description": "Experience thrilling action in Football Juggle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/football-juggle-og.jpg",
+      "url": "https://littlegames.com/games/football-juggle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Football Juggle - Free Action Game Online",
+      "description": "Experience thrilling action in Football Juggle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/football-juggle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Football Juggle",
+      "href": "/games/football-juggle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_017",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

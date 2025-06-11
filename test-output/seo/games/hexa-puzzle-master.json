@@ -1,0 +1,54 @@
+{
+  "gameId": 9512,
+  "slug": "hexa-puzzle-master",
+  "metadata": {
+    "title": "Play Hexa Puzzle Master - Free Puzzle Game Online",
+    "description": "Hexa Puzzle Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Hexa Puzzle Master online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-puzzle-master",
+    "openGraph": {
+      "title": "Play Hexa Puzzle Master - Free Puzzle Game Online",
+      "description": "Hexa Puzzle Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hexa-puzzle-master-og.jpg",
+      "url": "https://littlegames.com/games/hexa-puzzle-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hexa Puzzle Master - Free Puzzle Game Online",
+      "description": "Hexa Puzzle Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hexa-puzzle-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexa Puzzle Master",
+      "href": "/games/hexa-puzzle-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_878",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

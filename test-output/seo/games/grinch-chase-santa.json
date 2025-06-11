@@ -1,0 +1,54 @@
+{
+  "gameId": 6023,
+  "slug": "grinch-chase-santa",
+  "metadata": {
+    "title": "Free Grinch Chase Santa Game - Adventure Awaits",
+    "description": "Start your epic journey with Grinch Chase Santa! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Grinch Chase Santa game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/grinch-chase-santa",
+    "openGraph": {
+      "title": "Free Grinch Chase Santa Game - Adventure Awaits",
+      "description": "Start your epic journey with Grinch Chase Santa! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/grinch-chase-santa-og.jpg",
+      "url": "https://littlegames.com/games/grinch-chase-santa",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Grinch Chase Santa Game - Adventure Awaits",
+      "description": "Start your epic journey with Grinch Chase Santa! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/grinch-chase-santa-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Grinch Chase Santa",
+      "href": "/games/grinch-chase-santa",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_722",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

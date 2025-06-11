@@ -1,0 +1,54 @@
+{
+  "gameId": 8341,
+  "slug": "unpuzzle-master",
+  "metadata": {
+    "title": "Unpuzzle Master - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Unpuzzle Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Unpuzzle Master online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/unpuzzle-master",
+    "openGraph": {
+      "title": "Unpuzzle Master - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Unpuzzle Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/unpuzzle-master-og.jpg",
+      "url": "https://littlegames.com/games/unpuzzle-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Unpuzzle Master - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Unpuzzle Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/unpuzzle-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Unpuzzle Master",
+      "href": "/games/unpuzzle-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_577",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

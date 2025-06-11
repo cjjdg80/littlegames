@@ -1,0 +1,54 @@
+{
+  "gameId": 2740,
+  "slug": "fly-this",
+  "metadata": {
+    "title": "Fly THIS! - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Fly THIS!. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Fly THIS! online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fly-this",
+    "openGraph": {
+      "title": "Fly THIS! - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fly THIS!. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fly-this-og.jpg",
+      "url": "https://littlegames.com/games/fly-this",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fly THIS! - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fly THIS!. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fly-this-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fly THIS!",
+      "href": "/games/fly-this",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_946",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

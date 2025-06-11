@@ -1,0 +1,54 @@
+{
+  "gameId": 2506,
+  "slug": "dangerous-danny",
+  "metadata": {
+    "title": "Action Game Dangerous Danny - Play Free Now",
+    "description": "Join the action in Dangerous Danny! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Dangerous Danny",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/dangerous-danny",
+    "openGraph": {
+      "title": "Action Game Dangerous Danny - Play Free Now",
+      "description": "Join the action in Dangerous Danny! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dangerous-danny-og.jpg",
+      "url": "https://littlegames.com/games/dangerous-danny",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Dangerous Danny - Play Free Now",
+      "description": "Join the action in Dangerous Danny! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dangerous-danny-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dangerous Danny",
+      "href": "/games/dangerous-danny",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_692",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

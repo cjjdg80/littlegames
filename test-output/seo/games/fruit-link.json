@@ -1,0 +1,54 @@
+{
+  "gameId": 5270,
+  "slug": "fruit-link",
+  "metadata": {
+    "title": "Free Fruit Link Game - Action Packed Fun",
+    "description": "Experience thrilling action in Fruit Link! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Fruit Link",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-link",
+    "openGraph": {
+      "title": "Free Fruit Link Game - Action Packed Fun",
+      "description": "Experience thrilling action in Fruit Link! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/fruit-link-og.jpg",
+      "url": "https://littlegames.com/games/fruit-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Fruit Link Game - Action Packed Fun",
+      "description": "Experience thrilling action in Fruit Link! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/fruit-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fruit Link",
+      "href": "/games/fruit-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_376",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

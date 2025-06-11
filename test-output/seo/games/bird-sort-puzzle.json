@@ -1,0 +1,54 @@
+{
+  "gameId": 6404,
+  "slug": "bird-sort-puzzle",
+  "metadata": {
+    "title": "Free Bird Sort Puzzle Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Bird Sort Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Bird Sort Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/bird-sort-puzzle",
+    "openGraph": {
+      "title": "Free Bird Sort Puzzle Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Bird Sort Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/bird-sort-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/bird-sort-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bird Sort Puzzle Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Bird Sort Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/bird-sort-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bird Sort Puzzle",
+      "href": "/games/bird-sort-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_530",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

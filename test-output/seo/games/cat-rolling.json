@@ -1,0 +1,54 @@
+{
+  "gameId": 1634,
+  "slug": "cat-rolling",
+  "metadata": {
+    "title": "Cat Rolling Online - Logic and Strategy Game",
+    "description": "Cat Rolling offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Cat Rolling game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/cat-rolling",
+    "openGraph": {
+      "title": "Cat Rolling Online - Logic and Strategy Game",
+      "description": "Cat Rolling offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/cat-rolling-og.jpg",
+      "url": "https://littlegames.com/games/cat-rolling",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cat Rolling Online - Logic and Strategy Game",
+      "description": "Cat Rolling offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/cat-rolling-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cat Rolling",
+      "href": "/games/cat-rolling",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_660",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

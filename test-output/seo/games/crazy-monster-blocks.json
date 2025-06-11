@@ -1,0 +1,54 @@
+{
+  "gameId": 4912,
+  "slug": "crazy-monster-blocks",
+  "metadata": {
+    "title": "Puzzle Game Crazy Monster Blocks - Test Your Skills",
+    "description": "Challenge your mind with Crazy Monster Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "puzzle games",
+      "Crazy Monster Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-monster-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Crazy Monster Blocks - Test Your Skills",
+      "description": "Challenge your mind with Crazy Monster Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/crazy-monster-blocks-og.jpg",
+      "url": "https://littlegames.com/games/crazy-monster-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Crazy Monster Blocks - Test Your Skills",
+      "description": "Challenge your mind with Crazy Monster Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/crazy-monster-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crazy Monster Blocks",
+      "href": "/games/crazy-monster-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_278",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

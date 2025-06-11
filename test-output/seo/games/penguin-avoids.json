@@ -1,0 +1,54 @@
+{
+  "gameId": 30,
+  "slug": "penguin-avoids",
+  "metadata": {
+    "title": "Free Penguin Avoids Game - Action Packed Fun",
+    "description": "Experience thrilling action in Penguin Avoids! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Penguin Avoids",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/penguin-avoids",
+    "openGraph": {
+      "title": "Free Penguin Avoids Game - Action Packed Fun",
+      "description": "Experience thrilling action in Penguin Avoids! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/penguin-avoids-og.jpg",
+      "url": "https://littlegames.com/games/penguin-avoids",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Penguin Avoids Game - Action Packed Fun",
+      "description": "Experience thrilling action in Penguin Avoids! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/penguin-avoids-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Penguin Avoids",
+      "href": "/games/penguin-avoids",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_936",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

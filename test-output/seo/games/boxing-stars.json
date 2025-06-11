@@ -1,0 +1,54 @@
+{
+  "gameId": 3201,
+  "slug": "boxing-stars",
+  "metadata": {
+    "title": "Play Boxing Stars - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Boxing Stars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Boxing Stars",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/boxing-stars",
+    "openGraph": {
+      "title": "Play Boxing Stars - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Boxing Stars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boxing-stars-og.jpg",
+      "url": "https://littlegames.com/games/boxing-stars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Boxing Stars - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Boxing Stars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boxing-stars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Boxing Stars",
+      "href": "/games/boxing-stars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_237",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

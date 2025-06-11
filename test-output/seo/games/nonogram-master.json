@@ -1,0 +1,54 @@
+{
+  "gameId": 9718,
+  "slug": "nonogram-master",
+  "metadata": {
+    "title": "Puzzle Game Nonogram Master - Test Your Skills",
+    "description": "Exercise your brain with Nonogram Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Nonogram Master online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/nonogram-master",
+    "openGraph": {
+      "title": "Puzzle Game Nonogram Master - Test Your Skills",
+      "description": "Exercise your brain with Nonogram Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/nonogram-master-og.jpg",
+      "url": "https://littlegames.com/games/nonogram-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Nonogram Master - Test Your Skills",
+      "description": "Exercise your brain with Nonogram Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/nonogram-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Nonogram Master",
+      "href": "/games/nonogram-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_264",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9541,
+  "slug": "cross-connect-word",
+  "metadata": {
+    "title": "Cross Connect Word - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Cross Connect Word! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Cross Connect Word online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cross-connect-word",
+    "openGraph": {
+      "title": "Cross Connect Word - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Cross Connect Word! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/cross-connect-word-og.jpg",
+      "url": "https://littlegames.com/games/cross-connect-word",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cross Connect Word - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Cross Connect Word! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/cross-connect-word-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cross Connect Word",
+      "href": "/games/cross-connect-word",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_777",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

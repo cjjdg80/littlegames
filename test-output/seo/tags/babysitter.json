@@ -1,0 +1,46 @@
+{
+  "tag": "babysitter",
+  "displayName": "Babysitter",
+  "metadata": {
+    "title": "Babysitter Games - Play Free Online",
+    "description": "Discover amazing babysitter games! Play 3 free games with babysitter theme. No downloads required.",
+    "keywords": [
+      "babysitter games",
+      "free online games",
+      "browser games",
+      "babysitter theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/babysitter",
+    "openGraph": {
+      "title": "Babysitter Games - Free Online Gaming",
+      "description": "Play the best babysitter games online for free. 3 games available.",
+      "image": "https://littlegames.com/images/tags/babysitter-og.jpg",
+      "url": "https://littlegames.com/tags/babysitter",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Babysitter Games - Free Online",
+      "description": "Play 3 free babysitter games online.",
+      "image": "https://littlegames.com/images/tags/babysitter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Babysitter",
+      "href": "/tags/babysitter",
+      "current": true
+    }
+  ],
+  "description": "Discover games with babysitter theme! Our collection includes 3 carefully selected games that feature babysitter elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

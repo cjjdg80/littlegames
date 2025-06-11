@@ -1,0 +1,54 @@
+{
+  "gameId": 5034,
+  "slug": "burger-mania",
+  "metadata": {
+    "title": "Free Burger Mania Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Burger Mania. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Burger Mania online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/burger-mania",
+    "openGraph": {
+      "title": "Free Burger Mania Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Burger Mania. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/burger-mania-og.jpg",
+      "url": "https://littlegames.com/games/burger-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Burger Mania Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Burger Mania. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/burger-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Burger Mania",
+      "href": "/games/burger-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_060",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

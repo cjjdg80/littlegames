@@ -1,0 +1,46 @@
+{
+  "tag": "realtime",
+  "displayName": "Realtime",
+  "metadata": {
+    "title": "Realtime Games - Play Free Online",
+    "description": "Discover amazing realtime games! Play 4 free games with realtime theme. No downloads required.",
+    "keywords": [
+      "realtime games",
+      "free online games",
+      "browser games",
+      "realtime theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/realtime",
+    "openGraph": {
+      "title": "Realtime Games - Free Online Gaming",
+      "description": "Play the best realtime games online for free. 4 games available.",
+      "image": "https://littlegames.com/images/tags/realtime-og.jpg",
+      "url": "https://littlegames.com/tags/realtime",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Realtime Games - Free Online",
+      "description": "Play 4 free realtime games online.",
+      "image": "https://littlegames.com/images/tags/realtime-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Realtime",
+      "href": "/tags/realtime",
+      "current": true
+    }
+  ],
+  "description": "Discover games with realtime theme! Our collection includes 4 carefully selected games that feature realtime elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

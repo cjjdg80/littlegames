@@ -1,0 +1,54 @@
+{
+  "gameId": 8424,
+  "slug": "guess-the-drawing",
+  "metadata": {
+    "title": "Guess The Drawing - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Guess The Drawing! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Guess The Drawing online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/guess-the-drawing",
+    "openGraph": {
+      "title": "Guess The Drawing - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Guess The Drawing! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/guess-the-drawing-og.jpg",
+      "url": "https://littlegames.com/games/guess-the-drawing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Guess The Drawing - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Guess The Drawing! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/guess-the-drawing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Guess The Drawing",
+      "href": "/games/guess-the-drawing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_150",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

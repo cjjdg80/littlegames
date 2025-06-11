@@ -1,0 +1,54 @@
+{
+  "gameId": 4549,
+  "slug": "swipe-runner",
+  "metadata": {
+    "title": "Action Game Swipe Runner - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Swipe Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Swipe Runner",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/swipe-runner",
+    "openGraph": {
+      "title": "Action Game Swipe Runner - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Swipe Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/swipe-runner-og.jpg",
+      "url": "https://littlegames.com/games/swipe-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Swipe Runner - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Swipe Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/swipe-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Swipe Runner",
+      "href": "/games/swipe-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_025",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

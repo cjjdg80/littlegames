@@ -1,0 +1,54 @@
+{
+  "gameId": 28,
+  "slug": "cat-doctor-sim",
+  "metadata": {
+    "title": "Cat Doctor Sim Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cat Doctor Sim. This free online simulation game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Cat Doctor Sim game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cat-doctor-sim",
+    "openGraph": {
+      "title": "Cat Doctor Sim Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cat Doctor Sim. This free online simulation game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/cat-doctor-sim-og.jpg",
+      "url": "https://littlegames.com/games/cat-doctor-sim",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cat Doctor Sim Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cat Doctor Sim. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cat-doctor-sim-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Cat Doctor Sim",
+      "href": "/games/cat-doctor-sim",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_878",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

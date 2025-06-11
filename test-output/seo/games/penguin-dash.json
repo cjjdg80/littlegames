@@ -1,0 +1,54 @@
+{
+  "gameId": 6924,
+  "slug": "penguin-dash",
+  "metadata": {
+    "title": "Free Penguin Dash Game - Adventure Awaits",
+    "description": "Begin your quest in Penguin Dash. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Penguin Dash",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/penguin-dash",
+    "openGraph": {
+      "title": "Free Penguin Dash Game - Adventure Awaits",
+      "description": "Begin your quest in Penguin Dash. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/penguin-dash-og.jpg",
+      "url": "https://littlegames.com/games/penguin-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Penguin Dash Game - Adventure Awaits",
+      "description": "Begin your quest in Penguin Dash. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/penguin-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Penguin Dash",
+      "href": "/games/penguin-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_653",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

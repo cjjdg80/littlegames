@@ -1,0 +1,54 @@
+{
+  "gameId": 1676,
+  "slug": "stars-numbers",
+  "metadata": {
+    "title": "Free Stars Numbers Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Stars Numbers. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Stars Numbers game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/stars-numbers",
+    "openGraph": {
+      "title": "Free Stars Numbers Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Stars Numbers. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/stars-numbers-og.jpg",
+      "url": "https://littlegames.com/games/stars-numbers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stars Numbers Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Stars Numbers. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stars-numbers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stars Numbers",
+      "href": "/games/stars-numbers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_962",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5534,
+  "slug": "rope-the-city",
+  "metadata": {
+    "title": "Play Rope The City - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Rope The City. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Rope The City online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/rope-the-city",
+    "openGraph": {
+      "title": "Play Rope The City - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Rope The City. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rope-the-city-og.jpg",
+      "url": "https://littlegames.com/games/rope-the-city",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Rope The City - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Rope The City. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rope-the-city-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rope The City",
+      "href": "/games/rope-the-city",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_560",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

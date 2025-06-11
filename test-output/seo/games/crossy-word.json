@@ -1,0 +1,54 @@
+{
+  "gameId": 261,
+  "slug": "crossy-word",
+  "metadata": {
+    "title": "Free Crossy Word Game - Action Packed Fun",
+    "description": "Join the action in Crossy Word! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Crossy Word online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/crossy-word",
+    "openGraph": {
+      "title": "Free Crossy Word Game - Action Packed Fun",
+      "description": "Join the action in Crossy Word! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/crossy-word-og.jpg",
+      "url": "https://littlegames.com/games/crossy-word",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Crossy Word Game - Action Packed Fun",
+      "description": "Join the action in Crossy Word! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/crossy-word-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crossy Word",
+      "href": "/games/crossy-word",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_097",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9579,
+  "slug": "glitch",
+  "metadata": {
+    "title": "Glitch - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Glitch! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Glitch",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/glitch",
+    "openGraph": {
+      "title": "Glitch - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Glitch! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/glitch-og.jpg",
+      "url": "https://littlegames.com/games/glitch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Glitch - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Glitch! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/glitch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Glitch",
+      "href": "/games/glitch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_955",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

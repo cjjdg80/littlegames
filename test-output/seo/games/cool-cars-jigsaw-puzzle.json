@@ -1,0 +1,54 @@
+{
+  "gameId": 860,
+  "slug": "cool-cars-jigsaw-puzzle",
+  "metadata": {
+    "title": "Cool Cars Jigsaw Puzzle Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Cool Cars Jigsaw Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Cool Cars Jigsaw Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/cool-cars-jigsaw-puzzle",
+    "openGraph": {
+      "title": "Cool Cars Jigsaw Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Cool Cars Jigsaw Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/cool-cars-jigsaw-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/cool-cars-jigsaw-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cool Cars Jigsaw Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Cool Cars Jigsaw Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/cool-cars-jigsaw-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cool Cars Jigsaw Puzzle",
+      "href": "/games/cool-cars-jigsaw-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_666",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

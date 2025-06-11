@@ -1,0 +1,54 @@
+{
+  "gameId": 2225,
+  "slug": "scrape-and-guess",
+  "metadata": {
+    "title": "Action Game Scrape and Guess - Play Free Now",
+    "description": "Join the action in Scrape and Guess! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Scrape and Guess online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/scrape-and-guess",
+    "openGraph": {
+      "title": "Action Game Scrape and Guess - Play Free Now",
+      "description": "Join the action in Scrape and Guess! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/scrape-and-guess-og.jpg",
+      "url": "https://littlegames.com/games/scrape-and-guess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Scrape and Guess - Play Free Now",
+      "description": "Join the action in Scrape and Guess! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/scrape-and-guess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Scrape and Guess",
+      "href": "/games/scrape-and-guess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_981",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

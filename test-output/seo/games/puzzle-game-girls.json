@@ -1,0 +1,54 @@
+{
+  "gameId": 1975,
+  "slug": "puzzle-game-girls",
+  "metadata": {
+    "title": "Puzzle Game Girls - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Puzzle Game Girls! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "play Puzzle Game Girls",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-game-girls",
+    "openGraph": {
+      "title": "Puzzle Game Girls - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Puzzle Game Girls! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/puzzle-game-girls-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-game-girls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Girls - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Puzzle Game Girls! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/puzzle-game-girls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Game Girls",
+      "href": "/games/puzzle-game-girls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_231",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

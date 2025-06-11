@@ -1,0 +1,54 @@
+{
+  "gameId": 8795,
+  "slug": "basket-shot",
+  "metadata": {
+    "title": "Play Basket Shot - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Basket Shot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Basket Shot",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/basket-shot",
+    "openGraph": {
+      "title": "Play Basket Shot - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Basket Shot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/basket-shot-og.jpg",
+      "url": "https://littlegames.com/games/basket-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Basket Shot - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Basket Shot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/basket-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basket Shot",
+      "href": "/games/basket-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_651",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

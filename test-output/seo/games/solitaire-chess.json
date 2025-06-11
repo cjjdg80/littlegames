@@ -1,0 +1,54 @@
+{
+  "gameId": 5191,
+  "slug": "solitaire-chess",
+  "metadata": {
+    "title": "Free Solitaire Chess Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Solitaire Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Solitaire Chess",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/solitaire-chess",
+    "openGraph": {
+      "title": "Free Solitaire Chess Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Solitaire Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/solitaire-chess-og.jpg",
+      "url": "https://littlegames.com/games/solitaire-chess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Solitaire Chess Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Solitaire Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/solitaire-chess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Solitaire Chess",
+      "href": "/games/solitaire-chess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_927",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

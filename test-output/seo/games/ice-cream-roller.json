@@ -1,0 +1,54 @@
+{
+  "gameId": 7617,
+  "slug": "ice-cream-roller",
+  "metadata": {
+    "title": "Play Ice Cream Roller! - Epic Adventure Game Online",
+    "description": "Begin your quest in Ice Cream Roller!. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Ice Cream Roller!",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/ice-cream-roller",
+    "openGraph": {
+      "title": "Play Ice Cream Roller! - Epic Adventure Game Online",
+      "description": "Begin your quest in Ice Cream Roller!. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/ice-cream-roller-og.jpg",
+      "url": "https://littlegames.com/games/ice-cream-roller",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ice Cream Roller! - Epic Adventure Game Online",
+      "description": "Begin your quest in Ice Cream Roller!. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/ice-cream-roller-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ice Cream Roller!",
+      "href": "/games/ice-cream-roller",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_136",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

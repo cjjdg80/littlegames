@@ -1,0 +1,54 @@
+{
+  "gameId": 1012,
+  "slug": "wobble-man-online",
+  "metadata": {
+    "title": "Wobble Man Online Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Wobble Man Online. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Wobble Man Online online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wobble-man-online",
+    "openGraph": {
+      "title": "Wobble Man Online Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Wobble Man Online. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/wobble-man-online-og.jpg",
+      "url": "https://littlegames.com/games/wobble-man-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wobble Man Online Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Wobble Man Online. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wobble-man-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wobble Man Online",
+      "href": "/games/wobble-man-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_378",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

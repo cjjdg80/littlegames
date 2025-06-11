@@ -1,0 +1,54 @@
+{
+  "gameId": 2431,
+  "slug": "splash-colors",
+  "metadata": {
+    "title": "Splash Colors - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Splash Colors. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Splash Colors online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/splash-colors",
+    "openGraph": {
+      "title": "Splash Colors - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Splash Colors. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/splash-colors-og.jpg",
+      "url": "https://littlegames.com/games/splash-colors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Splash Colors - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Splash Colors. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/splash-colors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Splash Colors",
+      "href": "/games/splash-colors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_367",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

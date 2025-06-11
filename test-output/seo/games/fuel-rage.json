@@ -1,0 +1,54 @@
+{
+  "gameId": 6825,
+  "slug": "fuel-rage",
+  "metadata": {
+    "title": "Free Fuel Rage Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Fuel Rage. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Fuel Rage game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fuel-rage",
+    "openGraph": {
+      "title": "Free Fuel Rage Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Fuel Rage. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fuel-rage-og.jpg",
+      "url": "https://littlegames.com/games/fuel-rage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Fuel Rage Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Fuel Rage. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fuel-rage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fuel Rage",
+      "href": "/games/fuel-rage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_581",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

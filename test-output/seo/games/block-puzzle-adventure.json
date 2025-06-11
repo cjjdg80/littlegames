@@ -1,0 +1,54 @@
+{
+  "gameId": 6674,
+  "slug": "block-puzzle-adventure",
+  "metadata": {
+    "title": "Block Puzzle Adventure - Thrilling Adventure Quest",
+    "description": "Begin your quest in Block Puzzle Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Block Puzzle Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/block-puzzle-adventure",
+    "openGraph": {
+      "title": "Block Puzzle Adventure - Thrilling Adventure Quest",
+      "description": "Begin your quest in Block Puzzle Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/block-puzzle-adventure-og.jpg",
+      "url": "https://littlegames.com/games/block-puzzle-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Block Puzzle Adventure - Thrilling Adventure Quest",
+      "description": "Begin your quest in Block Puzzle Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/block-puzzle-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Block Puzzle Adventure",
+      "href": "/games/block-puzzle-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_903",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

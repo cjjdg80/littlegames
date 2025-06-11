@@ -1,0 +1,54 @@
+{
+  "gameId": 4013,
+  "slug": "balloon-run",
+  "metadata": {
+    "title": "Play Balloon Run - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Balloon Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Balloon Run",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/balloon-run",
+    "openGraph": {
+      "title": "Play Balloon Run - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Balloon Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/balloon-run-og.jpg",
+      "url": "https://littlegames.com/games/balloon-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Balloon Run - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Balloon Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/balloon-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Balloon Run",
+      "href": "/games/balloon-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_409",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

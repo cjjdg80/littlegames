@@ -1,0 +1,54 @@
+{
+  "gameId": 2021,
+  "slug": "ski-jump",
+  "metadata": {
+    "title": "Free Ski Jump Game - Action Packed Fun",
+    "description": "Experience thrilling action in Ski Jump! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Ski Jump game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ski-jump",
+    "openGraph": {
+      "title": "Free Ski Jump Game - Action Packed Fun",
+      "description": "Experience thrilling action in Ski Jump! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/ski-jump-og.jpg",
+      "url": "https://littlegames.com/games/ski-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ski Jump Game - Action Packed Fun",
+      "description": "Experience thrilling action in Ski Jump! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ski-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Ski Jump",
+      "href": "/games/ski-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_657",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

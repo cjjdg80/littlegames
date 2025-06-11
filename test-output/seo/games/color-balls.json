@@ -1,0 +1,54 @@
+{
+  "gameId": 639,
+  "slug": "color-balls",
+  "metadata": {
+    "title": "Free Color Balls Game - Action Packed Fun",
+    "description": "Join the action in Color Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Color Balls game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/color-balls",
+    "openGraph": {
+      "title": "Free Color Balls Game - Action Packed Fun",
+      "description": "Join the action in Color Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-balls-og.jpg",
+      "url": "https://littlegames.com/games/color-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Color Balls Game - Action Packed Fun",
+      "description": "Join the action in Color Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Balls",
+      "href": "/games/color-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_815",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

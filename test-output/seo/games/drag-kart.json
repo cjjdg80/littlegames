@@ -1,0 +1,54 @@
+{
+  "gameId": 687,
+  "slug": "drag-kart",
+  "metadata": {
+    "title": "Drag Kart - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Drag Kart! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Drag Kart",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/drag-kart",
+    "openGraph": {
+      "title": "Drag Kart - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Drag Kart! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/drag-kart-og.jpg",
+      "url": "https://littlegames.com/games/drag-kart",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drag Kart - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Drag Kart! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/drag-kart-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drag Kart",
+      "href": "/games/drag-kart",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_303",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

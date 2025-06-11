@@ -1,0 +1,54 @@
+{
+  "gameId": 3498,
+  "slug": "squid-challenge",
+  "metadata": {
+    "title": "Squid Challenge Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Squid Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Squid Challenge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/squid-challenge",
+    "openGraph": {
+      "title": "Squid Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Squid Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/squid-challenge-og.jpg",
+      "url": "https://littlegames.com/games/squid-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squid Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Squid Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/squid-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squid Challenge",
+      "href": "/games/squid-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_444",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

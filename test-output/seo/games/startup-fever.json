@@ -1,0 +1,54 @@
+{
+  "gameId": 5957,
+  "slug": "startup-fever",
+  "metadata": {
+    "title": "Startup Fever - Exciting Action Adventure Game",
+    "description": "Join the action in Startup Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Startup Fever game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/startup-fever",
+    "openGraph": {
+      "title": "Startup Fever - Exciting Action Adventure Game",
+      "description": "Join the action in Startup Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/startup-fever-og.jpg",
+      "url": "https://littlegames.com/games/startup-fever",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Startup Fever - Exciting Action Adventure Game",
+      "description": "Join the action in Startup Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/startup-fever-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Startup Fever",
+      "href": "/games/startup-fever",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_673",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

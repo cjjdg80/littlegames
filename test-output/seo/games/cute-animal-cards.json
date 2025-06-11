@@ -1,0 +1,54 @@
+{
+  "gameId": 5656,
+  "slug": "cute-animal-cards",
+  "metadata": {
+    "title": "Cute Animal Cards - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Cute Animal Cards. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Cute Animal Cards game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cute-animal-cards",
+    "openGraph": {
+      "title": "Cute Animal Cards - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Cute Animal Cards. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/cute-animal-cards-og.jpg",
+      "url": "https://littlegames.com/games/cute-animal-cards",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cute Animal Cards - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Cute Animal Cards. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cute-animal-cards-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cute Animal Cards",
+      "href": "/games/cute-animal-cards",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_342",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

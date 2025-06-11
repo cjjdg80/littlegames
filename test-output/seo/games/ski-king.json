@@ -1,0 +1,54 @@
+{
+  "gameId": 2471,
+  "slug": "ski-king",
+  "metadata": {
+    "title": "Ski King Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Ski King! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Ski King",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ski-king",
+    "openGraph": {
+      "title": "Ski King Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ski King! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/ski-king-og.jpg",
+      "url": "https://littlegames.com/games/ski-king",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ski King Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ski King! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ski-king-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Ski King",
+      "href": "/games/ski-king",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_607",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

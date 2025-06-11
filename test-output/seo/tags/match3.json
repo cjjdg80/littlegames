@@ -1,0 +1,46 @@
+{
+  "tag": "match3",
+  "displayName": "Match3",
+  "metadata": {
+    "title": "Match3 Games - Play Free Online",
+    "description": "Discover amazing match3 games! Play 117 free games with match3 theme. No downloads required.",
+    "keywords": [
+      "match3 games",
+      "free online games",
+      "browser games",
+      "match3 theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/match3",
+    "openGraph": {
+      "title": "Match3 Games - Free Online Gaming",
+      "description": "Play the best match3 games online for free. 117 games available.",
+      "image": "https://littlegames.com/images/tags/match3-og.jpg",
+      "url": "https://littlegames.com/tags/match3",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Match3 Games - Free Online",
+      "description": "Play 117 free match3 games online.",
+      "image": "https://littlegames.com/images/tags/match3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Match3",
+      "href": "/tags/match3",
+      "current": true
+    }
+  ],
+  "description": "Discover games with match3 theme! Our collection includes 117 carefully selected games that feature match3 elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

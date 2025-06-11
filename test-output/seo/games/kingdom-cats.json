@@ -1,0 +1,54 @@
+{
+  "gameId": 9916,
+  "slug": "kingdom-cats",
+  "metadata": {
+    "title": "Kingdom Cats - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Kingdom Cats. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Kingdom Cats",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/kingdom-cats",
+    "openGraph": {
+      "title": "Kingdom Cats - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Kingdom Cats. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kingdom-cats-og.jpg",
+      "url": "https://littlegames.com/games/kingdom-cats",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kingdom Cats - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Kingdom Cats. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kingdom-cats-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Kingdom Cats",
+      "href": "/games/kingdom-cats",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_402",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

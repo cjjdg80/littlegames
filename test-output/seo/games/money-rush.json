@@ -1,0 +1,54 @@
+{
+  "gameId": 5411,
+  "slug": "money-rush",
+  "metadata": {
+    "title": "Money Rush - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Money Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Money Rush",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/money-rush",
+    "openGraph": {
+      "title": "Money Rush - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Money Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/money-rush-og.jpg",
+      "url": "https://littlegames.com/games/money-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Money Rush - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Money Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/money-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Money Rush",
+      "href": "/games/money-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_747",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

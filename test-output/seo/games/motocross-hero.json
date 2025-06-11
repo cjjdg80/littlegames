@@ -1,0 +1,54 @@
+{
+  "gameId": 2946,
+  "slug": "motocross-hero",
+  "metadata": {
+    "title": "Motocross Hero Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Motocross Hero! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Motocross Hero online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/motocross-hero",
+    "openGraph": {
+      "title": "Motocross Hero Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Motocross Hero! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/motocross-hero-og.jpg",
+      "url": "https://littlegames.com/games/motocross-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Motocross Hero Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Motocross Hero! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/motocross-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Motocross Hero",
+      "href": "/games/motocross-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_332",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

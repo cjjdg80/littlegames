@@ -1,0 +1,54 @@
+{
+  "gameId": 720,
+  "slug": "neon-war",
+  "metadata": {
+    "title": "Neon War - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Neon War. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Neon War",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/neon-war",
+    "openGraph": {
+      "title": "Neon War - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Neon War. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/neon-war-og.jpg",
+      "url": "https://littlegames.com/games/neon-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Neon War - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Neon War. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/neon-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Neon War",
+      "href": "/games/neon-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_326",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

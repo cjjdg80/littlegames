@@ -1,0 +1,54 @@
+{
+  "gameId": 934,
+  "slug": "sniper-wolf-hunter",
+  "metadata": {
+    "title": "Sniper Wolf Hunter - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Sniper Wolf Hunter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Sniper Wolf Hunter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sniper-wolf-hunter",
+    "openGraph": {
+      "title": "Sniper Wolf Hunter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Sniper Wolf Hunter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/sniper-wolf-hunter-og.jpg",
+      "url": "https://littlegames.com/games/sniper-wolf-hunter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sniper Wolf Hunter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Sniper Wolf Hunter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sniper-wolf-hunter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sniper Wolf Hunter",
+      "href": "/games/sniper-wolf-hunter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_960",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

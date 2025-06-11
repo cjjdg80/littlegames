@@ -1,0 +1,54 @@
+{
+  "gameId": 8939,
+  "slug": "gun-racing",
+  "metadata": {
+    "title": "Action Game Gun Racing - Play Free Now",
+    "description": "Join the action in Gun Racing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Gun Racing",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gun-racing",
+    "openGraph": {
+      "title": "Action Game Gun Racing - Play Free Now",
+      "description": "Join the action in Gun Racing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gun-racing-og.jpg",
+      "url": "https://littlegames.com/games/gun-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Gun Racing - Play Free Now",
+      "description": "Join the action in Gun Racing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/gun-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Gun Racing",
+      "href": "/games/gun-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_115",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

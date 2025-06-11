@@ -1,0 +1,54 @@
+{
+  "gameId": 3509,
+  "slug": "color-maze-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Color Maze Puzzle - Test Your Skills",
+    "description": "Color Maze Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Color Maze Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/color-maze-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Color Maze Puzzle - Test Your Skills",
+      "description": "Color Maze Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/color-maze-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/color-maze-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Color Maze Puzzle - Test Your Skills",
+      "description": "Color Maze Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/color-maze-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Color Maze Puzzle",
+      "href": "/games/color-maze-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_785",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

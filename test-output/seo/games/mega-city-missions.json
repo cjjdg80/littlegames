@@ -1,0 +1,54 @@
+{
+  "gameId": 2996,
+  "slug": "mega-city-missions",
+  "metadata": {
+    "title": "Mega City Missions Online - Ultimate Action Gaming...",
+    "description": "Experience thrilling action in Mega City Missions! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Mega City Missions online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mega-city-missions",
+    "openGraph": {
+      "title": "Mega City Missions Online - Ultimate Action Gaming...",
+      "description": "Experience thrilling action in Mega City Missions! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/mega-city-missions-og.jpg",
+      "url": "https://littlegames.com/games/mega-city-missions",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mega City Missions Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mega City Missions! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mega-city-missions-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mega City Missions",
+      "href": "/games/mega-city-missions",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_882",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

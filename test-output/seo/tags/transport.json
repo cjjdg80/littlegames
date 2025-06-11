@@ -1,0 +1,46 @@
+{
+  "tag": "transport",
+  "displayName": "Transport",
+  "metadata": {
+    "title": "Transport Games - Play Free Online",
+    "description": "Discover amazing transport games! Play 22 free games with transport theme. No downloads required.",
+    "keywords": [
+      "transport games",
+      "free online games",
+      "browser games",
+      "transport theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/transport",
+    "openGraph": {
+      "title": "Transport Games - Free Online Gaming",
+      "description": "Play the best transport games online for free. 22 games available.",
+      "image": "https://littlegames.com/images/tags/transport-og.jpg",
+      "url": "https://littlegames.com/tags/transport",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Transport Games - Free Online",
+      "description": "Play 22 free transport games online.",
+      "image": "https://littlegames.com/images/tags/transport-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Transport",
+      "href": "/tags/transport",
+      "current": true
+    }
+  ],
+  "description": "Discover games with transport theme! Our collection includes 22 carefully selected games that feature transport elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

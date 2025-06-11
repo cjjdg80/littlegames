@@ -1,0 +1,54 @@
+{
+  "gameId": 8124,
+  "slug": "digital-circus-run",
+  "metadata": {
+    "title": "Free Digital Circus Run Game - Adventure Awaits",
+    "description": "Digital Circus Run offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Digital Circus Run online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/digital-circus-run",
+    "openGraph": {
+      "title": "Free Digital Circus Run Game - Adventure Awaits",
+      "description": "Digital Circus Run offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/digital-circus-run-og.jpg",
+      "url": "https://littlegames.com/games/digital-circus-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Digital Circus Run Game - Adventure Awaits",
+      "description": "Digital Circus Run offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/digital-circus-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Digital Circus Run",
+      "href": "/games/digital-circus-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_853",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

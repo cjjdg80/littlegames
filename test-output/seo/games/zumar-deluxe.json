@@ -1,0 +1,54 @@
+{
+  "gameId": 5350,
+  "slug": "zumar-deluxe",
+  "metadata": {
+    "title": "ZUMAR DELUXE - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with ZUMAR DELUXE. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "ZUMAR DELUXE",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/zumar-deluxe",
+    "openGraph": {
+      "title": "ZUMAR DELUXE - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with ZUMAR DELUXE. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/zumar-deluxe-og.jpg",
+      "url": "https://littlegames.com/games/zumar-deluxe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ZUMAR DELUXE - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with ZUMAR DELUXE. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/zumar-deluxe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "ZUMAR DELUXE",
+      "href": "/games/zumar-deluxe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_856",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

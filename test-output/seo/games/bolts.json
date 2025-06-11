@@ -1,0 +1,54 @@
+{
+  "gameId": 9748,
+  "slug": "bolts",
+  "metadata": {
+    "title": "Bolts Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Bolts. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Bolts online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bolts",
+    "openGraph": {
+      "title": "Bolts Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Bolts. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bolts-og.jpg",
+      "url": "https://littlegames.com/games/bolts",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bolts Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Bolts. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bolts-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bolts",
+      "href": "/games/bolts",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_194",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4267,
+  "slug": "frescoz",
+  "metadata": {
+    "title": "Frescoz! Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Frescoz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Frescoz! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/frescoz",
+    "openGraph": {
+      "title": "Frescoz! Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Frescoz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/frescoz-og.jpg",
+      "url": "https://littlegames.com/games/frescoz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Frescoz! Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Frescoz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/frescoz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Frescoz!",
+      "href": "/games/frescoz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_283",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

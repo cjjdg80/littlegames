@@ -1,0 +1,54 @@
+{
+  "gameId": 3740,
+  "slug": "stick-fighter-3d",
+  "metadata": {
+    "title": "Stick Fighter 3D Online - Ultimate Action Gaming Experience",
+    "description": "Stick Fighter 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Stick Fighter 3D online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stick-fighter-3d",
+    "openGraph": {
+      "title": "Stick Fighter 3D Online - Ultimate Action Gaming Experience",
+      "description": "Stick Fighter 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stick-fighter-3d-og.jpg",
+      "url": "https://littlegames.com/games/stick-fighter-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stick Fighter 3D Online - Ultimate Action Gaming Experience",
+      "description": "Stick Fighter 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stick-fighter-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stick Fighter 3D",
+      "href": "/games/stick-fighter-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_946",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2856,
+  "slug": "tank-hero-online",
+  "metadata": {
+    "title": "Action Game Tank Hero Online - Play Free Now",
+    "description": "Tank Hero Online delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Tank Hero Online",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tank-hero-online",
+    "openGraph": {
+      "title": "Action Game Tank Hero Online - Play Free Now",
+      "description": "Tank Hero Online delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tank-hero-online-og.jpg",
+      "url": "https://littlegames.com/games/tank-hero-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tank Hero Online - Play Free Now",
+      "description": "Tank Hero Online delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tank-hero-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tank Hero Online",
+      "href": "/games/tank-hero-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_542",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

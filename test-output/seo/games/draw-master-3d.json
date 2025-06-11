@@ -1,0 +1,54 @@
+{
+  "gameId": 1549,
+  "slug": "draw-master-3d",
+  "metadata": {
+    "title": "Draw Master 3D - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Draw Master 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Draw Master 3D",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-master-3d",
+    "openGraph": {
+      "title": "Draw Master 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Draw Master 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/draw-master-3d-og.jpg",
+      "url": "https://littlegames.com/games/draw-master-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw Master 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Draw Master 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/draw-master-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Draw Master 3D",
+      "href": "/games/draw-master-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_025",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

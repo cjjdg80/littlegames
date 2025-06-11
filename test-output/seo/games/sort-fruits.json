@@ -1,0 +1,54 @@
+{
+  "gameId": 5960,
+  "slug": "sort-fruits",
+  "metadata": {
+    "title": "Action Game Sort Fruits - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Sort Fruits. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Sort Fruits game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sort-fruits",
+    "openGraph": {
+      "title": "Action Game Sort Fruits - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Sort Fruits. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sort-fruits-og.jpg",
+      "url": "https://littlegames.com/games/sort-fruits",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Sort Fruits - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Sort Fruits. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sort-fruits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sort Fruits",
+      "href": "/games/sort-fruits",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_766",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

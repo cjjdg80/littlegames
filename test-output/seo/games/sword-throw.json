@@ -1,0 +1,54 @@
+{
+  "gameId": 1960,
+  "slug": "sword-throw",
+  "metadata": {
+    "title": "Sword Throw - Exciting Action Adventure Game",
+    "description": "Join the action in Sword Throw! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Sword Throw game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sword-throw",
+    "openGraph": {
+      "title": "Sword Throw - Exciting Action Adventure Game",
+      "description": "Join the action in Sword Throw! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sword-throw-og.jpg",
+      "url": "https://littlegames.com/games/sword-throw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sword Throw - Exciting Action Adventure Game",
+      "description": "Join the action in Sword Throw! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sword-throw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sword Throw",
+      "href": "/games/sword-throw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_766",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

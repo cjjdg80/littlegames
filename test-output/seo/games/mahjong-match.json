@@ -1,0 +1,54 @@
+{
+  "gameId": 9090,
+  "slug": "mahjong-match",
+  "metadata": {
+    "title": "Mahjong Match Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Mahjong Match. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Mahjong Match game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-match",
+    "openGraph": {
+      "title": "Mahjong Match Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mahjong Match. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mahjong-match-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong Match Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mahjong Match. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mahjong-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Match",
+      "href": "/games/mahjong-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_796",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

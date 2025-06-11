@@ -1,0 +1,54 @@
+{
+  "gameId": 476,
+  "slug": "free-city-drive",
+  "metadata": {
+    "title": "Free City Drive - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Free City Drive! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Free City Drive",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/free-city-drive",
+    "openGraph": {
+      "title": "Free City Drive - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Free City Drive! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/free-city-drive-og.jpg",
+      "url": "https://littlegames.com/games/free-city-drive",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free City Drive - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Free City Drive! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/free-city-drive-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Free City Drive",
+      "href": "/games/free-city-drive",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_762",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

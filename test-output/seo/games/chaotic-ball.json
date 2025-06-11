@@ -1,0 +1,54 @@
+{
+  "gameId": 2733,
+  "slug": "chaotic-ball",
+  "metadata": {
+    "title": "Chaotic Ball - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Chaotic Ball. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Chaotic Ball",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/chaotic-ball",
+    "openGraph": {
+      "title": "Chaotic Ball - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Chaotic Ball. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/chaotic-ball-og.jpg",
+      "url": "https://littlegames.com/games/chaotic-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chaotic Ball - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Chaotic Ball. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/chaotic-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Chaotic Ball",
+      "href": "/games/chaotic-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_729",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

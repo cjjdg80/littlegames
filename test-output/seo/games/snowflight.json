@@ -1,0 +1,54 @@
+{
+  "gameId": 9575,
+  "slug": "snowflight",
+  "metadata": {
+    "title": "Free Snowflight Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Snowflight! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Snowflight",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/snowflight",
+    "openGraph": {
+      "title": "Free Snowflight Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Snowflight! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/snowflight-og.jpg",
+      "url": "https://littlegames.com/games/snowflight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Snowflight Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Snowflight! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/snowflight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Snowflight",
+      "href": "/games/snowflight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_834",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

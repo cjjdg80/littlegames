@@ -1,0 +1,54 @@
+{
+  "gameId": 2773,
+  "slug": "3d-rubik",
+  "metadata": {
+    "title": "3D Rubik - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with 3D Rubik. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "3D Rubik",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/3d-rubik",
+    "openGraph": {
+      "title": "3D Rubik - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with 3D Rubik. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/3d-rubik-og.jpg",
+      "url": "https://littlegames.com/games/3d-rubik",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "3D Rubik - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with 3D Rubik. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/3d-rubik-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "3D Rubik",
+      "href": "/games/3d-rubik",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_969",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

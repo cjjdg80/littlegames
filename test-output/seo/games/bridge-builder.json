@@ -1,0 +1,54 @@
+{
+  "gameId": 4305,
+  "slug": "bridge-builder",
+  "metadata": {
+    "title": "Bridge Builder Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Bridge Builder. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Bridge Builder",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bridge-builder",
+    "openGraph": {
+      "title": "Bridge Builder Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Bridge Builder. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/bridge-builder-og.jpg",
+      "url": "https://littlegames.com/games/bridge-builder",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bridge Builder Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Bridge Builder. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bridge-builder-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bridge Builder",
+      "href": "/games/bridge-builder",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_461",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

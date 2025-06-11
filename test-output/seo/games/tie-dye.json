@@ -1,0 +1,54 @@
+{
+  "gameId": 1418,
+  "slug": "tie-dye",
+  "metadata": {
+    "title": "Tie Dye - Exciting Action Adventure Game",
+    "description": "Join the action in Tie Dye! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Tie Dye",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tie-dye",
+    "openGraph": {
+      "title": "Tie Dye - Exciting Action Adventure Game",
+      "description": "Join the action in Tie Dye! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tie-dye-og.jpg",
+      "url": "https://littlegames.com/games/tie-dye",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tie Dye - Exciting Action Adventure Game",
+      "description": "Join the action in Tie Dye! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tie-dye-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tie Dye",
+      "href": "/games/tie-dye",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_964",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

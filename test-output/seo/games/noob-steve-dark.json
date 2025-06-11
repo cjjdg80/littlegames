@@ -1,0 +1,54 @@
+{
+  "gameId": 4750,
+  "slug": "noob-steve-dark",
+  "metadata": {
+    "title": "Play Noob Steve Dark - Epic Adventure Game Online",
+    "description": "Discover new worlds in Noob Steve Dark. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Noob Steve Dark",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/noob-steve-dark",
+    "openGraph": {
+      "title": "Play Noob Steve Dark - Epic Adventure Game Online",
+      "description": "Discover new worlds in Noob Steve Dark. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/noob-steve-dark-og.jpg",
+      "url": "https://littlegames.com/games/noob-steve-dark",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Noob Steve Dark - Epic Adventure Game Online",
+      "description": "Discover new worlds in Noob Steve Dark. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/noob-steve-dark-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Noob Steve Dark",
+      "href": "/games/noob-steve-dark",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_259",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

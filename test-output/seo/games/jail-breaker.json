@@ -1,0 +1,54 @@
+{
+  "gameId": 2597,
+  "slug": "jail-breaker",
+  "metadata": {
+    "title": "Jail Breaker Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Jail Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Jail Breaker",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/jail-breaker",
+    "openGraph": {
+      "title": "Jail Breaker Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Jail Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/jail-breaker-og.jpg",
+      "url": "https://littlegames.com/games/jail-breaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jail Breaker Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Jail Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/jail-breaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jail Breaker",
+      "href": "/games/jail-breaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_513",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

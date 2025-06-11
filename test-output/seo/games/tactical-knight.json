@@ -1,0 +1,54 @@
+{
+  "gameId": 3340,
+  "slug": "tactical-knight",
+  "metadata": {
+    "title": "Free Tactical Knight Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Tactical Knight. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Tactical Knight",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tactical-knight",
+    "openGraph": {
+      "title": "Free Tactical Knight Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tactical Knight. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tactical-knight-og.jpg",
+      "url": "https://littlegames.com/games/tactical-knight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tactical Knight Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tactical Knight. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tactical-knight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tactical Knight",
+      "href": "/games/tactical-knight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_546",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

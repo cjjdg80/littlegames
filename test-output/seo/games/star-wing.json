@@ -1,0 +1,54 @@
+{
+  "gameId": 9082,
+  "slug": "star-wing",
+  "metadata": {
+    "title": "Action Game Star Wing - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Star Wing. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Star Wing online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/star-wing",
+    "openGraph": {
+      "title": "Action Game Star Wing - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Star Wing. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/star-wing-og.jpg",
+      "url": "https://littlegames.com/games/star-wing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Star Wing - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Star Wing. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/star-wing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Star Wing",
+      "href": "/games/star-wing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_548",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

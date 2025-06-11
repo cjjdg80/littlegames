@@ -1,0 +1,54 @@
+{
+  "gameId": 3394,
+  "slug": "street-basketball",
+  "metadata": {
+    "title": "Street Basketball Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Street Basketball! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Street Basketball",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/street-basketball",
+    "openGraph": {
+      "title": "Street Basketball Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Street Basketball! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/street-basketball-og.jpg",
+      "url": "https://littlegames.com/games/street-basketball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Street Basketball Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Street Basketball! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/street-basketball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Street Basketball",
+      "href": "/games/street-basketball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_220",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

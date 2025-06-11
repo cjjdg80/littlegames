@@ -1,0 +1,54 @@
+{
+  "gameId": 1293,
+  "slug": "falling-bricks",
+  "metadata": {
+    "title": "Action Game Falling Bricks - Play Free Now",
+    "description": "Join the action in Falling Bricks! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Falling Bricks game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/falling-bricks",
+    "openGraph": {
+      "title": "Action Game Falling Bricks - Play Free Now",
+      "description": "Join the action in Falling Bricks! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/falling-bricks-og.jpg",
+      "url": "https://littlegames.com/games/falling-bricks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Falling Bricks - Play Free Now",
+      "description": "Join the action in Falling Bricks! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/falling-bricks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Falling Bricks",
+      "href": "/games/falling-bricks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_089",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

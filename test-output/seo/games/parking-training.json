@@ -1,0 +1,54 @@
+{
+  "gameId": 6841,
+  "slug": "parking-training",
+  "metadata": {
+    "title": "Parking Training - Exciting Action Adventure Game",
+    "description": "Parking Training delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Parking Training",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/parking-training",
+    "openGraph": {
+      "title": "Parking Training - Exciting Action Adventure Game",
+      "description": "Parking Training delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/parking-training-og.jpg",
+      "url": "https://littlegames.com/games/parking-training",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parking Training - Exciting Action Adventure Game",
+      "description": "Parking Training delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/parking-training-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parking Training",
+      "href": "/games/parking-training",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_077",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

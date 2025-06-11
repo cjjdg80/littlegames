@@ -1,0 +1,46 @@
+{
+  "tag": "phone",
+  "displayName": "Phone",
+  "metadata": {
+    "title": "Phone Games - Play Free Online",
+    "description": "Discover amazing phone games! Play 6 free games with phone theme. No downloads required.",
+    "keywords": [
+      "phone games",
+      "free online games",
+      "browser games",
+      "phone theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/phone",
+    "openGraph": {
+      "title": "Phone Games - Free Online Gaming",
+      "description": "Play the best phone games online for free. 6 games available.",
+      "image": "https://littlegames.com/images/tags/phone-og.jpg",
+      "url": "https://littlegames.com/tags/phone",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Phone Games - Free Online",
+      "description": "Play 6 free phone games online.",
+      "image": "https://littlegames.com/images/tags/phone-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Phone",
+      "href": "/tags/phone",
+      "current": true
+    }
+  ],
+  "description": "Discover games with phone theme! Our collection includes 6 carefully selected games that feature phone elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

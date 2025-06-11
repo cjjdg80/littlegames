@@ -1,0 +1,54 @@
+{
+  "gameId": 1134,
+  "slug": "dino-fun-adventure",
+  "metadata": {
+    "title": "Play Dino Fun Adventure - Epic Adventure Game Online",
+    "description": "Start your epic journey with Dino Fun Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Dino Fun Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/dino-fun-adventure",
+    "openGraph": {
+      "title": "Play Dino Fun Adventure - Epic Adventure Game Online",
+      "description": "Start your epic journey with Dino Fun Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dino-fun-adventure-og.jpg",
+      "url": "https://littlegames.com/games/dino-fun-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Dino Fun Adventure - Epic Adventure Game Online",
+      "description": "Start your epic journey with Dino Fun Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dino-fun-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dino Fun Adventure",
+      "href": "/games/dino-fun-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_163",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

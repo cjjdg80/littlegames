@@ -1,0 +1,54 @@
+{
+  "gameId": 213,
+  "slug": "avoid-dying",
+  "metadata": {
+    "title": "Avoid Dying Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Avoid Dying! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Avoid Dying",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/avoid-dying",
+    "openGraph": {
+      "title": "Avoid Dying Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Avoid Dying! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/avoid-dying-og.jpg",
+      "url": "https://littlegames.com/games/avoid-dying",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Avoid Dying Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Avoid Dying! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/avoid-dying-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Avoid Dying",
+      "href": "/games/avoid-dying",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_609",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

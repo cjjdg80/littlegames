@@ -1,0 +1,54 @@
+{
+  "gameId": 6137,
+  "slug": "ninja",
+  "metadata": {
+    "title": "Ninja Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Ninja! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Ninja game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ninja",
+    "openGraph": {
+      "title": "Ninja Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ninja! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/ninja-og.jpg",
+      "url": "https://littlegames.com/games/ninja",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Ninja! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ninja",
+      "href": "/games/ninja",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_253",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

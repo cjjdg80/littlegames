@@ -1,0 +1,54 @@
+{
+  "gameId": 5712,
+  "slug": "gum-adventures-dx",
+  "metadata": {
+    "title": "Gum Adventures DX - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Gum Adventures DX! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Gum Adventures DX online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/gum-adventures-dx",
+    "openGraph": {
+      "title": "Gum Adventures DX - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Gum Adventures DX! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/gum-adventures-dx-og.jpg",
+      "url": "https://littlegames.com/games/gum-adventures-dx",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gum Adventures DX - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Gum Adventures DX! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/gum-adventures-dx-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Gum Adventures DX",
+      "href": "/games/gum-adventures-dx",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_081",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

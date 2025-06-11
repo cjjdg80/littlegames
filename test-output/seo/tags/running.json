@@ -1,0 +1,46 @@
+{
+  "tag": "running",
+  "displayName": "Running",
+  "metadata": {
+    "title": "Running Games - Play Free Online",
+    "description": "Discover amazing running games! Play 247 free games with running theme. No downloads required.",
+    "keywords": [
+      "running games",
+      "free online games",
+      "browser games",
+      "running theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/running",
+    "openGraph": {
+      "title": "Running Games - Free Online Gaming",
+      "description": "Play the best running games online for free. 247 games available.",
+      "image": "https://littlegames.com/images/tags/running-og.jpg",
+      "url": "https://littlegames.com/tags/running",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Running Games - Free Online",
+      "description": "Play 247 free running games online.",
+      "image": "https://littlegames.com/images/tags/running-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Running",
+      "href": "/tags/running",
+      "current": true
+    }
+  ],
+  "description": "Discover games with running theme! Our collection includes 247 carefully selected games that feature running elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

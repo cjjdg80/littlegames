@@ -1,0 +1,54 @@
+{
+  "gameId": 612,
+  "slug": "tic-tac-toe-mania",
+  "metadata": {
+    "title": "Free Tic Tac Toe Mania Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Tic Tac Toe Mania. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Tic Tac Toe Mania",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tic-tac-toe-mania",
+    "openGraph": {
+      "title": "Free Tic Tac Toe Mania Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tic Tac Toe Mania. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/tic-tac-toe-mania-og.jpg",
+      "url": "https://littlegames.com/games/tic-tac-toe-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tic Tac Toe Mania Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tic Tac Toe Mania. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tic-tac-toe-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tic Tac Toe Mania",
+      "href": "/games/tic-tac-toe-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_978",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

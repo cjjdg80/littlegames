@@ -1,0 +1,54 @@
+{
+  "gameId": 8074,
+  "slug": "tropical-match",
+  "metadata": {
+    "title": "Free Tropical Match Game - Action Packed Fun",
+    "description": "Tropical Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Tropical Match game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tropical-match",
+    "openGraph": {
+      "title": "Free Tropical Match Game - Action Packed Fun",
+      "description": "Tropical Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tropical-match-og.jpg",
+      "url": "https://littlegames.com/games/tropical-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tropical Match Game - Action Packed Fun",
+      "description": "Tropical Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tropical-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tropical Match",
+      "href": "/games/tropical-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_300",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

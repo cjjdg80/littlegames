@@ -1,0 +1,46 @@
+{
+  "tag": "rocket",
+  "displayName": "Rocket",
+  "metadata": {
+    "title": "Rocket Games - Play Free Online",
+    "description": "Discover amazing rocket games! Play 26 free games with rocket theme. No downloads required.",
+    "keywords": [
+      "rocket games",
+      "free online games",
+      "browser games",
+      "rocket theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/rocket",
+    "openGraph": {
+      "title": "Rocket Games - Free Online Gaming",
+      "description": "Play the best rocket games online for free. 26 games available.",
+      "image": "https://littlegames.com/images/tags/rocket-og.jpg",
+      "url": "https://littlegames.com/tags/rocket",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rocket Games - Free Online",
+      "description": "Play 26 free rocket games online.",
+      "image": "https://littlegames.com/images/tags/rocket-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Rocket",
+      "href": "/tags/rocket",
+      "current": true
+    }
+  ],
+  "description": "Discover games with rocket theme! Our collection includes 26 carefully selected games that feature rocket elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

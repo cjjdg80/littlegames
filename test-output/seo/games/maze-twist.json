@@ -1,0 +1,54 @@
+{
+  "gameId": 1092,
+  "slug": "maze-twist",
+  "metadata": {
+    "title": "Action Game Maze Twist - Play Free Now",
+    "description": "Dive into the action-packed world of Maze Twist. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Maze Twist",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/maze-twist",
+    "openGraph": {
+      "title": "Action Game Maze Twist - Play Free Now",
+      "description": "Dive into the action-packed world of Maze Twist. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/maze-twist-og.jpg",
+      "url": "https://littlegames.com/games/maze-twist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Maze Twist - Play Free Now",
+      "description": "Dive into the action-packed world of Maze Twist. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/maze-twist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Maze Twist",
+      "href": "/games/maze-twist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_858",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

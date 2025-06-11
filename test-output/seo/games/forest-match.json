@@ -1,0 +1,54 @@
+{
+  "gameId": 3351,
+  "slug": "forest-match",
+  "metadata": {
+    "title": "Forest Match Online - Ultimate Action Gaming Experience",
+    "description": "Forest Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Forest Match",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/forest-match",
+    "openGraph": {
+      "title": "Forest Match Online - Ultimate Action Gaming Experience",
+      "description": "Forest Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/forest-match-og.jpg",
+      "url": "https://littlegames.com/games/forest-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Forest Match Online - Ultimate Action Gaming Experience",
+      "description": "Forest Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/forest-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Forest Match",
+      "href": "/games/forest-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_887",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6633,
+  "slug": "polypuzzle",
+  "metadata": {
+    "title": "POLYPUZZLE Online - Logic and Strategy Game",
+    "description": "Challenge your mind with POLYPUZZLE! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "POLYPUZZLE online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/polypuzzle",
+    "openGraph": {
+      "title": "POLYPUZZLE Online - Logic and Strategy Game",
+      "description": "Challenge your mind with POLYPUZZLE! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/polypuzzle-og.jpg",
+      "url": "https://littlegames.com/games/polypuzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "POLYPUZZLE Online - Logic and Strategy Game",
+      "description": "Challenge your mind with POLYPUZZLE! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/polypuzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "POLYPUZZLE",
+      "href": "/games/polypuzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_629",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

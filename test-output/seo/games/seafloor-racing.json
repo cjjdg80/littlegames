@@ -1,0 +1,54 @@
+{
+  "gameId": 5128,
+  "slug": "seafloor-racing",
+  "metadata": {
+    "title": "Seafloor Racing Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Seafloor Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Seafloor Racing game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/seafloor-racing",
+    "openGraph": {
+      "title": "Seafloor Racing Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Seafloor Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/seafloor-racing-og.jpg",
+      "url": "https://littlegames.com/games/seafloor-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Seafloor Racing Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Seafloor Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/seafloor-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Seafloor Racing",
+      "href": "/games/seafloor-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_974",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

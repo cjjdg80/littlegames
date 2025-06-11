@@ -1,0 +1,54 @@
+{
+  "gameId": 728,
+  "slug": "super-sniper",
+  "metadata": {
+    "title": "Super Sniper Online - Ultimate Action Gaming Experience",
+    "description": "Super Sniper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Super Sniper",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/super-sniper",
+    "openGraph": {
+      "title": "Super Sniper Online - Ultimate Action Gaming Experience",
+      "description": "Super Sniper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-sniper-og.jpg",
+      "url": "https://littlegames.com/games/super-sniper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Sniper Online - Ultimate Action Gaming Experience",
+      "description": "Super Sniper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Sniper",
+      "href": "/games/super-sniper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_574",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

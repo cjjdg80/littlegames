@@ -1,0 +1,54 @@
+{
+  "gameId": 9713,
+  "slug": "number-master",
+  "metadata": {
+    "title": "Puzzle Game Number Master - Test Your Skills",
+    "description": "Exercise your brain with Number Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Number Master online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/number-master",
+    "openGraph": {
+      "title": "Puzzle Game Number Master - Test Your Skills",
+      "description": "Exercise your brain with Number Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/number-master-og.jpg",
+      "url": "https://littlegames.com/games/number-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Number Master - Test Your Skills",
+      "description": "Exercise your brain with Number Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/number-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Number Master",
+      "href": "/games/number-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_109",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2564,
+  "slug": "sweet-candy-land",
+  "metadata": {
+    "title": "Free Sweet Candy Land Game - Action Packed Fun",
+    "description": "Experience thrilling action in Sweet Candy Land! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Sweet Candy Land game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sweet-candy-land",
+    "openGraph": {
+      "title": "Free Sweet Candy Land Game - Action Packed Fun",
+      "description": "Experience thrilling action in Sweet Candy Land! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/sweet-candy-land-og.jpg",
+      "url": "https://littlegames.com/games/sweet-candy-land",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sweet Candy Land Game - Action Packed Fun",
+      "description": "Experience thrilling action in Sweet Candy Land! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sweet-candy-land-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sweet Candy Land",
+      "href": "/games/sweet-candy-land",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_490",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

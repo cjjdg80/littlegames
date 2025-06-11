@@ -1,0 +1,54 @@
+{
+  "gameId": 2936,
+  "slug": "among-rampage",
+  "metadata": {
+    "title": "Among Rampage Online - Explore and Discover",
+    "description": "Begin your quest in Among Rampage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Among Rampage online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/among-rampage",
+    "openGraph": {
+      "title": "Among Rampage Online - Explore and Discover",
+      "description": "Begin your quest in Among Rampage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/among-rampage-og.jpg",
+      "url": "https://littlegames.com/games/among-rampage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Among Rampage Online - Explore and Discover",
+      "description": "Begin your quest in Among Rampage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/among-rampage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Among Rampage",
+      "href": "/games/among-rampage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_025",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3800,
+  "slug": "imposter-night-race",
+  "metadata": {
+    "title": "Play Imposter Night Race - Free Action Game Online",
+    "description": "Imposter Night Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Imposter Night Race online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/imposter-night-race",
+    "openGraph": {
+      "title": "Play Imposter Night Race - Free Action Game Online",
+      "description": "Imposter Night Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/imposter-night-race-og.jpg",
+      "url": "https://littlegames.com/games/imposter-night-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Imposter Night Race - Free Action Game Online",
+      "description": "Imposter Night Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/imposter-night-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Imposter Night Race",
+      "href": "/games/imposter-night-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_806",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

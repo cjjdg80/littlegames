@@ -1,0 +1,54 @@
+{
+  "gameId": 545,
+  "slug": "match-the-candies",
+  "metadata": {
+    "title": "Play Match the Candies - Free Puzzle Game Online",
+    "description": "Match the Candies offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Match the Candies",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/match-the-candies",
+    "openGraph": {
+      "title": "Play Match the Candies - Free Puzzle Game Online",
+      "description": "Match the Candies offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/match-the-candies-og.jpg",
+      "url": "https://littlegames.com/games/match-the-candies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Match the Candies - Free Puzzle Game Online",
+      "description": "Match the Candies offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/match-the-candies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Match the Candies",
+      "href": "/games/match-the-candies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_901",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

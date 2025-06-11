@@ -1,0 +1,54 @@
+{
+  "gameId": 9115,
+  "slug": "pictures-riddle",
+  "metadata": {
+    "title": "Pictures Riddle Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Pictures Riddle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Pictures Riddle game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pictures-riddle",
+    "openGraph": {
+      "title": "Pictures Riddle Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Pictures Riddle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pictures-riddle-og.jpg",
+      "url": "https://littlegames.com/games/pictures-riddle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pictures Riddle Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Pictures Riddle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pictures-riddle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pictures Riddle",
+      "href": "/games/pictures-riddle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_571",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6384,
+  "slug": "candy-match",
+  "metadata": {
+    "title": "Puzzle Game Candy Match - Test Your Skills",
+    "description": "Sharpen your mind with Candy Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Candy Match",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/candy-match",
+    "openGraph": {
+      "title": "Puzzle Game Candy Match - Test Your Skills",
+      "description": "Sharpen your mind with Candy Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/candy-match-og.jpg",
+      "url": "https://littlegames.com/games/candy-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Candy Match - Test Your Skills",
+      "description": "Sharpen your mind with Candy Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/candy-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Candy Match",
+      "href": "/games/candy-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_910",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

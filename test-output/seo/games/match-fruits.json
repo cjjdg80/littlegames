@@ -1,0 +1,54 @@
+{
+  "gameId": 1601,
+  "slug": "match-fruits",
+  "metadata": {
+    "title": "Match Fruits Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Match Fruits. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Match Fruits",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/match-fruits",
+    "openGraph": {
+      "title": "Match Fruits Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Match Fruits. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/match-fruits-og.jpg",
+      "url": "https://littlegames.com/games/match-fruits",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Match Fruits Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Match Fruits. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/match-fruits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Match Fruits",
+      "href": "/games/match-fruits",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_637",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5388,
+  "slug": "desire-io",
+  "metadata": {
+    "title": "Desire IO Online - Ultimate Action Gaming Experience",
+    "description": "Desire IO delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Desire IO",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/desire-io",
+    "openGraph": {
+      "title": "Desire IO Online - Ultimate Action Gaming Experience",
+      "description": "Desire IO delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/desire-io-og.jpg",
+      "url": "https://littlegames.com/games/desire-io",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Desire IO Online - Ultimate Action Gaming Experience",
+      "description": "Desire IO delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/desire-io-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Desire IO",
+      "href": "/games/desire-io",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_034",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

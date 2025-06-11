@@ -1,0 +1,54 @@
+{
+  "gameId": 8857,
+  "slug": "castle-craft",
+  "metadata": {
+    "title": "Castle Craft - Exciting Action Adventure Game",
+    "description": "Join the action in Castle Craft! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Castle Craft",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/castle-craft",
+    "openGraph": {
+      "title": "Castle Craft - Exciting Action Adventure Game",
+      "description": "Join the action in Castle Craft! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/castle-craft-og.jpg",
+      "url": "https://littlegames.com/games/castle-craft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Castle Craft - Exciting Action Adventure Game",
+      "description": "Join the action in Castle Craft! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/castle-craft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Castle Craft",
+      "href": "/games/castle-craft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_573",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

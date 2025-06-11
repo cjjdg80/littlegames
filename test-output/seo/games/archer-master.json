@@ -1,0 +1,54 @@
+{
+  "gameId": 5923,
+  "slug": "archer-master",
+  "metadata": {
+    "title": "Archer Master - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Archer Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Archer Master online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/archer-master",
+    "openGraph": {
+      "title": "Archer Master - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Archer Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/archer-master-og.jpg",
+      "url": "https://littlegames.com/games/archer-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Archer Master - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Archer Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/archer-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Archer Master",
+      "href": "/games/archer-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_619",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

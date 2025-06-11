@@ -1,0 +1,54 @@
+{
+  "gameId": 1489,
+  "slug": "ball-toss-puzzle",
+  "metadata": {
+    "title": "Ball Toss Puzzle - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Ball Toss Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Ball Toss Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/ball-toss-puzzle",
+    "openGraph": {
+      "title": "Ball Toss Puzzle - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Ball Toss Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/ball-toss-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/ball-toss-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Toss Puzzle - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Ball Toss Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/ball-toss-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ball Toss Puzzle",
+      "href": "/games/ball-toss-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_165",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

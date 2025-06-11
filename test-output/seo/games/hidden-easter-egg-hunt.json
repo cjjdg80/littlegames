@@ -1,0 +1,54 @@
+{
+  "gameId": 9606,
+  "slug": "hidden-easter-egg-hunt",
+  "metadata": {
+    "title": "Hidden Easter Egg Hunt - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Hidden Easter Egg Hunt. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "play Hidden Easter Egg Hunt",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hidden-easter-egg-hunt",
+    "openGraph": {
+      "title": "Hidden Easter Egg Hunt - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Hidden Easter Egg Hunt. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/hidden-easter-egg-hunt-og.jpg",
+      "url": "https://littlegames.com/games/hidden-easter-egg-hunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hidden Easter Egg Hunt - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Hidden Easter Egg Hunt. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hidden-easter-egg-hunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hidden Easter Egg Hunt",
+      "href": "/games/hidden-easter-egg-hunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_792",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

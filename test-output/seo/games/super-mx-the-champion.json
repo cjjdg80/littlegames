@@ -1,0 +1,54 @@
+{
+  "gameId": 1043,
+  "slug": "super-mx-the-champion",
+  "metadata": {
+    "title": "Super MX The Champion - Exciting Action Adventure Game",
+    "description": "Join the action in Super MX The Champion! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Super MX The Champion",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/super-mx-the-champion",
+    "openGraph": {
+      "title": "Super MX The Champion - Exciting Action Adventure Game",
+      "description": "Join the action in Super MX The Champion! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-mx-the-champion-og.jpg",
+      "url": "https://littlegames.com/games/super-mx-the-champion",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super MX The Champion - Exciting Action Adventure Game",
+      "description": "Join the action in Super MX The Champion! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-mx-the-champion-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super MX The Champion",
+      "href": "/games/super-mx-the-champion",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_339",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

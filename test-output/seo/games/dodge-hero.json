@@ -1,0 +1,54 @@
+{
+  "gameId": 6096,
+  "slug": "dodge-hero",
+  "metadata": {
+    "title": "Play Dodge Hero - Free Action Game Online",
+    "description": "Experience thrilling action in Dodge Hero! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Dodge Hero game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dodge-hero",
+    "openGraph": {
+      "title": "Play Dodge Hero - Free Action Game Online",
+      "description": "Experience thrilling action in Dodge Hero! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/dodge-hero-og.jpg",
+      "url": "https://littlegames.com/games/dodge-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Dodge Hero - Free Action Game Online",
+      "description": "Experience thrilling action in Dodge Hero! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/dodge-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dodge Hero",
+      "href": "/games/dodge-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_982",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

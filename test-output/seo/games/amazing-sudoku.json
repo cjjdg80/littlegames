@@ -1,0 +1,54 @@
+{
+  "gameId": 2818,
+  "slug": "amazing-sudoku",
+  "metadata": {
+    "title": "Play Amazing Sudoku - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Amazing Sudoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Amazing Sudoku",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/amazing-sudoku",
+    "openGraph": {
+      "title": "Play Amazing Sudoku - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Amazing Sudoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/amazing-sudoku-og.jpg",
+      "url": "https://littlegames.com/games/amazing-sudoku",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Amazing Sudoku - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Amazing Sudoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/amazing-sudoku-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Amazing Sudoku",
+      "href": "/games/amazing-sudoku",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_364",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

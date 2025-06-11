@@ -1,0 +1,54 @@
+{
+  "gameId": 4316,
+  "slug": "sokogem",
+  "metadata": {
+    "title": "Sokogem Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Sokogem. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Sokogem",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sokogem",
+    "openGraph": {
+      "title": "Sokogem Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sokogem. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sokogem-og.jpg",
+      "url": "https://littlegames.com/games/sokogem",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sokogem Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sokogem. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sokogem-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sokogem",
+      "href": "/games/sokogem",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_802",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5921,
+  "slug": "street-rider",
+  "metadata": {
+    "title": "Street Rider - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Street Rider! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Street Rider online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/street-rider",
+    "openGraph": {
+      "title": "Street Rider - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Street Rider! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/street-rider-og.jpg",
+      "url": "https://littlegames.com/games/street-rider",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Street Rider - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Street Rider! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/street-rider-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Street Rider",
+      "href": "/games/street-rider",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_560",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

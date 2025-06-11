@@ -1,0 +1,54 @@
+{
+  "gameId": 454,
+  "slug": "lock-challenge",
+  "metadata": {
+    "title": "Play Lock Challenge - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Lock Challenge. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Lock Challenge",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/lock-challenge",
+    "openGraph": {
+      "title": "Play Lock Challenge - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Lock Challenge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/lock-challenge-og.jpg",
+      "url": "https://littlegames.com/games/lock-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lock Challenge - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Lock Challenge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/lock-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Lock Challenge",
+      "href": "/games/lock-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_080",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

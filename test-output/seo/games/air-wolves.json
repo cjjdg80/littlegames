@@ -1,0 +1,54 @@
+{
+  "gameId": 1796,
+  "slug": "air-wolves",
+  "metadata": {
+    "title": "Air Wolves - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Air Wolves. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Air Wolves",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/air-wolves",
+    "openGraph": {
+      "title": "Air Wolves - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Air Wolves. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/air-wolves-og.jpg",
+      "url": "https://littlegames.com/games/air-wolves",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Air Wolves - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Air Wolves. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/air-wolves-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Air Wolves",
+      "href": "/games/air-wolves",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_682",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

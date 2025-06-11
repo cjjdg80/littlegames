@@ -1,0 +1,54 @@
+{
+  "gameId": 1749,
+  "slug": "kids-movie-night",
+  "metadata": {
+    "title": "Kids Movie Night - Exciting Action Adventure Game",
+    "description": "Join the action in Kids Movie Night! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Kids Movie Night",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/kids-movie-night",
+    "openGraph": {
+      "title": "Kids Movie Night - Exciting Action Adventure Game",
+      "description": "Join the action in Kids Movie Night! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/kids-movie-night-og.jpg",
+      "url": "https://littlegames.com/games/kids-movie-night",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kids Movie Night - Exciting Action Adventure Game",
+      "description": "Join the action in Kids Movie Night! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/kids-movie-night-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kids Movie Night",
+      "href": "/games/kids-movie-night",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_225",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

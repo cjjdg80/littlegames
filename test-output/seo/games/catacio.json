@@ -1,0 +1,54 @@
+{
+  "gameId": 2451,
+  "slug": "catacio",
+  "metadata": {
+    "title": "Catac.IO Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Catac.IO. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Catac.IO online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/catacio",
+    "openGraph": {
+      "title": "Catac.IO Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Catac.IO. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/catacio-og.jpg",
+      "url": "https://littlegames.com/games/catacio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Catac.IO Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Catac.IO. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/catacio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Catac.IO",
+      "href": "/games/catacio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_987",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

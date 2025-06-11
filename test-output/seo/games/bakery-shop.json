@@ -1,0 +1,54 @@
+{
+  "gameId": 6902,
+  "slug": "bakery-shop",
+  "metadata": {
+    "title": "Bakery Shop - Exciting Action Adventure Game",
+    "description": "Join the action in Bakery Shop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Bakery Shop",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bakery-shop",
+    "openGraph": {
+      "title": "Bakery Shop - Exciting Action Adventure Game",
+      "description": "Join the action in Bakery Shop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bakery-shop-og.jpg",
+      "url": "https://littlegames.com/games/bakery-shop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bakery Shop - Exciting Action Adventure Game",
+      "description": "Join the action in Bakery Shop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bakery-shop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bakery Shop",
+      "href": "/games/bakery-shop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_968",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

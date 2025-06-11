@@ -1,0 +1,54 @@
+{
+  "gameId": 7528,
+  "slug": "christmas-memory",
+  "metadata": {
+    "title": "Free Christmas Memory Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Christmas Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Christmas Memory game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-memory",
+    "openGraph": {
+      "title": "Free Christmas Memory Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Christmas Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/christmas-memory-og.jpg",
+      "url": "https://littlegames.com/games/christmas-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Christmas Memory Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Christmas Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/christmas-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Christmas Memory",
+      "href": "/games/christmas-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_374",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

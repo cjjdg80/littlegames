@@ -1,0 +1,54 @@
+{
+  "gameId": 8907,
+  "slug": "end-of-world",
+  "metadata": {
+    "title": "Free End Of World Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of End Of World. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "End Of World online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/end-of-world",
+    "openGraph": {
+      "title": "Free End Of World Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of End Of World. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/end-of-world-og.jpg",
+      "url": "https://littlegames.com/games/end-of-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free End Of World Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of End Of World. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/end-of-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "End Of World",
+      "href": "/games/end-of-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_123",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7857,
+  "slug": "ball-drop",
+  "metadata": {
+    "title": "Ball Drop Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Ball Drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Ball Drop",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/ball-drop",
+    "openGraph": {
+      "title": "Ball Drop Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Ball Drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ball-drop-og.jpg",
+      "url": "https://littlegames.com/games/ball-drop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Drop Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Ball Drop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ball-drop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ball Drop",
+      "href": "/games/ball-drop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_573",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2409,
+  "slug": "challenge-the-runners",
+  "metadata": {
+    "title": "Action Game Challenge the Runners - Play Free Now",
+    "description": "Join the action in Challenge the Runners! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Challenge the Runners",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/challenge-the-runners",
+    "openGraph": {
+      "title": "Action Game Challenge the Runners - Play Free Now",
+      "description": "Join the action in Challenge the Runners! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/challenge-the-runners-og.jpg",
+      "url": "https://littlegames.com/games/challenge-the-runners",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Challenge the Runners - Play Free Now",
+      "description": "Join the action in Challenge the Runners! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/challenge-the-runners-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Challenge the Runners",
+      "href": "/games/challenge-the-runners",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_685",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

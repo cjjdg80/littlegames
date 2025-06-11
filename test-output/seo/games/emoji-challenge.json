@@ -1,0 +1,54 @@
+{
+  "gameId": 8816,
+  "slug": "emoji-challenge",
+  "metadata": {
+    "title": "Free Emoji Challenge Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Emoji Challenge. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Emoji Challenge game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-challenge",
+    "openGraph": {
+      "title": "Free Emoji Challenge Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Emoji Challenge. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/emoji-challenge-og.jpg",
+      "url": "https://littlegames.com/games/emoji-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Emoji Challenge Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Emoji Challenge. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/emoji-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Emoji Challenge",
+      "href": "/games/emoji-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_302",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

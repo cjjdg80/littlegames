@@ -1,0 +1,54 @@
+{
+  "gameId": 2959,
+  "slug": "jump",
+  "metadata": {
+    "title": "Action Game Jump - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Jump. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Jump game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jump",
+    "openGraph": {
+      "title": "Action Game Jump - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Jump. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jump-og.jpg",
+      "url": "https://littlegames.com/games/jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Jump - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Jump. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jump",
+      "href": "/games/jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_735",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

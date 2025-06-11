@@ -1,0 +1,54 @@
+{
+  "gameId": 9499,
+  "slug": "bombaman-3d",
+  "metadata": {
+    "title": "Action Game BOMBAMAN 3D - Play Free Now",
+    "description": "Join the action in BOMBAMAN 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play BOMBAMAN 3D",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bombaman-3d",
+    "openGraph": {
+      "title": "Action Game BOMBAMAN 3D - Play Free Now",
+      "description": "Join the action in BOMBAMAN 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bombaman-3d-og.jpg",
+      "url": "https://littlegames.com/games/bombaman-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game BOMBAMAN 3D - Play Free Now",
+      "description": "Join the action in BOMBAMAN 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bombaman-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "BOMBAMAN 3D",
+      "href": "/games/bombaman-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_475",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

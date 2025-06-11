@@ -1,0 +1,54 @@
+{
+  "gameId": 2792,
+  "slug": "fairy-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Fairy Puzzle - Test Your Skills",
+    "description": "Put your thinking skills to the test in Fairy Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Fairy Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fairy-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Fairy Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Fairy Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fairy-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/fairy-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Fairy Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Fairy Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fairy-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fairy Puzzle",
+      "href": "/games/fairy-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_558",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

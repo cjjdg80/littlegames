@@ -1,0 +1,54 @@
+{
+  "gameId": 6730,
+  "slug": "solitaire-shuffle",
+  "metadata": {
+    "title": "Solitaire Shuffle Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Solitaire Shuffle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Solitaire Shuffle online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/solitaire-shuffle",
+    "openGraph": {
+      "title": "Solitaire Shuffle Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Solitaire Shuffle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/solitaire-shuffle-og.jpg",
+      "url": "https://littlegames.com/games/solitaire-shuffle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Solitaire Shuffle Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Solitaire Shuffle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/solitaire-shuffle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Solitaire Shuffle",
+      "href": "/games/solitaire-shuffle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_636",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

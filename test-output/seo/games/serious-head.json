@@ -1,0 +1,54 @@
+{
+  "gameId": 9902,
+  "slug": "serious-head",
+  "metadata": {
+    "title": "Free Serious Head Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Serious Head. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Serious Head",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/serious-head",
+    "openGraph": {
+      "title": "Free Serious Head Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Serious Head. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/serious-head-og.jpg",
+      "url": "https://littlegames.com/games/serious-head",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Serious Head Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Serious Head. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/serious-head-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Serious Head",
+      "href": "/games/serious-head",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_968",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

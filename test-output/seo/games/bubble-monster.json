@@ -1,0 +1,54 @@
+{
+  "gameId": 6547,
+  "slug": "bubble-monster",
+  "metadata": {
+    "title": "Bubble Monster Online - Explore and Discover",
+    "description": "Bubble Monster offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "Bubble Monster",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-monster",
+    "openGraph": {
+      "title": "Bubble Monster Online - Explore and Discover",
+      "description": "Bubble Monster offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/bubble-monster-og.jpg",
+      "url": "https://littlegames.com/games/bubble-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Monster Online - Explore and Discover",
+      "description": "Bubble Monster offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/bubble-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Bubble Monster",
+      "href": "/games/bubble-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_966",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

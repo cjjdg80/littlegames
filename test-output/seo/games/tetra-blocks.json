@@ -1,0 +1,54 @@
+{
+  "gameId": 2784,
+  "slug": "tetra-blocks",
+  "metadata": {
+    "title": "Puzzle Game Tetra Blocks - Test Your Skills",
+    "description": "Challenge your mind with Tetra Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Tetra Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tetra-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Tetra Blocks - Test Your Skills",
+      "description": "Challenge your mind with Tetra Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/tetra-blocks-og.jpg",
+      "url": "https://littlegames.com/games/tetra-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Tetra Blocks - Test Your Skills",
+      "description": "Challenge your mind with Tetra Blocks! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/tetra-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tetra Blocks",
+      "href": "/games/tetra-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_310",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

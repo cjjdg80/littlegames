@@ -1,0 +1,54 @@
+{
+  "gameId": 3895,
+  "slug": "pop-christmas",
+  "metadata": {
+    "title": "Pop Christmas - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Pop Christmas. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Pop Christmas online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/pop-christmas",
+    "openGraph": {
+      "title": "Pop Christmas - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Pop Christmas. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/pop-christmas-og.jpg",
+      "url": "https://littlegames.com/games/pop-christmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pop Christmas - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Pop Christmas. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pop-christmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pop Christmas",
+      "href": "/games/pop-christmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_751",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

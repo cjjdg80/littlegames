@@ -1,0 +1,54 @@
+{
+  "gameId": 8179,
+  "slug": "jump-ball-classic",
+  "metadata": {
+    "title": "Jump Ball Classic - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Jump Ball Classic! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Jump Ball Classic",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/jump-ball-classic",
+    "openGraph": {
+      "title": "Jump Ball Classic - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Jump Ball Classic! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jump-ball-classic-og.jpg",
+      "url": "https://littlegames.com/games/jump-ball-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jump Ball Classic - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Jump Ball Classic! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jump-ball-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jump Ball Classic",
+      "href": "/games/jump-ball-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_555",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 540,
+  "slug": "casino-royale",
+  "metadata": {
+    "title": "Play Casino Royale - Free Action Game Online",
+    "description": "Experience thrilling action in Casino Royale! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Casino Royale online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/casino-royale",
+    "openGraph": {
+      "title": "Play Casino Royale - Free Action Game Online",
+      "description": "Experience thrilling action in Casino Royale! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/casino-royale-og.jpg",
+      "url": "https://littlegames.com/games/casino-royale",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Casino Royale - Free Action Game Online",
+      "description": "Experience thrilling action in Casino Royale! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/casino-royale-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Casino Royale",
+      "href": "/games/casino-royale",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_746",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

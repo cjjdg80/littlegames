@@ -1,0 +1,54 @@
+{
+  "gameId": 5850,
+  "slug": "crazy-tycoon",
+  "metadata": {
+    "title": "Free Crazy Tycoon Game - Action Packed Fun",
+    "description": "Crazy Tycoon delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Crazy Tycoon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-tycoon",
+    "openGraph": {
+      "title": "Free Crazy Tycoon Game - Action Packed Fun",
+      "description": "Crazy Tycoon delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/crazy-tycoon-og.jpg",
+      "url": "https://littlegames.com/games/crazy-tycoon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Crazy Tycoon Game - Action Packed Fun",
+      "description": "Crazy Tycoon delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/crazy-tycoon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Crazy Tycoon",
+      "href": "/games/crazy-tycoon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_360",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

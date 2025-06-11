@@ -1,0 +1,46 @@
+{
+  "tag": "salon",
+  "displayName": "Salon",
+  "metadata": {
+    "title": "Salon Games - Play Free Online",
+    "description": "Discover amazing salon games! Play 14 free games with salon theme. No downloads required.",
+    "keywords": [
+      "salon games",
+      "free online games",
+      "browser games",
+      "salon theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/salon",
+    "openGraph": {
+      "title": "Salon Games - Free Online Gaming",
+      "description": "Play the best salon games online for free. 14 games available.",
+      "image": "https://littlegames.com/images/tags/salon-og.jpg",
+      "url": "https://littlegames.com/tags/salon",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Salon Games - Free Online",
+      "description": "Play 14 free salon games online.",
+      "image": "https://littlegames.com/images/tags/salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Salon",
+      "href": "/tags/salon",
+      "current": true
+    }
+  ],
+  "description": "Discover games with salon theme! Our collection includes 14 carefully selected games that feature salon elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

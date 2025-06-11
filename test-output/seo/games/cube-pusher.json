@@ -1,0 +1,54 @@
+{
+  "gameId": 2659,
+  "slug": "cube-pusher",
+  "metadata": {
+    "title": "Play Cube Pusher - Free Puzzle Game Online",
+    "description": "Challenge your mind with Cube Pusher! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Cube Pusher",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/cube-pusher",
+    "openGraph": {
+      "title": "Play Cube Pusher - Free Puzzle Game Online",
+      "description": "Challenge your mind with Cube Pusher! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/cube-pusher-og.jpg",
+      "url": "https://littlegames.com/games/cube-pusher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cube Pusher - Free Puzzle Game Online",
+      "description": "Challenge your mind with Cube Pusher! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/cube-pusher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cube Pusher",
+      "href": "/games/cube-pusher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_435",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

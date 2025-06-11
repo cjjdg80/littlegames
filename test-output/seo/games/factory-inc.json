@@ -1,0 +1,54 @@
+{
+  "gameId": 1403,
+  "slug": "factory-inc",
+  "metadata": {
+    "title": "Factory Inc Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Factory Inc. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Factory Inc",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/factory-inc",
+    "openGraph": {
+      "title": "Factory Inc Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Factory Inc. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/factory-inc-og.jpg",
+      "url": "https://littlegames.com/games/factory-inc",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Factory Inc Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Factory Inc. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/factory-inc-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Factory Inc",
+      "href": "/games/factory-inc",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_499",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

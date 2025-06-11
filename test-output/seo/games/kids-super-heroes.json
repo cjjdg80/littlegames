@@ -1,0 +1,54 @@
+{
+  "gameId": 169,
+  "slug": "kids-super-heroes",
+  "metadata": {
+    "title": "Puzzle Game Kids Super Heroes - Test Your Skills",
+    "description": "Challenge your mind with Kids Super Heroes! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Kids Super Heroes game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/kids-super-heroes",
+    "openGraph": {
+      "title": "Puzzle Game Kids Super Heroes - Test Your Skills",
+      "description": "Challenge your mind with Kids Super Heroes! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/kids-super-heroes-og.jpg",
+      "url": "https://littlegames.com/games/kids-super-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Kids Super Heroes - Test Your Skills",
+      "description": "Challenge your mind with Kids Super Heroes! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/kids-super-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kids Super Heroes",
+      "href": "/games/kids-super-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_245",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9572,
+  "slug": "chess-duel",
+  "metadata": {
+    "title": "Free Chess Duel Game - Action Packed Fun",
+    "description": "Chess Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Chess Duel",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/chess-duel",
+    "openGraph": {
+      "title": "Free Chess Duel Game - Action Packed Fun",
+      "description": "Chess Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chess-duel-og.jpg",
+      "url": "https://littlegames.com/games/chess-duel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Chess Duel Game - Action Packed Fun",
+      "description": "Chess Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chess-duel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chess Duel",
+      "href": "/games/chess-duel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_738",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 685,
+  "slug": "space-invaders-remake",
+  "metadata": {
+    "title": "Free Space Invaders Remake Game - Action Packed Fun",
+    "description": "Experience thrilling action in Space Invaders Remake! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "action games",
+      "Space Invaders Remake",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/space-invaders-remake",
+    "openGraph": {
+      "title": "Free Space Invaders Remake Game - Action Packed Fun",
+      "description": "Experience thrilling action in Space Invaders Remake! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/space-invaders-remake-og.jpg",
+      "url": "https://littlegames.com/games/space-invaders-remake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Space Invaders Remake Game - Action Packed Fun",
+      "description": "Experience thrilling action in Space Invaders Remake! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/space-invaders-remake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Space Invaders Remake",
+      "href": "/games/space-invaders-remake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_241",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

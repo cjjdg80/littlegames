@@ -1,0 +1,54 @@
+{
+  "gameId": 5981,
+  "slug": "epic-blast",
+  "metadata": {
+    "title": "Play Epic Blast - Free Action Game Online",
+    "description": "Join the action in Epic Blast! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Epic Blast online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/epic-blast",
+    "openGraph": {
+      "title": "Play Epic Blast - Free Action Game Online",
+      "description": "Join the action in Epic Blast! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/epic-blast-og.jpg",
+      "url": "https://littlegames.com/games/epic-blast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Epic Blast - Free Action Game Online",
+      "description": "Join the action in Epic Blast! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/epic-blast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Epic Blast",
+      "href": "/games/epic-blast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_417",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

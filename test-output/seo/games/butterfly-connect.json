@@ -1,0 +1,54 @@
+{
+  "gameId": 6676,
+  "slug": "butterfly-connect",
+  "metadata": {
+    "title": "Free Butterfly Connect Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Butterfly Connect. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Butterfly Connect online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/butterfly-connect",
+    "openGraph": {
+      "title": "Free Butterfly Connect Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Butterfly Connect. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/butterfly-connect-og.jpg",
+      "url": "https://littlegames.com/games/butterfly-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Butterfly Connect Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Butterfly Connect. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/butterfly-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Butterfly Connect",
+      "href": "/games/butterfly-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_962",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

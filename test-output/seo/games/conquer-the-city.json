@@ -1,0 +1,54 @@
+{
+  "gameId": 3972,
+  "slug": "conquer-the-city",
+  "metadata": {
+    "title": "Conquer The City Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Conquer The City. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Conquer The City",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/conquer-the-city",
+    "openGraph": {
+      "title": "Conquer The City Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Conquer The City. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/conquer-the-city-og.jpg",
+      "url": "https://littlegames.com/games/conquer-the-city",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Conquer The City Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Conquer The City. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/conquer-the-city-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Conquer The City",
+      "href": "/games/conquer-the-city",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_138",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

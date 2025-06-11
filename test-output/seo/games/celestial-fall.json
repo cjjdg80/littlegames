@@ -1,0 +1,54 @@
+{
+  "gameId": 3556,
+  "slug": "celestial-fall",
+  "metadata": {
+    "title": "Action Game Celestial Fall - Play Free Now",
+    "description": "Dive into the action-packed world of Celestial Fall. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Celestial Fall game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/celestial-fall",
+    "openGraph": {
+      "title": "Action Game Celestial Fall - Play Free Now",
+      "description": "Dive into the action-packed world of Celestial Fall. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/celestial-fall-og.jpg",
+      "url": "https://littlegames.com/games/celestial-fall",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Celestial Fall - Play Free Now",
+      "description": "Dive into the action-packed world of Celestial Fall. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/celestial-fall-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Celestial Fall",
+      "href": "/games/celestial-fall",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_242",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

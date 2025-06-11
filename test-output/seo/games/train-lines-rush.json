@@ -1,0 +1,54 @@
+{
+  "gameId": 6608,
+  "slug": "train-lines-rush",
+  "metadata": {
+    "title": "Train Lines Rush - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Train Lines Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Train Lines Rush",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/train-lines-rush",
+    "openGraph": {
+      "title": "Train Lines Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Train Lines Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/train-lines-rush-og.jpg",
+      "url": "https://littlegames.com/games/train-lines-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Train Lines Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Train Lines Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/train-lines-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Train Lines Rush",
+      "href": "/games/train-lines-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_854",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

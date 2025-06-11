@@ -1,0 +1,54 @@
+{
+  "gameId": 3546,
+  "slug": "get-the-stars",
+  "metadata": {
+    "title": "Get the Stars - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Get the Stars! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Get the Stars online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/get-the-stars",
+    "openGraph": {
+      "title": "Get the Stars - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Get the Stars! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/get-the-stars-og.jpg",
+      "url": "https://littlegames.com/games/get-the-stars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Get the Stars - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Get the Stars! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/get-the-stars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Get the Stars",
+      "href": "/games/get-the-stars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_932",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

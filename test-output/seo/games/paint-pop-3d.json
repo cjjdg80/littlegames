@@ -1,0 +1,54 @@
+{
+  "gameId": 500,
+  "slug": "paint-pop-3d",
+  "metadata": {
+    "title": "Paint Pop 3D Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Paint Pop 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Paint Pop 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/paint-pop-3d",
+    "openGraph": {
+      "title": "Paint Pop 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Paint Pop 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/paint-pop-3d-og.jpg",
+      "url": "https://littlegames.com/games/paint-pop-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paint Pop 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Paint Pop 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/paint-pop-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paint Pop 3D",
+      "href": "/games/paint-pop-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_506",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

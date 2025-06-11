@@ -1,0 +1,54 @@
+{
+  "gameId": 698,
+  "slug": "slingshot",
+  "metadata": {
+    "title": "Action Game SlingShot - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in SlingShot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play SlingShot",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/slingshot",
+    "openGraph": {
+      "title": "Action Game SlingShot - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in SlingShot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/slingshot-og.jpg",
+      "url": "https://littlegames.com/games/slingshot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game SlingShot - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in SlingShot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/slingshot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "SlingShot",
+      "href": "/games/slingshot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_644",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

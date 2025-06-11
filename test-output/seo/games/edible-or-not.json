@@ -1,0 +1,54 @@
+{
+  "gameId": 6783,
+  "slug": "edible-or-not",
+  "metadata": {
+    "title": "Edible or not? Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Edible or not?. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Edible or not?",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/edible-or-not",
+    "openGraph": {
+      "title": "Edible or not? Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Edible or not?. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/edible-or-not-og.jpg",
+      "url": "https://littlegames.com/games/edible-or-not",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Edible or not? Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Edible or not?. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/edible-or-not-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Edible or not?",
+      "href": "/games/edible-or-not",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_279",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

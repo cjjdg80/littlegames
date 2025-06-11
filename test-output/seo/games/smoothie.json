@@ -1,0 +1,54 @@
+{
+  "gameId": 963,
+  "slug": "smoothie",
+  "metadata": {
+    "title": "Smoothie Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Smoothie! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Smoothie game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/smoothie",
+    "openGraph": {
+      "title": "Smoothie Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Smoothie! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/smoothie-og.jpg",
+      "url": "https://littlegames.com/games/smoothie",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Smoothie Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Smoothie! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/smoothie-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Smoothie",
+      "href": "/games/smoothie",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_859",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

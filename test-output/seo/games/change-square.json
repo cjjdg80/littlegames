@@ -1,0 +1,54 @@
+{
+  "gameId": 2696,
+  "slug": "change-square",
+  "metadata": {
+    "title": "Play Change Square - Free Action Game Online",
+    "description": "Join the action in Change Square! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Change Square game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/change-square",
+    "openGraph": {
+      "title": "Play Change Square - Free Action Game Online",
+      "description": "Join the action in Change Square! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/change-square-og.jpg",
+      "url": "https://littlegames.com/games/change-square",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Change Square - Free Action Game Online",
+      "description": "Join the action in Change Square! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/change-square-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Change Square",
+      "href": "/games/change-square",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_582",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

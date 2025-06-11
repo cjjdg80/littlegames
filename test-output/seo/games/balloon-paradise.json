@@ -1,0 +1,54 @@
+{
+  "gameId": 1122,
+  "slug": "balloon-paradise",
+  "metadata": {
+    "title": "Free Balloon Paradise Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Balloon Paradise! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Balloon Paradise",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/balloon-paradise",
+    "openGraph": {
+      "title": "Free Balloon Paradise Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Balloon Paradise! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/balloon-paradise-og.jpg",
+      "url": "https://littlegames.com/games/balloon-paradise",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Balloon Paradise Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Balloon Paradise! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/balloon-paradise-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Balloon Paradise",
+      "href": "/games/balloon-paradise",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_788",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

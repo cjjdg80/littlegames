@@ -1,0 +1,54 @@
+{
+  "gameId": 5620,
+  "slug": "way-down",
+  "metadata": {
+    "title": "Action Game Way Down - Play Free Now",
+    "description": "Experience thrilling action in Way Down! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Way Down online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/way-down",
+    "openGraph": {
+      "title": "Action Game Way Down - Play Free Now",
+      "description": "Experience thrilling action in Way Down! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/way-down-og.jpg",
+      "url": "https://littlegames.com/games/way-down",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Way Down - Play Free Now",
+      "description": "Experience thrilling action in Way Down! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/way-down-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Way Down",
+      "href": "/games/way-down",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_226",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

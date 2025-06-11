@@ -1,0 +1,54 @@
+{
+  "gameId": 5654,
+  "slug": "rope-dude",
+  "metadata": {
+    "title": "Free Rope Dude Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Rope Dude. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Rope Dude",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/rope-dude",
+    "openGraph": {
+      "title": "Free Rope Dude Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Rope Dude. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rope-dude-og.jpg",
+      "url": "https://littlegames.com/games/rope-dude",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rope Dude Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Rope Dude. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rope-dude-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rope Dude",
+      "href": "/games/rope-dude",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_280",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

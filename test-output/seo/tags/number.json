@@ -1,0 +1,46 @@
+{
+  "tag": "number",
+  "displayName": "Number",
+  "metadata": {
+    "title": "Number Games - Play Free Online",
+    "description": "Discover amazing number games! Play 117 free games with number theme. No downloads required.",
+    "keywords": [
+      "number games",
+      "free online games",
+      "browser games",
+      "number theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/number",
+    "openGraph": {
+      "title": "Number Games - Free Online Gaming",
+      "description": "Play the best number games online for free. 117 games available.",
+      "image": "https://littlegames.com/images/tags/number-og.jpg",
+      "url": "https://littlegames.com/tags/number",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Number Games - Free Online",
+      "description": "Play 117 free number games online.",
+      "image": "https://littlegames.com/images/tags/number-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Number",
+      "href": "/tags/number",
+      "current": true
+    }
+  ],
+  "description": "Discover games with number theme! Our collection includes 117 carefully selected games that feature number elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

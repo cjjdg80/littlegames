@@ -1,0 +1,54 @@
+{
+  "gameId": 2206,
+  "slug": "shape-of-water",
+  "metadata": {
+    "title": "Shape of Water Online - Ultimate Action Gaming Experience",
+    "description": "Shape of Water delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Shape of Water",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/shape-of-water",
+    "openGraph": {
+      "title": "Shape of Water Online - Ultimate Action Gaming Experience",
+      "description": "Shape of Water delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/shape-of-water-og.jpg",
+      "url": "https://littlegames.com/games/shape-of-water",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shape of Water Online - Ultimate Action Gaming Experience",
+      "description": "Shape of Water delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/shape-of-water-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shape of Water",
+      "href": "/games/shape-of-water",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_392",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

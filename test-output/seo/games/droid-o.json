@@ -1,0 +1,54 @@
+{
+  "gameId": 4464,
+  "slug": "droid-o",
+  "metadata": {
+    "title": "Play Droid O - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Droid O. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Droid O online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/droid-o",
+    "openGraph": {
+      "title": "Play Droid O - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Droid O. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/droid-o-og.jpg",
+      "url": "https://littlegames.com/games/droid-o",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Droid O - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Droid O. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/droid-o-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Droid O",
+      "href": "/games/droid-o",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_390",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

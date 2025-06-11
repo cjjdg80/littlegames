@@ -1,0 +1,54 @@
+{
+  "gameId": 5648,
+  "slug": "side-defense",
+  "metadata": {
+    "title": "Play Side Defense - Free Action Game Online",
+    "description": "Side Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "Side Defense online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/side-defense",
+    "openGraph": {
+      "title": "Play Side Defense - Free Action Game Online",
+      "description": "Side Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/side-defense-og.jpg",
+      "url": "https://littlegames.com/games/side-defense",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Side Defense - Free Action Game Online",
+      "description": "Side Defense delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/side-defense-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Side Defense",
+      "href": "/games/side-defense",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_096",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

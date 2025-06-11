@@ -1,0 +1,54 @@
+{
+  "gameId": 4871,
+  "slug": "tank-rush",
+  "metadata": {
+    "title": "Play Tank Rush - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Tank Rush! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+    "keywords": [
+      "play Tank Rush",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/tank-rush",
+    "openGraph": {
+      "title": "Play Tank Rush - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Tank Rush! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+      "image": "https://littlegames.com/images/games/tank-rush-og.jpg",
+      "url": "https://littlegames.com/games/tank-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tank Rush - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Tank Rush! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/tank-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Tank Rush",
+      "href": "/games/tank-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_010",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

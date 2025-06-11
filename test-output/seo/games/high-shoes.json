@@ -1,0 +1,54 @@
+{
+  "gameId": 2667,
+  "slug": "high-shoes",
+  "metadata": {
+    "title": "Play High Shoes - Free Action Game Online",
+    "description": "Dive into the action-packed world of High Shoes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "High Shoes",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/high-shoes",
+    "openGraph": {
+      "title": "Play High Shoes - Free Action Game Online",
+      "description": "Dive into the action-packed world of High Shoes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/high-shoes-og.jpg",
+      "url": "https://littlegames.com/games/high-shoes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play High Shoes - Free Action Game Online",
+      "description": "Dive into the action-packed world of High Shoes. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/high-shoes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "High Shoes",
+      "href": "/games/high-shoes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_683",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

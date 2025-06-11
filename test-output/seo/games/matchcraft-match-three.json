@@ -1,0 +1,54 @@
+{
+  "gameId": 2923,
+  "slug": "matchcraft-match-three",
+  "metadata": {
+    "title": "Puzzle Game MatchCraft Match Three - Test Your Skills",
+    "description": "MatchCraft Match Three offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "MatchCraft Match Three game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/matchcraft-match-three",
+    "openGraph": {
+      "title": "Puzzle Game MatchCraft Match Three - Test Your Skills",
+      "description": "MatchCraft Match Three offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/matchcraft-match-three-og.jpg",
+      "url": "https://littlegames.com/games/matchcraft-match-three",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game MatchCraft Match Three - Test Your Skills",
+      "description": "MatchCraft Match Three offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/matchcraft-match-three-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "MatchCraft Match Three",
+      "href": "/games/matchcraft-match-three",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_619",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

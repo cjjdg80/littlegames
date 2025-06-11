@@ -1,0 +1,54 @@
+{
+  "gameId": 4918,
+  "slug": "mahjong-3d",
+  "metadata": {
+    "title": "Mahjong 3D - Exciting Action Adventure Game",
+    "description": "Mahjong 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mahjong 3D online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-3d",
+    "openGraph": {
+      "title": "Mahjong 3D - Exciting Action Adventure Game",
+      "description": "Mahjong 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-3d-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong 3D - Exciting Action Adventure Game",
+      "description": "Mahjong 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong 3D",
+      "href": "/games/mahjong-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_464",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

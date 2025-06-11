@@ -1,0 +1,54 @@
+{
+  "gameId": 3194,
+  "slug": "up-color",
+  "metadata": {
+    "title": "Up Color - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Up Color. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Up Color",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/up-color",
+    "openGraph": {
+      "title": "Up Color - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Up Color. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/up-color-og.jpg",
+      "url": "https://littlegames.com/games/up-color",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Up Color - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Up Color. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/up-color-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Up Color",
+      "href": "/games/up-color",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_020",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

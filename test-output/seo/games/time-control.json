@@ -1,0 +1,54 @@
+{
+  "gameId": 4143,
+  "slug": "time-control",
+  "metadata": {
+    "title": "Free Time Control Game - Action Packed Fun",
+    "description": "Join the action in Time Control! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Time Control",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/time-control",
+    "openGraph": {
+      "title": "Free Time Control Game - Action Packed Fun",
+      "description": "Join the action in Time Control! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/time-control-og.jpg",
+      "url": "https://littlegames.com/games/time-control",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Time Control Game - Action Packed Fun",
+      "description": "Join the action in Time Control! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/time-control-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Time Control",
+      "href": "/games/time-control",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_439",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

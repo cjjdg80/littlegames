@@ -1,0 +1,54 @@
+{
+  "gameId": 205,
+  "slug": "trump-jigsaw",
+  "metadata": {
+    "title": "Trump Jigsaw - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Trump Jigsaw! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Trump Jigsaw online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/trump-jigsaw",
+    "openGraph": {
+      "title": "Trump Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Trump Jigsaw! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/trump-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/trump-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trump Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Trump Jigsaw! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/trump-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Trump Jigsaw",
+      "href": "/games/trump-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_361",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9330,
+  "slug": "taptapboom",
+  "metadata": {
+    "title": "TapTapBOOM - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with TapTapBOOM! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play TapTapBOOM",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/taptapboom",
+    "openGraph": {
+      "title": "TapTapBOOM - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with TapTapBOOM! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/taptapboom-og.jpg",
+      "url": "https://littlegames.com/games/taptapboom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "TapTapBOOM - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with TapTapBOOM! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/taptapboom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "TapTapBOOM",
+      "href": "/games/taptapboom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_236",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

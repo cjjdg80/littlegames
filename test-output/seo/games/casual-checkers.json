@@ -1,0 +1,54 @@
+{
+  "gameId": 1979,
+  "slug": "casual-checkers",
+  "metadata": {
+    "title": "Play Casual Checkers - Free Action Game Online",
+    "description": "Dive into the action-packed world of Casual Checkers. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Casual Checkers game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/casual-checkers",
+    "openGraph": {
+      "title": "Play Casual Checkers - Free Action Game Online",
+      "description": "Dive into the action-packed world of Casual Checkers. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/casual-checkers-og.jpg",
+      "url": "https://littlegames.com/games/casual-checkers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Casual Checkers - Free Action Game Online",
+      "description": "Dive into the action-packed world of Casual Checkers. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/casual-checkers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Casual Checkers",
+      "href": "/games/casual-checkers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_355",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

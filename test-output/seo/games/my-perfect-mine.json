@@ -1,0 +1,54 @@
+{
+  "gameId": 8920,
+  "slug": "my-perfect-mine",
+  "metadata": {
+    "title": "My Perfect Mine Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in My Perfect Mine! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "My Perfect Mine online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/my-perfect-mine",
+    "openGraph": {
+      "title": "My Perfect Mine Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in My Perfect Mine! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/my-perfect-mine-og.jpg",
+      "url": "https://littlegames.com/games/my-perfect-mine",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Perfect Mine Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in My Perfect Mine! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/my-perfect-mine-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "My Perfect Mine",
+      "href": "/games/my-perfect-mine",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_526",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

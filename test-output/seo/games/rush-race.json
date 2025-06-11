@@ -1,0 +1,54 @@
+{
+  "gameId": 2809,
+  "slug": "rush-race",
+  "metadata": {
+    "title": "Rush Race - Exciting Action Adventure Game",
+    "description": "Join the action in Rush Race! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Rush Race online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/rush-race",
+    "openGraph": {
+      "title": "Rush Race - Exciting Action Adventure Game",
+      "description": "Join the action in Rush Race! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/rush-race-og.jpg",
+      "url": "https://littlegames.com/games/rush-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rush Race - Exciting Action Adventure Game",
+      "description": "Join the action in Rush Race! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/rush-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rush Race",
+      "href": "/games/rush-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_085",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

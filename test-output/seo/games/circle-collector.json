@@ -1,0 +1,54 @@
+{
+  "gameId": 2423,
+  "slug": "circle-collector",
+  "metadata": {
+    "title": "Free Circle Collector Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Circle Collector! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Circle Collector online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/circle-collector",
+    "openGraph": {
+      "title": "Free Circle Collector Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Circle Collector! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/circle-collector-og.jpg",
+      "url": "https://littlegames.com/games/circle-collector",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Circle Collector Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Circle Collector! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/circle-collector-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Circle Collector",
+      "href": "/games/circle-collector",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_119",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

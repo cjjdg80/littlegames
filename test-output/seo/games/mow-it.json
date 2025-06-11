@@ -1,0 +1,54 @@
+{
+  "gameId": 9320,
+  "slug": "mow-it",
+  "metadata": {
+    "title": "Mow It - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Mow It. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Mow It",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mow-it",
+    "openGraph": {
+      "title": "Mow It - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Mow It. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mow-it-og.jpg",
+      "url": "https://littlegames.com/games/mow-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mow It - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Mow It. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mow-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mow It",
+      "href": "/games/mow-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_926",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5909,
+  "slug": "koxoio",
+  "metadata": {
+    "title": "Koxo.io - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Koxo.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Koxo.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/koxoio",
+    "openGraph": {
+      "title": "Koxo.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Koxo.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/koxoio-og.jpg",
+      "url": "https://littlegames.com/games/koxoio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Koxo.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Koxo.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/koxoio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Koxo.io",
+      "href": "/games/koxoio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_185",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1755,
+  "slug": "collision-pilot",
+  "metadata": {
+    "title": "Free Collision Pilot Game - Action Packed Fun",
+    "description": "Collision Pilot delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Collision Pilot",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/collision-pilot",
+    "openGraph": {
+      "title": "Free Collision Pilot Game - Action Packed Fun",
+      "description": "Collision Pilot delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/collision-pilot-og.jpg",
+      "url": "https://littlegames.com/games/collision-pilot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Collision Pilot Game - Action Packed Fun",
+      "description": "Collision Pilot delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/collision-pilot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Collision Pilot",
+      "href": "/games/collision-pilot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_411",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1467,
+  "slug": "foody-memory",
+  "metadata": {
+    "title": "Play Foody Memory - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Foody Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Foody Memory",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/foody-memory",
+    "openGraph": {
+      "title": "Play Foody Memory - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Foody Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/foody-memory-og.jpg",
+      "url": "https://littlegames.com/games/foody-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Foody Memory - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Foody Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/foody-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Foody Memory",
+      "href": "/games/foody-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_483",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

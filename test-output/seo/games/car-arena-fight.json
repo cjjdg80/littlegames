@@ -1,0 +1,54 @@
+{
+  "gameId": 242,
+  "slug": "car-arena-fight",
+  "metadata": {
+    "title": "Play Car Arena Fight - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Car Arena Fight. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Car Arena Fight",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/car-arena-fight",
+    "openGraph": {
+      "title": "Play Car Arena Fight - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Car Arena Fight. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/car-arena-fight-og.jpg",
+      "url": "https://littlegames.com/games/car-arena-fight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Car Arena Fight - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Car Arena Fight. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/car-arena-fight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Car Arena Fight",
+      "href": "/games/car-arena-fight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_508",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

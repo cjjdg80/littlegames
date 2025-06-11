@@ -1,0 +1,54 @@
+{
+  "gameId": 4120,
+  "slug": "helix-stack-ball",
+  "metadata": {
+    "title": "Helix Stack Ball - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Helix Stack Ball! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Helix Stack Ball",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/helix-stack-ball",
+    "openGraph": {
+      "title": "Helix Stack Ball - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Helix Stack Ball! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/helix-stack-ball-og.jpg",
+      "url": "https://littlegames.com/games/helix-stack-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Helix Stack Ball - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Helix Stack Ball! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/helix-stack-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Helix Stack Ball",
+      "href": "/games/helix-stack-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_726",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

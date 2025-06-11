@@ -1,0 +1,54 @@
+{
+  "gameId": 6490,
+  "slug": "puzzle-love",
+  "metadata": {
+    "title": "Puzzle Love - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Puzzle Love. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Puzzle Love",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-love",
+    "openGraph": {
+      "title": "Puzzle Love - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Puzzle Love. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzle-love-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-love",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Love - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Puzzle Love. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzle-love-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Love",
+      "href": "/games/puzzle-love",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_196",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

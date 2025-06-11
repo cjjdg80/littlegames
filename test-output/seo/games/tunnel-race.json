@@ -1,0 +1,54 @@
+{
+  "gameId": 3176,
+  "slug": "tunnel-race",
+  "metadata": {
+    "title": "Play Tunnel Race - Free Action Game Online",
+    "description": "Dive into the action-packed world of Tunnel Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Tunnel Race game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tunnel-race",
+    "openGraph": {
+      "title": "Play Tunnel Race - Free Action Game Online",
+      "description": "Dive into the action-packed world of Tunnel Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tunnel-race-og.jpg",
+      "url": "https://littlegames.com/games/tunnel-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tunnel Race - Free Action Game Online",
+      "description": "Dive into the action-packed world of Tunnel Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tunnel-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tunnel Race",
+      "href": "/games/tunnel-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_462",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2694,
+  "slug": "three-arcade",
+  "metadata": {
+    "title": "Play Three Arcade - Free Action Game Online",
+    "description": "Join the action in Three Arcade! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Three Arcade",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/three-arcade",
+    "openGraph": {
+      "title": "Play Three Arcade - Free Action Game Online",
+      "description": "Join the action in Three Arcade! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/three-arcade-og.jpg",
+      "url": "https://littlegames.com/games/three-arcade",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Three Arcade - Free Action Game Online",
+      "description": "Join the action in Three Arcade! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/three-arcade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Three Arcade",
+      "href": "/games/three-arcade",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_520",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

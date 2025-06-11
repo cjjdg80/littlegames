@@ -1,0 +1,54 @@
+{
+  "gameId": 6882,
+  "slug": "do-dragons-exist",
+  "metadata": {
+    "title": "Do Dragons Exist - Thrilling Adventure Quest",
+    "description": "Begin your quest in Do Dragons Exist. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Do Dragons Exist game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/do-dragons-exist",
+    "openGraph": {
+      "title": "Do Dragons Exist - Thrilling Adventure Quest",
+      "description": "Begin your quest in Do Dragons Exist. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/do-dragons-exist-og.jpg",
+      "url": "https://littlegames.com/games/do-dragons-exist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Do Dragons Exist - Thrilling Adventure Quest",
+      "description": "Begin your quest in Do Dragons Exist. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/do-dragons-exist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Do Dragons Exist",
+      "href": "/games/do-dragons-exist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_351",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

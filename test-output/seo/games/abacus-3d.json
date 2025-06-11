@@ -1,0 +1,54 @@
+{
+  "gameId": 4214,
+  "slug": "abacus-3d",
+  "metadata": {
+    "title": "Free Abacus 3D Game - Action Packed Fun",
+    "description": "Abacus 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Abacus 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/abacus-3d",
+    "openGraph": {
+      "title": "Free Abacus 3D Game - Action Packed Fun",
+      "description": "Abacus 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/abacus-3d-og.jpg",
+      "url": "https://littlegames.com/games/abacus-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Abacus 3D Game - Action Packed Fun",
+      "description": "Abacus 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/abacus-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Abacus 3D",
+      "href": "/games/abacus-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_640",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

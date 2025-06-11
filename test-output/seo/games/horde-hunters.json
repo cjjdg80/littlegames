@@ -1,0 +1,54 @@
+{
+  "gameId": 7759,
+  "slug": "horde-hunters",
+  "metadata": {
+    "title": "Free Horde Hunters Game - Action Packed Fun",
+    "description": "Horde Hunters delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Horde Hunters online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/horde-hunters",
+    "openGraph": {
+      "title": "Free Horde Hunters Game - Action Packed Fun",
+      "description": "Horde Hunters delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/horde-hunters-og.jpg",
+      "url": "https://littlegames.com/games/horde-hunters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Horde Hunters Game - Action Packed Fun",
+      "description": "Horde Hunters delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/horde-hunters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Horde Hunters",
+      "href": "/games/horde-hunters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_535",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

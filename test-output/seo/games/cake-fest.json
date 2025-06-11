@@ -1,0 +1,54 @@
+{
+  "gameId": 7512,
+  "slug": "cake-fest",
+  "metadata": {
+    "title": "Play Cake Fest - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Cake Fest. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Cake Fest",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/cake-fest",
+    "openGraph": {
+      "title": "Play Cake Fest - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Cake Fest. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cake-fest-og.jpg",
+      "url": "https://littlegames.com/games/cake-fest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cake Fest - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Cake Fest. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cake-fest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cake Fest",
+      "href": "/games/cake-fest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_878",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

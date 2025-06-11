@@ -1,0 +1,54 @@
+{
+  "gameId": 5021,
+  "slug": "solitaire-seasons",
+  "metadata": {
+    "title": "Solitaire Seasons Online - Ultimate Action Gaming Experience",
+    "description": "Solitaire Seasons delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Solitaire Seasons",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/solitaire-seasons",
+    "openGraph": {
+      "title": "Solitaire Seasons Online - Ultimate Action Gaming Experience",
+      "description": "Solitaire Seasons delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/solitaire-seasons-og.jpg",
+      "url": "https://littlegames.com/games/solitaire-seasons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Solitaire Seasons Online - Ultimate Action Gaming Experience",
+      "description": "Solitaire Seasons delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/solitaire-seasons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Solitaire Seasons",
+      "href": "/games/solitaire-seasons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_657",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7682,
+  "slug": "dunk-challenge",
+  "metadata": {
+    "title": "Dunk Challenge - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Dunk Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Dunk Challenge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dunk-challenge",
+    "openGraph": {
+      "title": "Dunk Challenge - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Dunk Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/dunk-challenge-og.jpg",
+      "url": "https://littlegames.com/games/dunk-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dunk Challenge - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Dunk Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/dunk-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dunk Challenge",
+      "href": "/games/dunk-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_148",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

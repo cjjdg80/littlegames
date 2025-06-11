@@ -1,0 +1,54 @@
+{
+  "gameId": 7658,
+  "slug": "eating-simulator",
+  "metadata": {
+    "title": "Eating Simulator - Exciting Action Adventure Game",
+    "description": "Eating Simulator delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Eating Simulator",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/eating-simulator",
+    "openGraph": {
+      "title": "Eating Simulator - Exciting Action Adventure Game",
+      "description": "Eating Simulator delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/eating-simulator-og.jpg",
+      "url": "https://littlegames.com/games/eating-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Eating Simulator - Exciting Action Adventure Game",
+      "description": "Eating Simulator delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/eating-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Eating Simulator",
+      "href": "/games/eating-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_408",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

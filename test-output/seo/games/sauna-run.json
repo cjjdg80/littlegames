@@ -1,0 +1,54 @@
+{
+  "gameId": 6119,
+  "slug": "sauna-run",
+  "metadata": {
+    "title": "Sauna Run - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Sauna Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Sauna Run online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sauna-run",
+    "openGraph": {
+      "title": "Sauna Run - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Sauna Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sauna-run-og.jpg",
+      "url": "https://littlegames.com/games/sauna-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sauna Run - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Sauna Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sauna-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sauna Run",
+      "href": "/games/sauna-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_695",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

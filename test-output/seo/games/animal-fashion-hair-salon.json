@@ -1,0 +1,54 @@
+{
+  "gameId": 1337,
+  "slug": "animal-fashion-hair-salon",
+  "metadata": {
+    "title": "Animal Fashion Hair Salon - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Animal Fashion Hair Salon! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Animal Fashion Hair Salon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/animal-fashion-hair-salon",
+    "openGraph": {
+      "title": "Animal Fashion Hair Salon - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Animal Fashion Hair Salon! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/animal-fashion-hair-salon-og.jpg",
+      "url": "https://littlegames.com/games/animal-fashion-hair-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animal Fashion Hair Salon - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Animal Fashion Hair Salon! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/animal-fashion-hair-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Animal Fashion Hair Salon",
+      "href": "/games/animal-fashion-hair-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_453",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

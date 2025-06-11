@@ -1,0 +1,54 @@
+{
+  "gameId": 2318,
+  "slug": "wheelie-buddy",
+  "metadata": {
+    "title": "Wheelie Buddy - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Wheelie Buddy. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Wheelie Buddy game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/wheelie-buddy",
+    "openGraph": {
+      "title": "Wheelie Buddy - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Wheelie Buddy. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/wheelie-buddy-og.jpg",
+      "url": "https://littlegames.com/games/wheelie-buddy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wheelie Buddy - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Wheelie Buddy. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wheelie-buddy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Wheelie Buddy",
+      "href": "/games/wheelie-buddy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_864",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

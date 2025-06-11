@@ -1,0 +1,54 @@
+{
+  "gameId": 590,
+  "slug": "angry-zombies",
+  "metadata": {
+    "title": "Play Angry Zombies - Free Action Game Online",
+    "description": "Angry Zombies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Angry Zombies",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/angry-zombies",
+    "openGraph": {
+      "title": "Play Angry Zombies - Free Action Game Online",
+      "description": "Angry Zombies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/angry-zombies-og.jpg",
+      "url": "https://littlegames.com/games/angry-zombies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Angry Zombies - Free Action Game Online",
+      "description": "Angry Zombies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/angry-zombies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Angry Zombies",
+      "href": "/games/angry-zombies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_296",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

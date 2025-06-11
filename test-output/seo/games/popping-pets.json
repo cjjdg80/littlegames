@@ -1,0 +1,54 @@
+{
+  "gameId": 8233,
+  "slug": "popping-pets",
+  "metadata": {
+    "title": "Popping Pets - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Popping Pets! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Popping Pets game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/popping-pets",
+    "openGraph": {
+      "title": "Popping Pets - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Popping Pets! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/popping-pets-og.jpg",
+      "url": "https://littlegames.com/games/popping-pets",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Popping Pets - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Popping Pets! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/popping-pets-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Popping Pets",
+      "href": "/games/popping-pets",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_229",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

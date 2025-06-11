@@ -1,0 +1,54 @@
+{
+  "gameId": 4286,
+  "slug": "linkz",
+  "metadata": {
+    "title": "Free Linkz! Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Linkz!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Linkz! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/linkz",
+    "openGraph": {
+      "title": "Free Linkz! Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Linkz!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/linkz-og.jpg",
+      "url": "https://littlegames.com/games/linkz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Linkz! Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Linkz!. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/linkz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Linkz!",
+      "href": "/games/linkz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_872",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

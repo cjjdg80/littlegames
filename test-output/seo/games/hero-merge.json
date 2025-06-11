@@ -1,0 +1,54 @@
+{
+  "gameId": 9597,
+  "slug": "hero-merge",
+  "metadata": {
+    "title": "Action Game Hero Merge - Play Free Now",
+    "description": "Dive into the action-packed world of Hero Merge. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Hero Merge",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/hero-merge",
+    "openGraph": {
+      "title": "Action Game Hero Merge - Play Free Now",
+      "description": "Dive into the action-packed world of Hero Merge. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hero-merge-og.jpg",
+      "url": "https://littlegames.com/games/hero-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Hero Merge - Play Free Now",
+      "description": "Dive into the action-packed world of Hero Merge. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hero-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hero Merge",
+      "href": "/games/hero-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_513",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

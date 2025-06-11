@@ -1,0 +1,54 @@
+{
+  "gameId": 4468,
+  "slug": "feed-the-panda",
+  "metadata": {
+    "title": "Action Game Feed the Panda - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Feed the Panda. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Feed the Panda",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/feed-the-panda",
+    "openGraph": {
+      "title": "Action Game Feed the Panda - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Feed the Panda. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/feed-the-panda-og.jpg",
+      "url": "https://littlegames.com/games/feed-the-panda",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Feed the Panda - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Feed the Panda. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/feed-the-panda-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Feed the Panda",
+      "href": "/games/feed-the-panda",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_514",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8400,
+  "slug": "over-the-rainbow",
+  "metadata": {
+    "title": "Over the Rainbow Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Over the Rainbow. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Over the Rainbow",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/over-the-rainbow",
+    "openGraph": {
+      "title": "Over the Rainbow Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Over the Rainbow. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/over-the-rainbow-og.jpg",
+      "url": "https://littlegames.com/games/over-the-rainbow",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Over the Rainbow Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Over the Rainbow. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/over-the-rainbow-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Over the Rainbow",
+      "href": "/games/over-the-rainbow",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_406",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

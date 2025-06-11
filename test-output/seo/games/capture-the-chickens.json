@@ -1,0 +1,54 @@
+{
+  "gameId": 2452,
+  "slug": "capture-the-chickens",
+  "metadata": {
+    "title": "Free Capture the Chickens Game - Adventure Awaits",
+    "description": "Discover new worlds in Capture the Chickens. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+    "keywords": [
+      "adventure games",
+      "Capture the Chickens",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/capture-the-chickens",
+    "openGraph": {
+      "title": "Free Capture the Chickens Game - Adventure Awaits",
+      "description": "Discover new worlds in Capture the Chickens. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+      "image": "https://littlegames.com/images/games/capture-the-chickens-og.jpg",
+      "url": "https://littlegames.com/games/capture-the-chickens",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Capture the Chickens Game - Adventure Awaits",
+      "description": "Discover new worlds in Capture the Chickens. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/capture-the-chickens-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Capture the Chickens",
+      "href": "/games/capture-the-chickens",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_021",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

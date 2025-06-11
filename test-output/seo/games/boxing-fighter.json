@@ -1,0 +1,54 @@
+{
+  "gameId": 7624,
+  "slug": "boxing-fighter",
+  "metadata": {
+    "title": "Free Boxing Fighter Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Boxing Fighter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Boxing Fighter",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/boxing-fighter",
+    "openGraph": {
+      "title": "Free Boxing Fighter Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Boxing Fighter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boxing-fighter-og.jpg",
+      "url": "https://littlegames.com/games/boxing-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Boxing Fighter Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Boxing Fighter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boxing-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Boxing Fighter",
+      "href": "/games/boxing-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_350",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

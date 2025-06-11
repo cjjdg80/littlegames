@@ -1,0 +1,54 @@
+{
+  "gameId": 2797,
+  "slug": "sinal-game",
+  "metadata": {
+    "title": "Sinal Game - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Sinal Game. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Sinal Game online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sinal-game",
+    "openGraph": {
+      "title": "Sinal Game - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sinal Game. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sinal-game-og.jpg",
+      "url": "https://littlegames.com/games/sinal-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sinal Game - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sinal Game. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sinal-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sinal Game",
+      "href": "/games/sinal-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_713",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "littlegames-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for Little Games project",
+  "scripts": {
+    "test:seo": "tsx test-seo-generator.ts",
+    "build:seo": "tsx build-seo-data.ts",
+    "validate:data": "tsx data-processing/quickDataValidator.ts",
+    "reorganize:data": "tsx data-processing/gameDataReorganizer.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5375,
+  "slug": "be-the-judge",
+  "metadata": {
+    "title": "Play Be The Judge - Epic Adventure Game Online",
+    "description": "Start your epic journey with Be The Judge! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Be The Judge",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/be-the-judge",
+    "openGraph": {
+      "title": "Play Be The Judge - Epic Adventure Game Online",
+      "description": "Start your epic journey with Be The Judge! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/be-the-judge-og.jpg",
+      "url": "https://littlegames.com/games/be-the-judge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Be The Judge - Epic Adventure Game Online",
+      "description": "Start your epic journey with Be The Judge! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/be-the-judge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Be The Judge",
+      "href": "/games/be-the-judge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_634",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

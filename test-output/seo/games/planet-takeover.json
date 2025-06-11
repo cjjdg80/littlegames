@@ -1,0 +1,54 @@
+{
+  "gameId": 7764,
+  "slug": "planet-takeover",
+  "metadata": {
+    "title": "Planet Takeover - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Planet Takeover. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Planet Takeover game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/planet-takeover",
+    "openGraph": {
+      "title": "Planet Takeover - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Planet Takeover. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/planet-takeover-og.jpg",
+      "url": "https://littlegames.com/games/planet-takeover",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Planet Takeover - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Planet Takeover. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/planet-takeover-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Planet Takeover",
+      "href": "/games/planet-takeover",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_690",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

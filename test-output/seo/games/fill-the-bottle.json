@@ -1,0 +1,54 @@
+{
+  "gameId": 8312,
+  "slug": "fill-the-bottle",
+  "metadata": {
+    "title": "Play Fill The Bottle - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Fill The Bottle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Fill The Bottle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fill-the-bottle",
+    "openGraph": {
+      "title": "Play Fill The Bottle - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Fill The Bottle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fill-the-bottle-og.jpg",
+      "url": "https://littlegames.com/games/fill-the-bottle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fill The Bottle - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Fill The Bottle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/fill-the-bottle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fill The Bottle",
+      "href": "/games/fill-the-bottle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_678",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

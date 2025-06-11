@@ -1,0 +1,54 @@
+{
+  "gameId": 4423,
+  "slug": "casual-space",
+  "metadata": {
+    "title": "Casual Space - Exciting Action Adventure Game",
+    "description": "Join the action in Casual Space! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Casual Space game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/casual-space",
+    "openGraph": {
+      "title": "Casual Space - Exciting Action Adventure Game",
+      "description": "Join the action in Casual Space! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/casual-space-og.jpg",
+      "url": "https://littlegames.com/games/casual-space",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Casual Space - Exciting Action Adventure Game",
+      "description": "Join the action in Casual Space! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/casual-space-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Casual Space",
+      "href": "/games/casual-space",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_119",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5269,
+  "slug": "noob-nightmare-arcade",
+  "metadata": {
+    "title": "Noob Nightmare Arcade - Thrilling Adventure Quest",
+    "description": "Noob Nightmare Arcade offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "play Noob Nightmare Arcade",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/noob-nightmare-arcade",
+    "openGraph": {
+      "title": "Noob Nightmare Arcade - Thrilling Adventure Quest",
+      "description": "Noob Nightmare Arcade offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/noob-nightmare-arcade-og.jpg",
+      "url": "https://littlegames.com/games/noob-nightmare-arcade",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Noob Nightmare Arcade - Thrilling Adventure Quest",
+      "description": "Noob Nightmare Arcade offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/noob-nightmare-arcade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Noob Nightmare Arcade",
+      "href": "/games/noob-nightmare-arcade",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_348",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

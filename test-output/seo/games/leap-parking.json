@@ -1,0 +1,54 @@
+{
+  "gameId": 5047,
+  "slug": "leap-parking",
+  "metadata": {
+    "title": "Adventure Game Leap Parking - Journey Begins",
+    "description": "Discover new worlds in Leap Parking. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Leap Parking",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/leap-parking",
+    "openGraph": {
+      "title": "Adventure Game Leap Parking - Journey Begins",
+      "description": "Discover new worlds in Leap Parking. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/leap-parking-og.jpg",
+      "url": "https://littlegames.com/games/leap-parking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Leap Parking - Journey Begins",
+      "description": "Discover new worlds in Leap Parking. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/leap-parking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Leap Parking",
+      "href": "/games/leap-parking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_466",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9321,
+  "slug": "snake-classic",
+  "metadata": {
+    "title": "Play Snake Classic - Free Action Game Online",
+    "description": "Join the action in Snake Classic! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Snake Classic",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/snake-classic",
+    "openGraph": {
+      "title": "Play Snake Classic - Free Action Game Online",
+      "description": "Join the action in Snake Classic! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-classic-og.jpg",
+      "url": "https://littlegames.com/games/snake-classic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Snake Classic - Free Action Game Online",
+      "description": "Join the action in Snake Classic! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Snake Classic",
+      "href": "/games/snake-classic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_957",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1297,
+  "slug": "popcorn-show",
+  "metadata": {
+    "title": "Popcorn Show - Exciting Action Adventure Game",
+    "description": "Join the action in Popcorn Show! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Popcorn Show",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/popcorn-show",
+    "openGraph": {
+      "title": "Popcorn Show - Exciting Action Adventure Game",
+      "description": "Join the action in Popcorn Show! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/popcorn-show-og.jpg",
+      "url": "https://littlegames.com/games/popcorn-show",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Popcorn Show - Exciting Action Adventure Game",
+      "description": "Join the action in Popcorn Show! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/popcorn-show-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Popcorn Show",
+      "href": "/games/popcorn-show",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_213",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

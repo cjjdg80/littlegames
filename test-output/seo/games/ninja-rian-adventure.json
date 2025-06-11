@@ -1,0 +1,54 @@
+{
+  "gameId": 4024,
+  "slug": "ninja-rian-adventure",
+  "metadata": {
+    "title": "Free Ninja Rian Adventure Game - Adventure Awaits",
+    "description": "Ninja Rian Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "Ninja Rian Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-rian-adventure",
+    "openGraph": {
+      "title": "Free Ninja Rian Adventure Game - Adventure Awaits",
+      "description": "Ninja Rian Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/ninja-rian-adventure-og.jpg",
+      "url": "https://littlegames.com/games/ninja-rian-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ninja Rian Adventure Game - Adventure Awaits",
+      "description": "Ninja Rian Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/ninja-rian-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ninja Rian Adventure",
+      "href": "/games/ninja-rian-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_753",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

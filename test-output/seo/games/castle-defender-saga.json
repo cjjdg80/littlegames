@@ -1,0 +1,54 @@
+{
+  "gameId": 3439,
+  "slug": "castle-defender-saga",
+  "metadata": {
+    "title": "Castle Defender Saga Online - Ultimate Action Gaming...",
+    "description": "Castle Defender Saga delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Castle Defender Saga",
+      "free online games",
+      "strategy games"
+    ],
+    "canonical": "https://littlegames.com/games/castle-defender-saga",
+    "openGraph": {
+      "title": "Castle Defender Saga Online - Ultimate Action Gaming...",
+      "description": "Castle Defender Saga delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/castle-defender-saga-og.jpg",
+      "url": "https://littlegames.com/games/castle-defender-saga",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Castle Defender Saga Online - Ultimate Action Gaming Experience",
+      "description": "Castle Defender Saga delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/castle-defender-saga-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Castle Defender Saga",
+      "href": "/games/castle-defender-saga",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_617",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9249,
+  "slug": "disk-rush",
+  "metadata": {
+    "title": "Free Disk Rush Game - Action Packed Fun",
+    "description": "Disk Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Disk Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/disk-rush",
+    "openGraph": {
+      "title": "Free Disk Rush Game - Action Packed Fun",
+      "description": "Disk Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/disk-rush-og.jpg",
+      "url": "https://littlegames.com/games/disk-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Disk Rush Game - Action Packed Fun",
+      "description": "Disk Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/disk-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Disk Rush",
+      "href": "/games/disk-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_725",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

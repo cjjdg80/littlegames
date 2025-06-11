@@ -1,0 +1,54 @@
+{
+  "gameId": 5484,
+  "slug": "sumoio",
+  "metadata": {
+    "title": "Sumo.io Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Sumo.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Sumo.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sumoio",
+    "openGraph": {
+      "title": "Sumo.io Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sumo.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sumoio-og.jpg",
+      "url": "https://littlegames.com/games/sumoio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sumo.io Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Sumo.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sumoio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sumo.io",
+      "href": "/games/sumoio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_010",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

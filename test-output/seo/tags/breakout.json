@@ -1,0 +1,46 @@
+{
+  "tag": "breakout",
+  "displayName": "Breakout",
+  "metadata": {
+    "title": "Breakout Games - Play Free Online",
+    "description": "Discover amazing breakout games! Play 19 free games with breakout theme. No downloads required.",
+    "keywords": [
+      "breakout games",
+      "free online games",
+      "browser games",
+      "breakout theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/breakout",
+    "openGraph": {
+      "title": "Breakout Games - Free Online Gaming",
+      "description": "Play the best breakout games online for free. 19 games available.",
+      "image": "https://littlegames.com/images/tags/breakout-og.jpg",
+      "url": "https://littlegames.com/tags/breakout",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Breakout Games - Free Online",
+      "description": "Play 19 free breakout games online.",
+      "image": "https://littlegames.com/images/tags/breakout-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Breakout",
+      "href": "/tags/breakout",
+      "current": true
+    }
+  ],
+  "description": "Discover games with breakout theme! Our collection includes 19 carefully selected games that feature breakout elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

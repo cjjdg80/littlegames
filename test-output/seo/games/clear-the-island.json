@@ -1,0 +1,54 @@
+{
+  "gameId": 5797,
+  "slug": "clear-the-island",
+  "metadata": {
+    "title": "Play Clear the Island - Free Action Game Online",
+    "description": "Clear the Island delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Clear the Island",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/clear-the-island",
+    "openGraph": {
+      "title": "Play Clear the Island - Free Action Game Online",
+      "description": "Clear the Island delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/clear-the-island-og.jpg",
+      "url": "https://littlegames.com/games/clear-the-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Clear the Island - Free Action Game Online",
+      "description": "Clear the Island delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/clear-the-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Clear the Island",
+      "href": "/games/clear-the-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_713",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

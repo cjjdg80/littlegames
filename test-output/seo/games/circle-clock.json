@@ -1,0 +1,54 @@
+{
+  "gameId": 293,
+  "slug": "circle-clock",
+  "metadata": {
+    "title": "Free Circle Clock Game - Action Packed Fun",
+    "description": "Join the action in Circle Clock! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Circle Clock",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/circle-clock",
+    "openGraph": {
+      "title": "Free Circle Clock Game - Action Packed Fun",
+      "description": "Join the action in Circle Clock! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/circle-clock-og.jpg",
+      "url": "https://littlegames.com/games/circle-clock",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Circle Clock Game - Action Packed Fun",
+      "description": "Join the action in Circle Clock! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/circle-clock-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Circle Clock",
+      "href": "/games/circle-clock",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_089",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

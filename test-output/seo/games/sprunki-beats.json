@@ -1,0 +1,54 @@
+{
+  "gameId": 9312,
+  "slug": "sprunki-beats",
+  "metadata": {
+    "title": "Sprunki Beats Online - Explore and Discover",
+    "description": "Discover new worlds in Sprunki Beats. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Sprunki Beats game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/sprunki-beats",
+    "openGraph": {
+      "title": "Sprunki Beats Online - Explore and Discover",
+      "description": "Discover new worlds in Sprunki Beats. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/sprunki-beats-og.jpg",
+      "url": "https://littlegames.com/games/sprunki-beats",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sprunki Beats Online - Explore and Discover",
+      "description": "Discover new worlds in Sprunki Beats. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/sprunki-beats-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Sprunki Beats",
+      "href": "/games/sprunki-beats",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_681",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

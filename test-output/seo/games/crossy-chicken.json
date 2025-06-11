@@ -1,0 +1,54 @@
+{
+  "gameId": 2802,
+  "slug": "crossy-chicken",
+  "metadata": {
+    "title": "Action Game Crossy Chicken - Play Free Now",
+    "description": "Join the action in Crossy Chicken! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Crossy Chicken",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/crossy-chicken",
+    "openGraph": {
+      "title": "Action Game Crossy Chicken - Play Free Now",
+      "description": "Join the action in Crossy Chicken! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/crossy-chicken-og.jpg",
+      "url": "https://littlegames.com/games/crossy-chicken",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Crossy Chicken - Play Free Now",
+      "description": "Join the action in Crossy Chicken! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/crossy-chicken-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crossy Chicken",
+      "href": "/games/crossy-chicken",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_868",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

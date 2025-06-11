@@ -1,0 +1,54 @@
+{
+  "gameId": 234,
+  "slug": "hungry-chameleon",
+  "metadata": {
+    "title": "Play Hungry Chameleon - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Hungry Chameleon! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Hungry Chameleon game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hungry-chameleon",
+    "openGraph": {
+      "title": "Play Hungry Chameleon - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Hungry Chameleon! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hungry-chameleon-og.jpg",
+      "url": "https://littlegames.com/games/hungry-chameleon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hungry Chameleon - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Hungry Chameleon! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hungry-chameleon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hungry Chameleon",
+      "href": "/games/hungry-chameleon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_260",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

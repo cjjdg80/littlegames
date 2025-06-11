@@ -1,0 +1,54 @@
+{
+  "gameId": 1934,
+  "slug": "pop-pop-jingle",
+  "metadata": {
+    "title": "Action Game Pop Pop Jingle - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Pop Pop Jingle. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Pop Pop Jingle",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pop-pop-jingle",
+    "openGraph": {
+      "title": "Action Game Pop Pop Jingle - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Pop Pop Jingle. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pop-pop-jingle-og.jpg",
+      "url": "https://littlegames.com/games/pop-pop-jingle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pop Pop Jingle - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Pop Pop Jingle. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pop-pop-jingle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pop Pop Jingle",
+      "href": "/games/pop-pop-jingle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_960",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

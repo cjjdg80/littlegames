@@ -1,0 +1,46 @@
+{
+  "tag": "geometry",
+  "displayName": "Geometry",
+  "metadata": {
+    "title": "Geometry Games - Play Free Online",
+    "description": "Discover amazing geometry games! Play 29 free games with geometry theme. No downloads required.",
+    "keywords": [
+      "geometry games",
+      "free online games",
+      "browser games",
+      "geometry theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/geometry",
+    "openGraph": {
+      "title": "Geometry Games - Free Online Gaming",
+      "description": "Play the best geometry games online for free. 29 games available.",
+      "image": "https://littlegames.com/images/tags/geometry-og.jpg",
+      "url": "https://littlegames.com/tags/geometry",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometry Games - Free Online",
+      "description": "Play 29 free geometry games online.",
+      "image": "https://littlegames.com/images/tags/geometry-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Geometry",
+      "href": "/tags/geometry",
+      "current": true
+    }
+  ],
+  "description": "Discover games with geometry theme! Our collection includes 29 carefully selected games that feature geometry elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

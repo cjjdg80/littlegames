@@ -1,0 +1,54 @@
+{
+  "gameId": 7429,
+  "slug": "xmas-mahjong",
+  "metadata": {
+    "title": "Xmas Mahjong Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Xmas Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Xmas Mahjong game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/xmas-mahjong",
+    "openGraph": {
+      "title": "Xmas Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Xmas Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/xmas-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/xmas-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Xmas Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Xmas Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/xmas-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Xmas Mahjong",
+      "href": "/games/xmas-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_305",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

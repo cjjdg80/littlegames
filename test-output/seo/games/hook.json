@@ -1,0 +1,54 @@
+{
+  "gameId": 553,
+  "slug": "hook",
+  "metadata": {
+    "title": "Hook Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Hook! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Hook",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hook",
+    "openGraph": {
+      "title": "Hook Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Hook! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hook-og.jpg",
+      "url": "https://littlegames.com/games/hook",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hook Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Hook! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hook-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hook",
+      "href": "/games/hook",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_149",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

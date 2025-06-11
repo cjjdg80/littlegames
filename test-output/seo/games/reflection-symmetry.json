@@ -1,0 +1,54 @@
+{
+  "gameId": 2607,
+  "slug": "reflection-symmetry",
+  "metadata": {
+    "title": "Reflection Symmetry - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Reflection Symmetry! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "Reflection Symmetry game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/reflection-symmetry",
+    "openGraph": {
+      "title": "Reflection Symmetry - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Reflection Symmetry! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/reflection-symmetry-og.jpg",
+      "url": "https://littlegames.com/games/reflection-symmetry",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Reflection Symmetry - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Reflection Symmetry! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/reflection-symmetry-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Reflection Symmetry",
+      "href": "/games/reflection-symmetry",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_823",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

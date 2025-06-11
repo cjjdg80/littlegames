@@ -1,0 +1,54 @@
+{
+  "gameId": 2882,
+  "slug": "oomee-cake",
+  "metadata": {
+    "title": "Oomee Cake - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Oomee Cake. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Oomee Cake online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/oomee-cake",
+    "openGraph": {
+      "title": "Oomee Cake - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Oomee Cake. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/oomee-cake-og.jpg",
+      "url": "https://littlegames.com/games/oomee-cake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Oomee Cake - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Oomee Cake. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/oomee-cake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Oomee Cake",
+      "href": "/games/oomee-cake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_348",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4342,
+  "slug": "ninja-bear",
+  "metadata": {
+    "title": "Play Ninja Bear - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Ninja Bear. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Ninja Bear",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-bear",
+    "openGraph": {
+      "title": "Play Ninja Bear - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Ninja Bear. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ninja-bear-og.jpg",
+      "url": "https://littlegames.com/games/ninja-bear",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ninja Bear - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Ninja Bear. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ninja-bear-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ninja Bear",
+      "href": "/games/ninja-bear",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_608",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

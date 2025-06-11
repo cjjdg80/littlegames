@@ -1,0 +1,54 @@
+{
+  "gameId": 5313,
+  "slug": "max-axe",
+  "metadata": {
+    "title": "MAX AXE - Thrilling Adventure Quest",
+    "description": "Discover new worlds in MAX AXE. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure...",
+    "keywords": [
+      "adventure games",
+      "MAX AXE",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/max-axe",
+    "openGraph": {
+      "title": "MAX AXE - Thrilling Adventure Quest",
+      "description": "Discover new worlds in MAX AXE. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure...",
+      "image": "https://littlegames.com/images/games/max-axe-og.jpg",
+      "url": "https://littlegames.com/games/max-axe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "MAX AXE - Thrilling Adventure Quest",
+      "description": "Discover new worlds in MAX AXE. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/max-axe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "MAX AXE",
+      "href": "/games/max-axe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_712",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

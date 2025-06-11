@@ -1,0 +1,54 @@
+{
+  "gameId": 336,
+  "slug": "block-jewel-puzzle",
+  "metadata": {
+    "title": "Block Jewel Puzzle - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Block Jewel Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Block Jewel Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/block-jewel-puzzle",
+    "openGraph": {
+      "title": "Block Jewel Puzzle - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Block Jewel Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/block-jewel-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/block-jewel-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Block Jewel Puzzle - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Block Jewel Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/block-jewel-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Jewel Puzzle",
+      "href": "/games/block-jewel-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_422",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

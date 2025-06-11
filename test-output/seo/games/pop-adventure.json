@@ -1,0 +1,54 @@
+{
+  "gameId": 7892,
+  "slug": "pop-adventure",
+  "metadata": {
+    "title": "Action Game Pop Adventure - Play Free Now",
+    "description": "Experience thrilling action in Pop Adventure! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Pop Adventure online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pop-adventure",
+    "openGraph": {
+      "title": "Action Game Pop Adventure - Play Free Now",
+      "description": "Experience thrilling action in Pop Adventure! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/pop-adventure-og.jpg",
+      "url": "https://littlegames.com/games/pop-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pop Adventure - Play Free Now",
+      "description": "Experience thrilling action in Pop Adventure! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pop-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pop Adventure",
+      "href": "/games/pop-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_658",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

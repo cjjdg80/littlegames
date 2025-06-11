@@ -1,0 +1,54 @@
+{
+  "gameId": 8127,
+  "slug": "hexa-sort-3d",
+  "metadata": {
+    "title": "Hexa Sort 3D - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Hexa Sort 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Hexa Sort 3D",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-sort-3d",
+    "openGraph": {
+      "title": "Hexa Sort 3D - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Hexa Sort 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/hexa-sort-3d-og.jpg",
+      "url": "https://littlegames.com/games/hexa-sort-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hexa Sort 3D - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Hexa Sort 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/hexa-sort-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexa Sort 3D",
+      "href": "/games/hexa-sort-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_943",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

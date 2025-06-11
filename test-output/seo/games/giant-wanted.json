@@ -1,0 +1,54 @@
+{
+  "gameId": 6165,
+  "slug": "giant-wanted",
+  "metadata": {
+    "title": "Giant Wanted - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Giant Wanted. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Giant Wanted",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/giant-wanted",
+    "openGraph": {
+      "title": "Giant Wanted - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Giant Wanted. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/giant-wanted-og.jpg",
+      "url": "https://littlegames.com/games/giant-wanted",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Giant Wanted - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Giant Wanted. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/giant-wanted-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Giant Wanted",
+      "href": "/games/giant-wanted",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_121",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

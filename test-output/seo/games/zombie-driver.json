@@ -1,0 +1,54 @@
+{
+  "gameId": 7854,
+  "slug": "zombie-driver",
+  "metadata": {
+    "title": "Zombie Driver - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Zombie Driver! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Zombie Driver",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-driver",
+    "openGraph": {
+      "title": "Zombie Driver - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Zombie Driver! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/zombie-driver-og.jpg",
+      "url": "https://littlegames.com/games/zombie-driver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombie Driver - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Zombie Driver! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombie-driver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Zombie Driver",
+      "href": "/games/zombie-driver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_483",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 489,
+  "slug": "viking-dragon",
+  "metadata": {
+    "title": "Play Viking Dragon - Free Action Game Online",
+    "description": "Viking Dragon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Viking Dragon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/viking-dragon",
+    "openGraph": {
+      "title": "Play Viking Dragon - Free Action Game Online",
+      "description": "Viking Dragon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/viking-dragon-og.jpg",
+      "url": "https://littlegames.com/games/viking-dragon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Viking Dragon - Free Action Game Online",
+      "description": "Viking Dragon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/viking-dragon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Viking Dragon",
+      "href": "/games/viking-dragon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_165",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

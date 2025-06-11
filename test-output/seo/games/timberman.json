@@ -1,0 +1,54 @@
+{
+  "gameId": 5330,
+  "slug": "timberman",
+  "metadata": {
+    "title": "Free Timberman Game - Action Packed Fun",
+    "description": "Experience thrilling action in Timberman! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Timberman",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/timberman",
+    "openGraph": {
+      "title": "Free Timberman Game - Action Packed Fun",
+      "description": "Experience thrilling action in Timberman! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/timberman-og.jpg",
+      "url": "https://littlegames.com/games/timberman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Timberman Game - Action Packed Fun",
+      "description": "Experience thrilling action in Timberman! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/timberman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Timberman",
+      "href": "/games/timberman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_236",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9175,
+  "slug": "collect-em-all",
+  "metadata": {
+    "title": "Collect Em All - Exciting Action Adventure Game",
+    "description": "Collect Em All delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Collect Em All",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/collect-em-all",
+    "openGraph": {
+      "title": "Collect Em All - Exciting Action Adventure Game",
+      "description": "Collect Em All delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/collect-em-all-og.jpg",
+      "url": "https://littlegames.com/games/collect-em-all",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Collect Em All - Exciting Action Adventure Game",
+      "description": "Collect Em All delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/collect-em-all-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Collect Em All",
+      "href": "/games/collect-em-all",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_431",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

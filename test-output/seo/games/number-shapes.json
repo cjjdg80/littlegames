@@ -1,0 +1,54 @@
+{
+  "gameId": 1456,
+  "slug": "number-shapes",
+  "metadata": {
+    "title": "Free Number Shapes Game - Action Packed Fun",
+    "description": "Number Shapes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Number Shapes game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/number-shapes",
+    "openGraph": {
+      "title": "Free Number Shapes Game - Action Packed Fun",
+      "description": "Number Shapes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/number-shapes-og.jpg",
+      "url": "https://littlegames.com/games/number-shapes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Number Shapes Game - Action Packed Fun",
+      "description": "Number Shapes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/number-shapes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Number Shapes",
+      "href": "/games/number-shapes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_142",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

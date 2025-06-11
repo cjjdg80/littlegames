@@ -1,0 +1,54 @@
+{
+  "gameId": 7105,
+  "slug": "mumbai-crime-simulator",
+  "metadata": {
+    "title": "Mumbai Crime Simulator - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Mumbai Crime Simulator! This exciting simulation game offers intense gameplay with instant browser play. Play free online now...",
+    "keywords": [
+      "action games",
+      "Mumbai Crime Simulator",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/mumbai-crime-simulator",
+    "openGraph": {
+      "title": "Mumbai Crime Simulator - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Mumbai Crime Simulator! This exciting simulation game offers intense gameplay with instant browser play. Play free online now...",
+      "image": "https://littlegames.com/images/games/mumbai-crime-simulator-og.jpg",
+      "url": "https://littlegames.com/games/mumbai-crime-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mumbai Crime Simulator - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Mumbai Crime Simulator! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mumbai-crime-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Mumbai Crime Simulator",
+      "href": "/games/mumbai-crime-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_265",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

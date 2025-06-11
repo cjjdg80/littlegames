@@ -1,0 +1,54 @@
+{
+  "gameId": 5486,
+  "slug": "aquatic-word-search",
+  "metadata": {
+    "title": "Puzzle Game Aquatic Word Search - Test Your Skills",
+    "description": "Sharpen your mind with Aquatic Word Search! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Aquatic Word Search game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/aquatic-word-search",
+    "openGraph": {
+      "title": "Puzzle Game Aquatic Word Search - Test Your Skills",
+      "description": "Sharpen your mind with Aquatic Word Search! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/aquatic-word-search-og.jpg",
+      "url": "https://littlegames.com/games/aquatic-word-search",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Aquatic Word Search - Test Your Skills",
+      "description": "Sharpen your mind with Aquatic Word Search! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/aquatic-word-search-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Aquatic Word Search",
+      "href": "/games/aquatic-word-search",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_072",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

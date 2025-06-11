@@ -1,0 +1,54 @@
+{
+  "gameId": 1883,
+  "slug": "11",
+  "metadata": {
+    "title": "1+1 Online - Ultimate Action Gaming Experience",
+    "description": "1+1 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "1+1 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/11",
+    "openGraph": {
+      "title": "1+1 Online - Ultimate Action Gaming Experience",
+      "description": "1+1 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/11-og.jpg",
+      "url": "https://littlegames.com/games/11",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "1+1 Online - Ultimate Action Gaming Experience",
+      "description": "1+1 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/11-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "1+1",
+      "href": "/games/11",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_379",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

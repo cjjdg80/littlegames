@@ -1,0 +1,54 @@
+{
+  "gameId": 7071,
+  "slug": "solitaire-garden",
+  "metadata": {
+    "title": "Action Game Solitaire Garden - Play Free Now",
+    "description": "Dive into the action-packed world of Solitaire Garden. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Solitaire Garden online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/solitaire-garden",
+    "openGraph": {
+      "title": "Action Game Solitaire Garden - Play Free Now",
+      "description": "Dive into the action-packed world of Solitaire Garden. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/solitaire-garden-og.jpg",
+      "url": "https://littlegames.com/games/solitaire-garden",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Solitaire Garden - Play Free Now",
+      "description": "Dive into the action-packed world of Solitaire Garden. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/solitaire-garden-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Solitaire Garden",
+      "href": "/games/solitaire-garden",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_207",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

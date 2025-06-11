@@ -1,0 +1,54 @@
+{
+  "gameId": 8562,
+  "slug": "shadow-fighter",
+  "metadata": {
+    "title": "Shadow Fighter Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Shadow Fighter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Shadow Fighter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/shadow-fighter",
+    "openGraph": {
+      "title": "Shadow Fighter Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shadow Fighter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shadow-fighter-og.jpg",
+      "url": "https://littlegames.com/games/shadow-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shadow Fighter Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shadow Fighter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shadow-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shadow Fighter",
+      "href": "/games/shadow-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_428",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "poker",
+  "displayName": "Poker",
+  "metadata": {
+    "title": "Poker Games - Play Free Online",
+    "description": "Discover amazing poker games! Play 2 free games with poker theme. No downloads required.",
+    "keywords": [
+      "poker games",
+      "free online games",
+      "browser games",
+      "poker theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/poker",
+    "openGraph": {
+      "title": "Poker Games - Free Online Gaming",
+      "description": "Play the best poker games online for free. 2 games available.",
+      "image": "https://littlegames.com/images/tags/poker-og.jpg",
+      "url": "https://littlegames.com/tags/poker",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Poker Games - Free Online",
+      "description": "Play 2 free poker games online.",
+      "image": "https://littlegames.com/images/tags/poker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Poker",
+      "href": "/tags/poker",
+      "current": true
+    }
+  ],
+  "description": "Discover games with poker theme! Our collection includes 2 carefully selected games that feature poker elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

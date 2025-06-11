@@ -1,0 +1,54 @@
+{
+  "gameId": 3669,
+  "slug": "123-game",
+  "metadata": {
+    "title": "Play 123 game - Free Action Game Online",
+    "description": "Experience thrilling action in 123 game! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "123 game",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/123-game",
+    "openGraph": {
+      "title": "Play 123 game - Free Action Game Online",
+      "description": "Experience thrilling action in 123 game! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/123-game-og.jpg",
+      "url": "https://littlegames.com/games/123-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 123 game - Free Action Game Online",
+      "description": "Experience thrilling action in 123 game! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/123-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "123 game",
+      "href": "/games/123-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_745",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

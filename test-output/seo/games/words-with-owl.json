@@ -1,0 +1,54 @@
+{
+  "gameId": 9149,
+  "slug": "words-with-owl",
+  "metadata": {
+    "title": "Play Words with Owl - Free Action Game Online",
+    "description": "Words with Owl delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Words with Owl",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/words-with-owl",
+    "openGraph": {
+      "title": "Play Words with Owl - Free Action Game Online",
+      "description": "Words with Owl delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/words-with-owl-og.jpg",
+      "url": "https://littlegames.com/games/words-with-owl",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Words with Owl - Free Action Game Online",
+      "description": "Words with Owl delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/words-with-owl-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Words with Owl",
+      "href": "/games/words-with-owl",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_625",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

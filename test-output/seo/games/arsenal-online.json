@@ -1,0 +1,54 @@
+{
+  "gameId": 7530,
+  "slug": "arsenal-online",
+  "metadata": {
+    "title": "Free Arsenal Online Game - Action Packed Fun",
+    "description": "Arsenal Online delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Arsenal Online game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/arsenal-online",
+    "openGraph": {
+      "title": "Free Arsenal Online Game - Action Packed Fun",
+      "description": "Arsenal Online delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/arsenal-online-og.jpg",
+      "url": "https://littlegames.com/games/arsenal-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Arsenal Online Game - Action Packed Fun",
+      "description": "Arsenal Online delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/arsenal-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Arsenal Online",
+      "href": "/games/arsenal-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_436",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 70,
+  "slug": "kids-little-broccoli",
+  "metadata": {
+    "title": "Kids Little Broccoli - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Kids Little Broccoli. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Kids Little Broccoli online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/kids-little-broccoli",
+    "openGraph": {
+      "title": "Kids Little Broccoli - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Kids Little Broccoli. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/kids-little-broccoli-og.jpg",
+      "url": "https://littlegames.com/games/kids-little-broccoli",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kids Little Broccoli - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Kids Little Broccoli. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/kids-little-broccoli-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kids Little Broccoli",
+      "href": "/games/kids-little-broccoli",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_176",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

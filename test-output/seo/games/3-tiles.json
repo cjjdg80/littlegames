@@ -1,0 +1,54 @@
+{
+  "gameId": 8958,
+  "slug": "3-tiles",
+  "metadata": {
+    "title": "Play 3 Tiles - Free Action Game Online",
+    "description": "Join the action in 3 Tiles! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play 3 Tiles",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/3-tiles",
+    "openGraph": {
+      "title": "Play 3 Tiles - Free Action Game Online",
+      "description": "Join the action in 3 Tiles! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/3-tiles-og.jpg",
+      "url": "https://littlegames.com/games/3-tiles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 3 Tiles - Free Action Game Online",
+      "description": "Join the action in 3 Tiles! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/3-tiles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "3 Tiles",
+      "href": "/games/3-tiles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_704",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

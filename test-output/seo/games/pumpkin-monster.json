@@ -1,0 +1,54 @@
+{
+  "gameId": 1852,
+  "slug": "pumpkin-monster",
+  "metadata": {
+    "title": "Action Game Pumpkin Monster - Play Free Now",
+    "description": "Join the action in Pumpkin Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Pumpkin Monster",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pumpkin-monster",
+    "openGraph": {
+      "title": "Action Game Pumpkin Monster - Play Free Now",
+      "description": "Join the action in Pumpkin Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pumpkin-monster-og.jpg",
+      "url": "https://littlegames.com/games/pumpkin-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pumpkin Monster - Play Free Now",
+      "description": "Join the action in Pumpkin Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pumpkin-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pumpkin Monster",
+      "href": "/games/pumpkin-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_418",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

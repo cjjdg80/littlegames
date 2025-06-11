@@ -1,0 +1,54 @@
+{
+  "gameId": 6619,
+  "slug": "slime-invader",
+  "metadata": {
+    "title": "Slime Invader - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Slime Invader! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Slime Invader game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/slime-invader",
+    "openGraph": {
+      "title": "Slime Invader - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Slime Invader! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/slime-invader-og.jpg",
+      "url": "https://littlegames.com/games/slime-invader",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slime Invader - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Slime Invader! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/slime-invader-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Slime Invader",
+      "href": "/games/slime-invader",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_195",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

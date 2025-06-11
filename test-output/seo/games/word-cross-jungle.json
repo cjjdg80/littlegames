@@ -1,0 +1,54 @@
+{
+  "gameId": 1299,
+  "slug": "word-cross-jungle",
+  "metadata": {
+    "title": "Word Cross Jungle - Exciting Action Adventure Game",
+    "description": "Word Cross Jungle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Word Cross Jungle",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/word-cross-jungle",
+    "openGraph": {
+      "title": "Word Cross Jungle - Exciting Action Adventure Game",
+      "description": "Word Cross Jungle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/word-cross-jungle-og.jpg",
+      "url": "https://littlegames.com/games/word-cross-jungle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Cross Jungle - Exciting Action Adventure Game",
+      "description": "Word Cross Jungle delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/word-cross-jungle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Word Cross Jungle",
+      "href": "/games/word-cross-jungle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_275",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4951,
+  "slug": "holeminator",
+  "metadata": {
+    "title": "Free Holeminator Game - Action Packed Fun",
+    "description": "Holeminator delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Holeminator game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/holeminator",
+    "openGraph": {
+      "title": "Free Holeminator Game - Action Packed Fun",
+      "description": "Holeminator delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/holeminator-og.jpg",
+      "url": "https://littlegames.com/games/holeminator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Holeminator Game - Action Packed Fun",
+      "description": "Holeminator delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/holeminator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Holeminator",
+      "href": "/games/holeminator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_487",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

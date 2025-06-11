@@ -1,0 +1,54 @@
+{
+  "gameId": 1561,
+  "slug": "duck-challenge",
+  "metadata": {
+    "title": "Duck Challenge Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Duck Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Duck Challenge",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/duck-challenge",
+    "openGraph": {
+      "title": "Duck Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Duck Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/duck-challenge-og.jpg",
+      "url": "https://littlegames.com/games/duck-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Duck Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Duck Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/duck-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Duck Challenge",
+      "href": "/games/duck-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_397",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

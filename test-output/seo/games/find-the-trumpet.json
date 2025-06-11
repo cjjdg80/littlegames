@@ -1,0 +1,54 @@
+{
+  "gameId": 4369,
+  "slug": "find-the-trumpet",
+  "metadata": {
+    "title": "Play Find The Trumpet - Epic Adventure Game Online",
+    "description": "Discover new worlds in Find The Trumpet. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Find The Trumpet",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-trumpet",
+    "openGraph": {
+      "title": "Play Find The Trumpet - Epic Adventure Game Online",
+      "description": "Discover new worlds in Find The Trumpet. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/find-the-trumpet-og.jpg",
+      "url": "https://littlegames.com/games/find-the-trumpet",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Find The Trumpet - Epic Adventure Game Online",
+      "description": "Discover new worlds in Find The Trumpet. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/find-the-trumpet-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Find The Trumpet",
+      "href": "/games/find-the-trumpet",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_448",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

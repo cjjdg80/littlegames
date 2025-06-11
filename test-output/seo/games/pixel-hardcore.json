@@ -1,0 +1,54 @@
+{
+  "gameId": 5458,
+  "slug": "pixel-hardcore",
+  "metadata": {
+    "title": "Free Pixel Hardcore Game - Adventure Awaits",
+    "description": "Begin your quest in Pixel Hardcore. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Pixel Hardcore",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-hardcore",
+    "openGraph": {
+      "title": "Free Pixel Hardcore Game - Adventure Awaits",
+      "description": "Begin your quest in Pixel Hardcore. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/pixel-hardcore-og.jpg",
+      "url": "https://littlegames.com/games/pixel-hardcore",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pixel Hardcore Game - Adventure Awaits",
+      "description": "Begin your quest in Pixel Hardcore. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/pixel-hardcore-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pixel Hardcore",
+      "href": "/games/pixel-hardcore",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_207",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

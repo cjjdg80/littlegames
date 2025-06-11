@@ -1,0 +1,54 @@
+{
+  "gameId": 2037,
+  "slug": "dungeon-fury",
+  "metadata": {
+    "title": "Dungeon Fury Online - Explore and Discover",
+    "description": "Discover new worlds in Dungeon Fury. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Dungeon Fury",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dungeon-fury",
+    "openGraph": {
+      "title": "Dungeon Fury Online - Explore and Discover",
+      "description": "Discover new worlds in Dungeon Fury. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/dungeon-fury-og.jpg",
+      "url": "https://littlegames.com/games/dungeon-fury",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dungeon Fury Online - Explore and Discover",
+      "description": "Discover new worlds in Dungeon Fury. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/dungeon-fury-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dungeon Fury",
+      "href": "/games/dungeon-fury",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_156",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

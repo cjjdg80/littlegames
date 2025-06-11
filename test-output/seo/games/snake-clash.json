@@ -1,0 +1,54 @@
+{
+  "gameId": 8139,
+  "slug": "snake-clash",
+  "metadata": {
+    "title": "Snake Clash Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Snake Clash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Snake Clash online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/snake-clash",
+    "openGraph": {
+      "title": "Snake Clash Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Snake Clash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/snake-clash-og.jpg",
+      "url": "https://littlegames.com/games/snake-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snake Clash Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Snake Clash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/snake-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Snake Clash",
+      "href": "/games/snake-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_315",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

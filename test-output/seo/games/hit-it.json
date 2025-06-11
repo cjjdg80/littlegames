@@ -1,0 +1,54 @@
+{
+  "gameId": 1300,
+  "slug": "hit-it",
+  "metadata": {
+    "title": "Play Hit It - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Hit It. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Hit It",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hit-it",
+    "openGraph": {
+      "title": "Play Hit It - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Hit It. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hit-it-og.jpg",
+      "url": "https://littlegames.com/games/hit-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hit It - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Hit It. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hit-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hit It",
+      "href": "/games/hit-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_306",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5392,
+  "slug": "classic-solitaire-blue",
+  "metadata": {
+    "title": "Classic Solitaire Blue Online - Ultimate Action Gaming...",
+    "description": "Classic Solitaire Blue delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Classic Solitaire Blue online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/classic-solitaire-blue",
+    "openGraph": {
+      "title": "Classic Solitaire Blue Online - Ultimate Action Gaming...",
+      "description": "Classic Solitaire Blue delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/classic-solitaire-blue-og.jpg",
+      "url": "https://littlegames.com/games/classic-solitaire-blue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Classic Solitaire Blue Online - Ultimate Action Gaming Experience",
+      "description": "Classic Solitaire Blue delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/classic-solitaire-blue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Classic Solitaire Blue",
+      "href": "/games/classic-solitaire-blue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_158",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

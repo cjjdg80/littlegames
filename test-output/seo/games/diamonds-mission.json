@@ -1,0 +1,54 @@
+{
+  "gameId": 588,
+  "slug": "diamonds-mission",
+  "metadata": {
+    "title": "Diamonds Mission - Brain Training Puzzle Challenge",
+    "description": "Diamonds Mission offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Diamonds Mission game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/diamonds-mission",
+    "openGraph": {
+      "title": "Diamonds Mission - Brain Training Puzzle Challenge",
+      "description": "Diamonds Mission offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/diamonds-mission-og.jpg",
+      "url": "https://littlegames.com/games/diamonds-mission",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diamonds Mission - Brain Training Puzzle Challenge",
+      "description": "Diamonds Mission offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/diamonds-mission-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Diamonds Mission",
+      "href": "/games/diamonds-mission",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_234",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

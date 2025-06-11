@@ -1,0 +1,54 @@
+{
+  "gameId": 3616,
+  "slug": "mathpup-story",
+  "metadata": {
+    "title": "Free MathPup Story Game - Action Packed Fun",
+    "description": "Experience thrilling action in MathPup Story! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play MathPup Story",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mathpup-story",
+    "openGraph": {
+      "title": "Free MathPup Story Game - Action Packed Fun",
+      "description": "Experience thrilling action in MathPup Story! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/mathpup-story-og.jpg",
+      "url": "https://littlegames.com/games/mathpup-story",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free MathPup Story Game - Action Packed Fun",
+      "description": "Experience thrilling action in MathPup Story! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mathpup-story-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "MathPup Story",
+      "href": "/games/mathpup-story",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_102",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

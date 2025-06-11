@@ -1,0 +1,54 @@
+{
+  "gameId": 4179,
+  "slug": "sudoku-royal",
+  "metadata": {
+    "title": "Sudoku Royal - Brain Training Puzzle Challenge",
+    "description": "Sudoku Royal offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Sudoku Royal",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sudoku-royal",
+    "openGraph": {
+      "title": "Sudoku Royal - Brain Training Puzzle Challenge",
+      "description": "Sudoku Royal offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sudoku-royal-og.jpg",
+      "url": "https://littlegames.com/games/sudoku-royal",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sudoku Royal - Brain Training Puzzle Challenge",
+      "description": "Sudoku Royal offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sudoku-royal-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sudoku Royal",
+      "href": "/games/sudoku-royal",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_555",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

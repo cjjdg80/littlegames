@@ -1,0 +1,54 @@
+{
+  "gameId": 3934,
+  "slug": "block-craft-2",
+  "metadata": {
+    "title": "Puzzle Game Block Craft 2 - Test Your Skills",
+    "description": "Put your thinking skills to the test in Block Craft 2. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Block Craft 2",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/block-craft-2",
+    "openGraph": {
+      "title": "Puzzle Game Block Craft 2 - Test Your Skills",
+      "description": "Put your thinking skills to the test in Block Craft 2. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/block-craft-2-og.jpg",
+      "url": "https://littlegames.com/games/block-craft-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Block Craft 2 - Test Your Skills",
+      "description": "Put your thinking skills to the test in Block Craft 2. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/block-craft-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Craft 2",
+      "href": "/games/block-craft-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_960",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

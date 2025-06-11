@@ -1,0 +1,54 @@
+{
+  "gameId": 858,
+  "slug": "ddtank-tap",
+  "metadata": {
+    "title": "DDTank Tap Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in DDTank Tap! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "DDTank Tap game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ddtank-tap",
+    "openGraph": {
+      "title": "DDTank Tap Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in DDTank Tap! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ddtank-tap-og.jpg",
+      "url": "https://littlegames.com/games/ddtank-tap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "DDTank Tap Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in DDTank Tap! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ddtank-tap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "DDTank Tap",
+      "href": "/games/ddtank-tap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_604",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

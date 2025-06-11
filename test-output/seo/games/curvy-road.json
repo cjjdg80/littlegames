@@ -1,0 +1,54 @@
+{
+  "gameId": 3681,
+  "slug": "curvy-road",
+  "metadata": {
+    "title": "Curvy Road Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Curvy Road. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Curvy Road game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/curvy-road",
+    "openGraph": {
+      "title": "Curvy Road Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Curvy Road. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/curvy-road-og.jpg",
+      "url": "https://littlegames.com/games/curvy-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Curvy Road Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Curvy Road. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/curvy-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Curvy Road",
+      "href": "/games/curvy-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_117",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3733,
+  "slug": "super-goal",
+  "metadata": {
+    "title": "Play Super Goal - Free Action Game Online",
+    "description": "Experience thrilling action in Super Goal! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Super Goal",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/super-goal",
+    "openGraph": {
+      "title": "Play Super Goal - Free Action Game Online",
+      "description": "Experience thrilling action in Super Goal! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/super-goal-og.jpg",
+      "url": "https://littlegames.com/games/super-goal",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Super Goal - Free Action Game Online",
+      "description": "Experience thrilling action in Super Goal! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/super-goal-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Goal",
+      "href": "/games/super-goal",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_729",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

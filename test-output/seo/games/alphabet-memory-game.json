@@ -1,0 +1,54 @@
+{
+  "gameId": 1333,
+  "slug": "alphabet-memory-game",
+  "metadata": {
+    "title": "Alphabet Memory Game Online - Ultimate Action Gaming...",
+    "description": "Dive into the action-packed world of Alphabet Memory Game. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "Alphabet Memory Game online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/alphabet-memory-game",
+    "openGraph": {
+      "title": "Alphabet Memory Game Online - Ultimate Action Gaming...",
+      "description": "Dive into the action-packed world of Alphabet Memory Game. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/alphabet-memory-game-og.jpg",
+      "url": "https://littlegames.com/games/alphabet-memory-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Alphabet Memory Game Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Alphabet Memory Game. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/alphabet-memory-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Alphabet Memory Game",
+      "href": "/games/alphabet-memory-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_329",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

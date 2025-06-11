@@ -1,0 +1,54 @@
+{
+  "gameId": 5398,
+  "slug": "trader-rush",
+  "metadata": {
+    "title": "Trader Rush Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Trader Rush! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Trader Rush",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/trader-rush",
+    "openGraph": {
+      "title": "Trader Rush Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Trader Rush! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/trader-rush-og.jpg",
+      "url": "https://littlegames.com/games/trader-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trader Rush Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Trader Rush! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/trader-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Trader Rush",
+      "href": "/games/trader-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_344",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

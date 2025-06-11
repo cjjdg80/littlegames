@@ -1,0 +1,54 @@
+{
+  "gameId": 9839,
+  "slug": "your-dream-room",
+  "metadata": {
+    "title": "Play Your dream room - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Your dream room. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Your dream room",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/your-dream-room",
+    "openGraph": {
+      "title": "Play Your dream room - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Your dream room. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/your-dream-room-og.jpg",
+      "url": "https://littlegames.com/games/your-dream-room",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Your dream room - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Your dream room. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/your-dream-room-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Your dream room",
+      "href": "/games/your-dream-room",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_015",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

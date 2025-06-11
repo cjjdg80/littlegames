@@ -1,0 +1,46 @@
+{
+  "tag": "apple",
+  "displayName": "Apple",
+  "metadata": {
+    "title": "Apple Games - Play Free Online",
+    "description": "Discover amazing apple games! Play 9 free games with apple theme. No downloads required.",
+    "keywords": [
+      "apple games",
+      "free online games",
+      "browser games",
+      "apple theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/apple",
+    "openGraph": {
+      "title": "Apple Games - Free Online Gaming",
+      "description": "Play the best apple games online for free. 9 games available.",
+      "image": "https://littlegames.com/images/tags/apple-og.jpg",
+      "url": "https://littlegames.com/tags/apple",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Apple Games - Free Online",
+      "description": "Play 9 free apple games online.",
+      "image": "https://littlegames.com/images/tags/apple-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Apple",
+      "href": "/tags/apple",
+      "current": true
+    }
+  ],
+  "description": "Discover games with apple theme! Our collection includes 9 carefully selected games that feature apple elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

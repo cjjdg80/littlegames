@@ -1,0 +1,54 @@
+{
+  "gameId": 7971,
+  "slug": "meow-slide",
+  "metadata": {
+    "title": "Meow Slide Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Meow Slide! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Meow Slide online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/meow-slide",
+    "openGraph": {
+      "title": "Meow Slide Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Meow Slide! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/meow-slide-og.jpg",
+      "url": "https://littlegames.com/games/meow-slide",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Meow Slide Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Meow Slide! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/meow-slide-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Meow Slide",
+      "href": "/games/meow-slide",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_107",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

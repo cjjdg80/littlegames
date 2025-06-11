@@ -1,0 +1,54 @@
+{
+  "gameId": 635,
+  "slug": "kid-maestro",
+  "metadata": {
+    "title": "Play Kid Maestro - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Kid Maestro! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Kid Maestro game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/kid-maestro",
+    "openGraph": {
+      "title": "Play Kid Maestro - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Kid Maestro! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/kid-maestro-og.jpg",
+      "url": "https://littlegames.com/games/kid-maestro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kid Maestro - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Kid Maestro! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/kid-maestro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kid Maestro",
+      "href": "/games/kid-maestro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_691",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

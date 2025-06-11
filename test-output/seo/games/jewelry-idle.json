@@ -1,0 +1,54 @@
+{
+  "gameId": 7930,
+  "slug": "jewelry-idle",
+  "metadata": {
+    "title": "Play Jewelry Idle - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Jewelry Idle. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Jewelry Idle",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jewelry-idle",
+    "openGraph": {
+      "title": "Play Jewelry Idle - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Jewelry Idle. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jewelry-idle-og.jpg",
+      "url": "https://littlegames.com/games/jewelry-idle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jewelry Idle - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Jewelry Idle. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jewelry-idle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jewelry Idle",
+      "href": "/games/jewelry-idle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_836",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

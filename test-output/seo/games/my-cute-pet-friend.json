@@ -1,0 +1,54 @@
+{
+  "gameId": 1156,
+  "slug": "my-cute-pet-friend",
+  "metadata": {
+    "title": "My Cute Pet Friend Online - Ultimate Action Gaming...",
+    "description": "Get ready for adrenaline-pumping action in My Cute Pet Friend. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "My Cute Pet Friend",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/my-cute-pet-friend",
+    "openGraph": {
+      "title": "My Cute Pet Friend Online - Ultimate Action Gaming...",
+      "description": "Get ready for adrenaline-pumping action in My Cute Pet Friend. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/my-cute-pet-friend-og.jpg",
+      "url": "https://littlegames.com/games/my-cute-pet-friend",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Cute Pet Friend Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in My Cute Pet Friend. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-cute-pet-friend-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "My Cute Pet Friend",
+      "href": "/games/my-cute-pet-friend",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_842",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

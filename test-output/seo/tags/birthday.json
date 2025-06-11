@@ -1,0 +1,46 @@
+{
+  "tag": "birthday",
+  "displayName": "Birthday",
+  "metadata": {
+    "title": "Birthday Games - Play Free Online",
+    "description": "Discover amazing birthday games! Play 4 free games with birthday theme. No downloads required.",
+    "keywords": [
+      "birthday games",
+      "free online games",
+      "browser games",
+      "birthday theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/birthday",
+    "openGraph": {
+      "title": "Birthday Games - Free Online Gaming",
+      "description": "Play the best birthday games online for free. 4 games available.",
+      "image": "https://littlegames.com/images/tags/birthday-og.jpg",
+      "url": "https://littlegames.com/tags/birthday",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Birthday Games - Free Online",
+      "description": "Play 4 free birthday games online.",
+      "image": "https://littlegames.com/images/tags/birthday-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Birthday",
+      "href": "/tags/birthday",
+      "current": true
+    }
+  ],
+  "description": "Discover games with birthday theme! Our collection includes 4 carefully selected games that feature birthday elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

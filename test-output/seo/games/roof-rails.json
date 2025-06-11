@@ -1,0 +1,54 @@
+{
+  "gameId": 2046,
+  "slug": "roof-rails",
+  "metadata": {
+    "title": "Free Roof Rails Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Roof Rails. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Roof Rails game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/roof-rails",
+    "openGraph": {
+      "title": "Free Roof Rails Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Roof Rails. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/roof-rails-og.jpg",
+      "url": "https://littlegames.com/games/roof-rails",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Roof Rails Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Roof Rails. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/roof-rails-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Roof Rails",
+      "href": "/games/roof-rails",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_432",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

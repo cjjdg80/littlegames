@@ -1,0 +1,54 @@
+{
+  "gameId": 4541,
+  "slug": "dr-green-alien",
+  "metadata": {
+    "title": "Dr Green Alien Online - Explore and Discover",
+    "description": "Dr Green Alien offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Dr Green Alien online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/dr-green-alien",
+    "openGraph": {
+      "title": "Dr Green Alien Online - Explore and Discover",
+      "description": "Dr Green Alien offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/dr-green-alien-og.jpg",
+      "url": "https://littlegames.com/games/dr-green-alien",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dr Green Alien Online - Explore and Discover",
+      "description": "Dr Green Alien offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/dr-green-alien-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dr Green Alien",
+      "href": "/games/dr-green-alien",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_780",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

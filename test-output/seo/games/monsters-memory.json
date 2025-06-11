@@ -1,0 +1,54 @@
+{
+  "gameId": 4590,
+  "slug": "monsters-memory",
+  "metadata": {
+    "title": "Free Monsters Memory Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Monsters Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Monsters Memory",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/monsters-memory",
+    "openGraph": {
+      "title": "Free Monsters Memory Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Monsters Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/monsters-memory-og.jpg",
+      "url": "https://littlegames.com/games/monsters-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Monsters Memory Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Monsters Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/monsters-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Monsters Memory",
+      "href": "/games/monsters-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_296",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

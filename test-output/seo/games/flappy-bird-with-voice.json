@@ -1,0 +1,54 @@
+{
+  "gameId": 1730,
+  "slug": "flappy-bird-with-voice",
+  "metadata": {
+    "title": "Free Flappy Bird with Voice Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Flappy Bird with Voice. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Flappy Bird with Voice game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-bird-with-voice",
+    "openGraph": {
+      "title": "Free Flappy Bird with Voice Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Flappy Bird with Voice. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/flappy-bird-with-voice-og.jpg",
+      "url": "https://littlegames.com/games/flappy-bird-with-voice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Flappy Bird with Voice Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Flappy Bird with Voice. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/flappy-bird-with-voice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Flappy Bird with Voice",
+      "href": "/games/flappy-bird-with-voice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_636",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

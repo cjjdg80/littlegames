@@ -1,0 +1,54 @@
+{
+  "gameId": 9198,
+  "slug": "headless-joe",
+  "metadata": {
+    "title": "Action Game Headless Joe - Play Free Now",
+    "description": "Dive into the action-packed world of Headless Joe. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Headless Joe game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/headless-joe",
+    "openGraph": {
+      "title": "Action Game Headless Joe - Play Free Now",
+      "description": "Dive into the action-packed world of Headless Joe. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/headless-joe-og.jpg",
+      "url": "https://littlegames.com/games/headless-joe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Headless Joe - Play Free Now",
+      "description": "Dive into the action-packed world of Headless Joe. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/headless-joe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Headless Joe",
+      "href": "/games/headless-joe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_144",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

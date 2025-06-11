@@ -1,0 +1,54 @@
+{
+  "gameId": 2712,
+  "slug": "among-arena",
+  "metadata": {
+    "title": "Among Arena Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Among Arena. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Among Arena online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/among-arena",
+    "openGraph": {
+      "title": "Among Arena Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Among Arena. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/among-arena-og.jpg",
+      "url": "https://littlegames.com/games/among-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Among Arena Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Among Arena. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/among-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Among Arena",
+      "href": "/games/among-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_078",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

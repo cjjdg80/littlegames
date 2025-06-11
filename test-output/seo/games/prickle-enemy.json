@@ -1,0 +1,54 @@
+{
+  "gameId": 3504,
+  "slug": "prickle-enemy",
+  "metadata": {
+    "title": "Free Prickle Enemy Game - Action Packed Fun",
+    "description": "Join the action in Prickle Enemy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Prickle Enemy",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/prickle-enemy",
+    "openGraph": {
+      "title": "Free Prickle Enemy Game - Action Packed Fun",
+      "description": "Join the action in Prickle Enemy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/prickle-enemy-og.jpg",
+      "url": "https://littlegames.com/games/prickle-enemy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Prickle Enemy Game - Action Packed Fun",
+      "description": "Join the action in Prickle Enemy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/prickle-enemy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Prickle Enemy",
+      "href": "/games/prickle-enemy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_630",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5114,
+  "slug": "pajama-party",
+  "metadata": {
+    "title": "Pajama Party - Exciting Action Adventure Game",
+    "description": "Join the action in Pajama Party! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Pajama Party",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pajama-party",
+    "openGraph": {
+      "title": "Pajama Party - Exciting Action Adventure Game",
+      "description": "Join the action in Pajama Party! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pajama-party-og.jpg",
+      "url": "https://littlegames.com/games/pajama-party",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pajama Party - Exciting Action Adventure Game",
+      "description": "Join the action in Pajama Party! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pajama-party-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pajama Party",
+      "href": "/games/pajama-party",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_540",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

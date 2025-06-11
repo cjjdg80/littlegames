@@ -1,0 +1,54 @@
+{
+  "gameId": 3253,
+  "slug": "mr-fight-online",
+  "metadata": {
+    "title": "Mr Fight Online Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Mr Fight Online! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Mr Fight Online game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/mr-fight-online",
+    "openGraph": {
+      "title": "Mr Fight Online Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mr Fight Online! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/mr-fight-online-og.jpg",
+      "url": "https://littlegames.com/games/mr-fight-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mr Fight Online Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mr Fight Online! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mr-fight-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr Fight Online",
+      "href": "/games/mr-fight-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_849",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

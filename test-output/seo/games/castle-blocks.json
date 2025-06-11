@@ -1,0 +1,54 @@
+{
+  "gameId": 1563,
+  "slug": "castle-blocks",
+  "metadata": {
+    "title": "Castle Blocks - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Castle Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Castle Blocks",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/castle-blocks",
+    "openGraph": {
+      "title": "Castle Blocks - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Castle Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/castle-blocks-og.jpg",
+      "url": "https://littlegames.com/games/castle-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Castle Blocks - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Castle Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/castle-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Castle Blocks",
+      "href": "/games/castle-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_459",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

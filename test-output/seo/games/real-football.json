@@ -1,0 +1,54 @@
+{
+  "gameId": 6388,
+  "slug": "real-football",
+  "metadata": {
+    "title": "Action Game Real Football - Play Free Now",
+    "description": "Join the action in Real Football! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Real Football game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/real-football",
+    "openGraph": {
+      "title": "Action Game Real Football - Play Free Now",
+      "description": "Join the action in Real Football! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/real-football-og.jpg",
+      "url": "https://littlegames.com/games/real-football",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Real Football - Play Free Now",
+      "description": "Join the action in Real Football! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/real-football-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Real Football",
+      "href": "/games/real-football",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_034",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

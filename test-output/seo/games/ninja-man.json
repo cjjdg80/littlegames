@@ -1,0 +1,54 @@
+{
+  "gameId": 4717,
+  "slug": "ninja-man",
+  "metadata": {
+    "title": "Ninja Man - Exciting Action Adventure Game",
+    "description": "Ninja Man delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Ninja Man",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-man",
+    "openGraph": {
+      "title": "Ninja Man - Exciting Action Adventure Game",
+      "description": "Ninja Man delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ninja-man-og.jpg",
+      "url": "https://littlegames.com/games/ninja-man",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Man - Exciting Action Adventure Game",
+      "description": "Ninja Man delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ninja-man-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ninja Man",
+      "href": "/games/ninja-man",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_233",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

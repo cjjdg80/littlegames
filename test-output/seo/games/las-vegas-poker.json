@@ -1,0 +1,54 @@
+{
+  "gameId": 7605,
+  "slug": "las-vegas-poker",
+  "metadata": {
+    "title": "Play Las Vegas Poker - Free Action Game Online",
+    "description": "Experience thrilling action in Las Vegas Poker! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Las Vegas Poker",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/las-vegas-poker",
+    "openGraph": {
+      "title": "Play Las Vegas Poker - Free Action Game Online",
+      "description": "Experience thrilling action in Las Vegas Poker! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/las-vegas-poker-og.jpg",
+      "url": "https://littlegames.com/games/las-vegas-poker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Las Vegas Poker - Free Action Game Online",
+      "description": "Experience thrilling action in Las Vegas Poker! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/las-vegas-poker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Las Vegas Poker",
+      "href": "/games/las-vegas-poker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_761",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

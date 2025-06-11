@@ -1,0 +1,54 @@
+{
+  "gameId": 4774,
+  "slug": "happy-stars-match-3",
+  "metadata": {
+    "title": "Free Happy Stars Match 3 Game - Action Packed Fun",
+    "description": "Join the action in Happy Stars Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Happy Stars Match 3 online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/happy-stars-match-3",
+    "openGraph": {
+      "title": "Free Happy Stars Match 3 Game - Action Packed Fun",
+      "description": "Join the action in Happy Stars Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-stars-match-3-og.jpg",
+      "url": "https://littlegames.com/games/happy-stars-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Happy Stars Match 3 Game - Action Packed Fun",
+      "description": "Join the action in Happy Stars Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-stars-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Happy Stars Match 3",
+      "href": "/games/happy-stars-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_000",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

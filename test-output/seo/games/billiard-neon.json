@@ -1,0 +1,54 @@
+{
+  "gameId": 2664,
+  "slug": "billiard-neon",
+  "metadata": {
+    "title": "Billiard Neon Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Billiard Neon. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Billiard Neon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/billiard-neon",
+    "openGraph": {
+      "title": "Billiard Neon Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Billiard Neon. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/billiard-neon-og.jpg",
+      "url": "https://littlegames.com/games/billiard-neon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Billiard Neon Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Billiard Neon. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/billiard-neon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Billiard Neon",
+      "href": "/games/billiard-neon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_590",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

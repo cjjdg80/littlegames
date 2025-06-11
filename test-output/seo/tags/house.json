@@ -1,0 +1,46 @@
+{
+  "tag": "house",
+  "displayName": "House",
+  "metadata": {
+    "title": "House Games - Play Free Online",
+    "description": "Discover amazing house games! Play 15 free games with house theme. No downloads required.",
+    "keywords": [
+      "house games",
+      "free online games",
+      "browser games",
+      "house theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/house",
+    "openGraph": {
+      "title": "House Games - Free Online Gaming",
+      "description": "Play the best house games online for free. 15 games available.",
+      "image": "https://littlegames.com/images/tags/house-og.jpg",
+      "url": "https://littlegames.com/tags/house",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "House Games - Free Online",
+      "description": "Play 15 free house games online.",
+      "image": "https://littlegames.com/images/tags/house-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "House",
+      "href": "/tags/house",
+      "current": true
+    }
+  ],
+  "description": "Discover games with house theme! Our collection includes 15 carefully selected games that feature house elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

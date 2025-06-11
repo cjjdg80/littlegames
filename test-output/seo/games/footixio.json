@@ -1,0 +1,54 @@
+{
+  "gameId": 4997,
+  "slug": "footixio",
+  "metadata": {
+    "title": "Action Game Footix.io - Play Free Now",
+    "description": "Experience thrilling action in Footix.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Footix.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/footixio",
+    "openGraph": {
+      "title": "Action Game Footix.io - Play Free Now",
+      "description": "Experience thrilling action in Footix.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/footixio-og.jpg",
+      "url": "https://littlegames.com/games/footixio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Footix.io - Play Free Now",
+      "description": "Experience thrilling action in Footix.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/footixio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Footix.io",
+      "href": "/games/footixio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_913",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

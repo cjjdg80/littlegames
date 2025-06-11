@@ -1,0 +1,54 @@
+{
+  "gameId": 1434,
+  "slug": "face-paint-salon",
+  "metadata": {
+    "title": "Face Paint Salon Online - Ultimate Action Gaming Experience",
+    "description": "Face Paint Salon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Face Paint Salon online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/face-paint-salon",
+    "openGraph": {
+      "title": "Face Paint Salon Online - Ultimate Action Gaming Experience",
+      "description": "Face Paint Salon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/face-paint-salon-og.jpg",
+      "url": "https://littlegames.com/games/face-paint-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Face Paint Salon Online - Ultimate Action Gaming Experience",
+      "description": "Face Paint Salon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/face-paint-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Face Paint Salon",
+      "href": "/games/face-paint-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_460",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

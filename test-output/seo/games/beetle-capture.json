@@ -1,0 +1,54 @@
+{
+  "gameId": 793,
+  "slug": "beetle-capture",
+  "metadata": {
+    "title": "Beetle capture Online - Ultimate Action Gaming Experience",
+    "description": "Beetle capture delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Beetle capture game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/beetle-capture",
+    "openGraph": {
+      "title": "Beetle capture Online - Ultimate Action Gaming Experience",
+      "description": "Beetle capture delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/beetle-capture-og.jpg",
+      "url": "https://littlegames.com/games/beetle-capture",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Beetle capture Online - Ultimate Action Gaming Experience",
+      "description": "Beetle capture delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/beetle-capture-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Beetle capture",
+      "href": "/games/beetle-capture",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_589",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

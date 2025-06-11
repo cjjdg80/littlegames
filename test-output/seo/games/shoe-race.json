@@ -1,0 +1,54 @@
+{
+  "gameId": 3591,
+  "slug": "shoe-race",
+  "metadata": {
+    "title": "Shoe Race - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Shoe Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Shoe Race",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shoe-race",
+    "openGraph": {
+      "title": "Shoe Race - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Shoe Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/shoe-race-og.jpg",
+      "url": "https://littlegames.com/games/shoe-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shoe Race - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Shoe Race. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/shoe-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shoe Race",
+      "href": "/games/shoe-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_327",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

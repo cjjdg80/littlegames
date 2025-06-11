@@ -1,0 +1,54 @@
+{
+  "gameId": 4100,
+  "slug": "cheating-exam",
+  "metadata": {
+    "title": "Cheating Exam - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Cheating Exam. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Cheating Exam",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/cheating-exam",
+    "openGraph": {
+      "title": "Cheating Exam - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Cheating Exam. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cheating-exam-og.jpg",
+      "url": "https://littlegames.com/games/cheating-exam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cheating Exam - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Cheating Exam. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cheating-exam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cheating Exam",
+      "href": "/games/cheating-exam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_106",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

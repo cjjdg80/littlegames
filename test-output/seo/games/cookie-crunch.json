@@ -1,0 +1,54 @@
+{
+  "gameId": 2875,
+  "slug": "cookie-crunch",
+  "metadata": {
+    "title": "Cookie Crunch Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cookie Crunch. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cookie Crunch game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cookie-crunch",
+    "openGraph": {
+      "title": "Cookie Crunch Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cookie Crunch. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cookie-crunch-og.jpg",
+      "url": "https://littlegames.com/games/cookie-crunch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cookie Crunch Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cookie Crunch. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cookie-crunch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cookie Crunch",
+      "href": "/games/cookie-crunch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_131",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

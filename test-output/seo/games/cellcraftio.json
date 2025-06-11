@@ -1,0 +1,54 @@
+{
+  "gameId": 1938,
+  "slug": "cellcraftio",
+  "metadata": {
+    "title": "Play Cellcraft.io - Free Action Game Online",
+    "description": "Join the action in Cellcraft.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Cellcraft.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cellcraftio",
+    "openGraph": {
+      "title": "Play Cellcraft.io - Free Action Game Online",
+      "description": "Join the action in Cellcraft.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cellcraftio-og.jpg",
+      "url": "https://littlegames.com/games/cellcraftio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cellcraft.io - Free Action Game Online",
+      "description": "Join the action in Cellcraft.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cellcraftio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cellcraft.io",
+      "href": "/games/cellcraftio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_084",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

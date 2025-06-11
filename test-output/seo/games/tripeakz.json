@@ -1,0 +1,54 @@
+{
+  "gameId": 4280,
+  "slug": "tripeakz",
+  "metadata": {
+    "title": "Free TriPeakz! Game - Action Packed Fun",
+    "description": "Join the action in TriPeakz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "TriPeakz! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tripeakz",
+    "openGraph": {
+      "title": "Free TriPeakz! Game - Action Packed Fun",
+      "description": "Join the action in TriPeakz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tripeakz-og.jpg",
+      "url": "https://littlegames.com/games/tripeakz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free TriPeakz! Game - Action Packed Fun",
+      "description": "Join the action in TriPeakz!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tripeakz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "TriPeakz!",
+      "href": "/games/tripeakz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_686",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4242,
+  "slug": "in-out",
+  "metadata": {
+    "title": "Free IN OUT Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of IN OUT. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "IN OUT online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/in-out",
+    "openGraph": {
+      "title": "Free IN OUT Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of IN OUT. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/in-out-og.jpg",
+      "url": "https://littlegames.com/games/in-out",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free IN OUT Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of IN OUT. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/in-out-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "IN OUT",
+      "href": "/games/in-out",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_508",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6471,
+  "slug": "gas-station-arcade",
+  "metadata": {
+    "title": "Gas Station Arcade Online - Ultimate Action Gaming...",
+    "description": "Get ready for adrenaline-pumping action in Gas Station Arcade. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Gas Station Arcade",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/gas-station-arcade",
+    "openGraph": {
+      "title": "Gas Station Arcade Online - Ultimate Action Gaming...",
+      "description": "Get ready for adrenaline-pumping action in Gas Station Arcade. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/gas-station-arcade-og.jpg",
+      "url": "https://littlegames.com/games/gas-station-arcade",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gas Station Arcade Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Gas Station Arcade. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gas-station-arcade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Gas Station Arcade",
+      "href": "/games/gas-station-arcade",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_607",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

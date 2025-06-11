@@ -1,0 +1,54 @@
+{
+  "gameId": 77,
+  "slug": "kids-color-candy",
+  "metadata": {
+    "title": "Kids Color Candy - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Kids Color Candy. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Kids Color Candy",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/kids-color-candy",
+    "openGraph": {
+      "title": "Kids Color Candy - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Kids Color Candy. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/kids-color-candy-og.jpg",
+      "url": "https://littlegames.com/games/kids-color-candy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kids Color Candy - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Kids Color Candy. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/kids-color-candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kids Color Candy",
+      "href": "/games/kids-color-candy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_393",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

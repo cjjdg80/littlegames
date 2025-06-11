@@ -1,0 +1,54 @@
+{
+  "gameId": 256,
+  "slug": "hexa-puzzle",
+  "metadata": {
+    "title": "Play Hexa Puzzle - Free Puzzle Game Online",
+    "description": "Exercise your brain with Hexa Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Hexa Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-puzzle",
+    "openGraph": {
+      "title": "Play Hexa Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with Hexa Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/hexa-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/hexa-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hexa Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with Hexa Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/hexa-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexa Puzzle",
+      "href": "/games/hexa-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_942",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

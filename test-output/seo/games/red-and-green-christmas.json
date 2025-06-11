@@ -1,0 +1,54 @@
+{
+  "gameId": 3903,
+  "slug": "red-and-green-christmas",
+  "metadata": {
+    "title": "Free Red and Green Christmas Game - Action Packed Fun",
+    "description": "Red and Green Christmas delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Red and Green Christmas game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/red-and-green-christmas",
+    "openGraph": {
+      "title": "Free Red and Green Christmas Game - Action Packed Fun",
+      "description": "Red and Green Christmas delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/red-and-green-christmas-og.jpg",
+      "url": "https://littlegames.com/games/red-and-green-christmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Red and Green Christmas Game - Action Packed Fun",
+      "description": "Red and Green Christmas delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/red-and-green-christmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Red and Green Christmas",
+      "href": "/games/red-and-green-christmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_999",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

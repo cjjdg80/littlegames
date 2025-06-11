@@ -1,0 +1,54 @@
+{
+  "gameId": 1353,
+  "slug": "fishing-boy",
+  "metadata": {
+    "title": "Action Game Fishing Boy - Play Free Now",
+    "description": "Join the action in Fishing Boy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Fishing Boy",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/fishing-boy",
+    "openGraph": {
+      "title": "Action Game Fishing Boy - Play Free Now",
+      "description": "Join the action in Fishing Boy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fishing-boy-og.jpg",
+      "url": "https://littlegames.com/games/fishing-boy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fishing Boy - Play Free Now",
+      "description": "Join the action in Fishing Boy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fishing-boy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fishing Boy",
+      "href": "/games/fishing-boy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_949",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

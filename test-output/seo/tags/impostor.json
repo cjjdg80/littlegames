@@ -1,0 +1,46 @@
+{
+  "tag": "impostor",
+  "displayName": "Impostor",
+  "metadata": {
+    "title": "Impostor Games - Play Free Online",
+    "description": "Discover amazing impostor games! Play 23 free games with impostor theme. No downloads required.",
+    "keywords": [
+      "impostor games",
+      "free online games",
+      "browser games",
+      "impostor theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/impostor",
+    "openGraph": {
+      "title": "Impostor Games - Free Online Gaming",
+      "description": "Play the best impostor games online for free. 23 games available.",
+      "image": "https://littlegames.com/images/tags/impostor-og.jpg",
+      "url": "https://littlegames.com/tags/impostor",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Impostor Games - Free Online",
+      "description": "Play 23 free impostor games online.",
+      "image": "https://littlegames.com/images/tags/impostor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Impostor",
+      "href": "/tags/impostor",
+      "current": true
+    }
+  ],
+  "description": "Discover games with impostor theme! Our collection includes 23 carefully selected games that feature impostor elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

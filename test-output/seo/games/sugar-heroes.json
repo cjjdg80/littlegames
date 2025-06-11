@@ -1,0 +1,54 @@
+{
+  "gameId": 1372,
+  "slug": "sugar-heroes",
+  "metadata": {
+    "title": "Free Sugar Heroes Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Sugar Heroes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Sugar Heroes",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sugar-heroes",
+    "openGraph": {
+      "title": "Free Sugar Heroes Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Sugar Heroes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sugar-heroes-og.jpg",
+      "url": "https://littlegames.com/games/sugar-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sugar Heroes Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Sugar Heroes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sugar-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sugar Heroes",
+      "href": "/games/sugar-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_538",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3545,
+  "slug": "witch-magic-academy",
+  "metadata": {
+    "title": "Witch Magic Academy Online - Explore and Discover",
+    "description": "Embark on an epic journey in Witch Magic Academy! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "Witch Magic Academy game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/witch-magic-academy",
+    "openGraph": {
+      "title": "Witch Magic Academy Online - Explore and Discover",
+      "description": "Embark on an epic journey in Witch Magic Academy! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/witch-magic-academy-og.jpg",
+      "url": "https://littlegames.com/games/witch-magic-academy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Witch Magic Academy Online - Explore and Discover",
+      "description": "Embark on an epic journey in Witch Magic Academy! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/witch-magic-academy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Witch Magic Academy",
+      "href": "/games/witch-magic-academy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_904",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

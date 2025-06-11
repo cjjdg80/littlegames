@@ -1,0 +1,54 @@
+{
+  "gameId": 6193,
+  "slug": "castle-of-magic",
+  "metadata": {
+    "title": "Action Game Castle of Magic - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Castle of Magic. This free online strategy game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Castle of Magic game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/castle-of-magic",
+    "openGraph": {
+      "title": "Action Game Castle of Magic - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Castle of Magic. This free online strategy game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/castle-of-magic-og.jpg",
+      "url": "https://littlegames.com/games/castle-of-magic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Castle of Magic - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Castle of Magic. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/castle-of-magic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Castle of Magic",
+      "href": "/games/castle-of-magic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_991",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

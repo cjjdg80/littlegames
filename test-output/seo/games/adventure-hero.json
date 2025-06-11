@@ -1,0 +1,54 @@
+{
+  "gameId": 1525,
+  "slug": "adventure-hero",
+  "metadata": {
+    "title": "Adventure Hero - Thrilling Adventure Quest",
+    "description": "Adventure Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Adventure Hero",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/adventure-hero",
+    "openGraph": {
+      "title": "Adventure Hero - Thrilling Adventure Quest",
+      "description": "Adventure Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/adventure-hero-og.jpg",
+      "url": "https://littlegames.com/games/adventure-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Hero - Thrilling Adventure Quest",
+      "description": "Adventure Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/adventure-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Adventure Hero",
+      "href": "/games/adventure-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_284",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

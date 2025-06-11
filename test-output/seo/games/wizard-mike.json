@@ -1,0 +1,54 @@
+{
+  "gameId": 6451,
+  "slug": "wizard-mike",
+  "metadata": {
+    "title": "Action Game Wizard Mike - Play Free Now",
+    "description": "Dive into the action-packed world of Wizard Mike. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Wizard Mike online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wizard-mike",
+    "openGraph": {
+      "title": "Action Game Wizard Mike - Play Free Now",
+      "description": "Dive into the action-packed world of Wizard Mike. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wizard-mike-og.jpg",
+      "url": "https://littlegames.com/games/wizard-mike",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Wizard Mike - Play Free Now",
+      "description": "Dive into the action-packed world of Wizard Mike. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/wizard-mike-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wizard Mike",
+      "href": "/games/wizard-mike",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_987",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "dungeon",
+  "displayName": "Dungeon",
+  "metadata": {
+    "title": "Dungeon Games - Play Free Online",
+    "description": "Discover amazing dungeon games! Play 16 free games with dungeon theme. No downloads required.",
+    "keywords": [
+      "dungeon games",
+      "free online games",
+      "browser games",
+      "dungeon theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/dungeon",
+    "openGraph": {
+      "title": "Dungeon Games - Free Online Gaming",
+      "description": "Play the best dungeon games online for free. 16 games available.",
+      "image": "https://littlegames.com/images/tags/dungeon-og.jpg",
+      "url": "https://littlegames.com/tags/dungeon",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dungeon Games - Free Online",
+      "description": "Play 16 free dungeon games online.",
+      "image": "https://littlegames.com/images/tags/dungeon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dungeon",
+      "href": "/tags/dungeon",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dungeon theme! Our collection includes 16 carefully selected games that feature dungeon elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

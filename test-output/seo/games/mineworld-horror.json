@@ -1,0 +1,54 @@
+{
+  "gameId": 3108,
+  "slug": "mineworld-horror",
+  "metadata": {
+    "title": "Play Mineworld Horror - Epic Adventure Game Online",
+    "description": "Begin your quest in Mineworld Horror. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Mineworld Horror game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/mineworld-horror",
+    "openGraph": {
+      "title": "Play Mineworld Horror - Epic Adventure Game Online",
+      "description": "Begin your quest in Mineworld Horror. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/mineworld-horror-og.jpg",
+      "url": "https://littlegames.com/games/mineworld-horror",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mineworld Horror - Epic Adventure Game Online",
+      "description": "Begin your quest in Mineworld Horror. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/mineworld-horror-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mineworld Horror",
+      "href": "/games/mineworld-horror",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_357",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4700,
+  "slug": "police-chase",
+  "metadata": {
+    "title": "Free Police Chase Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Police Chase. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Police Chase",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/police-chase",
+    "openGraph": {
+      "title": "Free Police Chase Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Police Chase. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/police-chase-og.jpg",
+      "url": "https://littlegames.com/games/police-chase",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Police Chase Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Police Chase. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/police-chase-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Police Chase",
+      "href": "/games/police-chase",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_706",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

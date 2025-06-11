@@ -1,0 +1,54 @@
+{
+  "gameId": 2380,
+  "slug": "parrot-simulator",
+  "metadata": {
+    "title": "Free Parrot Simulator Game - Action Packed Fun",
+    "description": "Join the action in Parrot Simulator! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Parrot Simulator",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/parrot-simulator",
+    "openGraph": {
+      "title": "Free Parrot Simulator Game - Action Packed Fun",
+      "description": "Join the action in Parrot Simulator! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/parrot-simulator-og.jpg",
+      "url": "https://littlegames.com/games/parrot-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Parrot Simulator Game - Action Packed Fun",
+      "description": "Join the action in Parrot Simulator! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/parrot-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Parrot Simulator",
+      "href": "/games/parrot-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_790",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

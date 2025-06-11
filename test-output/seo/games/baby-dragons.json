@@ -1,0 +1,54 @@
+{
+  "gameId": 4627,
+  "slug": "baby-dragons",
+  "metadata": {
+    "title": "Baby Dragons - Exciting Action Adventure Game",
+    "description": "Join the action in Baby Dragons! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Baby Dragons",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/baby-dragons",
+    "openGraph": {
+      "title": "Baby Dragons - Exciting Action Adventure Game",
+      "description": "Join the action in Baby Dragons! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/baby-dragons-og.jpg",
+      "url": "https://littlegames.com/games/baby-dragons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Baby Dragons - Exciting Action Adventure Game",
+      "description": "Join the action in Baby Dragons! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/baby-dragons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Baby Dragons",
+      "href": "/games/baby-dragons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_443",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

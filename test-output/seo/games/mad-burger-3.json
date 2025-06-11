@@ -1,0 +1,54 @@
+{
+  "gameId": 4227,
+  "slug": "mad-burger-3",
+  "metadata": {
+    "title": "Mad Burger 3 - Exciting Action Adventure Game",
+    "description": "Mad Burger 3 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mad Burger 3 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/mad-burger-3",
+    "openGraph": {
+      "title": "Mad Burger 3 - Exciting Action Adventure Game",
+      "description": "Mad Burger 3 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mad-burger-3-og.jpg",
+      "url": "https://littlegames.com/games/mad-burger-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mad Burger 3 - Exciting Action Adventure Game",
+      "description": "Mad Burger 3 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mad-burger-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mad Burger 3",
+      "href": "/games/mad-burger-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_043",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

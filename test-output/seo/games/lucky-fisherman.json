@@ -1,0 +1,54 @@
+{
+  "gameId": 4515,
+  "slug": "lucky-fisherman",
+  "metadata": {
+    "title": "Play Lucky Fisherman - Free Action Game Online",
+    "description": "Experience thrilling action in Lucky Fisherman! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Lucky Fisherman online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lucky-fisherman",
+    "openGraph": {
+      "title": "Play Lucky Fisherman - Free Action Game Online",
+      "description": "Experience thrilling action in Lucky Fisherman! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/lucky-fisherman-og.jpg",
+      "url": "https://littlegames.com/games/lucky-fisherman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lucky Fisherman - Free Action Game Online",
+      "description": "Experience thrilling action in Lucky Fisherman! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/lucky-fisherman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Lucky Fisherman",
+      "href": "/games/lucky-fisherman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_971",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

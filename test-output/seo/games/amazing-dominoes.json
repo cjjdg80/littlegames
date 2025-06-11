@@ -1,0 +1,54 @@
+{
+  "gameId": 2145,
+  "slug": "amazing-dominoes",
+  "metadata": {
+    "title": "Play Amazing Dominoes - Free Action Game Online",
+    "description": "Experience thrilling action in Amazing Dominoes! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Amazing Dominoes online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/amazing-dominoes",
+    "openGraph": {
+      "title": "Play Amazing Dominoes - Free Action Game Online",
+      "description": "Experience thrilling action in Amazing Dominoes! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/amazing-dominoes-og.jpg",
+      "url": "https://littlegames.com/games/amazing-dominoes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Amazing Dominoes - Free Action Game Online",
+      "description": "Experience thrilling action in Amazing Dominoes! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/amazing-dominoes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Amazing Dominoes",
+      "href": "/games/amazing-dominoes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_501",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9426,
+  "slug": "tower-defenders",
+  "metadata": {
+    "title": "Action Game Tower Defenders - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Tower Defenders. This free online strategy game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Tower Defenders online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tower-defenders",
+    "openGraph": {
+      "title": "Action Game Tower Defenders - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Tower Defenders. This free online strategy game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/tower-defenders-og.jpg",
+      "url": "https://littlegames.com/games/tower-defenders",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tower Defenders - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Tower Defenders. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tower-defenders-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Tower Defenders",
+      "href": "/games/tower-defenders",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_214",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

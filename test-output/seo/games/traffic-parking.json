@@ -1,0 +1,54 @@
+{
+  "gameId": 9336,
+  "slug": "traffic-parking",
+  "metadata": {
+    "title": "Traffic Parking - Brain Training Puzzle Challenge",
+    "description": "Traffic Parking offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Traffic Parking online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/traffic-parking",
+    "openGraph": {
+      "title": "Traffic Parking - Brain Training Puzzle Challenge",
+      "description": "Traffic Parking offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/traffic-parking-og.jpg",
+      "url": "https://littlegames.com/games/traffic-parking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Traffic Parking - Brain Training Puzzle Challenge",
+      "description": "Traffic Parking offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/traffic-parking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Traffic Parking",
+      "href": "/games/traffic-parking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_422",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

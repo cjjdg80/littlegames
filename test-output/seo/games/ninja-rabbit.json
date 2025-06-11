@@ -1,0 +1,54 @@
+{
+  "gameId": 2453,
+  "slug": "ninja-rabbit",
+  "metadata": {
+    "title": "Ninja Rabbit - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Ninja Rabbit! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Ninja Rabbit",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-rabbit",
+    "openGraph": {
+      "title": "Ninja Rabbit - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Ninja Rabbit! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/ninja-rabbit-og.jpg",
+      "url": "https://littlegames.com/games/ninja-rabbit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Rabbit - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Ninja Rabbit! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/ninja-rabbit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ninja Rabbit",
+      "href": "/games/ninja-rabbit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_052",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

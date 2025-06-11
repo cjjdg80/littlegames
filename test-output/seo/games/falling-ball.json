@@ -1,0 +1,54 @@
+{
+  "gameId": 2523,
+  "slug": "falling-ball",
+  "metadata": {
+    "title": "Free Falling Ball Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Falling Ball. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Falling Ball",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/falling-ball",
+    "openGraph": {
+      "title": "Free Falling Ball Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Falling Ball. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/falling-ball-og.jpg",
+      "url": "https://littlegames.com/games/falling-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Falling Ball Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Falling Ball. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/falling-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Falling Ball",
+      "href": "/games/falling-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_219",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

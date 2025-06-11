@@ -1,0 +1,54 @@
+{
+  "gameId": 3962,
+  "slug": "tank-alliance",
+  "metadata": {
+    "title": "Action Game Tank Alliance - Play Free Now",
+    "description": "Experience thrilling action in Tank Alliance! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Tank Alliance game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tank-alliance",
+    "openGraph": {
+      "title": "Action Game Tank Alliance - Play Free Now",
+      "description": "Experience thrilling action in Tank Alliance! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/tank-alliance-og.jpg",
+      "url": "https://littlegames.com/games/tank-alliance",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tank Alliance - Play Free Now",
+      "description": "Experience thrilling action in Tank Alliance! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tank-alliance-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tank Alliance",
+      "href": "/games/tank-alliance",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_828",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

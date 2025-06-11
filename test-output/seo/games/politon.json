@@ -1,0 +1,54 @@
+{
+  "gameId": 8328,
+  "slug": "politon",
+  "metadata": {
+    "title": "Politon - Exciting Action Adventure Game",
+    "description": "Join the action in Politon! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Politon",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/politon",
+    "openGraph": {
+      "title": "Politon - Exciting Action Adventure Game",
+      "description": "Join the action in Politon! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/politon-og.jpg",
+      "url": "https://littlegames.com/games/politon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Politon - Exciting Action Adventure Game",
+      "description": "Join the action in Politon! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/politon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Politon",
+      "href": "/games/politon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_176",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

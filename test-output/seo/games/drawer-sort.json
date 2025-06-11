@@ -1,0 +1,54 @@
+{
+  "gameId": 8242,
+  "slug": "drawer-sort",
+  "metadata": {
+    "title": "Drawer Sort Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Drawer Sort. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Drawer Sort online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/drawer-sort",
+    "openGraph": {
+      "title": "Drawer Sort Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Drawer Sort. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/drawer-sort-og.jpg",
+      "url": "https://littlegames.com/games/drawer-sort",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drawer Sort Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Drawer Sort. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/drawer-sort-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Drawer Sort",
+      "href": "/games/drawer-sort",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_510",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

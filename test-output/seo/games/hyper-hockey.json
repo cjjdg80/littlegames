@@ -1,0 +1,54 @@
+{
+  "gameId": 1553,
+  "slug": "hyper-hockey",
+  "metadata": {
+    "title": "Hyper Hockey - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Hyper Hockey. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Hyper Hockey online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hyper-hockey",
+    "openGraph": {
+      "title": "Hyper Hockey - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Hyper Hockey. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/hyper-hockey-og.jpg",
+      "url": "https://littlegames.com/games/hyper-hockey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hyper Hockey - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Hyper Hockey. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hyper-hockey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hyper Hockey",
+      "href": "/games/hyper-hockey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_149",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

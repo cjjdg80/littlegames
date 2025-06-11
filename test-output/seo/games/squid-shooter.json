@@ -1,0 +1,54 @@
+{
+  "gameId": 3958,
+  "slug": "squid-shooter",
+  "metadata": {
+    "title": "Action Game Squid Shooter - Play Free Now",
+    "description": "Dive into the action-packed world of Squid Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Squid Shooter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/squid-shooter",
+    "openGraph": {
+      "title": "Action Game Squid Shooter - Play Free Now",
+      "description": "Dive into the action-packed world of Squid Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/squid-shooter-og.jpg",
+      "url": "https://littlegames.com/games/squid-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Squid Shooter - Play Free Now",
+      "description": "Dive into the action-packed world of Squid Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/squid-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squid Shooter",
+      "href": "/games/squid-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_704",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

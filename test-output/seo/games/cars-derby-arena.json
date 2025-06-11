@@ -1,0 +1,54 @@
+{
+  "gameId": 9268,
+  "slug": "cars-derby-arena",
+  "metadata": {
+    "title": "Play Cars Derby Arena - Free Action Game Online",
+    "description": "Dive into the action-packed world of Cars Derby Arena. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Cars Derby Arena game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cars-derby-arena",
+    "openGraph": {
+      "title": "Play Cars Derby Arena - Free Action Game Online",
+      "description": "Dive into the action-packed world of Cars Derby Arena. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/cars-derby-arena-og.jpg",
+      "url": "https://littlegames.com/games/cars-derby-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cars Derby Arena - Free Action Game Online",
+      "description": "Dive into the action-packed world of Cars Derby Arena. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cars-derby-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cars Derby Arena",
+      "href": "/games/cars-derby-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_314",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

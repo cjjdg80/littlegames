@@ -1,0 +1,54 @@
+{
+  "gameId": 140,
+  "slug": "the-linear-basketball",
+  "metadata": {
+    "title": "Free The Linear Basketball Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in The Linear Basketball. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "The Linear Basketball",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/the-linear-basketball",
+    "openGraph": {
+      "title": "Free The Linear Basketball Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in The Linear Basketball. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/the-linear-basketball-og.jpg",
+      "url": "https://littlegames.com/games/the-linear-basketball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free The Linear Basketball Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in The Linear Basketball. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/the-linear-basketball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "The Linear Basketball",
+      "href": "/games/the-linear-basketball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_346",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

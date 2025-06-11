@@ -1,0 +1,54 @@
+{
+  "gameId": 4125,
+  "slug": "flex-run-3d",
+  "metadata": {
+    "title": "Flex Run 3D Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Flex Run 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Flex Run 3D",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/flex-run-3d",
+    "openGraph": {
+      "title": "Flex Run 3D Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Flex Run 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/flex-run-3d-og.jpg",
+      "url": "https://littlegames.com/games/flex-run-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flex Run 3D Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Flex Run 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/flex-run-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flex Run 3D",
+      "href": "/games/flex-run-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_881",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

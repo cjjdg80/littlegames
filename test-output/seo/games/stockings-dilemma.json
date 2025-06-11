@@ -1,0 +1,54 @@
+{
+  "gameId": 7950,
+  "slug": "stockings-dilemma",
+  "metadata": {
+    "title": "Stockings Dilemma - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Stockings Dilemma. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Stockings Dilemma",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/stockings-dilemma",
+    "openGraph": {
+      "title": "Stockings Dilemma - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Stockings Dilemma. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/stockings-dilemma-og.jpg",
+      "url": "https://littlegames.com/games/stockings-dilemma",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stockings Dilemma - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Stockings Dilemma. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/stockings-dilemma-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Stockings Dilemma",
+      "href": "/games/stockings-dilemma",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_456",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

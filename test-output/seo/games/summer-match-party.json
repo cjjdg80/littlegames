@@ -1,0 +1,54 @@
+{
+  "gameId": 5004,
+  "slug": "summer-match-party",
+  "metadata": {
+    "title": "Puzzle Game Summer Match Party - Test Your Skills",
+    "description": "Exercise your brain with Summer Match Party. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "Summer Match Party online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/summer-match-party",
+    "openGraph": {
+      "title": "Puzzle Game Summer Match Party - Test Your Skills",
+      "description": "Exercise your brain with Summer Match Party. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/summer-match-party-og.jpg",
+      "url": "https://littlegames.com/games/summer-match-party",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Summer Match Party - Test Your Skills",
+      "description": "Exercise your brain with Summer Match Party. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/summer-match-party-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Summer Match Party",
+      "href": "/games/summer-match-party",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_130",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

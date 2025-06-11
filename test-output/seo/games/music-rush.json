@@ -1,0 +1,54 @@
+{
+  "gameId": 7869,
+  "slug": "music-rush",
+  "metadata": {
+    "title": "Free Music Rush Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Music Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Music Rush online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/music-rush",
+    "openGraph": {
+      "title": "Free Music Rush Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Music Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/music-rush-og.jpg",
+      "url": "https://littlegames.com/games/music-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Music Rush Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Music Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/music-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Music Rush",
+      "href": "/games/music-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_945",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

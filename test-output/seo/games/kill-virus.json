@@ -1,0 +1,54 @@
+{
+  "gameId": 21,
+  "slug": "kill-virus",
+  "metadata": {
+    "title": "Play Kill Virus - Free Puzzle Game Online",
+    "description": "Kill Virus offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Kill Virus game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/kill-virus",
+    "openGraph": {
+      "title": "Play Kill Virus - Free Puzzle Game Online",
+      "description": "Kill Virus offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/kill-virus-og.jpg",
+      "url": "https://littlegames.com/games/kill-virus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kill Virus - Free Puzzle Game Online",
+      "description": "Kill Virus offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/kill-virus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kill Virus",
+      "href": "/games/kill-virus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_657",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

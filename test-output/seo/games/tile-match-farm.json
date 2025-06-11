@@ -1,0 +1,54 @@
+{
+  "gameId": 7197,
+  "slug": "tile-match-farm",
+  "metadata": {
+    "title": "Free Tile Match Farm Game - Mind Bending Puzzles",
+    "description": "Tile Match Farm offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Tile Match Farm",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tile-match-farm",
+    "openGraph": {
+      "title": "Free Tile Match Farm Game - Mind Bending Puzzles",
+      "description": "Tile Match Farm offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/tile-match-farm-og.jpg",
+      "url": "https://littlegames.com/games/tile-match-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tile Match Farm Game - Mind Bending Puzzles",
+      "description": "Tile Match Farm offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/tile-match-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tile Match Farm",
+      "href": "/games/tile-match-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_113",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

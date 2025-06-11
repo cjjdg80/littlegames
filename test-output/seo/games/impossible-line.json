@@ -1,0 +1,54 @@
+{
+  "gameId": 114,
+  "slug": "impossible-line",
+  "metadata": {
+    "title": "Free Impossible Line Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Impossible Line! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Impossible Line online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/impossible-line",
+    "openGraph": {
+      "title": "Free Impossible Line Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Impossible Line! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/impossible-line-og.jpg",
+      "url": "https://littlegames.com/games/impossible-line",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Impossible Line Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Impossible Line! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/impossible-line-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Impossible Line",
+      "href": "/games/impossible-line",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_540",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

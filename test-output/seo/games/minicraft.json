@@ -1,0 +1,54 @@
+{
+  "gameId": 6352,
+  "slug": "minicraft",
+  "metadata": {
+    "title": "Minicraft - Thrilling Adventure Quest",
+    "description": "Minicraft offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "adventure games",
+      "Minicraft",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/minicraft",
+    "openGraph": {
+      "title": "Minicraft - Thrilling Adventure Quest",
+      "description": "Minicraft offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/minicraft-og.jpg",
+      "url": "https://littlegames.com/games/minicraft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Minicraft - Thrilling Adventure Quest",
+      "description": "Minicraft offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/minicraft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Minicraft",
+      "href": "/games/minicraft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_921",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

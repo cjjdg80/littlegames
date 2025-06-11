@@ -1,0 +1,54 @@
+{
+  "gameId": 7570,
+  "slug": "billionaires",
+  "metadata": {
+    "title": "Action Game Billionaires - Play Free Now",
+    "description": "Experience thrilling action in Billionaires! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Billionaires",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/billionaires",
+    "openGraph": {
+      "title": "Action Game Billionaires - Play Free Now",
+      "description": "Experience thrilling action in Billionaires! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/billionaires-og.jpg",
+      "url": "https://littlegames.com/games/billionaires",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Billionaires - Play Free Now",
+      "description": "Experience thrilling action in Billionaires! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/billionaires-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Billionaires",
+      "href": "/games/billionaires",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_676",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

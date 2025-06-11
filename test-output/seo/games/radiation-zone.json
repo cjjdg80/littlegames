@@ -1,0 +1,54 @@
+{
+  "gameId": 7560,
+  "slug": "radiation-zone",
+  "metadata": {
+    "title": "Radiation Zone - Exciting Action Adventure Game",
+    "description": "Radiation Zone delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Radiation Zone online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/radiation-zone",
+    "openGraph": {
+      "title": "Radiation Zone - Exciting Action Adventure Game",
+      "description": "Radiation Zone delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/radiation-zone-og.jpg",
+      "url": "https://littlegames.com/games/radiation-zone",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Radiation Zone - Exciting Action Adventure Game",
+      "description": "Radiation Zone delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/radiation-zone-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Radiation Zone",
+      "href": "/games/radiation-zone",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_366",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5166,
+  "slug": "squid-operator-hunt",
+  "metadata": {
+    "title": "Squid Operator Hunt - Exciting Action Adventure Game",
+    "description": "Join the action in Squid Operator Hunt! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Squid Operator Hunt",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/squid-operator-hunt",
+    "openGraph": {
+      "title": "Squid Operator Hunt - Exciting Action Adventure Game",
+      "description": "Join the action in Squid Operator Hunt! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/squid-operator-hunt-og.jpg",
+      "url": "https://littlegames.com/games/squid-operator-hunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squid Operator Hunt - Exciting Action Adventure Game",
+      "description": "Join the action in Squid Operator Hunt! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/squid-operator-hunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squid Operator Hunt",
+      "href": "/games/squid-operator-hunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_152",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

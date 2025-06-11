@@ -1,0 +1,54 @@
+{
+  "gameId": 6334,
+  "slug": "fantasy-madness",
+  "metadata": {
+    "title": "Fantasy Madness Online - Ultimate Action Gaming Experience",
+    "description": "Fantasy Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Fantasy Madness online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fantasy-madness",
+    "openGraph": {
+      "title": "Fantasy Madness Online - Ultimate Action Gaming Experience",
+      "description": "Fantasy Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fantasy-madness-og.jpg",
+      "url": "https://littlegames.com/games/fantasy-madness",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fantasy Madness Online - Ultimate Action Gaming Experience",
+      "description": "Fantasy Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fantasy-madness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fantasy Madness",
+      "href": "/games/fantasy-madness",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_360",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

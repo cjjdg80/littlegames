@@ -1,0 +1,54 @@
+{
+  "gameId": 5456,
+  "slug": "squid-survival",
+  "metadata": {
+    "title": "Squid Survival Online - Explore and Discover",
+    "description": "Embark on an epic journey in Squid Survival! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Squid Survival",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/squid-survival",
+    "openGraph": {
+      "title": "Squid Survival Online - Explore and Discover",
+      "description": "Embark on an epic journey in Squid Survival! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/squid-survival-og.jpg",
+      "url": "https://littlegames.com/games/squid-survival",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squid Survival Online - Explore and Discover",
+      "description": "Embark on an epic journey in Squid Survival! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/squid-survival-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Squid Survival",
+      "href": "/games/squid-survival",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_145",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

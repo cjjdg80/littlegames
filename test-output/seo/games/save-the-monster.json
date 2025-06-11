@@ -1,0 +1,54 @@
+{
+  "gameId": 3417,
+  "slug": "save-the-monster",
+  "metadata": {
+    "title": "Free Save The Monster Game - Action Packed Fun",
+    "description": "Join the action in Save The Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Save The Monster game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-monster",
+    "openGraph": {
+      "title": "Free Save The Monster Game - Action Packed Fun",
+      "description": "Join the action in Save The Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/save-the-monster-og.jpg",
+      "url": "https://littlegames.com/games/save-the-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Save The Monster Game - Action Packed Fun",
+      "description": "Join the action in Save The Monster! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/save-the-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save The Monster",
+      "href": "/games/save-the-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_933",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

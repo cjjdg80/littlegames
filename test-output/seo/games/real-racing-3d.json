@@ -1,0 +1,54 @@
+{
+  "gameId": 8930,
+  "slug": "real-racing-3d",
+  "metadata": {
+    "title": "Real Racing 3D Online - Ultimate Action Gaming Experience",
+    "description": "Real Racing 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Real Racing 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/real-racing-3d",
+    "openGraph": {
+      "title": "Real Racing 3D Online - Ultimate Action Gaming Experience",
+      "description": "Real Racing 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/real-racing-3d-og.jpg",
+      "url": "https://littlegames.com/games/real-racing-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Real Racing 3D Online - Ultimate Action Gaming Experience",
+      "description": "Real Racing 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/real-racing-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Real Racing 3D",
+      "href": "/games/real-racing-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_836",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

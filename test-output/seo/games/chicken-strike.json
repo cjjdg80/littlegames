@@ -1,0 +1,54 @@
+{
+  "gameId": 8837,
+  "slug": "chicken-strike",
+  "metadata": {
+    "title": "Chicken Strike - Exciting Action Adventure Game",
+    "description": "Join the action in Chicken Strike! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Chicken Strike game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/chicken-strike",
+    "openGraph": {
+      "title": "Chicken Strike - Exciting Action Adventure Game",
+      "description": "Join the action in Chicken Strike! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/chicken-strike-og.jpg",
+      "url": "https://littlegames.com/games/chicken-strike",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chicken Strike - Exciting Action Adventure Game",
+      "description": "Join the action in Chicken Strike! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/chicken-strike-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chicken Strike",
+      "href": "/games/chicken-strike",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_953",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4907,
+  "slug": "crab-fish",
+  "metadata": {
+    "title": "Puzzle Game Crab & Fish - Test Your Skills",
+    "description": "Sharpen your mind with Crab & Fish! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Crab & Fish",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/crab-fish",
+    "openGraph": {
+      "title": "Puzzle Game Crab & Fish - Test Your Skills",
+      "description": "Sharpen your mind with Crab & Fish! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/crab-fish-og.jpg",
+      "url": "https://littlegames.com/games/crab-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Crab & Fish - Test Your Skills",
+      "description": "Sharpen your mind with Crab & Fish! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/crab-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crab & Fish",
+      "href": "/games/crab-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_123",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

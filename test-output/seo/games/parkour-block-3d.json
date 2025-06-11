@@ -1,0 +1,54 @@
+{
+  "gameId": 3006,
+  "slug": "parkour-block-3d",
+  "metadata": {
+    "title": "Adventure Game Parkour Block 3D - Journey Begins",
+    "description": "Parkour Block 3D offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Parkour Block 3D online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-block-3d",
+    "openGraph": {
+      "title": "Adventure Game Parkour Block 3D - Journey Begins",
+      "description": "Parkour Block 3D offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/parkour-block-3d-og.jpg",
+      "url": "https://littlegames.com/games/parkour-block-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Parkour Block 3D - Journey Begins",
+      "description": "Parkour Block 3D offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/parkour-block-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Parkour Block 3D",
+      "href": "/games/parkour-block-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_195",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

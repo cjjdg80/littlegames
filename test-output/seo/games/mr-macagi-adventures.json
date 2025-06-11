@@ -1,0 +1,54 @@
+{
+  "gameId": 7873,
+  "slug": "mr-macagi-adventures",
+  "metadata": {
+    "title": "Mr. Macagi Adventures - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Mr. Macagi Adventures. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+    "keywords": [
+      "Mr. Macagi Adventures game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/mr-macagi-adventures",
+    "openGraph": {
+      "title": "Mr. Macagi Adventures - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Mr. Macagi Adventures. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+      "image": "https://littlegames.com/images/games/mr-macagi-adventures-og.jpg",
+      "url": "https://littlegames.com/games/mr-macagi-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mr. Macagi Adventures - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Mr. Macagi Adventures. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/mr-macagi-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mr. Macagi Adventures",
+      "href": "/games/mr-macagi-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_072",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

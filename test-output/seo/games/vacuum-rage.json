@@ -1,0 +1,54 @@
+{
+  "gameId": 6792,
+  "slug": "vacuum-rage",
+  "metadata": {
+    "title": "Play Vacuum Rage - Free Action Game Online",
+    "description": "Vacuum Rage delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Vacuum Rage",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/vacuum-rage",
+    "openGraph": {
+      "title": "Play Vacuum Rage - Free Action Game Online",
+      "description": "Vacuum Rage delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/vacuum-rage-og.jpg",
+      "url": "https://littlegames.com/games/vacuum-rage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Vacuum Rage - Free Action Game Online",
+      "description": "Vacuum Rage delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/vacuum-rage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Vacuum Rage",
+      "href": "/games/vacuum-rage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_558",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

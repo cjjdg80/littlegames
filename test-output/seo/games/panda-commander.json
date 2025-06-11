@@ -1,0 +1,54 @@
+{
+  "gameId": 4455,
+  "slug": "panda-commander",
+  "metadata": {
+    "title": "Panda commander - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Panda commander. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Panda commander",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/panda-commander",
+    "openGraph": {
+      "title": "Panda commander - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Panda commander. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/panda-commander-og.jpg",
+      "url": "https://littlegames.com/games/panda-commander",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Panda commander - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Panda commander. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/panda-commander-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Panda commander",
+      "href": "/games/panda-commander",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_111",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

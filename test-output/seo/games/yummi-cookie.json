@@ -1,0 +1,54 @@
+{
+  "gameId": 1237,
+  "slug": "yummi-cookie",
+  "metadata": {
+    "title": "Free Yummi Cookie Game - Action Packed Fun",
+    "description": "Experience thrilling action in Yummi Cookie! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Yummi Cookie online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/yummi-cookie",
+    "openGraph": {
+      "title": "Free Yummi Cookie Game - Action Packed Fun",
+      "description": "Experience thrilling action in Yummi Cookie! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/yummi-cookie-og.jpg",
+      "url": "https://littlegames.com/games/yummi-cookie",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Yummi Cookie Game - Action Packed Fun",
+      "description": "Experience thrilling action in Yummi Cookie! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/yummi-cookie-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Yummi Cookie",
+      "href": "/games/yummi-cookie",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_353",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

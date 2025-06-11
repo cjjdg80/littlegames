@@ -1,0 +1,46 @@
+{
+  "tag": "evolution",
+  "displayName": "Evolution",
+  "metadata": {
+    "title": "Evolution Games - Play Free Online",
+    "description": "Discover amazing evolution games! Play 15 free games with evolution theme. No downloads required.",
+    "keywords": [
+      "evolution games",
+      "free online games",
+      "browser games",
+      "evolution theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/evolution",
+    "openGraph": {
+      "title": "Evolution Games - Free Online Gaming",
+      "description": "Play the best evolution games online for free. 15 games available.",
+      "image": "https://littlegames.com/images/tags/evolution-og.jpg",
+      "url": "https://littlegames.com/tags/evolution",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Evolution Games - Free Online",
+      "description": "Play 15 free evolution games online.",
+      "image": "https://littlegames.com/images/tags/evolution-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Evolution",
+      "href": "/tags/evolution",
+      "current": true
+    }
+  ],
+  "description": "Discover games with evolution theme! Our collection includes 15 carefully selected games that feature evolution elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

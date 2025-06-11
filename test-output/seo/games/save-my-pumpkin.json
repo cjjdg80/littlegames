@@ -1,0 +1,54 @@
+{
+  "gameId": 7224,
+  "slug": "save-my-pumpkin",
+  "metadata": {
+    "title": "Save My Pumpkin - Exciting Action Adventure Game",
+    "description": "Save My Pumpkin delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Save My Pumpkin",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/save-my-pumpkin",
+    "openGraph": {
+      "title": "Save My Pumpkin - Exciting Action Adventure Game",
+      "description": "Save My Pumpkin delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/save-my-pumpkin-og.jpg",
+      "url": "https://littlegames.com/games/save-my-pumpkin",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Save My Pumpkin - Exciting Action Adventure Game",
+      "description": "Save My Pumpkin delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/save-my-pumpkin-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save My Pumpkin",
+      "href": "/games/save-my-pumpkin",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_950",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

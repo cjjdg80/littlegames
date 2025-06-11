@@ -1,0 +1,54 @@
+{
+  "gameId": 4462,
+  "slug": "candy-escape",
+  "metadata": {
+    "title": "Adventure Game Candy Escape - Journey Begins",
+    "description": "Embark on an epic journey in Candy Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Candy Escape",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/candy-escape",
+    "openGraph": {
+      "title": "Adventure Game Candy Escape - Journey Begins",
+      "description": "Embark on an epic journey in Candy Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/candy-escape-og.jpg",
+      "url": "https://littlegames.com/games/candy-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Candy Escape - Journey Begins",
+      "description": "Embark on an epic journey in Candy Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Candy Escape",
+      "href": "/games/candy-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_331",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

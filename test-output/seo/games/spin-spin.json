@@ -1,0 +1,54 @@
+{
+  "gameId": 9475,
+  "slug": "spin-spin",
+  "metadata": {
+    "title": "Spin Spin Online - Ultimate Action Gaming Experience",
+    "description": "Spin Spin delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Spin Spin",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/spin-spin",
+    "openGraph": {
+      "title": "Spin Spin Online - Ultimate Action Gaming Experience",
+      "description": "Spin Spin delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/spin-spin-og.jpg",
+      "url": "https://littlegames.com/games/spin-spin",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spin Spin Online - Ultimate Action Gaming Experience",
+      "description": "Spin Spin delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/spin-spin-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Spin Spin",
+      "href": "/games/spin-spin",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_731",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "hidden",
+  "displayName": "Hidden",
+  "metadata": {
+    "title": "Hidden Games - Play Free Online",
+    "description": "Discover amazing hidden games! Play 121 free games with hidden theme. No downloads required.",
+    "keywords": [
+      "hidden games",
+      "free online games",
+      "browser games",
+      "hidden theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/hidden",
+    "openGraph": {
+      "title": "Hidden Games - Free Online Gaming",
+      "description": "Play the best hidden games online for free. 121 games available.",
+      "image": "https://littlegames.com/images/tags/hidden-og.jpg",
+      "url": "https://littlegames.com/tags/hidden",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hidden Games - Free Online",
+      "description": "Play 121 free hidden games online.",
+      "image": "https://littlegames.com/images/tags/hidden-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hidden",
+      "href": "/tags/hidden",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hidden theme! Our collection includes 121 carefully selected games that feature hidden elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

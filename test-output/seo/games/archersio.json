@@ -1,0 +1,54 @@
+{
+  "gameId": 3734,
+  "slug": "archersio",
+  "metadata": {
+    "title": "Action Game Archers.io - Play Free Now",
+    "description": "Dive into the action-packed world of Archers.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Archers.io online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/archersio",
+    "openGraph": {
+      "title": "Action Game Archers.io - Play Free Now",
+      "description": "Dive into the action-packed world of Archers.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/archersio-og.jpg",
+      "url": "https://littlegames.com/games/archersio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Archers.io - Play Free Now",
+      "description": "Dive into the action-packed world of Archers.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/archersio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Archers.io",
+      "href": "/games/archersio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_760",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

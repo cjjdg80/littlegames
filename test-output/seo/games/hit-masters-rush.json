@@ -1,0 +1,54 @@
+{
+  "gameId": 4097,
+  "slug": "hit-masters-rush",
+  "metadata": {
+    "title": "Hit Masters Rush - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Hit Masters Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Hit Masters Rush online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hit-masters-rush",
+    "openGraph": {
+      "title": "Hit Masters Rush - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Hit Masters Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/hit-masters-rush-og.jpg",
+      "url": "https://littlegames.com/games/hit-masters-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hit Masters Rush - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Hit Masters Rush. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hit-masters-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hit Masters Rush",
+      "href": "/games/hit-masters-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_013",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

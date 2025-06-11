@@ -1,0 +1,54 @@
+{
+  "gameId": 4810,
+  "slug": "ragdoll-fighter",
+  "metadata": {
+    "title": "Ragdoll Fighter - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Ragdoll Fighter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Ragdoll Fighter",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ragdoll-fighter",
+    "openGraph": {
+      "title": "Ragdoll Fighter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Ragdoll Fighter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/ragdoll-fighter-og.jpg",
+      "url": "https://littlegames.com/games/ragdoll-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ragdoll Fighter - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Ragdoll Fighter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ragdoll-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ragdoll Fighter",
+      "href": "/games/ragdoll-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_116",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

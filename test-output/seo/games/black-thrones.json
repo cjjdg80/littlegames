@@ -1,0 +1,54 @@
+{
+  "gameId": 1887,
+  "slug": "black-thrones",
+  "metadata": {
+    "title": "Action Game Black Thrones - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Black Thrones. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Black Thrones",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/black-thrones",
+    "openGraph": {
+      "title": "Action Game Black Thrones - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Black Thrones. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/black-thrones-og.jpg",
+      "url": "https://littlegames.com/games/black-thrones",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Black Thrones - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Black Thrones. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/black-thrones-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Black Thrones",
+      "href": "/games/black-thrones",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_503",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4157,
+  "slug": "light-in-the-dark",
+  "metadata": {
+    "title": "Adventure Game LIGHT IN THE DARK - Journey Begins",
+    "description": "LIGHT IN THE DARK offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play LIGHT IN THE DARK",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/light-in-the-dark",
+    "openGraph": {
+      "title": "Adventure Game LIGHT IN THE DARK - Journey Begins",
+      "description": "LIGHT IN THE DARK offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/light-in-the-dark-og.jpg",
+      "url": "https://littlegames.com/games/light-in-the-dark",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game LIGHT IN THE DARK - Journey Begins",
+      "description": "LIGHT IN THE DARK offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/light-in-the-dark-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "LIGHT IN THE DARK",
+      "href": "/games/light-in-the-dark",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_876",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

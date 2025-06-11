@@ -1,0 +1,54 @@
+{
+  "gameId": 4250,
+  "slug": "baby-chicco-adventures",
+  "metadata": {
+    "title": "Adventure Game Baby Chicco Adventures - Journey Begins",
+    "description": "Embark on an epic journey in Baby Chicco Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+    "keywords": [
+      "Baby Chicco Adventures game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/baby-chicco-adventures",
+    "openGraph": {
+      "title": "Adventure Game Baby Chicco Adventures - Journey Begins",
+      "description": "Embark on an epic journey in Baby Chicco Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+      "image": "https://littlegames.com/images/games/baby-chicco-adventures-og.jpg",
+      "url": "https://littlegames.com/games/baby-chicco-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Baby Chicco Adventures - Journey Begins",
+      "description": "Embark on an epic journey in Baby Chicco Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/baby-chicco-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Baby Chicco Adventures",
+      "href": "/games/baby-chicco-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_759",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

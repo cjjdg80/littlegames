@@ -1,0 +1,54 @@
+{
+  "gameId": 6643,
+  "slug": "bubble-master",
+  "metadata": {
+    "title": "Action Game Bubble Master - Play Free Now",
+    "description": "Dive into the action-packed world of Bubble Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Bubble Master",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-master",
+    "openGraph": {
+      "title": "Action Game Bubble Master - Play Free Now",
+      "description": "Dive into the action-packed world of Bubble Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/bubble-master-og.jpg",
+      "url": "https://littlegames.com/games/bubble-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bubble Master - Play Free Now",
+      "description": "Dive into the action-packed world of Bubble Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bubble-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bubble Master",
+      "href": "/games/bubble-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_939",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

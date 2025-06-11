@@ -1,0 +1,54 @@
+{
+  "gameId": 2002,
+  "slug": "x-parkour",
+  "metadata": {
+    "title": "Play X Parkour - Free Action Game Online",
+    "description": "Experience thrilling action in X Parkour! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "X Parkour",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/x-parkour",
+    "openGraph": {
+      "title": "Play X Parkour - Free Action Game Online",
+      "description": "Experience thrilling action in X Parkour! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/x-parkour-og.jpg",
+      "url": "https://littlegames.com/games/x-parkour",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play X Parkour - Free Action Game Online",
+      "description": "Experience thrilling action in X Parkour! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/x-parkour-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "X Parkour",
+      "href": "/games/x-parkour",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_068",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1958,
+  "slug": "my-sweet-adventure",
+  "metadata": {
+    "title": "Play My Sweet Adventure - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in My Sweet Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "My Sweet Adventure online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/my-sweet-adventure",
+    "openGraph": {
+      "title": "Play My Sweet Adventure - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in My Sweet Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/my-sweet-adventure-og.jpg",
+      "url": "https://littlegames.com/games/my-sweet-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play My Sweet Adventure - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in My Sweet Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/my-sweet-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "My Sweet Adventure",
+      "href": "/games/my-sweet-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_707",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

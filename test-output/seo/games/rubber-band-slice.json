@@ -1,0 +1,54 @@
+{
+  "gameId": 4689,
+  "slug": "rubber-band-slice",
+  "metadata": {
+    "title": "Rubber Band Slice - Exciting Action Adventure Game",
+    "description": "Rubber Band Slice delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Rubber Band Slice",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/rubber-band-slice",
+    "openGraph": {
+      "title": "Rubber Band Slice - Exciting Action Adventure Game",
+      "description": "Rubber Band Slice delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rubber-band-slice-og.jpg",
+      "url": "https://littlegames.com/games/rubber-band-slice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rubber Band Slice - Exciting Action Adventure Game",
+      "description": "Rubber Band Slice delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rubber-band-slice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rubber Band Slice",
+      "href": "/games/rubber-band-slice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_365",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

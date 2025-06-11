@@ -1,0 +1,54 @@
+{
+  "gameId": 9489,
+  "slug": "slingshot-master",
+  "metadata": {
+    "title": "Free Slingshot Master Game - Action Packed Fun",
+    "description": "Join the action in Slingshot Master! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Slingshot Master game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/slingshot-master",
+    "openGraph": {
+      "title": "Free Slingshot Master Game - Action Packed Fun",
+      "description": "Join the action in Slingshot Master! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/slingshot-master-og.jpg",
+      "url": "https://littlegames.com/games/slingshot-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Slingshot Master Game - Action Packed Fun",
+      "description": "Join the action in Slingshot Master! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/slingshot-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Slingshot Master",
+      "href": "/games/slingshot-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_165",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9439,
+  "slug": "merge-galaxy",
+  "metadata": {
+    "title": "Merge Galaxy - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Merge Galaxy. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Merge Galaxy",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-galaxy",
+    "openGraph": {
+      "title": "Merge Galaxy - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Merge Galaxy. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-galaxy-og.jpg",
+      "url": "https://littlegames.com/games/merge-galaxy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Galaxy - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Merge Galaxy. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-galaxy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Galaxy",
+      "href": "/games/merge-galaxy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_615",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1035,
+  "slug": "volley-ball",
+  "metadata": {
+    "title": "Action Game Volley ball - Play Free Now",
+    "description": "Volley ball delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "play Volley ball",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/volley-ball",
+    "openGraph": {
+      "title": "Action Game Volley ball - Play Free Now",
+      "description": "Volley ball delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/volley-ball-og.jpg",
+      "url": "https://littlegames.com/games/volley-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Volley ball - Play Free Now",
+      "description": "Volley ball delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/volley-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Volley ball",
+      "href": "/games/volley-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_091",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

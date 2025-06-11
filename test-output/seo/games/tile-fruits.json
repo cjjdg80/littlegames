@@ -1,0 +1,54 @@
+{
+  "gameId": 9190,
+  "slug": "tile-fruits",
+  "metadata": {
+    "title": "Action Game Tile Fruits - Play Free Now",
+    "description": "Tile Fruits delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Tile Fruits game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tile-fruits",
+    "openGraph": {
+      "title": "Action Game Tile Fruits - Play Free Now",
+      "description": "Tile Fruits delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tile-fruits-og.jpg",
+      "url": "https://littlegames.com/games/tile-fruits",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tile Fruits - Play Free Now",
+      "description": "Tile Fruits delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tile-fruits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tile Fruits",
+      "href": "/games/tile-fruits",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_896",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

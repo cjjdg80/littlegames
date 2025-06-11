@@ -1,0 +1,54 @@
+{
+  "gameId": 6864,
+  "slug": "zombloxio",
+  "metadata": {
+    "title": "Zomblox.io - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Zomblox.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Zomblox.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/zombloxio",
+    "openGraph": {
+      "title": "Zomblox.io - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Zomblox.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/zombloxio-og.jpg",
+      "url": "https://littlegames.com/games/zombloxio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zomblox.io - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Zomblox.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zombloxio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zomblox.io",
+      "href": "/games/zombloxio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_790",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

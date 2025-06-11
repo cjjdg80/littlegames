@@ -1,0 +1,54 @@
+{
+  "gameId": 3636,
+  "slug": "bffs-night-out",
+  "metadata": {
+    "title": "Free BFFS Night Out Game - Action Packed Fun",
+    "description": "BFFS Night Out delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "BFFS Night Out",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/bffs-night-out",
+    "openGraph": {
+      "title": "Free BFFS Night Out Game - Action Packed Fun",
+      "description": "BFFS Night Out delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bffs-night-out-og.jpg",
+      "url": "https://littlegames.com/games/bffs-night-out",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free BFFS Night Out Game - Action Packed Fun",
+      "description": "BFFS Night Out delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bffs-night-out-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "BFFS Night Out",
+      "href": "/games/bffs-night-out",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_722",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

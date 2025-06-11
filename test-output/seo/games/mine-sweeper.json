@@ -1,0 +1,54 @@
+{
+  "gameId": 8951,
+  "slug": "mine-sweeper",
+  "metadata": {
+    "title": "Puzzle Game Mine Sweeper - Test Your Skills",
+    "description": "Challenge your mind with Mine Sweeper! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Mine Sweeper",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/mine-sweeper",
+    "openGraph": {
+      "title": "Puzzle Game Mine Sweeper - Test Your Skills",
+      "description": "Challenge your mind with Mine Sweeper! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/mine-sweeper-og.jpg",
+      "url": "https://littlegames.com/games/mine-sweeper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Mine Sweeper - Test Your Skills",
+      "description": "Challenge your mind with Mine Sweeper! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/mine-sweeper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Mine Sweeper",
+      "href": "/games/mine-sweeper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_487",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

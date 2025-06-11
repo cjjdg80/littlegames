@@ -1,0 +1,54 @@
+{
+  "gameId": 2713,
+  "slug": "vector-rush",
+  "metadata": {
+    "title": "Vector Rush - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Vector Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Vector Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/vector-rush",
+    "openGraph": {
+      "title": "Vector Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Vector Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/vector-rush-og.jpg",
+      "url": "https://littlegames.com/games/vector-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Vector Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Vector Rush. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/vector-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Vector Rush",
+      "href": "/games/vector-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_109",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

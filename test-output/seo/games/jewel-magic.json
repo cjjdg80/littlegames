@@ -1,0 +1,54 @@
+{
+  "gameId": 2838,
+  "slug": "jewel-magic",
+  "metadata": {
+    "title": "Play Jewel Magic - Free Action Game Online",
+    "description": "Experience thrilling action in Jewel Magic! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Jewel Magic",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jewel-magic",
+    "openGraph": {
+      "title": "Play Jewel Magic - Free Action Game Online",
+      "description": "Experience thrilling action in Jewel Magic! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/jewel-magic-og.jpg",
+      "url": "https://littlegames.com/games/jewel-magic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jewel Magic - Free Action Game Online",
+      "description": "Experience thrilling action in Jewel Magic! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/jewel-magic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jewel Magic",
+      "href": "/games/jewel-magic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_984",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

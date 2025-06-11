@@ -1,0 +1,54 @@
+{
+  "gameId": 2251,
+  "slug": "sector-781",
+  "metadata": {
+    "title": "Sector 781 - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Sector 781. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Sector 781",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sector-781",
+    "openGraph": {
+      "title": "Sector 781 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sector 781. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sector-781-og.jpg",
+      "url": "https://littlegames.com/games/sector-781",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sector 781 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sector 781. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sector-781-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sector 781",
+      "href": "/games/sector-781",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_787",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6685,
+  "slug": "speedy-golf",
+  "metadata": {
+    "title": "Play Speedy Golf - Free Action Game Online",
+    "description": "Join the action in Speedy Golf! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Speedy Golf",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/speedy-golf",
+    "openGraph": {
+      "title": "Play Speedy Golf - Free Action Game Online",
+      "description": "Join the action in Speedy Golf! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/speedy-golf-og.jpg",
+      "url": "https://littlegames.com/games/speedy-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Speedy Golf - Free Action Game Online",
+      "description": "Join the action in Speedy Golf! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/speedy-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Speedy Golf",
+      "href": "/games/speedy-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_241",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3171,
+  "slug": "super-heroes-ball",
+  "metadata": {
+    "title": "Adventure Game Super Heroes Ball - Journey Begins",
+    "description": "Begin your quest in Super Heroes Ball. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Super Heroes Ball game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/super-heroes-ball",
+    "openGraph": {
+      "title": "Adventure Game Super Heroes Ball - Journey Begins",
+      "description": "Begin your quest in Super Heroes Ball. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-heroes-ball-og.jpg",
+      "url": "https://littlegames.com/games/super-heroes-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Super Heroes Ball - Journey Begins",
+      "description": "Begin your quest in Super Heroes Ball. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-heroes-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Heroes Ball",
+      "href": "/games/super-heroes-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_310",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

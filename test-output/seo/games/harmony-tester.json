@@ -1,0 +1,54 @@
+{
+  "gameId": 4327,
+  "slug": "harmony-tester",
+  "metadata": {
+    "title": "Harmony Tester Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Harmony Tester. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Harmony Tester game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/harmony-tester",
+    "openGraph": {
+      "title": "Harmony Tester Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Harmony Tester. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/harmony-tester-og.jpg",
+      "url": "https://littlegames.com/games/harmony-tester",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Harmony Tester Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Harmony Tester. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/harmony-tester-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Harmony Tester",
+      "href": "/games/harmony-tester",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_143",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

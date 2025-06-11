@@ -1,0 +1,54 @@
+{
+  "gameId": 2615,
+  "slug": "heroball-adventures",
+  "metadata": {
+    "title": "Heroball Adventures - Thrilling Adventure Quest",
+    "description": "Begin your quest in Heroball Adventures. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Heroball Adventures",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/heroball-adventures",
+    "openGraph": {
+      "title": "Heroball Adventures - Thrilling Adventure Quest",
+      "description": "Begin your quest in Heroball Adventures. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/heroball-adventures-og.jpg",
+      "url": "https://littlegames.com/games/heroball-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Heroball Adventures - Thrilling Adventure Quest",
+      "description": "Begin your quest in Heroball Adventures. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/heroball-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Heroball Adventures",
+      "href": "/games/heroball-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_074",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

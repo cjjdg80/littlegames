@@ -1,0 +1,46 @@
+{
+  "tag": "tripeaks",
+  "displayName": "Tripeaks",
+  "metadata": {
+    "title": "Tripeaks Games - Play Free Online",
+    "description": "Discover amazing tripeaks games! Play 17 free games with tripeaks theme. No downloads required.",
+    "keywords": [
+      "tripeaks games",
+      "free online games",
+      "browser games",
+      "tripeaks theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/tripeaks",
+    "openGraph": {
+      "title": "Tripeaks Games - Free Online Gaming",
+      "description": "Play the best tripeaks games online for free. 17 games available.",
+      "image": "https://littlegames.com/images/tags/tripeaks-og.jpg",
+      "url": "https://littlegames.com/tags/tripeaks",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tripeaks Games - Free Online",
+      "description": "Play 17 free tripeaks games online.",
+      "image": "https://littlegames.com/images/tags/tripeaks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tripeaks",
+      "href": "/tags/tripeaks",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tripeaks theme! Our collection includes 17 carefully selected games that feature tripeaks elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

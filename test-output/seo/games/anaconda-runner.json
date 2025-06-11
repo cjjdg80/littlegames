@@ -1,0 +1,54 @@
+{
+  "gameId": 7893,
+  "slug": "anaconda-runner",
+  "metadata": {
+    "title": "Action Game Anaconda Runner - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Anaconda Runner. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Anaconda Runner game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/anaconda-runner",
+    "openGraph": {
+      "title": "Action Game Anaconda Runner - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Anaconda Runner. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/anaconda-runner-og.jpg",
+      "url": "https://littlegames.com/games/anaconda-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Anaconda Runner - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Anaconda Runner. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/anaconda-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Anaconda Runner",
+      "href": "/games/anaconda-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_689",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

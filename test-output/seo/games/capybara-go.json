@@ -1,0 +1,54 @@
+{
+  "gameId": 9938,
+  "slug": "capybara-go",
+  "metadata": {
+    "title": "Capybara Go! - Thrilling Adventure Quest",
+    "description": "Capybara Go! offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Capybara Go! game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/capybara-go",
+    "openGraph": {
+      "title": "Capybara Go! - Thrilling Adventure Quest",
+      "description": "Capybara Go! offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/capybara-go-og.jpg",
+      "url": "https://littlegames.com/games/capybara-go",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Capybara Go! - Thrilling Adventure Quest",
+      "description": "Capybara Go! offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/capybara-go-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Capybara Go!",
+      "href": "/games/capybara-go",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_087",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

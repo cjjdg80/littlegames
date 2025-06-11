@@ -1,0 +1,54 @@
+{
+  "gameId": 6456,
+  "slug": "solitaire-swift",
+  "metadata": {
+    "title": "Play Solitaire Swift - Free Action Game Online",
+    "description": "Dive into the action-packed world of Solitaire Swift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Solitaire Swift game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/solitaire-swift",
+    "openGraph": {
+      "title": "Play Solitaire Swift - Free Action Game Online",
+      "description": "Dive into the action-packed world of Solitaire Swift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/solitaire-swift-og.jpg",
+      "url": "https://littlegames.com/games/solitaire-swift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Solitaire Swift - Free Action Game Online",
+      "description": "Dive into the action-packed world of Solitaire Swift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/solitaire-swift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Solitaire Swift",
+      "href": "/games/solitaire-swift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_142",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

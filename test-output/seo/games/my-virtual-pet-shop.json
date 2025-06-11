@@ -1,0 +1,54 @@
+{
+  "gameId": 2125,
+  "slug": "my-virtual-pet-shop",
+  "metadata": {
+    "title": "Free My Virtual Pet Shop Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in My Virtual Pet Shop. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "play My Virtual Pet Shop",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/my-virtual-pet-shop",
+    "openGraph": {
+      "title": "Free My Virtual Pet Shop Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in My Virtual Pet Shop. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/my-virtual-pet-shop-og.jpg",
+      "url": "https://littlegames.com/games/my-virtual-pet-shop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free My Virtual Pet Shop Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in My Virtual Pet Shop. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-virtual-pet-shop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "My Virtual Pet Shop",
+      "href": "/games/my-virtual-pet-shop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_881",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

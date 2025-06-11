@@ -1,0 +1,54 @@
+{
+  "gameId": 264,
+  "slug": "echo-simon",
+  "metadata": {
+    "title": "Play Echo Simon - Free Action Game Online",
+    "description": "Join the action in Echo Simon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Echo Simon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/echo-simon",
+    "openGraph": {
+      "title": "Play Echo Simon - Free Action Game Online",
+      "description": "Join the action in Echo Simon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/echo-simon-og.jpg",
+      "url": "https://littlegames.com/games/echo-simon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Echo Simon - Free Action Game Online",
+      "description": "Join the action in Echo Simon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/echo-simon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Echo Simon",
+      "href": "/games/echo-simon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_190",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

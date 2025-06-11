@@ -1,0 +1,54 @@
+{
+  "gameId": 733,
+  "slug": "weapon-strike",
+  "metadata": {
+    "title": "Weapon Strike - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Weapon Strike. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Weapon Strike",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/weapon-strike",
+    "openGraph": {
+      "title": "Weapon Strike - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Weapon Strike. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/weapon-strike-og.jpg",
+      "url": "https://littlegames.com/games/weapon-strike",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Weapon Strike - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Weapon Strike. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/weapon-strike-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Weapon Strike",
+      "href": "/games/weapon-strike",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_729",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

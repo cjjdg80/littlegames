@@ -1,0 +1,54 @@
+{
+  "gameId": 2176,
+  "slug": "sweet-world",
+  "metadata": {
+    "title": "Sweet World - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Sweet World. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Sweet World",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sweet-world",
+    "openGraph": {
+      "title": "Sweet World - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sweet World. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sweet-world-og.jpg",
+      "url": "https://littlegames.com/games/sweet-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sweet World - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sweet World. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sweet-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sweet World",
+      "href": "/games/sweet-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_462",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

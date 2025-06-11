@@ -1,0 +1,54 @@
+{
+  "gameId": 6126,
+  "slug": "puzzle-emoji",
+  "metadata": {
+    "title": "Puzzle Emoji - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Puzzle Emoji! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Puzzle Emoji",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-emoji",
+    "openGraph": {
+      "title": "Puzzle Emoji - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Puzzle Emoji! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/puzzle-emoji-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-emoji",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Emoji - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Puzzle Emoji! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/puzzle-emoji-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Emoji",
+      "href": "/games/puzzle-emoji",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_912",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

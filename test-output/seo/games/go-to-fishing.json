@@ -1,0 +1,54 @@
+{
+  "gameId": 1054,
+  "slug": "go-to-fishing",
+  "metadata": {
+    "title": "Free Go to Fishing Game - Action Packed Fun",
+    "description": "Experience thrilling action in Go to Fishing! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Go to Fishing",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/go-to-fishing",
+    "openGraph": {
+      "title": "Free Go to Fishing Game - Action Packed Fun",
+      "description": "Experience thrilling action in Go to Fishing! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/go-to-fishing-og.jpg",
+      "url": "https://littlegames.com/games/go-to-fishing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Go to Fishing Game - Action Packed Fun",
+      "description": "Experience thrilling action in Go to Fishing! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/go-to-fishing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Go to Fishing",
+      "href": "/games/go-to-fishing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_680",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

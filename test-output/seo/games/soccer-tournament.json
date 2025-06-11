@@ -1,0 +1,54 @@
+{
+  "gameId": 9932,
+  "slug": "soccer-tournament",
+  "metadata": {
+    "title": "Free Soccer Tournament Game - Action Packed Fun",
+    "description": "Join the action in Soccer Tournament! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Soccer Tournament",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-tournament",
+    "openGraph": {
+      "title": "Free Soccer Tournament Game - Action Packed Fun",
+      "description": "Join the action in Soccer Tournament! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/soccer-tournament-og.jpg",
+      "url": "https://littlegames.com/games/soccer-tournament",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Soccer Tournament Game - Action Packed Fun",
+      "description": "Join the action in Soccer Tournament! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/soccer-tournament-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Soccer Tournament",
+      "href": "/games/soccer-tournament",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_898",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

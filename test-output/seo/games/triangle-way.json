@@ -1,0 +1,54 @@
+{
+  "gameId": 8675,
+  "slug": "triangle-way",
+  "metadata": {
+    "title": "Triangle Way - Thrilling Adventure Quest",
+    "description": "Triangle Way offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Triangle Way game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/triangle-way",
+    "openGraph": {
+      "title": "Triangle Way - Thrilling Adventure Quest",
+      "description": "Triangle Way offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/triangle-way-og.jpg",
+      "url": "https://littlegames.com/games/triangle-way",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Triangle Way - Thrilling Adventure Quest",
+      "description": "Triangle Way offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/triangle-way-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Triangle Way",
+      "href": "/games/triangle-way",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_934",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

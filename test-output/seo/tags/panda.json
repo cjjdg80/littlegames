@@ -1,0 +1,46 @@
+{
+  "tag": "panda",
+  "displayName": "Panda",
+  "metadata": {
+    "title": "Panda Games - Play Free Online",
+    "description": "Discover amazing panda games! Play 24 free games with panda theme. No downloads required.",
+    "keywords": [
+      "panda games",
+      "free online games",
+      "browser games",
+      "panda theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/panda",
+    "openGraph": {
+      "title": "Panda Games - Free Online Gaming",
+      "description": "Play the best panda games online for free. 24 games available.",
+      "image": "https://littlegames.com/images/tags/panda-og.jpg",
+      "url": "https://littlegames.com/tags/panda",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Panda Games - Free Online",
+      "description": "Play 24 free panda games online.",
+      "image": "https://littlegames.com/images/tags/panda-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Panda",
+      "href": "/tags/panda",
+      "current": true
+    }
+  ],
+  "description": "Discover games with panda theme! Our collection includes 24 carefully selected games that feature panda elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

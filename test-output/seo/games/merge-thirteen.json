@@ -1,0 +1,54 @@
+{
+  "gameId": 7409,
+  "slug": "merge-thirteen",
+  "metadata": {
+    "title": "Free Merge Thirteen Game - Action Packed Fun",
+    "description": "Merge Thirteen delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Merge Thirteen online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/merge-thirteen",
+    "openGraph": {
+      "title": "Free Merge Thirteen Game - Action Packed Fun",
+      "description": "Merge Thirteen delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-thirteen-og.jpg",
+      "url": "https://littlegames.com/games/merge-thirteen",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge Thirteen Game - Action Packed Fun",
+      "description": "Merge Thirteen delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-thirteen-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Thirteen",
+      "href": "/games/merge-thirteen",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_685",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

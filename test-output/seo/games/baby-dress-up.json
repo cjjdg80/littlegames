@@ -1,0 +1,54 @@
+{
+  "gameId": 6710,
+  "slug": "baby-dress-up",
+  "metadata": {
+    "title": "Free Baby Dress Up Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Baby Dress Up. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Baby Dress Up game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/baby-dress-up",
+    "openGraph": {
+      "title": "Free Baby Dress Up Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Baby Dress Up. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/baby-dress-up-og.jpg",
+      "url": "https://littlegames.com/games/baby-dress-up",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Baby Dress Up Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Baby Dress Up. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/baby-dress-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Baby Dress Up",
+      "href": "/games/baby-dress-up",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_016",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

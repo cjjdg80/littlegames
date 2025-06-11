@@ -1,0 +1,54 @@
+{
+  "gameId": 2007,
+  "slug": "christmas-lines",
+  "metadata": {
+    "title": "Christmas Lines Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Christmas Lines! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Christmas Lines game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-lines",
+    "openGraph": {
+      "title": "Christmas Lines Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Christmas Lines! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/christmas-lines-og.jpg",
+      "url": "https://littlegames.com/games/christmas-lines",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Christmas Lines Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Christmas Lines! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/christmas-lines-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Christmas Lines",
+      "href": "/games/christmas-lines",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_223",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

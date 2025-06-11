@@ -1,0 +1,54 @@
+{
+  "gameId": 7114,
+  "slug": "beat-the-plush",
+  "metadata": {
+    "title": "Beat the Plush Online - Ultimate Action Gaming Experience",
+    "description": "Beat the Plush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Beat the Plush",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/beat-the-plush",
+    "openGraph": {
+      "title": "Beat the Plush Online - Ultimate Action Gaming Experience",
+      "description": "Beat the Plush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/beat-the-plush-og.jpg",
+      "url": "https://littlegames.com/games/beat-the-plush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Beat the Plush Online - Ultimate Action Gaming Experience",
+      "description": "Beat the Plush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/beat-the-plush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Beat the Plush",
+      "href": "/games/beat-the-plush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_540",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

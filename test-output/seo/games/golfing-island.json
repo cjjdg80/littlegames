@@ -1,0 +1,54 @@
+{
+  "gameId": 4416,
+  "slug": "golfing-island",
+  "metadata": {
+    "title": "Play Golfing Island - Free Action Game Online",
+    "description": "Join the action in Golfing Island! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Golfing Island online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/golfing-island",
+    "openGraph": {
+      "title": "Play Golfing Island - Free Action Game Online",
+      "description": "Join the action in Golfing Island! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/golfing-island-og.jpg",
+      "url": "https://littlegames.com/games/golfing-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Golfing Island - Free Action Game Online",
+      "description": "Join the action in Golfing Island! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/golfing-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Golfing Island",
+      "href": "/games/golfing-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_902",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

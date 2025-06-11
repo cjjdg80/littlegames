@@ -1,0 +1,54 @@
+{
+  "gameId": 4172,
+  "slug": "dynasty-war",
+  "metadata": {
+    "title": "Free Dynasty War Game - Action Packed Fun",
+    "description": "Join the action in Dynasty War! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Dynasty War",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dynasty-war",
+    "openGraph": {
+      "title": "Free Dynasty War Game - Action Packed Fun",
+      "description": "Join the action in Dynasty War! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dynasty-war-og.jpg",
+      "url": "https://littlegames.com/games/dynasty-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Dynasty War Game - Action Packed Fun",
+      "description": "Join the action in Dynasty War! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dynasty-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dynasty War",
+      "href": "/games/dynasty-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_338",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

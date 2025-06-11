@@ -1,0 +1,54 @@
+{
+  "gameId": 8506,
+  "slug": "zen-tile",
+  "metadata": {
+    "title": "Play Zen Tile - Free Action Game Online",
+    "description": "Zen Tile delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Zen Tile game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zen-tile",
+    "openGraph": {
+      "title": "Play Zen Tile - Free Action Game Online",
+      "description": "Zen Tile delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zen-tile-og.jpg",
+      "url": "https://littlegames.com/games/zen-tile",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zen Tile - Free Action Game Online",
+      "description": "Zen Tile delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zen-tile-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zen Tile",
+      "href": "/games/zen-tile",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_692",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

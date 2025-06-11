@@ -1,0 +1,54 @@
+{
+  "gameId": 2436,
+  "slug": "idle-balls",
+  "metadata": {
+    "title": "Action Game Idle Balls - Play Free Now",
+    "description": "Join the action in Idle Balls! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Idle Balls",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-balls",
+    "openGraph": {
+      "title": "Action Game Idle Balls - Play Free Now",
+      "description": "Join the action in Idle Balls! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/idle-balls-og.jpg",
+      "url": "https://littlegames.com/games/idle-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Idle Balls - Play Free Now",
+      "description": "Join the action in Idle Balls! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/idle-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Balls",
+      "href": "/games/idle-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_526",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

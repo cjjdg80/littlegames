@@ -1,0 +1,54 @@
+{
+  "gameId": 8166,
+  "slug": "idle-inventor",
+  "metadata": {
+    "title": "Play Idle Inventor - Free Action Game Online",
+    "description": "Experience thrilling action in Idle Inventor! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Idle Inventor game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/idle-inventor",
+    "openGraph": {
+      "title": "Play Idle Inventor - Free Action Game Online",
+      "description": "Experience thrilling action in Idle Inventor! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/idle-inventor-og.jpg",
+      "url": "https://littlegames.com/games/idle-inventor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Idle Inventor - Free Action Game Online",
+      "description": "Experience thrilling action in Idle Inventor! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/idle-inventor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Inventor",
+      "href": "/games/idle-inventor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_156",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

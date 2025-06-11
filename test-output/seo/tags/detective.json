@@ -1,0 +1,46 @@
+{
+  "tag": "detective",
+  "displayName": "Detective",
+  "metadata": {
+    "title": "Detective Games - Play Free Online",
+    "description": "Discover amazing detective games! Play 12 free games with detective theme. No downloads required.",
+    "keywords": [
+      "detective games",
+      "free online games",
+      "browser games",
+      "detective theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/detective",
+    "openGraph": {
+      "title": "Detective Games - Free Online Gaming",
+      "description": "Play the best detective games online for free. 12 games available.",
+      "image": "https://littlegames.com/images/tags/detective-og.jpg",
+      "url": "https://littlegames.com/tags/detective",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Detective Games - Free Online",
+      "description": "Play 12 free detective games online.",
+      "image": "https://littlegames.com/images/tags/detective-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Detective",
+      "href": "/tags/detective",
+      "current": true
+    }
+  ],
+  "description": "Discover games with detective theme! Our collection includes 12 carefully selected games that feature detective elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

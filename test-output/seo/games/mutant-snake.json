@@ -1,0 +1,54 @@
+{
+  "gameId": 6167,
+  "slug": "mutant-snake",
+  "metadata": {
+    "title": "Mutant Snake - Exciting Action Adventure Game",
+    "description": "Mutant Snake delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Mutant Snake online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mutant-snake",
+    "openGraph": {
+      "title": "Mutant Snake - Exciting Action Adventure Game",
+      "description": "Mutant Snake delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mutant-snake-og.jpg",
+      "url": "https://littlegames.com/games/mutant-snake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mutant Snake - Exciting Action Adventure Game",
+      "description": "Mutant Snake delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mutant-snake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mutant Snake",
+      "href": "/games/mutant-snake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_183",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4140,
+  "slug": "arcalona",
+  "metadata": {
+    "title": "Arcalona Online - Explore and Discover",
+    "description": "Embark on an epic journey in Arcalona! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+    "keywords": [
+      "adventure games",
+      "Arcalona",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/arcalona",
+    "openGraph": {
+      "title": "Arcalona Online - Explore and Discover",
+      "description": "Embark on an epic journey in Arcalona! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+      "image": "https://littlegames.com/images/games/arcalona-og.jpg",
+      "url": "https://littlegames.com/games/arcalona",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Arcalona Online - Explore and Discover",
+      "description": "Embark on an epic journey in Arcalona! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/arcalona-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Arcalona",
+      "href": "/games/arcalona",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_349",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

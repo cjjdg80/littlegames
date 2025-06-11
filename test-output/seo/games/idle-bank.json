@@ -1,0 +1,54 @@
+{
+  "gameId": 8798,
+  "slug": "idle-bank",
+  "metadata": {
+    "title": "Free Idle Bank Game - Action Packed Fun",
+    "description": "Experience thrilling action in Idle Bank! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Idle Bank",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-bank",
+    "openGraph": {
+      "title": "Free Idle Bank Game - Action Packed Fun",
+      "description": "Experience thrilling action in Idle Bank! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/idle-bank-og.jpg",
+      "url": "https://littlegames.com/games/idle-bank",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Idle Bank Game - Action Packed Fun",
+      "description": "Experience thrilling action in Idle Bank! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/idle-bank-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Bank",
+      "href": "/games/idle-bank",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_748",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

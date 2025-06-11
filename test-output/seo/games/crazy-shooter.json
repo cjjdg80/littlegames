@@ -1,0 +1,54 @@
+{
+  "gameId": 2305,
+  "slug": "crazy-shooter",
+  "metadata": {
+    "title": "Free Crazy Shooter Game - Action Packed Fun",
+    "description": "Crazy Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Crazy Shooter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-shooter",
+    "openGraph": {
+      "title": "Free Crazy Shooter Game - Action Packed Fun",
+      "description": "Crazy Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/crazy-shooter-og.jpg",
+      "url": "https://littlegames.com/games/crazy-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Crazy Shooter Game - Action Packed Fun",
+      "description": "Crazy Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/crazy-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crazy Shooter",
+      "href": "/games/crazy-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_461",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

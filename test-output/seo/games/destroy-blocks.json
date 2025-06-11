@@ -1,0 +1,54 @@
+{
+  "gameId": 4450,
+  "slug": "destroy-blocks",
+  "metadata": {
+    "title": "Destroy Blocks - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Destroy Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Destroy Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/destroy-blocks",
+    "openGraph": {
+      "title": "Destroy Blocks - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Destroy Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/destroy-blocks-og.jpg",
+      "url": "https://littlegames.com/games/destroy-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Destroy Blocks - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Destroy Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/destroy-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Destroy Blocks",
+      "href": "/games/destroy-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_956",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 134,
+  "slug": "atv-offroad-puzzle",
+  "metadata": {
+    "title": "Free ATV Offroad Puzzle Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with ATV Offroad Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "ATV Offroad Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/atv-offroad-puzzle",
+    "openGraph": {
+      "title": "Free ATV Offroad Puzzle Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with ATV Offroad Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/atv-offroad-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/atv-offroad-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free ATV Offroad Puzzle Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with ATV Offroad Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/atv-offroad-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "ATV Offroad Puzzle",
+      "href": "/games/atv-offroad-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_160",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

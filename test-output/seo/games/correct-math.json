@@ -1,0 +1,54 @@
+{
+  "gameId": 2988,
+  "slug": "correct-math",
+  "metadata": {
+    "title": "Play Correct Math - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Correct Math. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Correct Math",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/correct-math",
+    "openGraph": {
+      "title": "Play Correct Math - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Correct Math. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/correct-math-og.jpg",
+      "url": "https://littlegames.com/games/correct-math",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Correct Math - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Correct Math. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/correct-math-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Correct Math",
+      "href": "/games/correct-math",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_634",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

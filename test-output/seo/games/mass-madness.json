@@ -1,0 +1,54 @@
+{
+  "gameId": 922,
+  "slug": "mass-madness",
+  "metadata": {
+    "title": "Play Mass Madness - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Mass Madness. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Mass Madness game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/mass-madness",
+    "openGraph": {
+      "title": "Play Mass Madness - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mass Madness. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mass-madness-og.jpg",
+      "url": "https://littlegames.com/games/mass-madness",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mass Madness - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mass Madness. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mass-madness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mass Madness",
+      "href": "/games/mass-madness",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_588",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

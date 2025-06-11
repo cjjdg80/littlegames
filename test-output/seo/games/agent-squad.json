@@ -1,0 +1,54 @@
+{
+  "gameId": 9384,
+  "slug": "agent-squad",
+  "metadata": {
+    "title": "Agent Squad - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Agent Squad! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Agent Squad game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/agent-squad",
+    "openGraph": {
+      "title": "Agent Squad - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Agent Squad! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/agent-squad-og.jpg",
+      "url": "https://littlegames.com/games/agent-squad",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Agent Squad - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Agent Squad! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/agent-squad-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Agent Squad",
+      "href": "/games/agent-squad",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_910",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 236,
+  "slug": "homer-city-3d",
+  "metadata": {
+    "title": "Homer City 3D Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Homer City 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Homer City 3D",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/homer-city-3d",
+    "openGraph": {
+      "title": "Homer City 3D Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Homer City 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/homer-city-3d-og.jpg",
+      "url": "https://littlegames.com/games/homer-city-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Homer City 3D Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Homer City 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/homer-city-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Homer City 3D",
+      "href": "/games/homer-city-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_322",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

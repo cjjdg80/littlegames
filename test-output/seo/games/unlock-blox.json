@@ -1,0 +1,54 @@
+{
+  "gameId": 67,
+  "slug": "unlock-blox",
+  "metadata": {
+    "title": "Unlock Blox - Exciting Action Adventure Game",
+    "description": "Unlock Blox delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Unlock Blox game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/unlock-blox",
+    "openGraph": {
+      "title": "Unlock Blox - Exciting Action Adventure Game",
+      "description": "Unlock Blox delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/unlock-blox-og.jpg",
+      "url": "https://littlegames.com/games/unlock-blox",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Unlock Blox - Exciting Action Adventure Game",
+      "description": "Unlock Blox delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/unlock-blox-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Unlock Blox",
+      "href": "/games/unlock-blox",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_083",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

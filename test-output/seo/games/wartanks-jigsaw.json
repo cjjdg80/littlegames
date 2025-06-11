@@ -1,0 +1,54 @@
+{
+  "gameId": 2440,
+  "slug": "wartanks-jigsaw",
+  "metadata": {
+    "title": "WarTanks Jigsaw - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with WarTanks Jigsaw. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "WarTanks Jigsaw",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/wartanks-jigsaw",
+    "openGraph": {
+      "title": "WarTanks Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with WarTanks Jigsaw. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/wartanks-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/wartanks-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "WarTanks Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with WarTanks Jigsaw. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/wartanks-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "WarTanks Jigsaw",
+      "href": "/games/wartanks-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_646",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

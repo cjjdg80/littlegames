@@ -1,0 +1,54 @@
+{
+  "gameId": 4226,
+  "slug": "heroes-of-mangara",
+  "metadata": {
+    "title": "Heroes of Mangara Online - Explore and Discover",
+    "description": "Embark on an epic journey in Heroes of Mangara! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "Heroes of Mangara online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/heroes-of-mangara",
+    "openGraph": {
+      "title": "Heroes of Mangara Online - Explore and Discover",
+      "description": "Embark on an epic journey in Heroes of Mangara! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/heroes-of-mangara-og.jpg",
+      "url": "https://littlegames.com/games/heroes-of-mangara",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Heroes of Mangara Online - Explore and Discover",
+      "description": "Embark on an epic journey in Heroes of Mangara! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/heroes-of-mangara-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Heroes of Mangara",
+      "href": "/games/heroes-of-mangara",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_015",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

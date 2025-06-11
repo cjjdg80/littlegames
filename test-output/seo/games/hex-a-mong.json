@@ -1,0 +1,54 @@
+{
+  "gameId": 3726,
+  "slug": "hex-a-mong",
+  "metadata": {
+    "title": "Hex A Mong - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Hex A Mong! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Hex A Mong",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hex-a-mong",
+    "openGraph": {
+      "title": "Hex A Mong - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Hex A Mong! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hex-a-mong-og.jpg",
+      "url": "https://littlegames.com/games/hex-a-mong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hex A Mong - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Hex A Mong! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hex-a-mong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hex A Mong",
+      "href": "/games/hex-a-mong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_512",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

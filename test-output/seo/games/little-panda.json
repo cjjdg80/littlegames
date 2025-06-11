@@ -1,0 +1,54 @@
+{
+  "gameId": 5805,
+  "slug": "little-panda",
+  "metadata": {
+    "title": "Little Panda - Exciting Action Adventure Game",
+    "description": "Join the action in Little Panda! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Little Panda",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/little-panda",
+    "openGraph": {
+      "title": "Little Panda - Exciting Action Adventure Game",
+      "description": "Join the action in Little Panda! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/little-panda-og.jpg",
+      "url": "https://littlegames.com/games/little-panda",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Little Panda - Exciting Action Adventure Game",
+      "description": "Join the action in Little Panda! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/little-panda-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Little Panda",
+      "href": "/games/little-panda",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_961",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

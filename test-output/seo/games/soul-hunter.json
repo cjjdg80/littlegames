@@ -1,0 +1,54 @@
+{
+  "gameId": 5395,
+  "slug": "soul-hunter",
+  "metadata": {
+    "title": "Play Soul Hunter - Free Action Game Online",
+    "description": "Soul Hunter delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Soul Hunter online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/soul-hunter",
+    "openGraph": {
+      "title": "Play Soul Hunter - Free Action Game Online",
+      "description": "Soul Hunter delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/soul-hunter-og.jpg",
+      "url": "https://littlegames.com/games/soul-hunter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Soul Hunter - Free Action Game Online",
+      "description": "Soul Hunter delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/soul-hunter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Soul Hunter",
+      "href": "/games/soul-hunter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_251",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

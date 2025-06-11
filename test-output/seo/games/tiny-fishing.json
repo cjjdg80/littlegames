@@ -1,0 +1,54 @@
+{
+  "gameId": 2031,
+  "slug": "tiny-fishing",
+  "metadata": {
+    "title": "Action Game Tiny Fishing - Play Free Now",
+    "description": "Dive into the action-packed world of Tiny Fishing. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Tiny Fishing",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-fishing",
+    "openGraph": {
+      "title": "Action Game Tiny Fishing - Play Free Now",
+      "description": "Dive into the action-packed world of Tiny Fishing. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/tiny-fishing-og.jpg",
+      "url": "https://littlegames.com/games/tiny-fishing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tiny Fishing - Play Free Now",
+      "description": "Dive into the action-packed world of Tiny Fishing. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tiny-fishing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tiny Fishing",
+      "href": "/games/tiny-fishing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_967",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

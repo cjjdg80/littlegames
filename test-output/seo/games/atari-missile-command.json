@@ -1,0 +1,54 @@
+{
+  "gameId": 2268,
+  "slug": "atari-missile-command",
+  "metadata": {
+    "title": "Atari Missile Command - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Atari Missile Command! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Atari Missile Command game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/atari-missile-command",
+    "openGraph": {
+      "title": "Atari Missile Command - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Atari Missile Command! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/atari-missile-command-og.jpg",
+      "url": "https://littlegames.com/games/atari-missile-command",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Atari Missile Command - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Atari Missile Command! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/atari-missile-command-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Atari Missile Command",
+      "href": "/games/atari-missile-command",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_314",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

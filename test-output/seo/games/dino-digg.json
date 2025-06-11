@@ -1,0 +1,54 @@
+{
+  "gameId": 7626,
+  "slug": "dino-digg",
+  "metadata": {
+    "title": "Dino Digg Online - Explore and Discover",
+    "description": "Start your epic journey with Dino Digg! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Dino Digg game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/dino-digg",
+    "openGraph": {
+      "title": "Dino Digg Online - Explore and Discover",
+      "description": "Start your epic journey with Dino Digg! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dino-digg-og.jpg",
+      "url": "https://littlegames.com/games/dino-digg",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dino Digg Online - Explore and Discover",
+      "description": "Start your epic journey with Dino Digg! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/dino-digg-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dino Digg",
+      "href": "/games/dino-digg",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_415",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

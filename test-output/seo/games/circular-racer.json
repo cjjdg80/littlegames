@@ -1,0 +1,54 @@
+{
+  "gameId": 1742,
+  "slug": "circular-racer",
+  "metadata": {
+    "title": "Circular Racer - Exciting Action Adventure Game",
+    "description": "Circular Racer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Circular Racer",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/circular-racer",
+    "openGraph": {
+      "title": "Circular Racer - Exciting Action Adventure Game",
+      "description": "Circular Racer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/circular-racer-og.jpg",
+      "url": "https://littlegames.com/games/circular-racer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Circular Racer - Exciting Action Adventure Game",
+      "description": "Circular Racer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/circular-racer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Circular Racer",
+      "href": "/games/circular-racer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_008",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "hangman",
+  "displayName": "Hangman",
+  "metadata": {
+    "title": "Hangman Games - Play Free Online",
+    "description": "Discover amazing hangman games! Play 9 free games with hangman theme. No downloads required.",
+    "keywords": [
+      "hangman games",
+      "free online games",
+      "browser games",
+      "hangman theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/hangman",
+    "openGraph": {
+      "title": "Hangman Games - Free Online Gaming",
+      "description": "Play the best hangman games online for free. 9 games available.",
+      "image": "https://littlegames.com/images/tags/hangman-og.jpg",
+      "url": "https://littlegames.com/tags/hangman",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hangman Games - Free Online",
+      "description": "Play 9 free hangman games online.",
+      "image": "https://littlegames.com/images/tags/hangman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hangman",
+      "href": "/tags/hangman",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hangman theme! Our collection includes 9 carefully selected games that feature hangman elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

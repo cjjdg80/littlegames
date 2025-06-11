@@ -1,0 +1,54 @@
+{
+  "gameId": 8158,
+  "slug": "pet-fall",
+  "metadata": {
+    "title": "Play Pet Fall - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Pet Fall. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Pet Fall",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pet-fall",
+    "openGraph": {
+      "title": "Play Pet Fall - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Pet Fall. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pet-fall-og.jpg",
+      "url": "https://littlegames.com/games/pet-fall",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pet Fall - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Pet Fall. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pet-fall-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pet Fall",
+      "href": "/games/pet-fall",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_904",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

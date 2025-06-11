@@ -1,0 +1,54 @@
+{
+  "gameId": 7113,
+  "slug": "catch-the-cat",
+  "metadata": {
+    "title": "Play Catch The Cat - Free Action Game Online",
+    "description": "Join the action in Catch The Cat! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Catch The Cat game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/catch-the-cat",
+    "openGraph": {
+      "title": "Play Catch The Cat - Free Action Game Online",
+      "description": "Join the action in Catch The Cat! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/catch-the-cat-og.jpg",
+      "url": "https://littlegames.com/games/catch-the-cat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Catch The Cat - Free Action Game Online",
+      "description": "Join the action in Catch The Cat! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/catch-the-cat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Catch The Cat",
+      "href": "/games/catch-the-cat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_509",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3771,
+  "slug": "sizes-game",
+  "metadata": {
+    "title": "Sizes game - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Sizes game. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Sizes game",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sizes-game",
+    "openGraph": {
+      "title": "Sizes game - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Sizes game. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sizes-game-og.jpg",
+      "url": "https://littlegames.com/games/sizes-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sizes game - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Sizes game. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sizes-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sizes game",
+      "href": "/games/sizes-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_907",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

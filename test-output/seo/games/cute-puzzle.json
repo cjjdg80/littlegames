@@ -1,0 +1,54 @@
+{
+  "gameId": 5251,
+  "slug": "cute-puzzle",
+  "metadata": {
+    "title": "Cute Puzzle Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Cute Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Cute Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/cute-puzzle",
+    "openGraph": {
+      "title": "Cute Puzzle Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Cute Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/cute-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/cute-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cute Puzzle Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Cute Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/cute-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cute Puzzle",
+      "href": "/games/cute-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_787",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

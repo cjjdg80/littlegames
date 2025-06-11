@@ -1,0 +1,54 @@
+{
+  "gameId": 2465,
+  "slug": "candy-crusher",
+  "metadata": {
+    "title": "Free Candy Crusher Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Candy Crusher. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Candy Crusher game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/candy-crusher",
+    "openGraph": {
+      "title": "Free Candy Crusher Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Candy Crusher. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/candy-crusher-og.jpg",
+      "url": "https://littlegames.com/games/candy-crusher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Candy Crusher Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Candy Crusher. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/candy-crusher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Candy Crusher",
+      "href": "/games/candy-crusher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_421",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

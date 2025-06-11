@@ -1,0 +1,54 @@
+{
+  "gameId": 6311,
+  "slug": "bucket-crusher",
+  "metadata": {
+    "title": "Play Bucket Crusher - Free Action Game Online",
+    "description": "Bucket Crusher delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Bucket Crusher",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bucket-crusher",
+    "openGraph": {
+      "title": "Play Bucket Crusher - Free Action Game Online",
+      "description": "Bucket Crusher delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bucket-crusher-og.jpg",
+      "url": "https://littlegames.com/games/bucket-crusher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bucket Crusher - Free Action Game Online",
+      "description": "Bucket Crusher delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bucket-crusher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bucket Crusher",
+      "href": "/games/bucket-crusher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_647",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7432,
+  "slug": "grimelda-fun-house",
+  "metadata": {
+    "title": "Free Grimelda Fun House Game - Adventure Awaits",
+    "description": "Discover new worlds in Grimelda Fun House. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Grimelda Fun House game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/grimelda-fun-house",
+    "openGraph": {
+      "title": "Free Grimelda Fun House Game - Adventure Awaits",
+      "description": "Discover new worlds in Grimelda Fun House. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/grimelda-fun-house-og.jpg",
+      "url": "https://littlegames.com/games/grimelda-fun-house",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Grimelda Fun House Game - Adventure Awaits",
+      "description": "Discover new worlds in Grimelda Fun House. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/grimelda-fun-house-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Grimelda Fun House",
+      "href": "/games/grimelda-fun-house",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_401",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

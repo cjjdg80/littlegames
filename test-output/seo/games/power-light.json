@@ -1,0 +1,54 @@
+{
+  "gameId": 9481,
+  "slug": "power-light",
+  "metadata": {
+    "title": "Power Light Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Power Light! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Power Light online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/power-light",
+    "openGraph": {
+      "title": "Power Light Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Power Light! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/power-light-og.jpg",
+      "url": "https://littlegames.com/games/power-light",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Power Light Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Power Light! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/power-light-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Power Light",
+      "href": "/games/power-light",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_917",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

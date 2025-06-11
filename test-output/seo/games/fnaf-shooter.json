@@ -1,0 +1,54 @@
+{
+  "gameId": 4521,
+  "slug": "fnaf-shooter",
+  "metadata": {
+    "title": "Free FNaF Shooter Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in FNaF Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "FNaF Shooter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fnaf-shooter",
+    "openGraph": {
+      "title": "Free FNaF Shooter Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in FNaF Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fnaf-shooter-og.jpg",
+      "url": "https://littlegames.com/games/fnaf-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free FNaF Shooter Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in FNaF Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fnaf-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "FNaF Shooter",
+      "href": "/games/fnaf-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_157",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

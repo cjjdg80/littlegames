@@ -1,0 +1,54 @@
+{
+  "gameId": 5695,
+  "slug": "kings-clash",
+  "metadata": {
+    "title": "Play Kings Clash - Free Action Game Online",
+    "description": "Kings Clash delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "Kings Clash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/kings-clash",
+    "openGraph": {
+      "title": "Play Kings Clash - Free Action Game Online",
+      "description": "Kings Clash delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kings-clash-og.jpg",
+      "url": "https://littlegames.com/games/kings-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kings Clash - Free Action Game Online",
+      "description": "Kings Clash delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kings-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Kings Clash",
+      "href": "/games/kings-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_553",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

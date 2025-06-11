@@ -1,0 +1,54 @@
+{
+  "gameId": 1283,
+  "slug": "gems-shooter",
+  "metadata": {
+    "title": "Play Gems Shooter - Free Action Game Online",
+    "description": "Gems Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Gems Shooter",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gems-shooter",
+    "openGraph": {
+      "title": "Play Gems Shooter - Free Action Game Online",
+      "description": "Gems Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gems-shooter-og.jpg",
+      "url": "https://littlegames.com/games/gems-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gems Shooter - Free Action Game Online",
+      "description": "Gems Shooter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gems-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gems Shooter",
+      "href": "/games/gems-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_779",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

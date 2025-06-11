@@ -1,0 +1,54 @@
+{
+  "gameId": 3350,
+  "slug": "pool-party",
+  "metadata": {
+    "title": "Pool Party - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Pool Party. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Pool Party",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pool-party",
+    "openGraph": {
+      "title": "Pool Party - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Pool Party. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pool-party-og.jpg",
+      "url": "https://littlegames.com/games/pool-party",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pool Party - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Pool Party. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pool-party-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pool Party",
+      "href": "/games/pool-party",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_856",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

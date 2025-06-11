@@ -1,0 +1,54 @@
+{
+  "gameId": 8364,
+  "slug": "devs-simulator",
+  "metadata": {
+    "title": "Play Devs Simulator - Free Action Game Online",
+    "description": "Experience thrilling action in Devs Simulator! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Devs Simulator",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/devs-simulator",
+    "openGraph": {
+      "title": "Play Devs Simulator - Free Action Game Online",
+      "description": "Experience thrilling action in Devs Simulator! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/devs-simulator-og.jpg",
+      "url": "https://littlegames.com/games/devs-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Devs Simulator - Free Action Game Online",
+      "description": "Experience thrilling action in Devs Simulator! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/devs-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Devs Simulator",
+      "href": "/games/devs-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_290",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

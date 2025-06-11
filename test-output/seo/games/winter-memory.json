@@ -1,0 +1,54 @@
+{
+  "gameId": 3913,
+  "slug": "winter-memory",
+  "metadata": {
+    "title": "Free Winter Memory Game - Mind Bending Puzzles",
+    "description": "Winter Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Winter Memory",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/winter-memory",
+    "openGraph": {
+      "title": "Free Winter Memory Game - Mind Bending Puzzles",
+      "description": "Winter Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/winter-memory-og.jpg",
+      "url": "https://littlegames.com/games/winter-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Winter Memory Game - Mind Bending Puzzles",
+      "description": "Winter Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/winter-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Winter Memory",
+      "href": "/games/winter-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_309",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3430,
+  "slug": "polar-fall",
+  "metadata": {
+    "title": "Play Polar Fall - Free Action Game Online",
+    "description": "Polar Fall delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Polar Fall online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/polar-fall",
+    "openGraph": {
+      "title": "Play Polar Fall - Free Action Game Online",
+      "description": "Polar Fall delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/polar-fall-og.jpg",
+      "url": "https://littlegames.com/games/polar-fall",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Polar Fall - Free Action Game Online",
+      "description": "Polar Fall delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/polar-fall-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Polar Fall",
+      "href": "/games/polar-fall",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_336",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

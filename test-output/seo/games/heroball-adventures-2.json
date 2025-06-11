@@ -1,0 +1,54 @@
+{
+  "gameId": 9699,
+  "slug": "heroball-adventures-2",
+  "metadata": {
+    "title": "HeroBall Adventures 2 - Thrilling Adventure Quest",
+    "description": "Begin your quest in HeroBall Adventures 2. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "HeroBall Adventures 2 game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/heroball-adventures-2",
+    "openGraph": {
+      "title": "HeroBall Adventures 2 - Thrilling Adventure Quest",
+      "description": "Begin your quest in HeroBall Adventures 2. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/heroball-adventures-2-og.jpg",
+      "url": "https://littlegames.com/games/heroball-adventures-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "HeroBall Adventures 2 - Thrilling Adventure Quest",
+      "description": "Begin your quest in HeroBall Adventures 2. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/heroball-adventures-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "HeroBall Adventures 2",
+      "href": "/games/heroball-adventures-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_678",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

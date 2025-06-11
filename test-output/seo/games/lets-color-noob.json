@@ -1,0 +1,54 @@
+{
+  "gameId": 6507,
+  "slug": "lets-color-noob",
+  "metadata": {
+    "title": "Let's Color Noob Online - Explore and Discover",
+    "description": "Start your epic journey with Let's Color Noob! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Let's Color Noob",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/lets-color-noob",
+    "openGraph": {
+      "title": "Let's Color Noob Online - Explore and Discover",
+      "description": "Start your epic journey with Let's Color Noob! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/lets-color-noob-og.jpg",
+      "url": "https://littlegames.com/games/lets-color-noob",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Let's Color Noob Online - Explore and Discover",
+      "description": "Start your epic journey with Let's Color Noob! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/lets-color-noob-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Let's Color Noob",
+      "href": "/games/lets-color-noob",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_726",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

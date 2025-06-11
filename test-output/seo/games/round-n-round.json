@@ -1,0 +1,54 @@
+{
+  "gameId": 5922,
+  "slug": "round-n-round",
+  "metadata": {
+    "title": "Round N Round - Exciting Action Adventure Game",
+    "description": "Join the action in Round N Round! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Round N Round game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/round-n-round",
+    "openGraph": {
+      "title": "Round N Round - Exciting Action Adventure Game",
+      "description": "Join the action in Round N Round! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/round-n-round-og.jpg",
+      "url": "https://littlegames.com/games/round-n-round",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Round N Round - Exciting Action Adventure Game",
+      "description": "Join the action in Round N Round! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/round-n-round-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Round N Round",
+      "href": "/games/round-n-round",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_588",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

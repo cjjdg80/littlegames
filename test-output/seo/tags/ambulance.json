@@ -1,0 +1,46 @@
+{
+  "tag": "ambulance",
+  "displayName": "Ambulance",
+  "metadata": {
+    "title": "Ambulance Games - Play Free Online",
+    "description": "Discover amazing ambulance games! Play 7 free games with ambulance theme. No downloads required.",
+    "keywords": [
+      "ambulance games",
+      "free online games",
+      "browser games",
+      "ambulance theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/ambulance",
+    "openGraph": {
+      "title": "Ambulance Games - Free Online Gaming",
+      "description": "Play the best ambulance games online for free. 7 games available.",
+      "image": "https://littlegames.com/images/tags/ambulance-og.jpg",
+      "url": "https://littlegames.com/tags/ambulance",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ambulance Games - Free Online",
+      "description": "Play 7 free ambulance games online.",
+      "image": "https://littlegames.com/images/tags/ambulance-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Ambulance",
+      "href": "/tags/ambulance",
+      "current": true
+    }
+  ],
+  "description": "Discover games with ambulance theme! Our collection includes 7 carefully selected games that feature ambulance elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4557,
+  "slug": "just-vote",
+  "metadata": {
+    "title": "Free Just Vote! Game - Action Packed Fun",
+    "description": "Just Vote! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Just Vote!",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/just-vote",
+    "openGraph": {
+      "title": "Free Just Vote! Game - Action Packed Fun",
+      "description": "Just Vote! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/just-vote-og.jpg",
+      "url": "https://littlegames.com/games/just-vote",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Just Vote! Game - Action Packed Fun",
+      "description": "Just Vote! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/just-vote-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Just Vote!",
+      "href": "/games/just-vote",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_273",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

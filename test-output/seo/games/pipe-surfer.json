@@ -1,0 +1,54 @@
+{
+  "gameId": 6591,
+  "slug": "pipe-surfer",
+  "metadata": {
+    "title": "Free Pipe Surfer Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Pipe Surfer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Pipe Surfer game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pipe-surfer",
+    "openGraph": {
+      "title": "Free Pipe Surfer Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Pipe Surfer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pipe-surfer-og.jpg",
+      "url": "https://littlegames.com/games/pipe-surfer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pipe Surfer Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Pipe Surfer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pipe-surfer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pipe Surfer",
+      "href": "/games/pipe-surfer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_327",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

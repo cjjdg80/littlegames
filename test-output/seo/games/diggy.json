@@ -1,0 +1,54 @@
+{
+  "gameId": 4070,
+  "slug": "diggy",
+  "metadata": {
+    "title": "Free Diggy Game - Adventure Awaits",
+    "description": "Start your epic journey with Diggy! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Diggy online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/diggy",
+    "openGraph": {
+      "title": "Free Diggy Game - Adventure Awaits",
+      "description": "Start your epic journey with Diggy! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/diggy-og.jpg",
+      "url": "https://littlegames.com/games/diggy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Diggy Game - Adventure Awaits",
+      "description": "Start your epic journey with Diggy! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/diggy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Diggy",
+      "href": "/games/diggy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_179",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

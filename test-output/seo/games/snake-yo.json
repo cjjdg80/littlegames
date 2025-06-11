@@ -1,0 +1,54 @@
+{
+  "gameId": 5446,
+  "slug": "snake-yo",
+  "metadata": {
+    "title": "Free Snake Yo Game - Action Packed Fun",
+    "description": "Experience thrilling action in Snake Yo! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Snake Yo",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/snake-yo",
+    "openGraph": {
+      "title": "Free Snake Yo Game - Action Packed Fun",
+      "description": "Experience thrilling action in Snake Yo! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/snake-yo-og.jpg",
+      "url": "https://littlegames.com/games/snake-yo",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Snake Yo Game - Action Packed Fun",
+      "description": "Experience thrilling action in Snake Yo! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/snake-yo-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Snake Yo",
+      "href": "/games/snake-yo",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_832",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

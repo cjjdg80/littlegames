@@ -1,0 +1,54 @@
+{
+  "gameId": 5233,
+  "slug": "jump-dude",
+  "metadata": {
+    "title": "Play Jump Dude - Free Action Game Online",
+    "description": "Dive into the action-packed world of Jump Dude. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Jump Dude",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/jump-dude",
+    "openGraph": {
+      "title": "Play Jump Dude - Free Action Game Online",
+      "description": "Dive into the action-packed world of Jump Dude. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jump-dude-og.jpg",
+      "url": "https://littlegames.com/games/jump-dude",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jump Dude - Free Action Game Online",
+      "description": "Dive into the action-packed world of Jump Dude. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jump-dude-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jump Dude",
+      "href": "/games/jump-dude",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_229",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

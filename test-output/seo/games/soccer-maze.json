@@ -1,0 +1,54 @@
+{
+  "gameId": 7227,
+  "slug": "soccer-maze",
+  "metadata": {
+    "title": "Play Soccer Maze - Free Action Game Online",
+    "description": "Experience thrilling action in Soccer Maze! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Soccer Maze",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-maze",
+    "openGraph": {
+      "title": "Play Soccer Maze - Free Action Game Online",
+      "description": "Experience thrilling action in Soccer Maze! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/soccer-maze-og.jpg",
+      "url": "https://littlegames.com/games/soccer-maze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Soccer Maze - Free Action Game Online",
+      "description": "Experience thrilling action in Soccer Maze! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/soccer-maze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Soccer Maze",
+      "href": "/games/soccer-maze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_043",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "party",
+  "displayName": "Party",
+  "metadata": {
+    "title": "Party Games - Play Free Online",
+    "description": "Discover amazing party games! Play 63 free games with party theme. No downloads required.",
+    "keywords": [
+      "party games",
+      "free online games",
+      "browser games",
+      "party theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/party",
+    "openGraph": {
+      "title": "Party Games - Free Online Gaming",
+      "description": "Play the best party games online for free. 63 games available.",
+      "image": "https://littlegames.com/images/tags/party-og.jpg",
+      "url": "https://littlegames.com/tags/party",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Party Games - Free Online",
+      "description": "Play 63 free party games online.",
+      "image": "https://littlegames.com/images/tags/party-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Party",
+      "href": "/tags/party",
+      "current": true
+    }
+  ],
+  "description": "Discover games with party theme! Our collection includes 63 carefully selected games that feature party elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

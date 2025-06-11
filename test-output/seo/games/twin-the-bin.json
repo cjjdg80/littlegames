@@ -1,0 +1,54 @@
+{
+  "gameId": 4005,
+  "slug": "twin-the-bin",
+  "metadata": {
+    "title": "Action Game Twin the Bin - Play Free Now",
+    "description": "Experience thrilling action in Twin the Bin! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Twin the Bin online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/twin-the-bin",
+    "openGraph": {
+      "title": "Action Game Twin the Bin - Play Free Now",
+      "description": "Experience thrilling action in Twin the Bin! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/twin-the-bin-og.jpg",
+      "url": "https://littlegames.com/games/twin-the-bin",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Twin the Bin - Play Free Now",
+      "description": "Experience thrilling action in Twin the Bin! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/twin-the-bin-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Twin the Bin",
+      "href": "/games/twin-the-bin",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_161",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9834,
+  "slug": "flower-collection",
+  "metadata": {
+    "title": "Play Flower Collection - Free Action Game Online",
+    "description": "Experience thrilling action in Flower Collection! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Flower Collection game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/flower-collection",
+    "openGraph": {
+      "title": "Play Flower Collection - Free Action Game Online",
+      "description": "Experience thrilling action in Flower Collection! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/flower-collection-og.jpg",
+      "url": "https://littlegames.com/games/flower-collection",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Flower Collection - Free Action Game Online",
+      "description": "Experience thrilling action in Flower Collection! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/flower-collection-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Flower Collection",
+      "href": "/games/flower-collection",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_860",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 423,
+  "slug": "finger-spinner",
+  "metadata": {
+    "title": "Free Finger Spinner Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Finger Spinner. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Finger Spinner",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/finger-spinner",
+    "openGraph": {
+      "title": "Free Finger Spinner Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Finger Spinner. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/finger-spinner-og.jpg",
+      "url": "https://littlegames.com/games/finger-spinner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Finger Spinner Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Finger Spinner. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/finger-spinner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Finger Spinner",
+      "href": "/games/finger-spinner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_119",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

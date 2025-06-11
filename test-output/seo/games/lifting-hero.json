@@ -1,0 +1,54 @@
+{
+  "gameId": 7480,
+  "slug": "lifting-hero",
+  "metadata": {
+    "title": "Play Lifting Hero - Free Action Game Online",
+    "description": "Join the action in Lifting Hero! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Lifting Hero online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lifting-hero",
+    "openGraph": {
+      "title": "Play Lifting Hero - Free Action Game Online",
+      "description": "Join the action in Lifting Hero! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lifting-hero-og.jpg",
+      "url": "https://littlegames.com/games/lifting-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lifting Hero - Free Action Game Online",
+      "description": "Join the action in Lifting Hero! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lifting-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Lifting Hero",
+      "href": "/games/lifting-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_890",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

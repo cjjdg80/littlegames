@@ -1,0 +1,54 @@
+{
+  "gameId": 1540,
+  "slug": "paper-planes",
+  "metadata": {
+    "title": "Action Game Paper Planes - Play Free Now",
+    "description": "Join the action in Paper Planes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Paper Planes game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/paper-planes",
+    "openGraph": {
+      "title": "Action Game Paper Planes - Play Free Now",
+      "description": "Join the action in Paper Planes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-planes-og.jpg",
+      "url": "https://littlegames.com/games/paper-planes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Paper Planes - Play Free Now",
+      "description": "Join the action in Paper Planes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-planes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paper Planes",
+      "href": "/games/paper-planes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_746",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

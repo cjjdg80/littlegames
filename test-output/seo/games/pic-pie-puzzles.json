@@ -1,0 +1,54 @@
+{
+  "gameId": 4974,
+  "slug": "pic-pie-puzzles",
+  "metadata": {
+    "title": "Puzzle Game Pic Pie Puzzles - Test Your Skills",
+    "description": "Pic Pie Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Pic Pie Puzzles",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pic-pie-puzzles",
+    "openGraph": {
+      "title": "Puzzle Game Pic Pie Puzzles - Test Your Skills",
+      "description": "Pic Pie Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/pic-pie-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/pic-pie-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Pic Pie Puzzles - Test Your Skills",
+      "description": "Pic Pie Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/pic-pie-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pic Pie Puzzles",
+      "href": "/games/pic-pie-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_200",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

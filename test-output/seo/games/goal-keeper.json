@@ -1,0 +1,54 @@
+{
+  "gameId": 290,
+  "slug": "goal-keeper",
+  "metadata": {
+    "title": "Free Goal Keeper Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Goal Keeper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Goal Keeper game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/goal-keeper",
+    "openGraph": {
+      "title": "Free Goal Keeper Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Goal Keeper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/goal-keeper-og.jpg",
+      "url": "https://littlegames.com/games/goal-keeper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Goal Keeper Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Goal Keeper. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/goal-keeper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Goal Keeper",
+      "href": "/games/goal-keeper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_996",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2612,
+  "slug": "perfect-salon",
+  "metadata": {
+    "title": "Free Perfect Salon Game - Action Packed Fun",
+    "description": "Join the action in Perfect Salon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Perfect Salon",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/perfect-salon",
+    "openGraph": {
+      "title": "Free Perfect Salon Game - Action Packed Fun",
+      "description": "Join the action in Perfect Salon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/perfect-salon-og.jpg",
+      "url": "https://littlegames.com/games/perfect-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Perfect Salon Game - Action Packed Fun",
+      "description": "Join the action in Perfect Salon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/perfect-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Perfect Salon",
+      "href": "/games/perfect-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_978",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

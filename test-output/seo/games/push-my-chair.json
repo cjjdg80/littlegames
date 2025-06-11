@@ -1,0 +1,54 @@
+{
+  "gameId": 6295,
+  "slug": "push-my-chair",
+  "metadata": {
+    "title": "Play Push My Chair - Free Action Game Online",
+    "description": "Push My Chair delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Push My Chair",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/push-my-chair",
+    "openGraph": {
+      "title": "Play Push My Chair - Free Action Game Online",
+      "description": "Push My Chair delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/push-my-chair-og.jpg",
+      "url": "https://littlegames.com/games/push-my-chair",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Push My Chair - Free Action Game Online",
+      "description": "Push My Chair delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/push-my-chair-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Push My Chair",
+      "href": "/games/push-my-chair",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_151",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8153,
+  "slug": "bus-collect",
+  "metadata": {
+    "title": "Play Bus Collect - Free Action Game Online",
+    "description": "Join the action in Bus Collect! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Bus Collect",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bus-collect",
+    "openGraph": {
+      "title": "Play Bus Collect - Free Action Game Online",
+      "description": "Join the action in Bus Collect! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bus-collect-og.jpg",
+      "url": "https://littlegames.com/games/bus-collect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bus Collect - Free Action Game Online",
+      "description": "Join the action in Bus Collect! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bus-collect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bus Collect",
+      "href": "/games/bus-collect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_749",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

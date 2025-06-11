@@ -1,0 +1,54 @@
+{
+  "gameId": 5802,
+  "slug": "fridge-master",
+  "metadata": {
+    "title": "Fridge Master - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Fridge Master. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Fridge Master online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fridge-master",
+    "openGraph": {
+      "title": "Fridge Master - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fridge Master. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fridge-master-og.jpg",
+      "url": "https://littlegames.com/games/fridge-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fridge Master - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fridge Master. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fridge-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fridge Master",
+      "href": "/games/fridge-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_868",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

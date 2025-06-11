@@ -1,0 +1,54 @@
+{
+  "gameId": 7575,
+  "slug": "space-room-escape",
+  "metadata": {
+    "title": "Free Space Room Escape Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Space Room Escape. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Space Room Escape game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/space-room-escape",
+    "openGraph": {
+      "title": "Free Space Room Escape Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Space Room Escape. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/space-room-escape-og.jpg",
+      "url": "https://littlegames.com/games/space-room-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Space Room Escape Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Space Room Escape. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/space-room-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Space Room Escape",
+      "href": "/games/space-room-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_831",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

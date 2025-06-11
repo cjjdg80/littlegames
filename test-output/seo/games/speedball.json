@@ -1,0 +1,54 @@
+{
+  "gameId": 2867,
+  "slug": "speedball",
+  "metadata": {
+    "title": "SpeedBall - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in SpeedBall. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "SpeedBall game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/speedball",
+    "openGraph": {
+      "title": "SpeedBall - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in SpeedBall. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/speedball-og.jpg",
+      "url": "https://littlegames.com/games/speedball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SpeedBall - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in SpeedBall. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/speedball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "SpeedBall",
+      "href": "/games/speedball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_883",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

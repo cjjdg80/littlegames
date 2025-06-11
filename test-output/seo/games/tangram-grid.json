@@ -1,0 +1,54 @@
+{
+  "gameId": 5164,
+  "slug": "tangram-grid",
+  "metadata": {
+    "title": "Free Tangram Grid Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Tangram Grid! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Tangram Grid",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/tangram-grid",
+    "openGraph": {
+      "title": "Free Tangram Grid Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Tangram Grid! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/tangram-grid-og.jpg",
+      "url": "https://littlegames.com/games/tangram-grid",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tangram Grid Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Tangram Grid! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/tangram-grid-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tangram Grid",
+      "href": "/games/tangram-grid",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_090",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

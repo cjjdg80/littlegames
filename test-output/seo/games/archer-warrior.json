@@ -1,0 +1,54 @@
+{
+  "gameId": 653,
+  "slug": "archer-warrior",
+  "metadata": {
+    "title": "Archer Warrior Online - Ultimate Action Gaming Experience",
+    "description": "Archer Warrior delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Archer Warrior game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/archer-warrior",
+    "openGraph": {
+      "title": "Archer Warrior Online - Ultimate Action Gaming Experience",
+      "description": "Archer Warrior delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/archer-warrior-og.jpg",
+      "url": "https://littlegames.com/games/archer-warrior",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Archer Warrior Online - Ultimate Action Gaming Experience",
+      "description": "Archer Warrior delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/archer-warrior-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Archer Warrior",
+      "href": "/games/archer-warrior",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_249",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

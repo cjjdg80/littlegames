@@ -1,0 +1,54 @@
+{
+  "gameId": 6663,
+  "slug": "attack-hole-online",
+  "metadata": {
+    "title": "Attack Hole Online - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Attack Hole Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Attack Hole Online",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/attack-hole-online",
+    "openGraph": {
+      "title": "Attack Hole Online - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Attack Hole Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/attack-hole-online-og.jpg",
+      "url": "https://littlegames.com/games/attack-hole-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Attack Hole Online - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Attack Hole Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/attack-hole-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Attack Hole Online",
+      "href": "/games/attack-hole-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_562",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

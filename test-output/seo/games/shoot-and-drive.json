@@ -1,0 +1,54 @@
+{
+  "gameId": 9840,
+  "slug": "shoot-and-drive",
+  "metadata": {
+    "title": "Free Shoot And Drive Game - Action Packed Fun",
+    "description": "Experience thrilling action in Shoot And Drive! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Shoot And Drive online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/shoot-and-drive",
+    "openGraph": {
+      "title": "Free Shoot And Drive Game - Action Packed Fun",
+      "description": "Experience thrilling action in Shoot And Drive! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/shoot-and-drive-og.jpg",
+      "url": "https://littlegames.com/games/shoot-and-drive",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Shoot And Drive Game - Action Packed Fun",
+      "description": "Experience thrilling action in Shoot And Drive! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/shoot-and-drive-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shoot And Drive",
+      "href": "/games/shoot-and-drive",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_046",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

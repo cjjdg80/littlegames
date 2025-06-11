@@ -1,0 +1,54 @@
+{
+  "gameId": 7747,
+  "slug": "pet-salon",
+  "metadata": {
+    "title": "Pet Salon Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Pet Salon. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Pet Salon",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pet-salon",
+    "openGraph": {
+      "title": "Pet Salon Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Pet Salon. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pet-salon-og.jpg",
+      "url": "https://littlegames.com/games/pet-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pet Salon Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Pet Salon. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pet-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pet Salon",
+      "href": "/games/pet-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_163",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

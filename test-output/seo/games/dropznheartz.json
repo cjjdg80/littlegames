@@ -1,0 +1,54 @@
+{
+  "gameId": 4307,
+  "slug": "dropznheartz",
+  "metadata": {
+    "title": "Dropz'n'Heartz! - Exciting Action Adventure Game",
+    "description": "Dropz'n'Heartz! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Dropz'n'Heartz!",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dropznheartz",
+    "openGraph": {
+      "title": "Dropz'n'Heartz! - Exciting Action Adventure Game",
+      "description": "Dropz'n'Heartz! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dropznheartz-og.jpg",
+      "url": "https://littlegames.com/games/dropznheartz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dropz'n'Heartz! - Exciting Action Adventure Game",
+      "description": "Dropz'n'Heartz! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dropznheartz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dropz'n'Heartz!",
+      "href": "/games/dropznheartz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_523",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

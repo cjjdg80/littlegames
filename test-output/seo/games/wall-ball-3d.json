@@ -1,0 +1,54 @@
+{
+  "gameId": 2876,
+  "slug": "wall-ball-3d",
+  "metadata": {
+    "title": "Wall Ball 3D - Exciting Action Adventure Game",
+    "description": "Wall Ball 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Wall Ball 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/wall-ball-3d",
+    "openGraph": {
+      "title": "Wall Ball 3D - Exciting Action Adventure Game",
+      "description": "Wall Ball 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/wall-ball-3d-og.jpg",
+      "url": "https://littlegames.com/games/wall-ball-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wall Ball 3D - Exciting Action Adventure Game",
+      "description": "Wall Ball 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/wall-ball-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wall Ball 3D",
+      "href": "/games/wall-ball-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_162",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6782,
+  "slug": "zoocraft",
+  "metadata": {
+    "title": "Free ZooCraft Game - Action Packed Fun",
+    "description": "Experience thrilling action in ZooCraft! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "ZooCraft game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zoocraft",
+    "openGraph": {
+      "title": "Free ZooCraft Game - Action Packed Fun",
+      "description": "Experience thrilling action in ZooCraft! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/zoocraft-og.jpg",
+      "url": "https://littlegames.com/games/zoocraft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free ZooCraft Game - Action Packed Fun",
+      "description": "Experience thrilling action in ZooCraft! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zoocraft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "ZooCraft",
+      "href": "/games/zoocraft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_248",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

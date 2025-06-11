@@ -1,0 +1,54 @@
+{
+  "gameId": 2209,
+  "slug": "line-road",
+  "metadata": {
+    "title": "Free Line Road Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Line Road. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Line Road",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/line-road",
+    "openGraph": {
+      "title": "Free Line Road Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Line Road. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/line-road-og.jpg",
+      "url": "https://littlegames.com/games/line-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Line Road Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Line Road. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/line-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Line Road",
+      "href": "/games/line-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_485",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

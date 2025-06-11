@@ -1,0 +1,54 @@
+{
+  "gameId": 3485,
+  "slug": "dalgona-memory",
+  "metadata": {
+    "title": "Puzzle Game Dalgona Memory - Test Your Skills",
+    "description": "Dalgona Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Dalgona Memory game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/dalgona-memory",
+    "openGraph": {
+      "title": "Puzzle Game Dalgona Memory - Test Your Skills",
+      "description": "Dalgona Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/dalgona-memory-og.jpg",
+      "url": "https://littlegames.com/games/dalgona-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Dalgona Memory - Test Your Skills",
+      "description": "Dalgona Memory offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/dalgona-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dalgona Memory",
+      "href": "/games/dalgona-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_041",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

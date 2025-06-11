@@ -1,0 +1,54 @@
+{
+  "gameId": 4937,
+  "slug": "gun-guys",
+  "metadata": {
+    "title": "Action Game Gun Guys - Play Free Now",
+    "description": "Dive into the action-packed world of Gun Guys. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Gun Guys",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/gun-guys",
+    "openGraph": {
+      "title": "Action Game Gun Guys - Play Free Now",
+      "description": "Dive into the action-packed world of Gun Guys. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gun-guys-og.jpg",
+      "url": "https://littlegames.com/games/gun-guys",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Gun Guys - Play Free Now",
+      "description": "Dive into the action-packed world of Gun Guys. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gun-guys-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gun Guys",
+      "href": "/games/gun-guys",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_053",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

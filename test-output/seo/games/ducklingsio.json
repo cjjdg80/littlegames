@@ -1,0 +1,54 @@
+{
+  "gameId": 2863,
+  "slug": "ducklingsio",
+  "metadata": {
+    "title": "Ducklings.io Online - Ultimate Action Gaming Experience",
+    "description": "Ducklings.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Ducklings.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ducklingsio",
+    "openGraph": {
+      "title": "Ducklings.io Online - Ultimate Action Gaming Experience",
+      "description": "Ducklings.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ducklingsio-og.jpg",
+      "url": "https://littlegames.com/games/ducklingsio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ducklings.io Online - Ultimate Action Gaming Experience",
+      "description": "Ducklings.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ducklingsio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ducklings.io",
+      "href": "/games/ducklingsio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_759",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

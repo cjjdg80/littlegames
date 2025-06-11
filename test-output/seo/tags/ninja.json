@@ -1,0 +1,46 @@
+{
+  "tag": "ninja",
+  "displayName": "Ninja",
+  "metadata": {
+    "title": "Ninja Games - Play Free Online",
+    "description": "Discover amazing ninja games! Play 58 free games with ninja theme. No downloads required.",
+    "keywords": [
+      "ninja games",
+      "free online games",
+      "browser games",
+      "ninja theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/ninja",
+    "openGraph": {
+      "title": "Ninja Games - Free Online Gaming",
+      "description": "Play the best ninja games online for free. 58 games available.",
+      "image": "https://littlegames.com/images/tags/ninja-og.jpg",
+      "url": "https://littlegames.com/tags/ninja",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Games - Free Online",
+      "description": "Play 58 free ninja games online.",
+      "image": "https://littlegames.com/images/tags/ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Ninja",
+      "href": "/tags/ninja",
+      "current": true
+    }
+  ],
+  "description": "Discover games with ninja theme! Our collection includes 58 carefully selected games that feature ninja elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6616,
+  "slug": "truth-runner",
+  "metadata": {
+    "title": "Truth Runner Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Truth Runner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Truth Runner online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/truth-runner",
+    "openGraph": {
+      "title": "Truth Runner Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Truth Runner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/truth-runner-og.jpg",
+      "url": "https://littlegames.com/games/truth-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Truth Runner Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Truth Runner! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/truth-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Truth Runner",
+      "href": "/games/truth-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_102",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

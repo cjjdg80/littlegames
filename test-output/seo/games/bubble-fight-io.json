@@ -1,0 +1,54 @@
+{
+  "gameId": 4132,
+  "slug": "bubble-fight-io",
+  "metadata": {
+    "title": "Free Bubble Fight IO Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Bubble Fight IO. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bubble Fight IO game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-fight-io",
+    "openGraph": {
+      "title": "Free Bubble Fight IO Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Bubble Fight IO. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-fight-io-og.jpg",
+      "url": "https://littlegames.com/games/bubble-fight-io",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bubble Fight IO Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Bubble Fight IO. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-fight-io-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Fight IO",
+      "href": "/games/bubble-fight-io",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_098",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

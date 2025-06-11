@@ -1,0 +1,54 @@
+{
+  "gameId": 1307,
+  "slug": "flappy-rocket",
+  "metadata": {
+    "title": "Flappy Rocket - Exciting Action Adventure Game",
+    "description": "Flappy Rocket delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Flappy Rocket",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-rocket",
+    "openGraph": {
+      "title": "Flappy Rocket - Exciting Action Adventure Game",
+      "description": "Flappy Rocket delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flappy-rocket-og.jpg",
+      "url": "https://littlegames.com/games/flappy-rocket",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flappy Rocket - Exciting Action Adventure Game",
+      "description": "Flappy Rocket delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flappy-rocket-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flappy Rocket",
+      "href": "/games/flappy-rocket",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_523",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

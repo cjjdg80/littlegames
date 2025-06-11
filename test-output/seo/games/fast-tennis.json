@@ -1,0 +1,54 @@
+{
+  "gameId": 3759,
+  "slug": "fast-tennis",
+  "metadata": {
+    "title": "Fast Tennis Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Fast Tennis! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Fast Tennis game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fast-tennis",
+    "openGraph": {
+      "title": "Fast Tennis Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fast Tennis! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fast-tennis-og.jpg",
+      "url": "https://littlegames.com/games/fast-tennis",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fast Tennis Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fast Tennis! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fast-tennis-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Fast Tennis",
+      "href": "/games/fast-tennis",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_535",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1188,
+  "slug": "pinball-football",
+  "metadata": {
+    "title": "Pinball Football Online - Ultimate Action Gaming Experience",
+    "description": "Pinball Football delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Pinball Football game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pinball-football",
+    "openGraph": {
+      "title": "Pinball Football Online - Ultimate Action Gaming Experience",
+      "description": "Pinball Football delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pinball-football-og.jpg",
+      "url": "https://littlegames.com/games/pinball-football",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pinball Football Online - Ultimate Action Gaming Experience",
+      "description": "Pinball Football delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pinball-football-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pinball Football",
+      "href": "/games/pinball-football",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_834",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

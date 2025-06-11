@@ -1,0 +1,54 @@
+{
+  "gameId": 2267,
+  "slug": "falling-gifts",
+  "metadata": {
+    "title": "Free Falling Gifts Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Falling Gifts. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Falling Gifts",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/falling-gifts",
+    "openGraph": {
+      "title": "Free Falling Gifts Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Falling Gifts. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/falling-gifts-og.jpg",
+      "url": "https://littlegames.com/games/falling-gifts",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Falling Gifts Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Falling Gifts. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/falling-gifts-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Falling Gifts",
+      "href": "/games/falling-gifts",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_283",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

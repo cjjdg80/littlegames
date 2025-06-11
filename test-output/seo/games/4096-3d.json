@@ -1,0 +1,54 @@
+{
+  "gameId": 3988,
+  "slug": "4096-3d",
+  "metadata": {
+    "title": "4096 3D - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with 4096 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "4096 3D",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/4096-3d",
+    "openGraph": {
+      "title": "4096 3D - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with 4096 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/4096-3d-og.jpg",
+      "url": "https://littlegames.com/games/4096-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "4096 3D - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with 4096 3D. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/4096-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "4096 3D",
+      "href": "/games/4096-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_634",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

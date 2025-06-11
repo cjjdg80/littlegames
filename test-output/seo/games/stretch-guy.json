@@ -1,0 +1,54 @@
+{
+  "gameId": 2163,
+  "slug": "stretch-guy",
+  "metadata": {
+    "title": "Action Game Stretch Guy - Play Free Now",
+    "description": "Join the action in Stretch Guy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Stretch Guy",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stretch-guy",
+    "openGraph": {
+      "title": "Action Game Stretch Guy - Play Free Now",
+      "description": "Join the action in Stretch Guy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stretch-guy-og.jpg",
+      "url": "https://littlegames.com/games/stretch-guy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Stretch Guy - Play Free Now",
+      "description": "Join the action in Stretch Guy! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stretch-guy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stretch Guy",
+      "href": "/games/stretch-guy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_059",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

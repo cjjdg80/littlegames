@@ -1,0 +1,54 @@
+{
+  "gameId": 2411,
+  "slug": "zoo-pinball",
+  "metadata": {
+    "title": "Zoo Pinball Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Zoo Pinball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Zoo Pinball",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/zoo-pinball",
+    "openGraph": {
+      "title": "Zoo Pinball Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Zoo Pinball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zoo-pinball-og.jpg",
+      "url": "https://littlegames.com/games/zoo-pinball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zoo Pinball Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Zoo Pinball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zoo-pinball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zoo Pinball",
+      "href": "/games/zoo-pinball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_747",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

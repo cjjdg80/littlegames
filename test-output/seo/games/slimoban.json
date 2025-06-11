@@ -1,0 +1,54 @@
+{
+  "gameId": 1585,
+  "slug": "slimoban",
+  "metadata": {
+    "title": "Free Slimoban Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Slimoban. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Slimoban",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/slimoban",
+    "openGraph": {
+      "title": "Free Slimoban Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Slimoban. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slimoban-og.jpg",
+      "url": "https://littlegames.com/games/slimoban",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Slimoban Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Slimoban. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slimoban-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Slimoban",
+      "href": "/games/slimoban",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_141",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

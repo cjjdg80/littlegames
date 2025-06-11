@@ -1,0 +1,54 @@
+{
+  "gameId": 7396,
+  "slug": "goods-sort-master",
+  "metadata": {
+    "title": "Goods Sort Master Online - Logic and Strategy Game",
+    "description": "Goods Sort Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Goods Sort Master online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/goods-sort-master",
+    "openGraph": {
+      "title": "Goods Sort Master Online - Logic and Strategy Game",
+      "description": "Goods Sort Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/goods-sort-master-og.jpg",
+      "url": "https://littlegames.com/games/goods-sort-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Goods Sort Master Online - Logic and Strategy Game",
+      "description": "Goods Sort Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/goods-sort-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Goods Sort Master",
+      "href": "/games/goods-sort-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_282",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

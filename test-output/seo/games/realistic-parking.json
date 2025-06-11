@@ -1,0 +1,54 @@
+{
+  "gameId": 2562,
+  "slug": "realistic-parking",
+  "metadata": {
+    "title": "Realistic Parking Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Realistic Parking! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Realistic Parking",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/realistic-parking",
+    "openGraph": {
+      "title": "Realistic Parking Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Realistic Parking! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/realistic-parking-og.jpg",
+      "url": "https://littlegames.com/games/realistic-parking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Realistic Parking Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Realistic Parking! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/realistic-parking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Realistic Parking",
+      "href": "/games/realistic-parking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_428",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

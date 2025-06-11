@@ -1,0 +1,54 @@
+{
+  "gameId": 6697,
+  "slug": "park-me",
+  "metadata": {
+    "title": "Puzzle Game Park Me - Test Your Skills",
+    "description": "Challenge your mind with Park Me! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Park Me",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/park-me",
+    "openGraph": {
+      "title": "Puzzle Game Park Me - Test Your Skills",
+      "description": "Challenge your mind with Park Me! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/park-me-og.jpg",
+      "url": "https://littlegames.com/games/park-me",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Park Me - Test Your Skills",
+      "description": "Challenge your mind with Park Me! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/park-me-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Park Me",
+      "href": "/games/park-me",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_613",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

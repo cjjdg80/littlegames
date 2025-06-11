@@ -1,0 +1,54 @@
+{
+  "gameId": 3111,
+  "slug": "white-dot",
+  "metadata": {
+    "title": "White Dot Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of White Dot. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "White Dot",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/white-dot",
+    "openGraph": {
+      "title": "White Dot Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of White Dot. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/white-dot-og.jpg",
+      "url": "https://littlegames.com/games/white-dot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "White Dot Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of White Dot. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/white-dot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "White Dot",
+      "href": "/games/white-dot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_447",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

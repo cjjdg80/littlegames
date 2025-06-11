@@ -1,0 +1,54 @@
+{
+  "gameId": 1772,
+  "slug": "pong-ball-masters",
+  "metadata": {
+    "title": "Play Pong Ball Masters - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Pong Ball Masters. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Pong Ball Masters game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pong-ball-masters",
+    "openGraph": {
+      "title": "Play Pong Ball Masters - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Pong Ball Masters. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/pong-ball-masters-og.jpg",
+      "url": "https://littlegames.com/games/pong-ball-masters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pong Ball Masters - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Pong Ball Masters. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pong-ball-masters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pong Ball Masters",
+      "href": "/games/pong-ball-masters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_938",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

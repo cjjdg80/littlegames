@@ -1,0 +1,54 @@
+{
+  "gameId": 8627,
+  "slug": "pirates-mahjong",
+  "metadata": {
+    "title": "Pirates Mahjong Online - Ultimate Action Gaming Experience",
+    "description": "Pirates Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Pirates Mahjong",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pirates-mahjong",
+    "openGraph": {
+      "title": "Pirates Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Pirates Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pirates-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/pirates-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pirates Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Pirates Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pirates-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pirates Mahjong",
+      "href": "/games/pirates-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_443",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

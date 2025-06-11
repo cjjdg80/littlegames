@@ -1,0 +1,54 @@
+{
+  "gameId": 3589,
+  "slug": "halloween-link",
+  "metadata": {
+    "title": "Free Halloween Link Game - Action Packed Fun",
+    "description": "Halloween Link delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Halloween Link game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-link",
+    "openGraph": {
+      "title": "Free Halloween Link Game - Action Packed Fun",
+      "description": "Halloween Link delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/halloween-link-og.jpg",
+      "url": "https://littlegames.com/games/halloween-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Halloween Link Game - Action Packed Fun",
+      "description": "Halloween Link delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/halloween-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Halloween Link",
+      "href": "/games/halloween-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_265",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

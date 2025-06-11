@@ -1,0 +1,54 @@
+{
+  "gameId": 2134,
+  "slug": "draw-parking",
+  "metadata": {
+    "title": "Draw Parking Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Draw Parking. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Draw Parking",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-parking",
+    "openGraph": {
+      "title": "Draw Parking Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Draw Parking. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/draw-parking-og.jpg",
+      "url": "https://littlegames.com/games/draw-parking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw Parking Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Draw Parking. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/draw-parking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Draw Parking",
+      "href": "/games/draw-parking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_160",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

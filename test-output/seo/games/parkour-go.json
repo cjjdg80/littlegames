@@ -1,0 +1,54 @@
+{
+  "gameId": 5178,
+  "slug": "parkour-go",
+  "metadata": {
+    "title": "Action Game Parkour GO - Play Free Now",
+    "description": "Parkour GO delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Parkour GO",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-go",
+    "openGraph": {
+      "title": "Action Game Parkour GO - Play Free Now",
+      "description": "Parkour GO delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/parkour-go-og.jpg",
+      "url": "https://littlegames.com/games/parkour-go",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Parkour GO - Play Free Now",
+      "description": "Parkour GO delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/parkour-go-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parkour GO",
+      "href": "/games/parkour-go",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_524",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

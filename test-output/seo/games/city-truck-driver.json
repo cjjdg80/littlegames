@@ -1,0 +1,54 @@
+{
+  "gameId": 3601,
+  "slug": "city-truck-driver",
+  "metadata": {
+    "title": "City Truck Driver - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in City Truck Driver. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "City Truck Driver online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/city-truck-driver",
+    "openGraph": {
+      "title": "City Truck Driver - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in City Truck Driver. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/city-truck-driver-og.jpg",
+      "url": "https://littlegames.com/games/city-truck-driver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "City Truck Driver - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in City Truck Driver. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/city-truck-driver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "City Truck Driver",
+      "href": "/games/city-truck-driver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_637",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

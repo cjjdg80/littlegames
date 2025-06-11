@@ -1,0 +1,54 @@
+{
+  "gameId": 5665,
+  "slug": "home-makeover",
+  "metadata": {
+    "title": "Free Home Makeover Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Home Makeover. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Home Makeover online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/home-makeover",
+    "openGraph": {
+      "title": "Free Home Makeover Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Home Makeover. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/home-makeover-og.jpg",
+      "url": "https://littlegames.com/games/home-makeover",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Home Makeover Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Home Makeover. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/home-makeover-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Home Makeover",
+      "href": "/games/home-makeover",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_621",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

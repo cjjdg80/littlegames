@@ -1,0 +1,54 @@
+{
+  "gameId": 2791,
+  "slug": "candy-puzzle-blocks",
+  "metadata": {
+    "title": "Puzzle Game Candy Puzzle Blocks - Test Your Skills",
+    "description": "Put your thinking skills to the test in Candy Puzzle Blocks. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Candy Puzzle Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/candy-puzzle-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Candy Puzzle Blocks - Test Your Skills",
+      "description": "Put your thinking skills to the test in Candy Puzzle Blocks. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/candy-puzzle-blocks-og.jpg",
+      "url": "https://littlegames.com/games/candy-puzzle-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Candy Puzzle Blocks - Test Your Skills",
+      "description": "Put your thinking skills to the test in Candy Puzzle Blocks. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/candy-puzzle-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Candy Puzzle Blocks",
+      "href": "/games/candy-puzzle-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_527",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

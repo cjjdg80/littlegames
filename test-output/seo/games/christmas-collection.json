@@ -1,0 +1,54 @@
+{
+  "gameId": 2080,
+  "slug": "christmas-collection",
+  "metadata": {
+    "title": "Action Game Christmas Collection - Play Free Now",
+    "description": "Christmas Collection delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Christmas Collection",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-collection",
+    "openGraph": {
+      "title": "Action Game Christmas Collection - Play Free Now",
+      "description": "Christmas Collection delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/christmas-collection-og.jpg",
+      "url": "https://littlegames.com/games/christmas-collection",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Christmas Collection - Play Free Now",
+      "description": "Christmas Collection delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/christmas-collection-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Christmas Collection",
+      "href": "/games/christmas-collection",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_486",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8643,
+  "slug": "paint-race",
+  "metadata": {
+    "title": "Paint race - Exciting Action Adventure Game",
+    "description": "Join the action in Paint race! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Paint race game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/paint-race",
+    "openGraph": {
+      "title": "Paint race - Exciting Action Adventure Game",
+      "description": "Join the action in Paint race! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paint-race-og.jpg",
+      "url": "https://littlegames.com/games/paint-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paint race - Exciting Action Adventure Game",
+      "description": "Join the action in Paint race! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paint-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paint race",
+      "href": "/games/paint-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_939",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

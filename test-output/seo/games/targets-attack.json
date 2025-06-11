@@ -1,0 +1,54 @@
+{
+  "gameId": 5596,
+  "slug": "targets-attack",
+  "metadata": {
+    "title": "Targets Attack - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Targets Attack! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Targets Attack",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/targets-attack",
+    "openGraph": {
+      "title": "Targets Attack - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Targets Attack! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/targets-attack-og.jpg",
+      "url": "https://littlegames.com/games/targets-attack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Targets Attack - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Targets Attack! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/targets-attack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Targets Attack",
+      "href": "/games/targets-attack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_482",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

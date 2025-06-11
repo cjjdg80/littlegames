@@ -1,0 +1,54 @@
+{
+  "gameId": 7587,
+  "slug": "merge-fruit-time",
+  "metadata": {
+    "title": "Play Merge Fruit Time - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Merge Fruit Time. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Merge Fruit Time",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-fruit-time",
+    "openGraph": {
+      "title": "Play Merge Fruit Time - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Merge Fruit Time. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-fruit-time-og.jpg",
+      "url": "https://littlegames.com/games/merge-fruit-time",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Merge Fruit Time - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Merge Fruit Time. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-fruit-time-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Fruit Time",
+      "href": "/games/merge-fruit-time",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_203",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

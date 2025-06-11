@@ -1,0 +1,54 @@
+{
+  "gameId": 1757,
+  "slug": "princess-fashion-quiz",
+  "metadata": {
+    "title": "Free Princess Fashion Quiz Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Princess Fashion Quiz. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Princess Fashion Quiz game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/princess-fashion-quiz",
+    "openGraph": {
+      "title": "Free Princess Fashion Quiz Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Princess Fashion Quiz. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/princess-fashion-quiz-og.jpg",
+      "url": "https://littlegames.com/games/princess-fashion-quiz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Princess Fashion Quiz Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Princess Fashion Quiz. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/princess-fashion-quiz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Princess Fashion Quiz",
+      "href": "/games/princess-fashion-quiz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_473",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

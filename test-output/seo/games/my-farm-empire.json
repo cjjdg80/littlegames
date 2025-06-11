@@ -1,0 +1,54 @@
+{
+  "gameId": 8357,
+  "slug": "my-farm-empire",
+  "metadata": {
+    "title": "My Farm Empire - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of My Farm Empire. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "My Farm Empire online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/my-farm-empire",
+    "openGraph": {
+      "title": "My Farm Empire - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of My Farm Empire. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/my-farm-empire-og.jpg",
+      "url": "https://littlegames.com/games/my-farm-empire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Farm Empire - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of My Farm Empire. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/my-farm-empire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "My Farm Empire",
+      "href": "/games/my-farm-empire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_073",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

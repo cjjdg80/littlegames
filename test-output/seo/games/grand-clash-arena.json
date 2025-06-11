@@ -1,0 +1,54 @@
+{
+  "gameId": 8209,
+  "slug": "grand-clash-arena",
+  "metadata": {
+    "title": "Action Game Grand Clash Arena - Play Free Now",
+    "description": "Experience thrilling action in Grand Clash Arena! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Grand Clash Arena game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/grand-clash-arena",
+    "openGraph": {
+      "title": "Action Game Grand Clash Arena - Play Free Now",
+      "description": "Experience thrilling action in Grand Clash Arena! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/grand-clash-arena-og.jpg",
+      "url": "https://littlegames.com/games/grand-clash-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Grand Clash Arena - Play Free Now",
+      "description": "Experience thrilling action in Grand Clash Arena! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/grand-clash-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Grand Clash Arena",
+      "href": "/games/grand-clash-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_485",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

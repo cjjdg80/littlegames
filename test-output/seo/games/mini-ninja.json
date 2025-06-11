@@ -1,0 +1,54 @@
+{
+  "gameId": 460,
+  "slug": "mini-ninja",
+  "metadata": {
+    "title": "Mini Ninja - Thrilling Adventure Quest",
+    "description": "Begin your quest in Mini Ninja. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Mini Ninja online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/mini-ninja",
+    "openGraph": {
+      "title": "Mini Ninja - Thrilling Adventure Quest",
+      "description": "Begin your quest in Mini Ninja. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/mini-ninja-og.jpg",
+      "url": "https://littlegames.com/games/mini-ninja",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mini Ninja - Thrilling Adventure Quest",
+      "description": "Begin your quest in Mini Ninja. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/mini-ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mini Ninja",
+      "href": "/games/mini-ninja",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_269",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

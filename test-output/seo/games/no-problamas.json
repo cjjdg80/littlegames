@@ -1,0 +1,54 @@
+{
+  "gameId": 2911,
+  "slug": "no-problamas",
+  "metadata": {
+    "title": "No Problamas Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in No Problamas! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "No Problamas",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/no-problamas",
+    "openGraph": {
+      "title": "No Problamas Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in No Problamas! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/no-problamas-og.jpg",
+      "url": "https://littlegames.com/games/no-problamas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "No Problamas Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in No Problamas! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/no-problamas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "No Problamas",
+      "href": "/games/no-problamas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_247",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

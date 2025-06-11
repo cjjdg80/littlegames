@@ -1,0 +1,54 @@
+{
+  "gameId": 1385,
+  "slug": "bubble-cave",
+  "metadata": {
+    "title": "Bubble Cave Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Bubble Cave. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bubble Cave online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-cave",
+    "openGraph": {
+      "title": "Bubble Cave Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Bubble Cave. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-cave-og.jpg",
+      "url": "https://littlegames.com/games/bubble-cave",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Cave Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Bubble Cave. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-cave-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Cave",
+      "href": "/games/bubble-cave",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_941",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

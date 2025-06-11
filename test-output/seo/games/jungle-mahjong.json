@@ -1,0 +1,54 @@
+{
+  "gameId": 6690,
+  "slug": "jungle-mahjong",
+  "metadata": {
+    "title": "Jungle Mahjong Online - Ultimate Action Gaming Experience",
+    "description": "Jungle Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Jungle Mahjong game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jungle-mahjong",
+    "openGraph": {
+      "title": "Jungle Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Jungle Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jungle-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/jungle-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jungle Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Jungle Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jungle-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jungle Mahjong",
+      "href": "/games/jungle-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_396",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

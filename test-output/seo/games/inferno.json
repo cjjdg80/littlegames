@@ -1,0 +1,54 @@
+{
+  "gameId": 4311,
+  "slug": "inferno",
+  "metadata": {
+    "title": "Inferno - Thrilling Adventure Quest",
+    "description": "Begin your quest in Inferno. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Inferno",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/inferno",
+    "openGraph": {
+      "title": "Inferno - Thrilling Adventure Quest",
+      "description": "Begin your quest in Inferno. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/inferno-og.jpg",
+      "url": "https://littlegames.com/games/inferno",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Inferno - Thrilling Adventure Quest",
+      "description": "Begin your quest in Inferno. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/inferno-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Inferno",
+      "href": "/games/inferno",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_650",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

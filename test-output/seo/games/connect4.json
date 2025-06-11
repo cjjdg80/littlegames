@@ -1,0 +1,54 @@
+{
+  "gameId": 1088,
+  "slug": "connect4",
+  "metadata": {
+    "title": "Play Connect4 - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Connect4. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Connect4 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/connect4",
+    "openGraph": {
+      "title": "Play Connect4 - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Connect4. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/connect4-og.jpg",
+      "url": "https://littlegames.com/games/connect4",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Connect4 - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Connect4. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/connect4-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connect4",
+      "href": "/games/connect4",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_734",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

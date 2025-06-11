@@ -1,0 +1,54 @@
+{
+  "gameId": 1978,
+  "slug": "mr-fight",
+  "metadata": {
+    "title": "Mr Fight - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Mr Fight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Mr Fight online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mr-fight",
+    "openGraph": {
+      "title": "Mr Fight - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mr Fight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mr-fight-og.jpg",
+      "url": "https://littlegames.com/games/mr-fight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mr Fight - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mr Fight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mr-fight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr Fight",
+      "href": "/games/mr-fight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_324",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

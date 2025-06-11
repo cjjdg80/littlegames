@@ -1,0 +1,54 @@
+{
+  "gameId": 7754,
+  "slug": "is-it-right",
+  "metadata": {
+    "title": "Is it right - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Is it right. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Is it right",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/is-it-right",
+    "openGraph": {
+      "title": "Is it right - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Is it right. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/is-it-right-og.jpg",
+      "url": "https://littlegames.com/games/is-it-right",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Is it right - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Is it right. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/is-it-right-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Is it right",
+      "href": "/games/is-it-right",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_380",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

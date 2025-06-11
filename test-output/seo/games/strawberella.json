@@ -1,0 +1,54 @@
+{
+  "gameId": 6956,
+  "slug": "strawberella",
+  "metadata": {
+    "title": "Action Game Strawberella - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Strawberella. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Strawberella game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/strawberella",
+    "openGraph": {
+      "title": "Action Game Strawberella - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Strawberella. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/strawberella-og.jpg",
+      "url": "https://littlegames.com/games/strawberella",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Strawberella - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Strawberella. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/strawberella-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Strawberella",
+      "href": "/games/strawberella",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_642",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

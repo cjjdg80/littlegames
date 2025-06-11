@@ -1,0 +1,54 @@
+{
+  "gameId": 5776,
+  "slug": "vex-7",
+  "metadata": {
+    "title": "Action Game Vex 7 - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Vex 7. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Vex 7",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/vex-7",
+    "openGraph": {
+      "title": "Action Game Vex 7 - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Vex 7. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/vex-7-og.jpg",
+      "url": "https://littlegames.com/games/vex-7",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Vex 7 - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Vex 7. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/vex-7-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Vex 7",
+      "href": "/games/vex-7",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_062",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

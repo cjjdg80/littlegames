@@ -1,0 +1,46 @@
+{
+  "tag": "jumping",
+  "displayName": "Jumping",
+  "metadata": {
+    "title": "Jumping Games - Play Free Online",
+    "description": "Discover amazing jumping games! Play 313 free games with jumping theme. No downloads required.",
+    "keywords": [
+      "jumping games",
+      "free online games",
+      "browser games",
+      "jumping theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/jumping",
+    "openGraph": {
+      "title": "Jumping Games - Free Online Gaming",
+      "description": "Play the best jumping games online for free. 313 games available.",
+      "image": "https://littlegames.com/images/tags/jumping-og.jpg",
+      "url": "https://littlegames.com/tags/jumping",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jumping Games - Free Online",
+      "description": "Play 313 free jumping games online.",
+      "image": "https://littlegames.com/images/tags/jumping-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Jumping",
+      "href": "/tags/jumping",
+      "current": true
+    }
+  ],
+  "description": "Discover games with jumping theme! Our collection includes 313 carefully selected games that feature jumping elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

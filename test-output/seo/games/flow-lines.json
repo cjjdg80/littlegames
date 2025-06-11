@@ -1,0 +1,54 @@
+{
+  "gameId": 507,
+  "slug": "flow-lines",
+  "metadata": {
+    "title": "Flow Lines - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Flow Lines. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Flow Lines online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/flow-lines",
+    "openGraph": {
+      "title": "Flow Lines - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Flow Lines. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/flow-lines-og.jpg",
+      "url": "https://littlegames.com/games/flow-lines",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flow Lines - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Flow Lines. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/flow-lines-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Flow Lines",
+      "href": "/games/flow-lines",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_723",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

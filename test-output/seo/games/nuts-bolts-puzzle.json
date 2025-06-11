@@ -1,0 +1,54 @@
+{
+  "gameId": 7842,
+  "slug": "nuts-bolts-puzzle",
+  "metadata": {
+    "title": "Nuts & Bolts Puzzle Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Nuts & Bolts Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Nuts & Bolts Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/nuts-bolts-puzzle",
+    "openGraph": {
+      "title": "Nuts & Bolts Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Nuts & Bolts Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/nuts-bolts-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/nuts-bolts-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Nuts & Bolts Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Nuts & Bolts Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/nuts-bolts-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Nuts & Bolts Puzzle",
+      "href": "/games/nuts-bolts-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_108",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

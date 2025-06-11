@@ -1,0 +1,54 @@
+{
+  "gameId": 5265,
+  "slug": "zombies-survival",
+  "metadata": {
+    "title": "Action Game Zombies Survival - Play Free Now",
+    "description": "Join the action in Zombies Survival! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Zombies Survival online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zombies-survival",
+    "openGraph": {
+      "title": "Action Game Zombies Survival - Play Free Now",
+      "description": "Join the action in Zombies Survival! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombies-survival-og.jpg",
+      "url": "https://littlegames.com/games/zombies-survival",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Zombies Survival - Play Free Now",
+      "description": "Join the action in Zombies Survival! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombies-survival-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombies Survival",
+      "href": "/games/zombies-survival",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_221",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

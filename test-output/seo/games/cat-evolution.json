@@ -1,0 +1,54 @@
+{
+  "gameId": 8847,
+  "slug": "cat-evolution",
+  "metadata": {
+    "title": "Action Game Cat Evolution - Play Free Now",
+    "description": "Dive into the action-packed world of Cat Evolution. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Cat Evolution game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cat-evolution",
+    "openGraph": {
+      "title": "Action Game Cat Evolution - Play Free Now",
+      "description": "Dive into the action-packed world of Cat Evolution. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/cat-evolution-og.jpg",
+      "url": "https://littlegames.com/games/cat-evolution",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Cat Evolution - Play Free Now",
+      "description": "Dive into the action-packed world of Cat Evolution. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cat-evolution-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cat Evolution",
+      "href": "/games/cat-evolution",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_263",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

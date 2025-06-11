@@ -1,0 +1,54 @@
+{
+  "gameId": 1702,
+  "slug": "reflex-ball",
+  "metadata": {
+    "title": "Play Reflex Ball - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Reflex Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Reflex Ball online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/reflex-ball",
+    "openGraph": {
+      "title": "Play Reflex Ball - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Reflex Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/reflex-ball-og.jpg",
+      "url": "https://littlegames.com/games/reflex-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Reflex Ball - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Reflex Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/reflex-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Reflex Ball",
+      "href": "/games/reflex-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_768",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

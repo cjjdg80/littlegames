@@ -1,0 +1,54 @@
+{
+  "gameId": 9825,
+  "slug": "brilliant-jewels",
+  "metadata": {
+    "title": "Free Brilliant Jewels Game - Action Packed Fun",
+    "description": "Experience thrilling action in Brilliant Jewels! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Brilliant Jewels game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/brilliant-jewels",
+    "openGraph": {
+      "title": "Free Brilliant Jewels Game - Action Packed Fun",
+      "description": "Experience thrilling action in Brilliant Jewels! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/brilliant-jewels-og.jpg",
+      "url": "https://littlegames.com/games/brilliant-jewels",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brilliant Jewels Game - Action Packed Fun",
+      "description": "Experience thrilling action in Brilliant Jewels! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/brilliant-jewels-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Brilliant Jewels",
+      "href": "/games/brilliant-jewels",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_581",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

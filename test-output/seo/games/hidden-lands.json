@@ -1,0 +1,54 @@
+{
+  "gameId": 2606,
+  "slug": "hidden-lands",
+  "metadata": {
+    "title": "Hidden Lands - Thrilling Adventure Quest",
+    "description": "Begin your quest in Hidden Lands. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Hidden Lands",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hidden-lands",
+    "openGraph": {
+      "title": "Hidden Lands - Thrilling Adventure Quest",
+      "description": "Begin your quest in Hidden Lands. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/hidden-lands-og.jpg",
+      "url": "https://littlegames.com/games/hidden-lands",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hidden Lands - Thrilling Adventure Quest",
+      "description": "Begin your quest in Hidden Lands. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/hidden-lands-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hidden Lands",
+      "href": "/games/hidden-lands",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_795",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 390,
+  "slug": "pong-football",
+  "metadata": {
+    "title": "Pong Football Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Pong Football. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Pong Football game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pong-football",
+    "openGraph": {
+      "title": "Pong Football Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Pong Football. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pong-football-og.jpg",
+      "url": "https://littlegames.com/games/pong-football",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pong Football Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Pong Football. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pong-football-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pong Football",
+      "href": "/games/pong-football",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_096",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

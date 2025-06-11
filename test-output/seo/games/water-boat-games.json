@@ -1,0 +1,54 @@
+{
+  "gameId": 1807,
+  "slug": "water-boat-games",
+  "metadata": {
+    "title": "Water Boat Games - Thrilling Adventure Quest",
+    "description": "Water Boat Games offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Water Boat Games game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/water-boat-games",
+    "openGraph": {
+      "title": "Water Boat Games - Thrilling Adventure Quest",
+      "description": "Water Boat Games offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/water-boat-games-og.jpg",
+      "url": "https://littlegames.com/games/water-boat-games",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Water Boat Games - Thrilling Adventure Quest",
+      "description": "Water Boat Games offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/water-boat-games-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Water Boat Games",
+      "href": "/games/water-boat-games",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_026",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6112,
+  "slug": "funny-shooter-2",
+  "metadata": {
+    "title": "Funny Shooter 2 - Exciting Action Adventure Game",
+    "description": "Funny Shooter 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Funny Shooter 2 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/funny-shooter-2",
+    "openGraph": {
+      "title": "Funny Shooter 2 - Exciting Action Adventure Game",
+      "description": "Funny Shooter 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-shooter-2-og.jpg",
+      "url": "https://littlegames.com/games/funny-shooter-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Funny Shooter 2 - Exciting Action Adventure Game",
+      "description": "Funny Shooter 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-shooter-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Funny Shooter 2",
+      "href": "/games/funny-shooter-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_478",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

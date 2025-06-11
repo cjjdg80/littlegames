@@ -1,0 +1,54 @@
+{
+  "gameId": 1966,
+  "slug": "my-pony-designer",
+  "metadata": {
+    "title": "Free My Pony Designer Game - Action Packed Fun",
+    "description": "My Pony Designer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "My Pony Designer",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/my-pony-designer",
+    "openGraph": {
+      "title": "Free My Pony Designer Game - Action Packed Fun",
+      "description": "My Pony Designer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/my-pony-designer-og.jpg",
+      "url": "https://littlegames.com/games/my-pony-designer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free My Pony Designer Game - Action Packed Fun",
+      "description": "My Pony Designer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/my-pony-designer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "My Pony Designer",
+      "href": "/games/my-pony-designer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_952",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 37,
+  "slug": "perfect-pipes",
+  "metadata": {
+    "title": "Perfect Pipes Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Perfect Pipes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Perfect Pipes",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/perfect-pipes",
+    "openGraph": {
+      "title": "Perfect Pipes Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Perfect Pipes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/perfect-pipes-og.jpg",
+      "url": "https://littlegames.com/games/perfect-pipes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Perfect Pipes Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Perfect Pipes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/perfect-pipes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Perfect Pipes",
+      "href": "/games/perfect-pipes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_153",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

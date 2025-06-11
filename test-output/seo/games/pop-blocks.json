@@ -1,0 +1,54 @@
+{
+  "gameId": 5828,
+  "slug": "pop-blocks",
+  "metadata": {
+    "title": "Puzzle Game Pop Blocks - Test Your Skills",
+    "description": "Exercise your brain with Pop Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Pop Blocks online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/pop-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Pop Blocks - Test Your Skills",
+      "description": "Exercise your brain with Pop Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pop-blocks-og.jpg",
+      "url": "https://littlegames.com/games/pop-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Pop Blocks - Test Your Skills",
+      "description": "Exercise your brain with Pop Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/pop-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pop Blocks",
+      "href": "/games/pop-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_674",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

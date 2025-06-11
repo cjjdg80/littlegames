@@ -1,0 +1,54 @@
+{
+  "gameId": 6910,
+  "slug": "pool-float-party",
+  "metadata": {
+    "title": "Free Pool Float Party Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Pool Float Party. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Pool Float Party online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pool-float-party",
+    "openGraph": {
+      "title": "Free Pool Float Party Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Pool Float Party. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pool-float-party-og.jpg",
+      "url": "https://littlegames.com/games/pool-float-party",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pool Float Party Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Pool Float Party. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pool-float-party-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pool Float Party",
+      "href": "/games/pool-float-party",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_216",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

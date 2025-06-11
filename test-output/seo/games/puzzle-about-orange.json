@@ -1,0 +1,54 @@
+{
+  "gameId": 9497,
+  "slug": "puzzle-about-orange",
+  "metadata": {
+    "title": "Puzzle About Orange Online - Ultimate Action Gaming...",
+    "description": "Dive into the action-packed world of Puzzle About Orange. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Puzzle About Orange",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-about-orange",
+    "openGraph": {
+      "title": "Puzzle About Orange Online - Ultimate Action Gaming...",
+      "description": "Dive into the action-packed world of Puzzle About Orange. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/puzzle-about-orange-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-about-orange",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle About Orange Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Puzzle About Orange. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/puzzle-about-orange-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Puzzle About Orange",
+      "href": "/games/puzzle-about-orange",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_413",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

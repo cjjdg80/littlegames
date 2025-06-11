@@ -1,0 +1,54 @@
+{
+  "gameId": 8261,
+  "slug": "draw-bridge-challenge",
+  "metadata": {
+    "title": "Draw Bridge Challenge - Exciting Action Adventure Game",
+    "description": "Join the action in Draw Bridge Challenge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Draw Bridge Challenge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/draw-bridge-challenge",
+    "openGraph": {
+      "title": "Draw Bridge Challenge - Exciting Action Adventure Game",
+      "description": "Join the action in Draw Bridge Challenge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/draw-bridge-challenge-og.jpg",
+      "url": "https://littlegames.com/games/draw-bridge-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw Bridge Challenge - Exciting Action Adventure Game",
+      "description": "Join the action in Draw Bridge Challenge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/draw-bridge-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw Bridge Challenge",
+      "href": "/games/draw-bridge-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_097",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2955,
+  "slug": "funny-faces",
+  "metadata": {
+    "title": "Action Game Funny Faces - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Funny Faces. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Funny Faces",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/funny-faces",
+    "openGraph": {
+      "title": "Action Game Funny Faces - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Funny Faces. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/funny-faces-og.jpg",
+      "url": "https://littlegames.com/games/funny-faces",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Funny Faces - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Funny Faces. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/funny-faces-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Funny Faces",
+      "href": "/games/funny-faces",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_611",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4854,
+  "slug": "healing-rush",
+  "metadata": {
+    "title": "Action Game Healing Rush - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Healing Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Healing Rush",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/healing-rush",
+    "openGraph": {
+      "title": "Action Game Healing Rush - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Healing Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/healing-rush-og.jpg",
+      "url": "https://littlegames.com/games/healing-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Healing Rush - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Healing Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/healing-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Healing Rush",
+      "href": "/games/healing-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_480",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 123,
+  "slug": "super-warrior-match-3",
+  "metadata": {
+    "title": "Super Warrior Match 3 - Exciting Action Adventure Game",
+    "description": "Join the action in Super Warrior Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Super Warrior Match 3 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/super-warrior-match-3",
+    "openGraph": {
+      "title": "Super Warrior Match 3 - Exciting Action Adventure Game",
+      "description": "Join the action in Super Warrior Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-warrior-match-3-og.jpg",
+      "url": "https://littlegames.com/games/super-warrior-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Warrior Match 3 - Exciting Action Adventure Game",
+      "description": "Join the action in Super Warrior Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-warrior-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Warrior Match 3",
+      "href": "/games/super-warrior-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_819",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

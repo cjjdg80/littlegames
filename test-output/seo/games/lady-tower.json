@@ -1,0 +1,54 @@
+{
+  "gameId": 2763,
+  "slug": "lady-tower",
+  "metadata": {
+    "title": "Lady Tower - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Lady Tower. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Lady Tower online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lady-tower",
+    "openGraph": {
+      "title": "Lady Tower - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Lady Tower. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/lady-tower-og.jpg",
+      "url": "https://littlegames.com/games/lady-tower",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Lady Tower - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Lady Tower. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/lady-tower-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Lady Tower",
+      "href": "/games/lady-tower",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_659",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

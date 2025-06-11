@@ -1,0 +1,54 @@
+{
+  "gameId": 5626,
+  "slug": "2048-ball-buster",
+  "metadata": {
+    "title": "Play 2048 Ball Buster - Free Action Game Online",
+    "description": "2048 Ball Buster delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "2048 Ball Buster online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/2048-ball-buster",
+    "openGraph": {
+      "title": "Play 2048 Ball Buster - Free Action Game Online",
+      "description": "2048 Ball Buster delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048-ball-buster-og.jpg",
+      "url": "https://littlegames.com/games/2048-ball-buster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2048 Ball Buster - Free Action Game Online",
+      "description": "2048 Ball Buster delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048-ball-buster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2048 Ball Buster",
+      "href": "/games/2048-ball-buster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_412",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

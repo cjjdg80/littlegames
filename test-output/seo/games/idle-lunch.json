@@ -1,0 +1,54 @@
+{
+  "gameId": 8737,
+  "slug": "idle-lunch",
+  "metadata": {
+    "title": "Idle Lunch - Exciting Action Adventure Game",
+    "description": "Join the action in Idle Lunch! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Idle Lunch",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-lunch",
+    "openGraph": {
+      "title": "Idle Lunch - Exciting Action Adventure Game",
+      "description": "Join the action in Idle Lunch! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/idle-lunch-og.jpg",
+      "url": "https://littlegames.com/games/idle-lunch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idle Lunch - Exciting Action Adventure Game",
+      "description": "Join the action in Idle Lunch! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/idle-lunch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Idle Lunch",
+      "href": "/games/idle-lunch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_853",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

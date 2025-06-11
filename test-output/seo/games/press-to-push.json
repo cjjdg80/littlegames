@@ -1,0 +1,54 @@
+{
+  "gameId": 204,
+  "slug": "press-to-push",
+  "metadata": {
+    "title": "Play Press to Push - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Press to Push. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Press to Push game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/press-to-push",
+    "openGraph": {
+      "title": "Play Press to Push - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Press to Push. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/press-to-push-og.jpg",
+      "url": "https://littlegames.com/games/press-to-push",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Press to Push - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Press to Push. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/press-to-push-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Press to Push",
+      "href": "/games/press-to-push",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_330",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8742,
+  "slug": "cars-merge",
+  "metadata": {
+    "title": "Cars Merge Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cars Merge. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cars Merge online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cars-merge",
+    "openGraph": {
+      "title": "Cars Merge Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cars Merge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cars-merge-og.jpg",
+      "url": "https://littlegames.com/games/cars-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cars Merge Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cars Merge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cars-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cars Merge",
+      "href": "/games/cars-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_008",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8212,
+  "slug": "tiny-cars",
+  "metadata": {
+    "title": "Tiny Cars - Exciting Action Adventure Game",
+    "description": "Join the action in Tiny Cars! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Tiny Cars online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-cars",
+    "openGraph": {
+      "title": "Tiny Cars - Exciting Action Adventure Game",
+      "description": "Join the action in Tiny Cars! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tiny-cars-og.jpg",
+      "url": "https://littlegames.com/games/tiny-cars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tiny Cars - Exciting Action Adventure Game",
+      "description": "Join the action in Tiny Cars! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tiny-cars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tiny Cars",
+      "href": "/games/tiny-cars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_578",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

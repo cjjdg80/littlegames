@@ -1,0 +1,54 @@
+{
+  "gameId": 3901,
+  "slug": "hero-3-flying-robot",
+  "metadata": {
+    "title": "Free Hero 3 Flying Robot Game - Adventure Awaits",
+    "description": "Start your epic journey with Hero 3 Flying Robot! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Hero 3 Flying Robot",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hero-3-flying-robot",
+    "openGraph": {
+      "title": "Free Hero 3 Flying Robot Game - Adventure Awaits",
+      "description": "Start your epic journey with Hero 3 Flying Robot! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hero-3-flying-robot-og.jpg",
+      "url": "https://littlegames.com/games/hero-3-flying-robot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hero 3 Flying Robot Game - Adventure Awaits",
+      "description": "Start your epic journey with Hero 3 Flying Robot! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hero-3-flying-robot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hero 3 Flying Robot",
+      "href": "/games/hero-3-flying-robot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_940",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 129,
+  "slug": "parking-jam-3d",
+  "metadata": {
+    "title": "Parking Jam 3D Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Parking Jam 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Parking Jam 3D",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/parking-jam-3d",
+    "openGraph": {
+      "title": "Parking Jam 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Parking Jam 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/parking-jam-3d-og.jpg",
+      "url": "https://littlegames.com/games/parking-jam-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parking Jam 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Parking Jam 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/parking-jam-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Parking Jam 3D",
+      "href": "/games/parking-jam-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_005",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

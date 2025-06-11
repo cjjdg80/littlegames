@@ -1,0 +1,54 @@
+{
+  "gameId": 5441,
+  "slug": "mahjong-relax",
+  "metadata": {
+    "title": "Mahjong Relax Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Mahjong Relax. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Mahjong Relax",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-relax",
+    "openGraph": {
+      "title": "Mahjong Relax Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Mahjong Relax. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mahjong-relax-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-relax",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong Relax Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Mahjong Relax. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mahjong-relax-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Relax",
+      "href": "/games/mahjong-relax",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_677",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

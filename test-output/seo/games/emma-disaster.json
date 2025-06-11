@@ -1,0 +1,54 @@
+{
+  "gameId": 1754,
+  "slug": "emma-disaster",
+  "metadata": {
+    "title": "Emma Disaster - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Emma Disaster. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Emma Disaster game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/emma-disaster",
+    "openGraph": {
+      "title": "Emma Disaster - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Emma Disaster. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/emma-disaster-og.jpg",
+      "url": "https://littlegames.com/games/emma-disaster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Emma Disaster - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Emma Disaster. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/emma-disaster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Emma Disaster",
+      "href": "/games/emma-disaster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_380",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

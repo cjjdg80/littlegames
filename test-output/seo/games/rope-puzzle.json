@@ -1,0 +1,54 @@
+{
+  "gameId": 4027,
+  "slug": "rope-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Rope Puzzle - Test Your Skills",
+    "description": "Put your thinking skills to the test in Rope Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Rope Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/rope-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Rope Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Rope Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/rope-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/rope-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Rope Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Rope Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/rope-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Rope Puzzle",
+      "href": "/games/rope-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_843",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

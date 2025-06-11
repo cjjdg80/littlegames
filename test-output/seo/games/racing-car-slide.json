@@ -1,0 +1,54 @@
+{
+  "gameId": 373,
+  "slug": "racing-car-slide",
+  "metadata": {
+    "title": "Racing Car Slide Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Racing Car Slide. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Racing Car Slide",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/racing-car-slide",
+    "openGraph": {
+      "title": "Racing Car Slide Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Racing Car Slide. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/racing-car-slide-og.jpg",
+      "url": "https://littlegames.com/games/racing-car-slide",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Racing Car Slide Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Racing Car Slide. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/racing-car-slide-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Racing Car Slide",
+      "href": "/games/racing-car-slide",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_569",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

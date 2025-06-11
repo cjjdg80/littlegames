@@ -1,0 +1,54 @@
+{
+  "gameId": 5332,
+  "slug": "brick-out",
+  "metadata": {
+    "title": "Action Game Brick Out - Play Free Now",
+    "description": "Experience thrilling action in Brick Out! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Brick Out game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/brick-out",
+    "openGraph": {
+      "title": "Action Game Brick Out - Play Free Now",
+      "description": "Experience thrilling action in Brick Out! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/brick-out-og.jpg",
+      "url": "https://littlegames.com/games/brick-out",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Brick Out - Play Free Now",
+      "description": "Experience thrilling action in Brick Out! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/brick-out-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Brick Out",
+      "href": "/games/brick-out",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_298",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

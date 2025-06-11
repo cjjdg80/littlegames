@@ -1,0 +1,54 @@
+{
+  "gameId": 7616,
+  "slug": "good-yard",
+  "metadata": {
+    "title": "Action Game Good Yard - Play Free Now",
+    "description": "Dive into the action-packed world of Good Yard. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Good Yard online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/good-yard",
+    "openGraph": {
+      "title": "Action Game Good Yard - Play Free Now",
+      "description": "Dive into the action-packed world of Good Yard. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/good-yard-og.jpg",
+      "url": "https://littlegames.com/games/good-yard",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Good Yard - Play Free Now",
+      "description": "Dive into the action-packed world of Good Yard. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/good-yard-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Good Yard",
+      "href": "/games/good-yard",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_102",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

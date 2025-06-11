@@ -1,0 +1,54 @@
+{
+  "gameId": 7554,
+  "slug": "coin-smash",
+  "metadata": {
+    "title": "Coin Smash Online - Explore and Discover",
+    "description": "Start your epic journey with Coin Smash! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Coin Smash online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/coin-smash",
+    "openGraph": {
+      "title": "Coin Smash Online - Explore and Discover",
+      "description": "Start your epic journey with Coin Smash! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/coin-smash-og.jpg",
+      "url": "https://littlegames.com/games/coin-smash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Coin Smash Online - Explore and Discover",
+      "description": "Start your epic journey with Coin Smash! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/coin-smash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Coin Smash",
+      "href": "/games/coin-smash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_183",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

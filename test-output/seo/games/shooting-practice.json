@@ -1,0 +1,54 @@
+{
+  "gameId": 6004,
+  "slug": "shooting-practice",
+  "metadata": {
+    "title": "Play Shooting Practice! - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Shooting Practice!. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Shooting Practice!",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/shooting-practice",
+    "openGraph": {
+      "title": "Play Shooting Practice! - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Shooting Practice!. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/shooting-practice-og.jpg",
+      "url": "https://littlegames.com/games/shooting-practice",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Shooting Practice! - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Shooting Practice!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shooting-practice-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shooting Practice!",
+      "href": "/games/shooting-practice",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_130",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9088,
+  "slug": "meteoheroes",
+  "metadata": {
+    "title": "Meteoheroes Online - Explore and Discover",
+    "description": "Embark on an epic journey in Meteoheroes! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Meteoheroes online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/meteoheroes",
+    "openGraph": {
+      "title": "Meteoheroes Online - Explore and Discover",
+      "description": "Embark on an epic journey in Meteoheroes! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/meteoheroes-og.jpg",
+      "url": "https://littlegames.com/games/meteoheroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Meteoheroes Online - Explore and Discover",
+      "description": "Embark on an epic journey in Meteoheroes! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/meteoheroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Meteoheroes",
+      "href": "/games/meteoheroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_737",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

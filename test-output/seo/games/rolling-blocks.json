@@ -1,0 +1,54 @@
+{
+  "gameId": 6073,
+  "slug": "rolling-blocks",
+  "metadata": {
+    "title": "Free Rolling Blocks Game - Mind Bending Puzzles",
+    "description": "Rolling Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Rolling Blocks game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/rolling-blocks",
+    "openGraph": {
+      "title": "Free Rolling Blocks Game - Mind Bending Puzzles",
+      "description": "Rolling Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/rolling-blocks-og.jpg",
+      "url": "https://littlegames.com/games/rolling-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rolling Blocks Game - Mind Bending Puzzles",
+      "description": "Rolling Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/rolling-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Rolling Blocks",
+      "href": "/games/rolling-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_269",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

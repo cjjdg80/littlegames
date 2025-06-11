@@ -1,0 +1,54 @@
+{
+  "gameId": 2994,
+  "slug": "annihilate",
+  "metadata": {
+    "title": "Play Annihilate - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Annihilate. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Annihilate",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/annihilate",
+    "openGraph": {
+      "title": "Play Annihilate - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Annihilate. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/annihilate-og.jpg",
+      "url": "https://littlegames.com/games/annihilate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Annihilate - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Annihilate. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/annihilate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Annihilate",
+      "href": "/games/annihilate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_820",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

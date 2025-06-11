@@ -1,0 +1,54 @@
+{
+  "gameId": 4107,
+  "slug": "three-disks",
+  "metadata": {
+    "title": "Action Game Three Disks - Play Free Now",
+    "description": "Dive into the action-packed world of Three Disks. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Three Disks",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/three-disks",
+    "openGraph": {
+      "title": "Action Game Three Disks - Play Free Now",
+      "description": "Dive into the action-packed world of Three Disks. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/three-disks-og.jpg",
+      "url": "https://littlegames.com/games/three-disks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Three Disks - Play Free Now",
+      "description": "Dive into the action-packed world of Three Disks. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/three-disks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Three Disks",
+      "href": "/games/three-disks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_323",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8228,
+  "slug": "stunt-fury",
+  "metadata": {
+    "title": "Play Stunt Fury - Free Action Game Online",
+    "description": "Dive into the action-packed world of Stunt Fury. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Stunt Fury",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/stunt-fury",
+    "openGraph": {
+      "title": "Play Stunt Fury - Free Action Game Online",
+      "description": "Dive into the action-packed world of Stunt Fury. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stunt-fury-og.jpg",
+      "url": "https://littlegames.com/games/stunt-fury",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Stunt Fury - Free Action Game Online",
+      "description": "Dive into the action-packed world of Stunt Fury. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stunt-fury-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stunt Fury",
+      "href": "/games/stunt-fury",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_074",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4618,
+  "slug": "onet-mahjong",
+  "metadata": {
+    "title": "Onet Mahjong - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Onet Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Onet Mahjong",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/onet-mahjong",
+    "openGraph": {
+      "title": "Onet Mahjong - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Onet Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/onet-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/onet-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Onet Mahjong - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Onet Mahjong. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/onet-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Onet Mahjong",
+      "href": "/games/onet-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_164",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

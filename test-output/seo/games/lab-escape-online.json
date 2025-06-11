@@ -1,0 +1,54 @@
+{
+  "gameId": 2315,
+  "slug": "lab-escape-online",
+  "metadata": {
+    "title": "Adventure Game Lab Escape Online - Journey Begins",
+    "description": "Start your epic journey with Lab Escape Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Lab Escape Online",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/lab-escape-online",
+    "openGraph": {
+      "title": "Adventure Game Lab Escape Online - Journey Begins",
+      "description": "Start your epic journey with Lab Escape Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/lab-escape-online-og.jpg",
+      "url": "https://littlegames.com/games/lab-escape-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Lab Escape Online - Journey Begins",
+      "description": "Start your epic journey with Lab Escape Online! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/lab-escape-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Lab Escape Online",
+      "href": "/games/lab-escape-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_774",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

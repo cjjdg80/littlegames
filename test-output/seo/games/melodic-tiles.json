@@ -1,0 +1,54 @@
+{
+  "gameId": 7205,
+  "slug": "melodic-tiles",
+  "metadata": {
+    "title": "Puzzle Game Melodic Tiles - Test Your Skills",
+    "description": "Sharpen your mind with Melodic Tiles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Melodic Tiles",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/melodic-tiles",
+    "openGraph": {
+      "title": "Puzzle Game Melodic Tiles - Test Your Skills",
+      "description": "Sharpen your mind with Melodic Tiles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/melodic-tiles-og.jpg",
+      "url": "https://littlegames.com/games/melodic-tiles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Melodic Tiles - Test Your Skills",
+      "description": "Sharpen your mind with Melodic Tiles! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/melodic-tiles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Melodic Tiles",
+      "href": "/games/melodic-tiles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_361",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

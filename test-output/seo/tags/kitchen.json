@@ -1,0 +1,46 @@
+{
+  "tag": "kitchen",
+  "displayName": "Kitchen",
+  "metadata": {
+    "title": "Kitchen Games - Play Free Online",
+    "description": "Discover amazing kitchen games! Play 22 free games with kitchen theme. No downloads required.",
+    "keywords": [
+      "kitchen games",
+      "free online games",
+      "browser games",
+      "kitchen theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/kitchen",
+    "openGraph": {
+      "title": "Kitchen Games - Free Online Gaming",
+      "description": "Play the best kitchen games online for free. 22 games available.",
+      "image": "https://littlegames.com/images/tags/kitchen-og.jpg",
+      "url": "https://littlegames.com/tags/kitchen",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kitchen Games - Free Online",
+      "description": "Play 22 free kitchen games online.",
+      "image": "https://littlegames.com/images/tags/kitchen-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Kitchen",
+      "href": "/tags/kitchen",
+      "current": true
+    }
+  ],
+  "description": "Discover games with kitchen theme! Our collection includes 22 carefully selected games that feature kitchen elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

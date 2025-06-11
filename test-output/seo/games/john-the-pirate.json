@@ -1,0 +1,55 @@
+{
+  "gameId": 3261,
+  "slug": "john-the-pirate",
+  "metadata": {
+    "title": "John, the pirate - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in John, the pirate! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play John",
+      "the pirate",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/john-the-pirate",
+    "openGraph": {
+      "title": "John, the pirate - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in John, the pirate! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/john-the-pirate-og.jpg",
+      "url": "https://littlegames.com/games/john-the-pirate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "John, the pirate - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in John, the pirate! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/john-the-pirate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "John, the pirate",
+      "href": "/games/john-the-pirate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_097",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

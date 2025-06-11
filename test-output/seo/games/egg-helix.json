@@ -1,0 +1,54 @@
+{
+  "gameId": 670,
+  "slug": "egg-helix",
+  "metadata": {
+    "title": "Egg Helix Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Egg Helix! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Egg Helix online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/egg-helix",
+    "openGraph": {
+      "title": "Egg Helix Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Egg Helix! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/egg-helix-og.jpg",
+      "url": "https://littlegames.com/games/egg-helix",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Egg Helix Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Egg Helix! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/egg-helix-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Egg Helix",
+      "href": "/games/egg-helix",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_776",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4099,
+  "slug": "mouse",
+  "metadata": {
+    "title": "Mouse Online - Ultimate Action Gaming Experience",
+    "description": "Mouse delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Mouse",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/mouse",
+    "openGraph": {
+      "title": "Mouse Online - Ultimate Action Gaming Experience",
+      "description": "Mouse delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mouse-og.jpg",
+      "url": "https://littlegames.com/games/mouse",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mouse Online - Ultimate Action Gaming Experience",
+      "description": "Mouse delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mouse-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mouse",
+      "href": "/games/mouse",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_075",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

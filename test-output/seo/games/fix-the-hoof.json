@@ -1,0 +1,54 @@
+{
+  "gameId": 9340,
+  "slug": "fix-the-hoof",
+  "metadata": {
+    "title": "Fix The Hoof Online - Ultimate Action Gaming Experience",
+    "description": "Fix The Hoof delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Fix The Hoof game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fix-the-hoof",
+    "openGraph": {
+      "title": "Fix The Hoof Online - Ultimate Action Gaming Experience",
+      "description": "Fix The Hoof delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fix-the-hoof-og.jpg",
+      "url": "https://littlegames.com/games/fix-the-hoof",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fix The Hoof Online - Ultimate Action Gaming Experience",
+      "description": "Fix The Hoof delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fix-the-hoof-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Fix The Hoof",
+      "href": "/games/fix-the-hoof",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_550",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

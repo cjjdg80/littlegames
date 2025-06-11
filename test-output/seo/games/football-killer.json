@@ -1,0 +1,54 @@
+{
+  "gameId": 4170,
+  "slug": "football-killer",
+  "metadata": {
+    "title": "Play Football Killer - Free Action Game Online",
+    "description": "Join the action in Football Killer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Football Killer",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/football-killer",
+    "openGraph": {
+      "title": "Play Football Killer - Free Action Game Online",
+      "description": "Join the action in Football Killer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/football-killer-og.jpg",
+      "url": "https://littlegames.com/games/football-killer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Football Killer - Free Action Game Online",
+      "description": "Join the action in Football Killer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/football-killer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Football Killer",
+      "href": "/games/football-killer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_276",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

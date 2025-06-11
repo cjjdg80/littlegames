@@ -1,0 +1,46 @@
+{
+  "tag": "tetris",
+  "displayName": "Tetris",
+  "metadata": {
+    "title": "Tetris Games - Play Free Online",
+    "description": "Discover amazing tetris games! Play 78 free games with tetris theme. No downloads required.",
+    "keywords": [
+      "tetris games",
+      "free online games",
+      "browser games",
+      "tetris theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/tetris",
+    "openGraph": {
+      "title": "Tetris Games - Free Online Gaming",
+      "description": "Play the best tetris games online for free. 78 games available.",
+      "image": "https://littlegames.com/images/tags/tetris-og.jpg",
+      "url": "https://littlegames.com/tags/tetris",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tetris Games - Free Online",
+      "description": "Play 78 free tetris games online.",
+      "image": "https://littlegames.com/images/tags/tetris-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tetris",
+      "href": "/tags/tetris",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tetris theme! Our collection includes 78 carefully selected games that feature tetris elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

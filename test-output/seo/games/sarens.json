@@ -1,0 +1,54 @@
+{
+  "gameId": 4323,
+  "slug": "sarens",
+  "metadata": {
+    "title": "Action Game Sarens - Play Free Now",
+    "description": "Dive into the action-packed world of Sarens. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Sarens online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sarens",
+    "openGraph": {
+      "title": "Action Game Sarens - Play Free Now",
+      "description": "Dive into the action-packed world of Sarens. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sarens-og.jpg",
+      "url": "https://littlegames.com/games/sarens",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Sarens - Play Free Now",
+      "description": "Dive into the action-packed world of Sarens. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sarens-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sarens",
+      "href": "/games/sarens",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_019",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

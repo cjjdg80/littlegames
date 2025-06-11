@@ -1,0 +1,54 @@
+{
+  "gameId": 6664,
+  "slug": "zombie-area",
+  "metadata": {
+    "title": "Play Zombie Area - Free Action Game Online",
+    "description": "Join the action in Zombie Area! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Zombie Area game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-area",
+    "openGraph": {
+      "title": "Play Zombie Area - Free Action Game Online",
+      "description": "Join the action in Zombie Area! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombie-area-og.jpg",
+      "url": "https://littlegames.com/games/zombie-area",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zombie Area - Free Action Game Online",
+      "description": "Join the action in Zombie Area! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zombie-area-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Area",
+      "href": "/games/zombie-area",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_590",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

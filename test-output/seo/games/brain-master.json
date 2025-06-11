@@ -1,0 +1,54 @@
+{
+  "gameId": 5950,
+  "slug": "brain-master",
+  "metadata": {
+    "title": "Free Brain Master Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Brain Master. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Brain Master",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/brain-master",
+    "openGraph": {
+      "title": "Free Brain Master Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Brain Master. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/brain-master-og.jpg",
+      "url": "https://littlegames.com/games/brain-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brain Master Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Brain Master. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/brain-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Brain Master",
+      "href": "/games/brain-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_456",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

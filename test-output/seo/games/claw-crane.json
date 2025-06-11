@@ -1,0 +1,54 @@
+{
+  "gameId": 1931,
+  "slug": "claw-crane",
+  "metadata": {
+    "title": "Free Claw Crane Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Claw Crane. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Claw Crane",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/claw-crane",
+    "openGraph": {
+      "title": "Free Claw Crane Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Claw Crane. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/claw-crane-og.jpg",
+      "url": "https://littlegames.com/games/claw-crane",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Claw Crane Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Claw Crane. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/claw-crane-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Claw Crane",
+      "href": "/games/claw-crane",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_867",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

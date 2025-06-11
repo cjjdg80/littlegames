@@ -1,0 +1,46 @@
+{
+  "tag": "prince",
+  "displayName": "Prince",
+  "metadata": {
+    "title": "Prince Games - Play Free Online",
+    "description": "Discover amazing prince games! Play 7 free games with prince theme. No downloads required.",
+    "keywords": [
+      "prince games",
+      "free online games",
+      "browser games",
+      "prince theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/prince",
+    "openGraph": {
+      "title": "Prince Games - Free Online Gaming",
+      "description": "Play the best prince games online for free. 7 games available.",
+      "image": "https://littlegames.com/images/tags/prince-og.jpg",
+      "url": "https://littlegames.com/tags/prince",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Prince Games - Free Online",
+      "description": "Play 7 free prince games online.",
+      "image": "https://littlegames.com/images/tags/prince-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Prince",
+      "href": "/tags/prince",
+      "current": true
+    }
+  ],
+  "description": "Discover games with prince theme! Our collection includes 7 carefully selected games that feature prince elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

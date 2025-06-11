@@ -1,0 +1,54 @@
+{
+  "gameId": 6993,
+  "slug": "road-madness",
+  "metadata": {
+    "title": "Road Madness Online - Ultimate Action Gaming Experience",
+    "description": "Road Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Road Madness game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/road-madness",
+    "openGraph": {
+      "title": "Road Madness Online - Ultimate Action Gaming Experience",
+      "description": "Road Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/road-madness-og.jpg",
+      "url": "https://littlegames.com/games/road-madness",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Road Madness Online - Ultimate Action Gaming Experience",
+      "description": "Road Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/road-madness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Road Madness",
+      "href": "/games/road-madness",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_789",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

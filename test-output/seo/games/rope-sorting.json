@@ -1,0 +1,54 @@
+{
+  "gameId": 9848,
+  "slug": "rope-sorting",
+  "metadata": {
+    "title": "Rope Sorting - Exciting Action Adventure Game",
+    "description": "Join the action in Rope Sorting! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Rope Sorting",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/rope-sorting",
+    "openGraph": {
+      "title": "Rope Sorting - Exciting Action Adventure Game",
+      "description": "Join the action in Rope Sorting! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/rope-sorting-og.jpg",
+      "url": "https://littlegames.com/games/rope-sorting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rope Sorting - Exciting Action Adventure Game",
+      "description": "Join the action in Rope Sorting! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/rope-sorting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rope Sorting",
+      "href": "/games/rope-sorting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_294",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

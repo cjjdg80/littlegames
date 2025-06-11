@@ -1,0 +1,54 @@
+{
+  "gameId": 1138,
+  "slug": "sudoku",
+  "metadata": {
+    "title": "Puzzle Game Sudoku - Test Your Skills",
+    "description": "Put your thinking skills to the test in Sudoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Sudoku",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/sudoku",
+    "openGraph": {
+      "title": "Puzzle Game Sudoku - Test Your Skills",
+      "description": "Put your thinking skills to the test in Sudoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/sudoku-og.jpg",
+      "url": "https://littlegames.com/games/sudoku",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Sudoku - Test Your Skills",
+      "description": "Put your thinking skills to the test in Sudoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/sudoku-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sudoku",
+      "href": "/games/sudoku",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_284",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5104,
+  "slug": "maze-game-kids",
+  "metadata": {
+    "title": "Puzzle Game Maze Game Kids - Test Your Skills",
+    "description": "Sharpen your mind with Maze Game Kids! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Maze Game Kids game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/maze-game-kids",
+    "openGraph": {
+      "title": "Puzzle Game Maze Game Kids - Test Your Skills",
+      "description": "Sharpen your mind with Maze Game Kids! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/maze-game-kids-og.jpg",
+      "url": "https://littlegames.com/games/maze-game-kids",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Maze Game Kids - Test Your Skills",
+      "description": "Sharpen your mind with Maze Game Kids! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/maze-game-kids-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Maze Game Kids",
+      "href": "/games/maze-game-kids",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_230",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

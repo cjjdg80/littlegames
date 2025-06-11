@@ -1,0 +1,54 @@
+{
+  "gameId": 9874,
+  "slug": "kitkat-puzzle",
+  "metadata": {
+    "title": "Kitkat Puzzle - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Kitkat Puzzle! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Kitkat Puzzle",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/kitkat-puzzle",
+    "openGraph": {
+      "title": "Kitkat Puzzle - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Kitkat Puzzle! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/kitkat-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/kitkat-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kitkat Puzzle - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Kitkat Puzzle! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/kitkat-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Kitkat Puzzle",
+      "href": "/games/kitkat-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_100",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

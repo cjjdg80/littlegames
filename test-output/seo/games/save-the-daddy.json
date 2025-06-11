@@ -1,0 +1,54 @@
+{
+  "gameId": 9775,
+  "slug": "save-the-daddy",
+  "metadata": {
+    "title": "Adventure Game Save the Daddy - Journey Begins",
+    "description": "Begin your quest in Save the Daddy. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Save the Daddy online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-daddy",
+    "openGraph": {
+      "title": "Adventure Game Save the Daddy - Journey Begins",
+      "description": "Begin your quest in Save the Daddy. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/save-the-daddy-og.jpg",
+      "url": "https://littlegames.com/games/save-the-daddy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Save the Daddy - Journey Begins",
+      "description": "Begin your quest in Save the Daddy. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/save-the-daddy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Save the Daddy",
+      "href": "/games/save-the-daddy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_034",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

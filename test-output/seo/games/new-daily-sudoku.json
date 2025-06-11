@@ -1,0 +1,54 @@
+{
+  "gameId": 5844,
+  "slug": "new-daily-sudoku",
+  "metadata": {
+    "title": "New Daily Sudoku Online - Logic and Strategy Game",
+    "description": "New Daily Sudoku offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "New Daily Sudoku game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/new-daily-sudoku",
+    "openGraph": {
+      "title": "New Daily Sudoku Online - Logic and Strategy Game",
+      "description": "New Daily Sudoku offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/new-daily-sudoku-og.jpg",
+      "url": "https://littlegames.com/games/new-daily-sudoku",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "New Daily Sudoku Online - Logic and Strategy Game",
+      "description": "New Daily Sudoku offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/new-daily-sudoku-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "New Daily Sudoku",
+      "href": "/games/new-daily-sudoku",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_170",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

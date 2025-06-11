@@ -1,0 +1,54 @@
+{
+  "gameId": 8996,
+  "slug": "merge-muscle",
+  "metadata": {
+    "title": "Action Game Merge Muscle - Play Free Now",
+    "description": "Dive into the action-packed world of Merge Muscle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Merge Muscle game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/merge-muscle",
+    "openGraph": {
+      "title": "Action Game Merge Muscle - Play Free Now",
+      "description": "Dive into the action-packed world of Merge Muscle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/merge-muscle-og.jpg",
+      "url": "https://littlegames.com/games/merge-muscle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Merge Muscle - Play Free Now",
+      "description": "Dive into the action-packed world of Merge Muscle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/merge-muscle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Merge Muscle",
+      "href": "/games/merge-muscle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_882",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

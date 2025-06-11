@@ -1,0 +1,54 @@
+{
+  "gameId": 5570,
+  "slug": "twirl",
+  "metadata": {
+    "title": "Free Twirl Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Twirl. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Twirl online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/twirl",
+    "openGraph": {
+      "title": "Free Twirl Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Twirl. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/twirl-og.jpg",
+      "url": "https://littlegames.com/games/twirl",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Twirl Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Twirl. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/twirl-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Twirl",
+      "href": "/games/twirl",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_676",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

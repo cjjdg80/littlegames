@@ -1,0 +1,54 @@
+{
+  "gameId": 4979,
+  "slug": "colors-domination",
+  "metadata": {
+    "title": "Colors domination - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Colors domination. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Colors domination",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/colors-domination",
+    "openGraph": {
+      "title": "Colors domination - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Colors domination. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/colors-domination-og.jpg",
+      "url": "https://littlegames.com/games/colors-domination",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Colors domination - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Colors domination. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/colors-domination-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Colors domination",
+      "href": "/games/colors-domination",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_355",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

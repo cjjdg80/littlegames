@@ -1,0 +1,54 @@
+{
+  "gameId": 5993,
+  "slug": "sky-bridge",
+  "metadata": {
+    "title": "Action Game Sky Bridge - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Sky Bridge. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Sky Bridge",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/sky-bridge",
+    "openGraph": {
+      "title": "Action Game Sky Bridge - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Sky Bridge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sky-bridge-og.jpg",
+      "url": "https://littlegames.com/games/sky-bridge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Sky Bridge - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Sky Bridge. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sky-bridge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sky Bridge",
+      "href": "/games/sky-bridge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_789",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

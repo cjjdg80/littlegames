@@ -1,0 +1,54 @@
+{
+  "gameId": 3676,
+  "slug": "winter-mahjong",
+  "metadata": {
+    "title": "Free Winter Mahjong Game - Action Packed Fun",
+    "description": "Winter Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Winter Mahjong online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/winter-mahjong",
+    "openGraph": {
+      "title": "Free Winter Mahjong Game - Action Packed Fun",
+      "description": "Winter Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/winter-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/winter-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Winter Mahjong Game - Action Packed Fun",
+      "description": "Winter Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/winter-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Winter Mahjong",
+      "href": "/games/winter-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_962",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

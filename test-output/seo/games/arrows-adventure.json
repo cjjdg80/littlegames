@@ -1,0 +1,54 @@
+{
+  "gameId": 2947,
+  "slug": "arrows-adventure",
+  "metadata": {
+    "title": "Adventure Game Arrow's Adventure - Journey Begins",
+    "description": "Discover new worlds in Arrow's Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Arrow's Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/arrows-adventure",
+    "openGraph": {
+      "title": "Adventure Game Arrow's Adventure - Journey Begins",
+      "description": "Discover new worlds in Arrow's Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/arrows-adventure-og.jpg",
+      "url": "https://littlegames.com/games/arrows-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Arrow's Adventure - Journey Begins",
+      "description": "Discover new worlds in Arrow's Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/arrows-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Arrow's Adventure",
+      "href": "/games/arrows-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_366",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

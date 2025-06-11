@@ -1,0 +1,54 @@
+{
+  "gameId": 5010,
+  "slug": "glow-blast",
+  "metadata": {
+    "title": "Glow Blast ! - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Glow Blast !. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Glow Blast ! game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/glow-blast",
+    "openGraph": {
+      "title": "Glow Blast ! - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Glow Blast !. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/glow-blast-og.jpg",
+      "url": "https://littlegames.com/games/glow-blast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Glow Blast ! - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Glow Blast !. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/glow-blast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Glow Blast !",
+      "href": "/games/glow-blast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_316",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

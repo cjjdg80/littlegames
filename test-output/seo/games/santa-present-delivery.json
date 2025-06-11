@@ -1,0 +1,54 @@
+{
+  "gameId": 2090,
+  "slug": "santa-present-delivery",
+  "metadata": {
+    "title": "Santa Present Delivery Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Santa Present Delivery! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "Santa Present Delivery game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/santa-present-delivery",
+    "openGraph": {
+      "title": "Santa Present Delivery Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Santa Present Delivery! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/santa-present-delivery-og.jpg",
+      "url": "https://littlegames.com/games/santa-present-delivery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Present Delivery Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Santa Present Delivery! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/santa-present-delivery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Santa Present Delivery",
+      "href": "/games/santa-present-delivery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_796",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

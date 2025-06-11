@@ -1,0 +1,54 @@
+{
+  "gameId": 8489,
+  "slug": "ballpoint",
+  "metadata": {
+    "title": "Play Ballpoint - Free Action Game Online",
+    "description": "Experience thrilling action in Ballpoint! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Ballpoint",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/ballpoint",
+    "openGraph": {
+      "title": "Play Ballpoint - Free Action Game Online",
+      "description": "Experience thrilling action in Ballpoint! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/ballpoint-og.jpg",
+      "url": "https://littlegames.com/games/ballpoint",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ballpoint - Free Action Game Online",
+      "description": "Experience thrilling action in Ballpoint! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ballpoint-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ballpoint",
+      "href": "/games/ballpoint",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_165",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

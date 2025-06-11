@@ -1,0 +1,54 @@
+{
+  "gameId": 3791,
+  "slug": "kitty-cats",
+  "metadata": {
+    "title": "Adventure Game Kitty Cats - Journey Begins",
+    "description": "Discover new worlds in Kitty Cats. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Kitty Cats",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/kitty-cats",
+    "openGraph": {
+      "title": "Adventure Game Kitty Cats - Journey Begins",
+      "description": "Discover new worlds in Kitty Cats. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/kitty-cats-og.jpg",
+      "url": "https://littlegames.com/games/kitty-cats",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Kitty Cats - Journey Begins",
+      "description": "Discover new worlds in Kitty Cats. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/kitty-cats-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Kitty Cats",
+      "href": "/games/kitty-cats",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_530",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

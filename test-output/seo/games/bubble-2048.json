@@ -1,0 +1,54 @@
+{
+  "gameId": 5278,
+  "slug": "bubble-2048",
+  "metadata": {
+    "title": "Action Game Bubble 2048 - Play Free Now",
+    "description": "Bubble 2048 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Bubble 2048",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-2048",
+    "openGraph": {
+      "title": "Action Game Bubble 2048 - Play Free Now",
+      "description": "Bubble 2048 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bubble-2048-og.jpg",
+      "url": "https://littlegames.com/games/bubble-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bubble 2048 - Play Free Now",
+      "description": "Bubble 2048 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bubble-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble 2048",
+      "href": "/games/bubble-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_624",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

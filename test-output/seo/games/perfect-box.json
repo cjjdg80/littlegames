@@ -1,0 +1,54 @@
+{
+  "gameId": 6020,
+  "slug": "perfect-box",
+  "metadata": {
+    "title": "Free Perfect Box Game - Action Packed Fun",
+    "description": "Perfect Box delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Perfect Box",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/perfect-box",
+    "openGraph": {
+      "title": "Free Perfect Box Game - Action Packed Fun",
+      "description": "Perfect Box delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/perfect-box-og.jpg",
+      "url": "https://littlegames.com/games/perfect-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Perfect Box Game - Action Packed Fun",
+      "description": "Perfect Box delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/perfect-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Perfect Box",
+      "href": "/games/perfect-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_626",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

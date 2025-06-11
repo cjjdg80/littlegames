@@ -1,0 +1,54 @@
+{
+  "gameId": 1643,
+  "slug": "123-draw",
+  "metadata": {
+    "title": "Play 123 Draw - Free Action Game Online",
+    "description": "Dive into the action-packed world of 123 Draw. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play 123 Draw",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/123-draw",
+    "openGraph": {
+      "title": "Play 123 Draw - Free Action Game Online",
+      "description": "Dive into the action-packed world of 123 Draw. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/123-draw-og.jpg",
+      "url": "https://littlegames.com/games/123-draw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 123 Draw - Free Action Game Online",
+      "description": "Dive into the action-packed world of 123 Draw. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/123-draw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "123 Draw",
+      "href": "/games/123-draw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_939",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

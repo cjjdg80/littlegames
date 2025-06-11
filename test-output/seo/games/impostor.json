@@ -1,0 +1,54 @@
+{
+  "gameId": 2201,
+  "slug": "impostor",
+  "metadata": {
+    "title": "Impostor Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Impostor! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Impostor",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/impostor",
+    "openGraph": {
+      "title": "Impostor Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Impostor! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/impostor-og.jpg",
+      "url": "https://littlegames.com/games/impostor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Impostor Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Impostor! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/impostor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Impostor",
+      "href": "/games/impostor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_237",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

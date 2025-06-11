@@ -1,0 +1,54 @@
+{
+  "gameId": 6229,
+  "slug": "sudoku-blocks",
+  "metadata": {
+    "title": "Puzzle Game Sudoku Blocks - Test Your Skills",
+    "description": "Sudoku Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Sudoku Blocks online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/sudoku-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Sudoku Blocks - Test Your Skills",
+      "description": "Sudoku Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sudoku-blocks-og.jpg",
+      "url": "https://littlegames.com/games/sudoku-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Sudoku Blocks - Test Your Skills",
+      "description": "Sudoku Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sudoku-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sudoku Blocks",
+      "href": "/games/sudoku-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_105",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5549,
+  "slug": "ball-climb",
+  "metadata": {
+    "title": "Play Ball Climb - Free Action Game Online",
+    "description": "Experience thrilling action in Ball Climb! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Ball Climb",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ball-climb",
+    "openGraph": {
+      "title": "Play Ball Climb - Free Action Game Online",
+      "description": "Experience thrilling action in Ball Climb! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/ball-climb-og.jpg",
+      "url": "https://littlegames.com/games/ball-climb",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ball Climb - Free Action Game Online",
+      "description": "Experience thrilling action in Ball Climb! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ball-climb-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ball Climb",
+      "href": "/games/ball-climb",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_025",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

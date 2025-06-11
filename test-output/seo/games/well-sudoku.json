@@ -1,0 +1,54 @@
+{
+  "gameId": 4433,
+  "slug": "well-sudoku",
+  "metadata": {
+    "title": "Well Sudoku Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Well Sudoku. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Well Sudoku game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/well-sudoku",
+    "openGraph": {
+      "title": "Well Sudoku Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Well Sudoku. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/well-sudoku-og.jpg",
+      "url": "https://littlegames.com/games/well-sudoku",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Well Sudoku Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Well Sudoku. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/well-sudoku-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Well Sudoku",
+      "href": "/games/well-sudoku",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_429",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

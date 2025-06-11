@@ -1,0 +1,54 @@
+{
+  "gameId": 4809,
+  "slug": "2048-wooden-edition",
+  "metadata": {
+    "title": "Play 2048 Wooden Edition - Free Puzzle Game Online",
+    "description": "Challenge your mind with 2048 Wooden Edition! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "2048 Wooden Edition game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/2048-wooden-edition",
+    "openGraph": {
+      "title": "Play 2048 Wooden Edition - Free Puzzle Game Online",
+      "description": "Challenge your mind with 2048 Wooden Edition! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/2048-wooden-edition-og.jpg",
+      "url": "https://littlegames.com/games/2048-wooden-edition",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2048 Wooden Edition - Free Puzzle Game Online",
+      "description": "Challenge your mind with 2048 Wooden Edition! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/2048-wooden-edition-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "2048 Wooden Edition",
+      "href": "/games/2048-wooden-edition",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_085",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8131,
+  "slug": "merge-in-space",
+  "metadata": {
+    "title": "Free Merge in Space Game - Action Packed Fun",
+    "description": "Join the action in Merge in Space! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Merge in Space",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-in-space",
+    "openGraph": {
+      "title": "Free Merge in Space Game - Action Packed Fun",
+      "description": "Join the action in Merge in Space! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-in-space-og.jpg",
+      "url": "https://littlegames.com/games/merge-in-space",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge in Space Game - Action Packed Fun",
+      "description": "Join the action in Merge in Space! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-in-space-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge in Space",
+      "href": "/games/merge-in-space",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_067",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

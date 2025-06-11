@@ -1,0 +1,54 @@
+{
+  "gameId": 1565,
+  "slug": "2048-fruits",
+  "metadata": {
+    "title": "Play 2048 Fruits - Free Action Game Online",
+    "description": "Dive into the action-packed world of 2048 Fruits. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "2048 Fruits game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/2048-fruits",
+    "openGraph": {
+      "title": "Play 2048 Fruits - Free Action Game Online",
+      "description": "Dive into the action-packed world of 2048 Fruits. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/2048-fruits-og.jpg",
+      "url": "https://littlegames.com/games/2048-fruits",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2048 Fruits - Free Action Game Online",
+      "description": "Dive into the action-packed world of 2048 Fruits. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/2048-fruits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2048 Fruits",
+      "href": "/games/2048-fruits",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_521",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

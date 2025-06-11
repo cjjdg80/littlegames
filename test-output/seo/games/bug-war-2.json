@@ -1,0 +1,54 @@
+{
+  "gameId": 4177,
+  "slug": "bug-war-2",
+  "metadata": {
+    "title": "Action Game Bug War 2 - Play Free Now",
+    "description": "Bug War 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "Bug War 2 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bug-war-2",
+    "openGraph": {
+      "title": "Action Game Bug War 2 - Play Free Now",
+      "description": "Bug War 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bug-war-2-og.jpg",
+      "url": "https://littlegames.com/games/bug-war-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bug War 2 - Play Free Now",
+      "description": "Bug War 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bug-war-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Bug War 2",
+      "href": "/games/bug-war-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_495",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

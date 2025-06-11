@@ -1,0 +1,54 @@
+{
+  "gameId": 8517,
+  "slug": "merge-town",
+  "metadata": {
+    "title": "Action Game Merge Town! - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Merge Town!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Merge Town!",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-town",
+    "openGraph": {
+      "title": "Action Game Merge Town! - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Merge Town!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-town-og.jpg",
+      "url": "https://littlegames.com/games/merge-town",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Merge Town! - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Merge Town!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-town-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Town!",
+      "href": "/games/merge-town",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_033",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7032,
+  "slug": "package-delivery",
+  "metadata": {
+    "title": "Action Game Package Delivery! - Play Free Now",
+    "description": "Join the action in Package Delivery!! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Package Delivery!",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/package-delivery",
+    "openGraph": {
+      "title": "Action Game Package Delivery! - Play Free Now",
+      "description": "Join the action in Package Delivery!! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/package-delivery-og.jpg",
+      "url": "https://littlegames.com/games/package-delivery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Package Delivery! - Play Free Now",
+      "description": "Join the action in Package Delivery!! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/package-delivery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Package Delivery!",
+      "href": "/games/package-delivery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_998",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

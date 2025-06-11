@@ -1,0 +1,54 @@
+{
+  "gameId": 1875,
+  "slug": "seasons",
+  "metadata": {
+    "title": "Play Seasons - Free Puzzle Game Online",
+    "description": "Exercise your brain with Seasons. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Seasons online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/seasons",
+    "openGraph": {
+      "title": "Play Seasons - Free Puzzle Game Online",
+      "description": "Exercise your brain with Seasons. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/seasons-og.jpg",
+      "url": "https://littlegames.com/games/seasons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Seasons - Free Puzzle Game Online",
+      "description": "Exercise your brain with Seasons. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/seasons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Seasons",
+      "href": "/games/seasons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_131",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

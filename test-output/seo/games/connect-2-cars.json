@@ -1,0 +1,54 @@
+{
+  "gameId": 8935,
+  "slug": "connect-2-cars",
+  "metadata": {
+    "title": "Connect 2 Cars Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Connect 2 Cars. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Connect 2 Cars",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/connect-2-cars",
+    "openGraph": {
+      "title": "Connect 2 Cars Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Connect 2 Cars. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/connect-2-cars-og.jpg",
+      "url": "https://littlegames.com/games/connect-2-cars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Connect 2 Cars Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Connect 2 Cars. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/connect-2-cars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connect 2 Cars",
+      "href": "/games/connect-2-cars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_991",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

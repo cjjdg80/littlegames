@@ -1,0 +1,54 @@
+{
+  "gameId": 4671,
+  "slug": "grand-nitro-formula",
+  "metadata": {
+    "title": "Grand Nitro Formula - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Grand Nitro Formula. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Grand Nitro Formula online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/grand-nitro-formula",
+    "openGraph": {
+      "title": "Grand Nitro Formula - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Grand Nitro Formula. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/grand-nitro-formula-og.jpg",
+      "url": "https://littlegames.com/games/grand-nitro-formula",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Grand Nitro Formula - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Grand Nitro Formula. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/grand-nitro-formula-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Grand Nitro Formula",
+      "href": "/games/grand-nitro-formula",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_807",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

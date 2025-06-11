@@ -1,0 +1,54 @@
+{
+  "gameId": 5419,
+  "slug": "civilization",
+  "metadata": {
+    "title": "Adventure Game Civilization - Journey Begins",
+    "description": "Begin your quest in Civilization. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Civilization",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/civilization",
+    "openGraph": {
+      "title": "Adventure Game Civilization - Journey Begins",
+      "description": "Begin your quest in Civilization. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/civilization-og.jpg",
+      "url": "https://littlegames.com/games/civilization",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Civilization - Journey Begins",
+      "description": "Begin your quest in Civilization. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/civilization-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Civilization",
+      "href": "/games/civilization",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_998",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

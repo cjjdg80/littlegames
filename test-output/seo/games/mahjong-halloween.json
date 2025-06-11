@@ -1,0 +1,54 @@
+{
+  "gameId": 1800,
+  "slug": "mahjong-halloween",
+  "metadata": {
+    "title": "Mahjong Halloween - Exciting Action Adventure Game",
+    "description": "Join the action in Mahjong Halloween! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mahjong Halloween online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-halloween",
+    "openGraph": {
+      "title": "Mahjong Halloween - Exciting Action Adventure Game",
+      "description": "Join the action in Mahjong Halloween! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-halloween-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-halloween",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong Halloween - Exciting Action Adventure Game",
+      "description": "Join the action in Mahjong Halloween! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-halloween-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Halloween",
+      "href": "/games/mahjong-halloween",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_806",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

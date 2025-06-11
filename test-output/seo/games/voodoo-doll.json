@@ -1,0 +1,54 @@
+{
+  "gameId": 1899,
+  "slug": "voodoo-doll",
+  "metadata": {
+    "title": "Voodoo Doll - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Voodoo Doll. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Voodoo Doll game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/voodoo-doll",
+    "openGraph": {
+      "title": "Voodoo Doll - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Voodoo Doll. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/voodoo-doll-og.jpg",
+      "url": "https://littlegames.com/games/voodoo-doll",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Voodoo Doll - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Voodoo Doll. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/voodoo-doll-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Voodoo Doll",
+      "href": "/games/voodoo-doll",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_875",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

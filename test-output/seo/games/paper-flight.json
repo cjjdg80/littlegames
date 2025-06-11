@@ -1,0 +1,54 @@
+{
+  "gameId": 5833,
+  "slug": "paper-flight",
+  "metadata": {
+    "title": "Adventure Game Paper Flight - Journey Begins",
+    "description": "Embark on an epic journey in Paper Flight! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Paper Flight",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/paper-flight",
+    "openGraph": {
+      "title": "Adventure Game Paper Flight - Journey Begins",
+      "description": "Embark on an epic journey in Paper Flight! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/paper-flight-og.jpg",
+      "url": "https://littlegames.com/games/paper-flight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Paper Flight - Journey Begins",
+      "description": "Embark on an epic journey in Paper Flight! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-flight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Paper Flight",
+      "href": "/games/paper-flight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_832",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

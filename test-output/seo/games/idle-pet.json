@@ -1,0 +1,54 @@
+{
+  "gameId": 8615,
+  "slug": "idle-pet",
+  "metadata": {
+    "title": "Action Game IDLE Pet - Play Free Now",
+    "description": "Dive into the action-packed world of IDLE Pet. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "IDLE Pet online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/idle-pet",
+    "openGraph": {
+      "title": "Action Game IDLE Pet - Play Free Now",
+      "description": "Dive into the action-packed world of IDLE Pet. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/idle-pet-og.jpg",
+      "url": "https://littlegames.com/games/idle-pet",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game IDLE Pet - Play Free Now",
+      "description": "Dive into the action-packed world of IDLE Pet. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/idle-pet-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "IDLE Pet",
+      "href": "/games/idle-pet",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_071",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

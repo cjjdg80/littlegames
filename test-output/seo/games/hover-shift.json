@@ -1,0 +1,54 @@
+{
+  "gameId": 4428,
+  "slug": "hover-shift",
+  "metadata": {
+    "title": "Hover Shift - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Hover Shift! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Hover Shift",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/hover-shift",
+    "openGraph": {
+      "title": "Hover Shift - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Hover Shift! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/hover-shift-og.jpg",
+      "url": "https://littlegames.com/games/hover-shift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hover Shift - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Hover Shift! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/hover-shift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hover Shift",
+      "href": "/games/hover-shift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_274",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

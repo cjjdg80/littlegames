@@ -1,0 +1,54 @@
+{
+  "gameId": 2087,
+  "slug": "snowman-slide",
+  "metadata": {
+    "title": "Snowman Slide Online - Logic and Strategy Game",
+    "description": "Snowman Slide offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Snowman Slide",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/snowman-slide",
+    "openGraph": {
+      "title": "Snowman Slide Online - Logic and Strategy Game",
+      "description": "Snowman Slide offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/snowman-slide-og.jpg",
+      "url": "https://littlegames.com/games/snowman-slide",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snowman Slide Online - Logic and Strategy Game",
+      "description": "Snowman Slide offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/snowman-slide-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Snowman Slide",
+      "href": "/games/snowman-slide",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_703",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

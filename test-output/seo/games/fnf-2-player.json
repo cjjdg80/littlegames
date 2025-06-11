@@ -1,0 +1,54 @@
+{
+  "gameId": 9302,
+  "slug": "fnf-2-player",
+  "metadata": {
+    "title": "FNF 2 Player Online - Ultimate Action Gaming Experience",
+    "description": "FNF 2 Player delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play FNF 2 Player",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fnf-2-player",
+    "openGraph": {
+      "title": "FNF 2 Player Online - Ultimate Action Gaming Experience",
+      "description": "FNF 2 Player delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fnf-2-player-og.jpg",
+      "url": "https://littlegames.com/games/fnf-2-player",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "FNF 2 Player Online - Ultimate Action Gaming Experience",
+      "description": "FNF 2 Player delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fnf-2-player-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "FNF 2 Player",
+      "href": "/games/fnf-2-player",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_368",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

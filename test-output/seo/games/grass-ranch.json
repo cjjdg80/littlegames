@@ -1,0 +1,54 @@
+{
+  "gameId": 9544,
+  "slug": "grass-ranch",
+  "metadata": {
+    "title": "Grass Ranch - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Grass Ranch. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Grass Ranch",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/grass-ranch",
+    "openGraph": {
+      "title": "Grass Ranch - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Grass Ranch. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/grass-ranch-og.jpg",
+      "url": "https://littlegames.com/games/grass-ranch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Grass Ranch - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Grass Ranch. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/grass-ranch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Grass Ranch",
+      "href": "/games/grass-ranch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_870",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3075,
+  "slug": "chess-move-2",
+  "metadata": {
+    "title": "Chess Move 2 - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Chess Move 2. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Chess Move 2",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/chess-move-2",
+    "openGraph": {
+      "title": "Chess Move 2 - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Chess Move 2. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/chess-move-2-og.jpg",
+      "url": "https://littlegames.com/games/chess-move-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chess Move 2 - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Chess Move 2. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/chess-move-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chess Move 2",
+      "href": "/games/chess-move-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_331",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

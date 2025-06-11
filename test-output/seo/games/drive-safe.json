@@ -1,0 +1,54 @@
+{
+  "gameId": 1543,
+  "slug": "drive-safe",
+  "metadata": {
+    "title": "Free Drive Safe Game - Action Packed Fun",
+    "description": "Experience thrilling action in Drive Safe! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Drive Safe online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/drive-safe",
+    "openGraph": {
+      "title": "Free Drive Safe Game - Action Packed Fun",
+      "description": "Experience thrilling action in Drive Safe! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/drive-safe-og.jpg",
+      "url": "https://littlegames.com/games/drive-safe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drive Safe Game - Action Packed Fun",
+      "description": "Experience thrilling action in Drive Safe! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/drive-safe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drive Safe",
+      "href": "/games/drive-safe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_839",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2180,
+  "slug": "dream-chefs",
+  "metadata": {
+    "title": "Dream Chefs - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Dream Chefs. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Dream Chefs",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dream-chefs",
+    "openGraph": {
+      "title": "Dream Chefs - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Dream Chefs. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dream-chefs-og.jpg",
+      "url": "https://littlegames.com/games/dream-chefs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dream Chefs - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Dream Chefs. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dream-chefs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dream Chefs",
+      "href": "/games/dream-chefs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_586",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

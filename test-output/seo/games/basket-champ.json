@@ -1,0 +1,54 @@
+{
+  "gameId": 3217,
+  "slug": "basket-champ",
+  "metadata": {
+    "title": "Basket Champ Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Basket Champ! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Basket Champ online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/basket-champ",
+    "openGraph": {
+      "title": "Basket Champ Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Basket Champ! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basket-champ-og.jpg",
+      "url": "https://littlegames.com/games/basket-champ",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Basket Champ Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Basket Champ! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basket-champ-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basket Champ",
+      "href": "/games/basket-champ",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_733",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

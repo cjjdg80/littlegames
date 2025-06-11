@@ -1,0 +1,54 @@
+{
+  "gameId": 9630,
+  "slug": "snap-fix",
+  "metadata": {
+    "title": "Snap Fix - Brain Training Puzzle Challenge",
+    "description": "Snap Fix offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Snap Fix game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/snap-fix",
+    "openGraph": {
+      "title": "Snap Fix - Brain Training Puzzle Challenge",
+      "description": "Snap Fix offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/snap-fix-og.jpg",
+      "url": "https://littlegames.com/games/snap-fix",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snap Fix - Brain Training Puzzle Challenge",
+      "description": "Snap Fix offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/snap-fix-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Snap Fix",
+      "href": "/games/snap-fix",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_536",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

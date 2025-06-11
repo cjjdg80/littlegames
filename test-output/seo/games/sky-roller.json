@@ -1,0 +1,54 @@
+{
+  "gameId": 4001,
+  "slug": "sky-roller",
+  "metadata": {
+    "title": "Action Game Sky Roller - Play Free Now",
+    "description": "Experience thrilling action in Sky Roller! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Sky Roller game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sky-roller",
+    "openGraph": {
+      "title": "Action Game Sky Roller - Play Free Now",
+      "description": "Experience thrilling action in Sky Roller! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/sky-roller-og.jpg",
+      "url": "https://littlegames.com/games/sky-roller",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Sky Roller - Play Free Now",
+      "description": "Experience thrilling action in Sky Roller! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sky-roller-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sky Roller",
+      "href": "/games/sky-roller",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_037",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

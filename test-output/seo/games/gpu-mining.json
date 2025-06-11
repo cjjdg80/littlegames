@@ -1,0 +1,54 @@
+{
+  "gameId": 6648,
+  "slug": "gpu-mining",
+  "metadata": {
+    "title": "Play GPU Mining - Free Action Game Online",
+    "description": "Dive into the action-packed world of GPU Mining. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "GPU Mining",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/gpu-mining",
+    "openGraph": {
+      "title": "Play GPU Mining - Free Action Game Online",
+      "description": "Dive into the action-packed world of GPU Mining. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gpu-mining-og.jpg",
+      "url": "https://littlegames.com/games/gpu-mining",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play GPU Mining - Free Action Game Online",
+      "description": "Dive into the action-packed world of GPU Mining. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gpu-mining-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "GPU Mining",
+      "href": "/games/gpu-mining",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_094",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

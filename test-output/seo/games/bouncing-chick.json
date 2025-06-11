@@ -1,0 +1,54 @@
+{
+  "gameId": 7592,
+  "slug": "bouncing-chick",
+  "metadata": {
+    "title": "Bouncing Chick Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Bouncing Chick. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bouncing Chick online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bouncing-chick",
+    "openGraph": {
+      "title": "Bouncing Chick Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Bouncing Chick. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bouncing-chick-og.jpg",
+      "url": "https://littlegames.com/games/bouncing-chick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bouncing Chick Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Bouncing Chick. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bouncing-chick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bouncing Chick",
+      "href": "/games/bouncing-chick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_358",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

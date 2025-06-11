@@ -1,0 +1,54 @@
+{
+  "gameId": 9195,
+  "slug": "room-sort",
+  "metadata": {
+    "title": "Free Room Sort Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Room Sort! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Room Sort online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/room-sort",
+    "openGraph": {
+      "title": "Free Room Sort Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Room Sort! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/room-sort-og.jpg",
+      "url": "https://littlegames.com/games/room-sort",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Room Sort Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Room Sort! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/room-sort-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Room Sort",
+      "href": "/games/room-sort",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_051",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

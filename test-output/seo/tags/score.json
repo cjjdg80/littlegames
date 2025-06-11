@@ -1,0 +1,46 @@
+{
+  "tag": "score",
+  "displayName": "Score",
+  "metadata": {
+    "title": "Score Games - Play Free Online",
+    "description": "Discover amazing score games! Play 15 free games with score theme. No downloads required.",
+    "keywords": [
+      "score games",
+      "free online games",
+      "browser games",
+      "score theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/score",
+    "openGraph": {
+      "title": "Score Games - Free Online Gaming",
+      "description": "Play the best score games online for free. 15 games available.",
+      "image": "https://littlegames.com/images/tags/score-og.jpg",
+      "url": "https://littlegames.com/tags/score",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Score Games - Free Online",
+      "description": "Play 15 free score games online.",
+      "image": "https://littlegames.com/images/tags/score-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Score",
+      "href": "/tags/score",
+      "current": true
+    }
+  ],
+  "description": "Discover games with score theme! Our collection includes 15 carefully selected games that feature score elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

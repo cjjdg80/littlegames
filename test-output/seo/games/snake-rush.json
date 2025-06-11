@@ -1,0 +1,54 @@
+{
+  "gameId": 3781,
+  "slug": "snake-rush",
+  "metadata": {
+    "title": "Snake Rush Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Snake Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Snake Rush",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/snake-rush",
+    "openGraph": {
+      "title": "Snake Rush Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Snake Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/snake-rush-og.jpg",
+      "url": "https://littlegames.com/games/snake-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snake Rush Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Snake Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/snake-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Snake Rush",
+      "href": "/games/snake-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_217",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

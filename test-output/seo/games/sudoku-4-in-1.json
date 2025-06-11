@@ -1,0 +1,54 @@
+{
+  "gameId": 6680,
+  "slug": "sudoku-4-in-1",
+  "metadata": {
+    "title": "Sudoku 4 in 1 Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Sudoku 4 in 1. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Sudoku 4 in 1 online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/sudoku-4-in-1",
+    "openGraph": {
+      "title": "Sudoku 4 in 1 Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Sudoku 4 in 1. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/sudoku-4-in-1-og.jpg",
+      "url": "https://littlegames.com/games/sudoku-4-in-1",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sudoku 4 in 1 Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Sudoku 4 in 1. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/sudoku-4-in-1-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sudoku 4 in 1",
+      "href": "/games/sudoku-4-in-1",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_086",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1639,
+  "slug": "coin-run",
+  "metadata": {
+    "title": "Free Coin Run Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Coin Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Coin Run",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/coin-run",
+    "openGraph": {
+      "title": "Free Coin Run Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Coin Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/coin-run-og.jpg",
+      "url": "https://littlegames.com/games/coin-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Coin Run Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Coin Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/coin-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Coin Run",
+      "href": "/games/coin-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_815",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9050,
+  "slug": "pixel-mini-golf",
+  "metadata": {
+    "title": "Pixel Mini Golf Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Pixel Mini Golf. This simulation game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Pixel Mini Golf",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-mini-golf",
+    "openGraph": {
+      "title": "Pixel Mini Golf Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Pixel Mini Golf. This simulation game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/pixel-mini-golf-og.jpg",
+      "url": "https://littlegames.com/games/pixel-mini-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pixel Mini Golf Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Pixel Mini Golf. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pixel-mini-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Pixel Mini Golf",
+      "href": "/games/pixel-mini-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_560",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

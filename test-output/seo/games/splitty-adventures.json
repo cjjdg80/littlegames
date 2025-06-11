@@ -1,0 +1,54 @@
+{
+  "gameId": 4421,
+  "slug": "splitty-adventures",
+  "metadata": {
+    "title": "Play Splitty Adventures - Epic Adventure Game Online",
+    "description": "Begin your quest in Splitty Adventures. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Splitty Adventures",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/splitty-adventures",
+    "openGraph": {
+      "title": "Play Splitty Adventures - Epic Adventure Game Online",
+      "description": "Begin your quest in Splitty Adventures. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/splitty-adventures-og.jpg",
+      "url": "https://littlegames.com/games/splitty-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Splitty Adventures - Epic Adventure Game Online",
+      "description": "Begin your quest in Splitty Adventures. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/splitty-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Splitty Adventures",
+      "href": "/games/splitty-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_060",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

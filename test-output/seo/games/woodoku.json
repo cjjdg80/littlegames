@@ -1,0 +1,54 @@
+{
+  "gameId": 2877,
+  "slug": "woodoku",
+  "metadata": {
+    "title": "Woodoku - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Woodoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Woodoku game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/woodoku",
+    "openGraph": {
+      "title": "Woodoku - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Woodoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/woodoku-og.jpg",
+      "url": "https://littlegames.com/games/woodoku",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Woodoku - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Woodoku. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/woodoku-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Woodoku",
+      "href": "/games/woodoku",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_193",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2548,
+  "slug": "pawn-boss",
+  "metadata": {
+    "title": "Pawn Boss - Exciting Action Adventure Game",
+    "description": "Join the action in Pawn Boss! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Pawn Boss online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pawn-boss",
+    "openGraph": {
+      "title": "Pawn Boss - Exciting Action Adventure Game",
+      "description": "Join the action in Pawn Boss! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pawn-boss-og.jpg",
+      "url": "https://littlegames.com/games/pawn-boss",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pawn Boss - Exciting Action Adventure Game",
+      "description": "Join the action in Pawn Boss! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pawn-boss-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pawn Boss",
+      "href": "/games/pawn-boss",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_994",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

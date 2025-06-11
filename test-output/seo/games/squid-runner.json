@@ -1,0 +1,54 @@
+{
+  "gameId": 5830,
+  "slug": "squid-runner",
+  "metadata": {
+    "title": "Free Squid Runner Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Squid Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Squid Runner",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/squid-runner",
+    "openGraph": {
+      "title": "Free Squid Runner Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Squid Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/squid-runner-og.jpg",
+      "url": "https://littlegames.com/games/squid-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Squid Runner Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Squid Runner. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/squid-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squid Runner",
+      "href": "/games/squid-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_736",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4513,
+  "slug": "imposter-smasher",
+  "metadata": {
+    "title": "Imposter Smasher Online - Explore and Discover",
+    "description": "Start your epic journey with Imposter Smasher! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Imposter Smasher",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/imposter-smasher",
+    "openGraph": {
+      "title": "Imposter Smasher Online - Explore and Discover",
+      "description": "Start your epic journey with Imposter Smasher! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/imposter-smasher-og.jpg",
+      "url": "https://littlegames.com/games/imposter-smasher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Imposter Smasher Online - Explore and Discover",
+      "description": "Start your epic journey with Imposter Smasher! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/imposter-smasher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Imposter Smasher",
+      "href": "/games/imposter-smasher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_912",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

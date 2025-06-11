@@ -1,0 +1,54 @@
+{
+  "gameId": 990,
+  "slug": "pop-the-bug",
+  "metadata": {
+    "title": "Action Game Pop The Bug - Play Free Now",
+    "description": "Pop The Bug delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Pop The Bug online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pop-the-bug",
+    "openGraph": {
+      "title": "Action Game Pop The Bug - Play Free Now",
+      "description": "Pop The Bug delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pop-the-bug-og.jpg",
+      "url": "https://littlegames.com/games/pop-the-bug",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pop The Bug - Play Free Now",
+      "description": "Pop The Bug delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pop-the-bug-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pop The Bug",
+      "href": "/games/pop-the-bug",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_696",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

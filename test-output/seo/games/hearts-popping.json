@@ -1,0 +1,54 @@
+{
+  "gameId": 4212,
+  "slug": "hearts-popping",
+  "metadata": {
+    "title": "Play Hearts Popping - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Hearts Popping! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Hearts Popping",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/hearts-popping",
+    "openGraph": {
+      "title": "Play Hearts Popping - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Hearts Popping! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hearts-popping-og.jpg",
+      "url": "https://littlegames.com/games/hearts-popping",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hearts Popping - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Hearts Popping! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hearts-popping-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hearts Popping",
+      "href": "/games/hearts-popping",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_578",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

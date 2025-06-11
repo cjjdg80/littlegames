@@ -1,0 +1,54 @@
+{
+  "gameId": 5525,
+  "slug": "maze-labyrinth",
+  "metadata": {
+    "title": "Maze & labyrinth - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Maze & labyrinth! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "puzzle games",
+      "Maze & labyrinth",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/maze-labyrinth",
+    "openGraph": {
+      "title": "Maze & labyrinth - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Maze & labyrinth! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/maze-labyrinth-og.jpg",
+      "url": "https://littlegames.com/games/maze-labyrinth",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Maze & labyrinth - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Maze & labyrinth! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/maze-labyrinth-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Maze & labyrinth",
+      "href": "/games/maze-labyrinth",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_281",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

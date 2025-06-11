@@ -1,0 +1,54 @@
+{
+  "gameId": 4925,
+  "slug": "shape-shift-run",
+  "metadata": {
+    "title": "Shape Shift Run Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Shape Shift Run! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Shape Shift Run online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/shape-shift-run",
+    "openGraph": {
+      "title": "Shape Shift Run Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shape Shift Run! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shape-shift-run-og.jpg",
+      "url": "https://littlegames.com/games/shape-shift-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shape Shift Run Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shape Shift Run! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shape-shift-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shape Shift Run",
+      "href": "/games/shape-shift-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_681",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

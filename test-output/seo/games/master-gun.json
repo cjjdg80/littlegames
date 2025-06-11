@@ -1,0 +1,54 @@
+{
+  "gameId": 7477,
+  "slug": "master-gun",
+  "metadata": {
+    "title": "Master Gun - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Master Gun! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Master Gun",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/master-gun",
+    "openGraph": {
+      "title": "Master Gun - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Master Gun! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/master-gun-og.jpg",
+      "url": "https://littlegames.com/games/master-gun",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Master Gun - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Master Gun! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/master-gun-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Master Gun",
+      "href": "/games/master-gun",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_793",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6214,
+  "slug": "hexaquatic-kraken",
+  "metadata": {
+    "title": "Puzzle Game HexAquatic Kraken - Test Your Skills",
+    "description": "HexAquatic Kraken offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "HexAquatic Kraken game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexaquatic-kraken",
+    "openGraph": {
+      "title": "Puzzle Game HexAquatic Kraken - Test Your Skills",
+      "description": "HexAquatic Kraken offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hexaquatic-kraken-og.jpg",
+      "url": "https://littlegames.com/games/hexaquatic-kraken",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game HexAquatic Kraken - Test Your Skills",
+      "description": "HexAquatic Kraken offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hexaquatic-kraken-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "HexAquatic Kraken",
+      "href": "/games/hexaquatic-kraken",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_640",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

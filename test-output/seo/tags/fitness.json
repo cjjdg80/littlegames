@@ -1,0 +1,46 @@
+{
+  "tag": "fitness",
+  "displayName": "Fitness",
+  "metadata": {
+    "title": "Fitness Games - Play Free Online",
+    "description": "Discover amazing fitness games! Play 5 free games with fitness theme. No downloads required.",
+    "keywords": [
+      "fitness games",
+      "free online games",
+      "browser games",
+      "fitness theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/fitness",
+    "openGraph": {
+      "title": "Fitness Games - Free Online Gaming",
+      "description": "Play the best fitness games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/fitness-og.jpg",
+      "url": "https://littlegames.com/tags/fitness",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fitness Games - Free Online",
+      "description": "Play 5 free fitness games online.",
+      "image": "https://littlegames.com/images/tags/fitness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fitness",
+      "href": "/tags/fitness",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fitness theme! Our collection includes 5 carefully selected games that feature fitness elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

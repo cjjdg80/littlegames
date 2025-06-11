@@ -1,0 +1,54 @@
+{
+  "gameId": 8834,
+  "slug": "car-park-simulator",
+  "metadata": {
+    "title": "Car Park Simulator - Exciting Action Adventure Game",
+    "description": "Join the action in Car Park Simulator! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Car Park Simulator online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/car-park-simulator",
+    "openGraph": {
+      "title": "Car Park Simulator - Exciting Action Adventure Game",
+      "description": "Join the action in Car Park Simulator! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/car-park-simulator-og.jpg",
+      "url": "https://littlegames.com/games/car-park-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Car Park Simulator - Exciting Action Adventure Game",
+      "description": "Join the action in Car Park Simulator! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/car-park-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Car Park Simulator",
+      "href": "/games/car-park-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_860",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

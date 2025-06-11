@@ -1,0 +1,54 @@
+{
+  "gameId": 2974,
+  "slug": "lucky-tap",
+  "metadata": {
+    "title": "Play Lucky Tap - Free Action Game Online",
+    "description": "Lucky Tap delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Lucky Tap online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lucky-tap",
+    "openGraph": {
+      "title": "Play Lucky Tap - Free Action Game Online",
+      "description": "Lucky Tap delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/lucky-tap-og.jpg",
+      "url": "https://littlegames.com/games/lucky-tap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lucky Tap - Free Action Game Online",
+      "description": "Lucky Tap delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/lucky-tap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Lucky Tap",
+      "href": "/games/lucky-tap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_200",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

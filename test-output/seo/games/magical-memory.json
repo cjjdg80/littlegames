@@ -1,0 +1,54 @@
+{
+  "gameId": 1261,
+  "slug": "magical-memory",
+  "metadata": {
+    "title": "Puzzle Game Magical Memory - Test Your Skills",
+    "description": "Sharpen your mind with Magical Memory! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Magical Memory game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/magical-memory",
+    "openGraph": {
+      "title": "Puzzle Game Magical Memory - Test Your Skills",
+      "description": "Sharpen your mind with Magical Memory! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/magical-memory-og.jpg",
+      "url": "https://littlegames.com/games/magical-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Magical Memory - Test Your Skills",
+      "description": "Sharpen your mind with Magical Memory! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/magical-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Magical Memory",
+      "href": "/games/magical-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_097",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

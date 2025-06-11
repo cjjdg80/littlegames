@@ -1,0 +1,54 @@
+{
+  "gameId": 7639,
+  "slug": "paint-it",
+  "metadata": {
+    "title": "Paint It Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Paint It! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Paint It online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/paint-it",
+    "openGraph": {
+      "title": "Paint It Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Paint It! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paint-it-og.jpg",
+      "url": "https://littlegames.com/games/paint-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paint It Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Paint It! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paint-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paint It",
+      "href": "/games/paint-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_815",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

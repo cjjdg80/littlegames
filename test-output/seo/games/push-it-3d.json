@@ -1,0 +1,54 @@
+{
+  "gameId": 8482,
+  "slug": "push-it-3d",
+  "metadata": {
+    "title": "Push It 3D - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Push It 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Push It 3D online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/push-it-3d",
+    "openGraph": {
+      "title": "Push It 3D - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Push It 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/push-it-3d-og.jpg",
+      "url": "https://littlegames.com/games/push-it-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Push It 3D - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Push It 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/push-it-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Push It 3D",
+      "href": "/games/push-it-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_948",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

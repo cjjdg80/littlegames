@@ -1,0 +1,54 @@
+{
+  "gameId": 585,
+  "slug": "batty-math",
+  "metadata": {
+    "title": "Play Batty Math - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Batty Math! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Batty Math",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/batty-math",
+    "openGraph": {
+      "title": "Play Batty Math - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Batty Math! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/batty-math-og.jpg",
+      "url": "https://littlegames.com/games/batty-math",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Batty Math - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Batty Math! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/batty-math-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Batty Math",
+      "href": "/games/batty-math",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_141",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

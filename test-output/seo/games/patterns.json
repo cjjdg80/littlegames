@@ -1,0 +1,54 @@
+{
+  "gameId": 9933,
+  "slug": "patterns",
+  "metadata": {
+    "title": "Patterns Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Patterns. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Patterns",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/patterns",
+    "openGraph": {
+      "title": "Patterns Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Patterns. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/patterns-og.jpg",
+      "url": "https://littlegames.com/games/patterns",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Patterns Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Patterns. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/patterns-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Patterns",
+      "href": "/games/patterns",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_929",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

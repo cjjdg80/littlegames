@@ -1,0 +1,54 @@
+{
+  "gameId": 4077,
+  "slug": "cannon-shot",
+  "metadata": {
+    "title": "Play Cannon shot - Free Action Game Online",
+    "description": "Join the action in Cannon shot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Cannon shot online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cannon-shot",
+    "openGraph": {
+      "title": "Play Cannon shot - Free Action Game Online",
+      "description": "Join the action in Cannon shot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cannon-shot-og.jpg",
+      "url": "https://littlegames.com/games/cannon-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cannon shot - Free Action Game Online",
+      "description": "Join the action in Cannon shot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cannon-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cannon shot",
+      "href": "/games/cannon-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_393",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

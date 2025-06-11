@@ -1,0 +1,54 @@
+{
+  "gameId": 5564,
+  "slug": "fishing-duels",
+  "metadata": {
+    "title": "Play Fishing Duels - Free Action Game Online",
+    "description": "Fishing Duels delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Fishing Duels game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fishing-duels",
+    "openGraph": {
+      "title": "Play Fishing Duels - Free Action Game Online",
+      "description": "Fishing Duels delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fishing-duels-og.jpg",
+      "url": "https://littlegames.com/games/fishing-duels",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fishing Duels - Free Action Game Online",
+      "description": "Fishing Duels delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fishing-duels-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fishing Duels",
+      "href": "/games/fishing-duels",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_490",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

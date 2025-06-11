@@ -1,0 +1,54 @@
+{
+  "gameId": 1893,
+  "slug": "car-girl-garage",
+  "metadata": {
+    "title": "Car Girl Garage - Exciting Action Adventure Game",
+    "description": "Join the action in Car Girl Garage! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Car Girl Garage",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/car-girl-garage",
+    "openGraph": {
+      "title": "Car Girl Garage - Exciting Action Adventure Game",
+      "description": "Join the action in Car Girl Garage! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/car-girl-garage-og.jpg",
+      "url": "https://littlegames.com/games/car-girl-garage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Car Girl Garage - Exciting Action Adventure Game",
+      "description": "Join the action in Car Girl Garage! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/car-girl-garage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Car Girl Garage",
+      "href": "/games/car-girl-garage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_689",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

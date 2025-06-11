@@ -1,0 +1,54 @@
+{
+  "gameId": 8046,
+  "slug": "tap-away",
+  "metadata": {
+    "title": "Play Tap Away - Free Puzzle Game Online",
+    "description": "Exercise your brain with Tap Away. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Tap Away game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tap-away",
+    "openGraph": {
+      "title": "Play Tap Away - Free Puzzle Game Online",
+      "description": "Exercise your brain with Tap Away. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tap-away-og.jpg",
+      "url": "https://littlegames.com/games/tap-away",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tap Away - Free Puzzle Game Online",
+      "description": "Exercise your brain with Tap Away. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tap-away-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tap Away",
+      "href": "/games/tap-away",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_432",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

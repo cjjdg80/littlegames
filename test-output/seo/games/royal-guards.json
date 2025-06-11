@@ -1,0 +1,54 @@
+{
+  "gameId": 4325,
+  "slug": "royal-guards",
+  "metadata": {
+    "title": "Royal Guards Online - Explore and Discover",
+    "description": "Embark on an epic journey in Royal Guards! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Royal Guards online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/royal-guards",
+    "openGraph": {
+      "title": "Royal Guards Online - Explore and Discover",
+      "description": "Embark on an epic journey in Royal Guards! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/royal-guards-og.jpg",
+      "url": "https://littlegames.com/games/royal-guards",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Royal Guards Online - Explore and Discover",
+      "description": "Embark on an epic journey in Royal Guards! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/royal-guards-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Royal Guards",
+      "href": "/games/royal-guards",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_084",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

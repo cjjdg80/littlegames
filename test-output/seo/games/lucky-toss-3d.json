@@ -1,0 +1,54 @@
+{
+  "gameId": 2872,
+  "slug": "lucky-toss-3d",
+  "metadata": {
+    "title": "Lucky Toss 3D - Exciting Action Adventure Game",
+    "description": "Lucky Toss 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Lucky Toss 3D online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lucky-toss-3d",
+    "openGraph": {
+      "title": "Lucky Toss 3D - Exciting Action Adventure Game",
+      "description": "Lucky Toss 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/lucky-toss-3d-og.jpg",
+      "url": "https://littlegames.com/games/lucky-toss-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Lucky Toss 3D - Exciting Action Adventure Game",
+      "description": "Lucky Toss 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/lucky-toss-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Lucky Toss 3D",
+      "href": "/games/lucky-toss-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_038",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

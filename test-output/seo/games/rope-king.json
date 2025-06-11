@@ -1,0 +1,54 @@
+{
+  "gameId": 8469,
+  "slug": "rope-king",
+  "metadata": {
+    "title": "Play Rope King - Free Action Game Online",
+    "description": "Experience thrilling action in Rope King! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Rope King game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/rope-king",
+    "openGraph": {
+      "title": "Play Rope King - Free Action Game Online",
+      "description": "Experience thrilling action in Rope King! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/rope-king-og.jpg",
+      "url": "https://littlegames.com/games/rope-king",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Rope King - Free Action Game Online",
+      "description": "Experience thrilling action in Rope King! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/rope-king-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rope King",
+      "href": "/games/rope-king",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_545",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8273,
+  "slug": "fishing-life",
+  "metadata": {
+    "title": "Action Game Fishing Life - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Fishing Life. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Fishing Life",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fishing-life",
+    "openGraph": {
+      "title": "Action Game Fishing Life - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Fishing Life. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fishing-life-og.jpg",
+      "url": "https://littlegames.com/games/fishing-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fishing Life - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Fishing Life. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fishing-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fishing Life",
+      "href": "/games/fishing-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_469",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

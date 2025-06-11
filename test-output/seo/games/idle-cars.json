@@ -1,0 +1,54 @@
+{
+  "gameId": 3739,
+  "slug": "idle-cars",
+  "metadata": {
+    "title": "Play Idle Cars - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Idle Cars. This free online simulation game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Idle Cars online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/idle-cars",
+    "openGraph": {
+      "title": "Play Idle Cars - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Idle Cars. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/idle-cars-og.jpg",
+      "url": "https://littlegames.com/games/idle-cars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Idle Cars - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Idle Cars. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/idle-cars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Cars",
+      "href": "/games/idle-cars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_919",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

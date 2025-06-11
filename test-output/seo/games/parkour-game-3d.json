@@ -1,0 +1,54 @@
+{
+  "gameId": 5050,
+  "slug": "parkour-game-3d",
+  "metadata": {
+    "title": "Parkour Game 3D - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Parkour Game 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Parkour Game 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-game-3d",
+    "openGraph": {
+      "title": "Parkour Game 3D - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Parkour Game 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/parkour-game-3d-og.jpg",
+      "url": "https://littlegames.com/games/parkour-game-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parkour Game 3D - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Parkour Game 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/parkour-game-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parkour Game 3D",
+      "href": "/games/parkour-game-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_556",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

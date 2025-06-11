@@ -1,0 +1,54 @@
+{
+  "gameId": 6426,
+  "slug": "run-boys",
+  "metadata": {
+    "title": "Run Boys - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Run Boys! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Run Boys",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/run-boys",
+    "openGraph": {
+      "title": "Run Boys - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Run Boys! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/run-boys-og.jpg",
+      "url": "https://littlegames.com/games/run-boys",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Run Boys - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Run Boys! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/run-boys-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Run Boys",
+      "href": "/games/run-boys",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_212",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

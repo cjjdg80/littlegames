@@ -1,0 +1,54 @@
+{
+  "gameId": 8318,
+  "slug": "dinosaur-cards",
+  "metadata": {
+    "title": "Dinosaur Cards - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Dinosaur Cards! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Dinosaur Cards",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/dinosaur-cards",
+    "openGraph": {
+      "title": "Dinosaur Cards - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Dinosaur Cards! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/dinosaur-cards-og.jpg",
+      "url": "https://littlegames.com/games/dinosaur-cards",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dinosaur Cards - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Dinosaur Cards! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/dinosaur-cards-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dinosaur Cards",
+      "href": "/games/dinosaur-cards",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_864",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

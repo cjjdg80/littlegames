@@ -1,0 +1,54 @@
+{
+  "gameId": 7118,
+  "slug": "idle-cat-diggers",
+  "metadata": {
+    "title": "Idle Cat Diggers - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Idle Cat Diggers. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Idle Cat Diggers",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-cat-diggers",
+    "openGraph": {
+      "title": "Idle Cat Diggers - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Idle Cat Diggers. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/idle-cat-diggers-og.jpg",
+      "url": "https://littlegames.com/games/idle-cat-diggers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idle Cat Diggers - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Idle Cat Diggers. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/idle-cat-diggers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Idle Cat Diggers",
+      "href": "/games/idle-cat-diggers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_664",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

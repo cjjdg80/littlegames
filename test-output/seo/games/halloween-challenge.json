@@ -1,0 +1,54 @@
+{
+  "gameId": 8671,
+  "slug": "halloween-challenge",
+  "metadata": {
+    "title": "Halloween Challenge - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Halloween Challenge! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "play Halloween Challenge",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-challenge",
+    "openGraph": {
+      "title": "Halloween Challenge - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Halloween Challenge! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/halloween-challenge-og.jpg",
+      "url": "https://littlegames.com/games/halloween-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Challenge - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Halloween Challenge! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/halloween-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Halloween Challenge",
+      "href": "/games/halloween-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_810",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

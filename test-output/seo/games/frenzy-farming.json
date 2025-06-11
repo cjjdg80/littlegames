@@ -1,0 +1,54 @@
+{
+  "gameId": 2530,
+  "slug": "frenzy-farming",
+  "metadata": {
+    "title": "Frenzy Farming Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Frenzy Farming. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Frenzy Farming",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/frenzy-farming",
+    "openGraph": {
+      "title": "Frenzy Farming Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Frenzy Farming. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/frenzy-farming-og.jpg",
+      "url": "https://littlegames.com/games/frenzy-farming",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Frenzy Farming Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Frenzy Farming. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/frenzy-farming-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Frenzy Farming",
+      "href": "/games/frenzy-farming",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_436",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

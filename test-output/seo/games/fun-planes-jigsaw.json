@@ -1,0 +1,54 @@
+{
+  "gameId": 101,
+  "slug": "fun-planes-jigsaw",
+  "metadata": {
+    "title": "Puzzle Game Fun Planes Jigsaw - Test Your Skills",
+    "description": "Fun Planes Jigsaw offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Fun Planes Jigsaw",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fun-planes-jigsaw",
+    "openGraph": {
+      "title": "Puzzle Game Fun Planes Jigsaw - Test Your Skills",
+      "description": "Fun Planes Jigsaw offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/fun-planes-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/fun-planes-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Fun Planes Jigsaw - Test Your Skills",
+      "description": "Fun Planes Jigsaw offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/fun-planes-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fun Planes Jigsaw",
+      "href": "/games/fun-planes-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_137",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

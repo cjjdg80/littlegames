@@ -1,0 +1,54 @@
+{
+  "gameId": 225,
+  "slug": "hide-and-seek-numbers",
+  "metadata": {
+    "title": "Hide and Seek Numbers Online - Explore and Discover",
+    "description": "Start your epic journey with Hide and Seek Numbers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Hide and Seek Numbers online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/hide-and-seek-numbers",
+    "openGraph": {
+      "title": "Hide and Seek Numbers Online - Explore and Discover",
+      "description": "Start your epic journey with Hide and Seek Numbers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hide-and-seek-numbers-og.jpg",
+      "url": "https://littlegames.com/games/hide-and-seek-numbers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hide and Seek Numbers Online - Explore and Discover",
+      "description": "Start your epic journey with Hide and Seek Numbers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hide-and-seek-numbers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hide and Seek Numbers",
+      "href": "/games/hide-and-seek-numbers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_984",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

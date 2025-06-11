@@ -1,0 +1,54 @@
+{
+  "gameId": 887,
+  "slug": "patterns-link",
+  "metadata": {
+    "title": "Free Patterns Link Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Patterns Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Patterns Link game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/patterns-link",
+    "openGraph": {
+      "title": "Free Patterns Link Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Patterns Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/patterns-link-og.jpg",
+      "url": "https://littlegames.com/games/patterns-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Patterns Link Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Patterns Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/patterns-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Patterns Link",
+      "href": "/games/patterns-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_503",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

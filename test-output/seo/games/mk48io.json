@@ -1,0 +1,54 @@
+{
+  "gameId": 2917,
+  "slug": "mk48io",
+  "metadata": {
+    "title": "Mk48.io - Exciting Action Adventure Game",
+    "description": "Join the action in Mk48.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mk48.io online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mk48io",
+    "openGraph": {
+      "title": "Mk48.io - Exciting Action Adventure Game",
+      "description": "Join the action in Mk48.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mk48io-og.jpg",
+      "url": "https://littlegames.com/games/mk48io",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mk48.io - Exciting Action Adventure Game",
+      "description": "Join the action in Mk48.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mk48io-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mk48.io",
+      "href": "/games/mk48io",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_433",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

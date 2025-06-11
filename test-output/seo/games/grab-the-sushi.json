@@ -1,0 +1,54 @@
+{
+  "gameId": 4737,
+  "slug": "grab-the-sushi",
+  "metadata": {
+    "title": "Grab The Sushi Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Grab The Sushi! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Grab The Sushi",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/grab-the-sushi",
+    "openGraph": {
+      "title": "Grab The Sushi Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Grab The Sushi! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/grab-the-sushi-og.jpg",
+      "url": "https://littlegames.com/games/grab-the-sushi",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Grab The Sushi Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Grab The Sushi! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/grab-the-sushi-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Grab The Sushi",
+      "href": "/games/grab-the-sushi",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_853",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

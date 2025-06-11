@@ -1,0 +1,54 @@
+{
+  "gameId": 3514,
+  "slug": "kick-the-general",
+  "metadata": {
+    "title": "Free Kick The General Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Kick The General. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Kick The General",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/kick-the-general",
+    "openGraph": {
+      "title": "Free Kick The General Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Kick The General. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kick-the-general-og.jpg",
+      "url": "https://littlegames.com/games/kick-the-general",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Kick The General Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Kick The General. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kick-the-general-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kick The General",
+      "href": "/games/kick-the-general",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_940",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3007,
+  "slug": "perfect-turn",
+  "metadata": {
+    "title": "Play Perfect Turn - Free Action Game Online",
+    "description": "Dive into the action-packed world of Perfect Turn. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Perfect Turn",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/perfect-turn",
+    "openGraph": {
+      "title": "Play Perfect Turn - Free Action Game Online",
+      "description": "Dive into the action-packed world of Perfect Turn. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/perfect-turn-og.jpg",
+      "url": "https://littlegames.com/games/perfect-turn",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Perfect Turn - Free Action Game Online",
+      "description": "Dive into the action-packed world of Perfect Turn. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/perfect-turn-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Perfect Turn",
+      "href": "/games/perfect-turn",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_223",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

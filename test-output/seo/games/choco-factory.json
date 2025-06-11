@@ -1,0 +1,54 @@
+{
+  "gameId": 5037,
+  "slug": "choco-factory",
+  "metadata": {
+    "title": "Choco Factory Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Choco Factory. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Choco Factory",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/choco-factory",
+    "openGraph": {
+      "title": "Choco Factory Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Choco Factory. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/choco-factory-og.jpg",
+      "url": "https://littlegames.com/games/choco-factory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Choco Factory Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Choco Factory. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/choco-factory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Choco Factory",
+      "href": "/games/choco-factory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_153",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

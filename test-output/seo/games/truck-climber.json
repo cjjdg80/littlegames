@@ -1,0 +1,54 @@
+{
+  "gameId": 3427,
+  "slug": "truck-climber",
+  "metadata": {
+    "title": "Truck Climber Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Truck Climber! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Truck Climber game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/truck-climber",
+    "openGraph": {
+      "title": "Truck Climber Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Truck Climber! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/truck-climber-og.jpg",
+      "url": "https://littlegames.com/games/truck-climber",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Truck Climber Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Truck Climber! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/truck-climber-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Truck Climber",
+      "href": "/games/truck-climber",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_243",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

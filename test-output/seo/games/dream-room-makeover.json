@@ -1,0 +1,54 @@
+{
+  "gameId": 7980,
+  "slug": "dream-room-makeover",
+  "metadata": {
+    "title": "Dream Room Makeover - Brain Training Puzzle Challenge",
+    "description": "Dream Room Makeover offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "Dream Room Makeover game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/dream-room-makeover",
+    "openGraph": {
+      "title": "Dream Room Makeover - Brain Training Puzzle Challenge",
+      "description": "Dream Room Makeover offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/dream-room-makeover-og.jpg",
+      "url": "https://littlegames.com/games/dream-room-makeover",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dream Room Makeover - Brain Training Puzzle Challenge",
+      "description": "Dream Room Makeover offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/dream-room-makeover-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dream Room Makeover",
+      "href": "/games/dream-room-makeover",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_386",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

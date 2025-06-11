@@ -1,0 +1,54 @@
+{
+  "gameId": 9607,
+  "slug": "ludo-world",
+  "metadata": {
+    "title": "Ludo World Online - Ultimate Action Gaming Experience",
+    "description": "Ludo World delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Ludo World",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/ludo-world",
+    "openGraph": {
+      "title": "Ludo World Online - Ultimate Action Gaming Experience",
+      "description": "Ludo World delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ludo-world-og.jpg",
+      "url": "https://littlegames.com/games/ludo-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ludo World Online - Ultimate Action Gaming Experience",
+      "description": "Ludo World delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ludo-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ludo World",
+      "href": "/games/ludo-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_823",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

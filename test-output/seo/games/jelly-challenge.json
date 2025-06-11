@@ -1,0 +1,54 @@
+{
+  "gameId": 1736,
+  "slug": "jelly-challenge",
+  "metadata": {
+    "title": "Jelly Challenge Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Jelly Challenge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Jelly Challenge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-challenge",
+    "openGraph": {
+      "title": "Jelly Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Jelly Challenge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/jelly-challenge-og.jpg",
+      "url": "https://littlegames.com/games/jelly-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jelly Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Jelly Challenge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jelly-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jelly Challenge",
+      "href": "/games/jelly-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_822",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

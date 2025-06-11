@@ -1,0 +1,46 @@
+{
+  "tag": "mermaid",
+  "displayName": "Mermaid",
+  "metadata": {
+    "title": "Mermaid Games - Play Free Online",
+    "description": "Discover amazing mermaid games! Play 14 free games with mermaid theme. No downloads required.",
+    "keywords": [
+      "mermaid games",
+      "free online games",
+      "browser games",
+      "mermaid theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/mermaid",
+    "openGraph": {
+      "title": "Mermaid Games - Free Online Gaming",
+      "description": "Play the best mermaid games online for free. 14 games available.",
+      "image": "https://littlegames.com/images/tags/mermaid-og.jpg",
+      "url": "https://littlegames.com/tags/mermaid",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mermaid Games - Free Online",
+      "description": "Play 14 free mermaid games online.",
+      "image": "https://littlegames.com/images/tags/mermaid-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Mermaid",
+      "href": "/tags/mermaid",
+      "current": true
+    }
+  ],
+  "description": "Discover games with mermaid theme! Our collection includes 14 carefully selected games that feature mermaid elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

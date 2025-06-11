@@ -1,0 +1,54 @@
+{
+  "gameId": 9510,
+  "slug": "shine-seek",
+  "metadata": {
+    "title": "Action Game Shine Seek - Play Free Now",
+    "description": "Experience thrilling action in Shine Seek! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Shine Seek game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/shine-seek",
+    "openGraph": {
+      "title": "Action Game Shine Seek - Play Free Now",
+      "description": "Experience thrilling action in Shine Seek! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/shine-seek-og.jpg",
+      "url": "https://littlegames.com/games/shine-seek",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Shine Seek - Play Free Now",
+      "description": "Experience thrilling action in Shine Seek! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/shine-seek-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shine Seek",
+      "href": "/games/shine-seek",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_816",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

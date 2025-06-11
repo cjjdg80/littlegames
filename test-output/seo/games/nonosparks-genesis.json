@@ -1,0 +1,54 @@
+{
+  "gameId": 4400,
+  "slug": "nonosparks-genesis",
+  "metadata": {
+    "title": "NoNoSparks Genesis Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in NoNoSparks Genesis. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play NoNoSparks Genesis",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/nonosparks-genesis",
+    "openGraph": {
+      "title": "NoNoSparks Genesis Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in NoNoSparks Genesis. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/nonosparks-genesis-og.jpg",
+      "url": "https://littlegames.com/games/nonosparks-genesis",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "NoNoSparks Genesis Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in NoNoSparks Genesis. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/nonosparks-genesis-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "NoNoSparks Genesis",
+      "href": "/games/nonosparks-genesis",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_406",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

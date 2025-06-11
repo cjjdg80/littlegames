@@ -1,0 +1,54 @@
+{
+  "gameId": 7906,
+  "slug": "offroad-island",
+  "metadata": {
+    "title": "Free Offroad Island Game - Adventure Awaits",
+    "description": "Discover new worlds in Offroad Island. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Offroad Island",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/offroad-island",
+    "openGraph": {
+      "title": "Free Offroad Island Game - Adventure Awaits",
+      "description": "Discover new worlds in Offroad Island. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/offroad-island-og.jpg",
+      "url": "https://littlegames.com/games/offroad-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Offroad Island Game - Adventure Awaits",
+      "description": "Discover new worlds in Offroad Island. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/offroad-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Offroad Island",
+      "href": "/games/offroad-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_095",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

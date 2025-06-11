@@ -1,0 +1,54 @@
+{
+  "gameId": 5076,
+  "slug": "fruits-memory",
+  "metadata": {
+    "title": "Play Fruits Memory - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Fruits Memory. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Fruits Memory",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fruits-memory",
+    "openGraph": {
+      "title": "Play Fruits Memory - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Fruits Memory. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fruits-memory-og.jpg",
+      "url": "https://littlegames.com/games/fruits-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fruits Memory - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Fruits Memory. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fruits-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fruits Memory",
+      "href": "/games/fruits-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_362",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

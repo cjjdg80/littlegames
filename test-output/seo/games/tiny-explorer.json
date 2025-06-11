@@ -1,0 +1,54 @@
+{
+  "gameId": 6769,
+  "slug": "tiny-explorer",
+  "metadata": {
+    "title": "Free Tiny Explorer Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Tiny Explorer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tiny Explorer game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-explorer",
+    "openGraph": {
+      "title": "Free Tiny Explorer Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tiny Explorer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tiny-explorer-og.jpg",
+      "url": "https://littlegames.com/games/tiny-explorer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Tiny Explorer Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Tiny Explorer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tiny-explorer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tiny Explorer",
+      "href": "/games/tiny-explorer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_845",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

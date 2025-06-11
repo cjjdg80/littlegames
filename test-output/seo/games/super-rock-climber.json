@@ -1,0 +1,54 @@
+{
+  "gameId": 8788,
+  "slug": "super-rock-climber",
+  "metadata": {
+    "title": "Action Game Super Rock Climber - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Super Rock Climber. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Super Rock Climber game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/super-rock-climber",
+    "openGraph": {
+      "title": "Action Game Super Rock Climber - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Super Rock Climber. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/super-rock-climber-og.jpg",
+      "url": "https://littlegames.com/games/super-rock-climber",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Super Rock Climber - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Super Rock Climber. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/super-rock-climber-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Super Rock Climber",
+      "href": "/games/super-rock-climber",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_434",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

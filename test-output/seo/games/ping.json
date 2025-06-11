@@ -1,0 +1,54 @@
+{
+  "gameId": 4178,
+  "slug": "ping",
+  "metadata": {
+    "title": "Play Ping - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Ping. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Ping game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ping",
+    "openGraph": {
+      "title": "Play Ping - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Ping. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ping-og.jpg",
+      "url": "https://littlegames.com/games/ping",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ping - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Ping. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ping-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ping",
+      "href": "/games/ping",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_524",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3751,
+  "slug": "fish-soccer",
+  "metadata": {
+    "title": "Play Fish Soccer - Free Action Game Online",
+    "description": "Join the action in Fish Soccer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Fish Soccer game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fish-soccer",
+    "openGraph": {
+      "title": "Play Fish Soccer - Free Action Game Online",
+      "description": "Join the action in Fish Soccer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fish-soccer-og.jpg",
+      "url": "https://littlegames.com/games/fish-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fish Soccer - Free Action Game Online",
+      "description": "Join the action in Fish Soccer! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fish-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fish Soccer",
+      "href": "/games/fish-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_287",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

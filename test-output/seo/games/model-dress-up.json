@@ -1,0 +1,54 @@
+{
+  "gameId": 1314,
+  "slug": "model-dress-up",
+  "metadata": {
+    "title": "Free Model Dress Up Game - Action Packed Fun",
+    "description": "Experience thrilling action in Model Dress Up! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Model Dress Up",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/model-dress-up",
+    "openGraph": {
+      "title": "Free Model Dress Up Game - Action Packed Fun",
+      "description": "Experience thrilling action in Model Dress Up! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/model-dress-up-og.jpg",
+      "url": "https://littlegames.com/games/model-dress-up",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Model Dress Up Game - Action Packed Fun",
+      "description": "Experience thrilling action in Model Dress Up! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/model-dress-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Model Dress Up",
+      "href": "/games/model-dress-up",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_740",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

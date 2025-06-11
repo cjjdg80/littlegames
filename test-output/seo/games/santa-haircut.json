@@ -1,0 +1,54 @@
+{
+  "gameId": 3677,
+  "slug": "santa-haircut",
+  "metadata": {
+    "title": "Santa Haircut - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Santa Haircut! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Santa Haircut online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/santa-haircut",
+    "openGraph": {
+      "title": "Santa Haircut - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Santa Haircut! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/santa-haircut-og.jpg",
+      "url": "https://littlegames.com/games/santa-haircut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Haircut - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Santa Haircut! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/santa-haircut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Santa Haircut",
+      "href": "/games/santa-haircut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_993",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

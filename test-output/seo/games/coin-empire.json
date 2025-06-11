@@ -1,0 +1,54 @@
+{
+  "gameId": 7798,
+  "slug": "coin-empire",
+  "metadata": {
+    "title": "Coin Empire Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Coin Empire! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Coin Empire online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/coin-empire",
+    "openGraph": {
+      "title": "Coin Empire Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Coin Empire! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/coin-empire-og.jpg",
+      "url": "https://littlegames.com/games/coin-empire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Coin Empire Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Coin Empire! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/coin-empire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Coin Empire",
+      "href": "/games/coin-empire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_744",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

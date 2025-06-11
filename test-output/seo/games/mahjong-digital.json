@@ -1,0 +1,54 @@
+{
+  "gameId": 2756,
+  "slug": "mahjong-digital",
+  "metadata": {
+    "title": "Play Mahjong Digital - Free Action Game Online",
+    "description": "Mahjong Digital delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Mahjong Digital",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-digital",
+    "openGraph": {
+      "title": "Play Mahjong Digital - Free Action Game Online",
+      "description": "Mahjong Digital delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-digital-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-digital",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mahjong Digital - Free Action Game Online",
+      "description": "Mahjong Digital delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-digital-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Digital",
+      "href": "/games/mahjong-digital",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_442",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

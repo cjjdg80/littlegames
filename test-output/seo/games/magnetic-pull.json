@@ -1,0 +1,54 @@
+{
+  "gameId": 9687,
+  "slug": "magnetic-pull",
+  "metadata": {
+    "title": "Play Magnetic Pull - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Magnetic Pull. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Magnetic Pull game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/magnetic-pull",
+    "openGraph": {
+      "title": "Play Magnetic Pull - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Magnetic Pull. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/magnetic-pull-og.jpg",
+      "url": "https://littlegames.com/games/magnetic-pull",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Magnetic Pull - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Magnetic Pull. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/magnetic-pull-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Magnetic Pull",
+      "href": "/games/magnetic-pull",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_303",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "kidgames",
+  "displayName": "Kidgames",
+  "metadata": {
+    "title": "Kidgames Games - Play Free Online",
+    "description": "Discover amazing kidgames games! Play 65 free games with kidgames theme. No downloads required.",
+    "keywords": [
+      "kidgames games",
+      "free online games",
+      "browser games",
+      "kidgames theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/kidgames",
+    "openGraph": {
+      "title": "Kidgames Games - Free Online Gaming",
+      "description": "Play the best kidgames games online for free. 65 games available.",
+      "image": "https://littlegames.com/images/tags/kidgames-og.jpg",
+      "url": "https://littlegames.com/tags/kidgames",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kidgames Games - Free Online",
+      "description": "Play 65 free kidgames games online.",
+      "image": "https://littlegames.com/images/tags/kidgames-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Kidgames",
+      "href": "/tags/kidgames",
+      "current": true
+    }
+  ],
+  "description": "Discover games with kidgames theme! Our collection includes 65 carefully selected games that feature kidgames elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

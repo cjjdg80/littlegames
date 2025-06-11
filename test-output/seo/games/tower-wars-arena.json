@@ -1,0 +1,54 @@
+{
+  "gameId": 9459,
+  "slug": "tower-wars-arena",
+  "metadata": {
+    "title": "Action Game Tower Wars Arena - Play Free Now",
+    "description": "Join the action in Tower Wars Arena! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Tower Wars Arena",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tower-wars-arena",
+    "openGraph": {
+      "title": "Action Game Tower Wars Arena - Play Free Now",
+      "description": "Join the action in Tower Wars Arena! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tower-wars-arena-og.jpg",
+      "url": "https://littlegames.com/games/tower-wars-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tower Wars Arena - Play Free Now",
+      "description": "Join the action in Tower Wars Arena! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tower-wars-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tower Wars Arena",
+      "href": "/games/tower-wars-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_235",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

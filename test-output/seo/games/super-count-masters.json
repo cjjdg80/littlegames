@@ -1,0 +1,54 @@
+{
+  "gameId": 5907,
+  "slug": "super-count-masters",
+  "metadata": {
+    "title": "Super Count Masters - Exciting Action Adventure Game",
+    "description": "Join the action in Super Count Masters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Super Count Masters",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/super-count-masters",
+    "openGraph": {
+      "title": "Super Count Masters - Exciting Action Adventure Game",
+      "description": "Join the action in Super Count Masters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-count-masters-og.jpg",
+      "url": "https://littlegames.com/games/super-count-masters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Count Masters - Exciting Action Adventure Game",
+      "description": "Join the action in Super Count Masters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-count-masters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Count Masters",
+      "href": "/games/super-count-masters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_123",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

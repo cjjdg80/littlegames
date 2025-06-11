@@ -1,0 +1,54 @@
+{
+  "gameId": 3484,
+  "slug": "sliding-ball",
+  "metadata": {
+    "title": "Play Sliding Ball - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Sliding Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Sliding Ball game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sliding-ball",
+    "openGraph": {
+      "title": "Play Sliding Ball - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Sliding Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sliding-ball-og.jpg",
+      "url": "https://littlegames.com/games/sliding-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sliding Ball - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Sliding Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sliding-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sliding Ball",
+      "href": "/games/sliding-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_010",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

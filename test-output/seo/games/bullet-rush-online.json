@@ -1,0 +1,54 @@
+{
+  "gameId": 2442,
+  "slug": "bullet-rush-online",
+  "metadata": {
+    "title": "Adventure Game Bullet Rush Online - Journey Begins",
+    "description": "Bullet Rush Online offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "Bullet Rush Online",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-rush-online",
+    "openGraph": {
+      "title": "Adventure Game Bullet Rush Online - Journey Begins",
+      "description": "Bullet Rush Online offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/bullet-rush-online-og.jpg",
+      "url": "https://littlegames.com/games/bullet-rush-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Bullet Rush Online - Journey Begins",
+      "description": "Bullet Rush Online offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/bullet-rush-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Bullet Rush Online",
+      "href": "/games/bullet-rush-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_711",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

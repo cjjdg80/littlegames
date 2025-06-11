@@ -1,0 +1,54 @@
+{
+  "gameId": 57,
+  "slug": "highway-robbers",
+  "metadata": {
+    "title": "Play Highway Robbers - Free Action Game Online",
+    "description": "Join the action in Highway Robbers! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Highway Robbers",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/highway-robbers",
+    "openGraph": {
+      "title": "Play Highway Robbers - Free Action Game Online",
+      "description": "Join the action in Highway Robbers! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/highway-robbers-og.jpg",
+      "url": "https://littlegames.com/games/highway-robbers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Highway Robbers - Free Action Game Online",
+      "description": "Join the action in Highway Robbers! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/highway-robbers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Highway Robbers",
+      "href": "/games/highway-robbers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_773",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

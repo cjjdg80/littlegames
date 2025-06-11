@@ -1,0 +1,54 @@
+{
+  "gameId": 1146,
+  "slug": "flappy-dragon",
+  "metadata": {
+    "title": "Action Game Flappy Dragon - Play Free Now",
+    "description": "Join the action in Flappy Dragon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Flappy Dragon online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-dragon",
+    "openGraph": {
+      "title": "Action Game Flappy Dragon - Play Free Now",
+      "description": "Join the action in Flappy Dragon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flappy-dragon-og.jpg",
+      "url": "https://littlegames.com/games/flappy-dragon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Flappy Dragon - Play Free Now",
+      "description": "Join the action in Flappy Dragon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flappy-dragon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flappy Dragon",
+      "href": "/games/flappy-dragon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_532",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

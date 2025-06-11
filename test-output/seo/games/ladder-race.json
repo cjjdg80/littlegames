@@ -1,0 +1,54 @@
+{
+  "gameId": 2184,
+  "slug": "ladder-race",
+  "metadata": {
+    "title": "Free Ladder Race Game - Action Packed Fun",
+    "description": "Experience thrilling action in Ladder Race! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Ladder Race online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ladder-race",
+    "openGraph": {
+      "title": "Free Ladder Race Game - Action Packed Fun",
+      "description": "Experience thrilling action in Ladder Race! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/ladder-race-og.jpg",
+      "url": "https://littlegames.com/games/ladder-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ladder Race Game - Action Packed Fun",
+      "description": "Experience thrilling action in Ladder Race! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ladder-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ladder Race",
+      "href": "/games/ladder-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_710",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

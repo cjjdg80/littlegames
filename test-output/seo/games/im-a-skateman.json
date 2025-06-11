@@ -1,0 +1,54 @@
+{
+  "gameId": 4033,
+  "slug": "im-a-skateman",
+  "metadata": {
+    "title": "Play I'm a skateman - Free Action Game Online",
+    "description": "Experience thrilling action in I'm a skateman! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "I'm a skateman",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/im-a-skateman",
+    "openGraph": {
+      "title": "Play I'm a skateman - Free Action Game Online",
+      "description": "Experience thrilling action in I'm a skateman! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/im-a-skateman-og.jpg",
+      "url": "https://littlegames.com/games/im-a-skateman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play I'm a skateman - Free Action Game Online",
+      "description": "Experience thrilling action in I'm a skateman! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/im-a-skateman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "I'm a skateman",
+      "href": "/games/im-a-skateman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_029",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

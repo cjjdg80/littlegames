@@ -1,0 +1,46 @@
+{
+  "tag": "fantasy",
+  "displayName": "Fantasy",
+  "metadata": {
+    "title": "Fantasy Games - Play Free Online",
+    "description": "Discover amazing fantasy games! Play 72 free games with fantasy theme. No downloads required.",
+    "keywords": [
+      "fantasy games",
+      "free online games",
+      "browser games",
+      "fantasy theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/fantasy",
+    "openGraph": {
+      "title": "Fantasy Games - Free Online Gaming",
+      "description": "Play the best fantasy games online for free. 72 games available.",
+      "image": "https://littlegames.com/images/tags/fantasy-og.jpg",
+      "url": "https://littlegames.com/tags/fantasy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fantasy Games - Free Online",
+      "description": "Play 72 free fantasy games online.",
+      "image": "https://littlegames.com/images/tags/fantasy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fantasy",
+      "href": "/tags/fantasy",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fantasy theme! Our collection includes 72 carefully selected games that feature fantasy elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

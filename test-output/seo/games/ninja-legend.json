@@ -1,0 +1,54 @@
+{
+  "gameId": 4662,
+  "slug": "ninja-legend",
+  "metadata": {
+    "title": "Ninja Legend - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Ninja Legend. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Ninja Legend online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-legend",
+    "openGraph": {
+      "title": "Ninja Legend - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Ninja Legend. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/ninja-legend-og.jpg",
+      "url": "https://littlegames.com/games/ninja-legend",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Legend - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Ninja Legend. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/ninja-legend-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ninja Legend",
+      "href": "/games/ninja-legend",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_531",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

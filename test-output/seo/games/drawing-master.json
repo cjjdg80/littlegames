@@ -1,0 +1,54 @@
+{
+  "gameId": 2855,
+  "slug": "drawing-master",
+  "metadata": {
+    "title": "Free Drawing Master Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Drawing Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Drawing Master",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/drawing-master",
+    "openGraph": {
+      "title": "Free Drawing Master Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Drawing Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/drawing-master-og.jpg",
+      "url": "https://littlegames.com/games/drawing-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drawing Master Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Drawing Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/drawing-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drawing Master",
+      "href": "/games/drawing-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_511",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

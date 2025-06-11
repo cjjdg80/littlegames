@@ -1,0 +1,54 @@
+{
+  "gameId": 2097,
+  "slug": "christmas-afternoon-tea",
+  "metadata": {
+    "title": "Free Christmas Afternoon Tea Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Christmas Afternoon Tea. This arcade game features instant browser play and delivers non-stop excitement. Start playing...",
+    "keywords": [
+      "Christmas Afternoon Tea online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-afternoon-tea",
+    "openGraph": {
+      "title": "Free Christmas Afternoon Tea Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Christmas Afternoon Tea. This arcade game features instant browser play and delivers non-stop excitement. Start playing...",
+      "image": "https://littlegames.com/images/games/christmas-afternoon-tea-og.jpg",
+      "url": "https://littlegames.com/games/christmas-afternoon-tea",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Christmas Afternoon Tea Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Christmas Afternoon Tea. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/christmas-afternoon-tea-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Christmas Afternoon Tea",
+      "href": "/games/christmas-afternoon-tea",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_013",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

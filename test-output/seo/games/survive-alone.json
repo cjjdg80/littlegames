@@ -1,0 +1,54 @@
+{
+  "gameId": 2015,
+  "slug": "survive-alone",
+  "metadata": {
+    "title": "Survive Alone Online - Ultimate Action Gaming Experience",
+    "description": "Survive Alone delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Survive Alone online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/survive-alone",
+    "openGraph": {
+      "title": "Survive Alone Online - Ultimate Action Gaming Experience",
+      "description": "Survive Alone delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/survive-alone-og.jpg",
+      "url": "https://littlegames.com/games/survive-alone",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Survive Alone Online - Ultimate Action Gaming Experience",
+      "description": "Survive Alone delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/survive-alone-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Survive Alone",
+      "href": "/games/survive-alone",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_471",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

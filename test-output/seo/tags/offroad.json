@@ -1,0 +1,46 @@
+{
+  "tag": "offroad",
+  "displayName": "Offroad",
+  "metadata": {
+    "title": "Offroad Games - Play Free Online",
+    "description": "Discover amazing offroad games! Play 68 free games with offroad theme. No downloads required.",
+    "keywords": [
+      "offroad games",
+      "free online games",
+      "browser games",
+      "offroad theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/offroad",
+    "openGraph": {
+      "title": "Offroad Games - Free Online Gaming",
+      "description": "Play the best offroad games online for free. 68 games available.",
+      "image": "https://littlegames.com/images/tags/offroad-og.jpg",
+      "url": "https://littlegames.com/tags/offroad",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Offroad Games - Free Online",
+      "description": "Play 68 free offroad games online.",
+      "image": "https://littlegames.com/images/tags/offroad-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Offroad",
+      "href": "/tags/offroad",
+      "current": true
+    }
+  ],
+  "description": "Discover games with offroad theme! Our collection includes 68 carefully selected games that feature offroad elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

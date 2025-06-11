@@ -1,0 +1,54 @@
+{
+  "gameId": 203,
+  "slug": "scientist-runner",
+  "metadata": {
+    "title": "Play Scientist Runner - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Scientist Runner! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Scientist Runner",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/scientist-runner",
+    "openGraph": {
+      "title": "Play Scientist Runner - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Scientist Runner! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/scientist-runner-og.jpg",
+      "url": "https://littlegames.com/games/scientist-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Scientist Runner - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Scientist Runner! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/scientist-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Scientist Runner",
+      "href": "/games/scientist-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_302",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

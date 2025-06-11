@@ -1,0 +1,54 @@
+{
+  "gameId": 954,
+  "slug": "mr-shooter",
+  "metadata": {
+    "title": "Play Mr Shooter - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Mr Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Mr Shooter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mr-shooter",
+    "openGraph": {
+      "title": "Play Mr Shooter - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mr Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mr-shooter-og.jpg",
+      "url": "https://littlegames.com/games/mr-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mr Shooter - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Mr Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mr-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr Shooter",
+      "href": "/games/mr-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_580",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

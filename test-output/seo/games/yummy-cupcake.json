@@ -1,0 +1,54 @@
+{
+  "gameId": 4016,
+  "slug": "yummy-cupcake",
+  "metadata": {
+    "title": "Yummy Cupcake - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Yummy Cupcake. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Yummy Cupcake game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/yummy-cupcake",
+    "openGraph": {
+      "title": "Yummy Cupcake - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Yummy Cupcake. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/yummy-cupcake-og.jpg",
+      "url": "https://littlegames.com/games/yummy-cupcake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Yummy Cupcake - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Yummy Cupcake. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/yummy-cupcake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Yummy Cupcake",
+      "href": "/games/yummy-cupcake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_502",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

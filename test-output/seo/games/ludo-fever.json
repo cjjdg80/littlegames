@@ -1,0 +1,54 @@
+{
+  "gameId": 5011,
+  "slug": "ludo-fever",
+  "metadata": {
+    "title": "Action Game Ludo Fever - Play Free Now",
+    "description": "Join the action in Ludo Fever! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Ludo Fever",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ludo-fever",
+    "openGraph": {
+      "title": "Action Game Ludo Fever - Play Free Now",
+      "description": "Join the action in Ludo Fever! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ludo-fever-og.jpg",
+      "url": "https://littlegames.com/games/ludo-fever",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ludo Fever - Play Free Now",
+      "description": "Join the action in Ludo Fever! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ludo-fever-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ludo Fever",
+      "href": "/games/ludo-fever",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_347",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

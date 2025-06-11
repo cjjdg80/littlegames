@@ -1,0 +1,54 @@
+{
+  "gameId": 5385,
+  "slug": "angry-rex-online",
+  "metadata": {
+    "title": "Angry Rex Online - Exciting Action Adventure Game",
+    "description": "Join the action in Angry Rex Online! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Angry Rex Online",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/angry-rex-online",
+    "openGraph": {
+      "title": "Angry Rex Online - Exciting Action Adventure Game",
+      "description": "Join the action in Angry Rex Online! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/angry-rex-online-og.jpg",
+      "url": "https://littlegames.com/games/angry-rex-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Angry Rex Online - Exciting Action Adventure Game",
+      "description": "Join the action in Angry Rex Online! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/angry-rex-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Angry Rex Online",
+      "href": "/games/angry-rex-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_941",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

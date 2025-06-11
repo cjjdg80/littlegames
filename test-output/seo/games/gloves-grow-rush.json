@@ -1,0 +1,54 @@
+{
+  "gameId": 9002,
+  "slug": "gloves-grow-rush",
+  "metadata": {
+    "title": "Gloves Grow Rush - Exciting Action Adventure Game",
+    "description": "Gloves Grow Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Gloves Grow Rush",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gloves-grow-rush",
+    "openGraph": {
+      "title": "Gloves Grow Rush - Exciting Action Adventure Game",
+      "description": "Gloves Grow Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gloves-grow-rush-og.jpg",
+      "url": "https://littlegames.com/games/gloves-grow-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gloves Grow Rush - Exciting Action Adventure Game",
+      "description": "Gloves Grow Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/gloves-grow-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gloves Grow Rush",
+      "href": "/games/gloves-grow-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_068",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

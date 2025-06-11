@@ -1,0 +1,54 @@
+{
+  "gameId": 1720,
+  "slug": "the-sounds",
+  "metadata": {
+    "title": "The Sounds - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with The Sounds. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "The Sounds game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/the-sounds",
+    "openGraph": {
+      "title": "The Sounds - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with The Sounds. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/the-sounds-og.jpg",
+      "url": "https://littlegames.com/games/the-sounds",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Sounds - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with The Sounds. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/the-sounds-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "The Sounds",
+      "href": "/games/the-sounds",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_326",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

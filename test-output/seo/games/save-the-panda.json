@@ -1,0 +1,54 @@
+{
+  "gameId": 5741,
+  "slug": "save-the-panda",
+  "metadata": {
+    "title": "Save the Panda - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Save the Panda. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Save the Panda game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-panda",
+    "openGraph": {
+      "title": "Save the Panda - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Save the Panda. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/save-the-panda-og.jpg",
+      "url": "https://littlegames.com/games/save-the-panda",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Save the Panda - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Save the Panda. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/save-the-panda-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save the Panda",
+      "href": "/games/save-the-panda",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_977",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

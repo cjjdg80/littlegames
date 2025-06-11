@@ -1,0 +1,54 @@
+{
+  "gameId": 8519,
+  "slug": "obby-climb-racing",
+  "metadata": {
+    "title": "Obby Climb Racing - Thrilling Adventure Quest",
+    "description": "Obby Climb Racing offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "Obby Climb Racing",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/obby-climb-racing",
+    "openGraph": {
+      "title": "Obby Climb Racing - Thrilling Adventure Quest",
+      "description": "Obby Climb Racing offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/obby-climb-racing-og.jpg",
+      "url": "https://littlegames.com/games/obby-climb-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Obby Climb Racing - Thrilling Adventure Quest",
+      "description": "Obby Climb Racing offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/obby-climb-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Obby Climb Racing",
+      "href": "/games/obby-climb-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_098",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

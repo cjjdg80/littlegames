@@ -1,0 +1,46 @@
+{
+  "tag": "submarine",
+  "displayName": "Submarine",
+  "metadata": {
+    "title": "Submarine Games - Play Free Online",
+    "description": "Discover amazing submarine games! Play 3 free games with submarine theme. No downloads required.",
+    "keywords": [
+      "submarine games",
+      "free online games",
+      "browser games",
+      "submarine theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/submarine",
+    "openGraph": {
+      "title": "Submarine Games - Free Online Gaming",
+      "description": "Play the best submarine games online for free. 3 games available.",
+      "image": "https://littlegames.com/images/tags/submarine-og.jpg",
+      "url": "https://littlegames.com/tags/submarine",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Submarine Games - Free Online",
+      "description": "Play 3 free submarine games online.",
+      "image": "https://littlegames.com/images/tags/submarine-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Submarine",
+      "href": "/tags/submarine",
+      "current": true
+    }
+  ],
+  "description": "Discover games with submarine theme! Our collection includes 3 carefully selected games that feature submarine elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

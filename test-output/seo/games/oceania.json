@@ -1,0 +1,54 @@
+{
+  "gameId": 5499,
+  "slug": "oceania",
+  "metadata": {
+    "title": "Adventure Game Oceania - Journey Begins",
+    "description": "Discover new worlds in Oceania. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure...",
+    "keywords": [
+      "Oceania online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/oceania",
+    "openGraph": {
+      "title": "Adventure Game Oceania - Journey Begins",
+      "description": "Discover new worlds in Oceania. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure...",
+      "image": "https://littlegames.com/images/games/oceania-og.jpg",
+      "url": "https://littlegames.com/games/oceania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Oceania - Journey Begins",
+      "description": "Discover new worlds in Oceania. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/oceania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Oceania",
+      "href": "/games/oceania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_478",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

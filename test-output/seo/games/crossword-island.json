@@ -1,0 +1,54 @@
+{
+  "gameId": 6865,
+  "slug": "crossword-island",
+  "metadata": {
+    "title": "Puzzle Game Crossword Island - Test Your Skills",
+    "description": "Crossword Island offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Crossword Island online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/crossword-island",
+    "openGraph": {
+      "title": "Puzzle Game Crossword Island - Test Your Skills",
+      "description": "Crossword Island offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/crossword-island-og.jpg",
+      "url": "https://littlegames.com/games/crossword-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Crossword Island - Test Your Skills",
+      "description": "Crossword Island offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/crossword-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crossword Island",
+      "href": "/games/crossword-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_821",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

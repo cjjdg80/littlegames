@@ -1,0 +1,54 @@
+{
+  "gameId": 8586,
+  "slug": "bus-jam",
+  "metadata": {
+    "title": "Bus Jam - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Bus Jam! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Bus Jam",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/bus-jam",
+    "openGraph": {
+      "title": "Bus Jam - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Bus Jam! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/bus-jam-og.jpg",
+      "url": "https://littlegames.com/games/bus-jam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bus Jam - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Bus Jam! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/bus-jam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bus Jam",
+      "href": "/games/bus-jam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_172",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

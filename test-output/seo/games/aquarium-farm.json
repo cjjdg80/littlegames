@@ -1,0 +1,54 @@
+{
+  "gameId": 436,
+  "slug": "aquarium-farm",
+  "metadata": {
+    "title": "Free Aquarium Farm Game - Action Packed Fun",
+    "description": "Join the action in Aquarium Farm! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Aquarium Farm game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/aquarium-farm",
+    "openGraph": {
+      "title": "Free Aquarium Farm Game - Action Packed Fun",
+      "description": "Join the action in Aquarium Farm! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/aquarium-farm-og.jpg",
+      "url": "https://littlegames.com/games/aquarium-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Aquarium Farm Game - Action Packed Fun",
+      "description": "Join the action in Aquarium Farm! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/aquarium-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Aquarium Farm",
+      "href": "/games/aquarium-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_522",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

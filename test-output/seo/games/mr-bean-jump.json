@@ -1,0 +1,54 @@
+{
+  "gameId": 7584,
+  "slug": "mr-bean-jump",
+  "metadata": {
+    "title": "Mr Bean Jump Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Mr Bean Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Mr Bean Jump",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mr-bean-jump",
+    "openGraph": {
+      "title": "Mr Bean Jump Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mr Bean Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/mr-bean-jump-og.jpg",
+      "url": "https://littlegames.com/games/mr-bean-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mr Bean Jump Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Mr Bean Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mr-bean-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mr Bean Jump",
+      "href": "/games/mr-bean-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_110",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

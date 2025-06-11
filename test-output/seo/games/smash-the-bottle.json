@@ -1,0 +1,54 @@
+{
+  "gameId": 9338,
+  "slug": "smash-the-bottle",
+  "metadata": {
+    "title": "Free Smash The Bottle Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Smash The Bottle. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Smash The Bottle",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/smash-the-bottle",
+    "openGraph": {
+      "title": "Free Smash The Bottle Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Smash The Bottle. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/smash-the-bottle-og.jpg",
+      "url": "https://littlegames.com/games/smash-the-bottle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Smash The Bottle Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Smash The Bottle. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/smash-the-bottle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Smash The Bottle",
+      "href": "/games/smash-the-bottle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_484",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4432,
+  "slug": "3d-tangram",
+  "metadata": {
+    "title": "3D Tangram Online - Ultimate Action Gaming Experience",
+    "description": "3D Tangram delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "3D Tangram game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/3d-tangram",
+    "openGraph": {
+      "title": "3D Tangram Online - Ultimate Action Gaming Experience",
+      "description": "3D Tangram delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/3d-tangram-og.jpg",
+      "url": "https://littlegames.com/games/3d-tangram",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "3D Tangram Online - Ultimate Action Gaming Experience",
+      "description": "3D Tangram delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/3d-tangram-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "3D Tangram",
+      "href": "/games/3d-tangram",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_398",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

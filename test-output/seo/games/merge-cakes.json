@@ -1,0 +1,54 @@
+{
+  "gameId": 1871,
+  "slug": "merge-cakes",
+  "metadata": {
+    "title": "Merge Cakes Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Merge Cakes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Merge Cakes online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/merge-cakes",
+    "openGraph": {
+      "title": "Merge Cakes Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Merge Cakes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-cakes-og.jpg",
+      "url": "https://littlegames.com/games/merge-cakes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Cakes Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Merge Cakes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-cakes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Cakes",
+      "href": "/games/merge-cakes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_007",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

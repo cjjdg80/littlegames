@@ -1,0 +1,54 @@
+{
+  "gameId": 2355,
+  "slug": "merge-and-fly",
+  "metadata": {
+    "title": "Play Merge and Fly - Free Action Game Online",
+    "description": "Join the action in Merge and Fly! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Merge and Fly online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/merge-and-fly",
+    "openGraph": {
+      "title": "Play Merge and Fly - Free Action Game Online",
+      "description": "Join the action in Merge and Fly! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-and-fly-og.jpg",
+      "url": "https://littlegames.com/games/merge-and-fly",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Merge and Fly - Free Action Game Online",
+      "description": "Join the action in Merge and Fly! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-and-fly-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge and Fly",
+      "href": "/games/merge-and-fly",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_011",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

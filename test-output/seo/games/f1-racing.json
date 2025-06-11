@@ -1,0 +1,54 @@
+{
+  "gameId": 2207,
+  "slug": "f1-racing",
+  "metadata": {
+    "title": "Play F1 Racing - Free Action Game Online",
+    "description": "Join the action in F1 Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "F1 Racing online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/f1-racing",
+    "openGraph": {
+      "title": "Play F1 Racing - Free Action Game Online",
+      "description": "Join the action in F1 Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/f1-racing-og.jpg",
+      "url": "https://littlegames.com/games/f1-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play F1 Racing - Free Action Game Online",
+      "description": "Join the action in F1 Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/f1-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "F1 Racing",
+      "href": "/games/f1-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_423",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

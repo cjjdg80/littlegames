@@ -1,0 +1,54 @@
+{
+  "gameId": 1478,
+  "slug": "geometric-solids",
+  "metadata": {
+    "title": "Geometric Solids - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Geometric Solids. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Geometric Solids game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/geometric-solids",
+    "openGraph": {
+      "title": "Geometric Solids - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Geometric Solids. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/geometric-solids-og.jpg",
+      "url": "https://littlegames.com/games/geometric-solids",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometric Solids - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Geometric Solids. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/geometric-solids-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Geometric Solids",
+      "href": "/games/geometric-solids",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_824",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

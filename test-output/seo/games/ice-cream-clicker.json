@@ -1,0 +1,54 @@
+{
+  "gameId": 6940,
+  "slug": "ice-cream-clicker",
+  "metadata": {
+    "title": "Ice Cream Clicker - Exciting Action Adventure Game",
+    "description": "Join the action in Ice Cream Clicker! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Ice Cream Clicker game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ice-cream-clicker",
+    "openGraph": {
+      "title": "Ice Cream Clicker - Exciting Action Adventure Game",
+      "description": "Join the action in Ice Cream Clicker! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ice-cream-clicker-og.jpg",
+      "url": "https://littlegames.com/games/ice-cream-clicker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ice Cream Clicker - Exciting Action Adventure Game",
+      "description": "Join the action in Ice Cream Clicker! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ice-cream-clicker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ice Cream Clicker",
+      "href": "/games/ice-cream-clicker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_146",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

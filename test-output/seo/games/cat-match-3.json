@@ -1,0 +1,54 @@
+{
+  "gameId": 9097,
+  "slug": "cat-match-3",
+  "metadata": {
+    "title": "Play Cat Match 3 - Free Action Game Online",
+    "description": "Join the action in Cat Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Cat Match 3 online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cat-match-3",
+    "openGraph": {
+      "title": "Play Cat Match 3 - Free Action Game Online",
+      "description": "Join the action in Cat Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cat-match-3-og.jpg",
+      "url": "https://littlegames.com/games/cat-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cat Match 3 - Free Action Game Online",
+      "description": "Join the action in Cat Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cat-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cat Match 3",
+      "href": "/games/cat-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_013",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

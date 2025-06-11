@@ -1,0 +1,54 @@
+{
+  "gameId": 4091,
+  "slug": "death-lab",
+  "metadata": {
+    "title": "Play Death Lab - Free Action Game Online",
+    "description": "Experience thrilling action in Death Lab! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Death Lab online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/death-lab",
+    "openGraph": {
+      "title": "Play Death Lab - Free Action Game Online",
+      "description": "Experience thrilling action in Death Lab! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/death-lab-og.jpg",
+      "url": "https://littlegames.com/games/death-lab",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Death Lab - Free Action Game Online",
+      "description": "Experience thrilling action in Death Lab! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/death-lab-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Death Lab",
+      "href": "/games/death-lab",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_827",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

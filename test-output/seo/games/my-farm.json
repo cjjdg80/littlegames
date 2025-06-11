@@ -1,0 +1,54 @@
+{
+  "gameId": 9202,
+  "slug": "my-farm",
+  "metadata": {
+    "title": "Action Game My Farm - Play Free Now",
+    "description": "My Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "play My Farm",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/my-farm",
+    "openGraph": {
+      "title": "Action Game My Farm - Play Free Now",
+      "description": "My Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/my-farm-og.jpg",
+      "url": "https://littlegames.com/games/my-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game My Farm - Play Free Now",
+      "description": "My Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/my-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "My Farm",
+      "href": "/games/my-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_272",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

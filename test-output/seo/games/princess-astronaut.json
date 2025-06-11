@@ -1,0 +1,54 @@
+{
+  "gameId": 4688,
+  "slug": "princess-astronaut",
+  "metadata": {
+    "title": "Action Game Princess Astronaut - Play Free Now",
+    "description": "Princess Astronaut delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Princess Astronaut",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/princess-astronaut",
+    "openGraph": {
+      "title": "Action Game Princess Astronaut - Play Free Now",
+      "description": "Princess Astronaut delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/princess-astronaut-og.jpg",
+      "url": "https://littlegames.com/games/princess-astronaut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Princess Astronaut - Play Free Now",
+      "description": "Princess Astronaut delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/princess-astronaut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Princess Astronaut",
+      "href": "/games/princess-astronaut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_334",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1247,
+  "slug": "susun-atas",
+  "metadata": {
+    "title": "Puzzle Game Susun Atas - Test Your Skills",
+    "description": "Susun Atas offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Susun Atas game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/susun-atas",
+    "openGraph": {
+      "title": "Puzzle Game Susun Atas - Test Your Skills",
+      "description": "Susun Atas offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/susun-atas-og.jpg",
+      "url": "https://littlegames.com/games/susun-atas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Susun Atas - Test Your Skills",
+      "description": "Susun Atas offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/susun-atas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Susun Atas",
+      "href": "/games/susun-atas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_663",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

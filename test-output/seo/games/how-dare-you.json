@@ -1,0 +1,54 @@
+{
+  "gameId": 4233,
+  "slug": "how-dare-you",
+  "metadata": {
+    "title": "How Dare You - Thrilling Adventure Quest",
+    "description": "Begin your quest in How Dare You. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play How Dare You",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/how-dare-you",
+    "openGraph": {
+      "title": "How Dare You - Thrilling Adventure Quest",
+      "description": "Begin your quest in How Dare You. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/how-dare-you-og.jpg",
+      "url": "https://littlegames.com/games/how-dare-you",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "How Dare You - Thrilling Adventure Quest",
+      "description": "Begin your quest in How Dare You. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/how-dare-you-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "How Dare You",
+      "href": "/games/how-dare-you",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_232",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

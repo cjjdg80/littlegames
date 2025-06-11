@@ -1,0 +1,54 @@
+{
+  "gameId": 9057,
+  "slug": "drive-ahead-sports",
+  "metadata": {
+    "title": "Drive Ahead Sports Online - Ultimate Action Gaming...",
+    "description": "Experience thrilling action in Drive Ahead Sports! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Drive Ahead Sports game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/drive-ahead-sports",
+    "openGraph": {
+      "title": "Drive Ahead Sports Online - Ultimate Action Gaming...",
+      "description": "Experience thrilling action in Drive Ahead Sports! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/drive-ahead-sports-og.jpg",
+      "url": "https://littlegames.com/games/drive-ahead-sports",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drive Ahead Sports Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Drive Ahead Sports! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/drive-ahead-sports-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Drive Ahead Sports",
+      "href": "/games/drive-ahead-sports",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_773",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9341,
+  "slug": "dragon-hunter",
+  "metadata": {
+    "title": "Dragon Hunter Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Dragon Hunter. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dragon Hunter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dragon-hunter",
+    "openGraph": {
+      "title": "Dragon Hunter Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dragon Hunter. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dragon-hunter-og.jpg",
+      "url": "https://littlegames.com/games/dragon-hunter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dragon Hunter Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dragon Hunter. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dragon-hunter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dragon Hunter",
+      "href": "/games/dragon-hunter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_577",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

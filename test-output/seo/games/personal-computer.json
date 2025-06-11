@@ -1,0 +1,54 @@
+{
+  "gameId": 3604,
+  "slug": "personal-computer",
+  "metadata": {
+    "title": "Free Personal Computer Game - Action Packed Fun",
+    "description": "Experience thrilling action in Personal Computer! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Personal Computer online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/personal-computer",
+    "openGraph": {
+      "title": "Free Personal Computer Game - Action Packed Fun",
+      "description": "Experience thrilling action in Personal Computer! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/personal-computer-og.jpg",
+      "url": "https://littlegames.com/games/personal-computer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Personal Computer Game - Action Packed Fun",
+      "description": "Experience thrilling action in Personal Computer! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/personal-computer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Personal Computer",
+      "href": "/games/personal-computer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_730",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

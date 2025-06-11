@@ -1,0 +1,54 @@
+{
+  "gameId": 2928,
+  "slug": "flying-cubic",
+  "metadata": {
+    "title": "Flying Cubic Online - Ultimate Action Gaming Experience",
+    "description": "Flying Cubic delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Flying Cubic online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/flying-cubic",
+    "openGraph": {
+      "title": "Flying Cubic Online - Ultimate Action Gaming Experience",
+      "description": "Flying Cubic delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flying-cubic-og.jpg",
+      "url": "https://littlegames.com/games/flying-cubic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flying Cubic Online - Ultimate Action Gaming Experience",
+      "description": "Flying Cubic delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/flying-cubic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flying Cubic",
+      "href": "/games/flying-cubic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_774",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

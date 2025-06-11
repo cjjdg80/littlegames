@@ -1,0 +1,54 @@
+{
+  "gameId": 9461,
+  "slug": "cyber-monday",
+  "metadata": {
+    "title": "Play Cyber Monday - Free Puzzle Game Online",
+    "description": "Challenge your mind with Cyber Monday! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Cyber Monday online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/cyber-monday",
+    "openGraph": {
+      "title": "Play Cyber Monday - Free Puzzle Game Online",
+      "description": "Challenge your mind with Cyber Monday! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/cyber-monday-og.jpg",
+      "url": "https://littlegames.com/games/cyber-monday",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cyber Monday - Free Puzzle Game Online",
+      "description": "Challenge your mind with Cyber Monday! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/cyber-monday-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cyber Monday",
+      "href": "/games/cyber-monday",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_297",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

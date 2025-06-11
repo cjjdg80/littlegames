@@ -1,0 +1,54 @@
+{
+  "gameId": 6867,
+  "slug": "rapid-rush",
+  "metadata": {
+    "title": "Rapid Rush Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Rapid Rush! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Rapid Rush",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/rapid-rush",
+    "openGraph": {
+      "title": "Rapid Rush Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Rapid Rush! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/rapid-rush-og.jpg",
+      "url": "https://littlegames.com/games/rapid-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rapid Rush Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Rapid Rush! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/rapid-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rapid Rush",
+      "href": "/games/rapid-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_883",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

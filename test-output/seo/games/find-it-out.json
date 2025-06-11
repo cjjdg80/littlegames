@@ -1,0 +1,54 @@
+{
+  "gameId": 2704,
+  "slug": "find-it-out",
+  "metadata": {
+    "title": "Play Find It Out - Free Puzzle Game Online",
+    "description": "Exercise your brain with Find It Out. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Find It Out online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/find-it-out",
+    "openGraph": {
+      "title": "Play Find It Out - Free Puzzle Game Online",
+      "description": "Exercise your brain with Find It Out. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/find-it-out-og.jpg",
+      "url": "https://littlegames.com/games/find-it-out",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Find It Out - Free Puzzle Game Online",
+      "description": "Exercise your brain with Find It Out. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/find-it-out-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Find It Out",
+      "href": "/games/find-it-out",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_830",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

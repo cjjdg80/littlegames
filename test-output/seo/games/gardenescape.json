@@ -1,0 +1,54 @@
+{
+  "gameId": 5356,
+  "slug": "gardenescape",
+  "metadata": {
+    "title": "GardenEscape - Thrilling Adventure Quest",
+    "description": "Begin your quest in GardenEscape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "GardenEscape game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/gardenescape",
+    "openGraph": {
+      "title": "GardenEscape - Thrilling Adventure Quest",
+      "description": "Begin your quest in GardenEscape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/gardenescape-og.jpg",
+      "url": "https://littlegames.com/games/gardenescape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "GardenEscape - Thrilling Adventure Quest",
+      "description": "Begin your quest in GardenEscape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/gardenescape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "GardenEscape",
+      "href": "/games/gardenescape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_045",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

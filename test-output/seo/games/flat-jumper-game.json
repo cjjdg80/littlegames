@@ -1,0 +1,54 @@
+{
+  "gameId": 4108,
+  "slug": "flat-jumper-game",
+  "metadata": {
+    "title": "Flat Jumper Game - Exciting Action Adventure Game",
+    "description": "Join the action in Flat Jumper Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Flat Jumper Game online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/flat-jumper-game",
+    "openGraph": {
+      "title": "Flat Jumper Game - Exciting Action Adventure Game",
+      "description": "Join the action in Flat Jumper Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flat-jumper-game-og.jpg",
+      "url": "https://littlegames.com/games/flat-jumper-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flat Jumper Game - Exciting Action Adventure Game",
+      "description": "Join the action in Flat Jumper Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flat-jumper-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flat Jumper Game",
+      "href": "/games/flat-jumper-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_354",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

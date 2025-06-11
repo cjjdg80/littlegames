@@ -1,0 +1,54 @@
+{
+  "gameId": 9584,
+  "slug": "gangsta-duel",
+  "metadata": {
+    "title": "Adventure Game Gangsta Duel - Journey Begins",
+    "description": "Embark on an epic journey in Gangsta Duel! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Gangsta Duel game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/gangsta-duel",
+    "openGraph": {
+      "title": "Adventure Game Gangsta Duel - Journey Begins",
+      "description": "Embark on an epic journey in Gangsta Duel! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/gangsta-duel-og.jpg",
+      "url": "https://littlegames.com/games/gangsta-duel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Gangsta Duel - Journey Begins",
+      "description": "Embark on an epic journey in Gangsta Duel! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/gangsta-duel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Gangsta Duel",
+      "href": "/games/gangsta-duel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_113",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

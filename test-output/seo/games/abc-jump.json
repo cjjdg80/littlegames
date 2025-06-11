@@ -1,0 +1,54 @@
+{
+  "gameId": 96,
+  "slug": "abc-jump",
+  "metadata": {
+    "title": "ABC Jump - Exciting Action Adventure Game",
+    "description": "Join the action in ABC Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "ABC Jump",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/abc-jump",
+    "openGraph": {
+      "title": "ABC Jump - Exciting Action Adventure Game",
+      "description": "Join the action in ABC Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/abc-jump-og.jpg",
+      "url": "https://littlegames.com/games/abc-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ABC Jump - Exciting Action Adventure Game",
+      "description": "Join the action in ABC Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/abc-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "ABC Jump",
+      "href": "/games/abc-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_982",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

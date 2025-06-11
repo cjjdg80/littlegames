@@ -1,0 +1,54 @@
+{
+  "gameId": 6978,
+  "slug": "surfer-cat",
+  "metadata": {
+    "title": "Surfer Cat - Exciting Action Adventure Game",
+    "description": "Surfer Cat delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "Surfer Cat game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/surfer-cat",
+    "openGraph": {
+      "title": "Surfer Cat - Exciting Action Adventure Game",
+      "description": "Surfer Cat delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/surfer-cat-og.jpg",
+      "url": "https://littlegames.com/games/surfer-cat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Surfer Cat - Exciting Action Adventure Game",
+      "description": "Surfer Cat delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/surfer-cat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Surfer Cat",
+      "href": "/games/surfer-cat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_324",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

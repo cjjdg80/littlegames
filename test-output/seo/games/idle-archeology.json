@@ -1,0 +1,54 @@
+{
+  "gameId": 7588,
+  "slug": "idle-archeology",
+  "metadata": {
+    "title": "Free IDLE Archeology Game - Adventure Awaits",
+    "description": "Begin your quest in IDLE Archeology. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "IDLE Archeology game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/idle-archeology",
+    "openGraph": {
+      "title": "Free IDLE Archeology Game - Adventure Awaits",
+      "description": "Begin your quest in IDLE Archeology. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/idle-archeology-og.jpg",
+      "url": "https://littlegames.com/games/idle-archeology",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free IDLE Archeology Game - Adventure Awaits",
+      "description": "Begin your quest in IDLE Archeology. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/idle-archeology-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "IDLE Archeology",
+      "href": "/games/idle-archeology",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_237",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

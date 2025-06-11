@@ -1,0 +1,54 @@
+{
+  "gameId": 9418,
+  "slug": "zombies-and-guns",
+  "metadata": {
+    "title": "Zombies and Guns - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Zombies and Guns! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Zombies and Guns",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/zombies-and-guns",
+    "openGraph": {
+      "title": "Zombies and Guns - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Zombies and Guns! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/zombies-and-guns-og.jpg",
+      "url": "https://littlegames.com/games/zombies-and-guns",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombies and Guns - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Zombies and Guns! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zombies-and-guns-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombies and Guns",
+      "href": "/games/zombies-and-guns",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_964",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5267,
+  "slug": "hexagon",
+  "metadata": {
+    "title": "Puzzle Game Hexagon - Test Your Skills",
+    "description": "Put your thinking skills to the test in Hexagon. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Hexagon game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexagon",
+    "openGraph": {
+      "title": "Puzzle Game Hexagon - Test Your Skills",
+      "description": "Put your thinking skills to the test in Hexagon. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hexagon-og.jpg",
+      "url": "https://littlegames.com/games/hexagon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Hexagon - Test Your Skills",
+      "description": "Put your thinking skills to the test in Hexagon. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hexagon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexagon",
+      "href": "/games/hexagon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_283",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

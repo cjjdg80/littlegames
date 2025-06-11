@@ -1,0 +1,54 @@
+{
+  "gameId": 1884,
+  "slug": "merge-mahjong",
+  "metadata": {
+    "title": "Play Merge Mahjong - Free Action Game Online",
+    "description": "Join the action in Merge Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Merge Mahjong",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-mahjong",
+    "openGraph": {
+      "title": "Play Merge Mahjong - Free Action Game Online",
+      "description": "Join the action in Merge Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/merge-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Merge Mahjong - Free Action Game Online",
+      "description": "Join the action in Merge Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/merge-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Mahjong",
+      "href": "/games/merge-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_410",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

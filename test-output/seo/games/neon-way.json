@@ -1,0 +1,54 @@
+{
+  "gameId": 1131,
+  "slug": "neon-way",
+  "metadata": {
+    "title": "Neon Way Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Neon Way! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Neon Way game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/neon-way",
+    "openGraph": {
+      "title": "Neon Way Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Neon Way! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/neon-way-og.jpg",
+      "url": "https://littlegames.com/games/neon-way",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Neon Way Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Neon Way! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/neon-way-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Neon Way",
+      "href": "/games/neon-way",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_067",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

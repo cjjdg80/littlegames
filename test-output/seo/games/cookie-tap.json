@@ -1,0 +1,54 @@
+{
+  "gameId": 946,
+  "slug": "cookie-tap",
+  "metadata": {
+    "title": "Free Cookie Tap Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Cookie Tap. This free online simulation game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cookie Tap game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cookie-tap",
+    "openGraph": {
+      "title": "Free Cookie Tap Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cookie Tap. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cookie-tap-og.jpg",
+      "url": "https://littlegames.com/games/cookie-tap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Cookie Tap Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cookie Tap. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cookie-tap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Cookie Tap",
+      "href": "/games/cookie-tap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_336",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

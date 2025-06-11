@@ -1,0 +1,54 @@
+{
+  "gameId": 5601,
+  "slug": "police-car-simulator",
+  "metadata": {
+    "title": "Police Car Simulator - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Police Car Simulator. This free online simulation game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Police Car Simulator game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/police-car-simulator",
+    "openGraph": {
+      "title": "Police Car Simulator - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Police Car Simulator. This free online simulation game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/police-car-simulator-og.jpg",
+      "url": "https://littlegames.com/games/police-car-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Police Car Simulator - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Police Car Simulator. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/police-car-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Police Car Simulator",
+      "href": "/games/police-car-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_641",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

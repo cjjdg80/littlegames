@@ -1,0 +1,54 @@
+{
+  "gameId": 7321,
+  "slug": "heart-box",
+  "metadata": {
+    "title": "Heart Box - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Heart Box. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Heart Box online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/heart-box",
+    "openGraph": {
+      "title": "Heart Box - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Heart Box. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/heart-box-og.jpg",
+      "url": "https://littlegames.com/games/heart-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Heart Box - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Heart Box. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/heart-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Heart Box",
+      "href": "/games/heart-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_957",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

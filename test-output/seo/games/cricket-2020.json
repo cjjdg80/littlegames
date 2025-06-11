@@ -1,0 +1,54 @@
+{
+  "gameId": 611,
+  "slug": "cricket-2020",
+  "metadata": {
+    "title": "Cricket 2020 Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cricket 2020. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cricket 2020 online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cricket-2020",
+    "openGraph": {
+      "title": "Cricket 2020 Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cricket 2020. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cricket-2020-og.jpg",
+      "url": "https://littlegames.com/games/cricket-2020",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cricket 2020 Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cricket 2020. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cricket-2020-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Cricket 2020",
+      "href": "/games/cricket-2020",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_947",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

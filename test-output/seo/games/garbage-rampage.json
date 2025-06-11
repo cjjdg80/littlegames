@@ -1,0 +1,54 @@
+{
+  "gameId": 4570,
+  "slug": "garbage-rampage",
+  "metadata": {
+    "title": "Free Garbage Rampage Game - Action Packed Fun",
+    "description": "Join the action in Garbage Rampage! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Garbage Rampage",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/garbage-rampage",
+    "openGraph": {
+      "title": "Free Garbage Rampage Game - Action Packed Fun",
+      "description": "Join the action in Garbage Rampage! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/garbage-rampage-og.jpg",
+      "url": "https://littlegames.com/games/garbage-rampage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Garbage Rampage Game - Action Packed Fun",
+      "description": "Join the action in Garbage Rampage! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/garbage-rampage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Garbage Rampage",
+      "href": "/games/garbage-rampage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_676",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

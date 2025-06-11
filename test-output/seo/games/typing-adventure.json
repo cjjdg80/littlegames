@@ -1,0 +1,54 @@
+{
+  "gameId": 9657,
+  "slug": "typing-adventure",
+  "metadata": {
+    "title": "Play Typing Adventure - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Typing Adventure. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Typing Adventure online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/typing-adventure",
+    "openGraph": {
+      "title": "Play Typing Adventure - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Typing Adventure. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/typing-adventure-og.jpg",
+      "url": "https://littlegames.com/games/typing-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Typing Adventure - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Typing Adventure. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/typing-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Typing Adventure",
+      "href": "/games/typing-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_373",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

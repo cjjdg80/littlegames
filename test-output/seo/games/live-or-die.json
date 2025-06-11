@@ -1,0 +1,54 @@
+{
+  "gameId": 8244,
+  "slug": "live-or-die",
+  "metadata": {
+    "title": "Adventure Game Live or Die - Journey Begins",
+    "description": "Live or Die offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "play Live or Die",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/live-or-die",
+    "openGraph": {
+      "title": "Adventure Game Live or Die - Journey Begins",
+      "description": "Live or Die offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/live-or-die-og.jpg",
+      "url": "https://littlegames.com/games/live-or-die",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Live or Die - Journey Begins",
+      "description": "Live or Die offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/live-or-die-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Live or Die",
+      "href": "/games/live-or-die",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_573",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2823,
+  "slug": "bubble-warriors",
+  "metadata": {
+    "title": "Puzzle Game Bubble Warriors - Test Your Skills",
+    "description": "Exercise your brain with Bubble Warriors. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Bubble Warriors online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-warriors",
+    "openGraph": {
+      "title": "Puzzle Game Bubble Warriors - Test Your Skills",
+      "description": "Exercise your brain with Bubble Warriors. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/bubble-warriors-og.jpg",
+      "url": "https://littlegames.com/games/bubble-warriors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Bubble Warriors - Test Your Skills",
+      "description": "Exercise your brain with Bubble Warriors. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/bubble-warriors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bubble Warriors",
+      "href": "/games/bubble-warriors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_519",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

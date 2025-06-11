@@ -1,0 +1,54 @@
+{
+  "gameId": 4663,
+  "slug": "long-long-hair",
+  "metadata": {
+    "title": "Long Long Hair - Exciting Action Adventure Game",
+    "description": "Join the action in Long Long Hair! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Long Long Hair game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/long-long-hair",
+    "openGraph": {
+      "title": "Long Long Hair - Exciting Action Adventure Game",
+      "description": "Join the action in Long Long Hair! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/long-long-hair-og.jpg",
+      "url": "https://littlegames.com/games/long-long-hair",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Long Long Hair - Exciting Action Adventure Game",
+      "description": "Join the action in Long Long Hair! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/long-long-hair-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Long Long Hair",
+      "href": "/games/long-long-hair",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_559",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

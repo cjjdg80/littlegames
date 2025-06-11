@@ -1,0 +1,46 @@
+{
+  "tag": "bread",
+  "displayName": "Bread",
+  "metadata": {
+    "title": "Bread Games - Play Free Online",
+    "description": "Discover amazing bread games! Play 2 free games with bread theme. No downloads required.",
+    "keywords": [
+      "bread games",
+      "free online games",
+      "browser games",
+      "bread theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/bread",
+    "openGraph": {
+      "title": "Bread Games - Free Online Gaming",
+      "description": "Play the best bread games online for free. 2 games available.",
+      "image": "https://littlegames.com/images/tags/bread-og.jpg",
+      "url": "https://littlegames.com/tags/bread",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bread Games - Free Online",
+      "description": "Play 2 free bread games online.",
+      "image": "https://littlegames.com/images/tags/bread-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bread",
+      "href": "/tags/bread",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bread theme! Our collection includes 2 carefully selected games that feature bread elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

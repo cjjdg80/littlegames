@@ -1,0 +1,54 @@
+{
+  "gameId": 6712,
+  "slug": "matchstick-puzzles",
+  "metadata": {
+    "title": "Matchstick Puzzles Online - Logic and Strategy Game",
+    "description": "Matchstick Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Matchstick Puzzles",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/matchstick-puzzles",
+    "openGraph": {
+      "title": "Matchstick Puzzles Online - Logic and Strategy Game",
+      "description": "Matchstick Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/matchstick-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/matchstick-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Matchstick Puzzles Online - Logic and Strategy Game",
+      "description": "Matchstick Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/matchstick-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Matchstick Puzzles",
+      "href": "/games/matchstick-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_078",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

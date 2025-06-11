@@ -1,0 +1,54 @@
+{
+  "gameId": 7361,
+  "slug": "brawl-hero",
+  "metadata": {
+    "title": "Brawl Hero Online - Explore and Discover",
+    "description": "Brawl Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "adventure games",
+      "Brawl Hero",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/brawl-hero",
+    "openGraph": {
+      "title": "Brawl Hero Online - Explore and Discover",
+      "description": "Brawl Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/brawl-hero-og.jpg",
+      "url": "https://littlegames.com/games/brawl-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Brawl Hero Online - Explore and Discover",
+      "description": "Brawl Hero offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/brawl-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Brawl Hero",
+      "href": "/games/brawl-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_200",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

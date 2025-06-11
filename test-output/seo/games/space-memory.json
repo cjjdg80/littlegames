@@ -1,0 +1,54 @@
+{
+  "gameId": 967,
+  "slug": "space-memory",
+  "metadata": {
+    "title": "Free Space Memory Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Space Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Space Memory online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/space-memory",
+    "openGraph": {
+      "title": "Free Space Memory Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Space Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/space-memory-og.jpg",
+      "url": "https://littlegames.com/games/space-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Space Memory Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Space Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/space-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Space Memory",
+      "href": "/games/space-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_983",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

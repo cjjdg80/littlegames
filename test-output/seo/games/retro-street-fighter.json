@@ -1,0 +1,54 @@
+{
+  "gameId": 7740,
+  "slug": "retro-street-fighter",
+  "metadata": {
+    "title": "Free Retro Street Fighter Game - Action Packed Fun",
+    "description": "Experience thrilling action in Retro Street Fighter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Retro Street Fighter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/retro-street-fighter",
+    "openGraph": {
+      "title": "Free Retro Street Fighter Game - Action Packed Fun",
+      "description": "Experience thrilling action in Retro Street Fighter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/retro-street-fighter-og.jpg",
+      "url": "https://littlegames.com/games/retro-street-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Retro Street Fighter Game - Action Packed Fun",
+      "description": "Experience thrilling action in Retro Street Fighter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/retro-street-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Retro Street Fighter",
+      "href": "/games/retro-street-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_946",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

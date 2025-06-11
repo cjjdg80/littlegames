@@ -1,0 +1,54 @@
+{
+  "gameId": 5747,
+  "slug": "couple-rich-rush",
+  "metadata": {
+    "title": "Couple Rich Rush - Exciting Action Adventure Game",
+    "description": "Join the action in Couple Rich Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Couple Rich Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/couple-rich-rush",
+    "openGraph": {
+      "title": "Couple Rich Rush - Exciting Action Adventure Game",
+      "description": "Join the action in Couple Rich Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/couple-rich-rush-og.jpg",
+      "url": "https://littlegames.com/games/couple-rich-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Couple Rich Rush - Exciting Action Adventure Game",
+      "description": "Join the action in Couple Rich Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/couple-rich-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Couple Rich Rush",
+      "href": "/games/couple-rich-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_163",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

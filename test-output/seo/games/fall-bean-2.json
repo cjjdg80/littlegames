@@ -1,0 +1,54 @@
+{
+  "gameId": 8413,
+  "slug": "fall-bean-2",
+  "metadata": {
+    "title": "Fall Bean 2 Online - Explore and Discover",
+    "description": "Start your epic journey with Fall Bean 2! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Fall Bean 2",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/fall-bean-2",
+    "openGraph": {
+      "title": "Fall Bean 2 Online - Explore and Discover",
+      "description": "Start your epic journey with Fall Bean 2! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/fall-bean-2-og.jpg",
+      "url": "https://littlegames.com/games/fall-bean-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fall Bean 2 Online - Explore and Discover",
+      "description": "Start your epic journey with Fall Bean 2! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/fall-bean-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fall Bean 2",
+      "href": "/games/fall-bean-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_812",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

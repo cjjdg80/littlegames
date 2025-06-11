@@ -1,0 +1,54 @@
+{
+  "gameId": 3357,
+  "slug": "blocky-chains",
+  "metadata": {
+    "title": "Puzzle Game Blocky Chains - Test Your Skills",
+    "description": "Challenge your mind with Blocky Chains! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Blocky Chains",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/blocky-chains",
+    "openGraph": {
+      "title": "Puzzle Game Blocky Chains - Test Your Skills",
+      "description": "Challenge your mind with Blocky Chains! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/blocky-chains-og.jpg",
+      "url": "https://littlegames.com/games/blocky-chains",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Blocky Chains - Test Your Skills",
+      "description": "Challenge your mind with Blocky Chains! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/blocky-chains-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Blocky Chains",
+      "href": "/games/blocky-chains",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_073",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

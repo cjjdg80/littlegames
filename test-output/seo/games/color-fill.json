@@ -1,0 +1,54 @@
+{
+  "gameId": 4314,
+  "slug": "color-fill",
+  "metadata": {
+    "title": "Action Game Color Fill - Play Free Now",
+    "description": "Color Fill delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Color Fill",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/color-fill",
+    "openGraph": {
+      "title": "Action Game Color Fill - Play Free Now",
+      "description": "Color Fill delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-fill-og.jpg",
+      "url": "https://littlegames.com/games/color-fill",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Color Fill - Play Free Now",
+      "description": "Color Fill delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-fill-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Fill",
+      "href": "/games/color-fill",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_740",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

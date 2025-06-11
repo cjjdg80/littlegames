@@ -1,0 +1,54 @@
+{
+  "gameId": 999,
+  "slug": "lego-block-puzzle",
+  "metadata": {
+    "title": "Lego Block Puzzle - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Lego Block Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Lego Block Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/lego-block-puzzle",
+    "openGraph": {
+      "title": "Lego Block Puzzle - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Lego Block Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/lego-block-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/lego-block-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Lego Block Puzzle - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Lego Block Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/lego-block-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Lego Block Puzzle",
+      "href": "/games/lego-block-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_975",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8679,
+  "slug": "the-survey",
+  "metadata": {
+    "title": "Free THE SURVEY Game - Adventure Awaits",
+    "description": "Discover new worlds in THE SURVEY. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "THE SURVEY online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/the-survey",
+    "openGraph": {
+      "title": "Free THE SURVEY Game - Adventure Awaits",
+      "description": "Discover new worlds in THE SURVEY. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/the-survey-og.jpg",
+      "url": "https://littlegames.com/games/the-survey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free THE SURVEY Game - Adventure Awaits",
+      "description": "Discover new worlds in THE SURVEY. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/the-survey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "THE SURVEY",
+      "href": "/games/the-survey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_058",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

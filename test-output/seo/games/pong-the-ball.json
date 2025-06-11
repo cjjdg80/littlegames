@@ -1,0 +1,54 @@
+{
+  "gameId": 3720,
+  "slug": "pong-the-ball",
+  "metadata": {
+    "title": "Pong the Ball - Exciting Action Adventure Game",
+    "description": "Join the action in Pong the Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Pong the Ball online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pong-the-ball",
+    "openGraph": {
+      "title": "Pong the Ball - Exciting Action Adventure Game",
+      "description": "Join the action in Pong the Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pong-the-ball-og.jpg",
+      "url": "https://littlegames.com/games/pong-the-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pong the Ball - Exciting Action Adventure Game",
+      "description": "Join the action in Pong the Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pong-the-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pong the Ball",
+      "href": "/games/pong-the-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_326",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

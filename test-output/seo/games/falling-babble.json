@@ -1,0 +1,54 @@
+{
+  "gameId": 2785,
+  "slug": "falling-babble",
+  "metadata": {
+    "title": "Falling Babble - Exciting Action Adventure Game",
+    "description": "Join the action in Falling Babble! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Falling Babble online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/falling-babble",
+    "openGraph": {
+      "title": "Falling Babble - Exciting Action Adventure Game",
+      "description": "Join the action in Falling Babble! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/falling-babble-og.jpg",
+      "url": "https://littlegames.com/games/falling-babble",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Falling Babble - Exciting Action Adventure Game",
+      "description": "Join the action in Falling Babble! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/falling-babble-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Falling Babble",
+      "href": "/games/falling-babble",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_341",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

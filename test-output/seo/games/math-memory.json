@@ -1,0 +1,54 @@
+{
+  "gameId": 2741,
+  "slug": "math-memory",
+  "metadata": {
+    "title": "Math Memory Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Math Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Math Memory online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/math-memory",
+    "openGraph": {
+      "title": "Math Memory Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Math Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/math-memory-og.jpg",
+      "url": "https://littlegames.com/games/math-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Math Memory Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Math Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/math-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Math Memory",
+      "href": "/games/math-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_977",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

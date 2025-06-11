@@ -1,0 +1,54 @@
+{
+  "gameId": 841,
+  "slug": "connect-the-jelly",
+  "metadata": {
+    "title": "Connect The Jelly - Exciting Action Adventure Game",
+    "description": "Connect The Jelly delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Connect The Jelly",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/connect-the-jelly",
+    "openGraph": {
+      "title": "Connect The Jelly - Exciting Action Adventure Game",
+      "description": "Connect The Jelly delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/connect-the-jelly-og.jpg",
+      "url": "https://littlegames.com/games/connect-the-jelly",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Connect The Jelly - Exciting Action Adventure Game",
+      "description": "Connect The Jelly delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/connect-the-jelly-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connect The Jelly",
+      "href": "/games/connect-the-jelly",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_077",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

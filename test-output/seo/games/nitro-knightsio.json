@@ -1,0 +1,54 @@
+{
+  "gameId": 2351,
+  "slug": "nitro-knightsio",
+  "metadata": {
+    "title": "Nitro Knights.io Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Nitro Knights.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Nitro Knights.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/nitro-knightsio",
+    "openGraph": {
+      "title": "Nitro Knights.io Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Nitro Knights.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/nitro-knightsio-og.jpg",
+      "url": "https://littlegames.com/games/nitro-knightsio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Nitro Knights.io Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Nitro Knights.io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/nitro-knightsio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Nitro Knights.io",
+      "href": "/games/nitro-knightsio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_887",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

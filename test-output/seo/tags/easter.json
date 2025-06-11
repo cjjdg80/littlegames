@@ -1,0 +1,46 @@
+{
+  "tag": "easter",
+  "displayName": "Easter",
+  "metadata": {
+    "title": "Easter Games - Play Free Online",
+    "description": "Discover amazing easter games! Play 33 free games with easter theme. No downloads required.",
+    "keywords": [
+      "easter games",
+      "free online games",
+      "browser games",
+      "easter theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/easter",
+    "openGraph": {
+      "title": "Easter Games - Free Online Gaming",
+      "description": "Play the best easter games online for free. 33 games available.",
+      "image": "https://littlegames.com/images/tags/easter-og.jpg",
+      "url": "https://littlegames.com/tags/easter",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Easter Games - Free Online",
+      "description": "Play 33 free easter games online.",
+      "image": "https://littlegames.com/images/tags/easter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Easter",
+      "href": "/tags/easter",
+      "current": true
+    }
+  ],
+  "description": "Discover games with easter theme! Our collection includes 33 carefully selected games that feature easter elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 632,
+  "slug": "dice-gang",
+  "metadata": {
+    "title": "Action Game Dice Gang - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Dice Gang. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Dice Gang",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/dice-gang",
+    "openGraph": {
+      "title": "Action Game Dice Gang - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Dice Gang. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dice-gang-og.jpg",
+      "url": "https://littlegames.com/games/dice-gang",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Dice Gang - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Dice Gang. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dice-gang-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dice Gang",
+      "href": "/games/dice-gang",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_598",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

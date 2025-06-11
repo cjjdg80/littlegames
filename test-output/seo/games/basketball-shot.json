@@ -1,0 +1,54 @@
+{
+  "gameId": 64,
+  "slug": "basketball-shot",
+  "metadata": {
+    "title": "Basketball Shot Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Basketball Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Basketball Shot online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/basketball-shot",
+    "openGraph": {
+      "title": "Basketball Shot Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Basketball Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/basketball-shot-og.jpg",
+      "url": "https://littlegames.com/games/basketball-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Basketball Shot Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Basketball Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/basketball-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basketball Shot",
+      "href": "/games/basketball-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_990",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

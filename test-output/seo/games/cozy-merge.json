@@ -1,0 +1,54 @@
+{
+  "gameId": 6531,
+  "slug": "cozy-merge",
+  "metadata": {
+    "title": "Cozy Merge Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cozy Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Cozy Merge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cozy-merge",
+    "openGraph": {
+      "title": "Cozy Merge Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cozy Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cozy-merge-og.jpg",
+      "url": "https://littlegames.com/games/cozy-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cozy Merge Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cozy Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cozy-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cozy Merge",
+      "href": "/games/cozy-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_467",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

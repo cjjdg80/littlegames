@@ -1,0 +1,54 @@
+{
+  "gameId": 3814,
+  "slug": "santa-chase",
+  "metadata": {
+    "title": "Santa Chase - Exciting Action Adventure Game",
+    "description": "Join the action in Santa Chase! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Santa Chase game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/santa-chase",
+    "openGraph": {
+      "title": "Santa Chase - Exciting Action Adventure Game",
+      "description": "Join the action in Santa Chase! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/santa-chase-og.jpg",
+      "url": "https://littlegames.com/games/santa-chase",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Chase - Exciting Action Adventure Game",
+      "description": "Join the action in Santa Chase! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/santa-chase-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Santa Chase",
+      "href": "/games/santa-chase",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_240",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

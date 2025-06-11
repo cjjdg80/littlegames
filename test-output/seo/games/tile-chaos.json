@@ -1,0 +1,54 @@
+{
+  "gameId": 270,
+  "slug": "tile-chaos",
+  "metadata": {
+    "title": "Action Game Tile Chaos - Play Free Now",
+    "description": "Join the action in Tile Chaos! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Tile Chaos",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tile-chaos",
+    "openGraph": {
+      "title": "Action Game Tile Chaos - Play Free Now",
+      "description": "Join the action in Tile Chaos! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tile-chaos-og.jpg",
+      "url": "https://littlegames.com/games/tile-chaos",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tile Chaos - Play Free Now",
+      "description": "Join the action in Tile Chaos! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tile-chaos-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tile Chaos",
+      "href": "/games/tile-chaos",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_376",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

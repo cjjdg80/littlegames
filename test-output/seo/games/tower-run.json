@@ -1,0 +1,54 @@
+{
+  "gameId": 2942,
+  "slug": "tower-run",
+  "metadata": {
+    "title": "Play Tower Run - Free Action Game Online",
+    "description": "Experience thrilling action in Tower Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Tower Run",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tower-run",
+    "openGraph": {
+      "title": "Play Tower Run - Free Action Game Online",
+      "description": "Experience thrilling action in Tower Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/tower-run-og.jpg",
+      "url": "https://littlegames.com/games/tower-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tower Run - Free Action Game Online",
+      "description": "Experience thrilling action in Tower Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tower-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tower Run",
+      "href": "/games/tower-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_208",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

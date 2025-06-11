@@ -1,0 +1,54 @@
+{
+  "gameId": 65,
+  "slug": "ludo-king-offline",
+  "metadata": {
+    "title": "Free Ludo King Offline Game - Action Packed Fun",
+    "description": "Join the action in Ludo King Offline! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Ludo King Offline online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ludo-king-offline",
+    "openGraph": {
+      "title": "Free Ludo King Offline Game - Action Packed Fun",
+      "description": "Join the action in Ludo King Offline! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ludo-king-offline-og.jpg",
+      "url": "https://littlegames.com/games/ludo-king-offline",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ludo King Offline Game - Action Packed Fun",
+      "description": "Join the action in Ludo King Offline! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ludo-king-offline-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ludo King Offline",
+      "href": "/games/ludo-king-offline",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_021",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

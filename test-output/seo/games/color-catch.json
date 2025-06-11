@@ -1,0 +1,54 @@
+{
+  "gameId": 675,
+  "slug": "color-catch",
+  "metadata": {
+    "title": "Color Catch Online - Ultimate Action Gaming Experience",
+    "description": "Color Catch delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Color Catch",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/color-catch",
+    "openGraph": {
+      "title": "Color Catch Online - Ultimate Action Gaming Experience",
+      "description": "Color Catch delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-catch-og.jpg",
+      "url": "https://littlegames.com/games/color-catch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Catch Online - Ultimate Action Gaming Experience",
+      "description": "Color Catch delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-catch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Catch",
+      "href": "/games/color-catch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_931",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

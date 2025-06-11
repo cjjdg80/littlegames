@@ -1,0 +1,54 @@
+{
+  "gameId": 5668,
+  "slug": "monsters-merge",
+  "metadata": {
+    "title": "Monsters Merge - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Monsters Merge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Monsters Merge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/monsters-merge",
+    "openGraph": {
+      "title": "Monsters Merge - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Monsters Merge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/monsters-merge-og.jpg",
+      "url": "https://littlegames.com/games/monsters-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monsters Merge - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Monsters Merge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/monsters-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monsters Merge",
+      "href": "/games/monsters-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_714",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

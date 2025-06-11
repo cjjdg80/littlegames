@@ -1,0 +1,54 @@
+{
+  "gameId": 6392,
+  "slug": "turn-turn",
+  "metadata": {
+    "title": "Play Turn Turn - Free Action Game Online",
+    "description": "Join the action in Turn Turn! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Turn Turn",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/turn-turn",
+    "openGraph": {
+      "title": "Play Turn Turn - Free Action Game Online",
+      "description": "Join the action in Turn Turn! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/turn-turn-og.jpg",
+      "url": "https://littlegames.com/games/turn-turn",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Turn Turn - Free Action Game Online",
+      "description": "Join the action in Turn Turn! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/turn-turn-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Turn Turn",
+      "href": "/games/turn-turn",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_158",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

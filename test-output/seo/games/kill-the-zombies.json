@@ -1,0 +1,54 @@
+{
+  "gameId": 152,
+  "slug": "kill-the-zombies",
+  "metadata": {
+    "title": "Play Kill the Zombies - Free Action Game Online",
+    "description": "Kill the Zombies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Kill the Zombies game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/kill-the-zombies",
+    "openGraph": {
+      "title": "Play Kill the Zombies - Free Action Game Online",
+      "description": "Kill the Zombies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kill-the-zombies-og.jpg",
+      "url": "https://littlegames.com/games/kill-the-zombies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kill the Zombies - Free Action Game Online",
+      "description": "Kill the Zombies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kill-the-zombies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kill the Zombies",
+      "href": "/games/kill-the-zombies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_718",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

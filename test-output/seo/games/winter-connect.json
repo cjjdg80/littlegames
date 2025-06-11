@@ -1,0 +1,54 @@
+{
+  "gameId": 5956,
+  "slug": "winter-connect",
+  "metadata": {
+    "title": "Play Winter Connect - Free Action Game Online",
+    "description": "Experience thrilling action in Winter Connect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Winter Connect online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/winter-connect",
+    "openGraph": {
+      "title": "Play Winter Connect - Free Action Game Online",
+      "description": "Experience thrilling action in Winter Connect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/winter-connect-og.jpg",
+      "url": "https://littlegames.com/games/winter-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Winter Connect - Free Action Game Online",
+      "description": "Experience thrilling action in Winter Connect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/winter-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Winter Connect",
+      "href": "/games/winter-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_642",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

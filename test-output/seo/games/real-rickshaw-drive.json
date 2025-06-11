@@ -1,0 +1,54 @@
+{
+  "gameId": 750,
+  "slug": "real-rickshaw-drive",
+  "metadata": {
+    "title": "Free Real Rickshaw Drive Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Real Rickshaw Drive. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Real Rickshaw Drive game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/real-rickshaw-drive",
+    "openGraph": {
+      "title": "Free Real Rickshaw Drive Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Real Rickshaw Drive. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/real-rickshaw-drive-og.jpg",
+      "url": "https://littlegames.com/games/real-rickshaw-drive",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Real Rickshaw Drive Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Real Rickshaw Drive. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/real-rickshaw-drive-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Real Rickshaw Drive",
+      "href": "/games/real-rickshaw-drive",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_256",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

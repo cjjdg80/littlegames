@@ -1,0 +1,54 @@
+{
+  "gameId": 5585,
+  "slug": "cooking-tile",
+  "metadata": {
+    "title": "Free Cooking Tile Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Cooking Tile. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Cooking Tile",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/cooking-tile",
+    "openGraph": {
+      "title": "Free Cooking Tile Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cooking Tile. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cooking-tile-og.jpg",
+      "url": "https://littlegames.com/games/cooking-tile",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Cooking Tile Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cooking Tile. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cooking-tile-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cooking Tile",
+      "href": "/games/cooking-tile",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_141",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

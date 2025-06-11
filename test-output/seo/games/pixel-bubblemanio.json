@@ -1,0 +1,54 @@
+{
+  "gameId": 3518,
+  "slug": "pixel-bubblemanio",
+  "metadata": {
+    "title": "Pixel Bubbleman.io - Exciting Action Adventure Game",
+    "description": "Pixel Bubbleman.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Pixel Bubbleman.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-bubblemanio",
+    "openGraph": {
+      "title": "Pixel Bubbleman.io - Exciting Action Adventure Game",
+      "description": "Pixel Bubbleman.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pixel-bubblemanio-og.jpg",
+      "url": "https://littlegames.com/games/pixel-bubblemanio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pixel Bubbleman.io - Exciting Action Adventure Game",
+      "description": "Pixel Bubbleman.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pixel-bubblemanio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pixel Bubbleman.io",
+      "href": "/games/pixel-bubblemanio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_064",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

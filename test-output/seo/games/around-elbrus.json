@@ -1,0 +1,54 @@
+{
+  "gameId": 8979,
+  "slug": "around-elbrus",
+  "metadata": {
+    "title": "Free Around Elbrus Game - Adventure Awaits",
+    "description": "Start your epic journey with Around Elbrus! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Around Elbrus",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/around-elbrus",
+    "openGraph": {
+      "title": "Free Around Elbrus Game - Adventure Awaits",
+      "description": "Start your epic journey with Around Elbrus! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/around-elbrus-og.jpg",
+      "url": "https://littlegames.com/games/around-elbrus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Around Elbrus Game - Adventure Awaits",
+      "description": "Start your epic journey with Around Elbrus! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/around-elbrus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Around Elbrus",
+      "href": "/games/around-elbrus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_358",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5244,
+  "slug": "fighter-manager",
+  "metadata": {
+    "title": "Free Fighter Manager Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Fighter Manager. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Fighter Manager",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fighter-manager",
+    "openGraph": {
+      "title": "Free Fighter Manager Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Fighter Manager. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/fighter-manager-og.jpg",
+      "url": "https://littlegames.com/games/fighter-manager",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Fighter Manager Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Fighter Manager. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fighter-manager-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fighter Manager",
+      "href": "/games/fighter-manager",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_570",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

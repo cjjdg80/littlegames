@@ -1,0 +1,54 @@
+{
+  "gameId": 4060,
+  "slug": "drawmaster",
+  "metadata": {
+    "title": "Free Drawmaster Game - Action Packed Fun",
+    "description": "Drawmaster delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Drawmaster online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/drawmaster",
+    "openGraph": {
+      "title": "Free Drawmaster Game - Action Packed Fun",
+      "description": "Drawmaster delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drawmaster-og.jpg",
+      "url": "https://littlegames.com/games/drawmaster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drawmaster Game - Action Packed Fun",
+      "description": "Drawmaster delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drawmaster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drawmaster",
+      "href": "/games/drawmaster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_866",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

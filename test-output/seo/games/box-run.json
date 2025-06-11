@@ -1,0 +1,54 @@
+{
+  "gameId": 6234,
+  "slug": "box-run",
+  "metadata": {
+    "title": "Action Game Box Run - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Box Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Box Run",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/box-run",
+    "openGraph": {
+      "title": "Action Game Box Run - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Box Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/box-run-og.jpg",
+      "url": "https://littlegames.com/games/box-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Box Run - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Box Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/box-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Box Run",
+      "href": "/games/box-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_260",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1371,
+  "slug": "eternal-fury",
+  "metadata": {
+    "title": "Play Eternal Fury - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Eternal Fury. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Eternal Fury game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/eternal-fury",
+    "openGraph": {
+      "title": "Play Eternal Fury - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Eternal Fury. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/eternal-fury-og.jpg",
+      "url": "https://littlegames.com/games/eternal-fury",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Eternal Fury - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Eternal Fury. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/eternal-fury-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Eternal Fury",
+      "href": "/games/eternal-fury",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_509",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

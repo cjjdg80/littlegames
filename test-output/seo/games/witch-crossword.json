@@ -1,0 +1,54 @@
+{
+  "gameId": 696,
+  "slug": "witch-crossword",
+  "metadata": {
+    "title": "Play Witch Crossword - Free Puzzle Game Online",
+    "description": "Challenge your mind with Witch Crossword! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Witch Crossword game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/witch-crossword",
+    "openGraph": {
+      "title": "Play Witch Crossword - Free Puzzle Game Online",
+      "description": "Challenge your mind with Witch Crossword! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/witch-crossword-og.jpg",
+      "url": "https://littlegames.com/games/witch-crossword",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Witch Crossword - Free Puzzle Game Online",
+      "description": "Challenge your mind with Witch Crossword! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/witch-crossword-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Witch Crossword",
+      "href": "/games/witch-crossword",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_582",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

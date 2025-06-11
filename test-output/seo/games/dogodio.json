@@ -1,0 +1,54 @@
+{
+  "gameId": 2865,
+  "slug": "dogodio",
+  "metadata": {
+    "title": "Play Dogod.io - Free Action Game Online",
+    "description": "Dive into the action-packed world of Dogod.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Dogod.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dogodio",
+    "openGraph": {
+      "title": "Play Dogod.io - Free Action Game Online",
+      "description": "Dive into the action-packed world of Dogod.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dogodio-og.jpg",
+      "url": "https://littlegames.com/games/dogodio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Dogod.io - Free Action Game Online",
+      "description": "Dive into the action-packed world of Dogod.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dogodio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dogod.io",
+      "href": "/games/dogodio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_821",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

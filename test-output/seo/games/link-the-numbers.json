@@ -1,0 +1,54 @@
+{
+  "gameId": 4916,
+  "slug": "link-the-numbers",
+  "metadata": {
+    "title": "Link the numbers - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Link the numbers! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Link the numbers",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/link-the-numbers",
+    "openGraph": {
+      "title": "Link the numbers - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Link the numbers! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/link-the-numbers-og.jpg",
+      "url": "https://littlegames.com/games/link-the-numbers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Link the numbers - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Link the numbers! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/link-the-numbers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Link the numbers",
+      "href": "/games/link-the-numbers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_402",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5366,
+  "slug": "wo-miners",
+  "metadata": {
+    "title": "Free Wo-Miners Game - Adventure Awaits",
+    "description": "Wo-Miners offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "adventure games",
+      "Wo-Miners",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wo-miners",
+    "openGraph": {
+      "title": "Free Wo-Miners Game - Adventure Awaits",
+      "description": "Wo-Miners offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/wo-miners-og.jpg",
+      "url": "https://littlegames.com/games/wo-miners",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Wo-Miners Game - Adventure Awaits",
+      "description": "Wo-Miners offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/wo-miners-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Wo-Miners",
+      "href": "/games/wo-miners",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_355",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

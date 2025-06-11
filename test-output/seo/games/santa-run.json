@@ -1,0 +1,54 @@
+{
+  "gameId": 7559,
+  "slug": "santa-run",
+  "metadata": {
+    "title": "Play Santa Run - Epic Adventure Game Online",
+    "description": "Begin your quest in Santa Run. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Santa Run",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/santa-run",
+    "openGraph": {
+      "title": "Play Santa Run - Epic Adventure Game Online",
+      "description": "Begin your quest in Santa Run. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/santa-run-og.jpg",
+      "url": "https://littlegames.com/games/santa-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Santa Run - Epic Adventure Game Online",
+      "description": "Begin your quest in Santa Run. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/santa-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Santa Run",
+      "href": "/games/santa-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_338",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

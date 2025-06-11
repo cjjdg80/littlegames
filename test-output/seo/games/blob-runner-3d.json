@@ -1,0 +1,54 @@
+{
+  "gameId": 2953,
+  "slug": "blob-runner-3d",
+  "metadata": {
+    "title": "Blob Runner 3D - Exciting Action Adventure Game",
+    "description": "Join the action in Blob Runner 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Blob Runner 3D online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/blob-runner-3d",
+    "openGraph": {
+      "title": "Blob Runner 3D - Exciting Action Adventure Game",
+      "description": "Join the action in Blob Runner 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/blob-runner-3d-og.jpg",
+      "url": "https://littlegames.com/games/blob-runner-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Blob Runner 3D - Exciting Action Adventure Game",
+      "description": "Join the action in Blob Runner 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/blob-runner-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Blob Runner 3D",
+      "href": "/games/blob-runner-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_549",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

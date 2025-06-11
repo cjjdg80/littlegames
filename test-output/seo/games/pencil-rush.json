@@ -1,0 +1,54 @@
+{
+  "gameId": 2622,
+  "slug": "pencil-rush",
+  "metadata": {
+    "title": "Play Pencil Rush - Free Action Game Online",
+    "description": "Experience thrilling action in Pencil Rush! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Pencil Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pencil-rush",
+    "openGraph": {
+      "title": "Play Pencil Rush - Free Action Game Online",
+      "description": "Experience thrilling action in Pencil Rush! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/pencil-rush-og.jpg",
+      "url": "https://littlegames.com/games/pencil-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pencil Rush - Free Action Game Online",
+      "description": "Experience thrilling action in Pencil Rush! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pencil-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pencil Rush",
+      "href": "/games/pencil-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_288",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

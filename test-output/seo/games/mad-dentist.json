@@ -1,0 +1,54 @@
+{
+  "gameId": 1303,
+  "slug": "mad-dentist",
+  "metadata": {
+    "title": "Play Mad Dentist - Free Action Game Online",
+    "description": "Join the action in Mad Dentist! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mad Dentist online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mad-dentist",
+    "openGraph": {
+      "title": "Play Mad Dentist - Free Action Game Online",
+      "description": "Join the action in Mad Dentist! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mad-dentist-og.jpg",
+      "url": "https://littlegames.com/games/mad-dentist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mad Dentist - Free Action Game Online",
+      "description": "Join the action in Mad Dentist! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mad-dentist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mad Dentist",
+      "href": "/games/mad-dentist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_399",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

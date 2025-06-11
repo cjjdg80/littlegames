@@ -1,0 +1,48 @@
+{
+  "tag": "beat-em-up",
+  "displayName": "Beat Em Up",
+  "metadata": {
+    "title": "Beat Em Up Games - Play Free Online",
+    "description": "Discover amazing beat em up games! Play 10 free games with beat em up theme. No downloads required.",
+    "keywords": [
+      "beat em up games",
+      "free online games",
+      "browser games",
+      "beat em up theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/beat-em-up",
+    "openGraph": {
+      "title": "Beat Em Up Games - Free Online Gaming",
+      "description": "Play the best beat em up games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/beat-em-up-og.jpg",
+      "url": "https://littlegames.com/tags/beat-em-up",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Beat Em Up Games - Free Online",
+      "description": "Play 10 free beat em up games online.",
+      "image": "https://littlegames.com/images/tags/beat-em-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Beat Em Up",
+      "href": "/tags/beat-em-up",
+      "current": true
+    }
+  ],
+  "description": "Discover games with beat em up theme! Our collection includes 10 carefully selected games that feature beat em up elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": [
+    "shoot-em-up"
+  ]
+}

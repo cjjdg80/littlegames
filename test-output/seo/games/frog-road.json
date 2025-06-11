@@ -1,0 +1,54 @@
+{
+  "gameId": 3161,
+  "slug": "frog-road",
+  "metadata": {
+    "title": "Free Frog Road Game - Action Packed Fun",
+    "description": "Frog Road delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Frog Road",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/frog-road",
+    "openGraph": {
+      "title": "Free Frog Road Game - Action Packed Fun",
+      "description": "Frog Road delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/frog-road-og.jpg",
+      "url": "https://littlegames.com/games/frog-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Frog Road Game - Action Packed Fun",
+      "description": "Frog Road delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/frog-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Frog Road",
+      "href": "/games/frog-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_997",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1981,
+  "slug": "pop-pop-kitties",
+  "metadata": {
+    "title": "Free Pop Pop Kitties Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Pop Pop Kitties. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Pop Pop Kitties",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pop-pop-kitties",
+    "openGraph": {
+      "title": "Free Pop Pop Kitties Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Pop Pop Kitties. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pop-pop-kitties-og.jpg",
+      "url": "https://littlegames.com/games/pop-pop-kitties",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pop Pop Kitties Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Pop Pop Kitties. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pop-pop-kitties-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pop Pop Kitties",
+      "href": "/games/pop-pop-kitties",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_417",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

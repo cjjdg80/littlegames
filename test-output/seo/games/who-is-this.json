@@ -1,0 +1,54 @@
+{
+  "gameId": 5052,
+  "slug": "who-is-this",
+  "metadata": {
+    "title": "Free Who is This Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Who is This! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Who is This online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/who-is-this",
+    "openGraph": {
+      "title": "Free Who is This Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Who is This! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/who-is-this-og.jpg",
+      "url": "https://littlegames.com/games/who-is-this",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Who is This Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Who is This! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/who-is-this-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Who is This",
+      "href": "/games/who-is-this",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_621",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

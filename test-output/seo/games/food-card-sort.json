@@ -1,0 +1,54 @@
+{
+  "gameId": 8034,
+  "slug": "food-card-sort",
+  "metadata": {
+    "title": "Free Food Card Sort Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Food Card Sort! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Food Card Sort game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/food-card-sort",
+    "openGraph": {
+      "title": "Free Food Card Sort Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Food Card Sort! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/food-card-sort-og.jpg",
+      "url": "https://littlegames.com/games/food-card-sort",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Food Card Sort Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Food Card Sort! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/food-card-sort-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Food Card Sort",
+      "href": "/games/food-card-sort",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_060",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

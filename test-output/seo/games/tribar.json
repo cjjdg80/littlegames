@@ -1,0 +1,54 @@
+{
+  "gameId": 6493,
+  "slug": "tribar",
+  "metadata": {
+    "title": "Free TRIBAR Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with TRIBAR. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "TRIBAR game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tribar",
+    "openGraph": {
+      "title": "Free TRIBAR Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with TRIBAR. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tribar-og.jpg",
+      "url": "https://littlegames.com/games/tribar",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free TRIBAR Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with TRIBAR. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tribar-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "TRIBAR",
+      "href": "/games/tribar",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_289",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7458,
+  "slug": "monster-match-3",
+  "metadata": {
+    "title": "Play Monster Match-3 - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Monster Match-3. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Monster Match-3 online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/monster-match-3",
+    "openGraph": {
+      "title": "Play Monster Match-3 - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Monster Match-3. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/monster-match-3-og.jpg",
+      "url": "https://littlegames.com/games/monster-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Monster Match-3 - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Monster Match-3. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/monster-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monster Match-3",
+      "href": "/games/monster-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_204",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

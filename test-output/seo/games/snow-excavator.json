@@ -1,0 +1,54 @@
+{
+  "gameId": 1713,
+  "slug": "snow-excavator",
+  "metadata": {
+    "title": "Snow Excavator - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Snow Excavator. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Snow Excavator",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/snow-excavator",
+    "openGraph": {
+      "title": "Snow Excavator - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Snow Excavator. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/snow-excavator-og.jpg",
+      "url": "https://littlegames.com/games/snow-excavator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snow Excavator - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Snow Excavator. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/snow-excavator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Snow Excavator",
+      "href": "/games/snow-excavator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_109",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7119,
+  "slug": "what-the-hen",
+  "metadata": {
+    "title": "Free What The Hen! Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of What The Hen!. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "What The Hen! online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/what-the-hen",
+    "openGraph": {
+      "title": "Free What The Hen! Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of What The Hen!. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/what-the-hen-og.jpg",
+      "url": "https://littlegames.com/games/what-the-hen",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free What The Hen! Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of What The Hen!. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/what-the-hen-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "What The Hen!",
+      "href": "/games/what-the-hen",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_697",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

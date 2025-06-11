@@ -1,0 +1,54 @@
+{
+  "gameId": 8890,
+  "slug": "slope-snowball",
+  "metadata": {
+    "title": "Action Game Slope Snowball - Play Free Now",
+    "description": "Slope Snowball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Slope Snowball online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/slope-snowball",
+    "openGraph": {
+      "title": "Action Game Slope Snowball - Play Free Now",
+      "description": "Slope Snowball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/slope-snowball-og.jpg",
+      "url": "https://littlegames.com/games/slope-snowball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Slope Snowball - Play Free Now",
+      "description": "Slope Snowball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/slope-snowball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Slope Snowball",
+      "href": "/games/slope-snowball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_596",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "dress",
+  "displayName": "Dress",
+  "metadata": {
+    "title": "Dress Games - Play Free Online",
+    "description": "Discover amazing dress games! Play 107 free games with dress theme. No downloads required.",
+    "keywords": [
+      "dress games",
+      "free online games",
+      "browser games",
+      "dress theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/dress",
+    "openGraph": {
+      "title": "Dress Games - Free Online Gaming",
+      "description": "Play the best dress games online for free. 107 games available.",
+      "image": "https://littlegames.com/images/tags/dress-og.jpg",
+      "url": "https://littlegames.com/tags/dress",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dress Games - Free Online",
+      "description": "Play 107 free dress games online.",
+      "image": "https://littlegames.com/images/tags/dress-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dress",
+      "href": "/tags/dress",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dress theme! Our collection includes 107 carefully selected games that feature dress elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

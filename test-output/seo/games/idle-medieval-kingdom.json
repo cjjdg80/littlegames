@@ -1,0 +1,54 @@
+{
+  "gameId": 7374,
+  "slug": "idle-medieval-kingdom",
+  "metadata": {
+    "title": "Idle Medieval Kingdom - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Idle Medieval Kingdom! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Idle Medieval Kingdom game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/idle-medieval-kingdom",
+    "openGraph": {
+      "title": "Idle Medieval Kingdom - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Idle Medieval Kingdom! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/idle-medieval-kingdom-og.jpg",
+      "url": "https://littlegames.com/games/idle-medieval-kingdom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idle Medieval Kingdom - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Idle Medieval Kingdom! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/idle-medieval-kingdom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Medieval Kingdom",
+      "href": "/games/idle-medieval-kingdom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_604",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

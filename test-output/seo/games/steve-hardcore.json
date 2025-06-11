@@ -1,0 +1,54 @@
+{
+  "gameId": 7178,
+  "slug": "steve-hardcore",
+  "metadata": {
+    "title": "Steve Hardcore - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Steve Hardcore. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Steve Hardcore online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/steve-hardcore",
+    "openGraph": {
+      "title": "Steve Hardcore - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Steve Hardcore. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/steve-hardcore-og.jpg",
+      "url": "https://littlegames.com/games/steve-hardcore",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Steve Hardcore - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Steve Hardcore. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/steve-hardcore-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Steve Hardcore",
+      "href": "/games/steve-hardcore",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_527",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

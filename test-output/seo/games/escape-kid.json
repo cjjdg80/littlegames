@@ -1,0 +1,54 @@
+{
+  "gameId": 3274,
+  "slug": "escape-kid",
+  "metadata": {
+    "title": "Escape Kid - Thrilling Adventure Quest",
+    "description": "Escape Kid offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "Escape Kid online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/escape-kid",
+    "openGraph": {
+      "title": "Escape Kid - Thrilling Adventure Quest",
+      "description": "Escape Kid offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/escape-kid-og.jpg",
+      "url": "https://littlegames.com/games/escape-kid",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Escape Kid - Thrilling Adventure Quest",
+      "description": "Escape Kid offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/escape-kid-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape Kid",
+      "href": "/games/escape-kid",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_503",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

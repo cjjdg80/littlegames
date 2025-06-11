@@ -1,0 +1,54 @@
+{
+  "gameId": 741,
+  "slug": "crazy-shark",
+  "metadata": {
+    "title": "Action Game Crazy Shark - Play Free Now",
+    "description": "Dive into the action-packed world of Crazy Shark. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Crazy Shark",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-shark",
+    "openGraph": {
+      "title": "Action Game Crazy Shark - Play Free Now",
+      "description": "Dive into the action-packed world of Crazy Shark. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/crazy-shark-og.jpg",
+      "url": "https://littlegames.com/games/crazy-shark",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Crazy Shark - Play Free Now",
+      "description": "Dive into the action-packed world of Crazy Shark. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/crazy-shark-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crazy Shark",
+      "href": "/games/crazy-shark",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_977",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

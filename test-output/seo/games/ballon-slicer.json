@@ -1,0 +1,54 @@
+{
+  "gameId": 6127,
+  "slug": "ballon-slicer",
+  "metadata": {
+    "title": "Play Ballon Slicer - Free Action Game Online",
+    "description": "Ballon Slicer delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Ballon Slicer",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ballon-slicer",
+    "openGraph": {
+      "title": "Play Ballon Slicer - Free Action Game Online",
+      "description": "Ballon Slicer delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ballon-slicer-og.jpg",
+      "url": "https://littlegames.com/games/ballon-slicer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ballon Slicer - Free Action Game Online",
+      "description": "Ballon Slicer delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ballon-slicer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ballon Slicer",
+      "href": "/games/ballon-slicer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_943",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3612,
+  "slug": "operation-desert-road",
+  "metadata": {
+    "title": "Operation Desert Road - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Operation Desert Road. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Operation Desert Road online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/operation-desert-road",
+    "openGraph": {
+      "title": "Operation Desert Road - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Operation Desert Road. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/operation-desert-road-og.jpg",
+      "url": "https://littlegames.com/games/operation-desert-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Operation Desert Road - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Operation Desert Road. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/operation-desert-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Operation Desert Road",
+      "href": "/games/operation-desert-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_978",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

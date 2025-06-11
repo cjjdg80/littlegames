@@ -1,0 +1,54 @@
+{
+  "gameId": 9603,
+  "slug": "parkour-obby",
+  "metadata": {
+    "title": "Play Parkour Obby - Epic Adventure Game Online",
+    "description": "Discover new worlds in Parkour Obby. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Parkour Obby",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-obby",
+    "openGraph": {
+      "title": "Play Parkour Obby - Epic Adventure Game Online",
+      "description": "Discover new worlds in Parkour Obby. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/parkour-obby-og.jpg",
+      "url": "https://littlegames.com/games/parkour-obby",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Parkour Obby - Epic Adventure Game Online",
+      "description": "Discover new worlds in Parkour Obby. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/parkour-obby-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Parkour Obby",
+      "href": "/games/parkour-obby",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_702",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

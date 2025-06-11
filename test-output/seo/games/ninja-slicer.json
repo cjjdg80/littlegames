@@ -1,0 +1,54 @@
+{
+  "gameId": 5748,
+  "slug": "ninja-slicer",
+  "metadata": {
+    "title": "Play Ninja Slicer - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Ninja Slicer. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Ninja Slicer",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-slicer",
+    "openGraph": {
+      "title": "Play Ninja Slicer - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Ninja Slicer. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/ninja-slicer-og.jpg",
+      "url": "https://littlegames.com/games/ninja-slicer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ninja Slicer - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Ninja Slicer. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/ninja-slicer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ninja Slicer",
+      "href": "/games/ninja-slicer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_194",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "logical",
+  "displayName": "Logical",
+  "metadata": {
+    "title": "Logical Games - Play Free Online",
+    "description": "Discover amazing logical games! Play 35 free games with logical theme. No downloads required.",
+    "keywords": [
+      "logical games",
+      "free online games",
+      "browser games",
+      "logical theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/logical",
+    "openGraph": {
+      "title": "Logical Games - Free Online Gaming",
+      "description": "Play the best logical games online for free. 35 games available.",
+      "image": "https://littlegames.com/images/tags/logical-og.jpg",
+      "url": "https://littlegames.com/tags/logical",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Logical Games - Free Online",
+      "description": "Play 35 free logical games online.",
+      "image": "https://littlegames.com/images/tags/logical-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Logical",
+      "href": "/tags/logical",
+      "current": true
+    }
+  ],
+  "description": "Discover games with logical theme! Our collection includes 35 carefully selected games that feature logical elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

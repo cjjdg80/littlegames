@@ -1,0 +1,54 @@
+{
+  "gameId": 3600,
+  "slug": "super-billy-boy",
+  "metadata": {
+    "title": "Play Super Billy Boy - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Super Billy Boy! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Super Billy Boy",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/super-billy-boy",
+    "openGraph": {
+      "title": "Play Super Billy Boy - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Super Billy Boy! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/super-billy-boy-og.jpg",
+      "url": "https://littlegames.com/games/super-billy-boy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Super Billy Boy - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Super Billy Boy! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-billy-boy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Billy Boy",
+      "href": "/games/super-billy-boy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_609",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

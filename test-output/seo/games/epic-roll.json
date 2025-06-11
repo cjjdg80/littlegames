@@ -1,0 +1,54 @@
+{
+  "gameId": 5575,
+  "slug": "epic-roll",
+  "metadata": {
+    "title": "Free Epic Roll Game - Action Packed Fun",
+    "description": "Join the action in Epic Roll! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Epic Roll",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/epic-roll",
+    "openGraph": {
+      "title": "Free Epic Roll Game - Action Packed Fun",
+      "description": "Join the action in Epic Roll! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/epic-roll-og.jpg",
+      "url": "https://littlegames.com/games/epic-roll",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Epic Roll Game - Action Packed Fun",
+      "description": "Join the action in Epic Roll! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/epic-roll-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Epic Roll",
+      "href": "/games/epic-roll",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_831",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

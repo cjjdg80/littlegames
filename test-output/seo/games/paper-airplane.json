@@ -1,0 +1,54 @@
+{
+  "gameId": 2302,
+  "slug": "paper-airplane",
+  "metadata": {
+    "title": "Free Paper Airplane Game - Action Packed Fun",
+    "description": "Paper Airplane delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Paper Airplane",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/paper-airplane",
+    "openGraph": {
+      "title": "Free Paper Airplane Game - Action Packed Fun",
+      "description": "Paper Airplane delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/paper-airplane-og.jpg",
+      "url": "https://littlegames.com/games/paper-airplane",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Paper Airplane Game - Action Packed Fun",
+      "description": "Paper Airplane delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/paper-airplane-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paper Airplane",
+      "href": "/games/paper-airplane",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_368",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

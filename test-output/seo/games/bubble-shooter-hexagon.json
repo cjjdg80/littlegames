@@ -1,0 +1,54 @@
+{
+  "gameId": 6225,
+  "slug": "bubble-shooter-hexagon",
+  "metadata": {
+    "title": "Bubble Shooter Hexagon - Exciting Action Adventure Game",
+    "description": "Bubble Shooter Hexagon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Bubble Shooter Hexagon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-shooter-hexagon",
+    "openGraph": {
+      "title": "Bubble Shooter Hexagon - Exciting Action Adventure Game",
+      "description": "Bubble Shooter Hexagon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bubble-shooter-hexagon-og.jpg",
+      "url": "https://littlegames.com/games/bubble-shooter-hexagon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Shooter Hexagon - Exciting Action Adventure Game",
+      "description": "Bubble Shooter Hexagon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bubble-shooter-hexagon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Shooter Hexagon",
+      "href": "/games/bubble-shooter-hexagon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_981",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

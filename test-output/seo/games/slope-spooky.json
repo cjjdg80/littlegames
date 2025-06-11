@@ -1,0 +1,54 @@
+{
+  "gameId": 8670,
+  "slug": "slope-spooky",
+  "metadata": {
+    "title": "Free Slope Spooky Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Slope Spooky. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Slope Spooky",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/slope-spooky",
+    "openGraph": {
+      "title": "Free Slope Spooky Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Slope Spooky. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/slope-spooky-og.jpg",
+      "url": "https://littlegames.com/games/slope-spooky",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Slope Spooky Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Slope Spooky. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slope-spooky-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Slope Spooky",
+      "href": "/games/slope-spooky",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_776",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

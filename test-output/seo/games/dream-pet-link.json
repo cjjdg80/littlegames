@@ -1,0 +1,54 @@
+{
+  "gameId": 1009,
+  "slug": "dream-pet-link",
+  "metadata": {
+    "title": "Action Game Dream Pet Link - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Dream Pet Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dream Pet Link online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dream-pet-link",
+    "openGraph": {
+      "title": "Action Game Dream Pet Link - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Dream Pet Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dream-pet-link-og.jpg",
+      "url": "https://littlegames.com/games/dream-pet-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Dream Pet Link - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Dream Pet Link. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dream-pet-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dream Pet Link",
+      "href": "/games/dream-pet-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_285",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

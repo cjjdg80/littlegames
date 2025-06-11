@@ -1,0 +1,46 @@
+{
+  "tag": "hardcore",
+  "displayName": "Hardcore",
+  "metadata": {
+    "title": "Hardcore Games - Play Free Online",
+    "description": "Discover amazing hardcore games! Play 35 free games with hardcore theme. No downloads required.",
+    "keywords": [
+      "hardcore games",
+      "free online games",
+      "browser games",
+      "hardcore theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/hardcore",
+    "openGraph": {
+      "title": "Hardcore Games - Free Online Gaming",
+      "description": "Play the best hardcore games online for free. 35 games available.",
+      "image": "https://littlegames.com/images/tags/hardcore-og.jpg",
+      "url": "https://littlegames.com/tags/hardcore",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hardcore Games - Free Online",
+      "description": "Play 35 free hardcore games online.",
+      "image": "https://littlegames.com/images/tags/hardcore-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hardcore",
+      "href": "/tags/hardcore",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hardcore theme! Our collection includes 35 carefully selected games that feature hardcore elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5410,
+  "slug": "guess-the-path",
+  "metadata": {
+    "title": "Guess the path - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Guess the path. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Guess the path",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/guess-the-path",
+    "openGraph": {
+      "title": "Guess the path - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Guess the path. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/guess-the-path-og.jpg",
+      "url": "https://littlegames.com/games/guess-the-path",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Guess the path - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Guess the path. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/guess-the-path-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Guess the path",
+      "href": "/games/guess-the-path",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_716",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

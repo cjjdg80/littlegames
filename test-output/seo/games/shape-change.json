@@ -1,0 +1,54 @@
+{
+  "gameId": 252,
+  "slug": "shape-change",
+  "metadata": {
+    "title": "Shape Change Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Shape Change! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Shape Change online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/shape-change",
+    "openGraph": {
+      "title": "Shape Change Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shape Change! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shape-change-og.jpg",
+      "url": "https://littlegames.com/games/shape-change",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shape Change Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Shape Change! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shape-change-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shape Change",
+      "href": "/games/shape-change",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_818",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

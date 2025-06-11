@@ -1,0 +1,54 @@
+{
+  "gameId": 3035,
+  "slug": "rainbow-frozen",
+  "metadata": {
+    "title": "Action Game Rainbow Frozen - Play Free Now",
+    "description": "Rainbow Frozen delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Rainbow Frozen",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/rainbow-frozen",
+    "openGraph": {
+      "title": "Action Game Rainbow Frozen - Play Free Now",
+      "description": "Rainbow Frozen delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rainbow-frozen-og.jpg",
+      "url": "https://littlegames.com/games/rainbow-frozen",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Rainbow Frozen - Play Free Now",
+      "description": "Rainbow Frozen delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rainbow-frozen-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rainbow Frozen",
+      "href": "/games/rainbow-frozen",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_091",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

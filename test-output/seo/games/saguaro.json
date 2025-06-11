@@ -1,0 +1,54 @@
+{
+  "gameId": 6765,
+  "slug": "saguaro",
+  "metadata": {
+    "title": "Play Saguaro - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Saguaro. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Saguaro game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/saguaro",
+    "openGraph": {
+      "title": "Play Saguaro - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Saguaro. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/saguaro-og.jpg",
+      "url": "https://littlegames.com/games/saguaro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Saguaro - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Saguaro. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/saguaro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Saguaro",
+      "href": "/games/saguaro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_721",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4669,
+  "slug": "hexologic",
+  "metadata": {
+    "title": "Hexologic Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Hexologic. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Hexologic game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexologic",
+    "openGraph": {
+      "title": "Hexologic Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Hexologic. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/hexologic-og.jpg",
+      "url": "https://littlegames.com/games/hexologic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hexologic Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Hexologic. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/hexologic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hexologic",
+      "href": "/games/hexologic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_745",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

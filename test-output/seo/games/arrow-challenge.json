@@ -1,0 +1,54 @@
+{
+  "gameId": 3472,
+  "slug": "arrow-challenge",
+  "metadata": {
+    "title": "Free Arrow Challenge Game - Action Packed Fun",
+    "description": "Experience thrilling action in Arrow Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Arrow Challenge",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/arrow-challenge",
+    "openGraph": {
+      "title": "Free Arrow Challenge Game - Action Packed Fun",
+      "description": "Experience thrilling action in Arrow Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/arrow-challenge-og.jpg",
+      "url": "https://littlegames.com/games/arrow-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Arrow Challenge Game - Action Packed Fun",
+      "description": "Experience thrilling action in Arrow Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/arrow-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Arrow Challenge",
+      "href": "/games/arrow-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_638",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

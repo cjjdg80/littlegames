@@ -1,0 +1,54 @@
+{
+  "gameId": 8105,
+  "slug": "fish-jam",
+  "metadata": {
+    "title": "Fish Jam Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Fish Jam! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Fish Jam",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fish-jam",
+    "openGraph": {
+      "title": "Fish Jam Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Fish Jam! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/fish-jam-og.jpg",
+      "url": "https://littlegames.com/games/fish-jam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fish Jam Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Fish Jam! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/fish-jam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fish Jam",
+      "href": "/games/fish-jam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_261",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

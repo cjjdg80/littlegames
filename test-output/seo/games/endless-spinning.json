@@ -1,0 +1,54 @@
+{
+  "gameId": 889,
+  "slug": "endless-spinning",
+  "metadata": {
+    "title": "Endless Spinning Online - Ultimate Action Gaming Experience",
+    "description": "Endless Spinning delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Endless Spinning",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/endless-spinning",
+    "openGraph": {
+      "title": "Endless Spinning Online - Ultimate Action Gaming Experience",
+      "description": "Endless Spinning delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/endless-spinning-og.jpg",
+      "url": "https://littlegames.com/games/endless-spinning",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Endless Spinning Online - Ultimate Action Gaming Experience",
+      "description": "Endless Spinning delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/endless-spinning-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Endless Spinning",
+      "href": "/games/endless-spinning",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_565",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

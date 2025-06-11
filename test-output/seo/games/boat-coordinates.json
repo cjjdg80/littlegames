@@ -1,0 +1,54 @@
+{
+  "gameId": 1378,
+  "slug": "boat-coordinates",
+  "metadata": {
+    "title": "Boat Coordinates Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Boat Coordinates! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Boat Coordinates game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/boat-coordinates",
+    "openGraph": {
+      "title": "Boat Coordinates Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Boat Coordinates! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/boat-coordinates-og.jpg",
+      "url": "https://littlegames.com/games/boat-coordinates",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Boat Coordinates Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Boat Coordinates! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/boat-coordinates-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Boat Coordinates",
+      "href": "/games/boat-coordinates",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_724",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

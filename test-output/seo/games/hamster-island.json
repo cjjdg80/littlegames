@@ -1,0 +1,54 @@
+{
+  "gameId": 4969,
+  "slug": "hamster-island",
+  "metadata": {
+    "title": "Hamster Island - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Hamster Island. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Hamster Island game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hamster-island",
+    "openGraph": {
+      "title": "Hamster Island - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hamster Island. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hamster-island-og.jpg",
+      "url": "https://littlegames.com/games/hamster-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hamster Island - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hamster Island. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hamster-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hamster Island",
+      "href": "/games/hamster-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_045",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 794,
+  "slug": "one-more-circle",
+  "metadata": {
+    "title": "One More Circle Online - Ultimate Action Gaming Experience",
+    "description": "One More Circle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "One More Circle",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/one-more-circle",
+    "openGraph": {
+      "title": "One More Circle Online - Ultimate Action Gaming Experience",
+      "description": "One More Circle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/one-more-circle-og.jpg",
+      "url": "https://littlegames.com/games/one-more-circle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "One More Circle Online - Ultimate Action Gaming Experience",
+      "description": "One More Circle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/one-more-circle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "One More Circle",
+      "href": "/games/one-more-circle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_620",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

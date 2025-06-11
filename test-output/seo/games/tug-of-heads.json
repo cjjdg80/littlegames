@@ -1,0 +1,54 @@
+{
+  "gameId": 1688,
+  "slug": "tug-of-heads",
+  "metadata": {
+    "title": "Tug of Heads Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Tug of Heads. This sports game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Tug of Heads game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tug-of-heads",
+    "openGraph": {
+      "title": "Tug of Heads Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Tug of Heads. This sports game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/tug-of-heads-og.jpg",
+      "url": "https://littlegames.com/games/tug-of-heads",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tug of Heads Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Tug of Heads. This sports game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tug-of-heads-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Tug of Heads",
+      "href": "/games/tug-of-heads",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_334",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3160,
+  "slug": "pop-us-3d",
+  "metadata": {
+    "title": "Pop Us 3D! Online - Ultimate Action Gaming Experience",
+    "description": "Pop Us 3D! delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Pop Us 3D! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pop-us-3d",
+    "openGraph": {
+      "title": "Pop Us 3D! Online - Ultimate Action Gaming Experience",
+      "description": "Pop Us 3D! delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pop-us-3d-og.jpg",
+      "url": "https://littlegames.com/games/pop-us-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pop Us 3D! Online - Ultimate Action Gaming Experience",
+      "description": "Pop Us 3D! delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pop-us-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pop Us 3D!",
+      "href": "/games/pop-us-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_966",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

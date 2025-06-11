@@ -1,0 +1,54 @@
+{
+  "gameId": 6248,
+  "slug": "pocket-zone",
+  "metadata": {
+    "title": "Play Pocket ZONE - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Pocket ZONE! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Pocket ZONE",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/pocket-zone",
+    "openGraph": {
+      "title": "Play Pocket ZONE - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Pocket ZONE! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/pocket-zone-og.jpg",
+      "url": "https://littlegames.com/games/pocket-zone",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pocket ZONE - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Pocket ZONE! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/pocket-zone-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pocket ZONE",
+      "href": "/games/pocket-zone",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_697",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

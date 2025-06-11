@@ -1,0 +1,54 @@
+{
+  "gameId": 4819,
+  "slug": "police-car-chase",
+  "metadata": {
+    "title": "Police Car Chase - Exciting Action Adventure Game",
+    "description": "Join the action in Police Car Chase! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Police Car Chase online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/police-car-chase",
+    "openGraph": {
+      "title": "Police Car Chase - Exciting Action Adventure Game",
+      "description": "Join the action in Police Car Chase! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/police-car-chase-og.jpg",
+      "url": "https://littlegames.com/games/police-car-chase",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Police Car Chase - Exciting Action Adventure Game",
+      "description": "Join the action in Police Car Chase! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/police-car-chase-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Police Car Chase",
+      "href": "/games/police-car-chase",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_395",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

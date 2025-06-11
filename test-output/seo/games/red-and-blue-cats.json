@@ -1,0 +1,54 @@
+{
+  "gameId": 4913,
+  "slug": "red-and-blue-cats",
+  "metadata": {
+    "title": "Red and Blue Cats - Thrilling Adventure Quest",
+    "description": "Begin your quest in Red and Blue Cats. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Red and Blue Cats game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/red-and-blue-cats",
+    "openGraph": {
+      "title": "Red and Blue Cats - Thrilling Adventure Quest",
+      "description": "Begin your quest in Red and Blue Cats. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/red-and-blue-cats-og.jpg",
+      "url": "https://littlegames.com/games/red-and-blue-cats",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Red and Blue Cats - Thrilling Adventure Quest",
+      "description": "Begin your quest in Red and Blue Cats. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/red-and-blue-cats-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Red and Blue Cats",
+      "href": "/games/red-and-blue-cats",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_312",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

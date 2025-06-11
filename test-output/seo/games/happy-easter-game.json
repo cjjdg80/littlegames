@@ -1,0 +1,54 @@
+{
+  "gameId": 4746,
+  "slug": "happy-easter-game",
+  "metadata": {
+    "title": "Free Happy Easter Game Game - Action Packed Fun",
+    "description": "Join the action in Happy Easter Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Happy Easter Game game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/happy-easter-game",
+    "openGraph": {
+      "title": "Free Happy Easter Game Game - Action Packed Fun",
+      "description": "Join the action in Happy Easter Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-easter-game-og.jpg",
+      "url": "https://littlegames.com/games/happy-easter-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Happy Easter Game Game - Action Packed Fun",
+      "description": "Join the action in Happy Easter Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-easter-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Happy Easter Game",
+      "href": "/games/happy-easter-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_132",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3137,
+  "slug": "dust-busterio",
+  "metadata": {
+    "title": "Dust Buster.io Online - Ultimate Action Gaming Experience",
+    "description": "Dust Buster.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Dust Buster.io online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dust-busterio",
+    "openGraph": {
+      "title": "Dust Buster.io Online - Ultimate Action Gaming Experience",
+      "description": "Dust Buster.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dust-busterio-og.jpg",
+      "url": "https://littlegames.com/games/dust-busterio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dust Buster.io Online - Ultimate Action Gaming Experience",
+      "description": "Dust Buster.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dust-busterio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dust Buster.io",
+      "href": "/games/dust-busterio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_253",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

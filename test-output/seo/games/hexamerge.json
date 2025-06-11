@@ -1,0 +1,54 @@
+{
+  "gameId": 6444,
+  "slug": "hexamerge",
+  "metadata": {
+    "title": "Play HEXAMERGE - Free Puzzle Game Online",
+    "description": "Sharpen your mind with HEXAMERGE! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "HEXAMERGE game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/hexamerge",
+    "openGraph": {
+      "title": "Play HEXAMERGE - Free Puzzle Game Online",
+      "description": "Sharpen your mind with HEXAMERGE! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hexamerge-og.jpg",
+      "url": "https://littlegames.com/games/hexamerge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play HEXAMERGE - Free Puzzle Game Online",
+      "description": "Sharpen your mind with HEXAMERGE! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/hexamerge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "HEXAMERGE",
+      "href": "/games/hexamerge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_770",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

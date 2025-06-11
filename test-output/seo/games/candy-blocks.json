@@ -1,0 +1,54 @@
+{
+  "gameId": 4219,
+  "slug": "candy-blocks",
+  "metadata": {
+    "title": "Free Candy Blocks Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Candy Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Candy Blocks game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/candy-blocks",
+    "openGraph": {
+      "title": "Free Candy Blocks Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Candy Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/candy-blocks-og.jpg",
+      "url": "https://littlegames.com/games/candy-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Candy Blocks Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Candy Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/candy-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Candy Blocks",
+      "href": "/games/candy-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_795",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

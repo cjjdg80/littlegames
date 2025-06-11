@@ -1,0 +1,54 @@
+{
+  "gameId": 529,
+  "slug": "super-ninja-adventure",
+  "metadata": {
+    "title": "Adventure Game Super Ninja Adventure - Journey Begins",
+    "description": "Discover new worlds in Super Ninja Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+    "keywords": [
+      "play Super Ninja Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/super-ninja-adventure",
+    "openGraph": {
+      "title": "Adventure Game Super Ninja Adventure - Journey Begins",
+      "description": "Discover new worlds in Super Ninja Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+      "image": "https://littlegames.com/images/games/super-ninja-adventure-og.jpg",
+      "url": "https://littlegames.com/games/super-ninja-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Super Ninja Adventure - Journey Begins",
+      "description": "Discover new worlds in Super Ninja Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/super-ninja-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Ninja Adventure",
+      "href": "/games/super-ninja-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_408",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

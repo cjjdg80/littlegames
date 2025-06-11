@@ -1,0 +1,54 @@
+{
+  "gameId": 888,
+  "slug": "penguin-jigsaw",
+  "metadata": {
+    "title": "Penguin Jigsaw - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Penguin Jigsaw! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Penguin Jigsaw online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/penguin-jigsaw",
+    "openGraph": {
+      "title": "Penguin Jigsaw - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Penguin Jigsaw! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/penguin-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/penguin-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Penguin Jigsaw - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Penguin Jigsaw! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/penguin-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Penguin Jigsaw",
+      "href": "/games/penguin-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_534",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

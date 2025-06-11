@@ -1,0 +1,54 @@
+{
+  "gameId": 1721,
+  "slug": "running-around",
+  "metadata": {
+    "title": "Free Running Around Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Running Around. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Running Around",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/running-around",
+    "openGraph": {
+      "title": "Free Running Around Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Running Around. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/running-around-og.jpg",
+      "url": "https://littlegames.com/games/running-around",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Running Around Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Running Around. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/running-around-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Running Around",
+      "href": "/games/running-around",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_357",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

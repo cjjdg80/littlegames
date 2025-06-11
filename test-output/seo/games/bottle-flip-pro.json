@@ -1,0 +1,54 @@
+{
+  "gameId": 403,
+  "slug": "bottle-flip-pro",
+  "metadata": {
+    "title": "Action Game Bottle Flip Pro - Play Free Now",
+    "description": "Experience thrilling action in Bottle Flip Pro! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Bottle Flip Pro game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bottle-flip-pro",
+    "openGraph": {
+      "title": "Action Game Bottle Flip Pro - Play Free Now",
+      "description": "Experience thrilling action in Bottle Flip Pro! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/bottle-flip-pro-og.jpg",
+      "url": "https://littlegames.com/games/bottle-flip-pro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bottle Flip Pro - Play Free Now",
+      "description": "Experience thrilling action in Bottle Flip Pro! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/bottle-flip-pro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bottle Flip Pro",
+      "href": "/games/bottle-flip-pro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_499",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

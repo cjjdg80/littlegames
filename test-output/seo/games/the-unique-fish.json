@@ -1,0 +1,54 @@
+{
+  "gameId": 192,
+  "slug": "the-unique-fish",
+  "metadata": {
+    "title": "The Unique Fish Online - Logic and Strategy Game",
+    "description": "The Unique Fish offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "The Unique Fish online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/the-unique-fish",
+    "openGraph": {
+      "title": "The Unique Fish Online - Logic and Strategy Game",
+      "description": "The Unique Fish offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/the-unique-fish-og.jpg",
+      "url": "https://littlegames.com/games/the-unique-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Unique Fish Online - Logic and Strategy Game",
+      "description": "The Unique Fish offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/the-unique-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "The Unique Fish",
+      "href": "/games/the-unique-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_958",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

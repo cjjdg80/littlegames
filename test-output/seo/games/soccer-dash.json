@@ -1,0 +1,54 @@
+{
+  "gameId": 8306,
+  "slug": "soccer-dash",
+  "metadata": {
+    "title": "Soccer Dash Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Soccer Dash! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Soccer Dash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-dash",
+    "openGraph": {
+      "title": "Soccer Dash Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Soccer Dash! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/soccer-dash-og.jpg",
+      "url": "https://littlegames.com/games/soccer-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Soccer Dash Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Soccer Dash! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/soccer-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Soccer Dash",
+      "href": "/games/soccer-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_492",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

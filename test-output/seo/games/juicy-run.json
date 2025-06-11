@@ -1,0 +1,54 @@
+{
+  "gameId": 4164,
+  "slug": "juicy-run",
+  "metadata": {
+    "title": "Juicy Run Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Juicy Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Juicy Run game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/juicy-run",
+    "openGraph": {
+      "title": "Juicy Run Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Juicy Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/juicy-run-og.jpg",
+      "url": "https://littlegames.com/games/juicy-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Juicy Run Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Juicy Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/juicy-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Juicy Run",
+      "href": "/games/juicy-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_090",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

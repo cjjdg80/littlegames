@@ -1,0 +1,54 @@
+{
+  "gameId": 921,
+  "slug": "light-up",
+  "metadata": {
+    "title": "Light Up - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Light Up. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Light Up game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/light-up",
+    "openGraph": {
+      "title": "Light Up - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Light Up. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/light-up-og.jpg",
+      "url": "https://littlegames.com/games/light-up",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Light Up - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Light Up. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/light-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Light Up",
+      "href": "/games/light-up",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_557",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

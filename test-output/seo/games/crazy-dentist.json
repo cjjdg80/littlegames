@@ -1,0 +1,54 @@
+{
+  "gameId": 1956,
+  "slug": "crazy-dentist",
+  "metadata": {
+    "title": "Crazy Dentist - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Crazy Dentist. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Crazy Dentist",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-dentist",
+    "openGraph": {
+      "title": "Crazy Dentist - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Crazy Dentist. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crazy-dentist-og.jpg",
+      "url": "https://littlegames.com/games/crazy-dentist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crazy Dentist - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Crazy Dentist. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crazy-dentist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crazy Dentist",
+      "href": "/games/crazy-dentist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_642",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

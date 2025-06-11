@@ -1,0 +1,54 @@
+{
+  "gameId": 3760,
+  "slug": "imposter-dash",
+  "metadata": {
+    "title": "Play Imposter Dash - Free Action Game Online",
+    "description": "Join the action in Imposter Dash! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Imposter Dash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/imposter-dash",
+    "openGraph": {
+      "title": "Play Imposter Dash - Free Action Game Online",
+      "description": "Join the action in Imposter Dash! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/imposter-dash-og.jpg",
+      "url": "https://littlegames.com/games/imposter-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Imposter Dash - Free Action Game Online",
+      "description": "Join the action in Imposter Dash! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/imposter-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Imposter Dash",
+      "href": "/games/imposter-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_566",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

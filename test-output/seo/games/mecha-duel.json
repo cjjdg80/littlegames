@@ -1,0 +1,54 @@
+{
+  "gameId": 8404,
+  "slug": "mecha-duel",
+  "metadata": {
+    "title": "Mecha Duel - Exciting Action Adventure Game",
+    "description": "Mecha Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Mecha Duel",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/mecha-duel",
+    "openGraph": {
+      "title": "Mecha Duel - Exciting Action Adventure Game",
+      "description": "Mecha Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mecha-duel-og.jpg",
+      "url": "https://littlegames.com/games/mecha-duel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mecha Duel - Exciting Action Adventure Game",
+      "description": "Mecha Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mecha-duel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mecha Duel",
+      "href": "/games/mecha-duel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_530",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

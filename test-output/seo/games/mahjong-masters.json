@@ -1,0 +1,54 @@
+{
+  "gameId": 8694,
+  "slug": "mahjong-masters",
+  "metadata": {
+    "title": "Action Game Mahjong Masters - Play Free Now",
+    "description": "Join the action in Mahjong Masters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mahjong Masters online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-masters",
+    "openGraph": {
+      "title": "Action Game Mahjong Masters - Play Free Now",
+      "description": "Join the action in Mahjong Masters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-masters-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-masters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Mahjong Masters - Play Free Now",
+      "description": "Join the action in Mahjong Masters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mahjong-masters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Masters",
+      "href": "/games/mahjong-masters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_520",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

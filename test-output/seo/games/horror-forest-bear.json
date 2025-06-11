@@ -1,0 +1,54 @@
+{
+  "gameId": 8928,
+  "slug": "horror-forest-bear",
+  "metadata": {
+    "title": "Free Horror Forest Bear Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Horror Forest Bear. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Horror Forest Bear",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/horror-forest-bear",
+    "openGraph": {
+      "title": "Free Horror Forest Bear Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Horror Forest Bear. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/horror-forest-bear-og.jpg",
+      "url": "https://littlegames.com/games/horror-forest-bear",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Horror Forest Bear Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Horror Forest Bear. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/horror-forest-bear-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Horror Forest Bear",
+      "href": "/games/horror-forest-bear",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_774",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

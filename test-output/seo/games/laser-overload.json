@@ -1,0 +1,54 @@
+{
+  "gameId": 1867,
+  "slug": "laser-overload",
+  "metadata": {
+    "title": "Free Laser Overload Game - Action Packed Fun",
+    "description": "Experience thrilling action in Laser Overload! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Laser Overload game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/laser-overload",
+    "openGraph": {
+      "title": "Free Laser Overload Game - Action Packed Fun",
+      "description": "Experience thrilling action in Laser Overload! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/laser-overload-og.jpg",
+      "url": "https://littlegames.com/games/laser-overload",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Laser Overload Game - Action Packed Fun",
+      "description": "Experience thrilling action in Laser Overload! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/laser-overload-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Laser Overload",
+      "href": "/games/laser-overload",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_883",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

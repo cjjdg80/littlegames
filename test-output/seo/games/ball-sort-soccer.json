@@ -1,0 +1,54 @@
+{
+  "gameId": 5931,
+  "slug": "ball-sort-soccer",
+  "metadata": {
+    "title": "Free Ball Sort Soccer Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Ball Sort Soccer! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Ball Sort Soccer game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/ball-sort-soccer",
+    "openGraph": {
+      "title": "Free Ball Sort Soccer Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Ball Sort Soccer! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/ball-sort-soccer-og.jpg",
+      "url": "https://littlegames.com/games/ball-sort-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ball Sort Soccer Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Ball Sort Soccer! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/ball-sort-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ball Sort Soccer",
+      "href": "/games/ball-sort-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_867",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

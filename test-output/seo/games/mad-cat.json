@@ -1,0 +1,54 @@
+{
+  "gameId": 6599,
+  "slug": "mad-cat",
+  "metadata": {
+    "title": "Play Mad Cat - Free Action Game Online",
+    "description": "Dive into the action-packed world of Mad Cat. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Mad Cat",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/mad-cat",
+    "openGraph": {
+      "title": "Play Mad Cat - Free Action Game Online",
+      "description": "Dive into the action-packed world of Mad Cat. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mad-cat-og.jpg",
+      "url": "https://littlegames.com/games/mad-cat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mad Cat - Free Action Game Online",
+      "description": "Dive into the action-packed world of Mad Cat. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mad-cat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mad Cat",
+      "href": "/games/mad-cat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_575",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

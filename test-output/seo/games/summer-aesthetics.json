@@ -1,0 +1,54 @@
+{
+  "gameId": 7021,
+  "slug": "summer-aesthetics",
+  "metadata": {
+    "title": "Summer Aesthetics - Exciting Action Adventure Game",
+    "description": "Summer Aesthetics delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Summer Aesthetics",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/summer-aesthetics",
+    "openGraph": {
+      "title": "Summer Aesthetics - Exciting Action Adventure Game",
+      "description": "Summer Aesthetics delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/summer-aesthetics-og.jpg",
+      "url": "https://littlegames.com/games/summer-aesthetics",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Summer Aesthetics - Exciting Action Adventure Game",
+      "description": "Summer Aesthetics delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/summer-aesthetics-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Summer Aesthetics",
+      "href": "/games/summer-aesthetics",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_657",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

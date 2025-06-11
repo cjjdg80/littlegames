@@ -1,0 +1,54 @@
+{
+  "gameId": 2978,
+  "slug": "pokey-ball-jumper",
+  "metadata": {
+    "title": "Pokey Ball Jumper Online - Ultimate Action Gaming Experience",
+    "description": "Pokey Ball Jumper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Pokey Ball Jumper online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pokey-ball-jumper",
+    "openGraph": {
+      "title": "Pokey Ball Jumper Online - Ultimate Action Gaming Experience",
+      "description": "Pokey Ball Jumper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pokey-ball-jumper-og.jpg",
+      "url": "https://littlegames.com/games/pokey-ball-jumper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pokey Ball Jumper Online - Ultimate Action Gaming Experience",
+      "description": "Pokey Ball Jumper delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pokey-ball-jumper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pokey Ball Jumper",
+      "href": "/games/pokey-ball-jumper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_324",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

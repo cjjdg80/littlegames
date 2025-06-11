@@ -1,0 +1,54 @@
+{
+  "gameId": 7051,
+  "slug": "cube-adventure",
+  "metadata": {
+    "title": "Adventure Game Cube Adventure - Journey Begins",
+    "description": "Embark on an epic journey in Cube Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Cube Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/cube-adventure",
+    "openGraph": {
+      "title": "Adventure Game Cube Adventure - Journey Begins",
+      "description": "Embark on an epic journey in Cube Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/cube-adventure-og.jpg",
+      "url": "https://littlegames.com/games/cube-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Cube Adventure - Journey Begins",
+      "description": "Embark on an epic journey in Cube Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/cube-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Cube Adventure",
+      "href": "/games/cube-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_590",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2799,
+  "slug": "rally-point",
+  "metadata": {
+    "title": "Free Rally Point Game - Action Packed Fun",
+    "description": "Join the action in Rally Point! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Rally Point",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/rally-point",
+    "openGraph": {
+      "title": "Free Rally Point Game - Action Packed Fun",
+      "description": "Join the action in Rally Point! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/rally-point-og.jpg",
+      "url": "https://littlegames.com/games/rally-point",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rally Point Game - Action Packed Fun",
+      "description": "Join the action in Rally Point! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/rally-point-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rally Point",
+      "href": "/games/rally-point",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_775",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3154,
+  "slug": "drop-n-merge",
+  "metadata": {
+    "title": "Free Drop n Merge Game - Action Packed Fun",
+    "description": "Join the action in Drop n Merge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Drop n Merge",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/drop-n-merge",
+    "openGraph": {
+      "title": "Free Drop n Merge Game - Action Packed Fun",
+      "description": "Join the action in Drop n Merge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/drop-n-merge-og.jpg",
+      "url": "https://littlegames.com/games/drop-n-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drop n Merge Game - Action Packed Fun",
+      "description": "Join the action in Drop n Merge! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/drop-n-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drop n Merge",
+      "href": "/games/drop-n-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_780",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

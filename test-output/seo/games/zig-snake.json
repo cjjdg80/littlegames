@@ -1,0 +1,54 @@
+{
+  "gameId": 9813,
+  "slug": "zig-snake",
+  "metadata": {
+    "title": "Zig Snake - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Zig Snake. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Zig Snake",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zig-snake",
+    "openGraph": {
+      "title": "Zig Snake - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Zig Snake. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zig-snake-og.jpg",
+      "url": "https://littlegames.com/games/zig-snake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zig Snake - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Zig Snake. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zig-snake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zig Snake",
+      "href": "/games/zig-snake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_209",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

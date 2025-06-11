@@ -1,0 +1,54 @@
+{
+  "gameId": 7809,
+  "slug": "geometry-subzero",
+  "metadata": {
+    "title": "Adventure Game Geometry Subzero - Journey Begins",
+    "description": "Embark on an epic journey in Geometry Subzero! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Geometry Subzero",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/geometry-subzero",
+    "openGraph": {
+      "title": "Adventure Game Geometry Subzero - Journey Begins",
+      "description": "Embark on an epic journey in Geometry Subzero! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/geometry-subzero-og.jpg",
+      "url": "https://littlegames.com/games/geometry-subzero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Geometry Subzero - Journey Begins",
+      "description": "Embark on an epic journey in Geometry Subzero! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/geometry-subzero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Geometry Subzero",
+      "href": "/games/geometry-subzero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_088",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

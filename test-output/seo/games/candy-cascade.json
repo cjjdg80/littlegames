@@ -1,0 +1,54 @@
+{
+  "gameId": 8745,
+  "slug": "candy-cascade",
+  "metadata": {
+    "title": "Candy Cascade - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Candy Cascade. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Candy Cascade game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/candy-cascade",
+    "openGraph": {
+      "title": "Candy Cascade - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Candy Cascade. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/candy-cascade-og.jpg",
+      "url": "https://littlegames.com/games/candy-cascade",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Candy Cascade - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Candy Cascade. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/candy-cascade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Candy Cascade",
+      "href": "/games/candy-cascade",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_101",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

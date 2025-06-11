@@ -1,0 +1,54 @@
+{
+  "gameId": 5512,
+  "slug": "ball-2048",
+  "metadata": {
+    "title": "Free Ball 2048! Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Ball 2048!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Ball 2048! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ball-2048",
+    "openGraph": {
+      "title": "Free Ball 2048! Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Ball 2048!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ball-2048-og.jpg",
+      "url": "https://littlegames.com/games/ball-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ball 2048! Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Ball 2048!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ball-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ball 2048!",
+      "href": "/games/ball-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_878",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

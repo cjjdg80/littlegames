@@ -1,0 +1,54 @@
+{
+  "gameId": 5493,
+  "slug": "bank-robbery",
+  "metadata": {
+    "title": "Play Bank robbery - Free Action Game Online",
+    "description": "Join the action in Bank robbery! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bank robbery online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bank-robbery",
+    "openGraph": {
+      "title": "Play Bank robbery - Free Action Game Online",
+      "description": "Join the action in Bank robbery! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bank-robbery-og.jpg",
+      "url": "https://littlegames.com/games/bank-robbery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bank robbery - Free Action Game Online",
+      "description": "Join the action in Bank robbery! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bank-robbery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bank robbery",
+      "href": "/games/bank-robbery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_289",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

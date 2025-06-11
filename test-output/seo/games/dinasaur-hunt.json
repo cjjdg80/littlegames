@@ -1,0 +1,54 @@
+{
+  "gameId": 881,
+  "slug": "dinasaur-hunt",
+  "metadata": {
+    "title": "Adventure Game Dinasaur Hunt - Journey Begins",
+    "description": "Begin your quest in Dinasaur Hunt. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Dinasaur Hunt",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dinasaur-hunt",
+    "openGraph": {
+      "title": "Adventure Game Dinasaur Hunt - Journey Begins",
+      "description": "Begin your quest in Dinasaur Hunt. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/dinasaur-hunt-og.jpg",
+      "url": "https://littlegames.com/games/dinasaur-hunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Dinasaur Hunt - Journey Begins",
+      "description": "Begin your quest in Dinasaur Hunt. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/dinasaur-hunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dinasaur Hunt",
+      "href": "/games/dinasaur-hunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_320",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

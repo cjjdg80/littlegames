@@ -1,0 +1,54 @@
+{
+  "gameId": 3515,
+  "slug": "rolling-halloween",
+  "metadata": {
+    "title": "Rolling Halloween - Exciting Action Adventure Game",
+    "description": "Rolling Halloween delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Rolling Halloween",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/rolling-halloween",
+    "openGraph": {
+      "title": "Rolling Halloween - Exciting Action Adventure Game",
+      "description": "Rolling Halloween delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rolling-halloween-og.jpg",
+      "url": "https://littlegames.com/games/rolling-halloween",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rolling Halloween - Exciting Action Adventure Game",
+      "description": "Rolling Halloween delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rolling-halloween-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rolling Halloween",
+      "href": "/games/rolling-halloween",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_971",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

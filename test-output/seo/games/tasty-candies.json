@@ -1,0 +1,54 @@
+{
+  "gameId": 4273,
+  "slug": "tasty-candies",
+  "metadata": {
+    "title": "Play Tasty Candies - Free Action Game Online",
+    "description": "Join the action in Tasty Candies! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Tasty Candies",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/tasty-candies",
+    "openGraph": {
+      "title": "Play Tasty Candies - Free Action Game Online",
+      "description": "Join the action in Tasty Candies! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tasty-candies-og.jpg",
+      "url": "https://littlegames.com/games/tasty-candies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tasty Candies - Free Action Game Online",
+      "description": "Join the action in Tasty Candies! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tasty-candies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tasty Candies",
+      "href": "/games/tasty-candies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_469",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9772,
+  "slug": "hole-digger",
+  "metadata": {
+    "title": "Hole Digger - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Hole Digger. This free online simulation game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Hole Digger",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hole-digger",
+    "openGraph": {
+      "title": "Hole Digger - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hole Digger. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hole-digger-og.jpg",
+      "url": "https://littlegames.com/games/hole-digger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hole Digger - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Hole Digger. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hole-digger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Hole Digger",
+      "href": "/games/hole-digger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_942",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

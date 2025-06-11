@@ -1,0 +1,54 @@
+{
+  "gameId": 3827,
+  "slug": "super-car-chase",
+  "metadata": {
+    "title": "Free Super Car CHASE Game - Action Packed Fun",
+    "description": "Join the action in Super Car CHASE! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Super Car CHASE",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/super-car-chase",
+    "openGraph": {
+      "title": "Free Super Car CHASE Game - Action Packed Fun",
+      "description": "Join the action in Super Car CHASE! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-car-chase-og.jpg",
+      "url": "https://littlegames.com/games/super-car-chase",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Super Car CHASE Game - Action Packed Fun",
+      "description": "Join the action in Super Car CHASE! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/super-car-chase-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Car CHASE",
+      "href": "/games/super-car-chase",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_643",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

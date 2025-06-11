@@ -1,0 +1,54 @@
+{
+  "gameId": 9142,
+  "slug": "warfront",
+  "metadata": {
+    "title": "Play Warfront - Free Action Game Online",
+    "description": "Experience thrilling action in Warfront! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Warfront",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/warfront",
+    "openGraph": {
+      "title": "Play Warfront - Free Action Game Online",
+      "description": "Experience thrilling action in Warfront! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/warfront-og.jpg",
+      "url": "https://littlegames.com/games/warfront",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Warfront - Free Action Game Online",
+      "description": "Experience thrilling action in Warfront! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/warfront-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Warfront",
+      "href": "/games/warfront",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_408",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

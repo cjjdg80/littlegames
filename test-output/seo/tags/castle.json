@@ -1,0 +1,46 @@
+{
+  "tag": "castle",
+  "displayName": "Castle",
+  "metadata": {
+    "title": "Castle Games - Play Free Online",
+    "description": "Discover amazing castle games! Play 21 free games with castle theme. No downloads required.",
+    "keywords": [
+      "castle games",
+      "free online games",
+      "browser games",
+      "castle theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/castle",
+    "openGraph": {
+      "title": "Castle Games - Free Online Gaming",
+      "description": "Play the best castle games online for free. 21 games available.",
+      "image": "https://littlegames.com/images/tags/castle-og.jpg",
+      "url": "https://littlegames.com/tags/castle",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Castle Games - Free Online",
+      "description": "Play 21 free castle games online.",
+      "image": "https://littlegames.com/images/tags/castle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Castle",
+      "href": "/tags/castle",
+      "current": true
+    }
+  ],
+  "description": "Discover games with castle theme! Our collection includes 21 carefully selected games that feature castle elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

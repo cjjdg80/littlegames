@@ -1,0 +1,54 @@
+{
+  "gameId": 4182,
+  "slug": "super-bomb-bugs",
+  "metadata": {
+    "title": "Super Bomb Bugs - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Super Bomb Bugs. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Super Bomb Bugs game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/super-bomb-bugs",
+    "openGraph": {
+      "title": "Super Bomb Bugs - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Super Bomb Bugs. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/super-bomb-bugs-og.jpg",
+      "url": "https://littlegames.com/games/super-bomb-bugs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Bomb Bugs - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Super Bomb Bugs. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/super-bomb-bugs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Bomb Bugs",
+      "href": "/games/super-bomb-bugs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_648",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

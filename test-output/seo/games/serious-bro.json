@@ -1,0 +1,54 @@
+{
+  "gameId": 8319,
+  "slug": "serious-bro",
+  "metadata": {
+    "title": "Free Serious Bro Game - Action Packed Fun",
+    "description": "Experience thrilling action in Serious Bro! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Serious Bro online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/serious-bro",
+    "openGraph": {
+      "title": "Free Serious Bro Game - Action Packed Fun",
+      "description": "Experience thrilling action in Serious Bro! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/serious-bro-og.jpg",
+      "url": "https://littlegames.com/games/serious-bro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Serious Bro Game - Action Packed Fun",
+      "description": "Experience thrilling action in Serious Bro! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/serious-bro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Serious Bro",
+      "href": "/games/serious-bro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_895",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

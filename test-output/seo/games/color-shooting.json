@@ -1,0 +1,54 @@
+{
+  "gameId": 5835,
+  "slug": "color-shooting",
+  "metadata": {
+    "title": "Action Game Color Shooting - Play Free Now",
+    "description": "Join the action in Color Shooting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Color Shooting",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/color-shooting",
+    "openGraph": {
+      "title": "Action Game Color Shooting - Play Free Now",
+      "description": "Join the action in Color Shooting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-shooting-og.jpg",
+      "url": "https://littlegames.com/games/color-shooting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Color Shooting - Play Free Now",
+      "description": "Join the action in Color Shooting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-shooting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Color Shooting",
+      "href": "/games/color-shooting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_891",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

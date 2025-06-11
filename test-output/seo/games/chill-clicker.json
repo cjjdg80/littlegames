@@ -1,0 +1,54 @@
+{
+  "gameId": 9871,
+  "slug": "chill-clicker",
+  "metadata": {
+    "title": "Play Chill Clicker - Epic Adventure Game Online",
+    "description": "Discover new worlds in Chill Clicker. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Chill Clicker online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/chill-clicker",
+    "openGraph": {
+      "title": "Play Chill Clicker - Epic Adventure Game Online",
+      "description": "Discover new worlds in Chill Clicker. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/chill-clicker-og.jpg",
+      "url": "https://littlegames.com/games/chill-clicker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Chill Clicker - Epic Adventure Game Online",
+      "description": "Discover new worlds in Chill Clicker. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/chill-clicker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Chill Clicker",
+      "href": "/games/chill-clicker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_010",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

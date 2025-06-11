@@ -1,0 +1,54 @@
+{
+  "gameId": 6886,
+  "slug": "dungeon-chess",
+  "metadata": {
+    "title": "Dungeon Chess Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Dungeon Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Dungeon Chess",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/dungeon-chess",
+    "openGraph": {
+      "title": "Dungeon Chess Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dungeon Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dungeon-chess-og.jpg",
+      "url": "https://littlegames.com/games/dungeon-chess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dungeon Chess Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dungeon Chess. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dungeon-chess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dungeon Chess",
+      "href": "/games/dungeon-chess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_472",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

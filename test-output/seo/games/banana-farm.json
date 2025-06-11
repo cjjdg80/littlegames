@@ -1,0 +1,54 @@
+{
+  "gameId": 8310,
+  "slug": "banana-farm",
+  "metadata": {
+    "title": "Banana Farm - Exciting Action Adventure Game",
+    "description": "Banana Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Banana Farm game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/banana-farm",
+    "openGraph": {
+      "title": "Banana Farm - Exciting Action Adventure Game",
+      "description": "Banana Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/banana-farm-og.jpg",
+      "url": "https://littlegames.com/games/banana-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Banana Farm - Exciting Action Adventure Game",
+      "description": "Banana Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/banana-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Banana Farm",
+      "href": "/games/banana-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_620",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3068,
+  "slug": "platfoban",
+  "metadata": {
+    "title": "Platfoban Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Platfoban! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Platfoban",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/platfoban",
+    "openGraph": {
+      "title": "Platfoban Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Platfoban! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/platfoban-og.jpg",
+      "url": "https://littlegames.com/games/platfoban",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Platfoban Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Platfoban! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/platfoban-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Platfoban",
+      "href": "/games/platfoban",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_114",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7062,
+  "slug": "helpful-nail",
+  "metadata": {
+    "title": "Helpful Nail - Exciting Action Adventure Game",
+    "description": "Helpful Nail delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Helpful Nail",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/helpful-nail",
+    "openGraph": {
+      "title": "Helpful Nail - Exciting Action Adventure Game",
+      "description": "Helpful Nail delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/helpful-nail-og.jpg",
+      "url": "https://littlegames.com/games/helpful-nail",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Helpful Nail - Exciting Action Adventure Game",
+      "description": "Helpful Nail delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/helpful-nail-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Helpful Nail",
+      "href": "/games/helpful-nail",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_928",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

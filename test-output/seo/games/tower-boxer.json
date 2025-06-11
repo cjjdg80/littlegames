@@ -1,0 +1,54 @@
+{
+  "gameId": 2059,
+  "slug": "tower-boxer",
+  "metadata": {
+    "title": "Tower Boxer - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Tower Boxer! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Tower Boxer online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tower-boxer",
+    "openGraph": {
+      "title": "Tower Boxer - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Tower Boxer! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/tower-boxer-og.jpg",
+      "url": "https://littlegames.com/games/tower-boxer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tower Boxer - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Tower Boxer! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tower-boxer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tower Boxer",
+      "href": "/games/tower-boxer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_835",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

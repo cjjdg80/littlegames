@@ -1,0 +1,54 @@
+{
+  "gameId": 100,
+  "slug": "jet-ski-puzzle",
+  "metadata": {
+    "title": "Play Jet Ski Puzzle - Free Puzzle Game Online",
+    "description": "Challenge your mind with Jet Ski Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Jet Ski Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jet-ski-puzzle",
+    "openGraph": {
+      "title": "Play Jet Ski Puzzle - Free Puzzle Game Online",
+      "description": "Challenge your mind with Jet Ski Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/jet-ski-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/jet-ski-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jet Ski Puzzle - Free Puzzle Game Online",
+      "description": "Challenge your mind with Jet Ski Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/jet-ski-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jet Ski Puzzle",
+      "href": "/games/jet-ski-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_106",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

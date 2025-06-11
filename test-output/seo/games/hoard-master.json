@@ -1,0 +1,54 @@
+{
+  "gameId": 7881,
+  "slug": "hoard-master",
+  "metadata": {
+    "title": "Hoard Master Online - Logic and Strategy Game",
+    "description": "Hoard Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Hoard Master",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/hoard-master",
+    "openGraph": {
+      "title": "Hoard Master Online - Logic and Strategy Game",
+      "description": "Hoard Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hoard-master-og.jpg",
+      "url": "https://littlegames.com/games/hoard-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hoard Master Online - Logic and Strategy Game",
+      "description": "Hoard Master offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/hoard-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hoard Master",
+      "href": "/games/hoard-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_317",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

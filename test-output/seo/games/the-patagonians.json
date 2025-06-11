@@ -1,0 +1,54 @@
+{
+  "gameId": 7582,
+  "slug": "the-patagonians",
+  "metadata": {
+    "title": "The Patagonians Online - Explore and Discover",
+    "description": "Discover new worlds in The Patagonians. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "The Patagonians",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/the-patagonians",
+    "openGraph": {
+      "title": "The Patagonians Online - Explore and Discover",
+      "description": "Discover new worlds in The Patagonians. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/the-patagonians-og.jpg",
+      "url": "https://littlegames.com/games/the-patagonians",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Patagonians Online - Explore and Discover",
+      "description": "Discover new worlds in The Patagonians. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/the-patagonians-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "The Patagonians",
+      "href": "/games/the-patagonians",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_051",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

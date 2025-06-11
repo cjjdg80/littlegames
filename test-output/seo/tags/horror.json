@@ -1,0 +1,46 @@
+{
+  "tag": "horror",
+  "displayName": "Horror",
+  "metadata": {
+    "title": "Horror Games - Play Free Online",
+    "description": "Discover amazing horror games! Play 72 free games with horror theme. No downloads required.",
+    "keywords": [
+      "horror games",
+      "free online games",
+      "browser games",
+      "horror theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/horror",
+    "openGraph": {
+      "title": "Horror Games - Free Online Gaming",
+      "description": "Play the best horror games online for free. 72 games available.",
+      "image": "https://littlegames.com/images/tags/horror-og.jpg",
+      "url": "https://littlegames.com/tags/horror",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Horror Games - Free Online",
+      "description": "Play 72 free horror games online.",
+      "image": "https://littlegames.com/images/tags/horror-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Horror",
+      "href": "/tags/horror",
+      "current": true
+    }
+  ],
+  "description": "Discover games with horror theme! Our collection includes 72 carefully selected games that feature horror elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

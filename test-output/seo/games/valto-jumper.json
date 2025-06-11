@@ -1,0 +1,54 @@
+{
+  "gameId": 749,
+  "slug": "valto-jumper",
+  "metadata": {
+    "title": "Valto Jumper - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Valto Jumper. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Valto Jumper game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/valto-jumper",
+    "openGraph": {
+      "title": "Valto Jumper - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Valto Jumper. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/valto-jumper-og.jpg",
+      "url": "https://littlegames.com/games/valto-jumper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Valto Jumper - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Valto Jumper. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/valto-jumper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Valto Jumper",
+      "href": "/games/valto-jumper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_225",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

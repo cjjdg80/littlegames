@@ -1,0 +1,54 @@
+{
+  "gameId": 3456,
+  "slug": "stick-run",
+  "metadata": {
+    "title": "Stick Run - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Stick Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Stick Run online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/stick-run",
+    "openGraph": {
+      "title": "Stick Run - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Stick Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/stick-run-og.jpg",
+      "url": "https://littlegames.com/games/stick-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stick Run - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Stick Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/stick-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stick Run",
+      "href": "/games/stick-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_145",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

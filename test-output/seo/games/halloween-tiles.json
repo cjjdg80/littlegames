@@ -1,0 +1,54 @@
+{
+  "gameId": 3440,
+  "slug": "halloween-tiles",
+  "metadata": {
+    "title": "Halloween Tiles - Brain Training Puzzle Challenge",
+    "description": "Halloween Tiles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Halloween Tiles",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-tiles",
+    "openGraph": {
+      "title": "Halloween Tiles - Brain Training Puzzle Challenge",
+      "description": "Halloween Tiles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/halloween-tiles-og.jpg",
+      "url": "https://littlegames.com/games/halloween-tiles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Tiles - Brain Training Puzzle Challenge",
+      "description": "Halloween Tiles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/halloween-tiles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Halloween Tiles",
+      "href": "/games/halloween-tiles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_646",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

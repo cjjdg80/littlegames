@@ -1,0 +1,54 @@
+{
+  "gameId": 22,
+  "slug": "colorful-clock",
+  "metadata": {
+    "title": "Colorful Clock Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Colorful Clock. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Colorful Clock",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/colorful-clock",
+    "openGraph": {
+      "title": "Colorful Clock Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Colorful Clock. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/colorful-clock-og.jpg",
+      "url": "https://littlegames.com/games/colorful-clock",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Colorful Clock Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Colorful Clock. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/colorful-clock-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Colorful Clock",
+      "href": "/games/colorful-clock",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_688",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1951,
+  "slug": "mrcop-master",
+  "metadata": {
+    "title": "MR.COP MASTER - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with MR.COP MASTER! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "MR.COP MASTER game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/mrcop-master",
+    "openGraph": {
+      "title": "MR.COP MASTER - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with MR.COP MASTER! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/mrcop-master-og.jpg",
+      "url": "https://littlegames.com/games/mrcop-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "MR.COP MASTER - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with MR.COP MASTER! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/mrcop-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "MR.COP MASTER",
+      "href": "/games/mrcop-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_487",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

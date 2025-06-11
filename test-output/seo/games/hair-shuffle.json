@@ -1,0 +1,54 @@
+{
+  "gameId": 5208,
+  "slug": "hair-shuffle",
+  "metadata": {
+    "title": "Hair Shuffle Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Hair Shuffle. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Hair Shuffle online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hair-shuffle",
+    "openGraph": {
+      "title": "Hair Shuffle Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Hair Shuffle. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hair-shuffle-og.jpg",
+      "url": "https://littlegames.com/games/hair-shuffle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hair Shuffle Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Hair Shuffle. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hair-shuffle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hair Shuffle",
+      "href": "/games/hair-shuffle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_454",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4552,
+  "slug": "puzzle-rotate-animals",
+  "metadata": {
+    "title": "Puzzle Rotate Animals - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Puzzle Rotate Animals. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "Puzzle Rotate Animals game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-rotate-animals",
+    "openGraph": {
+      "title": "Puzzle Rotate Animals - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Puzzle Rotate Animals. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/puzzle-rotate-animals-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-rotate-animals",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Rotate Animals - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Puzzle Rotate Animals. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzle-rotate-animals-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle Rotate Animals",
+      "href": "/games/puzzle-rotate-animals",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_118",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

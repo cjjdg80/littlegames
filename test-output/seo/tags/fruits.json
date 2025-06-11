@@ -1,0 +1,46 @@
+{
+  "tag": "fruits",
+  "displayName": "Fruits",
+  "metadata": {
+    "title": "Fruits Games - Play Free Online",
+    "description": "Discover amazing fruits games! Play 93 free games with fruits theme. No downloads required.",
+    "keywords": [
+      "fruits games",
+      "free online games",
+      "browser games",
+      "fruits theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/fruits",
+    "openGraph": {
+      "title": "Fruits Games - Free Online Gaming",
+      "description": "Play the best fruits games online for free. 93 games available.",
+      "image": "https://littlegames.com/images/tags/fruits-og.jpg",
+      "url": "https://littlegames.com/tags/fruits",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruits Games - Free Online",
+      "description": "Play 93 free fruits games online.",
+      "image": "https://littlegames.com/images/tags/fruits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fruits",
+      "href": "/tags/fruits",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fruits theme! Our collection includes 93 carefully selected games that feature fruits elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

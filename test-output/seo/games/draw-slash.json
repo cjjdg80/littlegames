@@ -1,0 +1,54 @@
+{
+  "gameId": 4704,
+  "slug": "draw-slash",
+  "metadata": {
+    "title": "Draw & Slash - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Draw & Slash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Draw & Slash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/draw-slash",
+    "openGraph": {
+      "title": "Draw & Slash - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Draw & Slash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/draw-slash-og.jpg",
+      "url": "https://littlegames.com/games/draw-slash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw & Slash - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Draw & Slash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/draw-slash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw & Slash",
+      "href": "/games/draw-slash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_830",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

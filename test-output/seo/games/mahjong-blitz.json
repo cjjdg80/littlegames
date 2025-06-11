@@ -1,0 +1,54 @@
+{
+  "gameId": 4476,
+  "slug": "mahjong-blitz",
+  "metadata": {
+    "title": "Action Game Mahjong Blitz - Play Free Now",
+    "description": "Mahjong Blitz delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mahjong Blitz online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-blitz",
+    "openGraph": {
+      "title": "Action Game Mahjong Blitz - Play Free Now",
+      "description": "Mahjong Blitz delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-blitz-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-blitz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Mahjong Blitz - Play Free Now",
+      "description": "Mahjong Blitz delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-blitz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Blitz",
+      "href": "/games/mahjong-blitz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_762",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

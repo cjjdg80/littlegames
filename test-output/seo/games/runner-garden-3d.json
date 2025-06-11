@@ -1,0 +1,54 @@
+{
+  "gameId": 5152,
+  "slug": "runner-garden-3d",
+  "metadata": {
+    "title": "Runner Garden 3D - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Runner Garden 3D! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Runner Garden 3D game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/runner-garden-3d",
+    "openGraph": {
+      "title": "Runner Garden 3D - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Runner Garden 3D! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/runner-garden-3d-og.jpg",
+      "url": "https://littlegames.com/games/runner-garden-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Runner Garden 3D - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Runner Garden 3D! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/runner-garden-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Runner Garden 3D",
+      "href": "/games/runner-garden-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_721",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

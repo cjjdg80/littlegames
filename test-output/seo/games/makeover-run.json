@@ -1,0 +1,54 @@
+{
+  "gameId": 3538,
+  "slug": "makeover-run",
+  "metadata": {
+    "title": "Action Game Makeover Run - Play Free Now",
+    "description": "Dive into the action-packed world of Makeover Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Makeover Run game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/makeover-run",
+    "openGraph": {
+      "title": "Action Game Makeover Run - Play Free Now",
+      "description": "Dive into the action-packed world of Makeover Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/makeover-run-og.jpg",
+      "url": "https://littlegames.com/games/makeover-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Makeover Run - Play Free Now",
+      "description": "Dive into the action-packed world of Makeover Run. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/makeover-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Makeover Run",
+      "href": "/games/makeover-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_684",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

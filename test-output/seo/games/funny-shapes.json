@@ -1,0 +1,54 @@
+{
+  "gameId": 2655,
+  "slug": "funny-shapes",
+  "metadata": {
+    "title": "Funny Shapes Online - Ultimate Action Gaming Experience",
+    "description": "Funny Shapes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Funny Shapes",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/funny-shapes",
+    "openGraph": {
+      "title": "Funny Shapes Online - Ultimate Action Gaming Experience",
+      "description": "Funny Shapes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-shapes-og.jpg",
+      "url": "https://littlegames.com/games/funny-shapes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Funny Shapes Online - Ultimate Action Gaming Experience",
+      "description": "Funny Shapes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-shapes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Funny Shapes",
+      "href": "/games/funny-shapes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_311",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

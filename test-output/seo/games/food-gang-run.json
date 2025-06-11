@@ -1,0 +1,54 @@
+{
+  "gameId": 5376,
+  "slug": "food-gang-run",
+  "metadata": {
+    "title": "Food Gang Run Online - Ultimate Action Gaming Experience",
+    "description": "Food Gang Run delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Food Gang Run game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/food-gang-run",
+    "openGraph": {
+      "title": "Food Gang Run Online - Ultimate Action Gaming Experience",
+      "description": "Food Gang Run delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/food-gang-run-og.jpg",
+      "url": "https://littlegames.com/games/food-gang-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Food Gang Run Online - Ultimate Action Gaming Experience",
+      "description": "Food Gang Run delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/food-gang-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Food Gang Run",
+      "href": "/games/food-gang-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_662",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

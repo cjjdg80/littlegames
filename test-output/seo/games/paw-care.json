@@ -1,0 +1,54 @@
+{
+  "gameId": 2254,
+  "slug": "paw-care",
+  "metadata": {
+    "title": "Paw Care - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Paw Care. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Paw Care game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/paw-care",
+    "openGraph": {
+      "title": "Paw Care - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Paw Care. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/paw-care-og.jpg",
+      "url": "https://littlegames.com/games/paw-care",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paw Care - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Paw Care. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/paw-care-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Paw Care",
+      "href": "/games/paw-care",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_880",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

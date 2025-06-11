@@ -1,0 +1,46 @@
+{
+  "tag": "goalkeeper",
+  "displayName": "Goalkeeper",
+  "metadata": {
+    "title": "Goalkeeper Games - Play Free Online",
+    "description": "Discover amazing goalkeeper games! Play 10 free games with goalkeeper theme. No downloads required.",
+    "keywords": [
+      "goalkeeper games",
+      "free online games",
+      "browser games",
+      "goalkeeper theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/goalkeeper",
+    "openGraph": {
+      "title": "Goalkeeper Games - Free Online Gaming",
+      "description": "Play the best goalkeeper games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/goalkeeper-og.jpg",
+      "url": "https://littlegames.com/tags/goalkeeper",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Goalkeeper Games - Free Online",
+      "description": "Play 10 free goalkeeper games online.",
+      "image": "https://littlegames.com/images/tags/goalkeeper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Goalkeeper",
+      "href": "/tags/goalkeeper",
+      "current": true
+    }
+  ],
+  "description": "Discover games with goalkeeper theme! Our collection includes 10 carefully selected games that feature goalkeeper elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

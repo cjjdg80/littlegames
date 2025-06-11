@@ -1,0 +1,46 @@
+{
+  "tag": "volleyball",
+  "displayName": "Volleyball",
+  "metadata": {
+    "title": "Volleyball Games - Play Free Online",
+    "description": "Discover amazing volleyball games! Play 6 free games with volleyball theme. No downloads required.",
+    "keywords": [
+      "volleyball games",
+      "free online games",
+      "browser games",
+      "volleyball theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/volleyball",
+    "openGraph": {
+      "title": "Volleyball Games - Free Online Gaming",
+      "description": "Play the best volleyball games online for free. 6 games available.",
+      "image": "https://littlegames.com/images/tags/volleyball-og.jpg",
+      "url": "https://littlegames.com/tags/volleyball",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Volleyball Games - Free Online",
+      "description": "Play 6 free volleyball games online.",
+      "image": "https://littlegames.com/images/tags/volleyball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Volleyball",
+      "href": "/tags/volleyball",
+      "current": true
+    }
+  ],
+  "description": "Discover games with volleyball theme! Our collection includes 6 carefully selected games that feature volleyball elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

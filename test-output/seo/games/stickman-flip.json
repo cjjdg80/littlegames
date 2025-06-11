@@ -1,0 +1,54 @@
+{
+  "gameId": 6555,
+  "slug": "stickman-flip",
+  "metadata": {
+    "title": "Play Stickman Flip - Free Action Game Online",
+    "description": "Join the action in Stickman Flip! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Stickman Flip game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-flip",
+    "openGraph": {
+      "title": "Play Stickman Flip - Free Action Game Online",
+      "description": "Join the action in Stickman Flip! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-flip-og.jpg",
+      "url": "https://littlegames.com/games/stickman-flip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Stickman Flip - Free Action Game Online",
+      "description": "Join the action in Stickman Flip! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-flip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stickman Flip",
+      "href": "/games/stickman-flip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_211",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

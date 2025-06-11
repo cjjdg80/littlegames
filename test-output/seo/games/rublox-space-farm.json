@@ -1,0 +1,54 @@
+{
+  "gameId": 4751,
+  "slug": "rublox-space-farm",
+  "metadata": {
+    "title": "Rublox Space Farm - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Rublox Space Farm! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Rublox Space Farm online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/rublox-space-farm",
+    "openGraph": {
+      "title": "Rublox Space Farm - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Rublox Space Farm! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rublox-space-farm-og.jpg",
+      "url": "https://littlegames.com/games/rublox-space-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rublox Space Farm - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Rublox Space Farm! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rublox-space-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rublox Space Farm",
+      "href": "/games/rublox-space-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_290",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

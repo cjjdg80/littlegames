@@ -1,0 +1,54 @@
+{
+  "gameId": 4740,
+  "slug": "moon-mission",
+  "metadata": {
+    "title": "Play Moon Mission - Free Action Game Online",
+    "description": "Dive into the action-packed world of Moon Mission. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Moon Mission online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/moon-mission",
+    "openGraph": {
+      "title": "Play Moon Mission - Free Action Game Online",
+      "description": "Dive into the action-packed world of Moon Mission. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/moon-mission-og.jpg",
+      "url": "https://littlegames.com/games/moon-mission",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Moon Mission - Free Action Game Online",
+      "description": "Dive into the action-packed world of Moon Mission. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/moon-mission-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Moon Mission",
+      "href": "/games/moon-mission",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_950",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

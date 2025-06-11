@@ -1,0 +1,54 @@
+{
+  "gameId": 1957,
+  "slug": "join-blocks",
+  "metadata": {
+    "title": "Free Join Blocks Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Join Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Join Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/join-blocks",
+    "openGraph": {
+      "title": "Free Join Blocks Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Join Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/join-blocks-og.jpg",
+      "url": "https://littlegames.com/games/join-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Join Blocks Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Join Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/join-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Join Blocks",
+      "href": "/games/join-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_673",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

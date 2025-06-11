@@ -1,0 +1,54 @@
+{
+  "gameId": 8438,
+  "slug": "pop-them",
+  "metadata": {
+    "title": "Puzzle Game Pop Them! - Test Your Skills",
+    "description": "Pop Them! offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Pop Them! game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pop-them",
+    "openGraph": {
+      "title": "Puzzle Game Pop Them! - Test Your Skills",
+      "description": "Pop Them! offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/pop-them-og.jpg",
+      "url": "https://littlegames.com/games/pop-them",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Pop Them! - Test Your Skills",
+      "description": "Pop Them! offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/pop-them-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pop Them!",
+      "href": "/games/pop-them",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_584",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

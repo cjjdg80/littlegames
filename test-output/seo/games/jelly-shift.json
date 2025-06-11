@@ -1,0 +1,54 @@
+{
+  "gameId": 1253,
+  "slug": "jelly-shift",
+  "metadata": {
+    "title": "Play Jelly Shift - Free Action Game Online",
+    "description": "Jelly Shift delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Jelly Shift",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-shift",
+    "openGraph": {
+      "title": "Play Jelly Shift - Free Action Game Online",
+      "description": "Jelly Shift delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jelly-shift-og.jpg",
+      "url": "https://littlegames.com/games/jelly-shift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jelly Shift - Free Action Game Online",
+      "description": "Jelly Shift delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jelly-shift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jelly Shift",
+      "href": "/games/jelly-shift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_849",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

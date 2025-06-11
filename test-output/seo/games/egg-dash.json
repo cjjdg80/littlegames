@@ -1,0 +1,54 @@
+{
+  "gameId": 7860,
+  "slug": "egg-dash",
+  "metadata": {
+    "title": "Egg Dash - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Egg Dash. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure...",
+    "keywords": [
+      "Egg Dash game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/egg-dash",
+    "openGraph": {
+      "title": "Egg Dash - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Egg Dash. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure...",
+      "image": "https://littlegames.com/images/games/egg-dash-og.jpg",
+      "url": "https://littlegames.com/games/egg-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Egg Dash - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Egg Dash. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/egg-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Egg Dash",
+      "href": "/games/egg-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_669",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

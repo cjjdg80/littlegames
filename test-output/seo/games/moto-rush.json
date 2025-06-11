@@ -1,0 +1,54 @@
+{
+  "gameId": 1462,
+  "slug": "moto-rush",
+  "metadata": {
+    "title": "Action Game Moto Rush - Play Free Now",
+    "description": "Join the action in Moto Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Moto Rush online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/moto-rush",
+    "openGraph": {
+      "title": "Action Game Moto Rush - Play Free Now",
+      "description": "Join the action in Moto Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/moto-rush-og.jpg",
+      "url": "https://littlegames.com/games/moto-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Moto Rush - Play Free Now",
+      "description": "Join the action in Moto Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/moto-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Moto Rush",
+      "href": "/games/moto-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_328",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

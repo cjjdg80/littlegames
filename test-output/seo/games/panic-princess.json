@@ -1,0 +1,54 @@
+{
+  "gameId": 2501,
+  "slug": "panic-princess",
+  "metadata": {
+    "title": "Panic Princess - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Panic Princess! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Panic Princess",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/panic-princess",
+    "openGraph": {
+      "title": "Panic Princess - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Panic Princess! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/panic-princess-og.jpg",
+      "url": "https://littlegames.com/games/panic-princess",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Panic Princess - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Panic Princess! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/panic-princess-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Panic Princess",
+      "href": "/games/panic-princess",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_540",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

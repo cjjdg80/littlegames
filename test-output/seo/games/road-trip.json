@@ -1,0 +1,54 @@
+{
+  "gameId": 548,
+  "slug": "road-trip",
+  "metadata": {
+    "title": "Road Trip - Exciting Action Adventure Game",
+    "description": "Road Trip delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Road Trip online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/road-trip",
+    "openGraph": {
+      "title": "Road Trip - Exciting Action Adventure Game",
+      "description": "Road Trip delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/road-trip-og.jpg",
+      "url": "https://littlegames.com/games/road-trip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Road Trip - Exciting Action Adventure Game",
+      "description": "Road Trip delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/road-trip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Road Trip",
+      "href": "/games/road-trip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_994",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

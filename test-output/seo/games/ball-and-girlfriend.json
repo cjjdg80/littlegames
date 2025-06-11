@@ -1,0 +1,54 @@
+{
+  "gameId": 9491,
+  "slug": "ball-and-girlfriend",
+  "metadata": {
+    "title": "Play Ball and Girlfriend - Epic Adventure Game Online",
+    "description": "Begin your quest in Ball and Girlfriend. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Ball and Girlfriend game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/ball-and-girlfriend",
+    "openGraph": {
+      "title": "Play Ball and Girlfriend - Epic Adventure Game Online",
+      "description": "Begin your quest in Ball and Girlfriend. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/ball-and-girlfriend-og.jpg",
+      "url": "https://littlegames.com/games/ball-and-girlfriend",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ball and Girlfriend - Epic Adventure Game Online",
+      "description": "Begin your quest in Ball and Girlfriend. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/ball-and-girlfriend-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ball and Girlfriend",
+      "href": "/games/ball-and-girlfriend",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_230",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

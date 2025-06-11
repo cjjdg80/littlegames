@@ -1,0 +1,54 @@
+{
+  "gameId": 8487,
+  "slug": "gmod-bombs",
+  "metadata": {
+    "title": "Adventure Game GMOD Bombs - Journey Begins",
+    "description": "Start your epic journey with GMOD Bombs! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play GMOD Bombs",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/gmod-bombs",
+    "openGraph": {
+      "title": "Adventure Game GMOD Bombs - Journey Begins",
+      "description": "Start your epic journey with GMOD Bombs! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/gmod-bombs-og.jpg",
+      "url": "https://littlegames.com/games/gmod-bombs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game GMOD Bombs - Journey Begins",
+      "description": "Start your epic journey with GMOD Bombs! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/gmod-bombs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "GMOD Bombs",
+      "href": "/games/gmod-bombs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_106",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

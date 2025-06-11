@@ -1,0 +1,54 @@
+{
+  "gameId": 1631,
+  "slug": "world-flags-memory",
+  "metadata": {
+    "title": "World Flags Memory Online - Logic and Strategy Game",
+    "description": "Challenge your mind with World Flags Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "World Flags Memory online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/world-flags-memory",
+    "openGraph": {
+      "title": "World Flags Memory Online - Logic and Strategy Game",
+      "description": "Challenge your mind with World Flags Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/world-flags-memory-og.jpg",
+      "url": "https://littlegames.com/games/world-flags-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "World Flags Memory Online - Logic and Strategy Game",
+      "description": "Challenge your mind with World Flags Memory! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/world-flags-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "World Flags Memory",
+      "href": "/games/world-flags-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_567",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

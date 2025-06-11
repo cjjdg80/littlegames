@@ -1,0 +1,54 @@
+{
+  "gameId": 6566,
+  "slug": "monster-x-sushi",
+  "metadata": {
+    "title": "Monster X Sushi Online - Explore and Discover",
+    "description": "Start your epic journey with Monster X Sushi! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Monster X Sushi online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/monster-x-sushi",
+    "openGraph": {
+      "title": "Monster X Sushi Online - Explore and Discover",
+      "description": "Start your epic journey with Monster X Sushi! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/monster-x-sushi-og.jpg",
+      "url": "https://littlegames.com/games/monster-x-sushi",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster X Sushi Online - Explore and Discover",
+      "description": "Start your epic journey with Monster X Sushi! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/monster-x-sushi-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Monster X Sushi",
+      "href": "/games/monster-x-sushi",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_555",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

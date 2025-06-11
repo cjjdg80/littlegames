@@ -1,0 +1,54 @@
+{
+  "gameId": 4021,
+  "slug": "pirate-bombs",
+  "metadata": {
+    "title": "Pirate Bombs Online - Explore and Discover",
+    "description": "Embark on an epic journey in Pirate Bombs! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Pirate Bombs",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pirate-bombs",
+    "openGraph": {
+      "title": "Pirate Bombs Online - Explore and Discover",
+      "description": "Embark on an epic journey in Pirate Bombs! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/pirate-bombs-og.jpg",
+      "url": "https://littlegames.com/games/pirate-bombs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pirate Bombs Online - Explore and Discover",
+      "description": "Embark on an epic journey in Pirate Bombs! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/pirate-bombs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pirate Bombs",
+      "href": "/games/pirate-bombs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_660",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1714,
+  "slug": "sprinter-heroes",
+  "metadata": {
+    "title": "Play Sprinter Heroes - Free Action Game Online",
+    "description": "Join the action in Sprinter Heroes! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Sprinter Heroes online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sprinter-heroes",
+    "openGraph": {
+      "title": "Play Sprinter Heroes - Free Action Game Online",
+      "description": "Join the action in Sprinter Heroes! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sprinter-heroes-og.jpg",
+      "url": "https://littlegames.com/games/sprinter-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sprinter Heroes - Free Action Game Online",
+      "description": "Join the action in Sprinter Heroes! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sprinter-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sprinter Heroes",
+      "href": "/games/sprinter-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_140",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

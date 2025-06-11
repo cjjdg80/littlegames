@@ -1,0 +1,54 @@
+{
+  "gameId": 2304,
+  "slug": "draw-rider",
+  "metadata": {
+    "title": "Draw Rider - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Draw Rider. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Draw Rider",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-rider",
+    "openGraph": {
+      "title": "Draw Rider - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Draw Rider. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/draw-rider-og.jpg",
+      "url": "https://littlegames.com/games/draw-rider",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw Rider - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Draw Rider. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/draw-rider-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw Rider",
+      "href": "/games/draw-rider",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_430",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2306,
+  "slug": "volley-random",
+  "metadata": {
+    "title": "Volley Random Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Volley Random! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Volley Random",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/volley-random",
+    "openGraph": {
+      "title": "Volley Random Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Volley Random! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/volley-random-og.jpg",
+      "url": "https://littlegames.com/games/volley-random",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Volley Random Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Volley Random! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/volley-random-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Volley Random",
+      "href": "/games/volley-random",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_492",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

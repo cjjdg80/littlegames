@@ -1,0 +1,54 @@
+{
+  "gameId": 1093,
+  "slug": "bullet-master",
+  "metadata": {
+    "title": "Bullet Master Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Bullet Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Bullet Master",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-master",
+    "openGraph": {
+      "title": "Bullet Master Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Bullet Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bullet-master-og.jpg",
+      "url": "https://littlegames.com/games/bullet-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bullet Master Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Bullet Master. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bullet-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bullet Master",
+      "href": "/games/bullet-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_889",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

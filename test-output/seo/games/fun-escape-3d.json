@@ -1,0 +1,54 @@
+{
+  "gameId": 2244,
+  "slug": "fun-escape-3d",
+  "metadata": {
+    "title": "Fun Escape 3D Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Fun Escape 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Fun Escape 3D",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fun-escape-3d",
+    "openGraph": {
+      "title": "Fun Escape 3D Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fun Escape 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-escape-3d-og.jpg",
+      "url": "https://littlegames.com/games/fun-escape-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fun Escape 3D Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fun Escape 3D! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-escape-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fun Escape 3D",
+      "href": "/games/fun-escape-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_570",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

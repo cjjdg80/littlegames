@@ -1,0 +1,54 @@
+{
+  "gameId": 3615,
+  "slug": "orbits",
+  "metadata": {
+    "title": "Free Orbits Game - Action Packed Fun",
+    "description": "Join the action in Orbits! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Orbits",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/orbits",
+    "openGraph": {
+      "title": "Free Orbits Game - Action Packed Fun",
+      "description": "Join the action in Orbits! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/orbits-og.jpg",
+      "url": "https://littlegames.com/games/orbits",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Orbits Game - Action Packed Fun",
+      "description": "Join the action in Orbits! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/orbits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Orbits",
+      "href": "/games/orbits",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_071",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

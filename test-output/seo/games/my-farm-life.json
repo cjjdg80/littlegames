@@ -1,0 +1,54 @@
+{
+  "gameId": 7701,
+  "slug": "my-farm-life",
+  "metadata": {
+    "title": "Action Game My Farm life - Play Free Now",
+    "description": "Dive into the action-packed world of My Farm life. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "My Farm life game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/my-farm-life",
+    "openGraph": {
+      "title": "Action Game My Farm life - Play Free Now",
+      "description": "Dive into the action-packed world of My Farm life. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/my-farm-life-og.jpg",
+      "url": "https://littlegames.com/games/my-farm-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game My Farm life - Play Free Now",
+      "description": "Dive into the action-packed world of My Farm life. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/my-farm-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "My Farm life",
+      "href": "/games/my-farm-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_741",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

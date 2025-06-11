@@ -1,0 +1,54 @@
+{
+  "gameId": 618,
+  "slug": "animals-puzzle",
+  "metadata": {
+    "title": "Free Animals Puzzle Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Animals Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Animals Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/animals-puzzle",
+    "openGraph": {
+      "title": "Free Animals Puzzle Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Animals Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/animals-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/animals-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Animals Puzzle Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Animals Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/animals-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Animals Puzzle",
+      "href": "/games/animals-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_164",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

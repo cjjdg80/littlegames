@@ -1,0 +1,54 @@
+{
+  "gameId": 1870,
+  "slug": "hop-ball",
+  "metadata": {
+    "title": "Free Hop Ball Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Hop Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Hop Ball",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hop-ball",
+    "openGraph": {
+      "title": "Free Hop Ball Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Hop Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hop-ball-og.jpg",
+      "url": "https://littlegames.com/games/hop-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hop Ball Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Hop Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hop-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hop Ball",
+      "href": "/games/hop-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_976",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

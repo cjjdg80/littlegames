@@ -1,0 +1,54 @@
+{
+  "gameId": 4998,
+  "slug": "number-jumping",
+  "metadata": {
+    "title": "Play Number Jumping - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Number Jumping. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Number Jumping online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/number-jumping",
+    "openGraph": {
+      "title": "Play Number Jumping - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Number Jumping. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/number-jumping-og.jpg",
+      "url": "https://littlegames.com/games/number-jumping",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Number Jumping - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Number Jumping. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/number-jumping-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Number Jumping",
+      "href": "/games/number-jumping",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_944",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

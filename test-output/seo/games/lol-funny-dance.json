@@ -1,0 +1,54 @@
+{
+  "gameId": 9765,
+  "slug": "lol-funny-dance",
+  "metadata": {
+    "title": "Free LOL Funny Dance Game - Action Packed Fun",
+    "description": "Join the action in LOL Funny Dance! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "LOL Funny Dance game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/lol-funny-dance",
+    "openGraph": {
+      "title": "Free LOL Funny Dance Game - Action Packed Fun",
+      "description": "Join the action in LOL Funny Dance! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lol-funny-dance-og.jpg",
+      "url": "https://littlegames.com/games/lol-funny-dance",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free LOL Funny Dance Game - Action Packed Fun",
+      "description": "Join the action in LOL Funny Dance! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lol-funny-dance-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "LOL Funny Dance",
+      "href": "/games/lol-funny-dance",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_721",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

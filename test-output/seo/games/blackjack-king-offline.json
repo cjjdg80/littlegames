@@ -1,0 +1,54 @@
+{
+  "gameId": 24,
+  "slug": "blackjack-king-offline",
+  "metadata": {
+    "title": "Play Blackjack King Offline - Free Action Game Online",
+    "description": "Blackjack King Offline delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Blackjack King Offline online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/blackjack-king-offline",
+    "openGraph": {
+      "title": "Play Blackjack King Offline - Free Action Game Online",
+      "description": "Blackjack King Offline delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/blackjack-king-offline-og.jpg",
+      "url": "https://littlegames.com/games/blackjack-king-offline",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Blackjack King Offline - Free Action Game Online",
+      "description": "Blackjack King Offline delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/blackjack-king-offline-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Blackjack King Offline",
+      "href": "/games/blackjack-king-offline",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_750",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

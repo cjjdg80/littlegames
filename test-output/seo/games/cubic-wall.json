@@ -1,0 +1,54 @@
+{
+  "gameId": 3402,
+  "slug": "cubic-wall",
+  "metadata": {
+    "title": "Free Cubic Wall Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Cubic Wall. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Cubic Wall",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/cubic-wall",
+    "openGraph": {
+      "title": "Free Cubic Wall Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cubic Wall. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cubic-wall-og.jpg",
+      "url": "https://littlegames.com/games/cubic-wall",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Cubic Wall Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Cubic Wall. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cubic-wall-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cubic Wall",
+      "href": "/games/cubic-wall",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_468",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8516,
+  "slug": "dynamons-9",
+  "metadata": {
+    "title": "Adventure Game Dynamons 9 - Journey Begins",
+    "description": "Begin your quest in Dynamons 9. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Dynamons 9",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/dynamons-9",
+    "openGraph": {
+      "title": "Adventure Game Dynamons 9 - Journey Begins",
+      "description": "Begin your quest in Dynamons 9. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/dynamons-9-og.jpg",
+      "url": "https://littlegames.com/games/dynamons-9",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Dynamons 9 - Journey Begins",
+      "description": "Begin your quest in Dynamons 9. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/dynamons-9-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dynamons 9",
+      "href": "/games/dynamons-9",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_005",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

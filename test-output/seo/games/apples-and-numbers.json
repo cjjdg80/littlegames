@@ -1,0 +1,54 @@
+{
+  "gameId": 4090,
+  "slug": "apples-and-numbers",
+  "metadata": {
+    "title": "Action Game Apples and Numbers - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Apples and Numbers. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Apples and Numbers game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/apples-and-numbers",
+    "openGraph": {
+      "title": "Action Game Apples and Numbers - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Apples and Numbers. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/apples-and-numbers-og.jpg",
+      "url": "https://littlegames.com/games/apples-and-numbers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Apples and Numbers - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Apples and Numbers. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/apples-and-numbers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Apples and Numbers",
+      "href": "/games/apples-and-numbers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_796",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

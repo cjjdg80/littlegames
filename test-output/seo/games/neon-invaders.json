@@ -1,0 +1,54 @@
+{
+  "gameId": 2162,
+  "slug": "neon-invaders",
+  "metadata": {
+    "title": "Action Game Neon Invaders - Play Free Now",
+    "description": "Experience thrilling action in Neon Invaders! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Neon Invaders",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/neon-invaders",
+    "openGraph": {
+      "title": "Action Game Neon Invaders - Play Free Now",
+      "description": "Experience thrilling action in Neon Invaders! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/neon-invaders-og.jpg",
+      "url": "https://littlegames.com/games/neon-invaders",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Neon Invaders - Play Free Now",
+      "description": "Experience thrilling action in Neon Invaders! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/neon-invaders-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Neon Invaders",
+      "href": "/games/neon-invaders",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_028",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

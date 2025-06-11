@@ -1,0 +1,54 @@
+{
+  "gameId": 2366,
+  "slug": "dunk-jumps",
+  "metadata": {
+    "title": "Free Dunk Jumps Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Dunk Jumps. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dunk Jumps game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dunk-jumps",
+    "openGraph": {
+      "title": "Free Dunk Jumps Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Dunk Jumps. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dunk-jumps-og.jpg",
+      "url": "https://littlegames.com/games/dunk-jumps",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Dunk Jumps Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Dunk Jumps. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dunk-jumps-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dunk Jumps",
+      "href": "/games/dunk-jumps",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_352",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

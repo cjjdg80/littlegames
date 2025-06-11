@@ -1,0 +1,54 @@
+{
+  "gameId": 5190,
+  "slug": "parkour-block-4",
+  "metadata": {
+    "title": "Parkour Block 4 - Exciting Action Adventure Game",
+    "description": "Parkour Block 4 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Parkour Block 4",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-block-4",
+    "openGraph": {
+      "title": "Parkour Block 4 - Exciting Action Adventure Game",
+      "description": "Parkour Block 4 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/parkour-block-4-og.jpg",
+      "url": "https://littlegames.com/games/parkour-block-4",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parkour Block 4 - Exciting Action Adventure Game",
+      "description": "Parkour Block 4 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/parkour-block-4-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parkour Block 4",
+      "href": "/games/parkour-block-4",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_896",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

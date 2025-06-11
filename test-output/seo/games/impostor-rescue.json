@@ -1,0 +1,54 @@
+{
+  "gameId": 2639,
+  "slug": "impostor-rescue",
+  "metadata": {
+    "title": "Free Impostor Rescue Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Impostor Rescue. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Impostor Rescue",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/impostor-rescue",
+    "openGraph": {
+      "title": "Free Impostor Rescue Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Impostor Rescue. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/impostor-rescue-og.jpg",
+      "url": "https://littlegames.com/games/impostor-rescue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Impostor Rescue Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Impostor Rescue. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/impostor-rescue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Impostor Rescue",
+      "href": "/games/impostor-rescue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_815",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

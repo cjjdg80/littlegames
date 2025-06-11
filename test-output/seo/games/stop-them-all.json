@@ -1,0 +1,54 @@
+{
+  "gameId": 2774,
+  "slug": "stop-them-all",
+  "metadata": {
+    "title": "Stop Them All Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Stop Them All. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Stop Them All",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stop-them-all",
+    "openGraph": {
+      "title": "Stop Them All Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Stop Them All. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stop-them-all-og.jpg",
+      "url": "https://littlegames.com/games/stop-them-all",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stop Them All Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Stop Them All. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stop-them-all-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stop Them All",
+      "href": "/games/stop-them-all",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_000",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2232,
+  "slug": "wacky-run",
+  "metadata": {
+    "title": "Wacky Run - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Wacky Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Wacky Run",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/wacky-run",
+    "openGraph": {
+      "title": "Wacky Run - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Wacky Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wacky-run-og.jpg",
+      "url": "https://littlegames.com/games/wacky-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wacky Run - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Wacky Run. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wacky-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Wacky Run",
+      "href": "/games/wacky-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_198",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "classic",
+  "displayName": "Classic",
+  "metadata": {
+    "title": "Classic Games - Play Free Online",
+    "description": "Discover amazing classic games! Play 128 free games with classic theme. No downloads required.",
+    "keywords": [
+      "classic games",
+      "free online games",
+      "browser games",
+      "classic theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/classic",
+    "openGraph": {
+      "title": "Classic Games - Free Online Gaming",
+      "description": "Play the best classic games online for free. 128 games available.",
+      "image": "https://littlegames.com/images/tags/classic-og.jpg",
+      "url": "https://littlegames.com/tags/classic",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Classic Games - Free Online",
+      "description": "Play 128 free classic games online.",
+      "image": "https://littlegames.com/images/tags/classic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Classic",
+      "href": "/tags/classic",
+      "current": true
+    }
+  ],
+  "description": "Discover games with classic theme! Our collection includes 128 carefully selected games that feature classic elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

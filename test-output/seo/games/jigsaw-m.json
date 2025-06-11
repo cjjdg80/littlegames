@@ -1,0 +1,54 @@
+{
+  "gameId": 8456,
+  "slug": "jigsaw-m",
+  "metadata": {
+    "title": "Jigsaw M Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Jigsaw M! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Jigsaw M",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jigsaw-m",
+    "openGraph": {
+      "title": "Jigsaw M Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Jigsaw M! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jigsaw-m-og.jpg",
+      "url": "https://littlegames.com/games/jigsaw-m",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jigsaw M Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Jigsaw M! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jigsaw-m-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jigsaw M",
+      "href": "/games/jigsaw-m",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_142",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

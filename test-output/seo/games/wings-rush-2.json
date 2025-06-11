@@ -1,0 +1,54 @@
+{
+  "gameId": 3199,
+  "slug": "wings-rush-2",
+  "metadata": {
+    "title": "Adventure Game Wings Rush 2 - Journey Begins",
+    "description": "Begin your quest in Wings Rush 2. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Wings Rush 2 game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/wings-rush-2",
+    "openGraph": {
+      "title": "Adventure Game Wings Rush 2 - Journey Begins",
+      "description": "Begin your quest in Wings Rush 2. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/wings-rush-2-og.jpg",
+      "url": "https://littlegames.com/games/wings-rush-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Wings Rush 2 - Journey Begins",
+      "description": "Begin your quest in Wings Rush 2. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/wings-rush-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Wings Rush 2",
+      "href": "/games/wings-rush-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_178",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

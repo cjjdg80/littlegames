@@ -1,0 +1,54 @@
+{
+  "gameId": 7614,
+  "slug": "offroad-life-3d",
+  "metadata": {
+    "title": "Offroad Life 3D Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Offroad Life 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Offroad Life 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/offroad-life-3d",
+    "openGraph": {
+      "title": "Offroad Life 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Offroad Life 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/offroad-life-3d-og.jpg",
+      "url": "https://littlegames.com/games/offroad-life-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Offroad Life 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Offroad Life 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/offroad-life-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Offroad Life 3D",
+      "href": "/games/offroad-life-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_040",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

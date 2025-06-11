@@ -1,0 +1,54 @@
+{
+  "gameId": 9335,
+  "slug": "daring-jack",
+  "metadata": {
+    "title": "Free Daring Jack Game - Adventure Awaits",
+    "description": "Begin your quest in Daring Jack. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Daring Jack",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/daring-jack",
+    "openGraph": {
+      "title": "Free Daring Jack Game - Adventure Awaits",
+      "description": "Begin your quest in Daring Jack. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/daring-jack-og.jpg",
+      "url": "https://littlegames.com/games/daring-jack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Daring Jack Game - Adventure Awaits",
+      "description": "Begin your quest in Daring Jack. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/daring-jack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Daring Jack",
+      "href": "/games/daring-jack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_394",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

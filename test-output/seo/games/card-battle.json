@@ -1,0 +1,54 @@
+{
+  "gameId": 8909,
+  "slug": "card-battle",
+  "metadata": {
+    "title": "Puzzle Game Card Battle - Test Your Skills",
+    "description": "Challenge your mind with Card Battle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Card Battle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/card-battle",
+    "openGraph": {
+      "title": "Puzzle Game Card Battle - Test Your Skills",
+      "description": "Challenge your mind with Card Battle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/card-battle-og.jpg",
+      "url": "https://littlegames.com/games/card-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Card Battle - Test Your Skills",
+      "description": "Challenge your mind with Card Battle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/card-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Card Battle",
+      "href": "/games/card-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_185",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

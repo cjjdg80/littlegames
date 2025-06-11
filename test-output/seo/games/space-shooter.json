@@ -1,0 +1,54 @@
+{
+  "gameId": 6398,
+  "slug": "space-shooter",
+  "metadata": {
+    "title": "Free Space Shooter Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Space Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Space Shooter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/space-shooter",
+    "openGraph": {
+      "title": "Free Space Shooter Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Space Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/space-shooter-og.jpg",
+      "url": "https://littlegames.com/games/space-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Space Shooter Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Space Shooter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/space-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Space Shooter",
+      "href": "/games/space-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_344",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

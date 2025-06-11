@@ -1,0 +1,54 @@
+{
+  "gameId": 2693,
+  "slug": "shapes-game",
+  "metadata": {
+    "title": "Free SHAPES GAME Game - Action Packed Fun",
+    "description": "Join the action in SHAPES GAME! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "SHAPES GAME",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/shapes-game",
+    "openGraph": {
+      "title": "Free SHAPES GAME Game - Action Packed Fun",
+      "description": "Join the action in SHAPES GAME! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shapes-game-og.jpg",
+      "url": "https://littlegames.com/games/shapes-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free SHAPES GAME Game - Action Packed Fun",
+      "description": "Join the action in SHAPES GAME! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/shapes-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "SHAPES GAME",
+      "href": "/games/shapes-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_489",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

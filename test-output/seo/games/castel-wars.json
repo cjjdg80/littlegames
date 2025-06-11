@@ -1,0 +1,54 @@
+{
+  "gameId": 2192,
+  "slug": "castel-wars",
+  "metadata": {
+    "title": "Action Game Castel Wars - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Castel Wars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Castel Wars game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/castel-wars",
+    "openGraph": {
+      "title": "Action Game Castel Wars - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Castel Wars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/castel-wars-og.jpg",
+      "url": "https://littlegames.com/games/castel-wars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Castel Wars - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Castel Wars. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/castel-wars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Castel Wars",
+      "href": "/games/castel-wars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_958",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

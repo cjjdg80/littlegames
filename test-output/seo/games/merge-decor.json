@@ -1,0 +1,54 @@
+{
+  "gameId": 6266,
+  "slug": "merge-decor",
+  "metadata": {
+    "title": "Free Merge & Decor Game - Action Packed Fun",
+    "description": "Merge & Decor delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Merge & Decor game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/merge-decor",
+    "openGraph": {
+      "title": "Free Merge & Decor Game - Action Packed Fun",
+      "description": "Merge & Decor delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-decor-og.jpg",
+      "url": "https://littlegames.com/games/merge-decor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge & Decor Game - Action Packed Fun",
+      "description": "Merge & Decor delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/merge-decor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge & Decor",
+      "href": "/games/merge-decor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_252",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

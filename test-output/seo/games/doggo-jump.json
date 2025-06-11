@@ -1,0 +1,54 @@
+{
+  "gameId": 9252,
+  "slug": "doggo-jump",
+  "metadata": {
+    "title": "Doggo Jump Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Doggo Jump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Doggo Jump",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/doggo-jump",
+    "openGraph": {
+      "title": "Doggo Jump Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Doggo Jump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/doggo-jump-og.jpg",
+      "url": "https://littlegames.com/games/doggo-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Doggo Jump Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Doggo Jump. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/doggo-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Doggo Jump",
+      "href": "/games/doggo-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_818",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

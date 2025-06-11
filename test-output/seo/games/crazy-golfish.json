@@ -1,0 +1,54 @@
+{
+  "gameId": 4484,
+  "slug": "crazy-golfish",
+  "metadata": {
+    "title": "Play Crazy Golfish - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Crazy Golfish. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Crazy Golfish online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-golfish",
+    "openGraph": {
+      "title": "Play Crazy Golfish - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Crazy Golfish. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crazy-golfish-og.jpg",
+      "url": "https://littlegames.com/games/crazy-golfish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Crazy Golfish - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Crazy Golfish. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crazy-golfish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Crazy Golfish",
+      "href": "/games/crazy-golfish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_010",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

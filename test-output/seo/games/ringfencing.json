@@ -1,0 +1,54 @@
+{
+  "gameId": 3293,
+  "slug": "ringfencing",
+  "metadata": {
+    "title": "Ringfencing - Exciting Action Adventure Game",
+    "description": "Ringfencing delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Ringfencing game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ringfencing",
+    "openGraph": {
+      "title": "Ringfencing - Exciting Action Adventure Game",
+      "description": "Ringfencing delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ringfencing-og.jpg",
+      "url": "https://littlegames.com/games/ringfencing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ringfencing - Exciting Action Adventure Game",
+      "description": "Ringfencing delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/ringfencing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ringfencing",
+      "href": "/games/ringfencing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_089",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

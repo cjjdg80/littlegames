@@ -1,0 +1,54 @@
+{
+  "gameId": 8267,
+  "slug": "pixel-art",
+  "metadata": {
+    "title": "Pixel Art - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Pixel Art! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Pixel Art online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-art",
+    "openGraph": {
+      "title": "Pixel Art - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Pixel Art! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/pixel-art-og.jpg",
+      "url": "https://littlegames.com/games/pixel-art",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pixel Art - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Pixel Art! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/pixel-art-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pixel Art",
+      "href": "/games/pixel-art",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_283",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

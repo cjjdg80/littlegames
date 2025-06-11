@@ -1,0 +1,54 @@
+{
+  "gameId": 9553,
+  "slug": "garden-guardians",
+  "metadata": {
+    "title": "Action Game Garden Guardians - Play Free Now",
+    "description": "Join the action in Garden Guardians! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Garden Guardians online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/garden-guardians",
+    "openGraph": {
+      "title": "Action Game Garden Guardians - Play Free Now",
+      "description": "Join the action in Garden Guardians! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/garden-guardians-og.jpg",
+      "url": "https://littlegames.com/games/garden-guardians",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Garden Guardians - Play Free Now",
+      "description": "Join the action in Garden Guardians! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/garden-guardians-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Garden Guardians",
+      "href": "/games/garden-guardians",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_149",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

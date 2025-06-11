@@ -1,0 +1,54 @@
+{
+  "gameId": 6335,
+  "slug": "volleyball-challenge",
+  "metadata": {
+    "title": "Volleyball Challenge - Exciting Action Adventure Game",
+    "description": "Join the action in Volleyball Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Volleyball Challenge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/volleyball-challenge",
+    "openGraph": {
+      "title": "Volleyball Challenge - Exciting Action Adventure Game",
+      "description": "Join the action in Volleyball Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/volleyball-challenge-og.jpg",
+      "url": "https://littlegames.com/games/volleyball-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Volleyball Challenge - Exciting Action Adventure Game",
+      "description": "Join the action in Volleyball Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/volleyball-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Volleyball Challenge",
+      "href": "/games/volleyball-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_391",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

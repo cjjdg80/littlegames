@@ -1,0 +1,54 @@
+{
+  "gameId": 2439,
+  "slug": "colors-game",
+  "metadata": {
+    "title": "Free Colors Game Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Colors Game. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Colors Game",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/colors-game",
+    "openGraph": {
+      "title": "Free Colors Game Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Colors Game. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/colors-game-og.jpg",
+      "url": "https://littlegames.com/games/colors-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Colors Game Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Colors Game. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/colors-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Colors Game",
+      "href": "/games/colors-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_615",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

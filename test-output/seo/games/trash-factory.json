@@ -1,0 +1,54 @@
+{
+  "gameId": 6991,
+  "slug": "trash-factory",
+  "metadata": {
+    "title": "Free Trash Factory Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Trash Factory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Trash Factory",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/trash-factory",
+    "openGraph": {
+      "title": "Free Trash Factory Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Trash Factory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/trash-factory-og.jpg",
+      "url": "https://littlegames.com/games/trash-factory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Trash Factory Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Trash Factory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/trash-factory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Trash Factory",
+      "href": "/games/trash-factory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_727",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

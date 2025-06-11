@@ -1,0 +1,54 @@
+{
+  "gameId": 776,
+  "slug": "galactic-war",
+  "metadata": {
+    "title": "Action Game Galactic War - Play Free Now",
+    "description": "Experience thrilling action in Galactic War! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Galactic War",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/galactic-war",
+    "openGraph": {
+      "title": "Action Game Galactic War - Play Free Now",
+      "description": "Experience thrilling action in Galactic War! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/galactic-war-og.jpg",
+      "url": "https://littlegames.com/games/galactic-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Galactic War - Play Free Now",
+      "description": "Experience thrilling action in Galactic War! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/galactic-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Galactic War",
+      "href": "/games/galactic-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_062",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

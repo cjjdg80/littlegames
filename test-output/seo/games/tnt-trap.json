@@ -1,0 +1,54 @@
+{
+  "gameId": 536,
+  "slug": "tnt-trap",
+  "metadata": {
+    "title": "TNT Trap - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in TNT Trap. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "TNT Trap online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/tnt-trap",
+    "openGraph": {
+      "title": "TNT Trap - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in TNT Trap. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/tnt-trap-og.jpg",
+      "url": "https://littlegames.com/games/tnt-trap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "TNT Trap - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in TNT Trap. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/tnt-trap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "TNT Trap",
+      "href": "/games/tnt-trap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_622",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "japanese",
+  "displayName": "Japanese",
+  "metadata": {
+    "title": "Japanese Games - Play Free Online",
+    "description": "Discover amazing japanese games! Play 11 free games with japanese theme. No downloads required.",
+    "keywords": [
+      "japanese games",
+      "free online games",
+      "browser games",
+      "japanese theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/japanese",
+    "openGraph": {
+      "title": "Japanese Games - Free Online Gaming",
+      "description": "Play the best japanese games online for free. 11 games available.",
+      "image": "https://littlegames.com/images/tags/japanese-og.jpg",
+      "url": "https://littlegames.com/tags/japanese",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Japanese Games - Free Online",
+      "description": "Play 11 free japanese games online.",
+      "image": "https://littlegames.com/images/tags/japanese-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Japanese",
+      "href": "/tags/japanese",
+      "current": true
+    }
+  ],
+  "description": "Discover games with japanese theme! Our collection includes 11 carefully selected games that feature japanese elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

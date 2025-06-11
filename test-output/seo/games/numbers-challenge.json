@@ -1,0 +1,54 @@
+{
+  "gameId": 1026,
+  "slug": "numbers-challenge",
+  "metadata": {
+    "title": "Free Numbers Challenge Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Numbers Challenge! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Numbers Challenge game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/numbers-challenge",
+    "openGraph": {
+      "title": "Free Numbers Challenge Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Numbers Challenge! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/numbers-challenge-og.jpg",
+      "url": "https://littlegames.com/games/numbers-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Numbers Challenge Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Numbers Challenge! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/numbers-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Numbers Challenge",
+      "href": "/games/numbers-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_812",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

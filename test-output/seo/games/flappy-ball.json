@@ -1,0 +1,54 @@
+{
+  "gameId": 1397,
+  "slug": "flappy-ball",
+  "metadata": {
+    "title": "Flappy Ball - Exciting Action Adventure Game",
+    "description": "Join the action in Flappy Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Flappy Ball game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-ball",
+    "openGraph": {
+      "title": "Flappy Ball - Exciting Action Adventure Game",
+      "description": "Join the action in Flappy Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flappy-ball-og.jpg",
+      "url": "https://littlegames.com/games/flappy-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flappy Ball - Exciting Action Adventure Game",
+      "description": "Join the action in Flappy Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flappy-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flappy Ball",
+      "href": "/games/flappy-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_313",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

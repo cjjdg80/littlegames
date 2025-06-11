@@ -1,0 +1,54 @@
+{
+  "gameId": 3644,
+  "slug": "parking-escape",
+  "metadata": {
+    "title": "Parking Escape - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Parking Escape! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Parking Escape game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/parking-escape",
+    "openGraph": {
+      "title": "Parking Escape - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Parking Escape! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/parking-escape-og.jpg",
+      "url": "https://littlegames.com/games/parking-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parking Escape - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Parking Escape! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/parking-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Parking Escape",
+      "href": "/games/parking-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_973",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

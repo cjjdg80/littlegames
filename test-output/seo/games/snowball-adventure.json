@@ -1,0 +1,54 @@
+{
+  "gameId": 7240,
+  "slug": "snowball-adventure",
+  "metadata": {
+    "title": "Free SnowBall Adventure Game - Adventure Awaits",
+    "description": "SnowBall Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "SnowBall Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/snowball-adventure",
+    "openGraph": {
+      "title": "Free SnowBall Adventure Game - Adventure Awaits",
+      "description": "SnowBall Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/snowball-adventure-og.jpg",
+      "url": "https://littlegames.com/games/snowball-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free SnowBall Adventure Game - Adventure Awaits",
+      "description": "SnowBall Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/snowball-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "SnowBall Adventure",
+      "href": "/games/snowball-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_449",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

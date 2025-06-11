@@ -1,0 +1,54 @@
+{
+  "gameId": 637,
+  "slug": "mine-survival",
+  "metadata": {
+    "title": "Puzzle Game Mine Survival - Test Your Skills",
+    "description": "Mine Survival offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Mine Survival game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/mine-survival",
+    "openGraph": {
+      "title": "Puzzle Game Mine Survival - Test Your Skills",
+      "description": "Mine Survival offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/mine-survival-og.jpg",
+      "url": "https://littlegames.com/games/mine-survival",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Mine Survival - Test Your Skills",
+      "description": "Mine Survival offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/mine-survival-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Mine Survival",
+      "href": "/games/mine-survival",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_753",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

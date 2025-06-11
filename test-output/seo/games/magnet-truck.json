@@ -1,0 +1,54 @@
+{
+  "gameId": 8594,
+  "slug": "magnet-truck",
+  "metadata": {
+    "title": "Play Magnet Truck - Free Action Game Online",
+    "description": "Magnet Truck delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Magnet Truck game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/magnet-truck",
+    "openGraph": {
+      "title": "Play Magnet Truck - Free Action Game Online",
+      "description": "Magnet Truck delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/magnet-truck-og.jpg",
+      "url": "https://littlegames.com/games/magnet-truck",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Magnet Truck - Free Action Game Online",
+      "description": "Magnet Truck delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/magnet-truck-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Magnet Truck",
+      "href": "/games/magnet-truck",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_424",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

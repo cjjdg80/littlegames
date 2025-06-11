@@ -1,0 +1,54 @@
+{
+  "gameId": 3467,
+  "slug": "evasive-balls",
+  "metadata": {
+    "title": "Free Evasive Balls Game - Action Packed Fun",
+    "description": "Join the action in Evasive Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Evasive Balls game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/evasive-balls",
+    "openGraph": {
+      "title": "Free Evasive Balls Game - Action Packed Fun",
+      "description": "Join the action in Evasive Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/evasive-balls-og.jpg",
+      "url": "https://littlegames.com/games/evasive-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Evasive Balls Game - Action Packed Fun",
+      "description": "Join the action in Evasive Balls! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/evasive-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Evasive Balls",
+      "href": "/games/evasive-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_483",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

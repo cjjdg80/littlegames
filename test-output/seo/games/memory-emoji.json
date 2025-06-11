@@ -1,0 +1,54 @@
+{
+  "gameId": 5078,
+  "slug": "memory-emoji",
+  "metadata": {
+    "title": "Puzzle Game Memory Emoji - Test Your Skills",
+    "description": "Challenge your mind with Memory Emoji! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Memory Emoji game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/memory-emoji",
+    "openGraph": {
+      "title": "Puzzle Game Memory Emoji - Test Your Skills",
+      "description": "Challenge your mind with Memory Emoji! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/memory-emoji-og.jpg",
+      "url": "https://littlegames.com/games/memory-emoji",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Memory Emoji - Test Your Skills",
+      "description": "Challenge your mind with Memory Emoji! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/memory-emoji-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Memory Emoji",
+      "href": "/games/memory-emoji",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_424",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

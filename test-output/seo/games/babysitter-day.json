@@ -1,0 +1,54 @@
+{
+  "gameId": 1769,
+  "slug": "babysitter-day",
+  "metadata": {
+    "title": "Free Babysitter Day Game - Action Packed Fun",
+    "description": "Babysitter Day delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Babysitter Day game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/babysitter-day",
+    "openGraph": {
+      "title": "Free Babysitter Day Game - Action Packed Fun",
+      "description": "Babysitter Day delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/babysitter-day-og.jpg",
+      "url": "https://littlegames.com/games/babysitter-day",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Babysitter Day Game - Action Packed Fun",
+      "description": "Babysitter Day delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/babysitter-day-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Babysitter Day",
+      "href": "/games/babysitter-day",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_845",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

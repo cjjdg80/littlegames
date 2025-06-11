@@ -1,0 +1,54 @@
+{
+  "gameId": 7534,
+  "slug": "cursed-dreams",
+  "metadata": {
+    "title": "Play Cursed Dreams - Epic Adventure Game Online",
+    "description": "Start your epic journey with Cursed Dreams! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Cursed Dreams",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/cursed-dreams",
+    "openGraph": {
+      "title": "Play Cursed Dreams - Epic Adventure Game Online",
+      "description": "Start your epic journey with Cursed Dreams! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/cursed-dreams-og.jpg",
+      "url": "https://littlegames.com/games/cursed-dreams",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cursed Dreams - Epic Adventure Game Online",
+      "description": "Start your epic journey with Cursed Dreams! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/cursed-dreams-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Cursed Dreams",
+      "href": "/games/cursed-dreams",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_563",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

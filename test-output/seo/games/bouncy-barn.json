@@ -1,0 +1,54 @@
+{
+  "gameId": 9170,
+  "slug": "bouncy-barn",
+  "metadata": {
+    "title": "Play Bouncy Barn - Free Action Game Online",
+    "description": "Join the action in Bouncy Barn! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bouncy Barn game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bouncy-barn",
+    "openGraph": {
+      "title": "Play Bouncy Barn - Free Action Game Online",
+      "description": "Join the action in Bouncy Barn! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-barn-og.jpg",
+      "url": "https://littlegames.com/games/bouncy-barn",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Bouncy Barn - Free Action Game Online",
+      "description": "Join the action in Bouncy Barn! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-barn-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bouncy Barn",
+      "href": "/games/bouncy-barn",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_276",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

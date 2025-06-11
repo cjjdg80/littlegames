@@ -1,0 +1,54 @@
+{
+  "gameId": 2226,
+  "slug": "bullet-rush",
+  "metadata": {
+    "title": "Bullet Rush Online - Ultimate Action Gaming Experience",
+    "description": "Bullet Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Bullet Rush",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-rush",
+    "openGraph": {
+      "title": "Bullet Rush Online - Ultimate Action Gaming Experience",
+      "description": "Bullet Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bullet-rush-og.jpg",
+      "url": "https://littlegames.com/games/bullet-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bullet Rush Online - Ultimate Action Gaming Experience",
+      "description": "Bullet Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bullet-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bullet Rush",
+      "href": "/games/bullet-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_012",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

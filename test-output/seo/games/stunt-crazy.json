@@ -1,0 +1,54 @@
+{
+  "gameId": 4429,
+  "slug": "stunt-crazy",
+  "metadata": {
+    "title": "Free Stunt Crazy Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Stunt Crazy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Stunt Crazy game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/stunt-crazy",
+    "openGraph": {
+      "title": "Free Stunt Crazy Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Stunt Crazy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stunt-crazy-og.jpg",
+      "url": "https://littlegames.com/games/stunt-crazy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stunt Crazy Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Stunt Crazy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/stunt-crazy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stunt Crazy",
+      "href": "/games/stunt-crazy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_305",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

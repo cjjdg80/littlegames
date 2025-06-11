@@ -1,0 +1,54 @@
+{
+  "gameId": 5980,
+  "slug": "mouse-evolution",
+  "metadata": {
+    "title": "Mouse Evolution Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Mouse Evolution. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Mouse Evolution",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mouse-evolution",
+    "openGraph": {
+      "title": "Mouse Evolution Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mouse Evolution. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mouse-evolution-og.jpg",
+      "url": "https://littlegames.com/games/mouse-evolution",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mouse Evolution Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mouse Evolution. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mouse-evolution-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mouse Evolution",
+      "href": "/games/mouse-evolution",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_386",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

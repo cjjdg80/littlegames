@@ -1,0 +1,54 @@
+{
+  "gameId": 3986,
+  "slug": "food-junction",
+  "metadata": {
+    "title": "Play Food Junction - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Food Junction. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Food Junction",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/food-junction",
+    "openGraph": {
+      "title": "Play Food Junction - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Food Junction. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/food-junction-og.jpg",
+      "url": "https://littlegames.com/games/food-junction",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Food Junction - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Food Junction. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/food-junction-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Food Junction",
+      "href": "/games/food-junction",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_572",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

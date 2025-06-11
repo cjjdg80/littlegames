@@ -1,0 +1,54 @@
+{
+  "gameId": 1912,
+  "slug": "find-the-differences",
+  "metadata": {
+    "title": "Play Find the Differences - Free Puzzle Game Online",
+    "description": "Challenge your mind with Find the Differences! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "Find the Differences game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-differences",
+    "openGraph": {
+      "title": "Play Find the Differences - Free Puzzle Game Online",
+      "description": "Challenge your mind with Find the Differences! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/find-the-differences-og.jpg",
+      "url": "https://littlegames.com/games/find-the-differences",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Find the Differences - Free Puzzle Game Online",
+      "description": "Challenge your mind with Find the Differences! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/find-the-differences-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Find the Differences",
+      "href": "/games/find-the-differences",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_278",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

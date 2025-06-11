@@ -1,0 +1,54 @@
+{
+  "gameId": 630,
+  "slug": "kart-rush",
+  "metadata": {
+    "title": "Play Kart Rush - Free Action Game Online",
+    "description": "Kart Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Kart Rush",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/kart-rush",
+    "openGraph": {
+      "title": "Play Kart Rush - Free Action Game Online",
+      "description": "Kart Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kart-rush-og.jpg",
+      "url": "https://littlegames.com/games/kart-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kart Rush - Free Action Game Online",
+      "description": "Kart Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kart-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Kart Rush",
+      "href": "/games/kart-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_536",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5873,
+  "slug": "fall-friends",
+  "metadata": {
+    "title": "Fall Friends - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Fall Friends. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Fall Friends",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fall-friends",
+    "openGraph": {
+      "title": "Fall Friends - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Fall Friends. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/fall-friends-og.jpg",
+      "url": "https://littlegames.com/games/fall-friends",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fall Friends - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Fall Friends. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fall-friends-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fall Friends",
+      "href": "/games/fall-friends",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_069",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

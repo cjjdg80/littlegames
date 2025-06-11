@@ -1,0 +1,54 @@
+{
+  "gameId": 2582,
+  "slug": "escape-heroes",
+  "metadata": {
+    "title": "Escape Heroes Online - Explore and Discover",
+    "description": "Start your epic journey with Escape Heroes! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Escape Heroes game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/escape-heroes",
+    "openGraph": {
+      "title": "Escape Heroes Online - Explore and Discover",
+      "description": "Start your epic journey with Escape Heroes! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/escape-heroes-og.jpg",
+      "url": "https://littlegames.com/games/escape-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Escape Heroes Online - Explore and Discover",
+      "description": "Start your epic journey with Escape Heroes! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/escape-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape Heroes",
+      "href": "/games/escape-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_051",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

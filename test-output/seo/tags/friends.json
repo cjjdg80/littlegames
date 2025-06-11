@@ -1,0 +1,46 @@
+{
+  "tag": "friends",
+  "displayName": "Friends",
+  "metadata": {
+    "title": "Friends Games - Play Free Online",
+    "description": "Discover amazing friends games! Play 7 free games with friends theme. No downloads required.",
+    "keywords": [
+      "friends games",
+      "free online games",
+      "browser games",
+      "friends theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/friends",
+    "openGraph": {
+      "title": "Friends Games - Free Online Gaming",
+      "description": "Play the best friends games online for free. 7 games available.",
+      "image": "https://littlegames.com/images/tags/friends-og.jpg",
+      "url": "https://littlegames.com/tags/friends",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Friends Games - Free Online",
+      "description": "Play 7 free friends games online.",
+      "image": "https://littlegames.com/images/tags/friends-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Friends",
+      "href": "/tags/friends",
+      "current": true
+    }
+  ],
+  "description": "Discover games with friends theme! Our collection includes 7 carefully selected games that feature friends elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

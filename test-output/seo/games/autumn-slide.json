@@ -1,0 +1,54 @@
+{
+  "gameId": 1806,
+  "slug": "autumn-slide",
+  "metadata": {
+    "title": "Puzzle Game Autumn Slide - Test Your Skills",
+    "description": "Exercise your brain with Autumn Slide. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Autumn Slide game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/autumn-slide",
+    "openGraph": {
+      "title": "Puzzle Game Autumn Slide - Test Your Skills",
+      "description": "Exercise your brain with Autumn Slide. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/autumn-slide-og.jpg",
+      "url": "https://littlegames.com/games/autumn-slide",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Autumn Slide - Test Your Skills",
+      "description": "Exercise your brain with Autumn Slide. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/autumn-slide-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Autumn Slide",
+      "href": "/games/autumn-slide",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_992",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

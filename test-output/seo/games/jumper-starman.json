@@ -1,0 +1,54 @@
+{
+  "gameId": 2565,
+  "slug": "jumper-starman",
+  "metadata": {
+    "title": "Adventure Game Jumper Starman - Journey Begins",
+    "description": "Jumper Starman offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Jumper Starman online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/jumper-starman",
+    "openGraph": {
+      "title": "Adventure Game Jumper Starman - Journey Begins",
+      "description": "Jumper Starman offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/jumper-starman-og.jpg",
+      "url": "https://littlegames.com/games/jumper-starman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Jumper Starman - Journey Begins",
+      "description": "Jumper Starman offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/jumper-starman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Jumper Starman",
+      "href": "/games/jumper-starman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_524",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5588,
+  "slug": "hyper-racing-madness",
+  "metadata": {
+    "title": "Hyper Racing Madness - Exciting Action Adventure Game",
+    "description": "Hyper Racing Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Hyper Racing Madness",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/hyper-racing-madness",
+    "openGraph": {
+      "title": "Hyper Racing Madness - Exciting Action Adventure Game",
+      "description": "Hyper Racing Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hyper-racing-madness-og.jpg",
+      "url": "https://littlegames.com/games/hyper-racing-madness",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hyper Racing Madness - Exciting Action Adventure Game",
+      "description": "Hyper Racing Madness delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hyper-racing-madness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hyper Racing Madness",
+      "href": "/games/hyper-racing-madness",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_234",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

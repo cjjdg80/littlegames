@@ -1,0 +1,54 @@
+{
+  "gameId": 6394,
+  "slug": "unicycle-mayhem",
+  "metadata": {
+    "title": "Unicycle Mayhem Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Unicycle Mayhem. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Unicycle Mayhem online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/unicycle-mayhem",
+    "openGraph": {
+      "title": "Unicycle Mayhem Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Unicycle Mayhem. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/unicycle-mayhem-og.jpg",
+      "url": "https://littlegames.com/games/unicycle-mayhem",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Unicycle Mayhem Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Unicycle Mayhem. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/unicycle-mayhem-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Unicycle Mayhem",
+      "href": "/games/unicycle-mayhem",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_220",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

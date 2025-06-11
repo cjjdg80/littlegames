@@ -1,0 +1,54 @@
+{
+  "gameId": 5798,
+  "slug": "knives-strikes",
+  "metadata": {
+    "title": "Knives Strikes Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Knives Strikes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Knives Strikes game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/knives-strikes",
+    "openGraph": {
+      "title": "Knives Strikes Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Knives Strikes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/knives-strikes-og.jpg",
+      "url": "https://littlegames.com/games/knives-strikes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Knives Strikes Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Knives Strikes! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/knives-strikes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Knives Strikes",
+      "href": "/games/knives-strikes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_744",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

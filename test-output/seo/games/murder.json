@@ -1,0 +1,54 @@
+{
+  "gameId": 8700,
+  "slug": "murder",
+  "metadata": {
+    "title": "Murder - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Murder! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Murder",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/murder",
+    "openGraph": {
+      "title": "Murder - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Murder! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/murder-og.jpg",
+      "url": "https://littlegames.com/games/murder",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Murder - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Murder! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/murder-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Murder",
+      "href": "/games/murder",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_706",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

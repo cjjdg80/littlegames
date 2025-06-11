@@ -1,0 +1,54 @@
+{
+  "gameId": 6543,
+  "slug": "temple-jewels",
+  "metadata": {
+    "title": "Temple Jewels Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Temple Jewels. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Temple Jewels online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/temple-jewels",
+    "openGraph": {
+      "title": "Temple Jewels Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Temple Jewels. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/temple-jewels-og.jpg",
+      "url": "https://littlegames.com/games/temple-jewels",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Temple Jewels Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Temple Jewels. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/temple-jewels-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Temple Jewels",
+      "href": "/games/temple-jewels",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_839",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

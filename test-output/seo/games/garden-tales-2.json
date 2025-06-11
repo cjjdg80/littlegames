@@ -1,0 +1,54 @@
+{
+  "gameId": 3347,
+  "slug": "garden-tales-2",
+  "metadata": {
+    "title": "Garden Tales 2 - Exciting Action Adventure Game",
+    "description": "Join the action in Garden Tales 2! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Garden Tales 2 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/garden-tales-2",
+    "openGraph": {
+      "title": "Garden Tales 2 - Exciting Action Adventure Game",
+      "description": "Join the action in Garden Tales 2! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/garden-tales-2-og.jpg",
+      "url": "https://littlegames.com/games/garden-tales-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Garden Tales 2 - Exciting Action Adventure Game",
+      "description": "Join the action in Garden Tales 2! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/garden-tales-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Garden Tales 2",
+      "href": "/games/garden-tales-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_763",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

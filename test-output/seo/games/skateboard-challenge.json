@@ -1,0 +1,54 @@
+{
+  "gameId": 5528,
+  "slug": "skateboard-challenge",
+  "metadata": {
+    "title": "Action Game Skateboard Challenge - Play Free Now",
+    "description": "Experience thrilling action in Skateboard Challenge! This exciting sports game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Skateboard Challenge online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/skateboard-challenge",
+    "openGraph": {
+      "title": "Action Game Skateboard Challenge - Play Free Now",
+      "description": "Experience thrilling action in Skateboard Challenge! This exciting sports game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/skateboard-challenge-og.jpg",
+      "url": "https://littlegames.com/games/skateboard-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Skateboard Challenge - Play Free Now",
+      "description": "Experience thrilling action in Skateboard Challenge! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/skateboard-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Skateboard Challenge",
+      "href": "/games/skateboard-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_374",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

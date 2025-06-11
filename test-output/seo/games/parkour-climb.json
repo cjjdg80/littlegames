@@ -1,0 +1,54 @@
+{
+  "gameId": 2709,
+  "slug": "parkour-climb",
+  "metadata": {
+    "title": "Parkour Climb - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Parkour Climb! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Parkour Climb online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-climb",
+    "openGraph": {
+      "title": "Parkour Climb - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Parkour Climb! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/parkour-climb-og.jpg",
+      "url": "https://littlegames.com/games/parkour-climb",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parkour Climb - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Parkour Climb! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/parkour-climb-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parkour Climb",
+      "href": "/games/parkour-climb",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_985",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

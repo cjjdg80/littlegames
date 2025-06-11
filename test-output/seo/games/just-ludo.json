@@ -1,0 +1,54 @@
+{
+  "gameId": 9720,
+  "slug": "just-ludo",
+  "metadata": {
+    "title": "Free Just Ludo Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Just Ludo. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Just Ludo",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/just-ludo",
+    "openGraph": {
+      "title": "Free Just Ludo Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Just Ludo. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/just-ludo-og.jpg",
+      "url": "https://littlegames.com/games/just-ludo",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Just Ludo Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Just Ludo. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/just-ludo-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Just Ludo",
+      "href": "/games/just-ludo",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_326",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

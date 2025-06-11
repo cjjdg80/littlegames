@@ -1,0 +1,54 @@
+{
+  "gameId": 1881,
+  "slug": "santa-claus-rush",
+  "metadata": {
+    "title": "Santa Claus Rush - Exciting Action Adventure Game",
+    "description": "Santa Claus Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Santa Claus Rush",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/santa-claus-rush",
+    "openGraph": {
+      "title": "Santa Claus Rush - Exciting Action Adventure Game",
+      "description": "Santa Claus Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/santa-claus-rush-og.jpg",
+      "url": "https://littlegames.com/games/santa-claus-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Claus Rush - Exciting Action Adventure Game",
+      "description": "Santa Claus Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/santa-claus-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Santa Claus Rush",
+      "href": "/games/santa-claus-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_317",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

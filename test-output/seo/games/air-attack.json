@@ -1,0 +1,54 @@
+{
+  "gameId": 6695,
+  "slug": "air-attack",
+  "metadata": {
+    "title": "Air attack - Exciting Action Adventure Game",
+    "description": "Join the action in Air attack! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Air attack",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/air-attack",
+    "openGraph": {
+      "title": "Air attack - Exciting Action Adventure Game",
+      "description": "Join the action in Air attack! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/air-attack-og.jpg",
+      "url": "https://littlegames.com/games/air-attack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Air attack - Exciting Action Adventure Game",
+      "description": "Join the action in Air attack! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/air-attack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Air attack",
+      "href": "/games/air-attack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_551",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3461,
+  "slug": "my-shark-show",
+  "metadata": {
+    "title": "My Shark Show Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of My Shark Show. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "My Shark Show game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/my-shark-show",
+    "openGraph": {
+      "title": "My Shark Show Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of My Shark Show. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/my-shark-show-og.jpg",
+      "url": "https://littlegames.com/games/my-shark-show",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Shark Show Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of My Shark Show. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/my-shark-show-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "My Shark Show",
+      "href": "/games/my-shark-show",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_301",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

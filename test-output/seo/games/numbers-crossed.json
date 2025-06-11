@@ -1,0 +1,54 @@
+{
+  "gameId": 4935,
+  "slug": "numbers-crossed",
+  "metadata": {
+    "title": "Puzzle Game Numbers crossed - Test Your Skills",
+    "description": "Put your thinking skills to the test in Numbers crossed. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Numbers crossed online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/numbers-crossed",
+    "openGraph": {
+      "title": "Puzzle Game Numbers crossed - Test Your Skills",
+      "description": "Put your thinking skills to the test in Numbers crossed. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/numbers-crossed-og.jpg",
+      "url": "https://littlegames.com/games/numbers-crossed",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Numbers crossed - Test Your Skills",
+      "description": "Put your thinking skills to the test in Numbers crossed. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/numbers-crossed-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Numbers crossed",
+      "href": "/games/numbers-crossed",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_991",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

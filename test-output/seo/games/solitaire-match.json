@@ -1,0 +1,54 @@
+{
+  "gameId": 7788,
+  "slug": "solitaire-match",
+  "metadata": {
+    "title": "Solitaire Match Online - Ultimate Action Gaming Experience",
+    "description": "Solitaire Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Solitaire Match game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/solitaire-match",
+    "openGraph": {
+      "title": "Solitaire Match Online - Ultimate Action Gaming Experience",
+      "description": "Solitaire Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/solitaire-match-og.jpg",
+      "url": "https://littlegames.com/games/solitaire-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Solitaire Match Online - Ultimate Action Gaming Experience",
+      "description": "Solitaire Match delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/solitaire-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Solitaire Match",
+      "href": "/games/solitaire-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_434",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

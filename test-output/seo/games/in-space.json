@@ -1,0 +1,54 @@
+{
+  "gameId": 6624,
+  "slug": "in-space",
+  "metadata": {
+    "title": "Free In Space Game - Action Packed Fun",
+    "description": "Join the action in In Space! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "In Space game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/in-space",
+    "openGraph": {
+      "title": "Free In Space Game - Action Packed Fun",
+      "description": "Join the action in In Space! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/in-space-og.jpg",
+      "url": "https://littlegames.com/games/in-space",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free In Space Game - Action Packed Fun",
+      "description": "Join the action in In Space! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/in-space-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "In Space",
+      "href": "/games/in-space",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_350",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

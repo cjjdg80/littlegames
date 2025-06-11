@@ -1,0 +1,54 @@
+{
+  "gameId": 3554,
+  "slug": "ball-collector",
+  "metadata": {
+    "title": "Free Ball Collector Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Ball Collector. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Ball Collector",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/ball-collector",
+    "openGraph": {
+      "title": "Free Ball Collector Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Ball Collector. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/ball-collector-og.jpg",
+      "url": "https://littlegames.com/games/ball-collector",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ball Collector Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Ball Collector. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/ball-collector-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ball Collector",
+      "href": "/games/ball-collector",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_180",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

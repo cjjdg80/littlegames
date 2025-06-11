@@ -1,0 +1,54 @@
+{
+  "gameId": 9549,
+  "slug": "bubble-escape",
+  "metadata": {
+    "title": "Bubble Escape - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Bubble Escape. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bubble Escape game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-escape",
+    "openGraph": {
+      "title": "Bubble Escape - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Bubble Escape. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-escape-og.jpg",
+      "url": "https://littlegames.com/games/bubble-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Escape - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Bubble Escape. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bubble Escape",
+      "href": "/games/bubble-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_025",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

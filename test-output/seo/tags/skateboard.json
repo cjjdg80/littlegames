@@ -1,0 +1,46 @@
+{
+  "tag": "skateboard",
+  "displayName": "Skateboard",
+  "metadata": {
+    "title": "Skateboard Games - Play Free Online",
+    "description": "Discover amazing skateboard games! Play 10 free games with skateboard theme. No downloads required.",
+    "keywords": [
+      "skateboard games",
+      "free online games",
+      "browser games",
+      "skateboard theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/skateboard",
+    "openGraph": {
+      "title": "Skateboard Games - Free Online Gaming",
+      "description": "Play the best skateboard games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/skateboard-og.jpg",
+      "url": "https://littlegames.com/tags/skateboard",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Skateboard Games - Free Online",
+      "description": "Play 10 free skateboard games online.",
+      "image": "https://littlegames.com/images/tags/skateboard-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Skateboard",
+      "href": "/tags/skateboard",
+      "current": true
+    }
+  ],
+  "description": "Discover games with skateboard theme! Our collection includes 10 carefully selected games that feature skateboard elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

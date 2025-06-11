@@ -1,0 +1,54 @@
+{
+  "gameId": 8794,
+  "slug": "bullet-heroes",
+  "metadata": {
+    "title": "Free Bullet Heroes Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Bullet Heroes. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Bullet Heroes",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-heroes",
+    "openGraph": {
+      "title": "Free Bullet Heroes Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bullet Heroes. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/bullet-heroes-og.jpg",
+      "url": "https://littlegames.com/games/bullet-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bullet Heroes Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bullet Heroes. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bullet-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bullet Heroes",
+      "href": "/games/bullet-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_620",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4863,
+  "slug": "pop-jewels",
+  "metadata": {
+    "title": "Free Pop Jewels Game - Action Packed Fun",
+    "description": "Join the action in Pop Jewels! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Pop Jewels game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pop-jewels",
+    "openGraph": {
+      "title": "Free Pop Jewels Game - Action Packed Fun",
+      "description": "Join the action in Pop Jewels! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pop-jewels-og.jpg",
+      "url": "https://littlegames.com/games/pop-jewels",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pop Jewels Game - Action Packed Fun",
+      "description": "Join the action in Pop Jewels! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pop-jewels-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pop Jewels",
+      "href": "/games/pop-jewels",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_759",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

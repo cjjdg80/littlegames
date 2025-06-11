@@ -1,0 +1,54 @@
+{
+  "gameId": 1501,
+  "slug": "dragon-simulator-3d",
+  "metadata": {
+    "title": "Dragon Simulator 3D Online - Ultimate Action Gaming...",
+    "description": "Get ready for adrenaline-pumping action in Dragon Simulator 3D. This free online simulation game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Dragon Simulator 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dragon-simulator-3d",
+    "openGraph": {
+      "title": "Dragon Simulator 3D Online - Ultimate Action Gaming...",
+      "description": "Get ready for adrenaline-pumping action in Dragon Simulator 3D. This free online simulation game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/dragon-simulator-3d-og.jpg",
+      "url": "https://littlegames.com/games/dragon-simulator-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dragon Simulator 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Dragon Simulator 3D. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dragon-simulator-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Dragon Simulator 3D",
+      "href": "/games/dragon-simulator-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_541",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

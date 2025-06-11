@@ -1,0 +1,54 @@
+{
+  "gameId": 7983,
+  "slug": "grow-castle-defence",
+  "metadata": {
+    "title": "Free Grow Castle Defence Game - Adventure Awaits",
+    "description": "Grow Castle Defence offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "adventure games",
+      "Grow Castle Defence",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/grow-castle-defence",
+    "openGraph": {
+      "title": "Free Grow Castle Defence Game - Adventure Awaits",
+      "description": "Grow Castle Defence offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/grow-castle-defence-og.jpg",
+      "url": "https://littlegames.com/games/grow-castle-defence",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Grow Castle Defence Game - Adventure Awaits",
+      "description": "Grow Castle Defence offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/grow-castle-defence-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Grow Castle Defence",
+      "href": "/games/grow-castle-defence",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_482",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6569,
+  "slug": "take-apart",
+  "metadata": {
+    "title": "Take Apart Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Take Apart! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Take Apart online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/take-apart",
+    "openGraph": {
+      "title": "Take Apart Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Take Apart! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/take-apart-og.jpg",
+      "url": "https://littlegames.com/games/take-apart",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Take Apart Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Take Apart! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/take-apart-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Take Apart",
+      "href": "/games/take-apart",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_645",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

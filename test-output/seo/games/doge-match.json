@@ -1,0 +1,54 @@
+{
+  "gameId": 8327,
+  "slug": "doge-match",
+  "metadata": {
+    "title": "Action Game Doge Match - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Doge Match. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Doge Match",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/doge-match",
+    "openGraph": {
+      "title": "Action Game Doge Match - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Doge Match. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/doge-match-og.jpg",
+      "url": "https://littlegames.com/games/doge-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Doge Match - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Doge Match. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/doge-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Doge Match",
+      "href": "/games/doge-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_143",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

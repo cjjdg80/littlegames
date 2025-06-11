@@ -1,0 +1,54 @@
+{
+  "gameId": 3486,
+  "slug": "rolling-ball",
+  "metadata": {
+    "title": "Rolling Ball - Exciting Action Adventure Game",
+    "description": "Rolling Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Rolling Ball",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/rolling-ball",
+    "openGraph": {
+      "title": "Rolling Ball - Exciting Action Adventure Game",
+      "description": "Rolling Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rolling-ball-og.jpg",
+      "url": "https://littlegames.com/games/rolling-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rolling Ball - Exciting Action Adventure Game",
+      "description": "Rolling Ball delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rolling-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rolling Ball",
+      "href": "/games/rolling-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_072",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8915,
+  "slug": "snake-king",
+  "metadata": {
+    "title": "Snake King Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Snake King! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Snake King game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/snake-king",
+    "openGraph": {
+      "title": "Snake King Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Snake King! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-king-og.jpg",
+      "url": "https://littlegames.com/games/snake-king",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snake King Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Snake King! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-king-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Snake King",
+      "href": "/games/snake-king",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_371",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

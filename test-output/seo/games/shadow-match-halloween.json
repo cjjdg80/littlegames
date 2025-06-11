@@ -1,0 +1,54 @@
+{
+  "gameId": 3523,
+  "slug": "shadow-match-halloween",
+  "metadata": {
+    "title": "Puzzle Game Shadow Match Halloween - Test Your Skills",
+    "description": "Sharpen your mind with Shadow Match Halloween! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+    "keywords": [
+      "Shadow Match Halloween game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/shadow-match-halloween",
+    "openGraph": {
+      "title": "Puzzle Game Shadow Match Halloween - Test Your Skills",
+      "description": "Sharpen your mind with Shadow Match Halloween! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free...",
+      "image": "https://littlegames.com/images/games/shadow-match-halloween-og.jpg",
+      "url": "https://littlegames.com/games/shadow-match-halloween",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Shadow Match Halloween - Test Your Skills",
+      "description": "Sharpen your mind with Shadow Match Halloween! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/shadow-match-halloween-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Shadow Match Halloween",
+      "href": "/games/shadow-match-halloween",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_219",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

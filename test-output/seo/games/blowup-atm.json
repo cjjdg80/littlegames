@@ -1,0 +1,54 @@
+{
+  "gameId": 9743,
+  "slug": "blowup-atm",
+  "metadata": {
+    "title": "Play BlowUp ATM - Free Action Game Online",
+    "description": "Dive into the action-packed world of BlowUp ATM. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "BlowUp ATM game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/blowup-atm",
+    "openGraph": {
+      "title": "Play BlowUp ATM - Free Action Game Online",
+      "description": "Dive into the action-packed world of BlowUp ATM. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/blowup-atm-og.jpg",
+      "url": "https://littlegames.com/games/blowup-atm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play BlowUp ATM - Free Action Game Online",
+      "description": "Dive into the action-packed world of BlowUp ATM. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/blowup-atm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "BlowUp ATM",
+      "href": "/games/blowup-atm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_039",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

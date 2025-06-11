@@ -1,0 +1,54 @@
+{
+  "gameId": 7064,
+  "slug": "retro-ping-pong",
+  "metadata": {
+    "title": "Play Retro Ping Pong - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Retro Ping Pong. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Retro Ping Pong online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/retro-ping-pong",
+    "openGraph": {
+      "title": "Play Retro Ping Pong - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Retro Ping Pong. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/retro-ping-pong-og.jpg",
+      "url": "https://littlegames.com/games/retro-ping-pong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Retro Ping Pong - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Retro Ping Pong. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/retro-ping-pong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Retro Ping Pong",
+      "href": "/games/retro-ping-pong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_990",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

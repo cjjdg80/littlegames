@@ -1,0 +1,54 @@
+{
+  "gameId": 4277,
+  "slug": "mate-in-one-move",
+  "metadata": {
+    "title": "Mate in One Move - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Mate in One Move. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Mate in One Move online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mate-in-one-move",
+    "openGraph": {
+      "title": "Mate in One Move - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Mate in One Move. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mate-in-one-move-og.jpg",
+      "url": "https://littlegames.com/games/mate-in-one-move",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mate in One Move - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Mate in One Move. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/mate-in-one-move-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mate in One Move",
+      "href": "/games/mate-in-one-move",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_593",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8910,
+  "slug": "stickman-santa",
+  "metadata": {
+    "title": "Free Stickman Santa Game - Adventure Awaits",
+    "description": "Stickman Santa offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Stickman Santa online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-santa",
+    "openGraph": {
+      "title": "Free Stickman Santa Game - Adventure Awaits",
+      "description": "Stickman Santa offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/stickman-santa-og.jpg",
+      "url": "https://littlegames.com/games/stickman-santa",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stickman Santa Game - Adventure Awaits",
+      "description": "Stickman Santa offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/stickman-santa-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stickman Santa",
+      "href": "/games/stickman-santa",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_219",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

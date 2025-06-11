@@ -1,0 +1,54 @@
+{
+  "gameId": 1904,
+  "slug": "turn-me-on",
+  "metadata": {
+    "title": "Play Turn Me On - Free Action Game Online",
+    "description": "Dive into the action-packed world of Turn Me On. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Turn Me On online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/turn-me-on",
+    "openGraph": {
+      "title": "Play Turn Me On - Free Action Game Online",
+      "description": "Dive into the action-packed world of Turn Me On. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/turn-me-on-og.jpg",
+      "url": "https://littlegames.com/games/turn-me-on",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Turn Me On - Free Action Game Online",
+      "description": "Dive into the action-packed world of Turn Me On. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/turn-me-on-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Turn Me On",
+      "href": "/games/turn-me-on",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_030",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

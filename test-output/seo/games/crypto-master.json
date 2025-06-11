@@ -1,0 +1,54 @@
+{
+  "gameId": 4886,
+  "slug": "crypto-master",
+  "metadata": {
+    "title": "Crypto Master! - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Crypto Master!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Crypto Master! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crypto-master",
+    "openGraph": {
+      "title": "Crypto Master! - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Crypto Master!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/crypto-master-og.jpg",
+      "url": "https://littlegames.com/games/crypto-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crypto Master! - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Crypto Master!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/crypto-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crypto Master!",
+      "href": "/games/crypto-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_472",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

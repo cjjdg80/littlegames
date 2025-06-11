@@ -1,0 +1,54 @@
+{
+  "gameId": 1538,
+  "slug": "animal-name",
+  "metadata": {
+    "title": "Action Game Animal Name - Play Free Now",
+    "description": "Experience thrilling action in Animal Name! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Animal Name online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/animal-name",
+    "openGraph": {
+      "title": "Action Game Animal Name - Play Free Now",
+      "description": "Experience thrilling action in Animal Name! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/animal-name-og.jpg",
+      "url": "https://littlegames.com/games/animal-name",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Animal Name - Play Free Now",
+      "description": "Experience thrilling action in Animal Name! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/animal-name-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Animal Name",
+      "href": "/games/animal-name",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_684",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

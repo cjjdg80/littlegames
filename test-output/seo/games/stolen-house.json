@@ -1,0 +1,54 @@
+{
+  "gameId": 7660,
+  "slug": "stolen-house",
+  "metadata": {
+    "title": "Free Stolen House Game - Action Packed Fun",
+    "description": "Join the action in Stolen House! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Stolen House online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stolen-house",
+    "openGraph": {
+      "title": "Free Stolen House Game - Action Packed Fun",
+      "description": "Join the action in Stolen House! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stolen-house-og.jpg",
+      "url": "https://littlegames.com/games/stolen-house",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stolen House Game - Action Packed Fun",
+      "description": "Join the action in Stolen House! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stolen-house-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stolen House",
+      "href": "/games/stolen-house",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_466",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

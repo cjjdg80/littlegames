@@ -1,0 +1,54 @@
+{
+  "gameId": 8339,
+  "slug": "hexa-tile-master",
+  "metadata": {
+    "title": "Play Hexa Tile Master - Free Action Game Online",
+    "description": "Hexa Tile Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Hexa Tile Master game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hexa-tile-master",
+    "openGraph": {
+      "title": "Play Hexa Tile Master - Free Action Game Online",
+      "description": "Hexa Tile Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hexa-tile-master-og.jpg",
+      "url": "https://littlegames.com/games/hexa-tile-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hexa Tile Master - Free Action Game Online",
+      "description": "Hexa Tile Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hexa-tile-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hexa Tile Master",
+      "href": "/games/hexa-tile-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_515",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

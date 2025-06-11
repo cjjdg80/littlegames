@@ -1,0 +1,54 @@
+{
+  "gameId": 4385,
+  "slug": "atomic-puzzle",
+  "metadata": {
+    "title": "Free Atomic Puzzle Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Atomic Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Atomic Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/atomic-puzzle",
+    "openGraph": {
+      "title": "Free Atomic Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Atomic Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/atomic-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/atomic-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Atomic Puzzle Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Atomic Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/atomic-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Atomic Puzzle",
+      "href": "/games/atomic-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_941",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

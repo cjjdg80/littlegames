@@ -1,0 +1,54 @@
+{
+  "gameId": 5987,
+  "slug": "get-my-outfit",
+  "metadata": {
+    "title": "Play Get My Outfit - Free Puzzle Game Online",
+    "description": "Challenge your mind with Get My Outfit! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Get My Outfit",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/get-my-outfit",
+    "openGraph": {
+      "title": "Play Get My Outfit - Free Puzzle Game Online",
+      "description": "Challenge your mind with Get My Outfit! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/get-my-outfit-og.jpg",
+      "url": "https://littlegames.com/games/get-my-outfit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Get My Outfit - Free Puzzle Game Online",
+      "description": "Challenge your mind with Get My Outfit! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/get-my-outfit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Get My Outfit",
+      "href": "/games/get-my-outfit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_603",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

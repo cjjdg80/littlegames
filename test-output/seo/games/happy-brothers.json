@@ -1,0 +1,54 @@
+{
+  "gameId": 9106,
+  "slug": "happy-brothers",
+  "metadata": {
+    "title": "Adventure Game Happy Brothers - Journey Begins",
+    "description": "Discover new worlds in Happy Brothers. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Happy Brothers game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/happy-brothers",
+    "openGraph": {
+      "title": "Adventure Game Happy Brothers - Journey Begins",
+      "description": "Discover new worlds in Happy Brothers. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/happy-brothers-og.jpg",
+      "url": "https://littlegames.com/games/happy-brothers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Happy Brothers - Journey Begins",
+      "description": "Discover new worlds in Happy Brothers. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/happy-brothers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Happy Brothers",
+      "href": "/games/happy-brothers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_295",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

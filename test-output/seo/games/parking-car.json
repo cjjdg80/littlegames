@@ -1,0 +1,54 @@
+{
+  "gameId": 207,
+  "slug": "parking-car",
+  "metadata": {
+    "title": "Puzzle Game Parking Car - Test Your Skills",
+    "description": "Put your thinking skills to the test in Parking Car. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Parking Car",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/parking-car",
+    "openGraph": {
+      "title": "Puzzle Game Parking Car - Test Your Skills",
+      "description": "Put your thinking skills to the test in Parking Car. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/parking-car-og.jpg",
+      "url": "https://littlegames.com/games/parking-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Parking Car - Test Your Skills",
+      "description": "Put your thinking skills to the test in Parking Car. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/parking-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Parking Car",
+      "href": "/games/parking-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_423",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

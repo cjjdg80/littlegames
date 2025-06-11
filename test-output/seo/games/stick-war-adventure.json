@@ -1,0 +1,54 @@
+{
+  "gameId": 4469,
+  "slug": "stick-war-adventure",
+  "metadata": {
+    "title": "Free Stick War Adventure Game - Adventure Awaits",
+    "description": "Begin your quest in Stick War Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Stick War Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/stick-war-adventure",
+    "openGraph": {
+      "title": "Free Stick War Adventure Game - Adventure Awaits",
+      "description": "Begin your quest in Stick War Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stick-war-adventure-og.jpg",
+      "url": "https://littlegames.com/games/stick-war-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stick War Adventure Game - Adventure Awaits",
+      "description": "Begin your quest in Stick War Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stick-war-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stick War Adventure",
+      "href": "/games/stick-war-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_548",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

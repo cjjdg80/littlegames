@@ -1,0 +1,54 @@
+{
+  "gameId": 5782,
+  "slug": "ripple-jump",
+  "metadata": {
+    "title": "Ripple Jump Online - Explore and Discover",
+    "description": "Start your epic journey with Ripple Jump! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Ripple Jump",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/ripple-jump",
+    "openGraph": {
+      "title": "Ripple Jump Online - Explore and Discover",
+      "description": "Start your epic journey with Ripple Jump! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/ripple-jump-og.jpg",
+      "url": "https://littlegames.com/games/ripple-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ripple Jump Online - Explore and Discover",
+      "description": "Start your epic journey with Ripple Jump! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/ripple-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ripple Jump",
+      "href": "/games/ripple-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_251",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

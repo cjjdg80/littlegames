@@ -1,0 +1,54 @@
+{
+  "gameId": 4225,
+  "slug": "virus-crasher",
+  "metadata": {
+    "title": "Action Game Virus Crasher - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Virus Crasher. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Virus Crasher online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/virus-crasher",
+    "openGraph": {
+      "title": "Action Game Virus Crasher - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Virus Crasher. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/virus-crasher-og.jpg",
+      "url": "https://littlegames.com/games/virus-crasher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Virus Crasher - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Virus Crasher. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/virus-crasher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Virus Crasher",
+      "href": "/games/virus-crasher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_981",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

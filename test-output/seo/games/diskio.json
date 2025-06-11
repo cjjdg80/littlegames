@@ -1,0 +1,54 @@
+{
+  "gameId": 952,
+  "slug": "diskio",
+  "metadata": {
+    "title": "Disk.io Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Disk.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Disk.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/diskio",
+    "openGraph": {
+      "title": "Disk.io Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Disk.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/diskio-og.jpg",
+      "url": "https://littlegames.com/games/diskio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Disk.io Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Disk.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/diskio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Disk.io",
+      "href": "/games/diskio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_518",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

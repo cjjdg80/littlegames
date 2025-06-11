@@ -1,0 +1,54 @@
+{
+  "gameId": 6331,
+  "slug": "build-dance-bot",
+  "metadata": {
+    "title": "Build Dance Bot - Exciting Action Adventure Game",
+    "description": "Join the action in Build Dance Bot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Build Dance Bot game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/build-dance-bot",
+    "openGraph": {
+      "title": "Build Dance Bot - Exciting Action Adventure Game",
+      "description": "Join the action in Build Dance Bot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/build-dance-bot-og.jpg",
+      "url": "https://littlegames.com/games/build-dance-bot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Build Dance Bot - Exciting Action Adventure Game",
+      "description": "Join the action in Build Dance Bot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/build-dance-bot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Build Dance Bot",
+      "href": "/games/build-dance-bot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_267",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

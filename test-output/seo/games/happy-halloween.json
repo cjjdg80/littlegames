@@ -1,0 +1,54 @@
+{
+  "gameId": 1829,
+  "slug": "happy-halloween",
+  "metadata": {
+    "title": "Play Happy Halloween - Free Action Game Online",
+    "description": "Dive into the action-packed world of Happy Halloween. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Happy Halloween online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/happy-halloween",
+    "openGraph": {
+      "title": "Play Happy Halloween - Free Action Game Online",
+      "description": "Dive into the action-packed world of Happy Halloween. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/happy-halloween-og.jpg",
+      "url": "https://littlegames.com/games/happy-halloween",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Happy Halloween - Free Action Game Online",
+      "description": "Dive into the action-packed world of Happy Halloween. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/happy-halloween-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Happy Halloween",
+      "href": "/games/happy-halloween",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_705",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

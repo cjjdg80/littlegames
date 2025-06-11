@@ -1,0 +1,54 @@
+{
+  "gameId": 9716,
+  "slug": "deadly-parkour",
+  "metadata": {
+    "title": "Adventure Game Deadly Parkour - Journey Begins",
+    "description": "Discover new worlds in Deadly Parkour. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Deadly Parkour online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/deadly-parkour",
+    "openGraph": {
+      "title": "Adventure Game Deadly Parkour - Journey Begins",
+      "description": "Discover new worlds in Deadly Parkour. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/deadly-parkour-og.jpg",
+      "url": "https://littlegames.com/games/deadly-parkour",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Deadly Parkour - Journey Begins",
+      "description": "Discover new worlds in Deadly Parkour. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/deadly-parkour-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Deadly Parkour",
+      "href": "/games/deadly-parkour",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_205",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

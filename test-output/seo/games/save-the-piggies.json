@@ -1,0 +1,54 @@
+{
+  "gameId": 7796,
+  "slug": "save-the-piggies",
+  "metadata": {
+    "title": "Save The Piggies - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Save The Piggies. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Save The Piggies game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-piggies",
+    "openGraph": {
+      "title": "Save The Piggies - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Save The Piggies. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/save-the-piggies-og.jpg",
+      "url": "https://littlegames.com/games/save-the-piggies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Save The Piggies - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Save The Piggies. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/save-the-piggies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Save The Piggies",
+      "href": "/games/save-the-piggies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_682",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

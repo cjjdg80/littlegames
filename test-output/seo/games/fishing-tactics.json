@@ -1,0 +1,54 @@
+{
+  "gameId": 2586,
+  "slug": "fishing-tactics",
+  "metadata": {
+    "title": "Fishing Tactics Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Fishing Tactics! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Fishing Tactics game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fishing-tactics",
+    "openGraph": {
+      "title": "Fishing Tactics Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Fishing Tactics! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/fishing-tactics-og.jpg",
+      "url": "https://littlegames.com/games/fishing-tactics",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fishing Tactics Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Fishing Tactics! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/fishing-tactics-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fishing Tactics",
+      "href": "/games/fishing-tactics",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_172",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

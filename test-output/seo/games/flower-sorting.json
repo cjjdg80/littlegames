@@ -1,0 +1,54 @@
+{
+  "gameId": 6206,
+  "slug": "flower-sorting",
+  "metadata": {
+    "title": "Play Flower Sorting - Free Puzzle Game Online",
+    "description": "Exercise your brain with Flower Sorting. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Flower Sorting game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/flower-sorting",
+    "openGraph": {
+      "title": "Play Flower Sorting - Free Puzzle Game Online",
+      "description": "Exercise your brain with Flower Sorting. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/flower-sorting-og.jpg",
+      "url": "https://littlegames.com/games/flower-sorting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Flower Sorting - Free Puzzle Game Online",
+      "description": "Exercise your brain with Flower Sorting. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/flower-sorting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Flower Sorting",
+      "href": "/games/flower-sorting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_392",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2963,
+  "slug": "square-pixel-slime",
+  "metadata": {
+    "title": "Square Pixel Slime - Exciting Action Adventure Game",
+    "description": "Square Pixel Slime delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Square Pixel Slime",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/square-pixel-slime",
+    "openGraph": {
+      "title": "Square Pixel Slime - Exciting Action Adventure Game",
+      "description": "Square Pixel Slime delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/square-pixel-slime-og.jpg",
+      "url": "https://littlegames.com/games/square-pixel-slime",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Square Pixel Slime - Exciting Action Adventure Game",
+      "description": "Square Pixel Slime delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/square-pixel-slime-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Square Pixel Slime",
+      "href": "/games/square-pixel-slime",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_859",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

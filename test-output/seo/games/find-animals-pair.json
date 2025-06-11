@@ -1,0 +1,54 @@
+{
+  "gameId": 607,
+  "slug": "find-animals-pair",
+  "metadata": {
+    "title": "Puzzle Game Find Animals Pair - Test Your Skills",
+    "description": "Put your thinking skills to the test in Find Animals Pair. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Find Animals Pair game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/find-animals-pair",
+    "openGraph": {
+      "title": "Puzzle Game Find Animals Pair - Test Your Skills",
+      "description": "Put your thinking skills to the test in Find Animals Pair. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/find-animals-pair-og.jpg",
+      "url": "https://littlegames.com/games/find-animals-pair",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Find Animals Pair - Test Your Skills",
+      "description": "Put your thinking skills to the test in Find Animals Pair. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/find-animals-pair-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Find Animals Pair",
+      "href": "/games/find-animals-pair",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_823",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

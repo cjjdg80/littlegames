@@ -1,0 +1,54 @@
+{
+  "gameId": 6382,
+  "slug": "bubble-queen-cat",
+  "metadata": {
+    "title": "Bubble Queen Cat Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Bubble Queen Cat! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bubble Queen Cat game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-queen-cat",
+    "openGraph": {
+      "title": "Bubble Queen Cat Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bubble Queen Cat! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-queen-cat-og.jpg",
+      "url": "https://littlegames.com/games/bubble-queen-cat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bubble Queen Cat Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Bubble Queen Cat! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bubble-queen-cat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Queen Cat",
+      "href": "/games/bubble-queen-cat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_848",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

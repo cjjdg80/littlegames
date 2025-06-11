@@ -1,0 +1,54 @@
+{
+  "gameId": 7644,
+  "slug": "toilet-rush",
+  "metadata": {
+    "title": "Play Toilet Rush - Free Action Game Online",
+    "description": "Join the action in Toilet Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Toilet Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/toilet-rush",
+    "openGraph": {
+      "title": "Play Toilet Rush - Free Action Game Online",
+      "description": "Join the action in Toilet Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/toilet-rush-og.jpg",
+      "url": "https://littlegames.com/games/toilet-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Toilet Rush - Free Action Game Online",
+      "description": "Join the action in Toilet Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/toilet-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Toilet Rush",
+      "href": "/games/toilet-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_970",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

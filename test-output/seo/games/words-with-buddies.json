@@ -1,0 +1,54 @@
+{
+  "gameId": 5305,
+  "slug": "words-with-buddies",
+  "metadata": {
+    "title": "Play Words With Buddies - Free Action Game Online",
+    "description": "Words With Buddies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Words With Buddies",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/words-with-buddies",
+    "openGraph": {
+      "title": "Play Words With Buddies - Free Action Game Online",
+      "description": "Words With Buddies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/words-with-buddies-og.jpg",
+      "url": "https://littlegames.com/games/words-with-buddies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Words With Buddies - Free Action Game Online",
+      "description": "Words With Buddies delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/words-with-buddies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Words With Buddies",
+      "href": "/games/words-with-buddies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_461",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

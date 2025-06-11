@@ -1,0 +1,54 @@
+{
+  "gameId": 5801,
+  "slug": "meow-meow-life",
+  "metadata": {
+    "title": "Meow Meow Life - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Meow Meow Life! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Meow Meow Life game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/meow-meow-life",
+    "openGraph": {
+      "title": "Meow Meow Life - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Meow Meow Life! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/meow-meow-life-og.jpg",
+      "url": "https://littlegames.com/games/meow-meow-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Meow Meow Life - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Meow Meow Life! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/meow-meow-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Meow Meow Life",
+      "href": "/games/meow-meow-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_841",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3187,
+  "slug": "sports-bike-racing",
+  "metadata": {
+    "title": "Sports Bike Racing Online - Ultimate Action Gaming...",
+    "description": "Sports Bike Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Sports Bike Racing game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sports-bike-racing",
+    "openGraph": {
+      "title": "Sports Bike Racing Online - Ultimate Action Gaming...",
+      "description": "Sports Bike Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sports-bike-racing-og.jpg",
+      "url": "https://littlegames.com/games/sports-bike-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sports Bike Racing Online - Ultimate Action Gaming Experience",
+      "description": "Sports Bike Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sports-bike-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sports Bike Racing",
+      "href": "/games/sports-bike-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_803",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3396,
+  "slug": "disk-area",
+  "metadata": {
+    "title": "Disk Area - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Disk Area. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Disk Area",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/disk-area",
+    "openGraph": {
+      "title": "Disk Area - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Disk Area. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/disk-area-og.jpg",
+      "url": "https://littlegames.com/games/disk-area",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Disk Area - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Disk Area. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/disk-area-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Disk Area",
+      "href": "/games/disk-area",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_282",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

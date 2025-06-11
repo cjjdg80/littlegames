@@ -1,0 +1,54 @@
+{
+  "gameId": 1091,
+  "slug": "fast-ninja",
+  "metadata": {
+    "title": "Fast Ninja Online - Explore and Discover",
+    "description": "Discover new worlds in Fast Ninja. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Fast Ninja",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fast-ninja",
+    "openGraph": {
+      "title": "Fast Ninja Online - Explore and Discover",
+      "description": "Discover new worlds in Fast Ninja. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/fast-ninja-og.jpg",
+      "url": "https://littlegames.com/games/fast-ninja",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fast Ninja Online - Explore and Discover",
+      "description": "Discover new worlds in Fast Ninja. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/fast-ninja-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fast Ninja",
+      "href": "/games/fast-ninja",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_830",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

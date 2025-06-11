@@ -1,0 +1,54 @@
+{
+  "gameId": 8237,
+  "slug": "summer-connect",
+  "metadata": {
+    "title": "Free Summer Connect Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Summer Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Summer Connect online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/summer-connect",
+    "openGraph": {
+      "title": "Free Summer Connect Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Summer Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/summer-connect-og.jpg",
+      "url": "https://littlegames.com/games/summer-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Summer Connect Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Summer Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/summer-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Summer Connect",
+      "href": "/games/summer-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_353",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

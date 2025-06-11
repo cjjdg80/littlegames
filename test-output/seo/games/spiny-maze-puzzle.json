@@ -1,0 +1,54 @@
+{
+  "gameId": 5664,
+  "slug": "spiny-maze-puzzle",
+  "metadata": {
+    "title": "Spiny maze puzzle - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Spiny maze puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Spiny maze puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/spiny-maze-puzzle",
+    "openGraph": {
+      "title": "Spiny maze puzzle - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Spiny maze puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/spiny-maze-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/spiny-maze-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spiny maze puzzle - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Spiny maze puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/spiny-maze-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Spiny maze puzzle",
+      "href": "/games/spiny-maze-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_590",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

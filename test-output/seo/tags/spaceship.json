@@ -1,0 +1,46 @@
+{
+  "tag": "spaceship",
+  "displayName": "Spaceship",
+  "metadata": {
+    "title": "Spaceship Games - Play Free Online",
+    "description": "Discover amazing spaceship games! Play 97 free games with spaceship theme. No downloads required.",
+    "keywords": [
+      "spaceship games",
+      "free online games",
+      "browser games",
+      "spaceship theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/spaceship",
+    "openGraph": {
+      "title": "Spaceship Games - Free Online Gaming",
+      "description": "Play the best spaceship games online for free. 97 games available.",
+      "image": "https://littlegames.com/images/tags/spaceship-og.jpg",
+      "url": "https://littlegames.com/tags/spaceship",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spaceship Games - Free Online",
+      "description": "Play 97 free spaceship games online.",
+      "image": "https://littlegames.com/images/tags/spaceship-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Spaceship",
+      "href": "/tags/spaceship",
+      "current": true
+    }
+  ],
+  "description": "Discover games with spaceship theme! Our collection includes 97 carefully selected games that feature spaceship elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

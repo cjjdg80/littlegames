@@ -1,0 +1,54 @@
+{
+  "gameId": 5676,
+  "slug": "devil-cry",
+  "metadata": {
+    "title": "Devil Cry - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Devil Cry. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Devil Cry",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/devil-cry",
+    "openGraph": {
+      "title": "Devil Cry - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Devil Cry. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/devil-cry-og.jpg",
+      "url": "https://littlegames.com/games/devil-cry",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Devil Cry - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Devil Cry. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/devil-cry-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Devil Cry",
+      "href": "/games/devil-cry",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_962",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

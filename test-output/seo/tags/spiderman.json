@@ -1,0 +1,46 @@
+{
+  "tag": "spiderman",
+  "displayName": "Spiderman",
+  "metadata": {
+    "title": "Spiderman Games - Play Free Online",
+    "description": "Discover amazing spiderman games! Play 11 free games with spiderman theme. No downloads required.",
+    "keywords": [
+      "spiderman games",
+      "free online games",
+      "browser games",
+      "spiderman theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/spiderman",
+    "openGraph": {
+      "title": "Spiderman Games - Free Online Gaming",
+      "description": "Play the best spiderman games online for free. 11 games available.",
+      "image": "https://littlegames.com/images/tags/spiderman-og.jpg",
+      "url": "https://littlegames.com/tags/spiderman",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spiderman Games - Free Online",
+      "description": "Play 11 free spiderman games online.",
+      "image": "https://littlegames.com/images/tags/spiderman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Spiderman",
+      "href": "/tags/spiderman",
+      "current": true
+    }
+  ],
+  "description": "Discover games with spiderman theme! Our collection includes 11 carefully selected games that feature spiderman elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

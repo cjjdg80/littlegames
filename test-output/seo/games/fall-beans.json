@@ -1,0 +1,54 @@
+{
+  "gameId": 2386,
+  "slug": "fall-beans",
+  "metadata": {
+    "title": "Fall Beans Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Fall Beans! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Fall Beans",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/fall-beans",
+    "openGraph": {
+      "title": "Fall Beans Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fall Beans! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fall-beans-og.jpg",
+      "url": "https://littlegames.com/games/fall-beans",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fall Beans Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fall Beans! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fall-beans-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fall Beans",
+      "href": "/games/fall-beans",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_972",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

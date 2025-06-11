@@ -1,0 +1,54 @@
+{
+  "gameId": 2150,
+  "slug": "monster-truck-racing",
+  "metadata": {
+    "title": "Monster Truck Racing - Exciting Action Adventure Game",
+    "description": "Monster Truck Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Monster Truck Racing",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/monster-truck-racing",
+    "openGraph": {
+      "title": "Monster Truck Racing - Exciting Action Adventure Game",
+      "description": "Monster Truck Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/monster-truck-racing-og.jpg",
+      "url": "https://littlegames.com/games/monster-truck-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Truck Racing - Exciting Action Adventure Game",
+      "description": "Monster Truck Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/monster-truck-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Monster Truck Racing",
+      "href": "/games/monster-truck-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_656",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

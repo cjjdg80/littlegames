@@ -1,0 +1,54 @@
+{
+  "gameId": 9920,
+  "slug": "catch-the-goose",
+  "metadata": {
+    "title": "Catch The Goose - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Catch The Goose. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Catch The Goose",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/catch-the-goose",
+    "openGraph": {
+      "title": "Catch The Goose - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Catch The Goose. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/catch-the-goose-og.jpg",
+      "url": "https://littlegames.com/games/catch-the-goose",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Catch The Goose - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Catch The Goose. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/catch-the-goose-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Catch The Goose",
+      "href": "/games/catch-the-goose",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_526",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

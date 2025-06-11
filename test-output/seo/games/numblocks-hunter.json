@@ -1,0 +1,54 @@
+{
+  "gameId": 2570,
+  "slug": "numblocks-hunter",
+  "metadata": {
+    "title": "Puzzle Game Numblocks Hunter - Test Your Skills",
+    "description": "Exercise your brain with Numblocks Hunter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Numblocks Hunter",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/numblocks-hunter",
+    "openGraph": {
+      "title": "Puzzle Game Numblocks Hunter - Test Your Skills",
+      "description": "Exercise your brain with Numblocks Hunter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/numblocks-hunter-og.jpg",
+      "url": "https://littlegames.com/games/numblocks-hunter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Numblocks Hunter - Test Your Skills",
+      "description": "Exercise your brain with Numblocks Hunter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/numblocks-hunter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Numblocks Hunter",
+      "href": "/games/numblocks-hunter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_676",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

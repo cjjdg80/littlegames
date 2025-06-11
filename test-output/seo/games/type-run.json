@@ -1,0 +1,54 @@
+{
+  "gameId": 1620,
+  "slug": "type-run",
+  "metadata": {
+    "title": "Type Run Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Type Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Type Run game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/type-run",
+    "openGraph": {
+      "title": "Type Run Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Type Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/type-run-og.jpg",
+      "url": "https://littlegames.com/games/type-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Type Run Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Type Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/type-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Type Run",
+      "href": "/games/type-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_226",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

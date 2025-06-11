@@ -1,0 +1,54 @@
+{
+  "gameId": 3874,
+  "slug": "minigolf-tour",
+  "metadata": {
+    "title": "Action Game Minigolf Tour - Play Free Now",
+    "description": "Join the action in Minigolf Tour! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Minigolf Tour game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/minigolf-tour",
+    "openGraph": {
+      "title": "Action Game Minigolf Tour - Play Free Now",
+      "description": "Join the action in Minigolf Tour! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/minigolf-tour-og.jpg",
+      "url": "https://littlegames.com/games/minigolf-tour",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Minigolf Tour - Play Free Now",
+      "description": "Join the action in Minigolf Tour! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/minigolf-tour-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Minigolf Tour",
+      "href": "/games/minigolf-tour",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_100",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

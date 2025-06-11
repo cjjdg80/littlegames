@@ -1,0 +1,46 @@
+{
+  "tag": "minigolf",
+  "displayName": "Minigolf",
+  "metadata": {
+    "title": "Minigolf Games - Play Free Online",
+    "description": "Discover amazing minigolf games! Play 19 free games with minigolf theme. No downloads required.",
+    "keywords": [
+      "minigolf games",
+      "free online games",
+      "browser games",
+      "minigolf theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/minigolf",
+    "openGraph": {
+      "title": "Minigolf Games - Free Online Gaming",
+      "description": "Play the best minigolf games online for free. 19 games available.",
+      "image": "https://littlegames.com/images/tags/minigolf-og.jpg",
+      "url": "https://littlegames.com/tags/minigolf",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Minigolf Games - Free Online",
+      "description": "Play 19 free minigolf games online.",
+      "image": "https://littlegames.com/images/tags/minigolf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Minigolf",
+      "href": "/tags/minigolf",
+      "current": true
+    }
+  ],
+  "description": "Discover games with minigolf theme! Our collection includes 19 carefully selected games that feature minigolf elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

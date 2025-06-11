@@ -1,0 +1,54 @@
+{
+  "gameId": 5160,
+  "slug": "help-me-time-travel-adventure",
+  "metadata": {
+    "title": "Adventure Game Help Me: Time Travel Adventure - Journey...",
+    "description": "Help Me: Time Travel Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and...",
+    "keywords": [
+      "Help Me: Time Travel Adventure online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/help-me-time-travel-adventure",
+    "openGraph": {
+      "title": "Adventure Game Help Me: Time Travel Adventure - Journey...",
+      "description": "Help Me: Time Travel Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and...",
+      "image": "https://littlegames.com/images/games/help-me-time-travel-adventure-og.jpg",
+      "url": "https://littlegames.com/games/help-me-time-travel-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Help Me: Time Travel Adventure - Journey Begins",
+      "description": "Help Me: Time Travel Adventure offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/help-me-time-travel-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Help Me: Time Travel Adventure",
+      "href": "/games/help-me-time-travel-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_969",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

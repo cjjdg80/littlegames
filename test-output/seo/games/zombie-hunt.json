@@ -1,0 +1,54 @@
+{
+  "gameId": 4279,
+  "slug": "zombie-hunt",
+  "metadata": {
+    "title": "Zombie Hunt Online - Ultimate Action Gaming Experience",
+    "description": "Zombie Hunt delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Zombie Hunt online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-hunt",
+    "openGraph": {
+      "title": "Zombie Hunt Online - Ultimate Action Gaming Experience",
+      "description": "Zombie Hunt delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zombie-hunt-og.jpg",
+      "url": "https://littlegames.com/games/zombie-hunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombie Hunt Online - Ultimate Action Gaming Experience",
+      "description": "Zombie Hunt delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zombie-hunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Hunt",
+      "href": "/games/zombie-hunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_655",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

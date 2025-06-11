@@ -1,0 +1,54 @@
+{
+  "gameId": 9587,
+  "slug": "arrow-wave",
+  "metadata": {
+    "title": "Play Arrow Wave - Free Action Game Online",
+    "description": "Join the action in Arrow Wave! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Arrow Wave",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/arrow-wave",
+    "openGraph": {
+      "title": "Play Arrow Wave - Free Action Game Online",
+      "description": "Join the action in Arrow Wave! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/arrow-wave-og.jpg",
+      "url": "https://littlegames.com/games/arrow-wave",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Arrow Wave - Free Action Game Online",
+      "description": "Join the action in Arrow Wave! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/arrow-wave-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Arrow Wave",
+      "href": "/games/arrow-wave",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_203",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

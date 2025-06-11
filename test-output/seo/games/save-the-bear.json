@@ -1,0 +1,54 @@
+{
+  "gameId": 3503,
+  "slug": "save-the-bear",
+  "metadata": {
+    "title": "Play Save The Bear - Free Action Game Online",
+    "description": "Save The Bear delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Save The Bear online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-bear",
+    "openGraph": {
+      "title": "Play Save The Bear - Free Action Game Online",
+      "description": "Save The Bear delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/save-the-bear-og.jpg",
+      "url": "https://littlegames.com/games/save-the-bear",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Save The Bear - Free Action Game Online",
+      "description": "Save The Bear delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/save-the-bear-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save The Bear",
+      "href": "/games/save-the-bear",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_599",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

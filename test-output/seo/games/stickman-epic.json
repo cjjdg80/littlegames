@@ -1,0 +1,54 @@
+{
+  "gameId": 7523,
+  "slug": "stickman-epic",
+  "metadata": {
+    "title": "Play Stickman Epic - Epic Adventure Game Online",
+    "description": "Begin your quest in Stickman Epic. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Stickman Epic game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-epic",
+    "openGraph": {
+      "title": "Play Stickman Epic - Epic Adventure Game Online",
+      "description": "Begin your quest in Stickman Epic. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stickman-epic-og.jpg",
+      "url": "https://littlegames.com/games/stickman-epic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Stickman Epic - Epic Adventure Game Online",
+      "description": "Begin your quest in Stickman Epic. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stickman-epic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stickman Epic",
+      "href": "/games/stickman-epic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_222",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

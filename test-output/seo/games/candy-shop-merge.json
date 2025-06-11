@@ -1,0 +1,54 @@
+{
+  "gameId": 7404,
+  "slug": "candy-shop-merge",
+  "metadata": {
+    "title": "Play Candy Shop Merge - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Candy Shop Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Candy Shop Merge",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/candy-shop-merge",
+    "openGraph": {
+      "title": "Play Candy Shop Merge - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Candy Shop Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/candy-shop-merge-og.jpg",
+      "url": "https://littlegames.com/games/candy-shop-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Candy Shop Merge - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Candy Shop Merge. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/candy-shop-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Candy Shop Merge",
+      "href": "/games/candy-shop-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_530",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

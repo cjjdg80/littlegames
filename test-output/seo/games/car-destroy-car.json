@@ -1,0 +1,54 @@
+{
+  "gameId": 2516,
+  "slug": "car-destroy-car",
+  "metadata": {
+    "title": "Car Destroy Car - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Car Destroy Car! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Car Destroy Car online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/car-destroy-car",
+    "openGraph": {
+      "title": "Car Destroy Car - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Car Destroy Car! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/car-destroy-car-og.jpg",
+      "url": "https://littlegames.com/games/car-destroy-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Car Destroy Car - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Car Destroy Car! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/car-destroy-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Car Destroy Car",
+      "href": "/games/car-destroy-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_005",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

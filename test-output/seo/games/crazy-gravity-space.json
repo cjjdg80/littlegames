@@ -1,0 +1,54 @@
+{
+  "gameId": 1911,
+  "slug": "crazy-gravity-space",
+  "metadata": {
+    "title": "Crazy Gravity Space - Thrilling Adventure Quest",
+    "description": "Crazy Gravity Space offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "play Crazy Gravity Space",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-gravity-space",
+    "openGraph": {
+      "title": "Crazy Gravity Space - Thrilling Adventure Quest",
+      "description": "Crazy Gravity Space offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/crazy-gravity-space-og.jpg",
+      "url": "https://littlegames.com/games/crazy-gravity-space",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crazy Gravity Space - Thrilling Adventure Quest",
+      "description": "Crazy Gravity Space offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/crazy-gravity-space-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Crazy Gravity Space",
+      "href": "/games/crazy-gravity-space",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_250",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

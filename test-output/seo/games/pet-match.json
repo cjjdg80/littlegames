@@ -1,0 +1,54 @@
+{
+  "gameId": 4714,
+  "slug": "pet-match",
+  "metadata": {
+    "title": "Free Pet Match Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Pet Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Pet Match",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/pet-match",
+    "openGraph": {
+      "title": "Free Pet Match Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Pet Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pet-match-og.jpg",
+      "url": "https://littlegames.com/games/pet-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pet Match Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Pet Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pet-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pet Match",
+      "href": "/games/pet-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_140",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

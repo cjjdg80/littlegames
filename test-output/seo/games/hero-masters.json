@@ -1,0 +1,54 @@
+{
+  "gameId": 4558,
+  "slug": "hero-masters",
+  "metadata": {
+    "title": "Hero Masters - Exciting Action Adventure Game",
+    "description": "Hero Masters delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Hero Masters online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hero-masters",
+    "openGraph": {
+      "title": "Hero Masters - Exciting Action Adventure Game",
+      "description": "Hero Masters delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hero-masters-og.jpg",
+      "url": "https://littlegames.com/games/hero-masters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hero Masters - Exciting Action Adventure Game",
+      "description": "Hero Masters delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hero-masters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hero Masters",
+      "href": "/games/hero-masters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_304",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

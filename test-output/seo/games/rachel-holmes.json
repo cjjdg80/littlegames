@@ -1,0 +1,54 @@
+{
+  "gameId": 2800,
+  "slug": "rachel-holmes",
+  "metadata": {
+    "title": "Adventure Game Rachel Holmes - Journey Begins",
+    "description": "Rachel Holmes offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Rachel Holmes game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/rachel-holmes",
+    "openGraph": {
+      "title": "Adventure Game Rachel Holmes - Journey Begins",
+      "description": "Rachel Holmes offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/rachel-holmes-og.jpg",
+      "url": "https://littlegames.com/games/rachel-holmes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Rachel Holmes - Journey Begins",
+      "description": "Rachel Holmes offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/rachel-holmes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rachel Holmes",
+      "href": "/games/rachel-holmes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_809",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

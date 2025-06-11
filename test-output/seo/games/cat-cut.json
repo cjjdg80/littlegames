@@ -1,0 +1,54 @@
+{
+  "gameId": 8532,
+  "slug": "cat-cut",
+  "metadata": {
+    "title": "Cat Cut Online - Ultimate Action Gaming Experience",
+    "description": "Cat Cut delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Cat Cut",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cat-cut",
+    "openGraph": {
+      "title": "Cat Cut Online - Ultimate Action Gaming Experience",
+      "description": "Cat Cut delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cat-cut-og.jpg",
+      "url": "https://littlegames.com/games/cat-cut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cat Cut Online - Ultimate Action Gaming Experience",
+      "description": "Cat Cut delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cat-cut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cat Cut",
+      "href": "/games/cat-cut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_498",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

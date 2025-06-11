@@ -1,0 +1,54 @@
+{
+  "gameId": 3228,
+  "slug": "i-love-hue",
+  "metadata": {
+    "title": "Free I love Hue Game - Action Packed Fun",
+    "description": "I love Hue delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "I love Hue",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/i-love-hue",
+    "openGraph": {
+      "title": "Free I love Hue Game - Action Packed Fun",
+      "description": "I love Hue delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/i-love-hue-og.jpg",
+      "url": "https://littlegames.com/games/i-love-hue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free I love Hue Game - Action Packed Fun",
+      "description": "I love Hue delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/i-love-hue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "I love Hue",
+      "href": "/games/i-love-hue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_074",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

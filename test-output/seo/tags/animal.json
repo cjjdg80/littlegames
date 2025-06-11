@@ -1,0 +1,46 @@
+{
+  "tag": "animal",
+  "displayName": "Animal",
+  "metadata": {
+    "title": "Animal Games - Play Free Online",
+    "description": "Discover amazing animal games! Play 450 free games with animal theme. No downloads required.",
+    "keywords": [
+      "animal games",
+      "free online games",
+      "browser games",
+      "animal theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/animal",
+    "openGraph": {
+      "title": "Animal Games - Free Online Gaming",
+      "description": "Play the best animal games online for free. 450 games available.",
+      "image": "https://littlegames.com/images/tags/animal-og.jpg",
+      "url": "https://littlegames.com/tags/animal",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animal Games - Free Online",
+      "description": "Play 450 free animal games online.",
+      "image": "https://littlegames.com/images/tags/animal-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Animal",
+      "href": "/tags/animal",
+      "current": true
+    }
+  ],
+  "description": "Discover games with animal theme! Our collection includes 450 carefully selected games that feature animal elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

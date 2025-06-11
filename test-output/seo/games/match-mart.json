@@ -1,0 +1,54 @@
+{
+  "gameId": 7262,
+  "slug": "match-mart",
+  "metadata": {
+    "title": "Match Mart - Brain Training Puzzle Challenge",
+    "description": "Match Mart offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Match Mart game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/match-mart",
+    "openGraph": {
+      "title": "Match Mart - Brain Training Puzzle Challenge",
+      "description": "Match Mart offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/match-mart-og.jpg",
+      "url": "https://littlegames.com/games/match-mart",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Match Mart - Brain Training Puzzle Challenge",
+      "description": "Match Mart offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/match-mart-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Match Mart",
+      "href": "/games/match-mart",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_128",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

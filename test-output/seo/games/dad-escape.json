@@ -1,0 +1,54 @@
+{
+  "gameId": 7380,
+  "slug": "dad-escape",
+  "metadata": {
+    "title": "Puzzle Game Dad Escape - Test Your Skills",
+    "description": "Challenge your mind with Dad Escape! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Dad Escape",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/dad-escape",
+    "openGraph": {
+      "title": "Puzzle Game Dad Escape - Test Your Skills",
+      "description": "Challenge your mind with Dad Escape! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/dad-escape-og.jpg",
+      "url": "https://littlegames.com/games/dad-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Dad Escape - Test Your Skills",
+      "description": "Challenge your mind with Dad Escape! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/dad-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dad Escape",
+      "href": "/games/dad-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_786",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

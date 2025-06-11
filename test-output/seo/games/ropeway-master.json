@@ -1,0 +1,54 @@
+{
+  "gameId": 8101,
+  "slug": "ropeway-master",
+  "metadata": {
+    "title": "Play Ropeway Master - Free Puzzle Game Online",
+    "description": "Exercise your brain with Ropeway Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Ropeway Master online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/ropeway-master",
+    "openGraph": {
+      "title": "Play Ropeway Master - Free Puzzle Game Online",
+      "description": "Exercise your brain with Ropeway Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/ropeway-master-og.jpg",
+      "url": "https://littlegames.com/games/ropeway-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ropeway Master - Free Puzzle Game Online",
+      "description": "Exercise your brain with Ropeway Master. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/ropeway-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ropeway Master",
+      "href": "/games/ropeway-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_137",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

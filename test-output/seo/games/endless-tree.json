@@ -1,0 +1,54 @@
+{
+  "gameId": 2873,
+  "slug": "endless-tree",
+  "metadata": {
+    "title": "Endless Tree - Exciting Action Adventure Game",
+    "description": "Endless Tree delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Endless Tree",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/endless-tree",
+    "openGraph": {
+      "title": "Endless Tree - Exciting Action Adventure Game",
+      "description": "Endless Tree delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/endless-tree-og.jpg",
+      "url": "https://littlegames.com/games/endless-tree",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Endless Tree - Exciting Action Adventure Game",
+      "description": "Endless Tree delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/endless-tree-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Endless Tree",
+      "href": "/games/endless-tree",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_069",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

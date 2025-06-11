@@ -1,0 +1,54 @@
+{
+  "gameId": 6761,
+  "slug": "jelly-merger",
+  "metadata": {
+    "title": "Free Jelly Merger Game - Action Packed Fun",
+    "description": "Jelly Merger delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Jelly Merger",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-merger",
+    "openGraph": {
+      "title": "Free Jelly Merger Game - Action Packed Fun",
+      "description": "Jelly Merger delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jelly-merger-og.jpg",
+      "url": "https://littlegames.com/games/jelly-merger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jelly Merger Game - Action Packed Fun",
+      "description": "Jelly Merger delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jelly-merger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jelly Merger",
+      "href": "/games/jelly-merger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_597",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

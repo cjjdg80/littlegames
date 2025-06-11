@@ -1,0 +1,54 @@
+{
+  "gameId": 6145,
+  "slug": "slice-it-all",
+  "metadata": {
+    "title": "Slice it All Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Slice it All. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Slice it All online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/slice-it-all",
+    "openGraph": {
+      "title": "Slice it All Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Slice it All. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/slice-it-all-og.jpg",
+      "url": "https://littlegames.com/games/slice-it-all",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slice it All Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Slice it All. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/slice-it-all-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Slice it All",
+      "href": "/games/slice-it-all",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_501",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

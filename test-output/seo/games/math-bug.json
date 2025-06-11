@@ -1,0 +1,54 @@
+{
+  "gameId": 1598,
+  "slug": "math-bug",
+  "metadata": {
+    "title": "Play Math Bug - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Math Bug. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Math Bug",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/math-bug",
+    "openGraph": {
+      "title": "Play Math Bug - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Math Bug. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/math-bug-og.jpg",
+      "url": "https://littlegames.com/games/math-bug",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Math Bug - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Math Bug. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/math-bug-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Math Bug",
+      "href": "/games/math-bug",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_544",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

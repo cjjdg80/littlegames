@@ -1,0 +1,54 @@
+{
+  "gameId": 5730,
+  "slug": "siberian-strike",
+  "metadata": {
+    "title": "Free Siberian Strike Game - Action Packed Fun",
+    "description": "Join the action in Siberian Strike! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Siberian Strike online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/siberian-strike",
+    "openGraph": {
+      "title": "Free Siberian Strike Game - Action Packed Fun",
+      "description": "Join the action in Siberian Strike! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/siberian-strike-og.jpg",
+      "url": "https://littlegames.com/games/siberian-strike",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Siberian Strike Game - Action Packed Fun",
+      "description": "Join the action in Siberian Strike! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/siberian-strike-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Siberian Strike",
+      "href": "/games/siberian-strike",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_636",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

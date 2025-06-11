@@ -1,0 +1,54 @@
+{
+  "gameId": 50,
+  "slug": "draw-dunk",
+  "metadata": {
+    "title": "Play Draw Dunk - Free Action Game Online",
+    "description": "Dive into the action-packed world of Draw Dunk. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Draw Dunk",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-dunk",
+    "openGraph": {
+      "title": "Play Draw Dunk - Free Action Game Online",
+      "description": "Dive into the action-packed world of Draw Dunk. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/draw-dunk-og.jpg",
+      "url": "https://littlegames.com/games/draw-dunk",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Draw Dunk - Free Action Game Online",
+      "description": "Dive into the action-packed world of Draw Dunk. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/draw-dunk-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw Dunk",
+      "href": "/games/draw-dunk",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_556",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

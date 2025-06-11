@@ -1,0 +1,54 @@
+{
+  "gameId": 3017,
+  "slug": "jumping-joe",
+  "metadata": {
+    "title": "Jumping Joe Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Jumping Joe. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Jumping Joe",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jumping-joe",
+    "openGraph": {
+      "title": "Jumping Joe Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Jumping Joe. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jumping-joe-og.jpg",
+      "url": "https://littlegames.com/games/jumping-joe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jumping Joe Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Jumping Joe. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jumping-joe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jumping Joe",
+      "href": "/games/jumping-joe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_533",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

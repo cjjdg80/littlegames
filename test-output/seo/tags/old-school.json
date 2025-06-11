@@ -1,0 +1,48 @@
+{
+  "tag": "old-school",
+  "displayName": "Old School",
+  "metadata": {
+    "title": "Old School Games - Play Free Online",
+    "description": "Discover amazing old school games! Play 33 free games with old school theme. No downloads required.",
+    "keywords": [
+      "old school games",
+      "free online games",
+      "browser games",
+      "old school theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/old-school",
+    "openGraph": {
+      "title": "Old School Games - Free Online Gaming",
+      "description": "Play the best old school games online for free. 33 games available.",
+      "image": "https://littlegames.com/images/tags/old-school-og.jpg",
+      "url": "https://littlegames.com/tags/old-school",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Old School Games - Free Online",
+      "description": "Play 33 free old school games online.",
+      "image": "https://littlegames.com/images/tags/old-school-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Old School",
+      "href": "/tags/old-school",
+      "current": true
+    }
+  ],
+  "description": "Discover games with old school theme! Our collection includes 33 carefully selected games that feature old school elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": [
+    "school"
+  ]
+}

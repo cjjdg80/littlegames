@@ -1,0 +1,54 @@
+{
+  "gameId": 7306,
+  "slug": "daily-crossword",
+  "metadata": {
+    "title": "Daily Crossword - Brain Training Puzzle Challenge",
+    "description": "Daily Crossword offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Daily Crossword online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/daily-crossword",
+    "openGraph": {
+      "title": "Daily Crossword - Brain Training Puzzle Challenge",
+      "description": "Daily Crossword offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/daily-crossword-og.jpg",
+      "url": "https://littlegames.com/games/daily-crossword",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Daily Crossword - Brain Training Puzzle Challenge",
+      "description": "Daily Crossword offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/daily-crossword-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Daily Crossword",
+      "href": "/games/daily-crossword",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_492",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

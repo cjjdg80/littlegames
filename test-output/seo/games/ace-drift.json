@@ -1,0 +1,54 @@
+{
+  "gameId": 2284,
+  "slug": "ace-drift",
+  "metadata": {
+    "title": "Action Game Ace Drift - Play Free Now",
+    "description": "Dive into the action-packed world of Ace Drift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Ace Drift",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ace-drift",
+    "openGraph": {
+      "title": "Action Game Ace Drift - Play Free Now",
+      "description": "Dive into the action-packed world of Ace Drift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ace-drift-og.jpg",
+      "url": "https://littlegames.com/games/ace-drift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ace Drift - Play Free Now",
+      "description": "Dive into the action-packed world of Ace Drift. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ace-drift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ace Drift",
+      "href": "/games/ace-drift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_810",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

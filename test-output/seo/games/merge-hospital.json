@@ -1,0 +1,54 @@
+{
+  "gameId": 9151,
+  "slug": "merge-hospital",
+  "metadata": {
+    "title": "Free Merge Hospital Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Merge Hospital. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Merge Hospital",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-hospital",
+    "openGraph": {
+      "title": "Free Merge Hospital Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Merge Hospital. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/merge-hospital-og.jpg",
+      "url": "https://littlegames.com/games/merge-hospital",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge Hospital Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Merge Hospital. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/merge-hospital-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Hospital",
+      "href": "/games/merge-hospital",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_687",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2583,
+  "slug": "draw-knife",
+  "metadata": {
+    "title": "Play Draw Knife - Free Action Game Online",
+    "description": "Draw Knife delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Draw Knife online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/draw-knife",
+    "openGraph": {
+      "title": "Play Draw Knife - Free Action Game Online",
+      "description": "Draw Knife delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/draw-knife-og.jpg",
+      "url": "https://littlegames.com/games/draw-knife",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Draw Knife - Free Action Game Online",
+      "description": "Draw Knife delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/draw-knife-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw Knife",
+      "href": "/games/draw-knife",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_079",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8465,
+  "slug": "2048-number-match",
+  "metadata": {
+    "title": "2048 Number Match Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with 2048 Number Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "2048 Number Match game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/2048-number-match",
+    "openGraph": {
+      "title": "2048 Number Match Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with 2048 Number Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/2048-number-match-og.jpg",
+      "url": "https://littlegames.com/games/2048-number-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2048 Number Match Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with 2048 Number Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/2048-number-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "2048 Number Match",
+      "href": "/games/2048-number-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_421",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

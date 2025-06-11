@@ -1,0 +1,54 @@
+{
+  "gameId": 5877,
+  "slug": "words-in-ladder",
+  "metadata": {
+    "title": "Puzzle Game Words in Ladder - Test Your Skills",
+    "description": "Sharpen your mind with Words in Ladder! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Words in Ladder game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/words-in-ladder",
+    "openGraph": {
+      "title": "Puzzle Game Words in Ladder - Test Your Skills",
+      "description": "Sharpen your mind with Words in Ladder! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/words-in-ladder-og.jpg",
+      "url": "https://littlegames.com/games/words-in-ladder",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Words in Ladder - Test Your Skills",
+      "description": "Sharpen your mind with Words in Ladder! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/words-in-ladder-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Words in Ladder",
+      "href": "/games/words-in-ladder",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_193",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

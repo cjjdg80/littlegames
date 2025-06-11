@@ -1,0 +1,54 @@
+{
+  "gameId": 4403,
+  "slug": "steam-rocket",
+  "metadata": {
+    "title": "Steam Rocket - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Steam Rocket. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Steam Rocket",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/steam-rocket",
+    "openGraph": {
+      "title": "Steam Rocket - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Steam Rocket. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/steam-rocket-og.jpg",
+      "url": "https://littlegames.com/games/steam-rocket",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Steam Rocket - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Steam Rocket. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/steam-rocket-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Steam Rocket",
+      "href": "/games/steam-rocket",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_499",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 408,
+  "slug": "wooden-puzzles",
+  "metadata": {
+    "title": "Wooden Puzzles Online - Logic and Strategy Game",
+    "description": "Wooden Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Wooden Puzzles online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/wooden-puzzles",
+    "openGraph": {
+      "title": "Wooden Puzzles Online - Logic and Strategy Game",
+      "description": "Wooden Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/wooden-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/wooden-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wooden Puzzles Online - Logic and Strategy Game",
+      "description": "Wooden Puzzles offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/wooden-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Wooden Puzzles",
+      "href": "/games/wooden-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_654",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

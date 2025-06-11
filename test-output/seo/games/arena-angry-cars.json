@@ -1,0 +1,54 @@
+{
+  "gameId": 6123,
+  "slug": "arena-angry-cars",
+  "metadata": {
+    "title": "Action Game Arena Angry Cars - Play Free Now",
+    "description": "Dive into the action-packed world of Arena Angry Cars. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Arena Angry Cars",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/arena-angry-cars",
+    "openGraph": {
+      "title": "Action Game Arena Angry Cars - Play Free Now",
+      "description": "Dive into the action-packed world of Arena Angry Cars. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/arena-angry-cars-og.jpg",
+      "url": "https://littlegames.com/games/arena-angry-cars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Arena Angry Cars - Play Free Now",
+      "description": "Dive into the action-packed world of Arena Angry Cars. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/arena-angry-cars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Arena Angry Cars",
+      "href": "/games/arena-angry-cars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_819",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

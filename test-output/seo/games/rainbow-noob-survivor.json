@@ -1,0 +1,54 @@
+{
+  "gameId": 6297,
+  "slug": "rainbow-noob-survivor",
+  "metadata": {
+    "title": "Rainbow Noob Survivor Online - Explore and Discover",
+    "description": "Start your epic journey with Rainbow Noob Survivor! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Rainbow Noob Survivor online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/rainbow-noob-survivor",
+    "openGraph": {
+      "title": "Rainbow Noob Survivor Online - Explore and Discover",
+      "description": "Start your epic journey with Rainbow Noob Survivor! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rainbow-noob-survivor-og.jpg",
+      "url": "https://littlegames.com/games/rainbow-noob-survivor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rainbow Noob Survivor Online - Explore and Discover",
+      "description": "Start your epic journey with Rainbow Noob Survivor! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/rainbow-noob-survivor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rainbow Noob Survivor",
+      "href": "/games/rainbow-noob-survivor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_216",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

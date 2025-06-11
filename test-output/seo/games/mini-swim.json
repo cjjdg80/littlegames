@@ -1,0 +1,54 @@
+{
+  "gameId": 6239,
+  "slug": "mini-swim",
+  "metadata": {
+    "title": "Mini Swim - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Mini Swim. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Mini Swim online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mini-swim",
+    "openGraph": {
+      "title": "Mini Swim - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mini Swim. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mini-swim-og.jpg",
+      "url": "https://littlegames.com/games/mini-swim",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mini Swim - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mini Swim. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mini-swim-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mini Swim",
+      "href": "/games/mini-swim",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_415",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

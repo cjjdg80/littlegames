@@ -1,0 +1,54 @@
+{
+  "gameId": 2258,
+  "slug": "break-the-candies",
+  "metadata": {
+    "title": "Break The Candies - Exciting Action Adventure Game",
+    "description": "Break The Candies delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Break The Candies",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/break-the-candies",
+    "openGraph": {
+      "title": "Break The Candies - Exciting Action Adventure Game",
+      "description": "Break The Candies delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/break-the-candies-og.jpg",
+      "url": "https://littlegames.com/games/break-the-candies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Break The Candies - Exciting Action Adventure Game",
+      "description": "Break The Candies delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/break-the-candies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Break The Candies",
+      "href": "/games/break-the-candies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_004",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

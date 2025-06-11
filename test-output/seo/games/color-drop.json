@@ -1,0 +1,54 @@
+{
+  "gameId": 4258,
+  "slug": "color-drop",
+  "metadata": {
+    "title": "Color Drop Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Color Drop! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Color Drop",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/color-drop",
+    "openGraph": {
+      "title": "Color Drop Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Color Drop! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-drop-og.jpg",
+      "url": "https://littlegames.com/games/color-drop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Drop Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Color Drop! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-drop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Color Drop",
+      "href": "/games/color-drop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_004",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1137,
+  "slug": "crazy-rocket",
+  "metadata": {
+    "title": "Free Crazy Rocket Game - Action Packed Fun",
+    "description": "Join the action in Crazy Rocket! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Crazy Rocket game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-rocket",
+    "openGraph": {
+      "title": "Free Crazy Rocket Game - Action Packed Fun",
+      "description": "Join the action in Crazy Rocket! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/crazy-rocket-og.jpg",
+      "url": "https://littlegames.com/games/crazy-rocket",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Crazy Rocket Game - Action Packed Fun",
+      "description": "Join the action in Crazy Rocket! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/crazy-rocket-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crazy Rocket",
+      "href": "/games/crazy-rocket",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_253",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

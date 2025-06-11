@@ -1,0 +1,54 @@
+{
+  "gameId": 4952,
+  "slug": "sticka-stacka",
+  "metadata": {
+    "title": "Sticka Stacka Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Sticka Stacka. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Sticka Stacka",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sticka-stacka",
+    "openGraph": {
+      "title": "Sticka Stacka Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Sticka Stacka. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/sticka-stacka-og.jpg",
+      "url": "https://littlegames.com/games/sticka-stacka",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sticka Stacka Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Sticka Stacka. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/sticka-stacka-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sticka Stacka",
+      "href": "/games/sticka-stacka",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_518",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

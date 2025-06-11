@@ -1,0 +1,54 @@
+{
+  "gameId": 3141,
+  "slug": "aqua-blocks",
+  "metadata": {
+    "title": "Play Aqua Blocks - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Aqua Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Aqua Blocks",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/aqua-blocks",
+    "openGraph": {
+      "title": "Play Aqua Blocks - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Aqua Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/aqua-blocks-og.jpg",
+      "url": "https://littlegames.com/games/aqua-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Aqua Blocks - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Aqua Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/aqua-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Aqua Blocks",
+      "href": "/games/aqua-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_377",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

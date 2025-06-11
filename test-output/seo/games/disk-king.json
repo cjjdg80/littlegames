@@ -1,0 +1,54 @@
+{
+  "gameId": 591,
+  "slug": "disk-king",
+  "metadata": {
+    "title": "Free Disk King Game - Action Packed Fun",
+    "description": "Experience thrilling action in Disk King! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Disk King",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/disk-king",
+    "openGraph": {
+      "title": "Free Disk King Game - Action Packed Fun",
+      "description": "Experience thrilling action in Disk King! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/disk-king-og.jpg",
+      "url": "https://littlegames.com/games/disk-king",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Disk King Game - Action Packed Fun",
+      "description": "Experience thrilling action in Disk King! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/disk-king-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Disk King",
+      "href": "/games/disk-king",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_327",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

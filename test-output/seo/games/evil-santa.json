@@ -1,0 +1,54 @@
+{
+  "gameId": 2078,
+  "slug": "evil-santa",
+  "metadata": {
+    "title": "Free Evil Santa Game - Action Packed Fun",
+    "description": "Join the action in Evil Santa! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Evil Santa game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/evil-santa",
+    "openGraph": {
+      "title": "Free Evil Santa Game - Action Packed Fun",
+      "description": "Join the action in Evil Santa! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/evil-santa-og.jpg",
+      "url": "https://littlegames.com/games/evil-santa",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Evil Santa Game - Action Packed Fun",
+      "description": "Join the action in Evil Santa! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/evil-santa-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Evil Santa",
+      "href": "/games/evil-santa",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_424",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

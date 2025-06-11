@@ -1,0 +1,54 @@
+{
+  "gameId": 4167,
+  "slug": "gravity",
+  "metadata": {
+    "title": "Free GRAVITY Game - Action Packed Fun",
+    "description": "Experience thrilling action in GRAVITY! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "GRAVITY game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/gravity",
+    "openGraph": {
+      "title": "Free GRAVITY Game - Action Packed Fun",
+      "description": "Experience thrilling action in GRAVITY! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/gravity-og.jpg",
+      "url": "https://littlegames.com/games/gravity",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free GRAVITY Game - Action Packed Fun",
+      "description": "Experience thrilling action in GRAVITY! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/gravity-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "GRAVITY",
+      "href": "/games/gravity",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_183",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

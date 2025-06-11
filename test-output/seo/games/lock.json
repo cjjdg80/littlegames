@@ -1,0 +1,54 @@
+{
+  "gameId": 2968,
+  "slug": "lock",
+  "metadata": {
+    "title": "Play Lock - Free Puzzle Game Online",
+    "description": "Sharpen your mind with Lock! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Lock",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/lock",
+    "openGraph": {
+      "title": "Play Lock - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Lock! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/lock-og.jpg",
+      "url": "https://littlegames.com/games/lock",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Lock - Free Puzzle Game Online",
+      "description": "Sharpen your mind with Lock! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/lock-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Lock",
+      "href": "/games/lock",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_014",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9194,
+  "slug": "mega-ramp-car",
+  "metadata": {
+    "title": "Mega Ramp Car - Exciting Action Adventure Game",
+    "description": "Mega Ramp Car delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mega Ramp Car online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mega-ramp-car",
+    "openGraph": {
+      "title": "Mega Ramp Car - Exciting Action Adventure Game",
+      "description": "Mega Ramp Car delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mega-ramp-car-og.jpg",
+      "url": "https://littlegames.com/games/mega-ramp-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mega Ramp Car - Exciting Action Adventure Game",
+      "description": "Mega Ramp Car delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mega-ramp-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mega Ramp Car",
+      "href": "/games/mega-ramp-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_020",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2759,
+  "slug": "chess-mania",
+  "metadata": {
+    "title": "Free Chess Mania Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Chess Mania. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Chess Mania",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/chess-mania",
+    "openGraph": {
+      "title": "Free Chess Mania Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Chess Mania. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/chess-mania-og.jpg",
+      "url": "https://littlegames.com/games/chess-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Chess Mania Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Chess Mania. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/chess-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chess Mania",
+      "href": "/games/chess-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_535",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

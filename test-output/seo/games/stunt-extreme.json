@@ -1,0 +1,54 @@
+{
+  "gameId": 3715,
+  "slug": "stunt-extreme",
+  "metadata": {
+    "title": "Stunt Extreme Online - Explore and Discover",
+    "description": "Begin your quest in Stunt Extreme. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Stunt Extreme",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stunt-extreme",
+    "openGraph": {
+      "title": "Stunt Extreme Online - Explore and Discover",
+      "description": "Begin your quest in Stunt Extreme. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stunt-extreme-og.jpg",
+      "url": "https://littlegames.com/games/stunt-extreme",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stunt Extreme Online - Explore and Discover",
+      "description": "Begin your quest in Stunt Extreme. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stunt-extreme-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stunt Extreme",
+      "href": "/games/stunt-extreme",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_174",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

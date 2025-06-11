@@ -1,0 +1,54 @@
+{
+  "gameId": 3571,
+  "slug": "squidly-game",
+  "metadata": {
+    "title": "Free Squidly Game Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Squidly Game. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Squidly Game game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/squidly-game",
+    "openGraph": {
+      "title": "Free Squidly Game Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Squidly Game. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/squidly-game-og.jpg",
+      "url": "https://littlegames.com/games/squidly-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Squidly Game Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Squidly Game. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/squidly-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squidly Game",
+      "href": "/games/squidly-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_707",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

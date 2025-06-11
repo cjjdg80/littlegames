@@ -1,0 +1,54 @@
+{
+  "gameId": 2388,
+  "slug": "merge-dungeon",
+  "metadata": {
+    "title": "Adventure Game Merge Dungeon - Journey Begins",
+    "description": "Begin your quest in Merge Dungeon. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Merge Dungeon",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/merge-dungeon",
+    "openGraph": {
+      "title": "Adventure Game Merge Dungeon - Journey Begins",
+      "description": "Begin your quest in Merge Dungeon. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/merge-dungeon-og.jpg",
+      "url": "https://littlegames.com/games/merge-dungeon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Merge Dungeon - Journey Begins",
+      "description": "Begin your quest in Merge Dungeon. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/merge-dungeon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Merge Dungeon",
+      "href": "/games/merge-dungeon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_037",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

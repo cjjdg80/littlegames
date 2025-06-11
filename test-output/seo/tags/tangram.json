@@ -1,0 +1,46 @@
+{
+  "tag": "tangram",
+  "displayName": "Tangram",
+  "metadata": {
+    "title": "Tangram Games - Play Free Online",
+    "description": "Discover amazing tangram games! Play 5 free games with tangram theme. No downloads required.",
+    "keywords": [
+      "tangram games",
+      "free online games",
+      "browser games",
+      "tangram theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/tangram",
+    "openGraph": {
+      "title": "Tangram Games - Free Online Gaming",
+      "description": "Play the best tangram games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/tangram-og.jpg",
+      "url": "https://littlegames.com/tags/tangram",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tangram Games - Free Online",
+      "description": "Play 5 free tangram games online.",
+      "image": "https://littlegames.com/images/tags/tangram-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tangram",
+      "href": "/tags/tangram",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tangram theme! Our collection includes 5 carefully selected games that feature tangram elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

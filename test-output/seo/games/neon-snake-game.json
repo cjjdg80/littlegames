@@ -1,0 +1,54 @@
+{
+  "gameId": 3374,
+  "slug": "neon-snake-game",
+  "metadata": {
+    "title": "Free Neon Snake Game Game - Action Packed Fun",
+    "description": "Experience thrilling action in Neon Snake Game! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Neon Snake Game game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/neon-snake-game",
+    "openGraph": {
+      "title": "Free Neon Snake Game Game - Action Packed Fun",
+      "description": "Experience thrilling action in Neon Snake Game! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/neon-snake-game-og.jpg",
+      "url": "https://littlegames.com/games/neon-snake-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Neon Snake Game Game - Action Packed Fun",
+      "description": "Experience thrilling action in Neon Snake Game! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/neon-snake-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Neon Snake Game",
+      "href": "/games/neon-snake-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_600",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

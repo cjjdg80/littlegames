@@ -1,0 +1,54 @@
+{
+  "gameId": 812,
+  "slug": "zombie-exorcist",
+  "metadata": {
+    "title": "Zombie Exorcist Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Zombie Exorcist! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Zombie Exorcist game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-exorcist",
+    "openGraph": {
+      "title": "Zombie Exorcist Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Zombie Exorcist! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/zombie-exorcist-og.jpg",
+      "url": "https://littlegames.com/games/zombie-exorcist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombie Exorcist Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Zombie Exorcist! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zombie-exorcist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Exorcist",
+      "href": "/games/zombie-exorcist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_178",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

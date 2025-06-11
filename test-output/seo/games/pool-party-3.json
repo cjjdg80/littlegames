@@ -1,0 +1,54 @@
+{
+  "gameId": 7175,
+  "slug": "pool-party-3",
+  "metadata": {
+    "title": "Pool Party 3 Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Pool Party 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Pool Party 3",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pool-party-3",
+    "openGraph": {
+      "title": "Pool Party 3 Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Pool Party 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pool-party-3-og.jpg",
+      "url": "https://littlegames.com/games/pool-party-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pool Party 3 Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Pool Party 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pool-party-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pool Party 3",
+      "href": "/games/pool-party-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_431",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

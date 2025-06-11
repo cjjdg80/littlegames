@@ -1,0 +1,54 @@
+{
+  "gameId": 3450,
+  "slug": "just-golf",
+  "metadata": {
+    "title": "Play Just Golf - Free Action Game Online",
+    "description": "Dive into the action-packed world of Just Golf. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Just Golf",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/just-golf",
+    "openGraph": {
+      "title": "Play Just Golf - Free Action Game Online",
+      "description": "Dive into the action-packed world of Just Golf. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/just-golf-og.jpg",
+      "url": "https://littlegames.com/games/just-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Just Golf - Free Action Game Online",
+      "description": "Dive into the action-packed world of Just Golf. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/just-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Just Golf",
+      "href": "/games/just-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_956",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

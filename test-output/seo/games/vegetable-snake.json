@@ -1,0 +1,54 @@
+{
+  "gameId": 1158,
+  "slug": "vegetable-snake",
+  "metadata": {
+    "title": "Free Vegetable Snake Game - Action Packed Fun",
+    "description": "Join the action in Vegetable Snake! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Vegetable Snake game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/vegetable-snake",
+    "openGraph": {
+      "title": "Free Vegetable Snake Game - Action Packed Fun",
+      "description": "Join the action in Vegetable Snake! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/vegetable-snake-og.jpg",
+      "url": "https://littlegames.com/games/vegetable-snake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Vegetable Snake Game - Action Packed Fun",
+      "description": "Join the action in Vegetable Snake! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/vegetable-snake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Vegetable Snake",
+      "href": "/games/vegetable-snake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_904",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

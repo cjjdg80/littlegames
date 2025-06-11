@@ -1,0 +1,54 @@
+{
+  "gameId": 9812,
+  "slug": "one-line",
+  "metadata": {
+    "title": "Free One Line Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with One Line. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "play One Line",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/one-line",
+    "openGraph": {
+      "title": "Free One Line Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with One Line. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/one-line-og.jpg",
+      "url": "https://littlegames.com/games/one-line",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free One Line Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with One Line. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/one-line-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "One Line",
+      "href": "/games/one-line",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_178",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

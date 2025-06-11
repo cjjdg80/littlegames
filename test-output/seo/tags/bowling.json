@@ -1,0 +1,46 @@
+{
+  "tag": "bowling",
+  "displayName": "Bowling",
+  "metadata": {
+    "title": "Bowling Games - Play Free Online",
+    "description": "Discover amazing bowling games! Play 8 free games with bowling theme. No downloads required.",
+    "keywords": [
+      "bowling games",
+      "free online games",
+      "browser games",
+      "bowling theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/bowling",
+    "openGraph": {
+      "title": "Bowling Games - Free Online Gaming",
+      "description": "Play the best bowling games online for free. 8 games available.",
+      "image": "https://littlegames.com/images/tags/bowling-og.jpg",
+      "url": "https://littlegames.com/tags/bowling",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bowling Games - Free Online",
+      "description": "Play 8 free bowling games online.",
+      "image": "https://littlegames.com/images/tags/bowling-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bowling",
+      "href": "/tags/bowling",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bowling theme! Our collection includes 8 carefully selected games that feature bowling elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

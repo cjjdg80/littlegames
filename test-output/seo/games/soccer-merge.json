@@ -1,0 +1,54 @@
+{
+  "gameId": 7384,
+  "slug": "soccer-merge",
+  "metadata": {
+    "title": "Play Soccer Merge - Free Action Game Online",
+    "description": "Dive into the action-packed world of Soccer Merge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Soccer Merge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-merge",
+    "openGraph": {
+      "title": "Play Soccer Merge - Free Action Game Online",
+      "description": "Dive into the action-packed world of Soccer Merge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/soccer-merge-og.jpg",
+      "url": "https://littlegames.com/games/soccer-merge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Soccer Merge - Free Action Game Online",
+      "description": "Dive into the action-packed world of Soccer Merge. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/soccer-merge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Soccer Merge",
+      "href": "/games/soccer-merge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_910",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

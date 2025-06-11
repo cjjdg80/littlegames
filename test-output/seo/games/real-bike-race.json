@@ -1,0 +1,54 @@
+{
+  "gameId": 2831,
+  "slug": "real-bike-race",
+  "metadata": {
+    "title": "Real Bike Race - Exciting Action Adventure Game",
+    "description": "Real Bike Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Real Bike Race game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/real-bike-race",
+    "openGraph": {
+      "title": "Real Bike Race - Exciting Action Adventure Game",
+      "description": "Real Bike Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/real-bike-race-og.jpg",
+      "url": "https://littlegames.com/games/real-bike-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Real Bike Race - Exciting Action Adventure Game",
+      "description": "Real Bike Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/real-bike-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Real Bike Race",
+      "href": "/games/real-bike-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_767",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

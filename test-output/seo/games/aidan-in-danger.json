@@ -1,0 +1,54 @@
+{
+  "gameId": 9467,
+  "slug": "aidan-in-danger",
+  "metadata": {
+    "title": "Aidan in Danger - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Aidan in Danger! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Aidan in Danger",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/aidan-in-danger",
+    "openGraph": {
+      "title": "Aidan in Danger - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Aidan in Danger! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/aidan-in-danger-og.jpg",
+      "url": "https://littlegames.com/games/aidan-in-danger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Aidan in Danger - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Aidan in Danger! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/aidan-in-danger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Aidan in Danger",
+      "href": "/games/aidan-in-danger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_486",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

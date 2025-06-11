@@ -1,0 +1,54 @@
+{
+  "gameId": 1176,
+  "slug": "death-copter",
+  "metadata": {
+    "title": "Action Game Death Copter - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Death Copter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Death Copter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/death-copter",
+    "openGraph": {
+      "title": "Action Game Death Copter - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Death Copter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/death-copter-og.jpg",
+      "url": "https://littlegames.com/games/death-copter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Death Copter - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Death Copter. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/death-copter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Death Copter",
+      "href": "/games/death-copter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_462",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

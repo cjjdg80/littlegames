@@ -1,0 +1,54 @@
+{
+  "gameId": 4062,
+  "slug": "free-gear",
+  "metadata": {
+    "title": "Action Game Free Gear - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Free Gear. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Free Gear online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/free-gear",
+    "openGraph": {
+      "title": "Action Game Free Gear - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Free Gear. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/free-gear-og.jpg",
+      "url": "https://littlegames.com/games/free-gear",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Free Gear - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Free Gear. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/free-gear-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Free Gear",
+      "href": "/games/free-gear",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_928",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

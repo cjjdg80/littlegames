@@ -1,0 +1,54 @@
+{
+  "gameId": 7601,
+  "slug": "strike-it",
+  "metadata": {
+    "title": "Play Strike It! - Free Action Game Online",
+    "description": "Dive into the action-packed world of Strike It!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Strike It! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/strike-it",
+    "openGraph": {
+      "title": "Play Strike It! - Free Action Game Online",
+      "description": "Dive into the action-packed world of Strike It!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/strike-it-og.jpg",
+      "url": "https://littlegames.com/games/strike-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Strike It! - Free Action Game Online",
+      "description": "Dive into the action-packed world of Strike It!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/strike-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Strike It!",
+      "href": "/games/strike-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_637",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

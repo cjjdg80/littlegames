@@ -1,0 +1,54 @@
+{
+  "gameId": 4477,
+  "slug": "kitts-kingdom",
+  "metadata": {
+    "title": "Kitts Kingdom Online - Explore and Discover",
+    "description": "Start your epic journey with Kitts Kingdom! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Kitts Kingdom",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/kitts-kingdom",
+    "openGraph": {
+      "title": "Kitts Kingdom Online - Explore and Discover",
+      "description": "Start your epic journey with Kitts Kingdom! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/kitts-kingdom-og.jpg",
+      "url": "https://littlegames.com/games/kitts-kingdom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kitts Kingdom Online - Explore and Discover",
+      "description": "Start your epic journey with Kitts Kingdom! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/kitts-kingdom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Kitts Kingdom",
+      "href": "/games/kitts-kingdom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_796",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

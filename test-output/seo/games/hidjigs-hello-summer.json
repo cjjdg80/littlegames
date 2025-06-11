@@ -1,0 +1,54 @@
+{
+  "gameId": 771,
+  "slug": "hidjigs-hello-summer",
+  "metadata": {
+    "title": "Play HidJigs Hello Summer - Epic Adventure Game Online",
+    "description": "HidJigs Hello Summer offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+    "keywords": [
+      "adventure games",
+      "HidJigs Hello Summer",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hidjigs-hello-summer",
+    "openGraph": {
+      "title": "Play HidJigs Hello Summer - Epic Adventure Game Online",
+      "description": "HidJigs Hello Summer offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore...",
+      "image": "https://littlegames.com/images/games/hidjigs-hello-summer-og.jpg",
+      "url": "https://littlegames.com/games/hidjigs-hello-summer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play HidJigs Hello Summer - Epic Adventure Game Online",
+      "description": "HidJigs Hello Summer offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/hidjigs-hello-summer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "HidJigs Hello Summer",
+      "href": "/games/hidjigs-hello-summer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_910",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

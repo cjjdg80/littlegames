@@ -1,0 +1,54 @@
+{
+  "gameId": 7352,
+  "slug": "gang-brawlers",
+  "metadata": {
+    "title": "Play Gang Brawlers - Epic Adventure Game Online",
+    "description": "Start your epic journey with Gang Brawlers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Gang Brawlers game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/gang-brawlers",
+    "openGraph": {
+      "title": "Play Gang Brawlers - Epic Adventure Game Online",
+      "description": "Start your epic journey with Gang Brawlers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/gang-brawlers-og.jpg",
+      "url": "https://littlegames.com/games/gang-brawlers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gang Brawlers - Epic Adventure Game Online",
+      "description": "Start your epic journey with Gang Brawlers! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/gang-brawlers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Gang Brawlers",
+      "href": "/games/gang-brawlers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_921",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

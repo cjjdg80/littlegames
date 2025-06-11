@@ -1,0 +1,54 @@
+{
+  "gameId": 1541,
+  "slug": "pandapao",
+  "metadata": {
+    "title": "Panda&Pao Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Panda&Pao. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Panda&Pao online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pandapao",
+    "openGraph": {
+      "title": "Panda&Pao Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Panda&Pao. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pandapao-og.jpg",
+      "url": "https://littlegames.com/games/pandapao",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Panda&Pao Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Panda&Pao. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pandapao-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Panda&Pao",
+      "href": "/games/pandapao",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_777",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

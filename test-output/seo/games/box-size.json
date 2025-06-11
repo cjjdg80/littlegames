@@ -1,0 +1,54 @@
+{
+  "gameId": 5644,
+  "slug": "box-size",
+  "metadata": {
+    "title": "Play Box Size - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Box Size. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Box Size",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/box-size",
+    "openGraph": {
+      "title": "Play Box Size - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Box Size. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/box-size-og.jpg",
+      "url": "https://littlegames.com/games/box-size",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Box Size - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Box Size. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/box-size-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Box Size",
+      "href": "/games/box-size",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_970",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

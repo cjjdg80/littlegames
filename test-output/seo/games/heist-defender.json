@@ -1,0 +1,54 @@
+{
+  "gameId": 7841,
+  "slug": "heist-defender",
+  "metadata": {
+    "title": "Free Heist Defender Game - Action Packed Fun",
+    "description": "Heist Defender delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Heist Defender",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/heist-defender",
+    "openGraph": {
+      "title": "Free Heist Defender Game - Action Packed Fun",
+      "description": "Heist Defender delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/heist-defender-og.jpg",
+      "url": "https://littlegames.com/games/heist-defender",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Heist Defender Game - Action Packed Fun",
+      "description": "Heist Defender delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/heist-defender-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Heist Defender",
+      "href": "/games/heist-defender",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_077",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

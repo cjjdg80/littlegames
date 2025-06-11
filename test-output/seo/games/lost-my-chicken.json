@@ -1,0 +1,54 @@
+{
+  "gameId": 833,
+  "slug": "lost-my-chicken",
+  "metadata": {
+    "title": "Lost My Chicken Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Lost My Chicken! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Lost My Chicken",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/lost-my-chicken",
+    "openGraph": {
+      "title": "Lost My Chicken Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Lost My Chicken! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/lost-my-chicken-og.jpg",
+      "url": "https://littlegames.com/games/lost-my-chicken",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Lost My Chicken Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Lost My Chicken! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/lost-my-chicken-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Lost My Chicken",
+      "href": "/games/lost-my-chicken",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_829",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

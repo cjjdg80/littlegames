@@ -1,0 +1,54 @@
+{
+  "gameId": 6700,
+  "slug": "alien-bubbles",
+  "metadata": {
+    "title": "Free Alien Bubbles Game - Action Packed Fun",
+    "description": "Alien Bubbles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Alien Bubbles",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/alien-bubbles",
+    "openGraph": {
+      "title": "Free Alien Bubbles Game - Action Packed Fun",
+      "description": "Alien Bubbles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/alien-bubbles-og.jpg",
+      "url": "https://littlegames.com/games/alien-bubbles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Alien Bubbles Game - Action Packed Fun",
+      "description": "Alien Bubbles delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/alien-bubbles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Alien Bubbles",
+      "href": "/games/alien-bubbles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_706",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

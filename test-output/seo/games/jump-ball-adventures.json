@@ -1,0 +1,54 @@
+{
+  "gameId": 3992,
+  "slug": "jump-ball-adventures",
+  "metadata": {
+    "title": "Jump Ball Adventures Online - Explore and Discover",
+    "description": "Discover new worlds in Jump Ball Adventures. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+    "keywords": [
+      "Jump Ball Adventures game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/jump-ball-adventures",
+    "openGraph": {
+      "title": "Jump Ball Adventures Online - Explore and Discover",
+      "description": "Discover new worlds in Jump Ball Adventures. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
+      "image": "https://littlegames.com/images/games/jump-ball-adventures-og.jpg",
+      "url": "https://littlegames.com/games/jump-ball-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jump Ball Adventures Online - Explore and Discover",
+      "description": "Discover new worlds in Jump Ball Adventures. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/jump-ball-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Jump Ball Adventures",
+      "href": "/games/jump-ball-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_761",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

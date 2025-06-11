@@ -1,0 +1,54 @@
+{
+  "gameId": 9768,
+  "slug": "geometry-dash-jump",
+  "metadata": {
+    "title": "Geometry Dash Jump - Exciting Action Adventure Game",
+    "description": "Join the action in Geometry Dash Jump! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Geometry Dash Jump online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/geometry-dash-jump",
+    "openGraph": {
+      "title": "Geometry Dash Jump - Exciting Action Adventure Game",
+      "description": "Join the action in Geometry Dash Jump! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/geometry-dash-jump-og.jpg",
+      "url": "https://littlegames.com/games/geometry-dash-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometry Dash Jump - Exciting Action Adventure Game",
+      "description": "Join the action in Geometry Dash Jump! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/geometry-dash-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Geometry Dash Jump",
+      "href": "/games/geometry-dash-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_814",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

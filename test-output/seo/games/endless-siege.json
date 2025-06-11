@@ -1,0 +1,54 @@
+{
+  "gameId": 2456,
+  "slug": "endless-siege",
+  "metadata": {
+    "title": "Endless Siege Online - Ultimate Action Gaming Experience",
+    "description": "Endless Siege delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Endless Siege game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/endless-siege",
+    "openGraph": {
+      "title": "Endless Siege Online - Ultimate Action Gaming Experience",
+      "description": "Endless Siege delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/endless-siege-og.jpg",
+      "url": "https://littlegames.com/games/endless-siege",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Endless Siege Online - Ultimate Action Gaming Experience",
+      "description": "Endless Siege delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/endless-siege-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Endless Siege",
+      "href": "/games/endless-siege",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_142",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

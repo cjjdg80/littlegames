@@ -1,0 +1,54 @@
+{
+  "gameId": 9428,
+  "slug": "hangman-saga",
+  "metadata": {
+    "title": "Action Game Hangman Saga - Play Free Now",
+    "description": "Dive into the action-packed world of Hangman Saga. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Hangman Saga",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/hangman-saga",
+    "openGraph": {
+      "title": "Action Game Hangman Saga - Play Free Now",
+      "description": "Dive into the action-packed world of Hangman Saga. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/hangman-saga-og.jpg",
+      "url": "https://littlegames.com/games/hangman-saga",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Hangman Saga - Play Free Now",
+      "description": "Dive into the action-packed world of Hangman Saga. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hangman-saga-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hangman Saga",
+      "href": "/games/hangman-saga",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_274",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3098,
+  "slug": "mr-smith",
+  "metadata": {
+    "title": "Play Mr Smith - Free Action Game Online",
+    "description": "Mr Smith delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Mr Smith",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mr-smith",
+    "openGraph": {
+      "title": "Play Mr Smith - Free Action Game Online",
+      "description": "Mr Smith delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mr-smith-og.jpg",
+      "url": "https://littlegames.com/games/mr-smith",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Mr Smith - Free Action Game Online",
+      "description": "Mr Smith delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mr-smith-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr Smith",
+      "href": "/games/mr-smith",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_044",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

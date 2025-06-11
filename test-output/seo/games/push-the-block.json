@@ -1,0 +1,54 @@
+{
+  "gameId": 993,
+  "slug": "push-the-block",
+  "metadata": {
+    "title": "Play Push the block - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Push the block. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Push the block game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/push-the-block",
+    "openGraph": {
+      "title": "Play Push the block - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Push the block. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/push-the-block-og.jpg",
+      "url": "https://littlegames.com/games/push-the-block",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Push the block - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Push the block. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/push-the-block-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Push the block",
+      "href": "/games/push-the-block",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_789",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

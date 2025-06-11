@@ -1,0 +1,54 @@
+{
+  "gameId": 694,
+  "slug": "super-dash-car",
+  "metadata": {
+    "title": "Super Dash Car - Exciting Action Adventure Game",
+    "description": "Super Dash Car delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Super Dash Car",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/super-dash-car",
+    "openGraph": {
+      "title": "Super Dash Car - Exciting Action Adventure Game",
+      "description": "Super Dash Car delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-dash-car-og.jpg",
+      "url": "https://littlegames.com/games/super-dash-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Dash Car - Exciting Action Adventure Game",
+      "description": "Super Dash Car delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-dash-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Dash Car",
+      "href": "/games/super-dash-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_520",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

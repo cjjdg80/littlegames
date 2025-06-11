@@ -1,0 +1,54 @@
+{
+  "gameId": 4609,
+  "slug": "fruit-war",
+  "metadata": {
+    "title": "Action Game Fruit War - Play Free Now",
+    "description": "Join the action in Fruit War! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Fruit War",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-war",
+    "openGraph": {
+      "title": "Action Game Fruit War - Play Free Now",
+      "description": "Join the action in Fruit War! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fruit-war-og.jpg",
+      "url": "https://littlegames.com/games/fruit-war",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fruit War - Play Free Now",
+      "description": "Join the action in Fruit War! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fruit-war-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fruit War",
+      "href": "/games/fruit-war",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_885",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

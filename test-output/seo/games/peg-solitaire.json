@@ -1,0 +1,54 @@
+{
+  "gameId": 7042,
+  "slug": "peg-solitaire",
+  "metadata": {
+    "title": "Peg Solitaire - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Peg Solitaire. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Peg Solitaire",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/peg-solitaire",
+    "openGraph": {
+      "title": "Peg Solitaire - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Peg Solitaire. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/peg-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/peg-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Peg Solitaire - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Peg Solitaire. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/peg-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Peg Solitaire",
+      "href": "/games/peg-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_308",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

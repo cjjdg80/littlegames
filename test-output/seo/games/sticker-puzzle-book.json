@@ -1,0 +1,54 @@
+{
+  "gameId": 9851,
+  "slug": "sticker-puzzle-book",
+  "metadata": {
+    "title": "Puzzle Game Sticker Puzzle Book - Test Your Skills",
+    "description": "Exercise your brain with Sticker Puzzle Book. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "Sticker Puzzle Book online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/sticker-puzzle-book",
+    "openGraph": {
+      "title": "Puzzle Game Sticker Puzzle Book - Test Your Skills",
+      "description": "Exercise your brain with Sticker Puzzle Book. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/sticker-puzzle-book-og.jpg",
+      "url": "https://littlegames.com/games/sticker-puzzle-book",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Sticker Puzzle Book - Test Your Skills",
+      "description": "Exercise your brain with Sticker Puzzle Book. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/sticker-puzzle-book-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sticker Puzzle Book",
+      "href": "/games/sticker-puzzle-book",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_387",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

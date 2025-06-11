@@ -1,0 +1,54 @@
+{
+  "gameId": 2587,
+  "slug": "new-york-jigsaw",
+  "metadata": {
+    "title": "Puzzle Game New York Jigsaw - Test Your Skills",
+    "description": "Put your thinking skills to the test in New York Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "New York Jigsaw online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/new-york-jigsaw",
+    "openGraph": {
+      "title": "Puzzle Game New York Jigsaw - Test Your Skills",
+      "description": "Put your thinking skills to the test in New York Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/new-york-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/new-york-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game New York Jigsaw - Test Your Skills",
+      "description": "Put your thinking skills to the test in New York Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/new-york-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "New York Jigsaw",
+      "href": "/games/new-york-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_203",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2404,
+  "slug": "ski-safari",
+  "metadata": {
+    "title": "Free Ski Safari Game - Adventure Awaits",
+    "description": "Ski Safari offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "Ski Safari online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/ski-safari",
+    "openGraph": {
+      "title": "Free Ski Safari Game - Adventure Awaits",
+      "description": "Ski Safari offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/ski-safari-og.jpg",
+      "url": "https://littlegames.com/games/ski-safari",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ski Safari Game - Adventure Awaits",
+      "description": "Ski Safari offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/ski-safari-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Ski Safari",
+      "href": "/games/ski-safari",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_533",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

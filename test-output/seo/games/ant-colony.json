@@ -1,0 +1,54 @@
+{
+  "gameId": 6116,
+  "slug": "ant-colony",
+  "metadata": {
+    "title": "Action Game Ant Colony - Play Free Now",
+    "description": "Dive into the action-packed world of Ant Colony. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Ant Colony online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ant-colony",
+    "openGraph": {
+      "title": "Action Game Ant Colony - Play Free Now",
+      "description": "Dive into the action-packed world of Ant Colony. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ant-colony-og.jpg",
+      "url": "https://littlegames.com/games/ant-colony",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ant Colony - Play Free Now",
+      "description": "Dive into the action-packed world of Ant Colony. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ant-colony-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ant Colony",
+      "href": "/games/ant-colony",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_602",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

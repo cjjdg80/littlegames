@@ -1,0 +1,54 @@
+{
+  "gameId": 8856,
+  "slug": "deadlockio",
+  "metadata": {
+    "title": "Deadlock.io - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Deadlock.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Deadlock.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/deadlockio",
+    "openGraph": {
+      "title": "Deadlock.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Deadlock.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/deadlockio-og.jpg",
+      "url": "https://littlegames.com/games/deadlockio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Deadlock.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Deadlock.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/deadlockio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Deadlock.io",
+      "href": "/games/deadlockio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_542",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

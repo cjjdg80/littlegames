@@ -1,0 +1,54 @@
+{
+  "gameId": 4874,
+  "slug": "grass-cutter",
+  "metadata": {
+    "title": "Play Grass Cutter - Free Puzzle Game Online",
+    "description": "Exercise your brain with Grass Cutter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Grass Cutter game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/grass-cutter",
+    "openGraph": {
+      "title": "Play Grass Cutter - Free Puzzle Game Online",
+      "description": "Exercise your brain with Grass Cutter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/grass-cutter-og.jpg",
+      "url": "https://littlegames.com/games/grass-cutter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Grass Cutter - Free Puzzle Game Online",
+      "description": "Exercise your brain with Grass Cutter. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/grass-cutter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Grass Cutter",
+      "href": "/games/grass-cutter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_100",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3964,
+  "slug": "christmas-crush",
+  "metadata": {
+    "title": "Christmas Crush Online - Ultimate Action Gaming Experience",
+    "description": "Christmas Crush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Christmas Crush online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-crush",
+    "openGraph": {
+      "title": "Christmas Crush Online - Ultimate Action Gaming Experience",
+      "description": "Christmas Crush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/christmas-crush-og.jpg",
+      "url": "https://littlegames.com/games/christmas-crush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Christmas Crush Online - Ultimate Action Gaming Experience",
+      "description": "Christmas Crush delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/christmas-crush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Christmas Crush",
+      "href": "/games/christmas-crush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_890",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

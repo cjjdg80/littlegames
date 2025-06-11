@@ -1,0 +1,54 @@
+{
+  "gameId": 2775,
+  "slug": "clock-challenge",
+  "metadata": {
+    "title": "Action Game Clock Challenge - Play Free Now",
+    "description": "Join the action in Clock Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Clock Challenge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/clock-challenge",
+    "openGraph": {
+      "title": "Action Game Clock Challenge - Play Free Now",
+      "description": "Join the action in Clock Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clock-challenge-og.jpg",
+      "url": "https://littlegames.com/games/clock-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Clock Challenge - Play Free Now",
+      "description": "Join the action in Clock Challenge! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clock-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Clock Challenge",
+      "href": "/games/clock-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_031",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

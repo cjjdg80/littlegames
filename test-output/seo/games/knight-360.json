@@ -1,0 +1,54 @@
+{
+  "gameId": 5988,
+  "slug": "knight-360",
+  "metadata": {
+    "title": "Knight 360 Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Knight 360! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Knight 360",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/knight-360",
+    "openGraph": {
+      "title": "Knight 360 Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Knight 360! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/knight-360-og.jpg",
+      "url": "https://littlegames.com/games/knight-360",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Knight 360 Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Knight 360! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/knight-360-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Knight 360",
+      "href": "/games/knight-360",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_634",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

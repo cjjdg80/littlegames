@@ -1,0 +1,54 @@
+{
+  "gameId": 8863,
+  "slug": "flappy-rush",
+  "metadata": {
+    "title": "Free Flappy Rush Game - Action Packed Fun",
+    "description": "Join the action in Flappy Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Flappy Rush",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-rush",
+    "openGraph": {
+      "title": "Free Flappy Rush Game - Action Packed Fun",
+      "description": "Join the action in Flappy Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flappy-rush-og.jpg",
+      "url": "https://littlegames.com/games/flappy-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Flappy Rush Game - Action Packed Fun",
+      "description": "Join the action in Flappy Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flappy-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flappy Rush",
+      "href": "/games/flappy-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_759",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

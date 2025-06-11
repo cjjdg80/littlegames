@@ -1,0 +1,54 @@
+{
+  "gameId": 9600,
+  "slug": "save-the-crop",
+  "metadata": {
+    "title": "Save the crop - Exciting Action Adventure Game",
+    "description": "Join the action in Save the crop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Save the crop game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-crop",
+    "openGraph": {
+      "title": "Save the crop - Exciting Action Adventure Game",
+      "description": "Join the action in Save the crop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/save-the-crop-og.jpg",
+      "url": "https://littlegames.com/games/save-the-crop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Save the crop - Exciting Action Adventure Game",
+      "description": "Join the action in Save the crop! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/save-the-crop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save the crop",
+      "href": "/games/save-the-crop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_606",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

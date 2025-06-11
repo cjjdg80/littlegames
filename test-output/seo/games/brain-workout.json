@@ -1,0 +1,54 @@
+{
+  "gameId": 5026,
+  "slug": "brain-workout",
+  "metadata": {
+    "title": "Free Brain Workout Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Brain Workout! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Brain Workout online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/brain-workout",
+    "openGraph": {
+      "title": "Free Brain Workout Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Brain Workout! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/brain-workout-og.jpg",
+      "url": "https://littlegames.com/games/brain-workout",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brain Workout Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Brain Workout! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/brain-workout-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Brain Workout",
+      "href": "/games/brain-workout",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_812",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

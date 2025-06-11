@@ -1,0 +1,54 @@
+{
+  "gameId": 3547,
+  "slug": "catch-the-snacks",
+  "metadata": {
+    "title": "Catch The Snacks - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Catch The Snacks. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Catch The Snacks",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/catch-the-snacks",
+    "openGraph": {
+      "title": "Catch The Snacks - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Catch The Snacks. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/catch-the-snacks-og.jpg",
+      "url": "https://littlegames.com/games/catch-the-snacks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Catch The Snacks - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Catch The Snacks. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/catch-the-snacks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Catch The Snacks",
+      "href": "/games/catch-the-snacks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_963",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

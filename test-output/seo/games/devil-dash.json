@@ -1,0 +1,54 @@
+{
+  "gameId": 8055,
+  "slug": "devil-dash",
+  "metadata": {
+    "title": "Devil Dash Online - Explore and Discover",
+    "description": "Begin your quest in Devil Dash. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Devil Dash",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/devil-dash",
+    "openGraph": {
+      "title": "Devil Dash Online - Explore and Discover",
+      "description": "Begin your quest in Devil Dash. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/devil-dash-og.jpg",
+      "url": "https://littlegames.com/games/devil-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Devil Dash Online - Explore and Discover",
+      "description": "Begin your quest in Devil Dash. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/devil-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Devil Dash",
+      "href": "/games/devil-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_714",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

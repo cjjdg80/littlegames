@@ -1,0 +1,54 @@
+{
+  "gameId": 1722,
+  "slug": "pool-8-ball",
+  "metadata": {
+    "title": "Action Game Pool 8 Ball - Play Free Now",
+    "description": "Experience thrilling action in Pool 8 Ball! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Pool 8 Ball",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/pool-8-ball",
+    "openGraph": {
+      "title": "Action Game Pool 8 Ball - Play Free Now",
+      "description": "Experience thrilling action in Pool 8 Ball! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/pool-8-ball-og.jpg",
+      "url": "https://littlegames.com/games/pool-8-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pool 8 Ball - Play Free Now",
+      "description": "Experience thrilling action in Pool 8 Ball! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pool-8-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Pool 8 Ball",
+      "href": "/games/pool-8-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_388",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

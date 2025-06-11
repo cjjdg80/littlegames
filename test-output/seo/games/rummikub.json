@@ -1,0 +1,54 @@
+{
+  "gameId": 2029,
+  "slug": "rummikub",
+  "metadata": {
+    "title": "Rummikub - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Rummikub! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Rummikub online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/rummikub",
+    "openGraph": {
+      "title": "Rummikub - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Rummikub! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/rummikub-og.jpg",
+      "url": "https://littlegames.com/games/rummikub",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rummikub - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Rummikub! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/rummikub-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rummikub",
+      "href": "/games/rummikub",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_905",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

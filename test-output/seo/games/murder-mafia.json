@@ -1,0 +1,54 @@
+{
+  "gameId": 7144,
+  "slug": "murder-mafia",
+  "metadata": {
+    "title": "Play Murder Mafia - Free Action Game Online",
+    "description": "Dive into the action-packed world of Murder Mafia. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Murder Mafia game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/murder-mafia",
+    "openGraph": {
+      "title": "Play Murder Mafia - Free Action Game Online",
+      "description": "Dive into the action-packed world of Murder Mafia. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/murder-mafia-og.jpg",
+      "url": "https://littlegames.com/games/murder-mafia",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Murder Mafia - Free Action Game Online",
+      "description": "Dive into the action-packed world of Murder Mafia. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/murder-mafia-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Murder Mafia",
+      "href": "/games/murder-mafia",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_470",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

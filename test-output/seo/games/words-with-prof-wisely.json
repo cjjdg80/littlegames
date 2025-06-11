@@ -1,0 +1,54 @@
+{
+  "gameId": 8883,
+  "slug": "words-with-prof-wisely",
+  "metadata": {
+    "title": "Words with Prof. Wisely Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Words with Prof. Wisely. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Words with Prof. Wisely game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/words-with-prof-wisely",
+    "openGraph": {
+      "title": "Words with Prof. Wisely Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Words with Prof. Wisely. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/words-with-prof-wisely-og.jpg",
+      "url": "https://littlegames.com/games/words-with-prof-wisely",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Words with Prof. Wisely Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Words with Prof. Wisely. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/words-with-prof-wisely-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Words with Prof. Wisely",
+      "href": "/games/words-with-prof-wisely",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_379",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

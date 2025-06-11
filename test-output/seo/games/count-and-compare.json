@@ -1,0 +1,54 @@
+{
+  "gameId": 1160,
+  "slug": "count-and-compare",
+  "metadata": {
+    "title": "Count And Compare - Brain Training Puzzle Challenge",
+    "description": "Count And Compare offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Count And Compare",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/count-and-compare",
+    "openGraph": {
+      "title": "Count And Compare - Brain Training Puzzle Challenge",
+      "description": "Count And Compare offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/count-and-compare-og.jpg",
+      "url": "https://littlegames.com/games/count-and-compare",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Count And Compare - Brain Training Puzzle Challenge",
+      "description": "Count And Compare offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/count-and-compare-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Count And Compare",
+      "href": "/games/count-and-compare",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_966",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

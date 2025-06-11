@@ -1,0 +1,54 @@
+{
+  "gameId": 4287,
+  "slug": "dots",
+  "metadata": {
+    "title": "Free Dots Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Dots. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Dots game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/dots",
+    "openGraph": {
+      "title": "Free Dots Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Dots. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dots-og.jpg",
+      "url": "https://littlegames.com/games/dots",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Dots Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Dots. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/dots-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dots",
+      "href": "/games/dots",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_903",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

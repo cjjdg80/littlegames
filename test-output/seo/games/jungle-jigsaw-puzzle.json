@@ -1,0 +1,54 @@
+{
+  "gameId": 1400,
+  "slug": "jungle-jigsaw-puzzle",
+  "metadata": {
+    "title": "Jungle Jigsaw Puzzle Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Jungle Jigsaw Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Jungle Jigsaw Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/jungle-jigsaw-puzzle",
+    "openGraph": {
+      "title": "Jungle Jigsaw Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Jungle Jigsaw Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jungle-jigsaw-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/jungle-jigsaw-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jungle Jigsaw Puzzle Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Jungle Jigsaw Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/jungle-jigsaw-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jungle Jigsaw Puzzle",
+      "href": "/games/jungle-jigsaw-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_406",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

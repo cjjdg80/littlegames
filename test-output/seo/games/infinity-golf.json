@@ -1,0 +1,54 @@
+{
+  "gameId": 6502,
+  "slug": "infinity-golf",
+  "metadata": {
+    "title": "Free Infinity Golf Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Infinity Golf. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Infinity Golf",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/infinity-golf",
+    "openGraph": {
+      "title": "Free Infinity Golf Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Infinity Golf. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/infinity-golf-og.jpg",
+      "url": "https://littlegames.com/games/infinity-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Infinity Golf Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Infinity Golf. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/infinity-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Infinity Golf",
+      "href": "/games/infinity-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_568",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3024,
+  "slug": "saw-machineio",
+  "metadata": {
+    "title": "Saw Machine.io Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Saw Machine.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Saw Machine.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/saw-machineio",
+    "openGraph": {
+      "title": "Saw Machine.io Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Saw Machine.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/saw-machineio-og.jpg",
+      "url": "https://littlegames.com/games/saw-machineio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Saw Machine.io Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Saw Machine.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/saw-machineio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Saw Machine.io",
+      "href": "/games/saw-machineio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_750",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

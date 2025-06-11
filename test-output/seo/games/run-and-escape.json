@@ -1,0 +1,54 @@
+{
+  "gameId": 3104,
+  "slug": "run-and-escape",
+  "metadata": {
+    "title": "Free Run! and Escape Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Run! and Escape. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Run! and Escape",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/run-and-escape",
+    "openGraph": {
+      "title": "Free Run! and Escape Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Run! and Escape. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/run-and-escape-og.jpg",
+      "url": "https://littlegames.com/games/run-and-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Run! and Escape Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Run! and Escape. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/run-and-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Run! and Escape",
+      "href": "/games/run-and-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_230",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

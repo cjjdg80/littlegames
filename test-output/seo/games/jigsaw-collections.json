@@ -1,0 +1,54 @@
+{
+  "gameId": 3289,
+  "slug": "jigsaw-collections",
+  "metadata": {
+    "title": "Free Jigsaw Collections Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Jigsaw Collections! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Jigsaw Collections",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jigsaw-collections",
+    "openGraph": {
+      "title": "Free Jigsaw Collections Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Jigsaw Collections! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jigsaw-collections-og.jpg",
+      "url": "https://littlegames.com/games/jigsaw-collections",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jigsaw Collections Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Jigsaw Collections! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jigsaw-collections-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jigsaw Collections",
+      "href": "/games/jigsaw-collections",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_965",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

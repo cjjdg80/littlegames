@@ -1,0 +1,54 @@
+{
+  "gameId": 6777,
+  "slug": "super-simple-soccer",
+  "metadata": {
+    "title": "Super Simple Soccer Online - Ultimate Action Gaming...",
+    "description": "Super Simple Soccer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Super Simple Soccer online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-simple-soccer",
+    "openGraph": {
+      "title": "Super Simple Soccer Online - Ultimate Action Gaming...",
+      "description": "Super Simple Soccer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-simple-soccer-og.jpg",
+      "url": "https://littlegames.com/games/super-simple-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Simple Soccer Online - Ultimate Action Gaming Experience",
+      "description": "Super Simple Soccer delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-simple-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Simple Soccer",
+      "href": "/games/super-simple-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_093",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

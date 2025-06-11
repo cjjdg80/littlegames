@@ -1,0 +1,54 @@
+{
+  "gameId": 2796,
+  "slug": "circle-rotate",
+  "metadata": {
+    "title": "Circle Rotate Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Circle Rotate. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Circle Rotate game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/circle-rotate",
+    "openGraph": {
+      "title": "Circle Rotate Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Circle Rotate. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/circle-rotate-og.jpg",
+      "url": "https://littlegames.com/games/circle-rotate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Circle Rotate Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Circle Rotate. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/circle-rotate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Circle Rotate",
+      "href": "/games/circle-rotate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_682",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

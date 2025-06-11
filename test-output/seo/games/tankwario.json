@@ -1,0 +1,54 @@
+{
+  "gameId": 4786,
+  "slug": "tankwario",
+  "metadata": {
+    "title": "TankWar.io - Exciting Action Adventure Game",
+    "description": "TankWar.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "TankWar.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tankwario",
+    "openGraph": {
+      "title": "TankWar.io - Exciting Action Adventure Game",
+      "description": "TankWar.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tankwario-og.jpg",
+      "url": "https://littlegames.com/games/tankwario",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "TankWar.io - Exciting Action Adventure Game",
+      "description": "TankWar.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/tankwario-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "TankWar.io",
+      "href": "/games/tankwario",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_372",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

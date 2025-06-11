@@ -1,0 +1,54 @@
+{
+  "gameId": 8420,
+  "slug": "color-cocktail",
+  "metadata": {
+    "title": "Free Color Cocktail Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Color Cocktail. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Color Cocktail online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/color-cocktail",
+    "openGraph": {
+      "title": "Free Color Cocktail Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Color Cocktail. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/color-cocktail-og.jpg",
+      "url": "https://littlegames.com/games/color-cocktail",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Color Cocktail Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Color Cocktail. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/color-cocktail-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Color Cocktail",
+      "href": "/games/color-cocktail",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_026",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 876,
+  "slug": "drifty-race",
+  "metadata": {
+    "title": "Free Drifty Race Game - Action Packed Fun",
+    "description": "Drifty Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Drifty Race online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/drifty-race",
+    "openGraph": {
+      "title": "Free Drifty Race Game - Action Packed Fun",
+      "description": "Drifty Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drifty-race-og.jpg",
+      "url": "https://littlegames.com/games/drifty-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drifty Race Game - Action Packed Fun",
+      "description": "Drifty Race delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drifty-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drifty Race",
+      "href": "/games/drifty-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_162",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

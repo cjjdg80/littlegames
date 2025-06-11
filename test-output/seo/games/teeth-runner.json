@@ -1,0 +1,54 @@
+{
+  "gameId": 5205,
+  "slug": "teeth-runner",
+  "metadata": {
+    "title": "Teeth Runner! Online - Ultimate Action Gaming Experience",
+    "description": "Teeth Runner! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Teeth Runner!",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/teeth-runner",
+    "openGraph": {
+      "title": "Teeth Runner! Online - Ultimate Action Gaming Experience",
+      "description": "Teeth Runner! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/teeth-runner-og.jpg",
+      "url": "https://littlegames.com/games/teeth-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Teeth Runner! Online - Ultimate Action Gaming Experience",
+      "description": "Teeth Runner! delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/teeth-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Teeth Runner!",
+      "href": "/games/teeth-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_361",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

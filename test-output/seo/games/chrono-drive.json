@@ -1,0 +1,54 @@
+{
+  "gameId": 8432,
+  "slug": "chrono-drive",
+  "metadata": {
+    "title": "Chrono Drive - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Chrono Drive. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Chrono Drive online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/chrono-drive",
+    "openGraph": {
+      "title": "Chrono Drive - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Chrono Drive. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/chrono-drive-og.jpg",
+      "url": "https://littlegames.com/games/chrono-drive",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chrono Drive - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Chrono Drive. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/chrono-drive-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Chrono Drive",
+      "href": "/games/chrono-drive",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_402",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8230,
+  "slug": "riot-village",
+  "metadata": {
+    "title": "Riot Village - Exciting Action Adventure Game",
+    "description": "Riot Village delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Riot Village",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/riot-village",
+    "openGraph": {
+      "title": "Riot Village - Exciting Action Adventure Game",
+      "description": "Riot Village delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/riot-village-og.jpg",
+      "url": "https://littlegames.com/games/riot-village",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Riot Village - Exciting Action Adventure Game",
+      "description": "Riot Village delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/riot-village-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Riot Village",
+      "href": "/games/riot-village",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_136",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

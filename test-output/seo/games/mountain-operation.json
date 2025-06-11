@@ -1,0 +1,54 @@
+{
+  "gameId": 2868,
+  "slug": "mountain-operation",
+  "metadata": {
+    "title": "Free Mountain Operation Game - Action Packed Fun",
+    "description": "Join the action in Mountain Operation! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Mountain Operation",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mountain-operation",
+    "openGraph": {
+      "title": "Free Mountain Operation Game - Action Packed Fun",
+      "description": "Join the action in Mountain Operation! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mountain-operation-og.jpg",
+      "url": "https://littlegames.com/games/mountain-operation",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mountain Operation Game - Action Packed Fun",
+      "description": "Join the action in Mountain Operation! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mountain-operation-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mountain Operation",
+      "href": "/games/mountain-operation",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_914",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9552,
+  "slug": "color-block-jam",
+  "metadata": {
+    "title": "Puzzle Game Color Block Jam - Test Your Skills",
+    "description": "Put your thinking skills to the test in Color Block Jam. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Color Block Jam game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/color-block-jam",
+    "openGraph": {
+      "title": "Puzzle Game Color Block Jam - Test Your Skills",
+      "description": "Put your thinking skills to the test in Color Block Jam. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/color-block-jam-og.jpg",
+      "url": "https://littlegames.com/games/color-block-jam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Color Block Jam - Test Your Skills",
+      "description": "Put your thinking skills to the test in Color Block Jam. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/color-block-jam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Color Block Jam",
+      "href": "/games/color-block-jam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_118",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

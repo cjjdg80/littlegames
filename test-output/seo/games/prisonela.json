@@ -1,0 +1,54 @@
+{
+  "gameId": 5454,
+  "slug": "prisonela",
+  "metadata": {
+    "title": "Prisonela - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Prisonela! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+    "keywords": [
+      "play Prisonela",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/prisonela",
+    "openGraph": {
+      "title": "Prisonela - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Prisonela! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+      "image": "https://littlegames.com/images/games/prisonela-og.jpg",
+      "url": "https://littlegames.com/games/prisonela",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Prisonela - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Prisonela! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/prisonela-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Prisonela",
+      "href": "/games/prisonela",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_083",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

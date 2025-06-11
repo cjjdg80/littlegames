@@ -1,0 +1,54 @@
+{
+  "gameId": 3300,
+  "slug": "space-odyssey",
+  "metadata": {
+    "title": "Adventure Game SPACE ODYSSEY - Journey Begins",
+    "description": "Discover new worlds in SPACE ODYSSEY. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "SPACE ODYSSEY",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/space-odyssey",
+    "openGraph": {
+      "title": "Adventure Game SPACE ODYSSEY - Journey Begins",
+      "description": "Discover new worlds in SPACE ODYSSEY. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/space-odyssey-og.jpg",
+      "url": "https://littlegames.com/games/space-odyssey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game SPACE ODYSSEY - Journey Begins",
+      "description": "Discover new worlds in SPACE ODYSSEY. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/space-odyssey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "SPACE ODYSSEY",
+      "href": "/games/space-odyssey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_309",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

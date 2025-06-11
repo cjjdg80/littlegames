@@ -1,0 +1,54 @@
+{
+  "gameId": 964,
+  "slug": "fruit-cutting",
+  "metadata": {
+    "title": "Adventure Game Fruit Cutting - Journey Begins",
+    "description": "Begin your quest in Fruit Cutting. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Fruit Cutting",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-cutting",
+    "openGraph": {
+      "title": "Adventure Game Fruit Cutting - Journey Begins",
+      "description": "Begin your quest in Fruit Cutting. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fruit-cutting-og.jpg",
+      "url": "https://littlegames.com/games/fruit-cutting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Fruit Cutting - Journey Begins",
+      "description": "Begin your quest in Fruit Cutting. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fruit-cutting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fruit Cutting",
+      "href": "/games/fruit-cutting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_893",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

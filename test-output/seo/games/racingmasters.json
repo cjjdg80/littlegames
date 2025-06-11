@@ -1,0 +1,54 @@
+{
+  "gameId": 176,
+  "slug": "racingmasters",
+  "metadata": {
+    "title": "Free RacingMasters Game - Action Packed Fun",
+    "description": "Join the action in RacingMasters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play RacingMasters",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/racingmasters",
+    "openGraph": {
+      "title": "Free RacingMasters Game - Action Packed Fun",
+      "description": "Join the action in RacingMasters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/racingmasters-og.jpg",
+      "url": "https://littlegames.com/games/racingmasters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free RacingMasters Game - Action Packed Fun",
+      "description": "Join the action in RacingMasters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/racingmasters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "RacingMasters",
+      "href": "/games/racingmasters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_462",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

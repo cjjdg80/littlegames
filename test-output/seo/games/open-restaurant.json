@@ -1,0 +1,54 @@
+{
+  "gameId": 3042,
+  "slug": "open-restaurant",
+  "metadata": {
+    "title": "Open Restaurant - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Open Restaurant! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Open Restaurant online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/open-restaurant",
+    "openGraph": {
+      "title": "Open Restaurant - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Open Restaurant! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/open-restaurant-og.jpg",
+      "url": "https://littlegames.com/games/open-restaurant",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Open Restaurant - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Open Restaurant! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/open-restaurant-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Open Restaurant",
+      "href": "/games/open-restaurant",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_308",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

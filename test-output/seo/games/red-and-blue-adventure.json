@@ -1,0 +1,54 @@
+{
+  "gameId": 3145,
+  "slug": "red-and-blue-adventure",
+  "metadata": {
+    "title": "Adventure Game Red and Blue Adventure - Journey Begins",
+    "description": "Start your epic journey with Red and Blue Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Red and Blue Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/red-and-blue-adventure",
+    "openGraph": {
+      "title": "Adventure Game Red and Blue Adventure - Journey Begins",
+      "description": "Start your epic journey with Red and Blue Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/red-and-blue-adventure-og.jpg",
+      "url": "https://littlegames.com/games/red-and-blue-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Red and Blue Adventure - Journey Begins",
+      "description": "Start your epic journey with Red and Blue Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/red-and-blue-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Red and Blue Adventure",
+      "href": "/games/red-and-blue-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_504",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

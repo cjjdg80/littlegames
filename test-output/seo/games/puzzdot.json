@@ -1,0 +1,54 @@
+{
+  "gameId": 1572,
+  "slug": "puzzdot",
+  "metadata": {
+    "title": "Puzzle Game PUZZDOT - Test Your Skills",
+    "description": "Exercise your brain with PUZZDOT. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "PUZZDOT game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/puzzdot",
+    "openGraph": {
+      "title": "Puzzle Game PUZZDOT - Test Your Skills",
+      "description": "Exercise your brain with PUZZDOT. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzdot-og.jpg",
+      "url": "https://littlegames.com/games/puzzdot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game PUZZDOT - Test Your Skills",
+      "description": "Exercise your brain with PUZZDOT. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzdot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "PUZZDOT",
+      "href": "/games/puzzdot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_738",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

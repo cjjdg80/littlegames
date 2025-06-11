@@ -1,0 +1,46 @@
+{
+  "tag": "stack",
+  "displayName": "Stack",
+  "metadata": {
+    "title": "Stack Games - Play Free Online",
+    "description": "Discover amazing stack games! Play 30 free games with stack theme. No downloads required.",
+    "keywords": [
+      "stack games",
+      "free online games",
+      "browser games",
+      "stack theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/stack",
+    "openGraph": {
+      "title": "Stack Games - Free Online Gaming",
+      "description": "Play the best stack games online for free. 30 games available.",
+      "image": "https://littlegames.com/images/tags/stack-og.jpg",
+      "url": "https://littlegames.com/tags/stack",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stack Games - Free Online",
+      "description": "Play 30 free stack games online.",
+      "image": "https://littlegames.com/images/tags/stack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Stack",
+      "href": "/tags/stack",
+      "current": true
+    }
+  ],
+  "description": "Discover games with stack theme! Our collection includes 30 carefully selected games that feature stack elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

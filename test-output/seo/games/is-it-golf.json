@@ -1,0 +1,54 @@
+{
+  "gameId": 5661,
+  "slug": "is-it-golf",
+  "metadata": {
+    "title": "Is It Golf Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Is It Golf. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Is It Golf",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/is-it-golf",
+    "openGraph": {
+      "title": "Is It Golf Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Is It Golf. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/is-it-golf-og.jpg",
+      "url": "https://littlegames.com/games/is-it-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Is It Golf Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Is It Golf. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/is-it-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Is It Golf",
+      "href": "/games/is-it-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_497",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

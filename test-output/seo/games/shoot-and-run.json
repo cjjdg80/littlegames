@@ -1,0 +1,54 @@
+{
+  "gameId": 3206,
+  "slug": "shoot-and-run",
+  "metadata": {
+    "title": "Free Shoot And Run Game - Action Packed Fun",
+    "description": "Experience thrilling action in Shoot And Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Shoot And Run",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shoot-and-run",
+    "openGraph": {
+      "title": "Free Shoot And Run Game - Action Packed Fun",
+      "description": "Experience thrilling action in Shoot And Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/shoot-and-run-og.jpg",
+      "url": "https://littlegames.com/games/shoot-and-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Shoot And Run Game - Action Packed Fun",
+      "description": "Experience thrilling action in Shoot And Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/shoot-and-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shoot And Run",
+      "href": "/games/shoot-and-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_392",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

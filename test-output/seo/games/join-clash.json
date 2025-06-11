@@ -1,0 +1,54 @@
+{
+  "gameId": 658,
+  "slug": "join-clash",
+  "metadata": {
+    "title": "Join & Clash - Exciting Action Adventure Game",
+    "description": "Join the action in Join & Clash! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Join & Clash online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/join-clash",
+    "openGraph": {
+      "title": "Join & Clash - Exciting Action Adventure Game",
+      "description": "Join the action in Join & Clash! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/join-clash-og.jpg",
+      "url": "https://littlegames.com/games/join-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Join & Clash - Exciting Action Adventure Game",
+      "description": "Join the action in Join & Clash! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/join-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Join & Clash",
+      "href": "/games/join-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_406",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

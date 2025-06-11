@@ -1,0 +1,54 @@
+{
+  "gameId": 113,
+  "slug": "hero-mask-memory",
+  "metadata": {
+    "title": "Play Hero Mask Memory - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Hero Mask Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Hero Mask Memory",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/hero-mask-memory",
+    "openGraph": {
+      "title": "Play Hero Mask Memory - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Hero Mask Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hero-mask-memory-og.jpg",
+      "url": "https://littlegames.com/games/hero-mask-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hero Mask Memory - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Hero Mask Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hero-mask-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hero Mask Memory",
+      "href": "/games/hero-mask-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_509",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

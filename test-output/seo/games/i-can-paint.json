@@ -1,0 +1,54 @@
+{
+  "gameId": 1636,
+  "slug": "i-can-paint",
+  "metadata": {
+    "title": "Free I can Paint Game - Action Packed Fun",
+    "description": "Join the action in I can Paint! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "I can Paint",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/i-can-paint",
+    "openGraph": {
+      "title": "Free I can Paint Game - Action Packed Fun",
+      "description": "Join the action in I can Paint! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/i-can-paint-og.jpg",
+      "url": "https://littlegames.com/games/i-can-paint",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free I can Paint Game - Action Packed Fun",
+      "description": "Join the action in I can Paint! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/i-can-paint-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "I can Paint",
+      "href": "/games/i-can-paint",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_722",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

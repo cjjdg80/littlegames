@@ -1,0 +1,46 @@
+{
+  "tag": "stickman",
+  "displayName": "Stickman",
+  "metadata": {
+    "title": "Stickman Games - Play Free Online",
+    "description": "Discover amazing stickman games! Play 220 free games with stickman theme. No downloads required.",
+    "keywords": [
+      "stickman games",
+      "free online games",
+      "browser games",
+      "stickman theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/stickman",
+    "openGraph": {
+      "title": "Stickman Games - Free Online Gaming",
+      "description": "Play the best stickman games online for free. 220 games available.",
+      "image": "https://littlegames.com/images/tags/stickman-og.jpg",
+      "url": "https://littlegames.com/tags/stickman",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stickman Games - Free Online",
+      "description": "Play 220 free stickman games online.",
+      "image": "https://littlegames.com/images/tags/stickman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Stickman",
+      "href": "/tags/stickman",
+      "current": true
+    }
+  ],
+  "description": "Discover games with stickman theme! Our collection includes 220 carefully selected games that feature stickman elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1010,
+  "slug": "fast-lane-racing",
+  "metadata": {
+    "title": "Action Game Fast Lane Racing - Play Free Now",
+    "description": "Fast Lane Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Fast Lane Racing game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fast-lane-racing",
+    "openGraph": {
+      "title": "Action Game Fast Lane Racing - Play Free Now",
+      "description": "Fast Lane Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fast-lane-racing-og.jpg",
+      "url": "https://littlegames.com/games/fast-lane-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fast Lane Racing - Play Free Now",
+      "description": "Fast Lane Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fast-lane-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fast Lane Racing",
+      "href": "/games/fast-lane-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_316",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

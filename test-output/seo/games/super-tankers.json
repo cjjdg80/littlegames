@@ -1,0 +1,54 @@
+{
+  "gameId": 3816,
+  "slug": "super-tankers",
+  "metadata": {
+    "title": "Action Game Super Tankers - Play Free Now",
+    "description": "Dive into the action-packed world of Super Tankers. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Super Tankers game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/super-tankers",
+    "openGraph": {
+      "title": "Action Game Super Tankers - Play Free Now",
+      "description": "Dive into the action-packed world of Super Tankers. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/super-tankers-og.jpg",
+      "url": "https://littlegames.com/games/super-tankers",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Super Tankers - Play Free Now",
+      "description": "Dive into the action-packed world of Super Tankers. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/super-tankers-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Super Tankers",
+      "href": "/games/super-tankers",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_302",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8581,
+  "slug": "count-and-bounce",
+  "metadata": {
+    "title": "Count and Bounce - Exciting Action Adventure Game",
+    "description": "Join the action in Count and Bounce! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Count and Bounce online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/count-and-bounce",
+    "openGraph": {
+      "title": "Count and Bounce - Exciting Action Adventure Game",
+      "description": "Join the action in Count and Bounce! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/count-and-bounce-og.jpg",
+      "url": "https://littlegames.com/games/count-and-bounce",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Count and Bounce - Exciting Action Adventure Game",
+      "description": "Join the action in Count and Bounce! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/count-and-bounce-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Count and Bounce",
+      "href": "/games/count-and-bounce",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_017",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

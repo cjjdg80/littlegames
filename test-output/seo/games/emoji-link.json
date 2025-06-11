@@ -1,0 +1,54 @@
+{
+  "gameId": 4677,
+  "slug": "emoji-link",
+  "metadata": {
+    "title": "Free Emoji Link Game - Action Packed Fun",
+    "description": "Join the action in Emoji Link! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Emoji Link",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-link",
+    "openGraph": {
+      "title": "Free Emoji Link Game - Action Packed Fun",
+      "description": "Join the action in Emoji Link! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-link-og.jpg",
+      "url": "https://littlegames.com/games/emoji-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Emoji Link Game - Action Packed Fun",
+      "description": "Join the action in Emoji Link! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Emoji Link",
+      "href": "/games/emoji-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_993",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

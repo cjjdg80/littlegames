@@ -1,0 +1,54 @@
+{
+  "gameId": 3772,
+  "slug": "tonkwarsio",
+  "metadata": {
+    "title": "TonkWars.io - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in TonkWars.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "TonkWars.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/tonkwarsio",
+    "openGraph": {
+      "title": "TonkWars.io - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in TonkWars.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/tonkwarsio-og.jpg",
+      "url": "https://littlegames.com/games/tonkwarsio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "TonkWars.io - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in TonkWars.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tonkwarsio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "TonkWars.io",
+      "href": "/games/tonkwarsio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_938",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

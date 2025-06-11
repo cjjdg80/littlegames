@@ -1,0 +1,54 @@
+{
+  "gameId": 2681,
+  "slug": "car-defender",
+  "metadata": {
+    "title": "Free Car Defender Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Car Defender. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Car Defender game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/car-defender",
+    "openGraph": {
+      "title": "Free Car Defender Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Car Defender. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/car-defender-og.jpg",
+      "url": "https://littlegames.com/games/car-defender",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Car Defender Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Car Defender. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/car-defender-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Car Defender",
+      "href": "/games/car-defender",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_117",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9589,
+  "slug": "race-time",
+  "metadata": {
+    "title": "Action Game Race Time - Play Free Now",
+    "description": "Dive into the action-packed world of Race Time. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Race Time",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/race-time",
+    "openGraph": {
+      "title": "Action Game Race Time - Play Free Now",
+      "description": "Dive into the action-packed world of Race Time. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/race-time-og.jpg",
+      "url": "https://littlegames.com/games/race-time",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Race Time - Play Free Now",
+      "description": "Dive into the action-packed world of Race Time. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/race-time-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Race Time",
+      "href": "/games/race-time",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_265",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

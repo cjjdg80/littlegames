@@ -1,0 +1,54 @@
+{
+  "gameId": 5280,
+  "slug": "dalo",
+  "metadata": {
+    "title": "Dalo - Exciting Action Adventure Game",
+    "description": "Join the action in Dalo! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Dalo online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/dalo",
+    "openGraph": {
+      "title": "Dalo - Exciting Action Adventure Game",
+      "description": "Join the action in Dalo! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dalo-og.jpg",
+      "url": "https://littlegames.com/games/dalo",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dalo - Exciting Action Adventure Game",
+      "description": "Join the action in Dalo! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dalo-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dalo",
+      "href": "/games/dalo",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_686",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3594,
+  "slug": "emoji-mahjong",
+  "metadata": {
+    "title": "Emoji Mahjong Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Emoji Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Emoji Mahjong",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-mahjong",
+    "openGraph": {
+      "title": "Emoji Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Emoji Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/emoji-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Emoji Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Emoji Mahjong! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Emoji Mahjong",
+      "href": "/games/emoji-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_420",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

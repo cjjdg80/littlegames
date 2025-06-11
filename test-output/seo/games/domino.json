@@ -1,0 +1,54 @@
+{
+  "gameId": 6046,
+  "slug": "domino",
+  "metadata": {
+    "title": "Play Domino - Free Puzzle Game Online",
+    "description": "Exercise your brain with Domino. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Domino online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/domino",
+    "openGraph": {
+      "title": "Play Domino - Free Puzzle Game Online",
+      "description": "Exercise your brain with Domino. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/domino-og.jpg",
+      "url": "https://littlegames.com/games/domino",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Domino - Free Puzzle Game Online",
+      "description": "Exercise your brain with Domino. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/domino-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Domino",
+      "href": "/games/domino",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_432",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

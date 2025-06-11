@@ -1,0 +1,54 @@
+{
+  "gameId": 2851,
+  "slug": "ball-hit",
+  "metadata": {
+    "title": "Ball Hit Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Ball Hit. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Ball Hit",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/ball-hit",
+    "openGraph": {
+      "title": "Ball Hit Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Ball Hit. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ball-hit-og.jpg",
+      "url": "https://littlegames.com/games/ball-hit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Hit Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Ball Hit. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ball-hit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ball Hit",
+      "href": "/games/ball-hit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_387",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

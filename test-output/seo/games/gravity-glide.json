@@ -1,0 +1,54 @@
+{
+  "gameId": 6598,
+  "slug": "gravity-glide",
+  "metadata": {
+    "title": "Action Game Gravity Glide - Play Free Now",
+    "description": "Dive into the action-packed world of Gravity Glide. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Gravity Glide online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/gravity-glide",
+    "openGraph": {
+      "title": "Action Game Gravity Glide - Play Free Now",
+      "description": "Dive into the action-packed world of Gravity Glide. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/gravity-glide-og.jpg",
+      "url": "https://littlegames.com/games/gravity-glide",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Gravity Glide - Play Free Now",
+      "description": "Dive into the action-packed world of Gravity Glide. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/gravity-glide-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Gravity Glide",
+      "href": "/games/gravity-glide",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_544",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

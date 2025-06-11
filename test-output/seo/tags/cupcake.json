@@ -1,0 +1,46 @@
+{
+  "tag": "cupcake",
+  "displayName": "Cupcake",
+  "metadata": {
+    "title": "Cupcake Games - Play Free Online",
+    "description": "Discover amazing cupcake games! Play 18 free games with cupcake theme. No downloads required.",
+    "keywords": [
+      "cupcake games",
+      "free online games",
+      "browser games",
+      "cupcake theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/cupcake",
+    "openGraph": {
+      "title": "Cupcake Games - Free Online Gaming",
+      "description": "Play the best cupcake games online for free. 18 games available.",
+      "image": "https://littlegames.com/images/tags/cupcake-og.jpg",
+      "url": "https://littlegames.com/tags/cupcake",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cupcake Games - Free Online",
+      "description": "Play 18 free cupcake games online.",
+      "image": "https://littlegames.com/images/tags/cupcake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Cupcake",
+      "href": "/tags/cupcake",
+      "current": true
+    }
+  ],
+  "description": "Discover games with cupcake theme! Our collection includes 18 carefully selected games that feature cupcake elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

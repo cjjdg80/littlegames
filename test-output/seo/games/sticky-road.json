@@ -1,0 +1,54 @@
+{
+  "gameId": 5107,
+  "slug": "sticky-road",
+  "metadata": {
+    "title": "Play Sticky Road - Free Action Game Online",
+    "description": "Join the action in Sticky Road! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Sticky Road game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sticky-road",
+    "openGraph": {
+      "title": "Play Sticky Road - Free Action Game Online",
+      "description": "Join the action in Sticky Road! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sticky-road-og.jpg",
+      "url": "https://littlegames.com/games/sticky-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sticky Road - Free Action Game Online",
+      "description": "Join the action in Sticky Road! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sticky-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sticky Road",
+      "href": "/games/sticky-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_323",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

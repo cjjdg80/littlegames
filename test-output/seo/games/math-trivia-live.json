@@ -1,0 +1,54 @@
+{
+  "gameId": 286,
+  "slug": "math-trivia-live",
+  "metadata": {
+    "title": "Free Math Trivia LIVE Game - Action Packed Fun",
+    "description": "Math Trivia LIVE delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Math Trivia LIVE",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/math-trivia-live",
+    "openGraph": {
+      "title": "Free Math Trivia LIVE Game - Action Packed Fun",
+      "description": "Math Trivia LIVE delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/math-trivia-live-og.jpg",
+      "url": "https://littlegames.com/games/math-trivia-live",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Math Trivia LIVE Game - Action Packed Fun",
+      "description": "Math Trivia LIVE delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/math-trivia-live-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Math Trivia LIVE",
+      "href": "/games/math-trivia-live",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_872",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

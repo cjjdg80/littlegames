@@ -1,0 +1,54 @@
+{
+  "gameId": 4536,
+  "slug": "train",
+  "metadata": {
+    "title": "Free Train Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Train. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Train online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/train",
+    "openGraph": {
+      "title": "Free Train Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Train. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/train-og.jpg",
+      "url": "https://littlegames.com/games/train",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Train Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Train. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/train-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Train",
+      "href": "/games/train",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_622",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2482,
+  "slug": "happy-easter-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Happy Easter Puzzle - Test Your Skills",
+    "description": "Put your thinking skills to the test in Happy Easter Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Happy Easter Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/happy-easter-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Happy Easter Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Happy Easter Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/happy-easter-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/happy-easter-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Happy Easter Puzzle - Test Your Skills",
+      "description": "Put your thinking skills to the test in Happy Easter Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/happy-easter-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Happy Easter Puzzle",
+      "href": "/games/happy-easter-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_948",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3844,
+  "slug": "fallen-balls",
+  "metadata": {
+    "title": "Fallen Balls - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Fallen Balls. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Fallen Balls",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fallen-balls",
+    "openGraph": {
+      "title": "Fallen Balls - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fallen Balls. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fallen-balls-og.jpg",
+      "url": "https://littlegames.com/games/fallen-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fallen Balls - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fallen Balls. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fallen-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fallen Balls",
+      "href": "/games/fallen-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_170",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

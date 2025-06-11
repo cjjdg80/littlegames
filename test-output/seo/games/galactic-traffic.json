@@ -1,0 +1,54 @@
+{
+  "gameId": 3438,
+  "slug": "galactic-traffic",
+  "metadata": {
+    "title": "Play Galactic Traffic - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Galactic Traffic. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Galactic Traffic game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/galactic-traffic",
+    "openGraph": {
+      "title": "Play Galactic Traffic - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Galactic Traffic. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/galactic-traffic-og.jpg",
+      "url": "https://littlegames.com/games/galactic-traffic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Galactic Traffic - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Galactic Traffic. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/galactic-traffic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Galactic Traffic",
+      "href": "/games/galactic-traffic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_584",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

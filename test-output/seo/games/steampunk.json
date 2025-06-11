@@ -1,0 +1,54 @@
+{
+  "gameId": 4245,
+  "slug": "steampunk",
+  "metadata": {
+    "title": "Steampunk Online - Explore and Discover",
+    "description": "Embark on an epic journey in Steampunk! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+    "keywords": [
+      "Steampunk online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/steampunk",
+    "openGraph": {
+      "title": "Steampunk Online - Explore and Discover",
+      "description": "Embark on an epic journey in Steampunk! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+      "image": "https://littlegames.com/images/games/steampunk-og.jpg",
+      "url": "https://littlegames.com/games/steampunk",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Steampunk Online - Explore and Discover",
+      "description": "Embark on an epic journey in Steampunk! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/steampunk-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Steampunk",
+      "href": "/games/steampunk",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_604",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

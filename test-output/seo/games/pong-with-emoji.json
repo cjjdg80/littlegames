@@ -1,0 +1,54 @@
+{
+  "gameId": 978,
+  "slug": "pong-with-emoji",
+  "metadata": {
+    "title": "Puzzle Game Pong With Emoji - Test Your Skills",
+    "description": "Put your thinking skills to the test in Pong With Emoji. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Pong With Emoji game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pong-with-emoji",
+    "openGraph": {
+      "title": "Puzzle Game Pong With Emoji - Test Your Skills",
+      "description": "Put your thinking skills to the test in Pong With Emoji. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pong-with-emoji-og.jpg",
+      "url": "https://littlegames.com/games/pong-with-emoji",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Pong With Emoji - Test Your Skills",
+      "description": "Put your thinking skills to the test in Pong With Emoji. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pong-with-emoji-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pong With Emoji",
+      "href": "/games/pong-with-emoji",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_324",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

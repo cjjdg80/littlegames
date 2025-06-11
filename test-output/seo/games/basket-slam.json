@@ -1,0 +1,54 @@
+{
+  "gameId": 3705,
+  "slug": "basket-slam",
+  "metadata": {
+    "title": "Basket Slam Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Basket Slam! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Basket Slam online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/basket-slam",
+    "openGraph": {
+      "title": "Basket Slam Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Basket Slam! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basket-slam-og.jpg",
+      "url": "https://littlegames.com/games/basket-slam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Basket Slam Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Basket Slam! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basket-slam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basket Slam",
+      "href": "/games/basket-slam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_861",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

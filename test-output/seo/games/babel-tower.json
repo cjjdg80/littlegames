@@ -1,0 +1,54 @@
+{
+  "gameId": 910,
+  "slug": "babel-tower",
+  "metadata": {
+    "title": "Action Game Babel Tower - Play Free Now",
+    "description": "Babel Tower delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Babel Tower game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/babel-tower",
+    "openGraph": {
+      "title": "Action Game Babel Tower - Play Free Now",
+      "description": "Babel Tower delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/babel-tower-og.jpg",
+      "url": "https://littlegames.com/games/babel-tower",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Babel Tower - Play Free Now",
+      "description": "Babel Tower delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/babel-tower-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Babel Tower",
+      "href": "/games/babel-tower",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_220",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

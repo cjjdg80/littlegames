@@ -1,0 +1,54 @@
+{
+  "gameId": 520,
+  "slug": "ninja-jump",
+  "metadata": {
+    "title": "Ninja Jump - Exciting Action Adventure Game",
+    "description": "Join the action in Ninja Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Ninja Jump",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-jump",
+    "openGraph": {
+      "title": "Ninja Jump - Exciting Action Adventure Game",
+      "description": "Join the action in Ninja Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ninja-jump-og.jpg",
+      "url": "https://littlegames.com/games/ninja-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ninja Jump - Exciting Action Adventure Game",
+      "description": "Join the action in Ninja Jump! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ninja-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ninja Jump",
+      "href": "/games/ninja-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_126",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

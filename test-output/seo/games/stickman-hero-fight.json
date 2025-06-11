@@ -1,0 +1,54 @@
+{
+  "gameId": 5209,
+  "slug": "stickman-hero-fight",
+  "metadata": {
+    "title": "Stickman Hero Fight - Exciting Action Adventure Game",
+    "description": "Join the action in Stickman Hero Fight! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Stickman Hero Fight online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-hero-fight",
+    "openGraph": {
+      "title": "Stickman Hero Fight - Exciting Action Adventure Game",
+      "description": "Join the action in Stickman Hero Fight! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-hero-fight-og.jpg",
+      "url": "https://littlegames.com/games/stickman-hero-fight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stickman Hero Fight - Exciting Action Adventure Game",
+      "description": "Join the action in Stickman Hero Fight! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-hero-fight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stickman Hero Fight",
+      "href": "/games/stickman-hero-fight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_485",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

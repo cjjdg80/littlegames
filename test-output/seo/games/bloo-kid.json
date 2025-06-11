@@ -1,0 +1,54 @@
+{
+  "gameId": 5808,
+  "slug": "bloo-kid",
+  "metadata": {
+    "title": "Bloo Kid - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Bloo Kid! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+    "keywords": [
+      "play Bloo Kid",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/bloo-kid",
+    "openGraph": {
+      "title": "Bloo Kid - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Bloo Kid! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online...",
+      "image": "https://littlegames.com/images/games/bloo-kid-og.jpg",
+      "url": "https://littlegames.com/games/bloo-kid",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bloo Kid - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Bloo Kid! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/bloo-kid-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Bloo Kid",
+      "href": "/games/bloo-kid",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_057",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

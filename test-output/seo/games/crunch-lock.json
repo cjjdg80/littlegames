@@ -1,0 +1,54 @@
+{
+  "gameId": 7395,
+  "slug": "crunch-lock",
+  "metadata": {
+    "title": "Puzzle Game Crunch Lock - Test Your Skills",
+    "description": "Challenge your mind with Crunch Lock! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Crunch Lock",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/crunch-lock",
+    "openGraph": {
+      "title": "Puzzle Game Crunch Lock - Test Your Skills",
+      "description": "Challenge your mind with Crunch Lock! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/crunch-lock-og.jpg",
+      "url": "https://littlegames.com/games/crunch-lock",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Crunch Lock - Test Your Skills",
+      "description": "Challenge your mind with Crunch Lock! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/crunch-lock-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Crunch Lock",
+      "href": "/games/crunch-lock",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_251",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

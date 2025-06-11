@@ -1,0 +1,54 @@
+{
+  "gameId": 5927,
+  "slug": "ninja-up",
+  "metadata": {
+    "title": "Play Ninja Up! - Free Action Game Online",
+    "description": "Dive into the action-packed world of Ninja Up!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Ninja Up! online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-up",
+    "openGraph": {
+      "title": "Play Ninja Up! - Free Action Game Online",
+      "description": "Dive into the action-packed world of Ninja Up!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ninja-up-og.jpg",
+      "url": "https://littlegames.com/games/ninja-up",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ninja Up! - Free Action Game Online",
+      "description": "Dive into the action-packed world of Ninja Up!. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ninja-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ninja Up!",
+      "href": "/games/ninja-up",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_743",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

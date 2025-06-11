@@ -1,0 +1,54 @@
+{
+  "gameId": 9374,
+  "slug": "one-hero",
+  "metadata": {
+    "title": "One HERO Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of One HERO. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "One HERO",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/one-hero",
+    "openGraph": {
+      "title": "One HERO Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of One HERO. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/one-hero-og.jpg",
+      "url": "https://littlegames.com/games/one-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "One HERO Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of One HERO. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/one-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "One HERO",
+      "href": "/games/one-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_600",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

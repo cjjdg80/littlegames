@@ -1,0 +1,54 @@
+{
+  "gameId": 1373,
+  "slug": "castle-slots",
+  "metadata": {
+    "title": "Castle Slots Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Castle Slots. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Castle Slots online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/castle-slots",
+    "openGraph": {
+      "title": "Castle Slots Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Castle Slots. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/castle-slots-og.jpg",
+      "url": "https://littlegames.com/games/castle-slots",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Castle Slots Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Castle Slots. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/castle-slots-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Castle Slots",
+      "href": "/games/castle-slots",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_571",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

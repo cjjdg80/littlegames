@@ -1,0 +1,54 @@
+{
+  "gameId": 9542,
+  "slug": "bull-runner",
+  "metadata": {
+    "title": "Bull Runner Online - Ultimate Action Gaming Experience",
+    "description": "Bull Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Bull Runner game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bull-runner",
+    "openGraph": {
+      "title": "Bull Runner Online - Ultimate Action Gaming Experience",
+      "description": "Bull Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bull-runner-og.jpg",
+      "url": "https://littlegames.com/games/bull-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bull Runner Online - Ultimate Action Gaming Experience",
+      "description": "Bull Runner delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bull-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bull Runner",
+      "href": "/games/bull-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_808",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

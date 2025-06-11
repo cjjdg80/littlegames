@@ -1,0 +1,54 @@
+{
+  "gameId": 6891,
+  "slug": "ultimate-sudoku",
+  "metadata": {
+    "title": "Free Ultimate Sudoku Game - Mind Bending Puzzles",
+    "description": "Ultimate Sudoku offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Ultimate Sudoku",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/ultimate-sudoku",
+    "openGraph": {
+      "title": "Free Ultimate Sudoku Game - Mind Bending Puzzles",
+      "description": "Ultimate Sudoku offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/ultimate-sudoku-og.jpg",
+      "url": "https://littlegames.com/games/ultimate-sudoku",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ultimate Sudoku Game - Mind Bending Puzzles",
+      "description": "Ultimate Sudoku offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/ultimate-sudoku-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ultimate Sudoku",
+      "href": "/games/ultimate-sudoku",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_627",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

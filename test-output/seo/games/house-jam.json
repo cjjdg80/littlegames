@@ -1,0 +1,54 @@
+{
+  "gameId": 6122,
+  "slug": "house-jam",
+  "metadata": {
+    "title": "Free House Jam Game - Action Packed Fun",
+    "description": "Join the action in House Jam! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "House Jam",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/house-jam",
+    "openGraph": {
+      "title": "Free House Jam Game - Action Packed Fun",
+      "description": "Join the action in House Jam! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/house-jam-og.jpg",
+      "url": "https://littlegames.com/games/house-jam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free House Jam Game - Action Packed Fun",
+      "description": "Join the action in House Jam! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/house-jam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "House Jam",
+      "href": "/games/house-jam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_788",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

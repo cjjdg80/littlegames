@@ -1,0 +1,54 @@
+{
+  "gameId": 2499,
+  "slug": "drift-torque",
+  "metadata": {
+    "title": "Play Drift Torque - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Drift Torque. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Drift Torque game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/drift-torque",
+    "openGraph": {
+      "title": "Play Drift Torque - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Drift Torque. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/drift-torque-og.jpg",
+      "url": "https://littlegames.com/games/drift-torque",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Drift Torque - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Drift Torque. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/drift-torque-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drift Torque",
+      "href": "/games/drift-torque",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_475",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

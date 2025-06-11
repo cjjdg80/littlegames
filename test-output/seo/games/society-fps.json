@@ -1,0 +1,54 @@
+{
+  "gameId": 7031,
+  "slug": "society-fps",
+  "metadata": {
+    "title": "Society FPS - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Society FPS. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Society FPS online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/society-fps",
+    "openGraph": {
+      "title": "Society FPS - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Society FPS. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/society-fps-og.jpg",
+      "url": "https://littlegames.com/games/society-fps",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Society FPS - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Society FPS. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/society-fps-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Society FPS",
+      "href": "/games/society-fps",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_967",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

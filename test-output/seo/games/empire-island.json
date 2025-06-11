@@ -1,0 +1,54 @@
+{
+  "gameId": 4248,
+  "slug": "empire-island",
+  "metadata": {
+    "title": "Action Game Empire Island - Play Free Now",
+    "description": "Join the action in Empire Island! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Empire Island game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/empire-island",
+    "openGraph": {
+      "title": "Action Game Empire Island - Play Free Now",
+      "description": "Join the action in Empire Island! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/empire-island-og.jpg",
+      "url": "https://littlegames.com/games/empire-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Empire Island - Play Free Now",
+      "description": "Join the action in Empire Island! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/empire-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Empire Island",
+      "href": "/games/empire-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_696",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4562,
+  "slug": "squid-jigsaw",
+  "metadata": {
+    "title": "Squid Jigsaw - Exciting Action Adventure Game",
+    "description": "Join the action in Squid Jigsaw! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Squid Jigsaw game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/squid-jigsaw",
+    "openGraph": {
+      "title": "Squid Jigsaw - Exciting Action Adventure Game",
+      "description": "Join the action in Squid Jigsaw! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/squid-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/squid-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squid Jigsaw - Exciting Action Adventure Game",
+      "description": "Join the action in Squid Jigsaw! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/squid-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Squid Jigsaw",
+      "href": "/games/squid-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_428",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

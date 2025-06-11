@@ -1,0 +1,54 @@
+{
+  "gameId": 7966,
+  "slug": "minitoss",
+  "metadata": {
+    "title": "Play Minitoss - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Minitoss. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Minitoss online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/minitoss",
+    "openGraph": {
+      "title": "Play Minitoss - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Minitoss. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/minitoss-og.jpg",
+      "url": "https://littlegames.com/games/minitoss",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Minitoss - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Minitoss. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/minitoss-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Minitoss",
+      "href": "/games/minitoss",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_952",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

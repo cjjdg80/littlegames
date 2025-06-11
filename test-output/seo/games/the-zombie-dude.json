@@ -1,0 +1,54 @@
+{
+  "gameId": 4111,
+  "slug": "the-zombie-dude",
+  "metadata": {
+    "title": "The Zombie Dude Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of The Zombie Dude. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "The Zombie Dude",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/the-zombie-dude",
+    "openGraph": {
+      "title": "The Zombie Dude Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of The Zombie Dude. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/the-zombie-dude-og.jpg",
+      "url": "https://littlegames.com/games/the-zombie-dude",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Zombie Dude Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of The Zombie Dude. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/the-zombie-dude-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "The Zombie Dude",
+      "href": "/games/the-zombie-dude",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_447",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

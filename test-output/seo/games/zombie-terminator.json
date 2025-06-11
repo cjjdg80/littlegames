@@ -1,0 +1,54 @@
+{
+  "gameId": 9684,
+  "slug": "zombie-terminator",
+  "metadata": {
+    "title": "Play Zombie Terminator - Free Action Game Online",
+    "description": "Experience thrilling action in Zombie Terminator! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Zombie Terminator game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-terminator",
+    "openGraph": {
+      "title": "Play Zombie Terminator - Free Action Game Online",
+      "description": "Experience thrilling action in Zombie Terminator! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/zombie-terminator-og.jpg",
+      "url": "https://littlegames.com/games/zombie-terminator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zombie Terminator - Free Action Game Online",
+      "description": "Experience thrilling action in Zombie Terminator! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zombie-terminator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Terminator",
+      "href": "/games/zombie-terminator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_210",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

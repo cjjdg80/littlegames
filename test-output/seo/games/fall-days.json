@@ -1,0 +1,54 @@
+{
+  "gameId": 2352,
+  "slug": "fall-days",
+  "metadata": {
+    "title": "Action Game Fall Days - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Fall Days. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Fall Days",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/fall-days",
+    "openGraph": {
+      "title": "Action Game Fall Days - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Fall Days. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fall-days-og.jpg",
+      "url": "https://littlegames.com/games/fall-days",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fall Days - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Fall Days. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fall-days-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fall Days",
+      "href": "/games/fall-days",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_918",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

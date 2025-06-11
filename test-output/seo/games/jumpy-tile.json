@@ -1,0 +1,54 @@
+{
+  "gameId": 867,
+  "slug": "jumpy-tile",
+  "metadata": {
+    "title": "Jumpy Tile Online - Ultimate Action Gaming Experience",
+    "description": "Jumpy Tile delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Jumpy Tile online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jumpy-tile",
+    "openGraph": {
+      "title": "Jumpy Tile Online - Ultimate Action Gaming Experience",
+      "description": "Jumpy Tile delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumpy-tile-og.jpg",
+      "url": "https://littlegames.com/games/jumpy-tile",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jumpy Tile Online - Ultimate Action Gaming Experience",
+      "description": "Jumpy Tile delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jumpy-tile-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jumpy Tile",
+      "href": "/games/jumpy-tile",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_883",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

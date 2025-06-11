@@ -1,0 +1,54 @@
+{
+  "gameId": 761,
+  "slug": "zebra-hunter",
+  "metadata": {
+    "title": "ZEBRA HUNTER - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in ZEBRA HUNTER. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play ZEBRA HUNTER",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zebra-hunter",
+    "openGraph": {
+      "title": "ZEBRA HUNTER - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in ZEBRA HUNTER. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zebra-hunter-og.jpg",
+      "url": "https://littlegames.com/games/zebra-hunter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ZEBRA HUNTER - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in ZEBRA HUNTER. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/zebra-hunter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "ZEBRA HUNTER",
+      "href": "/games/zebra-hunter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_597",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

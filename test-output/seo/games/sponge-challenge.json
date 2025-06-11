@@ -1,0 +1,54 @@
+{
+  "gameId": 9283,
+  "slug": "sponge-challenge",
+  "metadata": {
+    "title": "Free Sponge Challenge Game - Action Packed Fun",
+    "description": "Experience thrilling action in Sponge Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Sponge Challenge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sponge-challenge",
+    "openGraph": {
+      "title": "Free Sponge Challenge Game - Action Packed Fun",
+      "description": "Experience thrilling action in Sponge Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/sponge-challenge-og.jpg",
+      "url": "https://littlegames.com/games/sponge-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sponge Challenge Game - Action Packed Fun",
+      "description": "Experience thrilling action in Sponge Challenge! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/sponge-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sponge Challenge",
+      "href": "/games/sponge-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_779",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

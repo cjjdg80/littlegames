@@ -1,0 +1,54 @@
+{
+  "gameId": 7058,
+  "slug": "crazy-kick",
+  "metadata": {
+    "title": "Action Game Crazy Kick! - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Crazy Kick!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Crazy Kick! game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-kick",
+    "openGraph": {
+      "title": "Action Game Crazy Kick! - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Crazy Kick!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crazy-kick-og.jpg",
+      "url": "https://littlegames.com/games/crazy-kick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Crazy Kick! - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Crazy Kick!. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/crazy-kick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crazy Kick!",
+      "href": "/games/crazy-kick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_804",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

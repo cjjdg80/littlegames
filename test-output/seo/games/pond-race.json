@@ -1,0 +1,54 @@
+{
+  "gameId": 647,
+  "slug": "pond-race",
+  "metadata": {
+    "title": "Action Game Pond Race - Play Free Now",
+    "description": "Experience thrilling action in Pond Race! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Pond Race",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pond-race",
+    "openGraph": {
+      "title": "Action Game Pond Race - Play Free Now",
+      "description": "Experience thrilling action in Pond Race! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/pond-race-og.jpg",
+      "url": "https://littlegames.com/games/pond-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pond Race - Play Free Now",
+      "description": "Experience thrilling action in Pond Race! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pond-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pond Race",
+      "href": "/games/pond-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_063",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

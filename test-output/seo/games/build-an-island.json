@@ -1,0 +1,54 @@
+{
+  "gameId": 955,
+  "slug": "build-an-island",
+  "metadata": {
+    "title": "Action Game Build An Island - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Build An Island. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Build An Island game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/build-an-island",
+    "openGraph": {
+      "title": "Action Game Build An Island - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Build An Island. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/build-an-island-og.jpg",
+      "url": "https://littlegames.com/games/build-an-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Build An Island - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Build An Island. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/build-an-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Build An Island",
+      "href": "/games/build-an-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_611",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

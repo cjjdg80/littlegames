@@ -1,0 +1,54 @@
+{
+  "gameId": 3657,
+  "slug": "christmas-swap",
+  "metadata": {
+    "title": "Free Christmas Swap Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Christmas Swap. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Christmas Swap online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-swap",
+    "openGraph": {
+      "title": "Free Christmas Swap Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Christmas Swap. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/christmas-swap-og.jpg",
+      "url": "https://littlegames.com/games/christmas-swap",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Christmas Swap Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Christmas Swap. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/christmas-swap-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Christmas Swap",
+      "href": "/games/christmas-swap",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_373",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

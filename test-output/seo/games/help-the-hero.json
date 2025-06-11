@@ -1,0 +1,54 @@
+{
+  "gameId": 5576,
+  "slug": "help-the-hero",
+  "metadata": {
+    "title": "Free Help the Hero Game - Adventure Awaits",
+    "description": "Start your epic journey with Help the Hero! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Help the Hero game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/help-the-hero",
+    "openGraph": {
+      "title": "Free Help the Hero Game - Adventure Awaits",
+      "description": "Start your epic journey with Help the Hero! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/help-the-hero-og.jpg",
+      "url": "https://littlegames.com/games/help-the-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Help the Hero Game - Adventure Awaits",
+      "description": "Start your epic journey with Help the Hero! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/help-the-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Help the Hero",
+      "href": "/games/help-the-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_865",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

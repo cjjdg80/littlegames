@@ -1,0 +1,54 @@
+{
+  "gameId": 8220,
+  "slug": "dynamons-8",
+  "metadata": {
+    "title": "Play Dynamons 8 - Epic Adventure Game Online",
+    "description": "Dynamons 8 offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "Dynamons 8 online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/dynamons-8",
+    "openGraph": {
+      "title": "Play Dynamons 8 - Epic Adventure Game Online",
+      "description": "Dynamons 8 offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/dynamons-8-og.jpg",
+      "url": "https://littlegames.com/games/dynamons-8",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Dynamons 8 - Epic Adventure Game Online",
+      "description": "Dynamons 8 offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/dynamons-8-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dynamons 8",
+      "href": "/games/dynamons-8",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_829",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

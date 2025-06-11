@@ -1,0 +1,54 @@
+{
+  "gameId": 3231,
+  "slug": "miner-rush",
+  "metadata": {
+    "title": "Miner Rush Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Miner Rush! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Miner Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/miner-rush",
+    "openGraph": {
+      "title": "Miner Rush Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Miner Rush! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/miner-rush-og.jpg",
+      "url": "https://littlegames.com/games/miner-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Miner Rush Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Miner Rush! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/miner-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Miner Rush",
+      "href": "/games/miner-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_167",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

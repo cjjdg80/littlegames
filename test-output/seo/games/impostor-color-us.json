@@ -1,0 +1,54 @@
+{
+  "gameId": 4222,
+  "slug": "impostor-color-us",
+  "metadata": {
+    "title": "Impostor Color Us - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Impostor Color Us! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Impostor Color Us game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/impostor-color-us",
+    "openGraph": {
+      "title": "Impostor Color Us - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Impostor Color Us! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/impostor-color-us-og.jpg",
+      "url": "https://littlegames.com/games/impostor-color-us",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Impostor Color Us - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Impostor Color Us! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/impostor-color-us-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Impostor Color Us",
+      "href": "/games/impostor-color-us",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_888",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

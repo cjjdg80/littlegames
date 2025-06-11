@@ -1,0 +1,54 @@
+{
+  "gameId": 1854,
+  "slug": "pumpkin-rider",
+  "metadata": {
+    "title": "Play Pumpkin Rider - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Pumpkin Rider. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Pumpkin Rider",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pumpkin-rider",
+    "openGraph": {
+      "title": "Play Pumpkin Rider - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Pumpkin Rider. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pumpkin-rider-og.jpg",
+      "url": "https://littlegames.com/games/pumpkin-rider",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pumpkin Rider - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Pumpkin Rider. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pumpkin-rider-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pumpkin Rider",
+      "href": "/games/pumpkin-rider",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_480",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

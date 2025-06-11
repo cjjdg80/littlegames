@@ -1,0 +1,54 @@
+{
+  "gameId": 778,
+  "slug": "sky-knight",
+  "metadata": {
+    "title": "Play Sky Knight - Free Action Game Online",
+    "description": "Dive into the action-packed world of Sky Knight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Sky Knight",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sky-knight",
+    "openGraph": {
+      "title": "Play Sky Knight - Free Action Game Online",
+      "description": "Dive into the action-packed world of Sky Knight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sky-knight-og.jpg",
+      "url": "https://littlegames.com/games/sky-knight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sky Knight - Free Action Game Online",
+      "description": "Dive into the action-packed world of Sky Knight. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/sky-knight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sky Knight",
+      "href": "/games/sky-knight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_124",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

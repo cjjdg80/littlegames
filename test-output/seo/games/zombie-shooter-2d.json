@@ -1,0 +1,54 @@
+{
+  "gameId": 1812,
+  "slug": "zombie-shooter-2d",
+  "metadata": {
+    "title": "Free Zombie Shooter 2D Game - Action Packed Fun",
+    "description": "Zombie Shooter 2D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Zombie Shooter 2D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-shooter-2d",
+    "openGraph": {
+      "title": "Free Zombie Shooter 2D Game - Action Packed Fun",
+      "description": "Zombie Shooter 2D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zombie-shooter-2d-og.jpg",
+      "url": "https://littlegames.com/games/zombie-shooter-2d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Zombie Shooter 2D Game - Action Packed Fun",
+      "description": "Zombie Shooter 2D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/zombie-shooter-2d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Shooter 2D",
+      "href": "/games/zombie-shooter-2d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_178",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

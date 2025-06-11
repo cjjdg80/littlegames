@@ -1,0 +1,54 @@
+{
+  "gameId": 6201,
+  "slug": "stickman-home-escape",
+  "metadata": {
+    "title": "Free Stickman Home Escape Game - Adventure Awaits",
+    "description": "Begin your quest in Stickman Home Escape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Stickman Home Escape online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-home-escape",
+    "openGraph": {
+      "title": "Free Stickman Home Escape Game - Adventure Awaits",
+      "description": "Begin your quest in Stickman Home Escape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stickman-home-escape-og.jpg",
+      "url": "https://littlegames.com/games/stickman-home-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stickman Home Escape Game - Adventure Awaits",
+      "description": "Begin your quest in Stickman Home Escape. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/stickman-home-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stickman Home Escape",
+      "href": "/games/stickman-home-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_240",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

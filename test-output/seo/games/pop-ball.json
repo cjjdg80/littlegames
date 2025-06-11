@@ -1,0 +1,54 @@
+{
+  "gameId": 5407,
+  "slug": "pop-ball",
+  "metadata": {
+    "title": "Play Pop Ball - Free Action Game Online",
+    "description": "Join the action in Pop Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Pop Ball",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pop-ball",
+    "openGraph": {
+      "title": "Play Pop Ball - Free Action Game Online",
+      "description": "Join the action in Pop Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pop-ball-og.jpg",
+      "url": "https://littlegames.com/games/pop-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pop Ball - Free Action Game Online",
+      "description": "Join the action in Pop Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pop-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pop Ball",
+      "href": "/games/pop-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_623",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

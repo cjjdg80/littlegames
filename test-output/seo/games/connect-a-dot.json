@@ -1,0 +1,54 @@
+{
+  "gameId": 1789,
+  "slug": "connect-a-dot",
+  "metadata": {
+    "title": "Connect A Dot - Exciting Action Adventure Game",
+    "description": "Join the action in Connect A Dot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Connect A Dot online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/connect-a-dot",
+    "openGraph": {
+      "title": "Connect A Dot - Exciting Action Adventure Game",
+      "description": "Join the action in Connect A Dot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/connect-a-dot-og.jpg",
+      "url": "https://littlegames.com/games/connect-a-dot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Connect A Dot - Exciting Action Adventure Game",
+      "description": "Join the action in Connect A Dot! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/connect-a-dot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connect A Dot",
+      "href": "/games/connect-a-dot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_465",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

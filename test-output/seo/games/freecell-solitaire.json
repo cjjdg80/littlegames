@@ -1,0 +1,54 @@
+{
+  "gameId": 3044,
+  "slug": "freecell-solitaire",
+  "metadata": {
+    "title": "Play Freecell Solitaire - Free Action Game Online",
+    "description": "Freecell Solitaire delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Freecell Solitaire",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/freecell-solitaire",
+    "openGraph": {
+      "title": "Play Freecell Solitaire - Free Action Game Online",
+      "description": "Freecell Solitaire delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/freecell-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/freecell-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Freecell Solitaire - Free Action Game Online",
+      "description": "Freecell Solitaire delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/freecell-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Freecell Solitaire",
+      "href": "/games/freecell-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_370",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

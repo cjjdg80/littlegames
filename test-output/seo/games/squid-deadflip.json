@@ -1,0 +1,54 @@
+{
+  "gameId": 6018,
+  "slug": "squid-deadflip",
+  "metadata": {
+    "title": "Play Squid Deadflip - Epic Adventure Game Online",
+    "description": "Squid Deadflip offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Squid Deadflip online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/squid-deadflip",
+    "openGraph": {
+      "title": "Play Squid Deadflip - Epic Adventure Game Online",
+      "description": "Squid Deadflip offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/squid-deadflip-og.jpg",
+      "url": "https://littlegames.com/games/squid-deadflip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Squid Deadflip - Epic Adventure Game Online",
+      "description": "Squid Deadflip offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/squid-deadflip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Squid Deadflip",
+      "href": "/games/squid-deadflip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_567",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

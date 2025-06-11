@@ -1,0 +1,54 @@
+{
+  "gameId": 3060,
+  "slug": "deer-hunter-2d",
+  "metadata": {
+    "title": "Free Deer Hunter 2D Game - Action Packed Fun",
+    "description": "Join the action in Deer Hunter 2D! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Deer Hunter 2D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/deer-hunter-2d",
+    "openGraph": {
+      "title": "Free Deer Hunter 2D Game - Action Packed Fun",
+      "description": "Join the action in Deer Hunter 2D! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/deer-hunter-2d-og.jpg",
+      "url": "https://littlegames.com/games/deer-hunter-2d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Deer Hunter 2D Game - Action Packed Fun",
+      "description": "Join the action in Deer Hunter 2D! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/deer-hunter-2d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Deer Hunter 2D",
+      "href": "/games/deer-hunter-2d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_866",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 13,
+  "slug": "animal-dash-and-jump",
+  "metadata": {
+    "title": "Animal Dash and Jump - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Animal Dash and Jump. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Animal Dash and Jump online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/animal-dash-and-jump",
+    "openGraph": {
+      "title": "Animal Dash and Jump - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Animal Dash and Jump. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/animal-dash-and-jump-og.jpg",
+      "url": "https://littlegames.com/games/animal-dash-and-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animal Dash and Jump - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Animal Dash and Jump. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/animal-dash-and-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Animal Dash and Jump",
+      "href": "/games/animal-dash-and-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_409",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

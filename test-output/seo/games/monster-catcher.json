@@ -1,0 +1,54 @@
+{
+  "gameId": 1654,
+  "slug": "monster-catcher",
+  "metadata": {
+    "title": "Monster Catcher - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Monster Catcher. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Monster Catcher",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/monster-catcher",
+    "openGraph": {
+      "title": "Monster Catcher - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Monster Catcher. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/monster-catcher-og.jpg",
+      "url": "https://littlegames.com/games/monster-catcher",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Catcher - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Monster Catcher. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/monster-catcher-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Monster Catcher",
+      "href": "/games/monster-catcher",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_280",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

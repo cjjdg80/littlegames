@@ -1,0 +1,54 @@
+{
+  "gameId": 6449,
+  "slug": "crazy-chicken-jump",
+  "metadata": {
+    "title": "Free Crazy Chicken Jump Game - Action Packed Fun",
+    "description": "Experience thrilling action in Crazy Chicken Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Crazy Chicken Jump game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-chicken-jump",
+    "openGraph": {
+      "title": "Free Crazy Chicken Jump Game - Action Packed Fun",
+      "description": "Experience thrilling action in Crazy Chicken Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/crazy-chicken-jump-og.jpg",
+      "url": "https://littlegames.com/games/crazy-chicken-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Crazy Chicken Jump Game - Action Packed Fun",
+      "description": "Experience thrilling action in Crazy Chicken Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/crazy-chicken-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crazy Chicken Jump",
+      "href": "/games/crazy-chicken-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_925",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

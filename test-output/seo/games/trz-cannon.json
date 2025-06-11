@@ -1,0 +1,54 @@
+{
+  "gameId": 2921,
+  "slug": "trz-cannon",
+  "metadata": {
+    "title": "Action Game TRZ Cannon - Play Free Now",
+    "description": "Join the action in TRZ Cannon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "TRZ Cannon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/trz-cannon",
+    "openGraph": {
+      "title": "Action Game TRZ Cannon - Play Free Now",
+      "description": "Join the action in TRZ Cannon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/trz-cannon-og.jpg",
+      "url": "https://littlegames.com/games/trz-cannon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game TRZ Cannon - Play Free Now",
+      "description": "Join the action in TRZ Cannon! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/trz-cannon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "TRZ Cannon",
+      "href": "/games/trz-cannon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_557",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

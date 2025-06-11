@@ -1,0 +1,46 @@
+{
+  "tag": "journey",
+  "displayName": "Journey",
+  "metadata": {
+    "title": "Journey Games - Play Free Online",
+    "description": "Discover amazing journey games! Play 13 free games with journey theme. No downloads required.",
+    "keywords": [
+      "journey games",
+      "free online games",
+      "browser games",
+      "journey theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/journey",
+    "openGraph": {
+      "title": "Journey Games - Free Online Gaming",
+      "description": "Play the best journey games online for free. 13 games available.",
+      "image": "https://littlegames.com/images/tags/journey-og.jpg",
+      "url": "https://littlegames.com/tags/journey",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Journey Games - Free Online",
+      "description": "Play 13 free journey games online.",
+      "image": "https://littlegames.com/images/tags/journey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Journey",
+      "href": "/tags/journey",
+      "current": true
+    }
+  ],
+  "description": "Discover games with journey theme! Our collection includes 13 carefully selected games that feature journey elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3213,
+  "slug": "snack-mahjong",
+  "metadata": {
+    "title": "Snack Mahjong - Exciting Action Adventure Game",
+    "description": "Snack Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Snack Mahjong",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/snack-mahjong",
+    "openGraph": {
+      "title": "Snack Mahjong - Exciting Action Adventure Game",
+      "description": "Snack Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/snack-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/snack-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snack Mahjong - Exciting Action Adventure Game",
+      "description": "Snack Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/snack-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Snack Mahjong",
+      "href": "/games/snack-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_609",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

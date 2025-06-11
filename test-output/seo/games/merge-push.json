@@ -1,0 +1,54 @@
+{
+  "gameId": 3854,
+  "slug": "merge-push",
+  "metadata": {
+    "title": "Free Merge Push Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Merge Push. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Merge Push",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-push",
+    "openGraph": {
+      "title": "Free Merge Push Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Merge Push. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-push-og.jpg",
+      "url": "https://littlegames.com/games/merge-push",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Merge Push Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Merge Push. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-push-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Push",
+      "href": "/games/merge-push",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_480",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

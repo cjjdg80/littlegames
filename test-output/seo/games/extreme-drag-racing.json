@@ -1,0 +1,54 @@
+{
+  "gameId": 6759,
+  "slug": "extreme-drag-racing",
+  "metadata": {
+    "title": "Extreme Drag Racing - Exciting Action Adventure Game",
+    "description": "Join the action in Extreme Drag Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Extreme Drag Racing game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/extreme-drag-racing",
+    "openGraph": {
+      "title": "Extreme Drag Racing - Exciting Action Adventure Game",
+      "description": "Join the action in Extreme Drag Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/extreme-drag-racing-og.jpg",
+      "url": "https://littlegames.com/games/extreme-drag-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Extreme Drag Racing - Exciting Action Adventure Game",
+      "description": "Join the action in Extreme Drag Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/extreme-drag-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Extreme Drag Racing",
+      "href": "/games/extreme-drag-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_535",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

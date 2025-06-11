@@ -1,0 +1,54 @@
+{
+  "gameId": 6173,
+  "slug": "donhoop",
+  "metadata": {
+    "title": "Donhoop Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Donhoop! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Donhoop",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/donhoop",
+    "openGraph": {
+      "title": "Donhoop Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Donhoop! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/donhoop-og.jpg",
+      "url": "https://littlegames.com/games/donhoop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Donhoop Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Donhoop! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/donhoop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Donhoop",
+      "href": "/games/donhoop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_369",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

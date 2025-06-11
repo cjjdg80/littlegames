@@ -1,0 +1,54 @@
+{
+  "gameId": 9693,
+  "slug": "fun-iq-puzzle",
+  "metadata": {
+    "title": "Fun IQ Puzzle - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Fun IQ Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Fun IQ Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/fun-iq-puzzle",
+    "openGraph": {
+      "title": "Fun IQ Puzzle - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Fun IQ Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/fun-iq-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/fun-iq-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fun IQ Puzzle - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Fun IQ Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/fun-iq-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Fun IQ Puzzle",
+      "href": "/games/fun-iq-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_489",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

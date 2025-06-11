@@ -1,0 +1,54 @@
+{
+  "gameId": 5607,
+  "slug": "physics-box",
+  "metadata": {
+    "title": "Play Physics Box - Free Action Game Online",
+    "description": "Experience thrilling action in Physics Box! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Physics Box",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/physics-box",
+    "openGraph": {
+      "title": "Play Physics Box - Free Action Game Online",
+      "description": "Experience thrilling action in Physics Box! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/physics-box-og.jpg",
+      "url": "https://littlegames.com/games/physics-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Physics Box - Free Action Game Online",
+      "description": "Experience thrilling action in Physics Box! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/physics-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Physics Box",
+      "href": "/games/physics-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_823",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

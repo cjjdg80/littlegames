@@ -1,0 +1,54 @@
+{
+  "gameId": 5523,
+  "slug": "match-20-challenge",
+  "metadata": {
+    "title": "Free Match 20 Challenge Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Match 20 Challenge. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Match 20 Challenge online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/match-20-challenge",
+    "openGraph": {
+      "title": "Free Match 20 Challenge Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Match 20 Challenge. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/match-20-challenge-og.jpg",
+      "url": "https://littlegames.com/games/match-20-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Match 20 Challenge Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Match 20 Challenge. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/match-20-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Match 20 Challenge",
+      "href": "/games/match-20-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_219",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

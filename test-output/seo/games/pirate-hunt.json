@@ -1,0 +1,54 @@
+{
+  "gameId": 6846,
+  "slug": "pirate-hunt",
+  "metadata": {
+    "title": "Play Pirate Hunt - Free Action Game Online",
+    "description": "Join the action in Pirate Hunt! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Pirate Hunt",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pirate-hunt",
+    "openGraph": {
+      "title": "Play Pirate Hunt - Free Action Game Online",
+      "description": "Join the action in Pirate Hunt! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pirate-hunt-og.jpg",
+      "url": "https://littlegames.com/games/pirate-hunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pirate Hunt - Free Action Game Online",
+      "description": "Join the action in Pirate Hunt! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pirate-hunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pirate Hunt",
+      "href": "/games/pirate-hunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_232",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9724,
+  "slug": "push-to-go",
+  "metadata": {
+    "title": "Play Push To Go - Free Action Game Online",
+    "description": "Experience thrilling action in Push To Go! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Push To Go",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/push-to-go",
+    "openGraph": {
+      "title": "Play Push To Go - Free Action Game Online",
+      "description": "Experience thrilling action in Push To Go! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/push-to-go-og.jpg",
+      "url": "https://littlegames.com/games/push-to-go",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Push To Go - Free Action Game Online",
+      "description": "Experience thrilling action in Push To Go! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/push-to-go-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Push To Go",
+      "href": "/games/push-to-go",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_450",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

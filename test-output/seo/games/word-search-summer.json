@@ -1,0 +1,54 @@
+{
+  "gameId": 6705,
+  "slug": "word-search-summer",
+  "metadata": {
+    "title": "Word Search Summer Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Word Search Summer. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "puzzle games",
+      "Word Search Summer",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/word-search-summer",
+    "openGraph": {
+      "title": "Word Search Summer Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Word Search Summer. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/word-search-summer-og.jpg",
+      "url": "https://littlegames.com/games/word-search-summer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Search Summer Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Word Search Summer. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/word-search-summer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Word Search Summer",
+      "href": "/games/word-search-summer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_861",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

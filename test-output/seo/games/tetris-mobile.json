@@ -1,0 +1,54 @@
+{
+  "gameId": 1315,
+  "slug": "tetris-mobile",
+  "metadata": {
+    "title": "Action Game Tetris Mobile - Play Free Now",
+    "description": "Join the action in Tetris Mobile! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Tetris Mobile game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tetris-mobile",
+    "openGraph": {
+      "title": "Action Game Tetris Mobile - Play Free Now",
+      "description": "Join the action in Tetris Mobile! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tetris-mobile-og.jpg",
+      "url": "https://littlegames.com/games/tetris-mobile",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Tetris Mobile - Play Free Now",
+      "description": "Join the action in Tetris Mobile! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tetris-mobile-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tetris Mobile",
+      "href": "/games/tetris-mobile",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_771",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

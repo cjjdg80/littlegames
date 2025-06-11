@@ -1,0 +1,54 @@
+{
+  "gameId": 9421,
+  "slug": "tiles-matching",
+  "metadata": {
+    "title": "Tiles Matching - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Tiles Matching! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Tiles Matching",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/tiles-matching",
+    "openGraph": {
+      "title": "Tiles Matching - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Tiles Matching! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/tiles-matching-og.jpg",
+      "url": "https://littlegames.com/games/tiles-matching",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tiles Matching - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Tiles Matching! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tiles-matching-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tiles Matching",
+      "href": "/games/tiles-matching",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_057",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

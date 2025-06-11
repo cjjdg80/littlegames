@@ -1,0 +1,46 @@
+{
+  "tag": "protect",
+  "displayName": "Protect",
+  "metadata": {
+    "title": "Protect Games - Play Free Online",
+    "description": "Discover amazing protect games! Play 12 free games with protect theme. No downloads required.",
+    "keywords": [
+      "protect games",
+      "free online games",
+      "browser games",
+      "protect theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/protect",
+    "openGraph": {
+      "title": "Protect Games - Free Online Gaming",
+      "description": "Play the best protect games online for free. 12 games available.",
+      "image": "https://littlegames.com/images/tags/protect-og.jpg",
+      "url": "https://littlegames.com/tags/protect",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Protect Games - Free Online",
+      "description": "Play 12 free protect games online.",
+      "image": "https://littlegames.com/images/tags/protect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Protect",
+      "href": "/tags/protect",
+      "current": true
+    }
+  ],
+  "description": "Discover games with protect theme! Our collection includes 12 carefully selected games that feature protect elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1218,
+  "slug": "find-the-treasure",
+  "metadata": {
+    "title": "Play Find The Treasure - Free Action Game Online",
+    "description": "Find The Treasure delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Find The Treasure",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-treasure",
+    "openGraph": {
+      "title": "Play Find The Treasure - Free Action Game Online",
+      "description": "Find The Treasure delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/find-the-treasure-og.jpg",
+      "url": "https://littlegames.com/games/find-the-treasure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Find The Treasure - Free Action Game Online",
+      "description": "Find The Treasure delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/find-the-treasure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Find The Treasure",
+      "href": "/games/find-the-treasure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_764",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

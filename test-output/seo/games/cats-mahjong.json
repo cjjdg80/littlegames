@@ -1,0 +1,54 @@
+{
+  "gameId": 48,
+  "slug": "cats-mahjong",
+  "metadata": {
+    "title": "Cats Mahjong Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Cats Mahjong! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Cats Mahjong game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/cats-mahjong",
+    "openGraph": {
+      "title": "Cats Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Cats Mahjong! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/cats-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/cats-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cats Mahjong Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Cats Mahjong! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/cats-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cats Mahjong",
+      "href": "/games/cats-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_494",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

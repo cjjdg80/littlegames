@@ -1,0 +1,54 @@
+{
+  "gameId": 7623,
+  "slug": "zombcopter",
+  "metadata": {
+    "title": "Play ZombCopter - Free Action Game Online",
+    "description": "Experience thrilling action in ZombCopter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play ZombCopter",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zombcopter",
+    "openGraph": {
+      "title": "Play ZombCopter - Free Action Game Online",
+      "description": "Experience thrilling action in ZombCopter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/zombcopter-og.jpg",
+      "url": "https://littlegames.com/games/zombcopter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play ZombCopter - Free Action Game Online",
+      "description": "Experience thrilling action in ZombCopter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zombcopter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "ZombCopter",
+      "href": "/games/zombcopter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_319",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

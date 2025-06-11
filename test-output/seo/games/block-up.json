@@ -1,0 +1,54 @@
+{
+  "gameId": 9254,
+  "slug": "block-up",
+  "metadata": {
+    "title": "Puzzle Game Block Up - Test Your Skills",
+    "description": "Sharpen your mind with Block Up! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Block Up",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/block-up",
+    "openGraph": {
+      "title": "Puzzle Game Block Up - Test Your Skills",
+      "description": "Sharpen your mind with Block Up! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/block-up-og.jpg",
+      "url": "https://littlegames.com/games/block-up",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Block Up - Test Your Skills",
+      "description": "Sharpen your mind with Block Up! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/block-up-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Up",
+      "href": "/games/block-up",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_880",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

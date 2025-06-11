@@ -1,0 +1,54 @@
+{
+  "gameId": 4838,
+  "slug": "wordling-daily-challenge",
+  "metadata": {
+    "title": "Wordling Daily Challenge Online - Ultimate Action Gaming...",
+    "description": "Experience thrilling action in Wordling Daily Challenge! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Wordling Daily Challenge game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/wordling-daily-challenge",
+    "openGraph": {
+      "title": "Wordling Daily Challenge Online - Ultimate Action Gaming...",
+      "description": "Experience thrilling action in Wordling Daily Challenge! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/wordling-daily-challenge-og.jpg",
+      "url": "https://littlegames.com/games/wordling-daily-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wordling Daily Challenge Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Wordling Daily Challenge! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/wordling-daily-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wordling Daily Challenge",
+      "href": "/games/wordling-daily-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_984",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

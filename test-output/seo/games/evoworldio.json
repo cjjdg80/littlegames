@@ -1,0 +1,54 @@
+{
+  "gameId": 1890,
+  "slug": "evoworldio",
+  "metadata": {
+    "title": "EvoWorld.io Online - Ultimate Action Gaming Experience",
+    "description": "EvoWorld.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "EvoWorld.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/evoworldio",
+    "openGraph": {
+      "title": "EvoWorld.io Online - Ultimate Action Gaming Experience",
+      "description": "EvoWorld.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/evoworldio-og.jpg",
+      "url": "https://littlegames.com/games/evoworldio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "EvoWorld.io Online - Ultimate Action Gaming Experience",
+      "description": "EvoWorld.io delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/evoworldio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "EvoWorld.io",
+      "href": "/games/evoworldio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_596",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

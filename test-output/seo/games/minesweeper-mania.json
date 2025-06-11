@@ -1,0 +1,54 @@
+{
+  "gameId": 1221,
+  "slug": "minesweeper-mania",
+  "metadata": {
+    "title": "Minesweeper Mania - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Minesweeper Mania! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "play Minesweeper Mania",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/minesweeper-mania",
+    "openGraph": {
+      "title": "Minesweeper Mania - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Minesweeper Mania! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/minesweeper-mania-og.jpg",
+      "url": "https://littlegames.com/games/minesweeper-mania",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Minesweeper Mania - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Minesweeper Mania! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/minesweeper-mania-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Minesweeper Mania",
+      "href": "/games/minesweeper-mania",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_857",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1809,
+  "slug": "ball-drop-3d",
+  "metadata": {
+    "title": "Action Game Ball Drop 3D - Play Free Now",
+    "description": "Join the action in Ball Drop 3D! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Ball Drop 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/ball-drop-3d",
+    "openGraph": {
+      "title": "Action Game Ball Drop 3D - Play Free Now",
+      "description": "Join the action in Ball Drop 3D! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ball-drop-3d-og.jpg",
+      "url": "https://littlegames.com/games/ball-drop-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ball Drop 3D - Play Free Now",
+      "description": "Join the action in Ball Drop 3D! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ball-drop-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ball Drop 3D",
+      "href": "/games/ball-drop-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_085",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

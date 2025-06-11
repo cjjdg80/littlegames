@@ -1,0 +1,54 @@
+{
+  "gameId": 1375,
+  "slug": "just-follow-my-lead",
+  "metadata": {
+    "title": "Just Follow My Lead Online - Logic and Strategy Game",
+    "description": "Just Follow My Lead offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "Just Follow My Lead online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/just-follow-my-lead",
+    "openGraph": {
+      "title": "Just Follow My Lead Online - Logic and Strategy Game",
+      "description": "Just Follow My Lead offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/just-follow-my-lead-og.jpg",
+      "url": "https://littlegames.com/games/just-follow-my-lead",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Just Follow My Lead Online - Logic and Strategy Game",
+      "description": "Just Follow My Lead offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/just-follow-my-lead-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Just Follow My Lead",
+      "href": "/games/just-follow-my-lead",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_631",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

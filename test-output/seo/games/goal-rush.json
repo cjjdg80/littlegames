@@ -1,0 +1,54 @@
+{
+  "gameId": 9505,
+  "slug": "goal-rush",
+  "metadata": {
+    "title": "Action Game Goal Rush - Play Free Now",
+    "description": "Join the action in Goal Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Goal Rush online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/goal-rush",
+    "openGraph": {
+      "title": "Action Game Goal Rush - Play Free Now",
+      "description": "Join the action in Goal Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/goal-rush-og.jpg",
+      "url": "https://littlegames.com/games/goal-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Goal Rush - Play Free Now",
+      "description": "Join the action in Goal Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/goal-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Goal Rush",
+      "href": "/games/goal-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_661",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

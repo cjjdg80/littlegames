@@ -1,0 +1,54 @@
+{
+  "gameId": 8362,
+  "slug": "beauty-puzzle",
+  "metadata": {
+    "title": "Free Beauty puzzle Game - Mind Bending Puzzles",
+    "description": "Beauty puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Beauty puzzle",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/beauty-puzzle",
+    "openGraph": {
+      "title": "Free Beauty puzzle Game - Mind Bending Puzzles",
+      "description": "Beauty puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/beauty-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/beauty-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Beauty puzzle Game - Mind Bending Puzzles",
+      "description": "Beauty puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/beauty-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Beauty puzzle",
+      "href": "/games/beauty-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_228",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

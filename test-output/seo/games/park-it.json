@@ -1,0 +1,54 @@
+{
+  "gameId": 6850,
+  "slug": "park-it",
+  "metadata": {
+    "title": "PARK IT Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in PARK IT. This free online simulation game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "PARK IT online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/park-it",
+    "openGraph": {
+      "title": "PARK IT Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in PARK IT. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/park-it-og.jpg",
+      "url": "https://littlegames.com/games/park-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "PARK IT Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in PARK IT. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/park-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "PARK IT",
+      "href": "/games/park-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_360",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

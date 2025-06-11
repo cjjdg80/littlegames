@@ -1,0 +1,54 @@
+{
+  "gameId": 209,
+  "slug": "collect-candy",
+  "metadata": {
+    "title": "Collect Candy - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Collect Candy. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Collect Candy game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/collect-candy",
+    "openGraph": {
+      "title": "Collect Candy - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Collect Candy. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/collect-candy-og.jpg",
+      "url": "https://littlegames.com/games/collect-candy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Collect Candy - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Collect Candy. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/collect-candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Collect Candy",
+      "href": "/games/collect-candy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_485",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

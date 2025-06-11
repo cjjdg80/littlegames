@@ -1,0 +1,54 @@
+{
+  "gameId": 8195,
+  "slug": "tank-battleio",
+  "metadata": {
+    "title": "Tank Battle.io - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Tank Battle.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Tank Battle.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/tank-battleio",
+    "openGraph": {
+      "title": "Tank Battle.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Tank Battle.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/tank-battleio-og.jpg",
+      "url": "https://littlegames.com/games/tank-battleio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tank Battle.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Tank Battle.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/tank-battleio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tank Battle.io",
+      "href": "/games/tank-battleio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_051",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

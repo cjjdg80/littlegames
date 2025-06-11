@@ -1,0 +1,54 @@
+{
+  "gameId": 365,
+  "slug": "stormy-kicker",
+  "metadata": {
+    "title": "Action Game Stormy Kicker - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Stormy Kicker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Stormy Kicker online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stormy-kicker",
+    "openGraph": {
+      "title": "Action Game Stormy Kicker - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Stormy Kicker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stormy-kicker-og.jpg",
+      "url": "https://littlegames.com/games/stormy-kicker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Stormy Kicker - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Stormy Kicker. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stormy-kicker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stormy Kicker",
+      "href": "/games/stormy-kicker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_321",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

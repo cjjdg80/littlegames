@@ -1,0 +1,54 @@
+{
+  "gameId": 5127,
+  "slug": "armedforcesio",
+  "metadata": {
+    "title": "ArmedForces.io Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in ArmedForces.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "ArmedForces.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/armedforcesio",
+    "openGraph": {
+      "title": "ArmedForces.io Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in ArmedForces.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/armedforcesio-og.jpg",
+      "url": "https://littlegames.com/games/armedforcesio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ArmedForces.io Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in ArmedForces.io! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/armedforcesio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "ArmedForces.io",
+      "href": "/games/armedforcesio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_943",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

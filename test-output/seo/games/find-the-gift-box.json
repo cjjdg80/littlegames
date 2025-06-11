@@ -1,0 +1,54 @@
+{
+  "gameId": 4370,
+  "slug": "find-the-gift-box",
+  "metadata": {
+    "title": "Play Find the Gift Box - Epic Adventure Game Online",
+    "description": "Start your epic journey with Find the Gift Box! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Find the Gift Box game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/find-the-gift-box",
+    "openGraph": {
+      "title": "Play Find the Gift Box - Epic Adventure Game Online",
+      "description": "Start your epic journey with Find the Gift Box! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/find-the-gift-box-og.jpg",
+      "url": "https://littlegames.com/games/find-the-gift-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Find the Gift Box - Epic Adventure Game Online",
+      "description": "Start your epic journey with Find the Gift Box! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/find-the-gift-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Find the Gift Box",
+      "href": "/games/find-the-gift-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_479",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

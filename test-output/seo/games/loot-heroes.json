@@ -1,0 +1,54 @@
+{
+  "gameId": 4229,
+  "slug": "loot-heroes",
+  "metadata": {
+    "title": "Loot Heroes - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Loot Heroes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Loot Heroes",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/loot-heroes",
+    "openGraph": {
+      "title": "Loot Heroes - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Loot Heroes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/loot-heroes-og.jpg",
+      "url": "https://littlegames.com/games/loot-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Loot Heroes - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Loot Heroes. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/loot-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Loot Heroes",
+      "href": "/games/loot-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_105",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

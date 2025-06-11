@@ -1,0 +1,54 @@
+{
+  "gameId": 1033,
+  "slug": "bullet-time",
+  "metadata": {
+    "title": "Free Bullet Time Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Bullet Time. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Bullet Time game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-time",
+    "openGraph": {
+      "title": "Free Bullet Time Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bullet Time. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bullet-time-og.jpg",
+      "url": "https://littlegames.com/games/bullet-time",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bullet Time Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Bullet Time. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bullet-time-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bullet Time",
+      "href": "/games/bullet-time",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_029",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

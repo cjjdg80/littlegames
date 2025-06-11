@@ -1,0 +1,54 @@
+{
+  "gameId": 709,
+  "slug": "monster-ball",
+  "metadata": {
+    "title": "Monster Ball - Exciting Action Adventure Game",
+    "description": "Join the action in Monster Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Monster Ball game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/monster-ball",
+    "openGraph": {
+      "title": "Monster Ball - Exciting Action Adventure Game",
+      "description": "Join the action in Monster Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/monster-ball-og.jpg",
+      "url": "https://littlegames.com/games/monster-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Monster Ball - Exciting Action Adventure Game",
+      "description": "Join the action in Monster Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/monster-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Monster Ball",
+      "href": "/games/monster-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_985",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1564,
+  "slug": "princess-outfitters",
+  "metadata": {
+    "title": "Princess Outfitters - Exciting Action Adventure Game",
+    "description": "Join the action in Princess Outfitters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Princess Outfitters",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/princess-outfitters",
+    "openGraph": {
+      "title": "Princess Outfitters - Exciting Action Adventure Game",
+      "description": "Join the action in Princess Outfitters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/princess-outfitters-og.jpg",
+      "url": "https://littlegames.com/games/princess-outfitters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Princess Outfitters - Exciting Action Adventure Game",
+      "description": "Join the action in Princess Outfitters! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/princess-outfitters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Princess Outfitters",
+      "href": "/games/princess-outfitters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_490",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

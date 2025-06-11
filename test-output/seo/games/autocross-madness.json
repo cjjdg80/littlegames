@@ -1,0 +1,54 @@
+{
+  "gameId": 5394,
+  "slug": "autocross-madness",
+  "metadata": {
+    "title": "Autocross Madness Online - Explore and Discover",
+    "description": "Start your epic journey with Autocross Madness! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Autocross Madness",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/autocross-madness",
+    "openGraph": {
+      "title": "Autocross Madness Online - Explore and Discover",
+      "description": "Start your epic journey with Autocross Madness! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/autocross-madness-og.jpg",
+      "url": "https://littlegames.com/games/autocross-madness",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Autocross Madness Online - Explore and Discover",
+      "description": "Start your epic journey with Autocross Madness! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/autocross-madness-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Autocross Madness",
+      "href": "/games/autocross-madness",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_223",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

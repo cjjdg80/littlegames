@@ -1,0 +1,54 @@
+{
+  "gameId": 2874,
+  "slug": "super-sandy-world",
+  "metadata": {
+    "title": "Adventure Game Super Sandy World - Journey Begins",
+    "description": "Discover new worlds in Super Sandy World. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Super Sandy World game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/super-sandy-world",
+    "openGraph": {
+      "title": "Adventure Game Super Sandy World - Journey Begins",
+      "description": "Discover new worlds in Super Sandy World. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/super-sandy-world-og.jpg",
+      "url": "https://littlegames.com/games/super-sandy-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Super Sandy World - Journey Begins",
+      "description": "Discover new worlds in Super Sandy World. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/super-sandy-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Sandy World",
+      "href": "/games/super-sandy-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_103",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

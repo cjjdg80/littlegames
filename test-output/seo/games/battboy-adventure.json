@@ -1,0 +1,54 @@
+{
+  "gameId": 1962,
+  "slug": "battboy-adventure",
+  "metadata": {
+    "title": "Battboy Adventure - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Battboy Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "Battboy Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/battboy-adventure",
+    "openGraph": {
+      "title": "Battboy Adventure - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Battboy Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/battboy-adventure-og.jpg",
+      "url": "https://littlegames.com/games/battboy-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Battboy Adventure - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Battboy Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/battboy-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Battboy Adventure",
+      "href": "/games/battboy-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_831",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

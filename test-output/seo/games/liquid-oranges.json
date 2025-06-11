@@ -1,0 +1,54 @@
+{
+  "gameId": 4155,
+  "slug": "liquid-oranges",
+  "metadata": {
+    "title": "Play Liquid Oranges - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Liquid Oranges. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Liquid Oranges online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/liquid-oranges",
+    "openGraph": {
+      "title": "Play Liquid Oranges - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Liquid Oranges. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/liquid-oranges-og.jpg",
+      "url": "https://littlegames.com/games/liquid-oranges",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Liquid Oranges - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Liquid Oranges. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/liquid-oranges-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Liquid Oranges",
+      "href": "/games/liquid-oranges",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_811",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

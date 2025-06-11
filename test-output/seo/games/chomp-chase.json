@@ -1,0 +1,54 @@
+{
+  "gameId": 7110,
+  "slug": "chomp-chase",
+  "metadata": {
+    "title": "Chomp Chase - Exciting Action Adventure Game",
+    "description": "Chomp Chase delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Chomp Chase game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/chomp-chase",
+    "openGraph": {
+      "title": "Chomp Chase - Exciting Action Adventure Game",
+      "description": "Chomp Chase delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chomp-chase-og.jpg",
+      "url": "https://littlegames.com/games/chomp-chase",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chomp Chase - Exciting Action Adventure Game",
+      "description": "Chomp Chase delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/chomp-chase-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Chomp Chase",
+      "href": "/games/chomp-chase",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_416",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

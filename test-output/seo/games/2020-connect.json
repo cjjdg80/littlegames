@@ -1,0 +1,54 @@
+{
+  "gameId": 8090,
+  "slug": "2020-connect",
+  "metadata": {
+    "title": "Free 2020 Connect Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with 2020 Connect! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "2020 Connect",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/2020-connect",
+    "openGraph": {
+      "title": "Free 2020 Connect Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with 2020 Connect! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/2020-connect-og.jpg",
+      "url": "https://littlegames.com/games/2020-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free 2020 Connect Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with 2020 Connect! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/2020-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "2020 Connect",
+      "href": "/games/2020-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_796",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

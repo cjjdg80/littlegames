@@ -1,0 +1,54 @@
+{
+  "gameId": 8337,
+  "slug": "puzzle-lub",
+  "metadata": {
+    "title": "Free Puzzle lub Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Puzzle lub. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Puzzle lub game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/puzzle-lub",
+    "openGraph": {
+      "title": "Free Puzzle lub Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Puzzle lub. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzle-lub-og.jpg",
+      "url": "https://littlegames.com/games/puzzle-lub",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Puzzle lub Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Puzzle lub. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/puzzle-lub-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Puzzle lub",
+      "href": "/games/puzzle-lub",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_453",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4251,
+  "slug": "impostor-shooter",
+  "metadata": {
+    "title": "Play Impostor Shooter - Free Action Game Online",
+    "description": "Dive into the action-packed world of Impostor Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Impostor Shooter online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/impostor-shooter",
+    "openGraph": {
+      "title": "Play Impostor Shooter - Free Action Game Online",
+      "description": "Dive into the action-packed world of Impostor Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/impostor-shooter-og.jpg",
+      "url": "https://littlegames.com/games/impostor-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Impostor Shooter - Free Action Game Online",
+      "description": "Dive into the action-packed world of Impostor Shooter. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/impostor-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Impostor Shooter",
+      "href": "/games/impostor-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_787",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

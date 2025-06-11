@@ -1,0 +1,54 @@
+{
+  "gameId": 1945,
+  "slug": "15-puzzle",
+  "metadata": {
+    "title": "15 Puzzle - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in 15 Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play 15 Puzzle",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/15-puzzle",
+    "openGraph": {
+      "title": "15 Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in 15 Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/15-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/15-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "15 Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in 15 Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/15-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "15 Puzzle",
+      "href": "/games/15-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_301",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

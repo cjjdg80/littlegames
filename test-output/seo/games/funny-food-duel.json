@@ -1,0 +1,54 @@
+{
+  "gameId": 3679,
+  "slug": "funny-food-duel",
+  "metadata": {
+    "title": "Funny Food Duel - Exciting Action Adventure Game",
+    "description": "Funny Food Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Funny Food Duel online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/funny-food-duel",
+    "openGraph": {
+      "title": "Funny Food Duel - Exciting Action Adventure Game",
+      "description": "Funny Food Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-food-duel-og.jpg",
+      "url": "https://littlegames.com/games/funny-food-duel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Funny Food Duel - Exciting Action Adventure Game",
+      "description": "Funny Food Duel delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-food-duel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Funny Food Duel",
+      "href": "/games/funny-food-duel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_055",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

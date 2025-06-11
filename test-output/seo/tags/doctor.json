@@ -1,0 +1,46 @@
+{
+  "tag": "doctor",
+  "displayName": "Doctor",
+  "metadata": {
+    "title": "Doctor Games - Play Free Online",
+    "description": "Discover amazing doctor games! Play 62 free games with doctor theme. No downloads required.",
+    "keywords": [
+      "doctor games",
+      "free online games",
+      "browser games",
+      "doctor theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/doctor",
+    "openGraph": {
+      "title": "Doctor Games - Free Online Gaming",
+      "description": "Play the best doctor games online for free. 62 games available.",
+      "image": "https://littlegames.com/images/tags/doctor-og.jpg",
+      "url": "https://littlegames.com/tags/doctor",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Doctor Games - Free Online",
+      "description": "Play 62 free doctor games online.",
+      "image": "https://littlegames.com/images/tags/doctor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Doctor",
+      "href": "/tags/doctor",
+      "current": true
+    }
+  ],
+  "description": "Discover games with doctor theme! Our collection includes 62 carefully selected games that feature doctor elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

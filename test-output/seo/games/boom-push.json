@@ -1,0 +1,54 @@
+{
+  "gameId": 5204,
+  "slug": "boom-push",
+  "metadata": {
+    "title": "Free Boom Push Game - Action Packed Fun",
+    "description": "Boom Push delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Boom Push game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/boom-push",
+    "openGraph": {
+      "title": "Free Boom Push Game - Action Packed Fun",
+      "description": "Boom Push delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/boom-push-og.jpg",
+      "url": "https://littlegames.com/games/boom-push",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Boom Push Game - Action Packed Fun",
+      "description": "Boom Push delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/boom-push-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Boom Push",
+      "href": "/games/boom-push",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_330",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

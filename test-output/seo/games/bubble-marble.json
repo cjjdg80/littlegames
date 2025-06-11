@@ -1,0 +1,54 @@
+{
+  "gameId": 3749,
+  "slug": "bubble-marble",
+  "metadata": {
+    "title": "Action Game Bubble Marble - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Bubble Marble. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bubble Marble online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-marble",
+    "openGraph": {
+      "title": "Action Game Bubble Marble - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Bubble Marble. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-marble-og.jpg",
+      "url": "https://littlegames.com/games/bubble-marble",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bubble Marble - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Bubble Marble. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bubble-marble-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bubble Marble",
+      "href": "/games/bubble-marble",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_225",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

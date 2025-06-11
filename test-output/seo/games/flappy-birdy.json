@@ -1,0 +1,54 @@
+{
+  "gameId": 1248,
+  "slug": "flappy-birdy",
+  "metadata": {
+    "title": "Free Flappy Birdy Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Flappy Birdy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Flappy Birdy",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/flappy-birdy",
+    "openGraph": {
+      "title": "Free Flappy Birdy Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Flappy Birdy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/flappy-birdy-og.jpg",
+      "url": "https://littlegames.com/games/flappy-birdy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Flappy Birdy Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Flappy Birdy. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/flappy-birdy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flappy Birdy",
+      "href": "/games/flappy-birdy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_694",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

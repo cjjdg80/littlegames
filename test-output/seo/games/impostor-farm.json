@@ -1,0 +1,54 @@
+{
+  "gameId": 3516,
+  "slug": "impostor-farm",
+  "metadata": {
+    "title": "Free Impostor Farm Game - Action Packed Fun",
+    "description": "Impostor Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Impostor Farm online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/impostor-farm",
+    "openGraph": {
+      "title": "Free Impostor Farm Game - Action Packed Fun",
+      "description": "Impostor Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/impostor-farm-og.jpg",
+      "url": "https://littlegames.com/games/impostor-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Impostor Farm Game - Action Packed Fun",
+      "description": "Impostor Farm delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/impostor-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Impostor Farm",
+      "href": "/games/impostor-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_002",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

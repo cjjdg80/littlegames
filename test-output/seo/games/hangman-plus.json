@@ -1,0 +1,54 @@
+{
+  "gameId": 5073,
+  "slug": "hangman-plus",
+  "metadata": {
+    "title": "Action Game Hangman Plus - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Hangman Plus. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Hangman Plus",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hangman-plus",
+    "openGraph": {
+      "title": "Action Game Hangman Plus - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Hangman Plus. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hangman-plus-og.jpg",
+      "url": "https://littlegames.com/games/hangman-plus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Hangman Plus - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Hangman Plus. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hangman-plus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hangman Plus",
+      "href": "/games/hangman-plus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_269",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

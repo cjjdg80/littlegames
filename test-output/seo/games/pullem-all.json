@@ -1,0 +1,54 @@
+{
+  "gameId": 5720,
+  "slug": "pullem-all",
+  "metadata": {
+    "title": "Pull'em All Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Pull'em All. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Pull'em All",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/pullem-all",
+    "openGraph": {
+      "title": "Pull'em All Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Pull'em All. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pullem-all-og.jpg",
+      "url": "https://littlegames.com/games/pullem-all",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pull'em All Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Pull'em All. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pullem-all-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pull'em All",
+      "href": "/games/pullem-all",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_326",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

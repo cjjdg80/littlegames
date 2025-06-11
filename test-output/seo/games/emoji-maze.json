@@ -1,0 +1,54 @@
+{
+  "gameId": 5393,
+  "slug": "emoji-maze",
+  "metadata": {
+    "title": "Emoji Maze - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Emoji Maze! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Emoji Maze game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-maze",
+    "openGraph": {
+      "title": "Emoji Maze - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Emoji Maze! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/emoji-maze-og.jpg",
+      "url": "https://littlegames.com/games/emoji-maze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Emoji Maze - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Emoji Maze! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/emoji-maze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Emoji Maze",
+      "href": "/games/emoji-maze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_189",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

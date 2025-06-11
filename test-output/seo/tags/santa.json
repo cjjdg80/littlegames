@@ -1,0 +1,46 @@
+{
+  "tag": "santa",
+  "displayName": "Santa",
+  "metadata": {
+    "title": "Santa Games - Play Free Online",
+    "description": "Discover amazing santa games! Play 46 free games with santa theme. No downloads required.",
+    "keywords": [
+      "santa games",
+      "free online games",
+      "browser games",
+      "santa theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/santa",
+    "openGraph": {
+      "title": "Santa Games - Free Online Gaming",
+      "description": "Play the best santa games online for free. 46 games available.",
+      "image": "https://littlegames.com/images/tags/santa-og.jpg",
+      "url": "https://littlegames.com/tags/santa",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Games - Free Online",
+      "description": "Play 46 free santa games online.",
+      "image": "https://littlegames.com/images/tags/santa-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Santa",
+      "href": "/tags/santa",
+      "current": true
+    }
+  ],
+  "description": "Discover games with santa theme! Our collection includes 46 carefully selected games that feature santa elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3230,
+  "slug": "make-5-hexa",
+  "metadata": {
+    "title": "Make 5 Hexa Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Make 5 Hexa! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Make 5 Hexa",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/make-5-hexa",
+    "openGraph": {
+      "title": "Make 5 Hexa Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Make 5 Hexa! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/make-5-hexa-og.jpg",
+      "url": "https://littlegames.com/games/make-5-hexa",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Make 5 Hexa Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Make 5 Hexa! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/make-5-hexa-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Make 5 Hexa",
+      "href": "/games/make-5-hexa",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_136",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

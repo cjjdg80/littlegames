@@ -1,0 +1,54 @@
+{
+  "gameId": 6932,
+  "slug": "gems-blitz",
+  "metadata": {
+    "title": "Play Gems Blitz - Free Puzzle Game Online",
+    "description": "Exercise your brain with Gems Blitz. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Gems Blitz game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/gems-blitz",
+    "openGraph": {
+      "title": "Play Gems Blitz - Free Puzzle Game Online",
+      "description": "Exercise your brain with Gems Blitz. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/gems-blitz-og.jpg",
+      "url": "https://littlegames.com/games/gems-blitz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Gems Blitz - Free Puzzle Game Online",
+      "description": "Exercise your brain with Gems Blitz. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/gems-blitz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Gems Blitz",
+      "href": "/games/gems-blitz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_898",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

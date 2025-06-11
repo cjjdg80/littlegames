@@ -1,0 +1,54 @@
+{
+  "gameId": 3931,
+  "slug": "test-your-love",
+  "metadata": {
+    "title": "Action Game Test Your Love - Play Free Now",
+    "description": "Experience thrilling action in Test Your Love! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "Test Your Love",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/test-your-love",
+    "openGraph": {
+      "title": "Action Game Test Your Love - Play Free Now",
+      "description": "Experience thrilling action in Test Your Love! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/test-your-love-og.jpg",
+      "url": "https://littlegames.com/games/test-your-love",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Test Your Love - Play Free Now",
+      "description": "Experience thrilling action in Test Your Love! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/test-your-love-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Test Your Love",
+      "href": "/games/test-your-love",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_867",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

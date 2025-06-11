@@ -1,0 +1,54 @@
+{
+  "gameId": 4268,
+  "slug": "funny-math",
+  "metadata": {
+    "title": "Free Funny Math Game - Action Packed Fun",
+    "description": "Join the action in Funny Math! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Funny Math",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/funny-math",
+    "openGraph": {
+      "title": "Free Funny Math Game - Action Packed Fun",
+      "description": "Join the action in Funny Math! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/funny-math-og.jpg",
+      "url": "https://littlegames.com/games/funny-math",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Funny Math Game - Action Packed Fun",
+      "description": "Join the action in Funny Math! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/funny-math-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Funny Math",
+      "href": "/games/funny-math",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_314",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

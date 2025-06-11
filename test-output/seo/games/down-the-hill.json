@@ -1,0 +1,54 @@
+{
+  "gameId": 6994,
+  "slug": "down-the-hill",
+  "metadata": {
+    "title": "Action Game Down the Hill - Play Free Now",
+    "description": "Dive into the action-packed world of Down the Hill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Down the Hill game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/down-the-hill",
+    "openGraph": {
+      "title": "Action Game Down the Hill - Play Free Now",
+      "description": "Dive into the action-packed world of Down the Hill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/down-the-hill-og.jpg",
+      "url": "https://littlegames.com/games/down-the-hill",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Down the Hill - Play Free Now",
+      "description": "Dive into the action-packed world of Down the Hill. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/down-the-hill-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Down the Hill",
+      "href": "/games/down-the-hill",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_820",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

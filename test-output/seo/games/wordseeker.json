@@ -1,0 +1,54 @@
+{
+  "gameId": 4058,
+  "slug": "wordseeker",
+  "metadata": {
+    "title": "Play WordSeeker - Free Puzzle Game Online",
+    "description": "Sharpen your mind with WordSeeker! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play WordSeeker",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/wordseeker",
+    "openGraph": {
+      "title": "Play WordSeeker - Free Puzzle Game Online",
+      "description": "Sharpen your mind with WordSeeker! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/wordseeker-og.jpg",
+      "url": "https://littlegames.com/games/wordseeker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play WordSeeker - Free Puzzle Game Online",
+      "description": "Sharpen your mind with WordSeeker! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/wordseeker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "WordSeeker",
+      "href": "/games/wordseeker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_804",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

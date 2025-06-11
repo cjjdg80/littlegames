@@ -1,0 +1,54 @@
+{
+  "gameId": 991,
+  "slug": "tiles-hop-online",
+  "metadata": {
+    "title": "Tiles Hop Online - Exciting Action Adventure Game",
+    "description": "Join the action in Tiles Hop Online! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Tiles Hop Online",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tiles-hop-online",
+    "openGraph": {
+      "title": "Tiles Hop Online - Exciting Action Adventure Game",
+      "description": "Join the action in Tiles Hop Online! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tiles-hop-online-og.jpg",
+      "url": "https://littlegames.com/games/tiles-hop-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tiles Hop Online - Exciting Action Adventure Game",
+      "description": "Join the action in Tiles Hop Online! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tiles-hop-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Tiles Hop Online",
+      "href": "/games/tiles-hop-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_727",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

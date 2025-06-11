@@ -1,0 +1,54 @@
+{
+  "gameId": 3965,
+  "slug": "color-ship-shooter",
+  "metadata": {
+    "title": "Color Ship Shooter - Exciting Action Adventure Game",
+    "description": "Join the action in Color Ship Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Color Ship Shooter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/color-ship-shooter",
+    "openGraph": {
+      "title": "Color Ship Shooter - Exciting Action Adventure Game",
+      "description": "Join the action in Color Ship Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-ship-shooter-og.jpg",
+      "url": "https://littlegames.com/games/color-ship-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Ship Shooter - Exciting Action Adventure Game",
+      "description": "Join the action in Color Ship Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/color-ship-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Color Ship Shooter",
+      "href": "/games/color-ship-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_921",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4851,
+  "slug": "ball-stack-3d",
+  "metadata": {
+    "title": "Free Ball Stack 3D Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Ball Stack 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Ball Stack 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ball-stack-3d",
+    "openGraph": {
+      "title": "Free Ball Stack 3D Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Ball Stack 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/ball-stack-3d-og.jpg",
+      "url": "https://littlegames.com/games/ball-stack-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ball Stack 3D Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Ball Stack 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ball-stack-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ball Stack 3D",
+      "href": "/games/ball-stack-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_387",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

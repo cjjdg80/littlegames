@@ -1,0 +1,54 @@
+{
+  "gameId": 1466,
+  "slug": "dino-fossil",
+  "metadata": {
+    "title": "Puzzle Game Dino Fossil - Test Your Skills",
+    "description": "Exercise your brain with Dino Fossil. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "play Dino Fossil",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/dino-fossil",
+    "openGraph": {
+      "title": "Puzzle Game Dino Fossil - Test Your Skills",
+      "description": "Exercise your brain with Dino Fossil. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/dino-fossil-og.jpg",
+      "url": "https://littlegames.com/games/dino-fossil",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Dino Fossil - Test Your Skills",
+      "description": "Exercise your brain with Dino Fossil. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/dino-fossil-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Dino Fossil",
+      "href": "/games/dino-fossil",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_452",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8290,
+  "slug": "cricket-clash-pong",
+  "metadata": {
+    "title": "Cricket Clash Pong - Exciting Action Adventure Game",
+    "description": "Join the action in Cricket Clash Pong! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Cricket Clash Pong online",
+      "action gaming",
+      "free games",
+      "sports adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cricket-clash-pong",
+    "openGraph": {
+      "title": "Cricket Clash Pong - Exciting Action Adventure Game",
+      "description": "Join the action in Cricket Clash Pong! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cricket-clash-pong-og.jpg",
+      "url": "https://littlegames.com/games/cricket-clash-pong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cricket Clash Pong - Exciting Action Adventure Game",
+      "description": "Join the action in Cricket Clash Pong! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cricket-clash-pong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Cricket Clash Pong",
+      "href": "/games/cricket-clash-pong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_996",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

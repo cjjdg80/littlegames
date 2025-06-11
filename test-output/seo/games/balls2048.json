@@ -1,0 +1,54 @@
+{
+  "gameId": 7501,
+  "slug": "balls2048",
+  "metadata": {
+    "title": "Free Balls2048 Game - Action Packed Fun",
+    "description": "Experience thrilling action in Balls2048! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Balls2048 online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/balls2048",
+    "openGraph": {
+      "title": "Free Balls2048 Game - Action Packed Fun",
+      "description": "Experience thrilling action in Balls2048! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/balls2048-og.jpg",
+      "url": "https://littlegames.com/games/balls2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Balls2048 Game - Action Packed Fun",
+      "description": "Experience thrilling action in Balls2048! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/balls2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Balls2048",
+      "href": "/games/balls2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_537",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

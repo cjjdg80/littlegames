@@ -1,0 +1,54 @@
+{
+  "gameId": 3390,
+  "slug": "nightmare-runners",
+  "metadata": {
+    "title": "Play Nightmare Runners - Free Action Game Online",
+    "description": "Nightmare Runners delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Nightmare Runners",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/nightmare-runners",
+    "openGraph": {
+      "title": "Play Nightmare Runners - Free Action Game Online",
+      "description": "Nightmare Runners delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/nightmare-runners-og.jpg",
+      "url": "https://littlegames.com/games/nightmare-runners",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Nightmare Runners - Free Action Game Online",
+      "description": "Nightmare Runners delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/nightmare-runners-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Nightmare Runners",
+      "href": "/games/nightmare-runners",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_096",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

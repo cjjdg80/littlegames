@@ -1,0 +1,54 @@
+{
+  "gameId": 3168,
+  "slug": "catwalk-battle",
+  "metadata": {
+    "title": "Catwalk Battle Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Catwalk Battle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Catwalk Battle online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/catwalk-battle",
+    "openGraph": {
+      "title": "Catwalk Battle Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Catwalk Battle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/catwalk-battle-og.jpg",
+      "url": "https://littlegames.com/games/catwalk-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Catwalk Battle Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Catwalk Battle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/catwalk-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Catwalk Battle",
+      "href": "/games/catwalk-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_214",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1286,
+  "slug": "happy-family-puzzle",
+  "metadata": {
+    "title": "Play Happy Family Puzzle - Free Puzzle Game Online",
+    "description": "Happy Family Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "Happy Family Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/happy-family-puzzle",
+    "openGraph": {
+      "title": "Play Happy Family Puzzle - Free Puzzle Game Online",
+      "description": "Happy Family Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/happy-family-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/happy-family-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Happy Family Puzzle - Free Puzzle Game Online",
+      "description": "Happy Family Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/happy-family-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Happy Family Puzzle",
+      "href": "/games/happy-family-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_872",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

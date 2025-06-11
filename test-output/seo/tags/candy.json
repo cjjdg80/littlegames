@@ -1,0 +1,46 @@
+{
+  "tag": "candy",
+  "displayName": "Candy",
+  "metadata": {
+    "title": "Candy Games - Play Free Online",
+    "description": "Discover amazing candy games! Play 124 free games with candy theme. No downloads required.",
+    "keywords": [
+      "candy games",
+      "free online games",
+      "browser games",
+      "candy theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/candy",
+    "openGraph": {
+      "title": "Candy Games - Free Online Gaming",
+      "description": "Play the best candy games online for free. 124 games available.",
+      "image": "https://littlegames.com/images/tags/candy-og.jpg",
+      "url": "https://littlegames.com/tags/candy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Candy Games - Free Online",
+      "description": "Play 124 free candy games online.",
+      "image": "https://littlegames.com/images/tags/candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Candy",
+      "href": "/tags/candy",
+      "current": true
+    }
+  ],
+  "description": "Discover games with candy theme! Our collection includes 124 carefully selected games that feature candy elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1065,
+  "slug": "pancake-master",
+  "metadata": {
+    "title": "Pancake Master Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Pancake Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Pancake Master online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pancake-master",
+    "openGraph": {
+      "title": "Pancake Master Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Pancake Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pancake-master-og.jpg",
+      "url": "https://littlegames.com/games/pancake-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pancake Master Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Pancake Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pancake-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pancake Master",
+      "href": "/games/pancake-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_021",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

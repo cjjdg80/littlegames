@@ -1,0 +1,54 @@
+{
+  "gameId": 5986,
+  "slug": "snowball-racing",
+  "metadata": {
+    "title": "Play Snowball Racing - Free Action Game Online",
+    "description": "Dive into the action-packed world of Snowball Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Snowball Racing",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/snowball-racing",
+    "openGraph": {
+      "title": "Play Snowball Racing - Free Action Game Online",
+      "description": "Dive into the action-packed world of Snowball Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/snowball-racing-og.jpg",
+      "url": "https://littlegames.com/games/snowball-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Snowball Racing - Free Action Game Online",
+      "description": "Dive into the action-packed world of Snowball Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/snowball-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Snowball Racing",
+      "href": "/games/snowball-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_572",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

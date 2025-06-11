@@ -1,0 +1,54 @@
+{
+  "gameId": 4301,
+  "slug": "color-wheel",
+  "metadata": {
+    "title": "Play Color Wheel - Free Action Game Online",
+    "description": "Color Wheel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Color Wheel",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/color-wheel",
+    "openGraph": {
+      "title": "Play Color Wheel - Free Action Game Online",
+      "description": "Color Wheel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-wheel-og.jpg",
+      "url": "https://littlegames.com/games/color-wheel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Color Wheel - Free Action Game Online",
+      "description": "Color Wheel delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/color-wheel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Color Wheel",
+      "href": "/games/color-wheel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_337",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

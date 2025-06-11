@@ -1,0 +1,54 @@
+{
+  "gameId": 5984,
+  "slug": "super-shark-world",
+  "metadata": {
+    "title": "Super Shark World - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Super Shark World! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Super Shark World game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/super-shark-world",
+    "openGraph": {
+      "title": "Super Shark World - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Super Shark World! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/super-shark-world-og.jpg",
+      "url": "https://littlegames.com/games/super-shark-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Shark World - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Super Shark World! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/super-shark-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Super Shark World",
+      "href": "/games/super-shark-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_510",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

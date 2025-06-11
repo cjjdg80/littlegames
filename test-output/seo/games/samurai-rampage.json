@@ -1,0 +1,54 @@
+{
+  "gameId": 3462,
+  "slug": "samurai-rampage",
+  "metadata": {
+    "title": "Samurai Rampage - Exciting Action Adventure Game",
+    "description": "Samurai Rampage delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Samurai Rampage online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/samurai-rampage",
+    "openGraph": {
+      "title": "Samurai Rampage - Exciting Action Adventure Game",
+      "description": "Samurai Rampage delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/samurai-rampage-og.jpg",
+      "url": "https://littlegames.com/games/samurai-rampage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Samurai Rampage - Exciting Action Adventure Game",
+      "description": "Samurai Rampage delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/samurai-rampage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Samurai Rampage",
+      "href": "/games/samurai-rampage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_328",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

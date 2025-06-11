@@ -1,0 +1,54 @@
+{
+  "gameId": 3883,
+  "slug": "christmas-blocks",
+  "metadata": {
+    "title": "Puzzle Game Christmas Blocks - Test Your Skills",
+    "description": "Christmas Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Christmas Blocks",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Christmas Blocks - Test Your Skills",
+      "description": "Christmas Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/christmas-blocks-og.jpg",
+      "url": "https://littlegames.com/games/christmas-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Christmas Blocks - Test Your Skills",
+      "description": "Christmas Blocks offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/christmas-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Christmas Blocks",
+      "href": "/games/christmas-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_379",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

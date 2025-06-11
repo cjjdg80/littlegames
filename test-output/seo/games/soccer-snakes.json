@@ -1,0 +1,54 @@
+{
+  "gameId": 7834,
+  "slug": "soccer-snakes",
+  "metadata": {
+    "title": "Free Soccer Snakes Game - Action Packed Fun",
+    "description": "Soccer Snakes delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+    "keywords": [
+      "play Soccer Snakes",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/soccer-snakes",
+    "openGraph": {
+      "title": "Free Soccer Snakes Game - Action Packed Fun",
+      "description": "Soccer Snakes delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/soccer-snakes-og.jpg",
+      "url": "https://littlegames.com/games/soccer-snakes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Soccer Snakes Game - Action Packed Fun",
+      "description": "Soccer Snakes delivers heart-racing action and adventure. Experience instant browser play in this amazing sports game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/soccer-snakes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Soccer Snakes",
+      "href": "/games/soccer-snakes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_860",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

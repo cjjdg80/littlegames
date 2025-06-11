@@ -1,0 +1,54 @@
+{
+  "gameId": 8305,
+  "slug": "quest-by-country",
+  "metadata": {
+    "title": "Quest by Country - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Quest by Country. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Quest by Country",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/quest-by-country",
+    "openGraph": {
+      "title": "Quest by Country - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Quest by Country. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/quest-by-country-og.jpg",
+      "url": "https://littlegames.com/games/quest-by-country",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Quest by Country - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Quest by Country. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/quest-by-country-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Quest by Country",
+      "href": "/games/quest-by-country",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_461",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

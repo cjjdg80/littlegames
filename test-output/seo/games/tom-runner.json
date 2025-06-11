@@ -1,0 +1,54 @@
+{
+  "gameId": 434,
+  "slug": "tom-runner",
+  "metadata": {
+    "title": "Tom Runner - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Tom Runner! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Tom Runner",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/tom-runner",
+    "openGraph": {
+      "title": "Tom Runner - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Tom Runner! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/tom-runner-og.jpg",
+      "url": "https://littlegames.com/games/tom-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tom Runner - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Tom Runner! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/tom-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Tom Runner",
+      "href": "/games/tom-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_463",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

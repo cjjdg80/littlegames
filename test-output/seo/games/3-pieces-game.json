@@ -1,0 +1,54 @@
+{
+  "gameId": 5263,
+  "slug": "3-pieces-game",
+  "metadata": {
+    "title": "3 PIECES GAME Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of 3 PIECES GAME. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "3 PIECES GAME game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/3-pieces-game",
+    "openGraph": {
+      "title": "3 PIECES GAME Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of 3 PIECES GAME. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/3-pieces-game-og.jpg",
+      "url": "https://littlegames.com/games/3-pieces-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "3 PIECES GAME Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of 3 PIECES GAME. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/3-pieces-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "3 PIECES GAME",
+      "href": "/games/3-pieces-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_159",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3630,
+  "slug": "funny-daycare",
+  "metadata": {
+    "title": "Funny Daycare - Exciting Action Adventure Game",
+    "description": "Funny Daycare delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Funny Daycare online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/funny-daycare",
+    "openGraph": {
+      "title": "Funny Daycare - Exciting Action Adventure Game",
+      "description": "Funny Daycare delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-daycare-og.jpg",
+      "url": "https://littlegames.com/games/funny-daycare",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Funny Daycare - Exciting Action Adventure Game",
+      "description": "Funny Daycare delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/funny-daycare-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Funny Daycare",
+      "href": "/games/funny-daycare",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_536",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

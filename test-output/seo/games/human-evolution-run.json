@@ -1,0 +1,54 @@
+{
+  "gameId": 8205,
+  "slug": "human-evolution-run",
+  "metadata": {
+    "title": "Free Human Evolution Run Game - Action Packed Fun",
+    "description": "Human Evolution Run delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Human Evolution Run",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/human-evolution-run",
+    "openGraph": {
+      "title": "Free Human Evolution Run Game - Action Packed Fun",
+      "description": "Human Evolution Run delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/human-evolution-run-og.jpg",
+      "url": "https://littlegames.com/games/human-evolution-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Human Evolution Run Game - Action Packed Fun",
+      "description": "Human Evolution Run delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/human-evolution-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Human Evolution Run",
+      "href": "/games/human-evolution-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_365",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

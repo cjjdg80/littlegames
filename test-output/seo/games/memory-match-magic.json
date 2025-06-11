@@ -1,0 +1,54 @@
+{
+  "gameId": 7867,
+  "slug": "memory-match-magic",
+  "metadata": {
+    "title": "Free Memory Match Magic Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Memory Match Magic. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Memory Match Magic",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/memory-match-magic",
+    "openGraph": {
+      "title": "Free Memory Match Magic Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Memory Match Magic. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/memory-match-magic-og.jpg",
+      "url": "https://littlegames.com/games/memory-match-magic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Memory Match Magic Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Memory Match Magic. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/memory-match-magic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Memory Match Magic",
+      "href": "/games/memory-match-magic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_883",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

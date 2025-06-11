@@ -1,0 +1,54 @@
+{
+  "gameId": 1500,
+  "slug": "fish-eat-fish",
+  "metadata": {
+    "title": "Adventure Game Fish Eat Fish - Journey Begins",
+    "description": "Begin your quest in Fish Eat Fish. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Fish Eat Fish online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/fish-eat-fish",
+    "openGraph": {
+      "title": "Adventure Game Fish Eat Fish - Journey Begins",
+      "description": "Begin your quest in Fish Eat Fish. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fish-eat-fish-og.jpg",
+      "url": "https://littlegames.com/games/fish-eat-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Fish Eat Fish - Journey Begins",
+      "description": "Begin your quest in Fish Eat Fish. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fish-eat-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fish Eat Fish",
+      "href": "/games/fish-eat-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_509",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

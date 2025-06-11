@@ -1,0 +1,48 @@
+{
+  "tag": "sliding-puzzle",
+  "displayName": "Sliding Puzzle",
+  "metadata": {
+    "title": "Sliding Puzzle Games - Play Free Online",
+    "description": "Discover amazing sliding puzzle games! Play 71 free games with sliding puzzle theme. No downloads required.",
+    "keywords": [
+      "sliding puzzle games",
+      "free online games",
+      "browser games",
+      "sliding puzzle theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/sliding-puzzle",
+    "openGraph": {
+      "title": "Sliding Puzzle Games - Free Online Gaming",
+      "description": "Play the best sliding puzzle games online for free. 71 games available.",
+      "image": "https://littlegames.com/images/tags/sliding-puzzle-og.jpg",
+      "url": "https://littlegames.com/tags/sliding-puzzle",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sliding Puzzle Games - Free Online",
+      "description": "Play 71 free sliding puzzle games online.",
+      "image": "https://littlegames.com/images/tags/sliding-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Sliding Puzzle",
+      "href": "/tags/sliding-puzzle",
+      "current": true
+    }
+  ],
+  "description": "Discover games with sliding puzzle theme! Our collection includes 71 carefully selected games that feature sliding puzzle elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": [
+    "sliding"
+  ]
+}

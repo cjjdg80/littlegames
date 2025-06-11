@@ -1,0 +1,54 @@
+{
+  "gameId": 6416,
+  "slug": "knock-em-all",
+  "metadata": {
+    "title": "Play Knock Em All - Free Action Game Online",
+    "description": "Knock Em All delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Knock Em All",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/knock-em-all",
+    "openGraph": {
+      "title": "Play Knock Em All - Free Action Game Online",
+      "description": "Knock Em All delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/knock-em-all-og.jpg",
+      "url": "https://littlegames.com/games/knock-em-all",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Knock Em All - Free Action Game Online",
+      "description": "Knock Em All delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/knock-em-all-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Knock Em All",
+      "href": "/games/knock-em-all",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_902",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

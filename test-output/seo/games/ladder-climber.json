@@ -1,0 +1,54 @@
+{
+  "gameId": 2685,
+  "slug": "ladder-climber",
+  "metadata": {
+    "title": "Ladder Climber - Exciting Action Adventure Game",
+    "description": "Join the action in Ladder Climber! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Ladder Climber",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ladder-climber",
+    "openGraph": {
+      "title": "Ladder Climber - Exciting Action Adventure Game",
+      "description": "Join the action in Ladder Climber! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ladder-climber-og.jpg",
+      "url": "https://littlegames.com/games/ladder-climber",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ladder Climber - Exciting Action Adventure Game",
+      "description": "Join the action in Ladder Climber! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ladder-climber-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ladder Climber",
+      "href": "/games/ladder-climber",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_241",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

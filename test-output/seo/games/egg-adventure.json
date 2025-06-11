@@ -1,0 +1,54 @@
+{
+  "gameId": 7686,
+  "slug": "egg-adventure",
+  "metadata": {
+    "title": "Free Egg Adventure Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Egg Adventure! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Egg Adventure game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/egg-adventure",
+    "openGraph": {
+      "title": "Free Egg Adventure Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Egg Adventure! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/egg-adventure-og.jpg",
+      "url": "https://littlegames.com/games/egg-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Egg Adventure Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Egg Adventure! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/egg-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Egg Adventure",
+      "href": "/games/egg-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_272",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2609,
+  "slug": "zorb-battle",
+  "metadata": {
+    "title": "Play Zorb Battle - Free Action Game Online",
+    "description": "Join the action in Zorb Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Zorb Battle online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/zorb-battle",
+    "openGraph": {
+      "title": "Play Zorb Battle - Free Action Game Online",
+      "description": "Join the action in Zorb Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zorb-battle-og.jpg",
+      "url": "https://littlegames.com/games/zorb-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zorb Battle - Free Action Game Online",
+      "description": "Join the action in Zorb Battle! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zorb-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zorb Battle",
+      "href": "/games/zorb-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_885",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

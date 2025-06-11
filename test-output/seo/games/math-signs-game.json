@@ -1,0 +1,54 @@
+{
+  "gameId": 5444,
+  "slug": "math-signs-game",
+  "metadata": {
+    "title": "Math Signs Game - Exciting Action Adventure Game",
+    "description": "Join the action in Math Signs Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Math Signs Game online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/math-signs-game",
+    "openGraph": {
+      "title": "Math Signs Game - Exciting Action Adventure Game",
+      "description": "Join the action in Math Signs Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/math-signs-game-og.jpg",
+      "url": "https://littlegames.com/games/math-signs-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Math Signs Game - Exciting Action Adventure Game",
+      "description": "Join the action in Math Signs Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/math-signs-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Math Signs Game",
+      "href": "/games/math-signs-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_770",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

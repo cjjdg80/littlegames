@@ -1,0 +1,54 @@
+{
+  "gameId": 1920,
+  "slug": "crazy-math",
+  "metadata": {
+    "title": "Crazy Math - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Crazy Math! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Crazy Math online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-math",
+    "openGraph": {
+      "title": "Crazy Math - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Crazy Math! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/crazy-math-og.jpg",
+      "url": "https://littlegames.com/games/crazy-math",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crazy Math - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Crazy Math! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/crazy-math-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Crazy Math",
+      "href": "/games/crazy-math",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_526",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

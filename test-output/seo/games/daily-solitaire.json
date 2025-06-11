@@ -1,0 +1,54 @@
+{
+  "gameId": 6930,
+  "slug": "daily-solitaire",
+  "metadata": {
+    "title": "Daily Solitaire Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Daily Solitaire! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Daily Solitaire game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/daily-solitaire",
+    "openGraph": {
+      "title": "Daily Solitaire Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Daily Solitaire! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/daily-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/daily-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Daily Solitaire Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Daily Solitaire! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/daily-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Daily Solitaire",
+      "href": "/games/daily-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_836",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

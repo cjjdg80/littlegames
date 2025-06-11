@@ -1,0 +1,54 @@
+{
+  "gameId": 3623,
+  "slug": "unlimited-puzzles",
+  "metadata": {
+    "title": "Puzzle Game Unlimited Puzzles - Test Your Skills",
+    "description": "Challenge your mind with Unlimited Puzzles! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "puzzle games",
+      "Unlimited Puzzles",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/unlimited-puzzles",
+    "openGraph": {
+      "title": "Puzzle Game Unlimited Puzzles - Test Your Skills",
+      "description": "Challenge your mind with Unlimited Puzzles! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/unlimited-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/unlimited-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Unlimited Puzzles - Test Your Skills",
+      "description": "Challenge your mind with Unlimited Puzzles! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/unlimited-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Unlimited Puzzles",
+      "href": "/games/unlimited-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_319",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

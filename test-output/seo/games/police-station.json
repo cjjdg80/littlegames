@@ -1,0 +1,54 @@
+{
+  "gameId": 8622,
+  "slug": "police-station",
+  "metadata": {
+    "title": "Police Station Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Police Station. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Police Station",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/police-station",
+    "openGraph": {
+      "title": "Police Station Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Police Station. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/police-station-og.jpg",
+      "url": "https://littlegames.com/games/police-station",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Police Station Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Police Station. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/police-station-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Police Station",
+      "href": "/games/police-station",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_288",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

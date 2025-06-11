@@ -1,0 +1,54 @@
+{
+  "gameId": 7562,
+  "slug": "air-hockey-cup",
+  "metadata": {
+    "title": "Air Hockey Cup Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Air Hockey Cup. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Air Hockey Cup",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/air-hockey-cup",
+    "openGraph": {
+      "title": "Air Hockey Cup Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Air Hockey Cup. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/air-hockey-cup-og.jpg",
+      "url": "https://littlegames.com/games/air-hockey-cup",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Air Hockey Cup Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Air Hockey Cup. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/air-hockey-cup-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Air Hockey Cup",
+      "href": "/games/air-hockey-cup",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_428",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

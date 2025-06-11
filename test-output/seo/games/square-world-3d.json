@@ -1,0 +1,54 @@
+{
+  "gameId": 8281,
+  "slug": "square-world-3d",
+  "metadata": {
+    "title": "Square World 3D - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Square World 3D! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Square World 3D game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/square-world-3d",
+    "openGraph": {
+      "title": "Square World 3D - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Square World 3D! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/square-world-3d-og.jpg",
+      "url": "https://littlegames.com/games/square-world-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Square World 3D - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Square World 3D! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/square-world-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Square World 3D",
+      "href": "/games/square-world-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_720",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

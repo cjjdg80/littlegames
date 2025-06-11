@@ -1,0 +1,54 @@
+{
+  "gameId": 5780,
+  "slug": "classic-war-tankz",
+  "metadata": {
+    "title": "Classic War Tankz - Exciting Action Adventure Game",
+    "description": "Classic War Tankz delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Classic War Tankz online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/classic-war-tankz",
+    "openGraph": {
+      "title": "Classic War Tankz - Exciting Action Adventure Game",
+      "description": "Classic War Tankz delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/classic-war-tankz-og.jpg",
+      "url": "https://littlegames.com/games/classic-war-tankz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Classic War Tankz - Exciting Action Adventure Game",
+      "description": "Classic War Tankz delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/classic-war-tankz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Classic War Tankz",
+      "href": "/games/classic-war-tankz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_186",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

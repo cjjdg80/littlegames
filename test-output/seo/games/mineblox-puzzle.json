@@ -1,0 +1,54 @@
+{
+  "gameId": 586,
+  "slug": "mineblox-puzzle",
+  "metadata": {
+    "title": "Mineblox Puzzle - Brain Training Puzzle Challenge",
+    "description": "Mineblox Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Mineblox Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/mineblox-puzzle",
+    "openGraph": {
+      "title": "Mineblox Puzzle - Brain Training Puzzle Challenge",
+      "description": "Mineblox Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/mineblox-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/mineblox-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mineblox Puzzle - Brain Training Puzzle Challenge",
+      "description": "Mineblox Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/mineblox-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Mineblox Puzzle",
+      "href": "/games/mineblox-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_172",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

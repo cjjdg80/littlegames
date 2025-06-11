@@ -1,0 +1,54 @@
+{
+  "gameId": 4418,
+  "slug": "awesome-seaquest",
+  "metadata": {
+    "title": "Awesome Seaquest Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Awesome Seaquest. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Awesome Seaquest",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/awesome-seaquest",
+    "openGraph": {
+      "title": "Awesome Seaquest Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Awesome Seaquest. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/awesome-seaquest-og.jpg",
+      "url": "https://littlegames.com/games/awesome-seaquest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Awesome Seaquest Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Awesome Seaquest. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/awesome-seaquest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Awesome Seaquest",
+      "href": "/games/awesome-seaquest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_964",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

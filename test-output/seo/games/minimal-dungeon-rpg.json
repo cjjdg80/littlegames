@@ -1,0 +1,54 @@
+{
+  "gameId": 4785,
+  "slug": "minimal-dungeon-rpg",
+  "metadata": {
+    "title": "Play Minimal Dungeon RPG - Epic Adventure Game Online",
+    "description": "Discover new worlds in Minimal Dungeon RPG. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Minimal Dungeon RPG game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/minimal-dungeon-rpg",
+    "openGraph": {
+      "title": "Play Minimal Dungeon RPG - Epic Adventure Game Online",
+      "description": "Discover new worlds in Minimal Dungeon RPG. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/minimal-dungeon-rpg-og.jpg",
+      "url": "https://littlegames.com/games/minimal-dungeon-rpg",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Minimal Dungeon RPG - Epic Adventure Game Online",
+      "description": "Discover new worlds in Minimal Dungeon RPG. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/minimal-dungeon-rpg-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Minimal Dungeon RPG",
+      "href": "/games/minimal-dungeon-rpg",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_344",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

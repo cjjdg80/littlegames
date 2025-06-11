@@ -1,0 +1,46 @@
+{
+  "tag": "sniper",
+  "displayName": "Sniper",
+  "metadata": {
+    "title": "Sniper Games - Play Free Online",
+    "description": "Discover amazing sniper games! Play 40 free games with sniper theme. No downloads required.",
+    "keywords": [
+      "sniper games",
+      "free online games",
+      "browser games",
+      "sniper theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/sniper",
+    "openGraph": {
+      "title": "Sniper Games - Free Online Gaming",
+      "description": "Play the best sniper games online for free. 40 games available.",
+      "image": "https://littlegames.com/images/tags/sniper-og.jpg",
+      "url": "https://littlegames.com/tags/sniper",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sniper Games - Free Online",
+      "description": "Play 40 free sniper games online.",
+      "image": "https://littlegames.com/images/tags/sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Sniper",
+      "href": "/tags/sniper",
+      "current": true
+    }
+  ],
+  "description": "Discover games with sniper theme! Our collection includes 40 carefully selected games that feature sniper elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

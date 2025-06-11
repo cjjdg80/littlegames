@@ -1,0 +1,54 @@
+{
+  "gameId": 8206,
+  "slug": "stunt-rider",
+  "metadata": {
+    "title": "Stunt Rider Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Stunt Rider! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Stunt Rider",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stunt-rider",
+    "openGraph": {
+      "title": "Stunt Rider Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Stunt Rider! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/stunt-rider-og.jpg",
+      "url": "https://littlegames.com/games/stunt-rider",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stunt Rider Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Stunt Rider! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/stunt-rider-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stunt Rider",
+      "href": "/games/stunt-rider",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_392",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

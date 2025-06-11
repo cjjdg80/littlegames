@@ -1,0 +1,54 @@
+{
+  "gameId": 5381,
+  "slug": "stumble-boys-match",
+  "metadata": {
+    "title": "Stumble Boys Match Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Stumble Boys Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Stumble Boys Match online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/stumble-boys-match",
+    "openGraph": {
+      "title": "Stumble Boys Match Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Stumble Boys Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/stumble-boys-match-og.jpg",
+      "url": "https://littlegames.com/games/stumble-boys-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stumble Boys Match Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Stumble Boys Match. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/stumble-boys-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Stumble Boys Match",
+      "href": "/games/stumble-boys-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_817",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

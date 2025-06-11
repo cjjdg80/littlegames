@@ -1,0 +1,54 @@
+{
+  "gameId": 3723,
+  "slug": "imposter-3d",
+  "metadata": {
+    "title": "Imposter 3D Online - Explore and Discover",
+    "description": "Imposter 3D offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "adventure games",
+      "Imposter 3D",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/imposter-3d",
+    "openGraph": {
+      "title": "Imposter 3D Online - Explore and Discover",
+      "description": "Imposter 3D offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/imposter-3d-og.jpg",
+      "url": "https://littlegames.com/games/imposter-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Imposter 3D Online - Explore and Discover",
+      "description": "Imposter 3D offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/imposter-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Imposter 3D",
+      "href": "/games/imposter-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_422",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

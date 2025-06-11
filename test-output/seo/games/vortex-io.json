@@ -1,0 +1,54 @@
+{
+  "gameId": 9847,
+  "slug": "vortex-io",
+  "metadata": {
+    "title": "Free Vortex io Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Vortex io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Vortex io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/vortex-io",
+    "openGraph": {
+      "title": "Free Vortex io Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Vortex io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/vortex-io-og.jpg",
+      "url": "https://littlegames.com/games/vortex-io",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Vortex io Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Vortex io. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/vortex-io-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Vortex io",
+      "href": "/games/vortex-io",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_263",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

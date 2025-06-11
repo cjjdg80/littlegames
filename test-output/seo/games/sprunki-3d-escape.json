@@ -1,0 +1,54 @@
+{
+  "gameId": 9030,
+  "slug": "sprunki-3d-escape",
+  "metadata": {
+    "title": "SPRUNKI 3D Escape - Thrilling Adventure Quest",
+    "description": "Start your epic journey with SPRUNKI 3D Escape! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "SPRUNKI 3D Escape game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/sprunki-3d-escape",
+    "openGraph": {
+      "title": "SPRUNKI 3D Escape - Thrilling Adventure Quest",
+      "description": "Start your epic journey with SPRUNKI 3D Escape! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/sprunki-3d-escape-og.jpg",
+      "url": "https://littlegames.com/games/sprunki-3d-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SPRUNKI 3D Escape - Thrilling Adventure Quest",
+      "description": "Start your epic journey with SPRUNKI 3D Escape! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/sprunki-3d-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "SPRUNKI 3D Escape",
+      "href": "/games/sprunki-3d-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_939",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

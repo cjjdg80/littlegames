@@ -1,0 +1,54 @@
+{
+  "gameId": 1878,
+  "slug": "vex-5",
+  "metadata": {
+    "title": "Free Vex 5 Game - Action Packed Fun",
+    "description": "Experience thrilling action in Vex 5! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Vex 5",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/vex-5",
+    "openGraph": {
+      "title": "Free Vex 5 Game - Action Packed Fun",
+      "description": "Experience thrilling action in Vex 5! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/vex-5-og.jpg",
+      "url": "https://littlegames.com/games/vex-5",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Vex 5 Game - Action Packed Fun",
+      "description": "Experience thrilling action in Vex 5! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/vex-5-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Vex 5",
+      "href": "/games/vex-5",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_224",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

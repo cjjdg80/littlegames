@@ -1,0 +1,54 @@
+{
+  "gameId": 1891,
+  "slug": "kitty-blocks",
+  "metadata": {
+    "title": "Puzzle Game Kitty Blocks - Test Your Skills",
+    "description": "Sharpen your mind with Kitty Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Kitty Blocks online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/kitty-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Kitty Blocks - Test Your Skills",
+      "description": "Sharpen your mind with Kitty Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/kitty-blocks-og.jpg",
+      "url": "https://littlegames.com/games/kitty-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Kitty Blocks - Test Your Skills",
+      "description": "Sharpen your mind with Kitty Blocks! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/kitty-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kitty Blocks",
+      "href": "/games/kitty-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_627",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

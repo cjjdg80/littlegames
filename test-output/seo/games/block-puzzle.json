@@ -1,0 +1,54 @@
+{
+  "gameId": 5997,
+  "slug": "block-puzzle",
+  "metadata": {
+    "title": "Play Block puzzle - Free Puzzle Game Online",
+    "description": "Put your thinking skills to the test in Block puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Block puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/block-puzzle",
+    "openGraph": {
+      "title": "Play Block puzzle - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Block puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/block-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/block-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Block puzzle - Free Puzzle Game Online",
+      "description": "Put your thinking skills to the test in Block puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/block-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block puzzle",
+      "href": "/games/block-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_913",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

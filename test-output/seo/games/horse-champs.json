@@ -1,0 +1,54 @@
+{
+  "gameId": 7903,
+  "slug": "horse-champs",
+  "metadata": {
+    "title": "Action Game Horse Champs - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Horse Champs. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Horse Champs game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/horse-champs",
+    "openGraph": {
+      "title": "Action Game Horse Champs - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Horse Champs. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/horse-champs-og.jpg",
+      "url": "https://littlegames.com/games/horse-champs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Horse Champs - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Horse Champs. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/horse-champs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Horse Champs",
+      "href": "/games/horse-champs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_999",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

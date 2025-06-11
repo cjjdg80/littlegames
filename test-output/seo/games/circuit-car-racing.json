@@ -1,0 +1,54 @@
+{
+  "gameId": 4806,
+  "slug": "circuit-car-racing",
+  "metadata": {
+    "title": "Circuit Car Racing - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Circuit Car Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "play Circuit Car Racing",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/circuit-car-racing",
+    "openGraph": {
+      "title": "Circuit Car Racing - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Circuit Car Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/circuit-car-racing-og.jpg",
+      "url": "https://littlegames.com/games/circuit-car-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Circuit Car Racing - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Circuit Car Racing. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/circuit-car-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Circuit Car Racing",
+      "href": "/games/circuit-car-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_992",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

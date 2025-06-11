@@ -1,0 +1,54 @@
+{
+  "gameId": 2000,
+  "slug": "ez-yoga",
+  "metadata": {
+    "title": "Free EZ Yoga Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in EZ Yoga. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "EZ Yoga game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ez-yoga",
+    "openGraph": {
+      "title": "Free EZ Yoga Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in EZ Yoga. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ez-yoga-og.jpg",
+      "url": "https://littlegames.com/games/ez-yoga",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free EZ Yoga Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in EZ Yoga. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ez-yoga-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "EZ Yoga",
+      "href": "/games/ez-yoga",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_006",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

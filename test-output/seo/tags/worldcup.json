@@ -1,0 +1,46 @@
+{
+  "tag": "worldcup",
+  "displayName": "Worldcup",
+  "metadata": {
+    "title": "Worldcup Games - Play Free Online",
+    "description": "Discover amazing worldcup games! Play 11 free games with worldcup theme. No downloads required.",
+    "keywords": [
+      "worldcup games",
+      "free online games",
+      "browser games",
+      "worldcup theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/worldcup",
+    "openGraph": {
+      "title": "Worldcup Games - Free Online Gaming",
+      "description": "Play the best worldcup games online for free. 11 games available.",
+      "image": "https://littlegames.com/images/tags/worldcup-og.jpg",
+      "url": "https://littlegames.com/tags/worldcup",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Worldcup Games - Free Online",
+      "description": "Play 11 free worldcup games online.",
+      "image": "https://littlegames.com/images/tags/worldcup-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Worldcup",
+      "href": "/tags/worldcup",
+      "current": true
+    }
+  ],
+  "description": "Discover games with worldcup theme! Our collection includes 11 carefully selected games that feature worldcup elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

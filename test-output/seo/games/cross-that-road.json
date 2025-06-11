@@ -1,0 +1,54 @@
+{
+  "gameId": 237,
+  "slug": "cross-that-road",
+  "metadata": {
+    "title": "Play Cross That Road - Free Action Game Online",
+    "description": "Join the action in Cross That Road! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Cross That Road",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/cross-that-road",
+    "openGraph": {
+      "title": "Play Cross That Road - Free Action Game Online",
+      "description": "Join the action in Cross That Road! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cross-that-road-og.jpg",
+      "url": "https://littlegames.com/games/cross-that-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cross That Road - Free Action Game Online",
+      "description": "Join the action in Cross That Road! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cross-that-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cross That Road",
+      "href": "/games/cross-that-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_353",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

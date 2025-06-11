@@ -1,0 +1,54 @@
+{
+  "gameId": 5060,
+  "slug": "word-stack",
+  "metadata": {
+    "title": "Word Stack - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Word Stack. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Word Stack",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/word-stack",
+    "openGraph": {
+      "title": "Word Stack - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Word Stack. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/word-stack-og.jpg",
+      "url": "https://littlegames.com/games/word-stack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Word Stack - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Word Stack. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/word-stack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Word Stack",
+      "href": "/games/word-stack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_866",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

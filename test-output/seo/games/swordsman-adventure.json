@@ -1,0 +1,54 @@
+{
+  "gameId": 9750,
+  "slug": "swordsman-adventure",
+  "metadata": {
+    "title": "Free Swordsman Adventure Game - Adventure Awaits",
+    "description": "Begin your quest in Swordsman Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Swordsman Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/swordsman-adventure",
+    "openGraph": {
+      "title": "Free Swordsman Adventure Game - Adventure Awaits",
+      "description": "Begin your quest in Swordsman Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/swordsman-adventure-og.jpg",
+      "url": "https://littlegames.com/games/swordsman-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Swordsman Adventure Game - Adventure Awaits",
+      "description": "Begin your quest in Swordsman Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/swordsman-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Swordsman Adventure",
+      "href": "/games/swordsman-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_259",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1791,
+  "slug": "mechanic-max",
+  "metadata": {
+    "title": "Mechanic Max - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Mechanic Max. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Mechanic Max",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/mechanic-max",
+    "openGraph": {
+      "title": "Mechanic Max - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mechanic Max. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mechanic-max-og.jpg",
+      "url": "https://littlegames.com/games/mechanic-max",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mechanic Max - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Mechanic Max. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mechanic-max-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mechanic Max",
+      "href": "/games/mechanic-max",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_527",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

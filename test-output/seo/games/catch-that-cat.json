@@ -1,0 +1,54 @@
+{
+  "gameId": 5681,
+  "slug": "catch-that-cat",
+  "metadata": {
+    "title": "Puzzle Game Catch That Cat - Test Your Skills",
+    "description": "Sharpen your mind with Catch That Cat! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Catch That Cat game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/catch-that-cat",
+    "openGraph": {
+      "title": "Puzzle Game Catch That Cat - Test Your Skills",
+      "description": "Sharpen your mind with Catch That Cat! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/catch-that-cat-og.jpg",
+      "url": "https://littlegames.com/games/catch-that-cat",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Catch That Cat - Test Your Skills",
+      "description": "Sharpen your mind with Catch That Cat! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/catch-that-cat-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Catch That Cat",
+      "href": "/games/catch-that-cat",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_117",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

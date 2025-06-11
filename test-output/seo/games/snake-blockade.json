@@ -1,0 +1,54 @@
+{
+  "gameId": 6468,
+  "slug": "snake-blockade",
+  "metadata": {
+    "title": "Free Snake Blockade Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Snake Blockade! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Snake Blockade online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/snake-blockade",
+    "openGraph": {
+      "title": "Free Snake Blockade Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Snake Blockade! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/snake-blockade-og.jpg",
+      "url": "https://littlegames.com/games/snake-blockade",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Snake Blockade Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Snake Blockade! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/snake-blockade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Snake Blockade",
+      "href": "/games/snake-blockade",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_514",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

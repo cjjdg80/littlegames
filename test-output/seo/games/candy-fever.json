@@ -1,0 +1,54 @@
+{
+  "gameId": 893,
+  "slug": "candy-fever",
+  "metadata": {
+    "title": "Candy Fever Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Candy Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Candy Fever game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/candy-fever",
+    "openGraph": {
+      "title": "Candy Fever Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Candy Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-fever-og.jpg",
+      "url": "https://littlegames.com/games/candy-fever",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Candy Fever Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Candy Fever! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-fever-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Candy Fever",
+      "href": "/games/candy-fever",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_689",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

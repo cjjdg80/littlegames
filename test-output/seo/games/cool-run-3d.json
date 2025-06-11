@@ -1,0 +1,54 @@
+{
+  "gameId": 654,
+  "slug": "cool-run-3d",
+  "metadata": {
+    "title": "Cool Run 3D Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Cool Run 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Cool Run 3D",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cool-run-3d",
+    "openGraph": {
+      "title": "Cool Run 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cool Run 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cool-run-3d-og.jpg",
+      "url": "https://littlegames.com/games/cool-run-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cool Run 3D Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Cool Run 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/cool-run-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cool Run 3D",
+      "href": "/games/cool-run-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_280",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

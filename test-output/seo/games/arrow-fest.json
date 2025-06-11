@@ -1,0 +1,54 @@
+{
+  "gameId": 5671,
+  "slug": "arrow-fest",
+  "metadata": {
+    "title": "Arrow Fest - Exciting Action Adventure Game",
+    "description": "Join the action in Arrow Fest! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Arrow Fest game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/arrow-fest",
+    "openGraph": {
+      "title": "Arrow Fest - Exciting Action Adventure Game",
+      "description": "Join the action in Arrow Fest! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/arrow-fest-og.jpg",
+      "url": "https://littlegames.com/games/arrow-fest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Arrow Fest - Exciting Action Adventure Game",
+      "description": "Join the action in Arrow Fest! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/arrow-fest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Arrow Fest",
+      "href": "/games/arrow-fest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_807",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

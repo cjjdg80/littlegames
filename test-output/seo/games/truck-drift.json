@@ -1,0 +1,54 @@
+{
+  "gameId": 1446,
+  "slug": "truck-drift",
+  "metadata": {
+    "title": "Truck Drift - Brain Training Puzzle Challenge",
+    "description": "Truck Drift offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "play Truck Drift",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/truck-drift",
+    "openGraph": {
+      "title": "Truck Drift - Brain Training Puzzle Challenge",
+      "description": "Truck Drift offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/truck-drift-og.jpg",
+      "url": "https://littlegames.com/games/truck-drift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Truck Drift - Brain Training Puzzle Challenge",
+      "description": "Truck Drift offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/truck-drift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Truck Drift",
+      "href": "/games/truck-drift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_832",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

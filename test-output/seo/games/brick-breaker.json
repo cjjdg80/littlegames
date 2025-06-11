@@ -1,0 +1,54 @@
+{
+  "gameId": 4353,
+  "slug": "brick-breaker",
+  "metadata": {
+    "title": "Free Brick Breaker Game - Action Packed Fun",
+    "description": "Experience thrilling action in Brick Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Brick Breaker online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/brick-breaker",
+    "openGraph": {
+      "title": "Free Brick Breaker Game - Action Packed Fun",
+      "description": "Experience thrilling action in Brick Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/brick-breaker-og.jpg",
+      "url": "https://littlegames.com/games/brick-breaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brick Breaker Game - Action Packed Fun",
+      "description": "Experience thrilling action in Brick Breaker! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/brick-breaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Brick Breaker",
+      "href": "/games/brick-breaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_949",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8201,
+  "slug": "ninja-time",
+  "metadata": {
+    "title": "Action Game Ninja Time - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Ninja Time. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Ninja Time online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-time",
+    "openGraph": {
+      "title": "Action Game Ninja Time - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Ninja Time. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ninja-time-og.jpg",
+      "url": "https://littlegames.com/games/ninja-time",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ninja Time - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Ninja Time. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ninja-time-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ninja Time",
+      "href": "/games/ninja-time",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_237",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

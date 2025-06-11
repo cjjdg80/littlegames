@@ -1,0 +1,54 @@
+{
+  "gameId": 1914,
+  "slug": "love-pin-3d",
+  "metadata": {
+    "title": "Love Pin 3D - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Love Pin 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Love Pin 3D online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/love-pin-3d",
+    "openGraph": {
+      "title": "Love Pin 3D - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Love Pin 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/love-pin-3d-og.jpg",
+      "url": "https://littlegames.com/games/love-pin-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Love Pin 3D - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Love Pin 3D. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/love-pin-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Love Pin 3D",
+      "href": "/games/love-pin-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_340",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

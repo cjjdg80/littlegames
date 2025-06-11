@@ -1,0 +1,54 @@
+{
+  "gameId": 2502,
+  "slug": "real-chess-online",
+  "metadata": {
+    "title": "Action Game Real Chess Online - Play Free Now",
+    "description": "Real Chess Online delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Real Chess Online",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/real-chess-online",
+    "openGraph": {
+      "title": "Action Game Real Chess Online - Play Free Now",
+      "description": "Real Chess Online delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/real-chess-online-og.jpg",
+      "url": "https://littlegames.com/games/real-chess-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Real Chess Online - Play Free Now",
+      "description": "Real Chess Online delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/real-chess-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Real Chess Online",
+      "href": "/games/real-chess-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_568",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

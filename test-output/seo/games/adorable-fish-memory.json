@@ -1,0 +1,54 @@
+{
+  "gameId": 1209,
+  "slug": "adorable-fish-memory",
+  "metadata": {
+    "title": "Adorable Fish Memory - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Adorable Fish Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "puzzle games",
+      "Adorable Fish Memory",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/adorable-fish-memory",
+    "openGraph": {
+      "title": "Adorable Fish Memory - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Adorable Fish Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/adorable-fish-memory-og.jpg",
+      "url": "https://littlegames.com/games/adorable-fish-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adorable Fish Memory - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Adorable Fish Memory. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/adorable-fish-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Adorable Fish Memory",
+      "href": "/games/adorable-fish-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_485",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

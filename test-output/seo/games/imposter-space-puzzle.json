@@ -1,0 +1,54 @@
+{
+  "gameId": 2971,
+  "slug": "imposter-space-puzzle",
+  "metadata": {
+    "title": "Imposter Space Puzzle - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Imposter Space Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Imposter Space Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/imposter-space-puzzle",
+    "openGraph": {
+      "title": "Imposter Space Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Imposter Space Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/imposter-space-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/imposter-space-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Imposter Space Puzzle - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Imposter Space Puzzle. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/imposter-space-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Imposter Space Puzzle",
+      "href": "/games/imposter-space-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_107",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

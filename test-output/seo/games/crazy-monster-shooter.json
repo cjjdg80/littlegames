@@ -1,0 +1,54 @@
+{
+  "gameId": 5738,
+  "slug": "crazy-monster-shooter",
+  "metadata": {
+    "title": "Crazy Monster Shooter - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Crazy Monster Shooter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "action games",
+      "Crazy Monster Shooter",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-monster-shooter",
+    "openGraph": {
+      "title": "Crazy Monster Shooter - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Crazy Monster Shooter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/crazy-monster-shooter-og.jpg",
+      "url": "https://littlegames.com/games/crazy-monster-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crazy Monster Shooter - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Crazy Monster Shooter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/crazy-monster-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crazy Monster Shooter",
+      "href": "/games/crazy-monster-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_884",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

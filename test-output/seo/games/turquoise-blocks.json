@@ -1,0 +1,54 @@
+{
+  "gameId": 2985,
+  "slug": "turquoise-blocks",
+  "metadata": {
+    "title": "Puzzle Game Turquoise Blocks - Test Your Skills",
+    "description": "Exercise your brain with Turquoise Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Turquoise Blocks online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/turquoise-blocks",
+    "openGraph": {
+      "title": "Puzzle Game Turquoise Blocks - Test Your Skills",
+      "description": "Exercise your brain with Turquoise Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/turquoise-blocks-og.jpg",
+      "url": "https://littlegames.com/games/turquoise-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Turquoise Blocks - Test Your Skills",
+      "description": "Exercise your brain with Turquoise Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/turquoise-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Turquoise Blocks",
+      "href": "/games/turquoise-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_541",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

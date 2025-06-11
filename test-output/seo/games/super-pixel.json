@@ -1,0 +1,54 @@
+{
+  "gameId": 3590,
+  "slug": "super-pixel",
+  "metadata": {
+    "title": "Play Super Pixel - Epic Adventure Game Online",
+    "description": "Begin your quest in Super Pixel. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Super Pixel game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/super-pixel",
+    "openGraph": {
+      "title": "Play Super Pixel - Epic Adventure Game Online",
+      "description": "Begin your quest in Super Pixel. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-pixel-og.jpg",
+      "url": "https://littlegames.com/games/super-pixel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Super Pixel - Epic Adventure Game Online",
+      "description": "Begin your quest in Super Pixel. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-pixel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Pixel",
+      "href": "/games/super-pixel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_299",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

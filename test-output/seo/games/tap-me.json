@@ -1,0 +1,54 @@
+{
+  "gameId": 7068,
+  "slug": "tap-me",
+  "metadata": {
+    "title": "TAP ME - Exciting Action Adventure Game",
+    "description": "Join the action in TAP ME! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "TAP ME game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/tap-me",
+    "openGraph": {
+      "title": "TAP ME - Exciting Action Adventure Game",
+      "description": "Join the action in TAP ME! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tap-me-og.jpg",
+      "url": "https://littlegames.com/games/tap-me",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "TAP ME - Exciting Action Adventure Game",
+      "description": "Join the action in TAP ME! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tap-me-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "TAP ME",
+      "href": "/games/tap-me",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_114",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4094,
+  "slug": "apple-worm",
+  "metadata": {
+    "title": "Apple Worm - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Apple Worm. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Apple Worm online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/apple-worm",
+    "openGraph": {
+      "title": "Apple Worm - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Apple Worm. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/apple-worm-og.jpg",
+      "url": "https://littlegames.com/games/apple-worm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Apple Worm - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Apple Worm. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/apple-worm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Apple Worm",
+      "href": "/games/apple-worm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_920",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

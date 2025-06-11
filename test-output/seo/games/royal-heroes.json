@@ -1,0 +1,54 @@
+{
+  "gameId": 4122,
+  "slug": "royal-heroes",
+  "metadata": {
+    "title": "Royal Heroes Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Royal Heroes! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Royal Heroes online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/royal-heroes",
+    "openGraph": {
+      "title": "Royal Heroes Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Royal Heroes! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/royal-heroes-og.jpg",
+      "url": "https://littlegames.com/games/royal-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Royal Heroes Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Royal Heroes! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/royal-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Royal Heroes",
+      "href": "/games/royal-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_788",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

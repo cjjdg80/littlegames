@@ -1,0 +1,54 @@
+{
+  "gameId": 4683,
+  "slug": "jelly-boom",
+  "metadata": {
+    "title": "Play Jelly Boom - Free Action Game Online",
+    "description": "Join the action in Jelly Boom! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Jelly Boom online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-boom",
+    "openGraph": {
+      "title": "Play Jelly Boom - Free Action Game Online",
+      "description": "Join the action in Jelly Boom! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jelly-boom-og.jpg",
+      "url": "https://littlegames.com/games/jelly-boom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jelly Boom - Free Action Game Online",
+      "description": "Join the action in Jelly Boom! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jelly-boom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jelly Boom",
+      "href": "/games/jelly-boom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_179",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

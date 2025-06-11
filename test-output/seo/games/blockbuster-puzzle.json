@@ -1,0 +1,54 @@
+{
+  "gameId": 7056,
+  "slug": "blockbuster-puzzle",
+  "metadata": {
+    "title": "Play BlockBuster Puzzle - Free Puzzle Game Online",
+    "description": "Exercise your brain with BlockBuster Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "puzzle games",
+      "BlockBuster Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/blockbuster-puzzle",
+    "openGraph": {
+      "title": "Play BlockBuster Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with BlockBuster Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/blockbuster-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/blockbuster-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play BlockBuster Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with BlockBuster Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/blockbuster-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "BlockBuster Puzzle",
+      "href": "/games/blockbuster-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_742",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

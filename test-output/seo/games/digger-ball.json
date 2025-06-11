@@ -1,0 +1,54 @@
+{
+  "gameId": 2377,
+  "slug": "digger-ball",
+  "metadata": {
+    "title": "Action Game Digger Ball - Play Free Now",
+    "description": "Join the action in Digger Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Digger Ball online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/digger-ball",
+    "openGraph": {
+      "title": "Action Game Digger Ball - Play Free Now",
+      "description": "Join the action in Digger Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/digger-ball-og.jpg",
+      "url": "https://littlegames.com/games/digger-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Digger Ball - Play Free Now",
+      "description": "Join the action in Digger Ball! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/digger-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Digger Ball",
+      "href": "/games/digger-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_693",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

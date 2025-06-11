@@ -1,0 +1,54 @@
+{
+  "gameId": 1664,
+  "slug": "confident-driver",
+  "metadata": {
+    "title": "Confident Driver - Exciting Action Adventure Game",
+    "description": "Join the action in Confident Driver! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Confident Driver",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/confident-driver",
+    "openGraph": {
+      "title": "Confident Driver - Exciting Action Adventure Game",
+      "description": "Join the action in Confident Driver! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/confident-driver-og.jpg",
+      "url": "https://littlegames.com/games/confident-driver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Confident Driver - Exciting Action Adventure Game",
+      "description": "Join the action in Confident Driver! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/confident-driver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Confident Driver",
+      "href": "/games/confident-driver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_590",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

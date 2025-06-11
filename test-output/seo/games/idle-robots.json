@@ -1,0 +1,54 @@
+{
+  "gameId": 6327,
+  "slug": "idle-robots",
+  "metadata": {
+    "title": "Action Game Idle Robots - Play Free Now",
+    "description": "Join the action in Idle Robots! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Idle Robots game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/idle-robots",
+    "openGraph": {
+      "title": "Action Game Idle Robots - Play Free Now",
+      "description": "Join the action in Idle Robots! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/idle-robots-og.jpg",
+      "url": "https://littlegames.com/games/idle-robots",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Idle Robots - Play Free Now",
+      "description": "Join the action in Idle Robots! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/idle-robots-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Robots",
+      "href": "/games/idle-robots",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_147",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

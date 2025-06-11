@@ -1,0 +1,54 @@
+{
+  "gameId": 7325,
+  "slug": "my-pocket-blacksmith",
+  "metadata": {
+    "title": "Free My Pocket Blacksmith Game - Adventure Awaits",
+    "description": "Start your epic journey with My Pocket Blacksmith! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "My Pocket Blacksmith game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/my-pocket-blacksmith",
+    "openGraph": {
+      "title": "Free My Pocket Blacksmith Game - Adventure Awaits",
+      "description": "Start your epic journey with My Pocket Blacksmith! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/my-pocket-blacksmith-og.jpg",
+      "url": "https://littlegames.com/games/my-pocket-blacksmith",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free My Pocket Blacksmith Game - Adventure Awaits",
+      "description": "Start your epic journey with My Pocket Blacksmith! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/my-pocket-blacksmith-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "My Pocket Blacksmith",
+      "href": "/games/my-pocket-blacksmith",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_084",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

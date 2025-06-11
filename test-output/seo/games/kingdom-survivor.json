@@ -1,0 +1,54 @@
+{
+  "gameId": 6380,
+  "slug": "kingdom-survivor",
+  "metadata": {
+    "title": "Play Kingdom Survivor - Free Action Game Online",
+    "description": "Kingdom Survivor delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Kingdom Survivor game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/kingdom-survivor",
+    "openGraph": {
+      "title": "Play Kingdom Survivor - Free Action Game Online",
+      "description": "Kingdom Survivor delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kingdom-survivor-og.jpg",
+      "url": "https://littlegames.com/games/kingdom-survivor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kingdom Survivor - Free Action Game Online",
+      "description": "Kingdom Survivor delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/kingdom-survivor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Kingdom Survivor",
+      "href": "/games/kingdom-survivor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_786",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

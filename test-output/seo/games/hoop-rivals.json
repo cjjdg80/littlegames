@@ -1,0 +1,54 @@
+{
+  "gameId": 9711,
+  "slug": "hoop-rivals",
+  "metadata": {
+    "title": "Hoop Rivals Online - Ultimate Action Gaming Experience",
+    "description": "Hoop Rivals delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Hoop Rivals game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hoop-rivals",
+    "openGraph": {
+      "title": "Hoop Rivals Online - Ultimate Action Gaming Experience",
+      "description": "Hoop Rivals delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hoop-rivals-og.jpg",
+      "url": "https://littlegames.com/games/hoop-rivals",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hoop Rivals Online - Ultimate Action Gaming Experience",
+      "description": "Hoop Rivals delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hoop-rivals-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hoop Rivals",
+      "href": "/games/hoop-rivals",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_047",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

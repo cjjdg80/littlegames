@@ -1,0 +1,54 @@
+{
+  "gameId": 6039,
+  "slug": "colorpoly",
+  "metadata": {
+    "title": "Free ColorPoly Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of ColorPoly. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play ColorPoly",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/colorpoly",
+    "openGraph": {
+      "title": "Free ColorPoly Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of ColorPoly. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/colorpoly-og.jpg",
+      "url": "https://littlegames.com/games/colorpoly",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free ColorPoly Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of ColorPoly. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/colorpoly-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "ColorPoly",
+      "href": "/games/colorpoly",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_215",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

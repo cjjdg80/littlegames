@@ -1,0 +1,54 @@
+{
+  "gameId": 8645,
+  "slug": "king-of-crabs",
+  "metadata": {
+    "title": "Free King of Crabs Game - Adventure Awaits",
+    "description": "King of Crabs offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play King of Crabs",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/king-of-crabs",
+    "openGraph": {
+      "title": "Free King of Crabs Game - Adventure Awaits",
+      "description": "King of Crabs offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/king-of-crabs-og.jpg",
+      "url": "https://littlegames.com/games/king-of-crabs",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free King of Crabs Game - Adventure Awaits",
+      "description": "King of Crabs offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/king-of-crabs-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "King of Crabs",
+      "href": "/games/king-of-crabs",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_004",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6805,
+  "slug": "eatventure",
+  "metadata": {
+    "title": "Eatventure - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Eatventure. This free online simulation game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Eatventure",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/eatventure",
+    "openGraph": {
+      "title": "Eatventure - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Eatventure. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/eatventure-og.jpg",
+      "url": "https://littlegames.com/games/eatventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Eatventure - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Eatventure. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/eatventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Eatventure",
+      "href": "/games/eatventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_965",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

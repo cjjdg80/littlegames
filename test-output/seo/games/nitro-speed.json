@@ -1,0 +1,54 @@
+{
+  "gameId": 6635,
+  "slug": "nitro-speed",
+  "metadata": {
+    "title": "Nitro Speed Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Nitro Speed. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Nitro Speed online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/nitro-speed",
+    "openGraph": {
+      "title": "Nitro Speed Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Nitro Speed. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/nitro-speed-og.jpg",
+      "url": "https://littlegames.com/games/nitro-speed",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Nitro Speed Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Nitro Speed. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/nitro-speed-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Nitro Speed",
+      "href": "/games/nitro-speed",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_691",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

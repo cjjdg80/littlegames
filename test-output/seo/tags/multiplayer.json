@@ -1,0 +1,46 @@
+{
+  "tag": "multiplayer",
+  "displayName": "Multiplayer",
+  "metadata": {
+    "title": "Multiplayer Games - Play Free Online",
+    "description": "Discover amazing multiplayer games! Play 462 free games with multiplayer theme. No downloads required.",
+    "keywords": [
+      "multiplayer games",
+      "free online games",
+      "browser games",
+      "multiplayer theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/multiplayer",
+    "openGraph": {
+      "title": "Multiplayer Games - Free Online Gaming",
+      "description": "Play the best multiplayer games online for free. 462 games available.",
+      "image": "https://littlegames.com/images/tags/multiplayer-og.jpg",
+      "url": "https://littlegames.com/tags/multiplayer",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Multiplayer Games - Free Online",
+      "description": "Play 462 free multiplayer games online.",
+      "image": "https://littlegames.com/images/tags/multiplayer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Multiplayer",
+      "href": "/tags/multiplayer",
+      "current": true
+    }
+  ],
+  "description": "Discover games with multiplayer theme! Our collection includes 462 carefully selected games that feature multiplayer elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7760,
+  "slug": "rescue-hero",
+  "metadata": {
+    "title": "Rescue Hero Online - Ultimate Action Gaming Experience",
+    "description": "Rescue Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Rescue Hero game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/rescue-hero",
+    "openGraph": {
+      "title": "Rescue Hero Online - Ultimate Action Gaming Experience",
+      "description": "Rescue Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rescue-hero-og.jpg",
+      "url": "https://littlegames.com/games/rescue-hero",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rescue Hero Online - Ultimate Action Gaming Experience",
+      "description": "Rescue Hero delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rescue-hero-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rescue Hero",
+      "href": "/games/rescue-hero",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_566",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

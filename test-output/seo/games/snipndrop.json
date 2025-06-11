@@ -1,0 +1,54 @@
+{
+  "gameId": 5886,
+  "slug": "snipndrop",
+  "metadata": {
+    "title": "Play SnipNdrop - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in SnipNdrop. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play SnipNdrop",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/snipndrop",
+    "openGraph": {
+      "title": "Play SnipNdrop - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in SnipNdrop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/snipndrop-og.jpg",
+      "url": "https://littlegames.com/games/snipndrop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play SnipNdrop - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in SnipNdrop. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/snipndrop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "SnipNdrop",
+      "href": "/games/snipndrop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_472",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

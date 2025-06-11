@@ -1,0 +1,54 @@
+{
+  "gameId": 1599,
+  "slug": "fill-the-balls",
+  "metadata": {
+    "title": "Fill The Balls Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Fill The Balls. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Fill The Balls online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fill-the-balls",
+    "openGraph": {
+      "title": "Fill The Balls Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Fill The Balls. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fill-the-balls-og.jpg",
+      "url": "https://littlegames.com/games/fill-the-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fill The Balls Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Fill The Balls. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fill-the-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fill The Balls",
+      "href": "/games/fill-the-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_575",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

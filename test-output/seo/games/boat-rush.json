@@ -1,0 +1,54 @@
+{
+  "gameId": 7126,
+  "slug": "boat-rush",
+  "metadata": {
+    "title": "Boat Rush - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Boat Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Boat Rush",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/boat-rush",
+    "openGraph": {
+      "title": "Boat Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Boat Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boat-rush-og.jpg",
+      "url": "https://littlegames.com/games/boat-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Boat Rush - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Boat Rush. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/boat-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Boat Rush",
+      "href": "/games/boat-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_912",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

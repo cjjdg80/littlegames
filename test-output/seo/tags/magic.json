@@ -1,0 +1,46 @@
+{
+  "tag": "magic",
+  "displayName": "Magic",
+  "metadata": {
+    "title": "Magic Games - Play Free Online",
+    "description": "Discover amazing magic games! Play 57 free games with magic theme. No downloads required.",
+    "keywords": [
+      "magic games",
+      "free online games",
+      "browser games",
+      "magic theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/magic",
+    "openGraph": {
+      "title": "Magic Games - Free Online Gaming",
+      "description": "Play the best magic games online for free. 57 games available.",
+      "image": "https://littlegames.com/images/tags/magic-og.jpg",
+      "url": "https://littlegames.com/tags/magic",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Magic Games - Free Online",
+      "description": "Play 57 free magic games online.",
+      "image": "https://littlegames.com/images/tags/magic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Magic",
+      "href": "/tags/magic",
+      "current": true
+    }
+  ],
+  "description": "Discover games with magic theme! Our collection includes 57 carefully selected games that feature magic elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 2700,
+  "slug": "unicorn-beauty-salon",
+  "metadata": {
+    "title": "Free Unicorn Beauty Salon Game - Action Packed Fun",
+    "description": "Experience thrilling action in Unicorn Beauty Salon! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "action games",
+      "Unicorn Beauty Salon",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/unicorn-beauty-salon",
+    "openGraph": {
+      "title": "Free Unicorn Beauty Salon Game - Action Packed Fun",
+      "description": "Experience thrilling action in Unicorn Beauty Salon! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/unicorn-beauty-salon-og.jpg",
+      "url": "https://littlegames.com/games/unicorn-beauty-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Unicorn Beauty Salon Game - Action Packed Fun",
+      "description": "Experience thrilling action in Unicorn Beauty Salon! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/unicorn-beauty-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Unicorn Beauty Salon",
+      "href": "/games/unicorn-beauty-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_706",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

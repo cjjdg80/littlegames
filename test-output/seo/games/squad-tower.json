@@ -1,0 +1,54 @@
+{
+  "gameId": 4632,
+  "slug": "squad-tower",
+  "metadata": {
+    "title": "Squad Tower Online - Ultimate Action Gaming Experience",
+    "description": "Squad Tower delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Squad Tower online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/squad-tower",
+    "openGraph": {
+      "title": "Squad Tower Online - Ultimate Action Gaming Experience",
+      "description": "Squad Tower delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/squad-tower-og.jpg",
+      "url": "https://littlegames.com/games/squad-tower",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Squad Tower Online - Ultimate Action Gaming Experience",
+      "description": "Squad Tower delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/squad-tower-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Squad Tower",
+      "href": "/games/squad-tower",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_598",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

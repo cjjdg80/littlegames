@@ -1,0 +1,54 @@
+{
+  "gameId": 2248,
+  "slug": "exploderio",
+  "metadata": {
+    "title": "Free Exploder.io Game - Action Packed Fun",
+    "description": "Join the action in Exploder.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Exploder.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/exploderio",
+    "openGraph": {
+      "title": "Free Exploder.io Game - Action Packed Fun",
+      "description": "Join the action in Exploder.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/exploderio-og.jpg",
+      "url": "https://littlegames.com/games/exploderio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Exploder.io Game - Action Packed Fun",
+      "description": "Join the action in Exploder.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/exploderio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Exploder.io",
+      "href": "/games/exploderio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_694",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

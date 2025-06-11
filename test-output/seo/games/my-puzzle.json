@@ -1,0 +1,54 @@
+{
+  "gameId": 2632,
+  "slug": "my-puzzle",
+  "metadata": {
+    "title": "Free my puzzle Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with my puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play my puzzle",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/my-puzzle",
+    "openGraph": {
+      "title": "Free my puzzle Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with my puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/my-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/my-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free my puzzle Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with my puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/my-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "my puzzle",
+      "href": "/games/my-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_598",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

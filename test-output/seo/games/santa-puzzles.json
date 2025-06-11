@@ -1,0 +1,54 @@
+{
+  "gameId": 3810,
+  "slug": "santa-puzzles",
+  "metadata": {
+    "title": "Puzzle Game Santa Puzzles - Test Your Skills",
+    "description": "Put your thinking skills to the test in Santa Puzzles. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Santa Puzzles",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/santa-puzzles",
+    "openGraph": {
+      "title": "Puzzle Game Santa Puzzles - Test Your Skills",
+      "description": "Put your thinking skills to the test in Santa Puzzles. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/santa-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/santa-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Santa Puzzles - Test Your Skills",
+      "description": "Put your thinking skills to the test in Santa Puzzles. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/santa-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Santa Puzzles",
+      "href": "/games/santa-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_116",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

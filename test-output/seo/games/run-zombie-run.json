@@ -1,0 +1,54 @@
+{
+  "gameId": 4154,
+  "slug": "run-zombie-run",
+  "metadata": {
+    "title": "Run Zombie Run Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Run Zombie Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Run Zombie Run online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/run-zombie-run",
+    "openGraph": {
+      "title": "Run Zombie Run Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Run Zombie Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/run-zombie-run-og.jpg",
+      "url": "https://littlegames.com/games/run-zombie-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Run Zombie Run Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Run Zombie Run! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/run-zombie-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Run Zombie Run",
+      "href": "/games/run-zombie-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_780",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

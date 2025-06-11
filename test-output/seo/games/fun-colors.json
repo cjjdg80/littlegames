@@ -1,0 +1,54 @@
+{
+  "gameId": 7332,
+  "slug": "fun-colors",
+  "metadata": {
+    "title": "Action Game Fun Colors - Play Free Now",
+    "description": "Join the action in Fun Colors! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Fun Colors game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fun-colors",
+    "openGraph": {
+      "title": "Action Game Fun Colors - Play Free Now",
+      "description": "Join the action in Fun Colors! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-colors-og.jpg",
+      "url": "https://littlegames.com/games/fun-colors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fun Colors - Play Free Now",
+      "description": "Join the action in Fun Colors! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-colors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fun Colors",
+      "href": "/games/fun-colors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_298",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

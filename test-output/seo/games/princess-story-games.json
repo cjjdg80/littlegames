@@ -1,0 +1,54 @@
+{
+  "gameId": 1860,
+  "slug": "princess-story-games",
+  "metadata": {
+    "title": "Princess Story Games Online - Ultimate Action Gaming...",
+    "description": "Experience thrilling action in Princess Story Games! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "action games",
+      "Princess Story Games",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/princess-story-games",
+    "openGraph": {
+      "title": "Princess Story Games Online - Ultimate Action Gaming...",
+      "description": "Experience thrilling action in Princess Story Games! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/princess-story-games-og.jpg",
+      "url": "https://littlegames.com/games/princess-story-games",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Princess Story Games Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Princess Story Games! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/princess-story-games-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Princess Story Games",
+      "href": "/games/princess-story-games",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_666",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

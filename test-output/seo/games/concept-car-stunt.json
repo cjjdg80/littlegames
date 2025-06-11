@@ -1,0 +1,54 @@
+{
+  "gameId": 1512,
+  "slug": "concept-car-stunt",
+  "metadata": {
+    "title": "Free Concept Car Stunt Game - Action Packed Fun",
+    "description": "Join the action in Concept Car Stunt! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Concept Car Stunt game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/concept-car-stunt",
+    "openGraph": {
+      "title": "Free Concept Car Stunt Game - Action Packed Fun",
+      "description": "Join the action in Concept Car Stunt! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/concept-car-stunt-og.jpg",
+      "url": "https://littlegames.com/games/concept-car-stunt",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Concept Car Stunt Game - Action Packed Fun",
+      "description": "Join the action in Concept Car Stunt! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/concept-car-stunt-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Concept Car Stunt",
+      "href": "/games/concept-car-stunt",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_878",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

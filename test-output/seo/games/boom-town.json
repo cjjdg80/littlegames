@@ -1,0 +1,54 @@
+{
+  "gameId": 4407,
+  "slug": "boom-town",
+  "metadata": {
+    "title": "Play Boom Town - Free Action Game Online",
+    "description": "Join the action in Boom Town! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Boom Town online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/boom-town",
+    "openGraph": {
+      "title": "Play Boom Town - Free Action Game Online",
+      "description": "Join the action in Boom Town! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/boom-town-og.jpg",
+      "url": "https://littlegames.com/games/boom-town",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Boom Town - Free Action Game Online",
+      "description": "Join the action in Boom Town! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/boom-town-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Boom Town",
+      "href": "/games/boom-town",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_625",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

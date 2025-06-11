@@ -1,0 +1,46 @@
+{
+  "tag": "sport",
+  "displayName": "Sport",
+  "metadata": {
+    "title": "Sport Games - Play Free Online",
+    "description": "Discover amazing sport games! Play 150 free games with sport theme. No downloads required.",
+    "keywords": [
+      "sport games",
+      "free online games",
+      "browser games",
+      "sport theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/sport",
+    "openGraph": {
+      "title": "Sport Games - Free Online Gaming",
+      "description": "Play the best sport games online for free. 150 games available.",
+      "image": "https://littlegames.com/images/tags/sport-og.jpg",
+      "url": "https://littlegames.com/tags/sport",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sport Games - Free Online",
+      "description": "Play 150 free sport games online.",
+      "image": "https://littlegames.com/images/tags/sport-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Sport",
+      "href": "/tags/sport",
+      "current": true
+    }
+  ],
+  "description": "Discover games with sport theme! Our collection includes 150 carefully selected games that feature sport elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

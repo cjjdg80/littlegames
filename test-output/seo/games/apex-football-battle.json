@@ -1,0 +1,54 @@
+{
+  "gameId": 7257,
+  "slug": "apex-football-battle",
+  "metadata": {
+    "title": "Apex Football Battle - Exciting Action Adventure Game",
+    "description": "Apex Football Battle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Apex Football Battle",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/apex-football-battle",
+    "openGraph": {
+      "title": "Apex Football Battle - Exciting Action Adventure Game",
+      "description": "Apex Football Battle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/apex-football-battle-og.jpg",
+      "url": "https://littlegames.com/games/apex-football-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Apex Football Battle - Exciting Action Adventure Game",
+      "description": "Apex Football Battle delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/apex-football-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Apex Football Battle",
+      "href": "/games/apex-football-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_973",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

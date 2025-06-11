@@ -1,0 +1,54 @@
+{
+  "gameId": 1212,
+  "slug": "find-these-guys",
+  "metadata": {
+    "title": "Free Find These Guys Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Find These Guys. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Find These Guys online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/find-these-guys",
+    "openGraph": {
+      "title": "Free Find These Guys Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Find These Guys. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/find-these-guys-og.jpg",
+      "url": "https://littlegames.com/games/find-these-guys",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Find These Guys Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Find These Guys. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/find-these-guys-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Find These Guys",
+      "href": "/games/find-these-guys",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_578",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

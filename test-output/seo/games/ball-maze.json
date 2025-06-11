@@ -1,0 +1,54 @@
+{
+  "gameId": 3067,
+  "slug": "ball-maze",
+  "metadata": {
+    "title": "Play Ball Maze - Free Puzzle Game Online",
+    "description": "Challenge your mind with Ball Maze! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Ball Maze",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/ball-maze",
+    "openGraph": {
+      "title": "Play Ball Maze - Free Puzzle Game Online",
+      "description": "Challenge your mind with Ball Maze! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/ball-maze-og.jpg",
+      "url": "https://littlegames.com/games/ball-maze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Ball Maze - Free Puzzle Game Online",
+      "description": "Challenge your mind with Ball Maze! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/ball-maze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Ball Maze",
+      "href": "/games/ball-maze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_083",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

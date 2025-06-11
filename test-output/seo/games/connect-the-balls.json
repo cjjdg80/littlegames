@@ -1,0 +1,54 @@
+{
+  "gameId": 609,
+  "slug": "connect-the-balls",
+  "metadata": {
+    "title": "Action Game Connect The Balls - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Connect The Balls. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Connect The Balls",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/connect-the-balls",
+    "openGraph": {
+      "title": "Action Game Connect The Balls - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Connect The Balls. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/connect-the-balls-og.jpg",
+      "url": "https://littlegames.com/games/connect-the-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Connect The Balls - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Connect The Balls. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/connect-the-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Connect The Balls",
+      "href": "/games/connect-the-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_885",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

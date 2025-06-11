@@ -1,0 +1,54 @@
+{
+  "gameId": 1275,
+  "slug": "drifty-master",
+  "metadata": {
+    "title": "Free Drifty Master Game - Action Packed Fun",
+    "description": "Drifty Master delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Drifty Master",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/drifty-master",
+    "openGraph": {
+      "title": "Free Drifty Master Game - Action Packed Fun",
+      "description": "Drifty Master delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drifty-master-og.jpg",
+      "url": "https://littlegames.com/games/drifty-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Drifty Master Game - Action Packed Fun",
+      "description": "Drifty Master delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drifty-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drifty Master",
+      "href": "/games/drifty-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_531",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

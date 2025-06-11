@@ -1,0 +1,54 @@
+{
+  "gameId": 6397,
+  "slug": "royal-society",
+  "metadata": {
+    "title": "Free Royal Society Game - Action Packed Fun",
+    "description": "Royal Society delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Royal Society online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/royal-society",
+    "openGraph": {
+      "title": "Free Royal Society Game - Action Packed Fun",
+      "description": "Royal Society delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/royal-society-og.jpg",
+      "url": "https://littlegames.com/games/royal-society",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Royal Society Game - Action Packed Fun",
+      "description": "Royal Society delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/royal-society-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Royal Society",
+      "href": "/games/royal-society",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_313",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

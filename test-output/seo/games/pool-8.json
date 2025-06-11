@@ -1,0 +1,54 @@
+{
+  "gameId": 9251,
+  "slug": "pool-8",
+  "metadata": {
+    "title": "Pool 8 Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Pool 8! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "play Pool 8",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/pool-8",
+    "openGraph": {
+      "title": "Pool 8 Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Pool 8! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/pool-8-og.jpg",
+      "url": "https://littlegames.com/games/pool-8",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pool 8 Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Pool 8! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/pool-8-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pool 8",
+      "href": "/games/pool-8",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_787",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

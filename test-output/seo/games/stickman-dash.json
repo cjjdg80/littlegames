@@ -1,0 +1,54 @@
+{
+  "gameId": 2191,
+  "slug": "stickman-dash",
+  "metadata": {
+    "title": "Action Game Stickman Dash - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Stickman Dash. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Stickman Dash",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-dash",
+    "openGraph": {
+      "title": "Action Game Stickman Dash - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Stickman Dash. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stickman-dash-og.jpg",
+      "url": "https://littlegames.com/games/stickman-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Stickman Dash - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Stickman Dash. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stickman-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stickman Dash",
+      "href": "/games/stickman-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_927",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

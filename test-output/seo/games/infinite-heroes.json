@@ -1,0 +1,54 @@
+{
+  "gameId": 6005,
+  "slug": "infinite-heroes",
+  "metadata": {
+    "title": "Infinite Heroes Online - Ultimate Action Gaming Experience",
+    "description": "Infinite Heroes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Infinite Heroes",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/infinite-heroes",
+    "openGraph": {
+      "title": "Infinite Heroes Online - Ultimate Action Gaming Experience",
+      "description": "Infinite Heroes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/infinite-heroes-og.jpg",
+      "url": "https://littlegames.com/games/infinite-heroes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Infinite Heroes Online - Ultimate Action Gaming Experience",
+      "description": "Infinite Heroes delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/infinite-heroes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Infinite Heroes",
+      "href": "/games/infinite-heroes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_161",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

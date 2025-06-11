@@ -1,0 +1,54 @@
+{
+  "gameId": 6655,
+  "slug": "idle-desert-life",
+  "metadata": {
+    "title": "Idle Desert Life - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Idle Desert Life. This free online simulation game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "play Idle Desert Life",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/idle-desert-life",
+    "openGraph": {
+      "title": "Idle Desert Life - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Idle Desert Life. This free online simulation game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/idle-desert-life-og.jpg",
+      "url": "https://littlegames.com/games/idle-desert-life",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idle Desert Life - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Idle Desert Life. This free online simulation game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/idle-desert-life-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Desert Life",
+      "href": "/games/idle-desert-life",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_315",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7421,
+  "slug": "professor-parking",
+  "metadata": {
+    "title": "Professor Parking Online - Logic and Strategy Game",
+    "description": "Professor Parking offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Professor Parking game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/professor-parking",
+    "openGraph": {
+      "title": "Professor Parking Online - Logic and Strategy Game",
+      "description": "Professor Parking offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/professor-parking-og.jpg",
+      "url": "https://littlegames.com/games/professor-parking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Professor Parking Online - Logic and Strategy Game",
+      "description": "Professor Parking offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/professor-parking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Professor Parking",
+      "href": "/games/professor-parking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_057",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

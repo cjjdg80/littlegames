@@ -1,0 +1,54 @@
+{
+  "gameId": 3779,
+  "slug": "happy-connect",
+  "metadata": {
+    "title": "Happy Connect Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Happy Connect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Happy Connect",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/happy-connect",
+    "openGraph": {
+      "title": "Happy Connect Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Happy Connect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/happy-connect-og.jpg",
+      "url": "https://littlegames.com/games/happy-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Happy Connect Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Happy Connect! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/happy-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Happy Connect",
+      "href": "/games/happy-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_155",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

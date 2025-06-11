@@ -1,0 +1,54 @@
+{
+  "gameId": 2103,
+  "slug": "santa-delivery",
+  "metadata": {
+    "title": "Free Santa Delivery Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Santa Delivery. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Santa Delivery game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/santa-delivery",
+    "openGraph": {
+      "title": "Free Santa Delivery Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Santa Delivery. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/santa-delivery-og.jpg",
+      "url": "https://littlegames.com/games/santa-delivery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Santa Delivery Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Santa Delivery. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/santa-delivery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Santa Delivery",
+      "href": "/games/santa-delivery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_199",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

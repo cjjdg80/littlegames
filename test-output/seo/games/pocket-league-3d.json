@@ -1,0 +1,54 @@
+{
+  "gameId": 2473,
+  "slug": "pocket-league-3d",
+  "metadata": {
+    "title": "Pocket League 3D - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Pocket League 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Pocket League 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pocket-league-3d",
+    "openGraph": {
+      "title": "Pocket League 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Pocket League 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pocket-league-3d-og.jpg",
+      "url": "https://littlegames.com/games/pocket-league-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pocket League 3D - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Pocket League 3D. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pocket-league-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pocket League 3D",
+      "href": "/games/pocket-league-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_669",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

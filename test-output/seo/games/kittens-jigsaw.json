@@ -1,0 +1,54 @@
+{
+  "gameId": 2589,
+  "slug": "kittens-jigsaw",
+  "metadata": {
+    "title": "Kittens Jigsaw - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Kittens Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Kittens Jigsaw game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/kittens-jigsaw",
+    "openGraph": {
+      "title": "Kittens Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Kittens Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/kittens-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/kittens-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kittens Jigsaw - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Kittens Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/kittens-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kittens Jigsaw",
+      "href": "/games/kittens-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_265",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

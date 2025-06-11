@@ -1,0 +1,54 @@
+{
+  "gameId": 6090,
+  "slug": "save-your-home",
+  "metadata": {
+    "title": "Adventure Game Save Your Home - Journey Begins",
+    "description": "Start your epic journey with Save Your Home! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Save Your Home",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/save-your-home",
+    "openGraph": {
+      "title": "Adventure Game Save Your Home - Journey Begins",
+      "description": "Start your epic journey with Save Your Home! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/save-your-home-og.jpg",
+      "url": "https://littlegames.com/games/save-your-home",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Save Your Home - Journey Begins",
+      "description": "Start your epic journey with Save Your Home! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/save-your-home-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Save Your Home",
+      "href": "/games/save-your-home",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_799",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

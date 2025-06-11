@@ -1,0 +1,54 @@
+{
+  "gameId": 6014,
+  "slug": "stairs-trivia",
+  "metadata": {
+    "title": "Play Stairs Trivia - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Stairs Trivia. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Stairs Trivia online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stairs-trivia",
+    "openGraph": {
+      "title": "Play Stairs Trivia - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Stairs Trivia. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stairs-trivia-og.jpg",
+      "url": "https://littlegames.com/games/stairs-trivia",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Stairs Trivia - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Stairs Trivia. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stairs-trivia-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stairs Trivia",
+      "href": "/games/stairs-trivia",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_440",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

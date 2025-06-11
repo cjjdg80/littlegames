@@ -1,0 +1,54 @@
+{
+  "gameId": 4759,
+  "slug": "smash-it-3d",
+  "metadata": {
+    "title": "Play Smash it 3D - Free Action Game Online",
+    "description": "Experience thrilling action in Smash it 3D! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Smash it 3D online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/smash-it-3d",
+    "openGraph": {
+      "title": "Play Smash it 3D - Free Action Game Online",
+      "description": "Experience thrilling action in Smash it 3D! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/smash-it-3d-og.jpg",
+      "url": "https://littlegames.com/games/smash-it-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Smash it 3D - Free Action Game Online",
+      "description": "Experience thrilling action in Smash it 3D! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/smash-it-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Smash it 3D",
+      "href": "/games/smash-it-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_535",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

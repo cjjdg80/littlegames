@@ -1,0 +1,54 @@
+{
+  "gameId": 36,
+  "slug": "car-charging-station",
+  "metadata": {
+    "title": "Car Charging Station - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Car Charging Station. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "puzzle games",
+      "Car Charging Station",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/car-charging-station",
+    "openGraph": {
+      "title": "Car Charging Station - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Car Charging Station. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/car-charging-station-og.jpg",
+      "url": "https://littlegames.com/games/car-charging-station",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Car Charging Station - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Car Charging Station. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/car-charging-station-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Car Charging Station",
+      "href": "/games/car-charging-station",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_122",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

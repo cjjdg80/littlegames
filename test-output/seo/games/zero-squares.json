@@ -1,0 +1,54 @@
+{
+  "gameId": 3320,
+  "slug": "zero-squares",
+  "metadata": {
+    "title": "Zero Squares - Brain Training Puzzle Challenge",
+    "description": "Zero Squares offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Zero Squares",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/zero-squares",
+    "openGraph": {
+      "title": "Zero Squares - Brain Training Puzzle Challenge",
+      "description": "Zero Squares offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/zero-squares-og.jpg",
+      "url": "https://littlegames.com/games/zero-squares",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zero Squares - Brain Training Puzzle Challenge",
+      "description": "Zero Squares offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/zero-squares-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Zero Squares",
+      "href": "/games/zero-squares",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_926",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

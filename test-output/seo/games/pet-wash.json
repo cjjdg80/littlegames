@@ -1,0 +1,54 @@
+{
+  "gameId": 1503,
+  "slug": "pet-wash",
+  "metadata": {
+    "title": "Play Pet Wash - Free Action Game Online",
+    "description": "Dive into the action-packed world of Pet Wash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Pet Wash",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pet-wash",
+    "openGraph": {
+      "title": "Play Pet Wash - Free Action Game Online",
+      "description": "Dive into the action-packed world of Pet Wash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pet-wash-og.jpg",
+      "url": "https://littlegames.com/games/pet-wash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pet Wash - Free Action Game Online",
+      "description": "Dive into the action-packed world of Pet Wash. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pet-wash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pet Wash",
+      "href": "/games/pet-wash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_599",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

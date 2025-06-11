@@ -1,0 +1,54 @@
+{
+  "gameId": 5569,
+  "slug": "parkour-rooftop",
+  "metadata": {
+    "title": "Parkour Rooftop Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Parkour Rooftop! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Parkour Rooftop online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-rooftop",
+    "openGraph": {
+      "title": "Parkour Rooftop Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Parkour Rooftop! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/parkour-rooftop-og.jpg",
+      "url": "https://littlegames.com/games/parkour-rooftop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parkour Rooftop Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Parkour Rooftop! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/parkour-rooftop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parkour Rooftop",
+      "href": "/games/parkour-rooftop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_645",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

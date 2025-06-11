@@ -1,0 +1,54 @@
+{
+  "gameId": 6212,
+  "slug": "11-kisses",
+  "metadata": {
+    "title": "Free 11 Kisses Game - Action Packed Fun",
+    "description": "11 Kisses delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "11 Kisses",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/11-kisses",
+    "openGraph": {
+      "title": "Free 11 Kisses Game - Action Packed Fun",
+      "description": "11 Kisses delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/11-kisses-og.jpg",
+      "url": "https://littlegames.com/games/11-kisses",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free 11 Kisses Game - Action Packed Fun",
+      "description": "11 Kisses delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/11-kisses-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "11 Kisses",
+      "href": "/games/11-kisses",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_578",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

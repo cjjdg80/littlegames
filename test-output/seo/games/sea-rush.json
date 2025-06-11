@@ -1,0 +1,54 @@
+{
+  "gameId": 1876,
+  "slug": "sea-rush",
+  "metadata": {
+    "title": "Play Sea Rush - Free Action Game Online",
+    "description": "Join the action in Sea Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Sea Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/sea-rush",
+    "openGraph": {
+      "title": "Play Sea Rush - Free Action Game Online",
+      "description": "Join the action in Sea Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sea-rush-og.jpg",
+      "url": "https://littlegames.com/games/sea-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Sea Rush - Free Action Game Online",
+      "description": "Join the action in Sea Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/sea-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sea Rush",
+      "href": "/games/sea-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_162",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

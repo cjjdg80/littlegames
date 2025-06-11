@@ -1,0 +1,54 @@
+{
+  "gameId": 164,
+  "slug": "offroad-bus",
+  "metadata": {
+    "title": "offroad bus Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of offroad bus. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "offroad bus game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/offroad-bus",
+    "openGraph": {
+      "title": "offroad bus Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of offroad bus. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/offroad-bus-og.jpg",
+      "url": "https://littlegames.com/games/offroad-bus",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "offroad bus Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of offroad bus. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/offroad-bus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "offroad bus",
+      "href": "/games/offroad-bus",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_090",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

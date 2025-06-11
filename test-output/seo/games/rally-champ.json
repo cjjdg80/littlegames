@@ -1,0 +1,54 @@
+{
+  "gameId": 4730,
+  "slug": "rally-champ",
+  "metadata": {
+    "title": "Play Rally Champ - Free Action Game Online",
+    "description": "Rally Champ delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Rally Champ game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/rally-champ",
+    "openGraph": {
+      "title": "Play Rally Champ - Free Action Game Online",
+      "description": "Rally Champ delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rally-champ-og.jpg",
+      "url": "https://littlegames.com/games/rally-champ",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Rally Champ - Free Action Game Online",
+      "description": "Rally Champ delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rally-champ-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rally Champ",
+      "href": "/games/rally-champ",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_636",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

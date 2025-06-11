@@ -1,0 +1,54 @@
+{
+  "gameId": 3429,
+  "slug": "shot-shot",
+  "metadata": {
+    "title": "Play Shot Shot - Free Action Game Online",
+    "description": "Dive into the action-packed world of Shot Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Shot Shot",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/shot-shot",
+    "openGraph": {
+      "title": "Play Shot Shot - Free Action Game Online",
+      "description": "Dive into the action-packed world of Shot Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/shot-shot-og.jpg",
+      "url": "https://littlegames.com/games/shot-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Shot Shot - Free Action Game Online",
+      "description": "Dive into the action-packed world of Shot Shot. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/shot-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shot Shot",
+      "href": "/games/shot-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_305",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

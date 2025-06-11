@@ -1,0 +1,54 @@
+{
+  "gameId": 3410,
+  "slug": "maria-adventure",
+  "metadata": {
+    "title": "Free Maria Adventure Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Maria Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Maria Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/maria-adventure",
+    "openGraph": {
+      "title": "Free Maria Adventure Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Maria Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/maria-adventure-og.jpg",
+      "url": "https://littlegames.com/games/maria-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Maria Adventure Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Maria Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/maria-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Maria Adventure",
+      "href": "/games/maria-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_719",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

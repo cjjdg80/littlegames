@@ -1,0 +1,54 @@
+{
+  "gameId": 571,
+  "slug": "build-the-pictures",
+  "metadata": {
+    "title": "Free Build The Pictures Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Build The Pictures! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Build The Pictures game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/build-the-pictures",
+    "openGraph": {
+      "title": "Free Build The Pictures Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Build The Pictures! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/build-the-pictures-og.jpg",
+      "url": "https://littlegames.com/games/build-the-pictures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Build The Pictures Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Build The Pictures! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/build-the-pictures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Build The Pictures",
+      "href": "/games/build-the-pictures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_707",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

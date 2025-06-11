@@ -1,0 +1,54 @@
+{
+  "gameId": 4269,
+  "slug": "shumujong",
+  "metadata": {
+    "title": "Shumujong - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Shumujong. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Shumujong online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/shumujong",
+    "openGraph": {
+      "title": "Shumujong - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Shumujong. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shumujong-og.jpg",
+      "url": "https://littlegames.com/games/shumujong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shumujong - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Shumujong. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shumujong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shumujong",
+      "href": "/games/shumujong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_345",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

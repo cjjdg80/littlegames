@@ -1,0 +1,54 @@
+{
+  "gameId": 4817,
+  "slug": "spartan-mahjong",
+  "metadata": {
+    "title": "Free Spartan Mahjong Game - Action Packed Fun",
+    "description": "Spartan Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Spartan Mahjong game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/spartan-mahjong",
+    "openGraph": {
+      "title": "Free Spartan Mahjong Game - Action Packed Fun",
+      "description": "Spartan Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/spartan-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/spartan-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Spartan Mahjong Game - Action Packed Fun",
+      "description": "Spartan Mahjong delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/spartan-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Spartan Mahjong",
+      "href": "/games/spartan-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_333",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

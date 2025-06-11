@@ -1,0 +1,54 @@
+{
+  "gameId": 3565,
+  "slug": "jelly-island",
+  "metadata": {
+    "title": "Action Game Jelly Island - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Jelly Island. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Jelly Island game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-island",
+    "openGraph": {
+      "title": "Action Game Jelly Island - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Jelly Island. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jelly-island-og.jpg",
+      "url": "https://littlegames.com/games/jelly-island",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Jelly Island - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Jelly Island. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/jelly-island-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jelly Island",
+      "href": "/games/jelly-island",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_521",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

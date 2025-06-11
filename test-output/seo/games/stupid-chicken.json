@@ -1,0 +1,54 @@
+{
+  "gameId": 2881,
+  "slug": "stupid-chicken",
+  "metadata": {
+    "title": "Play Stupid Chicken - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Stupid Chicken. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Stupid Chicken",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stupid-chicken",
+    "openGraph": {
+      "title": "Play Stupid Chicken - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Stupid Chicken. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stupid-chicken-og.jpg",
+      "url": "https://littlegames.com/games/stupid-chicken",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Stupid Chicken - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Stupid Chicken. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stupid-chicken-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stupid Chicken",
+      "href": "/games/stupid-chicken",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_317",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

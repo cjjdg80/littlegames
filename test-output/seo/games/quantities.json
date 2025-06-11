@@ -1,0 +1,54 @@
+{
+  "gameId": 1900,
+  "slug": "quantities",
+  "metadata": {
+    "title": "Puzzle Game QUANTITIES - Test Your Skills",
+    "description": "QUANTITIES offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "QUANTITIES",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/quantities",
+    "openGraph": {
+      "title": "Puzzle Game QUANTITIES - Test Your Skills",
+      "description": "QUANTITIES offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/quantities-og.jpg",
+      "url": "https://littlegames.com/games/quantities",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game QUANTITIES - Test Your Skills",
+      "description": "QUANTITIES offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/quantities-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "QUANTITIES",
+      "href": "/games/quantities",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_906",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

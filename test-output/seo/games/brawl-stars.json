@@ -1,0 +1,54 @@
+{
+  "gameId": 9084,
+  "slug": "brawl-stars",
+  "metadata": {
+    "title": "Free Brawl Stars Game - Action Packed Fun",
+    "description": "Brawl Stars delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Brawl Stars game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/brawl-stars",
+    "openGraph": {
+      "title": "Free Brawl Stars Game - Action Packed Fun",
+      "description": "Brawl Stars delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/brawl-stars-og.jpg",
+      "url": "https://littlegames.com/games/brawl-stars",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brawl Stars Game - Action Packed Fun",
+      "description": "Brawl Stars delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/brawl-stars-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Brawl Stars",
+      "href": "/games/brawl-stars",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_610",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

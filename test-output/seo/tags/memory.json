@@ -1,0 +1,46 @@
+{
+  "tag": "memory",
+  "displayName": "Memory",
+  "metadata": {
+    "title": "Memory Games - Play Free Online",
+    "description": "Discover amazing memory games! Play 52 free games with memory theme. No downloads required.",
+    "keywords": [
+      "memory games",
+      "free online games",
+      "browser games",
+      "memory theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/memory",
+    "openGraph": {
+      "title": "Memory Games - Free Online Gaming",
+      "description": "Play the best memory games online for free. 52 games available.",
+      "image": "https://littlegames.com/images/tags/memory-og.jpg",
+      "url": "https://littlegames.com/tags/memory",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Memory Games - Free Online",
+      "description": "Play 52 free memory games online.",
+      "image": "https://littlegames.com/images/tags/memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Memory",
+      "href": "/tags/memory",
+      "current": true
+    }
+  ],
+  "description": "Discover games with memory theme! Our collection includes 52 carefully selected games that feature memory elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

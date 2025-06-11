@@ -1,0 +1,54 @@
+{
+  "gameId": 2686,
+  "slug": "creative-coloring",
+  "metadata": {
+    "title": "Creative Coloring - Exciting Action Adventure Game",
+    "description": "Creative Coloring delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Creative Coloring",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/creative-coloring",
+    "openGraph": {
+      "title": "Creative Coloring - Exciting Action Adventure Game",
+      "description": "Creative Coloring delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/creative-coloring-og.jpg",
+      "url": "https://littlegames.com/games/creative-coloring",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Creative Coloring - Exciting Action Adventure Game",
+      "description": "Creative Coloring delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/creative-coloring-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Creative Coloring",
+      "href": "/games/creative-coloring",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_272",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

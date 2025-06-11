@@ -1,0 +1,54 @@
+{
+  "gameId": 1201,
+  "slug": "cute-penguin-puzzle",
+  "metadata": {
+    "title": "Puzzle Game Cute Penguin Puzzle - Test Your Skills",
+    "description": "Challenge your mind with Cute Penguin Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+    "keywords": [
+      "puzzle games",
+      "Cute Penguin Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/cute-penguin-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Cute Penguin Puzzle - Test Your Skills",
+      "description": "Challenge your mind with Cute Penguin Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free...",
+      "image": "https://littlegames.com/images/games/cute-penguin-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/cute-penguin-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Cute Penguin Puzzle - Test Your Skills",
+      "description": "Challenge your mind with Cute Penguin Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/cute-penguin-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cute Penguin Puzzle",
+      "href": "/games/cute-penguin-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_237",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

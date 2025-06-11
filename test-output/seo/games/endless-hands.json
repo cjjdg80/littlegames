@@ -1,0 +1,54 @@
+{
+  "gameId": 3490,
+  "slug": "endless-hands",
+  "metadata": {
+    "title": "Free Endless Hands Game - Action Packed Fun",
+    "description": "Experience thrilling action in Endless Hands! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Endless Hands",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/endless-hands",
+    "openGraph": {
+      "title": "Free Endless Hands Game - Action Packed Fun",
+      "description": "Experience thrilling action in Endless Hands! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/endless-hands-og.jpg",
+      "url": "https://littlegames.com/games/endless-hands",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Endless Hands Game - Action Packed Fun",
+      "description": "Experience thrilling action in Endless Hands! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/endless-hands-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Endless Hands",
+      "href": "/games/endless-hands",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_196",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

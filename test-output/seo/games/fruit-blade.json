@@ -1,0 +1,54 @@
+{
+  "gameId": 2277,
+  "slug": "fruit-blade",
+  "metadata": {
+    "title": "Action Game Fruit Blade - Play Free Now",
+    "description": "Dive into the action-packed world of Fruit Blade. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Fruit Blade",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-blade",
+    "openGraph": {
+      "title": "Action Game Fruit Blade - Play Free Now",
+      "description": "Dive into the action-packed world of Fruit Blade. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fruit-blade-og.jpg",
+      "url": "https://littlegames.com/games/fruit-blade",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Fruit Blade - Play Free Now",
+      "description": "Dive into the action-packed world of Fruit Blade. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/fruit-blade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fruit Blade",
+      "href": "/games/fruit-blade",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_593",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

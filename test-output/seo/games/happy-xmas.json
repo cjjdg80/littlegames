@@ -1,0 +1,54 @@
+{
+  "gameId": 2066,
+  "slug": "happy-xmas",
+  "metadata": {
+    "title": "Happy Xmas - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Happy Xmas! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Happy Xmas online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/happy-xmas",
+    "openGraph": {
+      "title": "Happy Xmas - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Happy Xmas! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/happy-xmas-og.jpg",
+      "url": "https://littlegames.com/games/happy-xmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Happy Xmas - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Happy Xmas! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/happy-xmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Happy Xmas",
+      "href": "/games/happy-xmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_052",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

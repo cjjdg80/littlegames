@@ -1,0 +1,54 @@
+{
+  "gameId": 9855,
+  "slug": "strykon",
+  "metadata": {
+    "title": "Strykon - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Strykon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Strykon online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/strykon",
+    "openGraph": {
+      "title": "Strykon - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Strykon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/strykon-og.jpg",
+      "url": "https://littlegames.com/games/strykon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Strykon - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Strykon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/strykon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Strykon",
+      "href": "/games/strykon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_511",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

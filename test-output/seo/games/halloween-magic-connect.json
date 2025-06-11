@@ -1,0 +1,54 @@
+{
+  "gameId": 3508,
+  "slug": "halloween-magic-connect",
+  "metadata": {
+    "title": "Halloween Magic Connect - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Halloween Magic Connect. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Halloween Magic Connect online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-magic-connect",
+    "openGraph": {
+      "title": "Halloween Magic Connect - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Halloween Magic Connect. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/halloween-magic-connect-og.jpg",
+      "url": "https://littlegames.com/games/halloween-magic-connect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Magic Connect - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Halloween Magic Connect. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/halloween-magic-connect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Halloween Magic Connect",
+      "href": "/games/halloween-magic-connect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_754",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7333,
+  "slug": "long-hand-escape",
+  "metadata": {
+    "title": "Long Hand Escape Online - Logic and Strategy Game",
+    "description": "Sharpen your mind with Long Hand Escape! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Long Hand Escape game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/long-hand-escape",
+    "openGraph": {
+      "title": "Long Hand Escape Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Long Hand Escape! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/long-hand-escape-og.jpg",
+      "url": "https://littlegames.com/games/long-hand-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Long Hand Escape Online - Logic and Strategy Game",
+      "description": "Sharpen your mind with Long Hand Escape! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/long-hand-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Long Hand Escape",
+      "href": "/games/long-hand-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_329",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

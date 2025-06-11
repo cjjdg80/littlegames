@@ -1,0 +1,54 @@
+{
+  "gameId": 4239,
+  "slug": "jugar-snake",
+  "metadata": {
+    "title": "Jugar Snake - Exciting Action Adventure Game",
+    "description": "Join the action in Jugar Snake! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Jugar Snake game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jugar-snake",
+    "openGraph": {
+      "title": "Jugar Snake - Exciting Action Adventure Game",
+      "description": "Join the action in Jugar Snake! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jugar-snake-og.jpg",
+      "url": "https://littlegames.com/games/jugar-snake",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jugar Snake - Exciting Action Adventure Game",
+      "description": "Join the action in Jugar Snake! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jugar-snake-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jugar Snake",
+      "href": "/games/jugar-snake",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_415",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

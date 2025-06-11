@@ -1,0 +1,54 @@
+{
+  "gameId": 3524,
+  "slug": "fishy-trick",
+  "metadata": {
+    "title": "Fishy trick Online - Explore and Discover",
+    "description": "Begin your quest in Fishy trick. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Fishy trick",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/fishy-trick",
+    "openGraph": {
+      "title": "Fishy trick Online - Explore and Discover",
+      "description": "Begin your quest in Fishy trick. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fishy-trick-og.jpg",
+      "url": "https://littlegames.com/games/fishy-trick",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fishy trick Online - Explore and Discover",
+      "description": "Begin your quest in Fishy trick. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fishy-trick-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fishy trick",
+      "href": "/games/fishy-trick",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_253",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

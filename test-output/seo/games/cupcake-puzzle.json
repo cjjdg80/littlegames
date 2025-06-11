@@ -1,0 +1,54 @@
+{
+  "gameId": 1316,
+  "slug": "cupcake-puzzle",
+  "metadata": {
+    "title": "Play Cupcake Puzzle - Free Puzzle Game Online",
+    "description": "Challenge your mind with Cupcake Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "puzzle games",
+      "Cupcake Puzzle",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/cupcake-puzzle",
+    "openGraph": {
+      "title": "Play Cupcake Puzzle - Free Puzzle Game Online",
+      "description": "Challenge your mind with Cupcake Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/cupcake-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/cupcake-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cupcake Puzzle - Free Puzzle Game Online",
+      "description": "Challenge your mind with Cupcake Puzzle! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/cupcake-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Cupcake Puzzle",
+      "href": "/games/cupcake-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_802",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

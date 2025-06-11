@@ -1,0 +1,54 @@
+{
+  "gameId": 7095,
+  "slug": "hangman",
+  "metadata": {
+    "title": "Hangman Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Hangman. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Hangman online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/hangman",
+    "openGraph": {
+      "title": "Hangman Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Hangman. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hangman-og.jpg",
+      "url": "https://littlegames.com/games/hangman",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hangman Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Hangman. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/hangman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Hangman",
+      "href": "/games/hangman",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_951",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

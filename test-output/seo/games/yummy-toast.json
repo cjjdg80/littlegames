@@ -1,0 +1,54 @@
+{
+  "gameId": 2954,
+  "slug": "yummy-toast",
+  "metadata": {
+    "title": "Yummy Toast Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Yummy Toast. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Yummy Toast",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/yummy-toast",
+    "openGraph": {
+      "title": "Yummy Toast Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Yummy Toast. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/yummy-toast-og.jpg",
+      "url": "https://littlegames.com/games/yummy-toast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Yummy Toast Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Yummy Toast. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/yummy-toast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Yummy Toast",
+      "href": "/games/yummy-toast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_580",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

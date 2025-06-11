@@ -1,0 +1,54 @@
+{
+  "gameId": 8169,
+  "slug": "bridge-fight",
+  "metadata": {
+    "title": "Bridge Fight! - Exciting Action Adventure Game",
+    "description": "Join the action in Bridge Fight!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bridge Fight! online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bridge-fight",
+    "openGraph": {
+      "title": "Bridge Fight! - Exciting Action Adventure Game",
+      "description": "Join the action in Bridge Fight!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bridge-fight-og.jpg",
+      "url": "https://littlegames.com/games/bridge-fight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bridge Fight! - Exciting Action Adventure Game",
+      "description": "Join the action in Bridge Fight!! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bridge-fight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bridge Fight!",
+      "href": "/games/bridge-fight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_245",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5942,
+  "slug": "cards-21",
+  "metadata": {
+    "title": "Cards 21 - Exciting Action Adventure Game",
+    "description": "Join the action in Cards 21! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Cards 21",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/cards-21",
+    "openGraph": {
+      "title": "Cards 21 - Exciting Action Adventure Game",
+      "description": "Join the action in Cards 21! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cards-21-og.jpg",
+      "url": "https://littlegames.com/games/cards-21",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cards 21 - Exciting Action Adventure Game",
+      "description": "Join the action in Cards 21! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/cards-21-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cards 21",
+      "href": "/games/cards-21",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_208",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

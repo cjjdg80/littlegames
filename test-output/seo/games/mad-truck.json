@@ -1,0 +1,54 @@
+{
+  "gameId": 8800,
+  "slug": "mad-truck",
+  "metadata": {
+    "title": "Free Mad Truck Game - Action Packed Fun",
+    "description": "Experience thrilling action in Mad Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Mad Truck online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mad-truck",
+    "openGraph": {
+      "title": "Free Mad Truck Game - Action Packed Fun",
+      "description": "Experience thrilling action in Mad Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/mad-truck-og.jpg",
+      "url": "https://littlegames.com/games/mad-truck",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mad Truck Game - Action Packed Fun",
+      "description": "Experience thrilling action in Mad Truck! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/mad-truck-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mad Truck",
+      "href": "/games/mad-truck",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_806",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

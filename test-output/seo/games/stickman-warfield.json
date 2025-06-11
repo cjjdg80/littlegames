@@ -1,0 +1,54 @@
+{
+  "gameId": 2977,
+  "slug": "stickman-warfield",
+  "metadata": {
+    "title": "Stickman Warfield - Exciting Action Adventure Game",
+    "description": "Join the action in Stickman Warfield! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Stickman Warfield",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-warfield",
+    "openGraph": {
+      "title": "Stickman Warfield - Exciting Action Adventure Game",
+      "description": "Join the action in Stickman Warfield! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-warfield-og.jpg",
+      "url": "https://littlegames.com/games/stickman-warfield",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stickman Warfield - Exciting Action Adventure Game",
+      "description": "Join the action in Stickman Warfield! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-warfield-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stickman Warfield",
+      "href": "/games/stickman-warfield",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_293",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

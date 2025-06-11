@@ -1,0 +1,54 @@
+{
+  "gameId": 9898,
+  "slug": "wood-block-jam",
+  "metadata": {
+    "title": "Wood Block Jam Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Wood Block Jam! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Wood Block Jam game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/wood-block-jam",
+    "openGraph": {
+      "title": "Wood Block Jam Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Wood Block Jam! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/wood-block-jam-og.jpg",
+      "url": "https://littlegames.com/games/wood-block-jam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wood Block Jam Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Wood Block Jam! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/wood-block-jam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Wood Block Jam",
+      "href": "/games/wood-block-jam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_844",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

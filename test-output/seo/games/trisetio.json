@@ -1,0 +1,54 @@
+{
+  "gameId": 5933,
+  "slug": "trisetio",
+  "metadata": {
+    "title": "Triset.io - Exciting Action Adventure Game",
+    "description": "Join the action in Triset.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Triset.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/trisetio",
+    "openGraph": {
+      "title": "Triset.io - Exciting Action Adventure Game",
+      "description": "Join the action in Triset.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/trisetio-og.jpg",
+      "url": "https://littlegames.com/games/trisetio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Triset.io - Exciting Action Adventure Game",
+      "description": "Join the action in Triset.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/trisetio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Triset.io",
+      "href": "/games/trisetio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_929",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

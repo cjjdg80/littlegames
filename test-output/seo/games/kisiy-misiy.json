@@ -1,0 +1,54 @@
+{
+  "gameId": 3820,
+  "slug": "kisiy-misiy",
+  "metadata": {
+    "title": "Free Kisiy Misiy Game - Adventure Awaits",
+    "description": "Kisiy Misiy offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "play Kisiy Misiy",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/kisiy-misiy",
+    "openGraph": {
+      "title": "Free Kisiy Misiy Game - Adventure Awaits",
+      "description": "Kisiy Misiy offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/kisiy-misiy-og.jpg",
+      "url": "https://littlegames.com/games/kisiy-misiy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Kisiy Misiy Game - Adventure Awaits",
+      "description": "Kisiy Misiy offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/kisiy-misiy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Kisiy Misiy",
+      "href": "/games/kisiy-misiy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_429",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

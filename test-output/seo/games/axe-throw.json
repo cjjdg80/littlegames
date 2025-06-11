@@ -1,0 +1,54 @@
+{
+  "gameId": 321,
+  "slug": "axe-throw",
+  "metadata": {
+    "title": "Play AXE Throw - Free Action Game Online",
+    "description": "Join the action in AXE Throw! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play AXE Throw",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/axe-throw",
+    "openGraph": {
+      "title": "Play AXE Throw - Free Action Game Online",
+      "description": "Join the action in AXE Throw! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/axe-throw-og.jpg",
+      "url": "https://littlegames.com/games/axe-throw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play AXE Throw - Free Action Game Online",
+      "description": "Join the action in AXE Throw! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/axe-throw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "AXE Throw",
+      "href": "/games/axe-throw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_957",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

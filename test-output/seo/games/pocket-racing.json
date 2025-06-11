@@ -1,0 +1,54 @@
+{
+  "gameId": 1623,
+  "slug": "pocket-racing",
+  "metadata": {
+    "title": "Play Pocket Racing - Free Action Game Online",
+    "description": "Experience thrilling action in Pocket Racing! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "action games",
+      "Pocket Racing",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/pocket-racing",
+    "openGraph": {
+      "title": "Play Pocket Racing - Free Action Game Online",
+      "description": "Experience thrilling action in Pocket Racing! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/pocket-racing-og.jpg",
+      "url": "https://littlegames.com/games/pocket-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pocket Racing - Free Action Game Online",
+      "description": "Experience thrilling action in Pocket Racing! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pocket-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pocket Racing",
+      "href": "/games/pocket-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_319",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

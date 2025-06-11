@@ -1,0 +1,54 @@
+{
+  "gameId": 3110,
+  "slug": "the-aviator",
+  "metadata": {
+    "title": "The Aviator Online - Ultimate Action Gaming Experience",
+    "description": "The Aviator delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "The Aviator online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/the-aviator",
+    "openGraph": {
+      "title": "The Aviator Online - Ultimate Action Gaming Experience",
+      "description": "The Aviator delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/the-aviator-og.jpg",
+      "url": "https://littlegames.com/games/the-aviator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Aviator Online - Ultimate Action Gaming Experience",
+      "description": "The Aviator delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/the-aviator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "The Aviator",
+      "href": "/games/the-aviator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_416",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

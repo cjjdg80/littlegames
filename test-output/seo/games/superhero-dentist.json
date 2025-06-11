@@ -1,0 +1,54 @@
+{
+  "gameId": 2425,
+  "slug": "superhero-dentist",
+  "metadata": {
+    "title": "Superhero Dentist Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Superhero Dentist! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Superhero Dentist",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/superhero-dentist",
+    "openGraph": {
+      "title": "Superhero Dentist Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Superhero Dentist! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/superhero-dentist-og.jpg",
+      "url": "https://littlegames.com/games/superhero-dentist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Superhero Dentist Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Superhero Dentist! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/superhero-dentist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Superhero Dentist",
+      "href": "/games/superhero-dentist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_181",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

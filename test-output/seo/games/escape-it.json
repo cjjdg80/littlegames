@@ -1,0 +1,54 @@
+{
+  "gameId": 5836,
+  "slug": "escape-it",
+  "metadata": {
+    "title": "Free Escape It! Game - Adventure Awaits",
+    "description": "Embark on an epic journey in Escape It!! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Escape It!",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/escape-it",
+    "openGraph": {
+      "title": "Free Escape It! Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Escape It!! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/escape-it-og.jpg",
+      "url": "https://littlegames.com/games/escape-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Escape It! Game - Adventure Awaits",
+      "description": "Embark on an epic journey in Escape It!! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/escape-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape It!",
+      "href": "/games/escape-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_925",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

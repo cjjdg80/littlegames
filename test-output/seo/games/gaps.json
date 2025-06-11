@@ -1,0 +1,54 @@
+{
+  "gameId": 3911,
+  "slug": "gaps",
+  "metadata": {
+    "title": "Free GAPS Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in GAPS. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "GAPS",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/gaps",
+    "openGraph": {
+      "title": "Free GAPS Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in GAPS. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gaps-og.jpg",
+      "url": "https://littlegames.com/games/gaps",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free GAPS Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in GAPS. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gaps-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "GAPS",
+      "href": "/games/gaps",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_247",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

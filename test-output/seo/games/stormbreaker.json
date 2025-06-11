@@ -1,0 +1,54 @@
+{
+  "gameId": 5544,
+  "slug": "stormbreaker",
+  "metadata": {
+    "title": "Adventure Game STORMBREAKER - Journey Begins",
+    "description": "Start your epic journey with STORMBREAKER! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play STORMBREAKER",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/stormbreaker",
+    "openGraph": {
+      "title": "Adventure Game STORMBREAKER - Journey Begins",
+      "description": "Start your epic journey with STORMBREAKER! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/stormbreaker-og.jpg",
+      "url": "https://littlegames.com/games/stormbreaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game STORMBREAKER - Journey Begins",
+      "description": "Start your epic journey with STORMBREAKER! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/stormbreaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "STORMBREAKER",
+      "href": "/games/stormbreaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_873",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

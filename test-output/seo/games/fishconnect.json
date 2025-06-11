@@ -1,0 +1,54 @@
+{
+  "gameId": 6584,
+  "slug": "fishconnect",
+  "metadata": {
+    "title": "Play FISHCONNECT - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in FISHCONNECT. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "FISHCONNECT game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fishconnect",
+    "openGraph": {
+      "title": "Play FISHCONNECT - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in FISHCONNECT. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fishconnect-og.jpg",
+      "url": "https://littlegames.com/games/fishconnect",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play FISHCONNECT - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in FISHCONNECT. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fishconnect-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "FISHCONNECT",
+      "href": "/games/fishconnect",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_110",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

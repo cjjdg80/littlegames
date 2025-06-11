@@ -1,0 +1,54 @@
+{
+  "gameId": 1972,
+  "slug": "snowman-couples",
+  "metadata": {
+    "title": "Snowman Couples - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Snowman Couples. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Snowman Couples",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/snowman-couples",
+    "openGraph": {
+      "title": "Snowman Couples - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Snowman Couples. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/snowman-couples-og.jpg",
+      "url": "https://littlegames.com/games/snowman-couples",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snowman Couples - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Snowman Couples. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/snowman-couples-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Snowman Couples",
+      "href": "/games/snowman-couples",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_138",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

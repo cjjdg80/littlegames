@@ -1,0 +1,54 @@
+{
+  "gameId": 8655,
+  "slug": "art-master-origins",
+  "metadata": {
+    "title": "Art Master Origins Online - Ultimate Action Gaming...",
+    "description": "Get ready for adrenaline-pumping action in Art Master Origins. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Art Master Origins game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/art-master-origins",
+    "openGraph": {
+      "title": "Art Master Origins Online - Ultimate Action Gaming...",
+      "description": "Get ready for adrenaline-pumping action in Art Master Origins. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/art-master-origins-og.jpg",
+      "url": "https://littlegames.com/games/art-master-origins",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Art Master Origins Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Art Master Origins. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/art-master-origins-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Art Master Origins",
+      "href": "/games/art-master-origins",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_311",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

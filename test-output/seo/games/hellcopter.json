@@ -1,0 +1,54 @@
+{
+  "gameId": 1243,
+  "slug": "hellcopter",
+  "metadata": {
+    "title": "Free HellCopter Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of HellCopter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "HellCopter online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hellcopter",
+    "openGraph": {
+      "title": "Free HellCopter Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of HellCopter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hellcopter-og.jpg",
+      "url": "https://littlegames.com/games/hellcopter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free HellCopter Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of HellCopter. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hellcopter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "HellCopter",
+      "href": "/games/hellcopter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_539",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

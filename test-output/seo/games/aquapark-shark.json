@@ -1,0 +1,54 @@
+{
+  "gameId": 5296,
+  "slug": "aquapark-shark",
+  "metadata": {
+    "title": "Play Aquapark Shark - Epic Adventure Game Online",
+    "description": "Begin your quest in Aquapark Shark. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Aquapark Shark online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/aquapark-shark",
+    "openGraph": {
+      "title": "Play Aquapark Shark - Epic Adventure Game Online",
+      "description": "Begin your quest in Aquapark Shark. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/aquapark-shark-og.jpg",
+      "url": "https://littlegames.com/games/aquapark-shark",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Aquapark Shark - Epic Adventure Game Online",
+      "description": "Begin your quest in Aquapark Shark. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/aquapark-shark-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Aquapark Shark",
+      "href": "/games/aquapark-shark",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_185",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

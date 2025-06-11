@@ -1,0 +1,54 @@
+{
+  "gameId": 2786,
+  "slug": "rugby-2021",
+  "metadata": {
+    "title": "Free Rugby 2021 Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Rugby 2021. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Rugby 2021",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/rugby-2021",
+    "openGraph": {
+      "title": "Free Rugby 2021 Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Rugby 2021. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rugby-2021-og.jpg",
+      "url": "https://littlegames.com/games/rugby-2021",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rugby 2021 Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Rugby 2021. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rugby-2021-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rugby 2021",
+      "href": "/games/rugby-2021",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_372",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

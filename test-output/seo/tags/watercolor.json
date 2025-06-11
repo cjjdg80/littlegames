@@ -1,0 +1,46 @@
+{
+  "tag": "watercolor",
+  "displayName": "Watercolor",
+  "metadata": {
+    "title": "Watercolor Games - Play Free Online",
+    "description": "Discover amazing watercolor games! Play 10 free games with watercolor theme. No downloads required.",
+    "keywords": [
+      "watercolor games",
+      "free online games",
+      "browser games",
+      "watercolor theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/watercolor",
+    "openGraph": {
+      "title": "Watercolor Games - Free Online Gaming",
+      "description": "Play the best watercolor games online for free. 10 games available.",
+      "image": "https://littlegames.com/images/tags/watercolor-og.jpg",
+      "url": "https://littlegames.com/tags/watercolor",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Watercolor Games - Free Online",
+      "description": "Play 10 free watercolor games online.",
+      "image": "https://littlegames.com/images/tags/watercolor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Watercolor",
+      "href": "/tags/watercolor",
+      "current": true
+    }
+  ],
+  "description": "Discover games with watercolor theme! Our collection includes 10 carefully selected games that feature watercolor elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

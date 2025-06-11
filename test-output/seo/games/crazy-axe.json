@@ -1,0 +1,54 @@
+{
+  "gameId": 8703,
+  "slug": "crazy-axe",
+  "metadata": {
+    "title": "Crazy Axe - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Crazy Axe! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Crazy Axe online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/crazy-axe",
+    "openGraph": {
+      "title": "Crazy Axe - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Crazy Axe! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/crazy-axe-og.jpg",
+      "url": "https://littlegames.com/games/crazy-axe",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Crazy Axe - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Crazy Axe! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/crazy-axe-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Crazy Axe",
+      "href": "/games/crazy-axe",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_799",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

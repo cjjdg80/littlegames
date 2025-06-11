@@ -1,0 +1,54 @@
+{
+  "gameId": 5930,
+  "slug": "paper-rush",
+  "metadata": {
+    "title": "Paper Rush Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Paper Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Paper Rush",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/paper-rush",
+    "openGraph": {
+      "title": "Paper Rush Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Paper Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-rush-og.jpg",
+      "url": "https://littlegames.com/games/paper-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paper Rush Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Paper Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/paper-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Paper Rush",
+      "href": "/games/paper-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_836",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

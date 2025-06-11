@@ -1,0 +1,54 @@
+{
+  "gameId": 4718,
+  "slug": "riot-escape",
+  "metadata": {
+    "title": "Free Riot Escape Game - Adventure Awaits",
+    "description": "Discover new worlds in Riot Escape. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Riot Escape game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/riot-escape",
+    "openGraph": {
+      "title": "Free Riot Escape Game - Adventure Awaits",
+      "description": "Discover new worlds in Riot Escape. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/riot-escape-og.jpg",
+      "url": "https://littlegames.com/games/riot-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Riot Escape Game - Adventure Awaits",
+      "description": "Discover new worlds in Riot Escape. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/riot-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Riot Escape",
+      "href": "/games/riot-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_267",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

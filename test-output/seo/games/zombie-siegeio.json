@@ -1,0 +1,54 @@
+{
+  "gameId": 9037,
+  "slug": "zombie-siegeio",
+  "metadata": {
+    "title": "Zombie Siege.io - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Zombie Siege.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Zombie Siege.io game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-siegeio",
+    "openGraph": {
+      "title": "Zombie Siege.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Zombie Siege.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/zombie-siegeio-og.jpg",
+      "url": "https://littlegames.com/games/zombie-siegeio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zombie Siege.io - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Zombie Siege.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/zombie-siegeio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zombie Siege.io",
+      "href": "/games/zombie-siegeio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_153",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

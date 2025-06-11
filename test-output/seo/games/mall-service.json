@@ -1,0 +1,54 @@
+{
+  "gameId": 5389,
+  "slug": "mall-service",
+  "metadata": {
+    "title": "Free Mall Service Game - Action Packed Fun",
+    "description": "Mall Service delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Mall Service online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mall-service",
+    "openGraph": {
+      "title": "Free Mall Service Game - Action Packed Fun",
+      "description": "Mall Service delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mall-service-og.jpg",
+      "url": "https://littlegames.com/games/mall-service",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mall Service Game - Action Packed Fun",
+      "description": "Mall Service delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mall-service-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Mall Service",
+      "href": "/games/mall-service",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_065",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

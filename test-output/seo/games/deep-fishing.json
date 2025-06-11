@@ -1,0 +1,54 @@
+{
+  "gameId": 8589,
+  "slug": "deep-fishing",
+  "metadata": {
+    "title": "Play Deep Fishing - Free Action Game Online",
+    "description": "Join the action in Deep Fishing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Deep Fishing",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/deep-fishing",
+    "openGraph": {
+      "title": "Play Deep Fishing - Free Action Game Online",
+      "description": "Join the action in Deep Fishing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/deep-fishing-og.jpg",
+      "url": "https://littlegames.com/games/deep-fishing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Deep Fishing - Free Action Game Online",
+      "description": "Join the action in Deep Fishing! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/deep-fishing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Deep Fishing",
+      "href": "/games/deep-fishing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_265",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

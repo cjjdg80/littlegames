@@ -1,0 +1,46 @@
+{
+  "tag": "historical",
+  "displayName": "Historical",
+  "metadata": {
+    "title": "Historical Games - Play Free Online",
+    "description": "Discover amazing historical games! Play 4 free games with historical theme. No downloads required.",
+    "keywords": [
+      "historical games",
+      "free online games",
+      "browser games",
+      "historical theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/historical",
+    "openGraph": {
+      "title": "Historical Games - Free Online Gaming",
+      "description": "Play the best historical games online for free. 4 games available.",
+      "image": "https://littlegames.com/images/tags/historical-og.jpg",
+      "url": "https://littlegames.com/tags/historical",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Historical Games - Free Online",
+      "description": "Play 4 free historical games online.",
+      "image": "https://littlegames.com/images/tags/historical-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Historical",
+      "href": "/tags/historical",
+      "current": true
+    }
+  ],
+  "description": "Discover games with historical theme! Our collection includes 4 carefully selected games that feature historical elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

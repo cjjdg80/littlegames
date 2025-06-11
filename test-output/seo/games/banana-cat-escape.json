@@ -1,0 +1,54 @@
+{
+  "gameId": 7007,
+  "slug": "banana-cat-escape",
+  "metadata": {
+    "title": "Banana Cat Escape - Thrilling Adventure Quest",
+    "description": "Banana Cat Escape offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Banana Cat Escape game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/banana-cat-escape",
+    "openGraph": {
+      "title": "Banana Cat Escape - Thrilling Adventure Quest",
+      "description": "Banana Cat Escape offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/banana-cat-escape-og.jpg",
+      "url": "https://littlegames.com/games/banana-cat-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Banana Cat Escape - Thrilling Adventure Quest",
+      "description": "Banana Cat Escape offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/banana-cat-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Banana Cat Escape",
+      "href": "/games/banana-cat-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_226",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

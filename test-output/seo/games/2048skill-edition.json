@@ -1,0 +1,54 @@
+{
+  "gameId": 8635,
+  "slug": "2048skill-edition",
+  "metadata": {
+    "title": "Action Game 2048Skill Edition - Play Free Now",
+    "description": "2048Skill Edition delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "2048Skill Edition online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/2048skill-edition",
+    "openGraph": {
+      "title": "Action Game 2048Skill Edition - Play Free Now",
+      "description": "2048Skill Edition delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048skill-edition-og.jpg",
+      "url": "https://littlegames.com/games/2048skill-edition",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game 2048Skill Edition - Play Free Now",
+      "description": "2048Skill Edition delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048skill-edition-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2048Skill Edition",
+      "href": "/games/2048skill-edition",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_691",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

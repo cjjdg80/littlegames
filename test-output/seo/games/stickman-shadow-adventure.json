@@ -1,0 +1,54 @@
+{
+  "gameId": 556,
+  "slug": "stickman-shadow-adventure",
+  "metadata": {
+    "title": "Adventure Game Stickman Shadow Adventure - Journey Begins",
+    "description": "Embark on an epic journey in Stickman Shadow Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+    "keywords": [
+      "Stickman Shadow Adventure online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-shadow-adventure",
+    "openGraph": {
+      "title": "Adventure Game Stickman Shadow Adventure - Journey Begins",
+      "description": "Embark on an epic journey in Stickman Shadow Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
+      "image": "https://littlegames.com/images/games/stickman-shadow-adventure-og.jpg",
+      "url": "https://littlegames.com/games/stickman-shadow-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Stickman Shadow Adventure - Journey Begins",
+      "description": "Embark on an epic journey in Stickman Shadow Adventure! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-shadow-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Stickman Shadow Adventure",
+      "href": "/games/stickman-shadow-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_245",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

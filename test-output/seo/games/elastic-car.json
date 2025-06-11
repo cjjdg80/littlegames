@@ -1,0 +1,54 @@
+{
+  "gameId": 2171,
+  "slug": "elastic-car",
+  "metadata": {
+    "title": "Free Elastic Car Game - Action Packed Fun",
+    "description": "Join the action in Elastic Car! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Elastic Car online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/elastic-car",
+    "openGraph": {
+      "title": "Free Elastic Car Game - Action Packed Fun",
+      "description": "Join the action in Elastic Car! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/elastic-car-og.jpg",
+      "url": "https://littlegames.com/games/elastic-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Elastic Car Game - Action Packed Fun",
+      "description": "Join the action in Elastic Car! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/elastic-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Elastic Car",
+      "href": "/games/elastic-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_307",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5600,
+  "slug": "just-tower-jump",
+  "metadata": {
+    "title": "Just Tower Jump? - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Just Tower Jump?. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Just Tower Jump?",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/just-tower-jump",
+    "openGraph": {
+      "title": "Just Tower Jump? - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Just Tower Jump?. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/just-tower-jump-og.jpg",
+      "url": "https://littlegames.com/games/just-tower-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Just Tower Jump? - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Just Tower Jump?. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/just-tower-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Just Tower Jump?",
+      "href": "/games/just-tower-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_606",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

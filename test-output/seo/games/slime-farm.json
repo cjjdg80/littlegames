@@ -1,0 +1,54 @@
+{
+  "gameId": 6171,
+  "slug": "slime-farm",
+  "metadata": {
+    "title": "Slime Farm Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Slime Farm! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Slime Farm",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/slime-farm",
+    "openGraph": {
+      "title": "Slime Farm Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Slime Farm! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/slime-farm-og.jpg",
+      "url": "https://littlegames.com/games/slime-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slime Farm Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Slime Farm! This captivating strategy game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/slime-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Slime Farm",
+      "href": "/games/slime-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_309",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

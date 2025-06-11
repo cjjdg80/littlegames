@@ -1,0 +1,54 @@
+{
+  "gameId": 2890,
+  "slug": "hamburger",
+  "metadata": {
+    "title": "Play Hamburger - Free Action Game Online",
+    "description": "Dive into the action-packed world of Hamburger. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Hamburger",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/hamburger",
+    "openGraph": {
+      "title": "Play Hamburger - Free Action Game Online",
+      "description": "Dive into the action-packed world of Hamburger. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hamburger-og.jpg",
+      "url": "https://littlegames.com/games/hamburger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hamburger - Free Action Game Online",
+      "description": "Dive into the action-packed world of Hamburger. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/hamburger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hamburger",
+      "href": "/games/hamburger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_596",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

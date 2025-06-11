@@ -1,0 +1,54 @@
+{
+  "gameId": 162,
+  "slug": "doodle-dunk",
+  "metadata": {
+    "title": "Play Doodle Dunk - Free Action Game Online",
+    "description": "Dive into the action-packed world of Doodle Dunk. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Doodle Dunk game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/doodle-dunk",
+    "openGraph": {
+      "title": "Play Doodle Dunk - Free Action Game Online",
+      "description": "Dive into the action-packed world of Doodle Dunk. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/doodle-dunk-og.jpg",
+      "url": "https://littlegames.com/games/doodle-dunk",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Doodle Dunk - Free Action Game Online",
+      "description": "Dive into the action-packed world of Doodle Dunk. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/doodle-dunk-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Doodle Dunk",
+      "href": "/games/doodle-dunk",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_028",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

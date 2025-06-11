@@ -1,0 +1,54 @@
+{
+  "gameId": 8636,
+  "slug": "exit-puzzle",
+  "metadata": {
+    "title": "Exit - Puzzle Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Exit - Puzzle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Exit - Puzzle",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/exit-puzzle",
+    "openGraph": {
+      "title": "Exit - Puzzle Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Exit - Puzzle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/exit-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/exit-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Exit - Puzzle Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Exit - Puzzle. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/exit-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Exit - Puzzle",
+      "href": "/games/exit-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_722",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

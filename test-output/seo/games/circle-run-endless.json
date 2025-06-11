@@ -1,0 +1,54 @@
+{
+  "gameId": 7586,
+  "slug": "circle-run-endless",
+  "metadata": {
+    "title": "Circle Run Endless - Exciting Action Adventure Game",
+    "description": "Join the action in Circle Run Endless! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Circle Run Endless",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/circle-run-endless",
+    "openGraph": {
+      "title": "Circle Run Endless - Exciting Action Adventure Game",
+      "description": "Join the action in Circle Run Endless! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/circle-run-endless-og.jpg",
+      "url": "https://littlegames.com/games/circle-run-endless",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Circle Run Endless - Exciting Action Adventure Game",
+      "description": "Join the action in Circle Run Endless! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/circle-run-endless-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Circle Run Endless",
+      "href": "/games/circle-run-endless",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_172",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4494,
+  "slug": "my-dear-boss",
+  "metadata": {
+    "title": "Free My Dear Boss Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in My Dear Boss. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play My Dear Boss",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/my-dear-boss",
+    "openGraph": {
+      "title": "Free My Dear Boss Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in My Dear Boss. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-dear-boss-og.jpg",
+      "url": "https://littlegames.com/games/my-dear-boss",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free My Dear Boss Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in My Dear Boss. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-dear-boss-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "My Dear Boss",
+      "href": "/games/my-dear-boss",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_320",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

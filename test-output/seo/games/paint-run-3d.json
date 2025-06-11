@@ -1,0 +1,54 @@
+{
+  "gameId": 425,
+  "slug": "paint-run-3d",
+  "metadata": {
+    "title": "Free Paint Run 3D Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Paint Run 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Paint Run 3D game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/paint-run-3d",
+    "openGraph": {
+      "title": "Free Paint Run 3D Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Paint Run 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/paint-run-3d-og.jpg",
+      "url": "https://littlegames.com/games/paint-run-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Paint Run 3D Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Paint Run 3D. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/paint-run-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paint Run 3D",
+      "href": "/games/paint-run-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_181",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

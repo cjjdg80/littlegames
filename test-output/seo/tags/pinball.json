@@ -1,0 +1,46 @@
+{
+  "tag": "pinball",
+  "displayName": "Pinball",
+  "metadata": {
+    "title": "Pinball Games - Play Free Online",
+    "description": "Discover amazing pinball games! Play 7 free games with pinball theme. No downloads required.",
+    "keywords": [
+      "pinball games",
+      "free online games",
+      "browser games",
+      "pinball theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/pinball",
+    "openGraph": {
+      "title": "Pinball Games - Free Online Gaming",
+      "description": "Play the best pinball games online for free. 7 games available.",
+      "image": "https://littlegames.com/images/tags/pinball-og.jpg",
+      "url": "https://littlegames.com/tags/pinball",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pinball Games - Free Online",
+      "description": "Play 7 free pinball games online.",
+      "image": "https://littlegames.com/images/tags/pinball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pinball",
+      "href": "/tags/pinball",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pinball theme! Our collection includes 7 carefully selected games that feature pinball elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

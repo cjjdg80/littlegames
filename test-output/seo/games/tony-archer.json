@@ -1,0 +1,54 @@
+{
+  "gameId": 9618,
+  "slug": "tony-archer",
+  "metadata": {
+    "title": "Tony Archer - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Tony Archer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Tony Archer online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tony-archer",
+    "openGraph": {
+      "title": "Tony Archer - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Tony Archer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tony-archer-og.jpg",
+      "url": "https://littlegames.com/games/tony-archer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tony Archer - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Tony Archer. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/tony-archer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tony Archer",
+      "href": "/games/tony-archer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_164",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

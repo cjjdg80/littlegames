@@ -1,0 +1,54 @@
+{
+  "gameId": 285,
+  "slug": "helicopter-puzzle",
+  "metadata": {
+    "title": "Play Helicopter Puzzle - Free Puzzle Game Online",
+    "description": "Exercise your brain with Helicopter Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Helicopter Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/helicopter-puzzle",
+    "openGraph": {
+      "title": "Play Helicopter Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with Helicopter Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/helicopter-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/helicopter-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Helicopter Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with Helicopter Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/helicopter-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Helicopter Puzzle",
+      "href": "/games/helicopter-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_841",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

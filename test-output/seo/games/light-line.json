@@ -1,0 +1,54 @@
+{
+  "gameId": 9442,
+  "slug": "light-line",
+  "metadata": {
+    "title": "Light Line - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Light Line. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Light Line",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/light-line",
+    "openGraph": {
+      "title": "Light Line - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Light Line. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/light-line-og.jpg",
+      "url": "https://littlegames.com/games/light-line",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Light Line - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Light Line. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/light-line-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Light Line",
+      "href": "/games/light-line",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_708",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

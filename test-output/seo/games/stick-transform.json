@@ -1,0 +1,54 @@
+{
+  "gameId": 3998,
+  "slug": "stick-transform",
+  "metadata": {
+    "title": "Stick Transform - Exciting Action Adventure Game",
+    "description": "Stick Transform delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Stick Transform",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/stick-transform",
+    "openGraph": {
+      "title": "Stick Transform - Exciting Action Adventure Game",
+      "description": "Stick Transform delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stick-transform-og.jpg",
+      "url": "https://littlegames.com/games/stick-transform",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stick Transform - Exciting Action Adventure Game",
+      "description": "Stick Transform delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/stick-transform-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stick Transform",
+      "href": "/games/stick-transform",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_944",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

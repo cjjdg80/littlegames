@@ -1,0 +1,54 @@
+{
+  "gameId": 7349,
+  "slug": "parking-line",
+  "metadata": {
+    "title": "Parking Line Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Parking Line. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Parking Line",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/parking-line",
+    "openGraph": {
+      "title": "Parking Line Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Parking Line. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/parking-line-og.jpg",
+      "url": "https://littlegames.com/games/parking-line",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parking Line Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Parking Line. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/parking-line-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Parking Line",
+      "href": "/games/parking-line",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_825",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

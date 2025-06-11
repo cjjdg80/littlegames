@@ -1,0 +1,54 @@
+{
+  "gameId": 1441,
+  "slug": "mineblock-adventure",
+  "metadata": {
+    "title": "Adventure Game Mineblock Adventure - Journey Begins",
+    "description": "Start your epic journey with Mineblock Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Mineblock Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mineblock-adventure",
+    "openGraph": {
+      "title": "Adventure Game Mineblock Adventure - Journey Begins",
+      "description": "Start your epic journey with Mineblock Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/mineblock-adventure-og.jpg",
+      "url": "https://littlegames.com/games/mineblock-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Mineblock Adventure - Journey Begins",
+      "description": "Start your epic journey with Mineblock Adventure! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/mineblock-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Mineblock Adventure",
+      "href": "/games/mineblock-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_680",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

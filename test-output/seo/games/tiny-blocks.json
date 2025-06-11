@@ -1,0 +1,54 @@
+{
+  "gameId": 6820,
+  "slug": "tiny-blocks",
+  "metadata": {
+    "title": "Play Tiny Blocks - Free Puzzle Game Online",
+    "description": "Exercise your brain with Tiny Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "play Tiny Blocks",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/tiny-blocks",
+    "openGraph": {
+      "title": "Play Tiny Blocks - Free Puzzle Game Online",
+      "description": "Exercise your brain with Tiny Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tiny-blocks-og.jpg",
+      "url": "https://littlegames.com/games/tiny-blocks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tiny Blocks - Free Puzzle Game Online",
+      "description": "Exercise your brain with Tiny Blocks. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tiny-blocks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tiny Blocks",
+      "href": "/games/tiny-blocks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_426",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

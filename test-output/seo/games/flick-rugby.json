@@ -1,0 +1,54 @@
+{
+  "gameId": 3207,
+  "slug": "flick-rugby",
+  "metadata": {
+    "title": "Action Game Flick Rugby - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Flick Rugby. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Flick Rugby",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/flick-rugby",
+    "openGraph": {
+      "title": "Action Game Flick Rugby - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Flick Rugby. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/flick-rugby-og.jpg",
+      "url": "https://littlegames.com/games/flick-rugby",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Flick Rugby - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Flick Rugby. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/flick-rugby-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flick Rugby",
+      "href": "/games/flick-rugby",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_423",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

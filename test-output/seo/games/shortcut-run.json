@@ -1,0 +1,54 @@
+{
+  "gameId": 2196,
+  "slug": "shortcut-run",
+  "metadata": {
+    "title": "Play Shortcut Run - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Shortcut Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Shortcut Run game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/shortcut-run",
+    "openGraph": {
+      "title": "Play Shortcut Run - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Shortcut Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shortcut-run-og.jpg",
+      "url": "https://littlegames.com/games/shortcut-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Shortcut Run - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Shortcut Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/shortcut-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Shortcut Run",
+      "href": "/games/shortcut-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_082",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

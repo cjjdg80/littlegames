@@ -1,0 +1,54 @@
+{
+  "gameId": 5542,
+  "slug": "super-oliver-world",
+  "metadata": {
+    "title": "Adventure Game Super Oliver World - Journey Begins",
+    "description": "Begin your quest in Super Oliver World. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Super Oliver World game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/super-oliver-world",
+    "openGraph": {
+      "title": "Adventure Game Super Oliver World - Journey Begins",
+      "description": "Begin your quest in Super Oliver World. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-oliver-world-og.jpg",
+      "url": "https://littlegames.com/games/super-oliver-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Super Oliver World - Journey Begins",
+      "description": "Begin your quest in Super Oliver World. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-oliver-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Oliver World",
+      "href": "/games/super-oliver-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_811",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4348,
+  "slug": "freegearz",
+  "metadata": {
+    "title": "Free FreegearZ Game - Action Packed Fun",
+    "description": "FreegearZ delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play FreegearZ",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/freegearz",
+    "openGraph": {
+      "title": "Free FreegearZ Game - Action Packed Fun",
+      "description": "FreegearZ delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/freegearz-og.jpg",
+      "url": "https://littlegames.com/games/freegearz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free FreegearZ Game - Action Packed Fun",
+      "description": "FreegearZ delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/freegearz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "FreegearZ",
+      "href": "/games/freegearz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_794",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

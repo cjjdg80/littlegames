@@ -1,0 +1,54 @@
+{
+  "gameId": 7078,
+  "slug": "hot-pot-rush",
+  "metadata": {
+    "title": "Hot Pot Rush Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Hot Pot Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Hot Pot Rush online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hot-pot-rush",
+    "openGraph": {
+      "title": "Hot Pot Rush Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Hot Pot Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hot-pot-rush-og.jpg",
+      "url": "https://littlegames.com/games/hot-pot-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hot Pot Rush Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Hot Pot Rush! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/hot-pot-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hot Pot Rush",
+      "href": "/games/hot-pot-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_424",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

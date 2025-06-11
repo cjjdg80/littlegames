@@ -1,0 +1,54 @@
+{
+  "gameId": 9214,
+  "slug": "qube-2048",
+  "metadata": {
+    "title": "Play Qube 2048 - Free Puzzle Game Online",
+    "description": "Challenge your mind with Qube 2048! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Qube 2048 online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/qube-2048",
+    "openGraph": {
+      "title": "Play Qube 2048 - Free Puzzle Game Online",
+      "description": "Challenge your mind with Qube 2048! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/qube-2048-og.jpg",
+      "url": "https://littlegames.com/games/qube-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Qube 2048 - Free Puzzle Game Online",
+      "description": "Challenge your mind with Qube 2048! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/qube-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Qube 2048",
+      "href": "/games/qube-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_640",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

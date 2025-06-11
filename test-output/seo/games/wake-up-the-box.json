@@ -1,0 +1,54 @@
+{
+  "gameId": 4096,
+  "slug": "wake-up-the-box",
+  "metadata": {
+    "title": "Wake Up the Box Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Wake Up the Box! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Wake Up the Box online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/wake-up-the-box",
+    "openGraph": {
+      "title": "Wake Up the Box Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Wake Up the Box! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/wake-up-the-box-og.jpg",
+      "url": "https://littlegames.com/games/wake-up-the-box",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wake Up the Box Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Wake Up the Box! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/wake-up-the-box-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Wake Up the Box",
+      "href": "/games/wake-up-the-box",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_982",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

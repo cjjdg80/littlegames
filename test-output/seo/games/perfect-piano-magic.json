@@ -1,0 +1,54 @@
+{
+  "gameId": 9081,
+  "slug": "perfect-piano-magic",
+  "metadata": {
+    "title": "Play Perfect Piano Magic - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Perfect Piano Magic. This free online casual game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "action games",
+      "Perfect Piano Magic",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/perfect-piano-magic",
+    "openGraph": {
+      "title": "Play Perfect Piano Magic - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Perfect Piano Magic. This free online casual game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/perfect-piano-magic-og.jpg",
+      "url": "https://littlegames.com/games/perfect-piano-magic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Perfect Piano Magic - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Perfect Piano Magic. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/perfect-piano-magic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Perfect Piano Magic",
+      "href": "/games/perfect-piano-magic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_517",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

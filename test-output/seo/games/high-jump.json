@@ -1,0 +1,54 @@
+{
+  "gameId": 14,
+  "slug": "high-jump",
+  "metadata": {
+    "title": "Free High Jump Game - Action Packed Fun",
+    "description": "Experience thrilling action in High Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "High Jump",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/high-jump",
+    "openGraph": {
+      "title": "Free High Jump Game - Action Packed Fun",
+      "description": "Experience thrilling action in High Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/high-jump-og.jpg",
+      "url": "https://littlegames.com/games/high-jump",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free High Jump Game - Action Packed Fun",
+      "description": "Experience thrilling action in High Jump! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/high-jump-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "High Jump",
+      "href": "/games/high-jump",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_440",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

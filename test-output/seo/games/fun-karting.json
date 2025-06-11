@@ -1,0 +1,54 @@
+{
+  "gameId": 1304,
+  "slug": "fun-karting",
+  "metadata": {
+    "title": "Fun Karting Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Fun Karting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Fun Karting game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fun-karting",
+    "openGraph": {
+      "title": "Fun Karting Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fun Karting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-karting-og.jpg",
+      "url": "https://littlegames.com/games/fun-karting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fun Karting Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Fun Karting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fun-karting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fun Karting",
+      "href": "/games/fun-karting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_430",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9291,
+  "slug": "bouncepop-quest",
+  "metadata": {
+    "title": "Free BouncePop Quest Game - Adventure Awaits",
+    "description": "Embark on an epic journey in BouncePop Quest! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "BouncePop Quest online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/bouncepop-quest",
+    "openGraph": {
+      "title": "Free BouncePop Quest Game - Adventure Awaits",
+      "description": "Embark on an epic journey in BouncePop Quest! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/bouncepop-quest-og.jpg",
+      "url": "https://littlegames.com/games/bouncepop-quest",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free BouncePop Quest Game - Adventure Awaits",
+      "description": "Embark on an epic journey in BouncePop Quest! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncepop-quest-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "BouncePop Quest",
+      "href": "/games/bouncepop-quest",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_030",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

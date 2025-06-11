@@ -1,0 +1,54 @@
+{
+  "gameId": 5299,
+  "slug": "hacker-rush",
+  "metadata": {
+    "title": "Free Hacker Rush Game - Adventure Awaits",
+    "description": "Start your epic journey with Hacker Rush! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Hacker Rush",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/hacker-rush",
+    "openGraph": {
+      "title": "Free Hacker Rush Game - Adventure Awaits",
+      "description": "Start your epic journey with Hacker Rush! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hacker-rush-og.jpg",
+      "url": "https://littlegames.com/games/hacker-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hacker Rush Game - Adventure Awaits",
+      "description": "Start your epic journey with Hacker Rush! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hacker-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hacker Rush",
+      "href": "/games/hacker-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_278",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

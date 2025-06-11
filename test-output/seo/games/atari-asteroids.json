@@ -1,0 +1,54 @@
+{
+  "gameId": 2262,
+  "slug": "atari-asteroids",
+  "metadata": {
+    "title": "Atari Asteroids - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Atari Asteroids. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Atari Asteroids game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/atari-asteroids",
+    "openGraph": {
+      "title": "Atari Asteroids - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Atari Asteroids. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/atari-asteroids-og.jpg",
+      "url": "https://littlegames.com/games/atari-asteroids",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Atari Asteroids - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Atari Asteroids. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/atari-asteroids-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Atari Asteroids",
+      "href": "/games/atari-asteroids",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_128",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6233,
+  "slug": "aqua-link",
+  "metadata": {
+    "title": "Free Aqua Link Game - Action Packed Fun",
+    "description": "Experience thrilling action in Aqua Link! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Aqua Link",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/aqua-link",
+    "openGraph": {
+      "title": "Free Aqua Link Game - Action Packed Fun",
+      "description": "Experience thrilling action in Aqua Link! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/aqua-link-og.jpg",
+      "url": "https://littlegames.com/games/aqua-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Aqua Link Game - Action Packed Fun",
+      "description": "Experience thrilling action in Aqua Link! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/aqua-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Aqua Link",
+      "href": "/games/aqua-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_229",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8545,
+  "slug": "super-bitcoin-boy",
+  "metadata": {
+    "title": "Super Bitcoin Boy - Thrilling Adventure Quest",
+    "description": "Super Bitcoin Boy offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Super Bitcoin Boy",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/super-bitcoin-boy",
+    "openGraph": {
+      "title": "Super Bitcoin Boy - Thrilling Adventure Quest",
+      "description": "Super Bitcoin Boy offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/super-bitcoin-boy-og.jpg",
+      "url": "https://littlegames.com/games/super-bitcoin-boy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Bitcoin Boy - Thrilling Adventure Quest",
+      "description": "Super Bitcoin Boy offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/super-bitcoin-boy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Bitcoin Boy",
+      "href": "/games/super-bitcoin-boy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_904",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7451,
+  "slug": "merge-snake-battle",
+  "metadata": {
+    "title": "Merge Snake Battle - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Merge Snake Battle. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Merge Snake Battle game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/merge-snake-battle",
+    "openGraph": {
+      "title": "Merge Snake Battle - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Merge Snake Battle. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/merge-snake-battle-og.jpg",
+      "url": "https://littlegames.com/games/merge-snake-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Snake Battle - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Merge Snake Battle. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/merge-snake-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Snake Battle",
+      "href": "/games/merge-snake-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_987",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

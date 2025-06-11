@@ -1,0 +1,54 @@
+{
+  "gameId": 4633,
+  "slug": "exit-the-maze",
+  "metadata": {
+    "title": "Exit the Maze - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Exit the Maze. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Exit the Maze online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/exit-the-maze",
+    "openGraph": {
+      "title": "Exit the Maze - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Exit the Maze. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/exit-the-maze-og.jpg",
+      "url": "https://littlegames.com/games/exit-the-maze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Exit the Maze - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Exit the Maze. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/exit-the-maze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Exit the Maze",
+      "href": "/games/exit-the-maze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_629",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

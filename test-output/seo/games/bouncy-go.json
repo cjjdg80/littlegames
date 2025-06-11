@@ -1,0 +1,54 @@
+{
+  "gameId": 2711,
+  "slug": "bouncy-go",
+  "metadata": {
+    "title": "Free Bouncy GO Game - Action Packed Fun",
+    "description": "Join the action in Bouncy GO! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Bouncy GO",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bouncy-go",
+    "openGraph": {
+      "title": "Free Bouncy GO Game - Action Packed Fun",
+      "description": "Join the action in Bouncy GO! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-go-og.jpg",
+      "url": "https://littlegames.com/games/bouncy-go",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bouncy GO Game - Action Packed Fun",
+      "description": "Join the action in Bouncy GO! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-go-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bouncy GO",
+      "href": "/games/bouncy-go",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_047",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

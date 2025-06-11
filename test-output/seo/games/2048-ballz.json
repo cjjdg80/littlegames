@@ -1,0 +1,54 @@
+{
+  "gameId": 7434,
+  "slug": "2048-ballz",
+  "metadata": {
+    "title": "2048 Ballz - Exciting Action Adventure Game",
+    "description": "Join the action in 2048 Ballz! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "2048 Ballz game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/2048-ballz",
+    "openGraph": {
+      "title": "2048 Ballz - Exciting Action Adventure Game",
+      "description": "Join the action in 2048 Ballz! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/2048-ballz-og.jpg",
+      "url": "https://littlegames.com/games/2048-ballz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2048 Ballz - Exciting Action Adventure Game",
+      "description": "Join the action in 2048 Ballz! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/2048-ballz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2048 Ballz",
+      "href": "/games/2048-ballz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_460",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

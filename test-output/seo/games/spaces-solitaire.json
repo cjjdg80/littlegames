@@ -1,0 +1,54 @@
+{
+  "gameId": 7745,
+  "slug": "spaces-solitaire",
+  "metadata": {
+    "title": "Play Spaces Solitaire - Free Action Game Online",
+    "description": "Join the action in Spaces Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Spaces Solitaire game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/spaces-solitaire",
+    "openGraph": {
+      "title": "Play Spaces Solitaire - Free Action Game Online",
+      "description": "Join the action in Spaces Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/spaces-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/spaces-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Spaces Solitaire - Free Action Game Online",
+      "description": "Join the action in Spaces Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/spaces-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Spaces Solitaire",
+      "href": "/games/spaces-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_101",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

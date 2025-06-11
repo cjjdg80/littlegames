@@ -1,0 +1,54 @@
+{
+  "gameId": 5659,
+  "slug": "ball-rush",
+  "metadata": {
+    "title": "Ball Rush - Exciting Action Adventure Game",
+    "description": "Join the action in Ball Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Ball Rush game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ball-rush",
+    "openGraph": {
+      "title": "Ball Rush - Exciting Action Adventure Game",
+      "description": "Join the action in Ball Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ball-rush-og.jpg",
+      "url": "https://littlegames.com/games/ball-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ball Rush - Exciting Action Adventure Game",
+      "description": "Join the action in Ball Rush! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ball-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ball Rush",
+      "href": "/games/ball-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_435",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

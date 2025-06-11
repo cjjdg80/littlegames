@@ -1,0 +1,54 @@
+{
+  "gameId": 4833,
+  "slug": "ballblaster",
+  "metadata": {
+    "title": "BallBlaster - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in BallBlaster! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "BallBlaster game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/ballblaster",
+    "openGraph": {
+      "title": "BallBlaster - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in BallBlaster! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/ballblaster-og.jpg",
+      "url": "https://littlegames.com/games/ballblaster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "BallBlaster - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in BallBlaster! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/ballblaster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "BallBlaster",
+      "href": "/games/ballblaster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_829",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

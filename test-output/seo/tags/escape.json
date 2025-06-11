@@ -1,0 +1,46 @@
+{
+  "tag": "escape",
+  "displayName": "Escape",
+  "metadata": {
+    "title": "Escape Games - Play Free Online",
+    "description": "Discover amazing escape games! Play 230 free games with escape theme. No downloads required.",
+    "keywords": [
+      "escape games",
+      "free online games",
+      "browser games",
+      "escape theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/escape",
+    "openGraph": {
+      "title": "Escape Games - Free Online Gaming",
+      "description": "Play the best escape games online for free. 230 games available.",
+      "image": "https://littlegames.com/images/tags/escape-og.jpg",
+      "url": "https://littlegames.com/tags/escape",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Escape Games - Free Online",
+      "description": "Play 230 free escape games online.",
+      "image": "https://littlegames.com/images/tags/escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Escape",
+      "href": "/tags/escape",
+      "current": true
+    }
+  ],
+  "description": "Discover games with escape theme! Our collection includes 230 carefully selected games that feature escape elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

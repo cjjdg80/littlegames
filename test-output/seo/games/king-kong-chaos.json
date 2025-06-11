@@ -1,0 +1,54 @@
+{
+  "gameId": 7931,
+  "slug": "king-kong-chaos",
+  "metadata": {
+    "title": "King Kong Chaos - Thrilling Adventure Quest",
+    "description": "Begin your quest in King Kong Chaos. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "King Kong Chaos online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/king-kong-chaos",
+    "openGraph": {
+      "title": "King Kong Chaos - Thrilling Adventure Quest",
+      "description": "Begin your quest in King Kong Chaos. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/king-kong-chaos-og.jpg",
+      "url": "https://littlegames.com/games/king-kong-chaos",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "King Kong Chaos - Thrilling Adventure Quest",
+      "description": "Begin your quest in King Kong Chaos. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/king-kong-chaos-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "King Kong Chaos",
+      "href": "/games/king-kong-chaos",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_870",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

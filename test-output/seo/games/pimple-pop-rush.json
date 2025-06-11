@@ -1,0 +1,54 @@
+{
+  "gameId": 4957,
+  "slug": "pimple-pop-rush",
+  "metadata": {
+    "title": "Pimple Pop Rush - Exciting Action Adventure Game",
+    "description": "Pimple Pop Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Pimple Pop Rush online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pimple-pop-rush",
+    "openGraph": {
+      "title": "Pimple Pop Rush - Exciting Action Adventure Game",
+      "description": "Pimple Pop Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pimple-pop-rush-og.jpg",
+      "url": "https://littlegames.com/games/pimple-pop-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pimple Pop Rush - Exciting Action Adventure Game",
+      "description": "Pimple Pop Rush delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pimple-pop-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pimple Pop Rush",
+      "href": "/games/pimple-pop-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_673",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9067,
+  "slug": "zombie-raft",
+  "metadata": {
+    "title": "Play Zombie Raft - Epic Adventure Game Online",
+    "description": "Start your epic journey with Zombie Raft! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Zombie Raft game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/zombie-raft",
+    "openGraph": {
+      "title": "Play Zombie Raft - Epic Adventure Game Online",
+      "description": "Start your epic journey with Zombie Raft! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/zombie-raft-og.jpg",
+      "url": "https://littlegames.com/games/zombie-raft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zombie Raft - Epic Adventure Game Online",
+      "description": "Start your epic journey with Zombie Raft! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/zombie-raft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Zombie Raft",
+      "href": "/games/zombie-raft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_086",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1094,
+  "slug": "gravity-climb",
+  "metadata": {
+    "title": "Free Gravity Climb Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with Gravity Climb! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Gravity Climb online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/gravity-climb",
+    "openGraph": {
+      "title": "Free Gravity Climb Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Gravity Climb! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/gravity-climb-og.jpg",
+      "url": "https://littlegames.com/games/gravity-climb",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Gravity Climb Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with Gravity Climb! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/gravity-climb-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Gravity Climb",
+      "href": "/games/gravity-climb",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_920",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

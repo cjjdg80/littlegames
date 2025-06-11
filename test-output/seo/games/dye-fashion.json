@@ -1,0 +1,54 @@
+{
+  "gameId": 7146,
+  "slug": "dye-fashion",
+  "metadata": {
+    "title": "Dye Fashion - Exciting Action Adventure Game",
+    "description": "Dye Fashion delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Dye Fashion",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dye-fashion",
+    "openGraph": {
+      "title": "Dye Fashion - Exciting Action Adventure Game",
+      "description": "Dye Fashion delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dye-fashion-og.jpg",
+      "url": "https://littlegames.com/games/dye-fashion",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dye Fashion - Exciting Action Adventure Game",
+      "description": "Dye Fashion delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dye-fashion-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dye Fashion",
+      "href": "/games/dye-fashion",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_532",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

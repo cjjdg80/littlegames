@@ -1,0 +1,54 @@
+{
+  "gameId": 1858,
+  "slug": "moto-racer",
+  "metadata": {
+    "title": "Moto Racer - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Moto Racer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Moto Racer",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/moto-racer",
+    "openGraph": {
+      "title": "Moto Racer - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Moto Racer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/moto-racer-og.jpg",
+      "url": "https://littlegames.com/games/moto-racer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Moto Racer - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Moto Racer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/moto-racer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Moto Racer",
+      "href": "/games/moto-racer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_604",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

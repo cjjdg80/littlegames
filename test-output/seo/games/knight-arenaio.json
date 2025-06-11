@@ -1,0 +1,54 @@
+{
+  "gameId": 343,
+  "slug": "knight-arenaio",
+  "metadata": {
+    "title": "Play Knight Arena.io - Free Action Game Online",
+    "description": "Dive into the action-packed world of Knight Arena.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Knight Arena.io",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/knight-arenaio",
+    "openGraph": {
+      "title": "Play Knight Arena.io - Free Action Game Online",
+      "description": "Dive into the action-packed world of Knight Arena.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/knight-arenaio-og.jpg",
+      "url": "https://littlegames.com/games/knight-arenaio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Knight Arena.io - Free Action Game Online",
+      "description": "Dive into the action-packed world of Knight Arena.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/knight-arenaio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Knight Arena.io",
+      "href": "/games/knight-arenaio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_639",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

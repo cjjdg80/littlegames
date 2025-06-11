@@ -1,0 +1,54 @@
+{
+  "gameId": 8369,
+  "slug": "fun-golf",
+  "metadata": {
+    "title": "Play Fun Golf - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Fun Golf. This free online sports game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Fun Golf game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/fun-golf",
+    "openGraph": {
+      "title": "Play Fun Golf - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Fun Golf. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fun-golf-og.jpg",
+      "url": "https://littlegames.com/games/fun-golf",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Fun Golf - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Fun Golf. This free online sports game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fun-golf-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Fun Golf",
+      "href": "/games/fun-golf",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_445",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

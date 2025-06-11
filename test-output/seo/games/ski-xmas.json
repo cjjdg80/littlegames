@@ -1,0 +1,54 @@
+{
+  "gameId": 2109,
+  "slug": "ski-xmas",
+  "metadata": {
+    "title": "Action Game Ski Xmas - Play Free Now",
+    "description": "Join the action in Ski Xmas! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Ski Xmas",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ski-xmas",
+    "openGraph": {
+      "title": "Action Game Ski Xmas - Play Free Now",
+      "description": "Join the action in Ski Xmas! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ski-xmas-og.jpg",
+      "url": "https://littlegames.com/games/ski-xmas",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Ski Xmas - Play Free Now",
+      "description": "Join the action in Ski Xmas! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/ski-xmas-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ski Xmas",
+      "href": "/games/ski-xmas",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_385",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

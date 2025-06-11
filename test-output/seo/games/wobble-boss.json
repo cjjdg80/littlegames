@@ -1,0 +1,54 @@
+{
+  "gameId": 973,
+  "slug": "wobble-boss",
+  "metadata": {
+    "title": "Adventure Game Wobble Boss - Journey Begins",
+    "description": "Embark on an epic journey in Wobble Boss! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Wobble Boss",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wobble-boss",
+    "openGraph": {
+      "title": "Adventure Game Wobble Boss - Journey Begins",
+      "description": "Embark on an epic journey in Wobble Boss! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/wobble-boss-og.jpg",
+      "url": "https://littlegames.com/games/wobble-boss",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Wobble Boss - Journey Begins",
+      "description": "Embark on an epic journey in Wobble Boss! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/wobble-boss-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Wobble Boss",
+      "href": "/games/wobble-boss",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_172",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8955,
+  "slug": "words-from-words",
+  "metadata": {
+    "title": "Words from Words Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Words from Words. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Words from Words game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/words-from-words",
+    "openGraph": {
+      "title": "Words from Words Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Words from Words. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/words-from-words-og.jpg",
+      "url": "https://littlegames.com/games/words-from-words",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Words from Words Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Words from Words. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/words-from-words-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Words from Words",
+      "href": "/games/words-from-words",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_611",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9393,
+  "slug": "paperio-2",
+  "metadata": {
+    "title": "Paper.io 2 - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Paper.io 2. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Paper.io 2",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/paperio-2",
+    "openGraph": {
+      "title": "Paper.io 2 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Paper.io 2. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/paperio-2-og.jpg",
+      "url": "https://littlegames.com/games/paperio-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paper.io 2 - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Paper.io 2. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/paperio-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Paper.io 2",
+      "href": "/games/paperio-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_189",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

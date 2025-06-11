@@ -1,0 +1,54 @@
+{
+  "gameId": 5353,
+  "slug": "get-lucky",
+  "metadata": {
+    "title": "Get Lucky Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Get Lucky. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Get Lucky",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/get-lucky",
+    "openGraph": {
+      "title": "Get Lucky Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Get Lucky. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/get-lucky-og.jpg",
+      "url": "https://littlegames.com/games/get-lucky",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Get Lucky Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Get Lucky. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/get-lucky-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Get Lucky",
+      "href": "/games/get-lucky",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_949",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

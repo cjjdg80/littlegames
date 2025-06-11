@@ -1,0 +1,54 @@
+{
+  "gameId": 1763,
+  "slug": "charge-now",
+  "metadata": {
+    "title": "Charge Now - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Charge Now! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Charge Now",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/charge-now",
+    "openGraph": {
+      "title": "Charge Now - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Charge Now! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/charge-now-og.jpg",
+      "url": "https://littlegames.com/games/charge-now",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Charge Now - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Charge Now! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/charge-now-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Charge Now",
+      "href": "/games/charge-now",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_659",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

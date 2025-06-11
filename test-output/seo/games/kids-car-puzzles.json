@@ -1,0 +1,54 @@
+{
+  "gameId": 466,
+  "slug": "kids-car-puzzles",
+  "metadata": {
+    "title": "Kids Car Puzzles - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Kids Car Puzzles. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Kids Car Puzzles game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/kids-car-puzzles",
+    "openGraph": {
+      "title": "Kids Car Puzzles - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Kids Car Puzzles. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/kids-car-puzzles-og.jpg",
+      "url": "https://littlegames.com/games/kids-car-puzzles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kids Car Puzzles - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Kids Car Puzzles. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/kids-car-puzzles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kids Car Puzzles",
+      "href": "/games/kids-car-puzzles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_452",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

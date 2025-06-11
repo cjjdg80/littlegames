@@ -1,0 +1,54 @@
+{
+  "gameId": 6125,
+  "slug": "slope-run",
+  "metadata": {
+    "title": "Slope Run - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Slope Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Slope Run",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/slope-run",
+    "openGraph": {
+      "title": "Slope Run - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Slope Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/slope-run-og.jpg",
+      "url": "https://littlegames.com/games/slope-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slope Run - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Slope Run! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/slope-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Slope Run",
+      "href": "/games/slope-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_884",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

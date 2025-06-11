@@ -1,0 +1,54 @@
+{
+  "gameId": 6520,
+  "slug": "candy-plus-candy",
+  "metadata": {
+    "title": "Puzzle Game Candy Plus Candy - Test Your Skills",
+    "description": "Challenge your mind with Candy Plus Candy! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Candy Plus Candy online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/candy-plus-candy",
+    "openGraph": {
+      "title": "Puzzle Game Candy Plus Candy - Test Your Skills",
+      "description": "Challenge your mind with Candy Plus Candy! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/candy-plus-candy-og.jpg",
+      "url": "https://littlegames.com/games/candy-plus-candy",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Candy Plus Candy - Test Your Skills",
+      "description": "Challenge your mind with Candy Plus Candy! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/candy-plus-candy-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Candy Plus Candy",
+      "href": "/games/candy-plus-candy",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_126",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

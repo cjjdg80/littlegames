@@ -1,0 +1,54 @@
+{
+  "gameId": 8876,
+  "slug": "maze-cube-2048",
+  "metadata": {
+    "title": "Puzzle Game Maze Cube 2048 - Test Your Skills",
+    "description": "Maze Cube 2048 offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Maze Cube 2048 game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/maze-cube-2048",
+    "openGraph": {
+      "title": "Puzzle Game Maze Cube 2048 - Test Your Skills",
+      "description": "Maze Cube 2048 offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/maze-cube-2048-og.jpg",
+      "url": "https://littlegames.com/games/maze-cube-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Maze Cube 2048 - Test Your Skills",
+      "description": "Maze Cube 2048 offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/maze-cube-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Maze Cube 2048",
+      "href": "/games/maze-cube-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_162",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

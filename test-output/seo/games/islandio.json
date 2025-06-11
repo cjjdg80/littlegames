@@ -1,0 +1,54 @@
+{
+  "gameId": 7057,
+  "slug": "islandio",
+  "metadata": {
+    "title": "Action Game Island.io - Play Free Now",
+    "description": "Dive into the action-packed world of Island.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Island.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/islandio",
+    "openGraph": {
+      "title": "Action Game Island.io - Play Free Now",
+      "description": "Dive into the action-packed world of Island.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/islandio-og.jpg",
+      "url": "https://littlegames.com/games/islandio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Island.io - Play Free Now",
+      "description": "Dive into the action-packed world of Island.io. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/islandio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Island.io",
+      "href": "/games/islandio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_773",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

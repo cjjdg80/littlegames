@@ -1,0 +1,54 @@
+{
+  "gameId": 8033,
+  "slug": "portal-master",
+  "metadata": {
+    "title": "Portal Master - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Portal Master! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "play Portal Master",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/portal-master",
+    "openGraph": {
+      "title": "Portal Master - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Portal Master! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/portal-master-og.jpg",
+      "url": "https://littlegames.com/games/portal-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Portal Master - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Portal Master! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/portal-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Portal Master",
+      "href": "/games/portal-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_032",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

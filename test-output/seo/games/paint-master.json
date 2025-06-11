@@ -1,0 +1,54 @@
+{
+  "gameId": 8539,
+  "slug": "paint-master",
+  "metadata": {
+    "title": "Free Paint Master Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Paint Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Paint Master",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/paint-master",
+    "openGraph": {
+      "title": "Free Paint Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Paint Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/paint-master-og.jpg",
+      "url": "https://littlegames.com/games/paint-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Paint Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Paint Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/paint-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Paint Master",
+      "href": "/games/paint-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_715",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8987,
+  "slug": "flip-knife",
+  "metadata": {
+    "title": "Flip Knife Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Flip Knife! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Flip Knife",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/flip-knife",
+    "openGraph": {
+      "title": "Flip Knife Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Flip Knife! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/flip-knife-og.jpg",
+      "url": "https://littlegames.com/games/flip-knife",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flip Knife Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Flip Knife! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/flip-knife-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Flip Knife",
+      "href": "/games/flip-knife",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_603",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

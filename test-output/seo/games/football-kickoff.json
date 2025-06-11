@@ -1,0 +1,54 @@
+{
+  "gameId": 7239,
+  "slug": "football-kickoff",
+  "metadata": {
+    "title": "Football Kickoff Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Football Kickoff. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Football Kickoff",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/football-kickoff",
+    "openGraph": {
+      "title": "Football Kickoff Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Football Kickoff. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/football-kickoff-og.jpg",
+      "url": "https://littlegames.com/games/football-kickoff",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Football Kickoff Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Football Kickoff. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/football-kickoff-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Football Kickoff",
+      "href": "/games/football-kickoff",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_415",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

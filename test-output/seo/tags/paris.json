@@ -1,0 +1,46 @@
+{
+  "tag": "paris",
+  "displayName": "Paris",
+  "metadata": {
+    "title": "Paris Games - Play Free Online",
+    "description": "Discover amazing paris games! Play 2 free games with paris theme. No downloads required.",
+    "keywords": [
+      "paris games",
+      "free online games",
+      "browser games",
+      "paris theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/paris",
+    "openGraph": {
+      "title": "Paris Games - Free Online Gaming",
+      "description": "Play the best paris games online for free. 2 games available.",
+      "image": "https://littlegames.com/images/tags/paris-og.jpg",
+      "url": "https://littlegames.com/tags/paris",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Paris Games - Free Online",
+      "description": "Play 2 free paris games online.",
+      "image": "https://littlegames.com/images/tags/paris-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Paris",
+      "href": "/tags/paris",
+      "current": true
+    }
+  ],
+  "description": "Discover games with paris theme! Our collection includes 2 carefully selected games that feature paris elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

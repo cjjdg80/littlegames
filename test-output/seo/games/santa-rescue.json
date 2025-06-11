@@ -1,0 +1,54 @@
+{
+  "gameId": 3828,
+  "slug": "santa-rescue",
+  "metadata": {
+    "title": "Santa Rescue Online - Explore and Discover",
+    "description": "Embark on an epic journey in Santa Rescue! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "play Santa Rescue",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/santa-rescue",
+    "openGraph": {
+      "title": "Santa Rescue Online - Explore and Discover",
+      "description": "Embark on an epic journey in Santa Rescue! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/santa-rescue-og.jpg",
+      "url": "https://littlegames.com/games/santa-rescue",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Santa Rescue Online - Explore and Discover",
+      "description": "Embark on an epic journey in Santa Rescue! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/santa-rescue-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Santa Rescue",
+      "href": "/games/santa-rescue",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_677",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

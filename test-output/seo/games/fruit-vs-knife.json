@@ -1,0 +1,54 @@
+{
+  "gameId": 2903,
+  "slug": "fruit-vs-knife",
+  "metadata": {
+    "title": "Fruit VS Knife Online - Ultimate Action Gaming Experience",
+    "description": "Fruit VS Knife delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Fruit VS Knife online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-vs-knife",
+    "openGraph": {
+      "title": "Fruit VS Knife Online - Ultimate Action Gaming Experience",
+      "description": "Fruit VS Knife delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fruit-vs-knife-og.jpg",
+      "url": "https://littlegames.com/games/fruit-vs-knife",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruit VS Knife Online - Ultimate Action Gaming Experience",
+      "description": "Fruit VS Knife delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/fruit-vs-knife-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fruit VS Knife",
+      "href": "/games/fruit-vs-knife",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_999",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

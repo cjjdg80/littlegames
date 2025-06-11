@@ -1,0 +1,54 @@
+{
+  "gameId": 2236,
+  "slug": "rodeo-riders",
+  "metadata": {
+    "title": "Rodeo Riders Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Rodeo Riders. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Rodeo Riders",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/rodeo-riders",
+    "openGraph": {
+      "title": "Rodeo Riders Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Rodeo Riders. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rodeo-riders-og.jpg",
+      "url": "https://littlegames.com/games/rodeo-riders",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rodeo Riders Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Rodeo Riders. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/rodeo-riders-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Rodeo Riders",
+      "href": "/games/rodeo-riders",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_322",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

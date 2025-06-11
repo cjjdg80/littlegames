@@ -1,0 +1,54 @@
+{
+  "gameId": 5210,
+  "slug": "go-cross",
+  "metadata": {
+    "title": "Play Go Cross - Free Action Game Online",
+    "description": "Join the action in Go Cross! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Go Cross",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/go-cross",
+    "openGraph": {
+      "title": "Play Go Cross - Free Action Game Online",
+      "description": "Join the action in Go Cross! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/go-cross-og.jpg",
+      "url": "https://littlegames.com/games/go-cross",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Go Cross - Free Action Game Online",
+      "description": "Join the action in Go Cross! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/go-cross-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Go Cross",
+      "href": "/games/go-cross",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_516",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

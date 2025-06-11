@@ -1,0 +1,54 @@
+{
+  "gameId": 5080,
+  "slug": "bmx-kid",
+  "metadata": {
+    "title": "BMX Kid Online - Explore and Discover",
+    "description": "BMX Kid offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "BMX Kid online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/bmx-kid",
+    "openGraph": {
+      "title": "BMX Kid Online - Explore and Discover",
+      "description": "BMX Kid offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/bmx-kid-og.jpg",
+      "url": "https://littlegames.com/games/bmx-kid",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "BMX Kid Online - Explore and Discover",
+      "description": "BMX Kid offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/bmx-kid-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "BMX Kid",
+      "href": "/games/bmx-kid",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_489",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

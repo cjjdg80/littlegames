@@ -1,0 +1,54 @@
+{
+  "gameId": 2152,
+  "slug": "racerking",
+  "metadata": {
+    "title": "RacerKing - Exciting Action Adventure Game",
+    "description": "Join the action in RacerKing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "RacerKing online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/racerking",
+    "openGraph": {
+      "title": "RacerKing - Exciting Action Adventure Game",
+      "description": "Join the action in RacerKing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/racerking-og.jpg",
+      "url": "https://littlegames.com/games/racerking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "RacerKing - Exciting Action Adventure Game",
+      "description": "Join the action in RacerKing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/racerking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "RacerKing",
+      "href": "/games/racerking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_718",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

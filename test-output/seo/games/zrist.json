@@ -1,0 +1,54 @@
+{
+  "gameId": 3785,
+  "slug": "zrist",
+  "metadata": {
+    "title": "Free Zrist Game - Action Packed Fun",
+    "description": "Experience thrilling action in Zrist! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "Zrist game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/zrist",
+    "openGraph": {
+      "title": "Free Zrist Game - Action Packed Fun",
+      "description": "Experience thrilling action in Zrist! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/zrist-og.jpg",
+      "url": "https://littlegames.com/games/zrist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Zrist Game - Action Packed Fun",
+      "description": "Experience thrilling action in Zrist! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/zrist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Zrist",
+      "href": "/games/zrist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_341",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7877,
+  "slug": "clean-the-floor",
+  "metadata": {
+    "title": "Action Game Clean The Floor - Play Free Now",
+    "description": "Join the action in Clean The Floor! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Clean The Floor game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/clean-the-floor",
+    "openGraph": {
+      "title": "Action Game Clean The Floor - Play Free Now",
+      "description": "Join the action in Clean The Floor! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clean-the-floor-og.jpg",
+      "url": "https://littlegames.com/games/clean-the-floor",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Clean The Floor - Play Free Now",
+      "description": "Join the action in Clean The Floor! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clean-the-floor-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Clean The Floor",
+      "href": "/games/clean-the-floor",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_193",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

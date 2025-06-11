@@ -1,0 +1,46 @@
+{
+  "tag": "bomberman",
+  "displayName": "Bomberman",
+  "metadata": {
+    "title": "Bomberman Games - Play Free Online",
+    "description": "Discover amazing bomberman games! Play 8 free games with bomberman theme. No downloads required.",
+    "keywords": [
+      "bomberman games",
+      "free online games",
+      "browser games",
+      "bomberman theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/bomberman",
+    "openGraph": {
+      "title": "Bomberman Games - Free Online Gaming",
+      "description": "Play the best bomberman games online for free. 8 games available.",
+      "image": "https://littlegames.com/images/tags/bomberman-og.jpg",
+      "url": "https://littlegames.com/tags/bomberman",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bomberman Games - Free Online",
+      "description": "Play 8 free bomberman games online.",
+      "image": "https://littlegames.com/images/tags/bomberman-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bomberman",
+      "href": "/tags/bomberman",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bomberman theme! Our collection includes 8 carefully selected games that feature bomberman elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

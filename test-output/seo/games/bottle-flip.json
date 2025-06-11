@@ -1,0 +1,54 @@
+{
+  "gameId": 5834,
+  "slug": "bottle-flip",
+  "metadata": {
+    "title": "Bottle Flip - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Bottle Flip. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Bottle Flip game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/bottle-flip",
+    "openGraph": {
+      "title": "Bottle Flip - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Bottle Flip. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bottle-flip-og.jpg",
+      "url": "https://littlegames.com/games/bottle-flip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bottle Flip - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Bottle Flip. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/bottle-flip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bottle Flip",
+      "href": "/games/bottle-flip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_860",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

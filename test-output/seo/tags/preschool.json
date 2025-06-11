@@ -1,0 +1,46 @@
+{
+  "tag": "preschool",
+  "displayName": "Preschool",
+  "metadata": {
+    "title": "Preschool Games - Play Free Online",
+    "description": "Discover amazing preschool games! Play 52 free games with preschool theme. No downloads required.",
+    "keywords": [
+      "preschool games",
+      "free online games",
+      "browser games",
+      "preschool theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/preschool",
+    "openGraph": {
+      "title": "Preschool Games - Free Online Gaming",
+      "description": "Play the best preschool games online for free. 52 games available.",
+      "image": "https://littlegames.com/images/tags/preschool-og.jpg",
+      "url": "https://littlegames.com/tags/preschool",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Preschool Games - Free Online",
+      "description": "Play 52 free preschool games online.",
+      "image": "https://littlegames.com/images/tags/preschool-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Preschool",
+      "href": "/tags/preschool",
+      "current": true
+    }
+  ],
+  "description": "Discover games with preschool theme! Our collection includes 52 carefully selected games that feature preschool elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

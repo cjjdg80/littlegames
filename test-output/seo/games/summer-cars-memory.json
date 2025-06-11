@@ -1,0 +1,54 @@
+{
+  "gameId": 1326,
+  "slug": "summer-cars-memory",
+  "metadata": {
+    "title": "Summer Cars Memory - Brain Training Puzzle Challenge",
+    "description": "Put your thinking skills to the test in Summer Cars Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Summer Cars Memory",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/summer-cars-memory",
+    "openGraph": {
+      "title": "Summer Cars Memory - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Summer Cars Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/summer-cars-memory-og.jpg",
+      "url": "https://littlegames.com/games/summer-cars-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Summer Cars Memory - Brain Training Puzzle Challenge",
+      "description": "Put your thinking skills to the test in Summer Cars Memory. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/summer-cars-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Summer Cars Memory",
+      "href": "/games/summer-cars-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_112",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

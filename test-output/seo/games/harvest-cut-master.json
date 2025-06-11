@@ -1,0 +1,54 @@
+{
+  "gameId": 5838,
+  "slug": "harvest-cut-master",
+  "metadata": {
+    "title": "Free Harvest Cut Master Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Harvest Cut Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "action games",
+      "Harvest Cut Master",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/harvest-cut-master",
+    "openGraph": {
+      "title": "Free Harvest Cut Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Harvest Cut Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/harvest-cut-master-og.jpg",
+      "url": "https://littlegames.com/games/harvest-cut-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Harvest Cut Master Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Harvest Cut Master. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/harvest-cut-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Harvest Cut Master",
+      "href": "/games/harvest-cut-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_984",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

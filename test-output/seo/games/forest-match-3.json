@@ -1,0 +1,54 @@
+{
+  "gameId": 7362,
+  "slug": "forest-match-3",
+  "metadata": {
+    "title": "Forest Match 3 - Exciting Action Adventure Game",
+    "description": "Join the action in Forest Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Forest Match 3",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/forest-match-3",
+    "openGraph": {
+      "title": "Forest Match 3 - Exciting Action Adventure Game",
+      "description": "Join the action in Forest Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/forest-match-3-og.jpg",
+      "url": "https://littlegames.com/games/forest-match-3",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Forest Match 3 - Exciting Action Adventure Game",
+      "description": "Join the action in Forest Match 3! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/forest-match-3-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Forest Match 3",
+      "href": "/games/forest-match-3",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_228",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

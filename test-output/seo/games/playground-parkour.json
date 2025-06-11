@@ -1,0 +1,54 @@
+{
+  "gameId": 7793,
+  "slug": "playground-parkour",
+  "metadata": {
+    "title": "Free Playground- Parkour Game - Action Packed Fun",
+    "description": "Join the action in Playground- Parkour! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Playground- Parkour online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/playground-parkour",
+    "openGraph": {
+      "title": "Free Playground- Parkour Game - Action Packed Fun",
+      "description": "Join the action in Playground- Parkour! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/playground-parkour-og.jpg",
+      "url": "https://littlegames.com/games/playground-parkour",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Playground- Parkour Game - Action Packed Fun",
+      "description": "Join the action in Playground- Parkour! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/playground-parkour-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Playground- Parkour",
+      "href": "/games/playground-parkour",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_589",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

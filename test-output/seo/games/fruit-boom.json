@@ -1,0 +1,54 @@
+{
+  "gameId": 845,
+  "slug": "fruit-boom",
+  "metadata": {
+    "title": "Fruit Boom - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Fruit Boom. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Fruit Boom online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/fruit-boom",
+    "openGraph": {
+      "title": "Fruit Boom - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fruit Boom. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fruit-boom-og.jpg",
+      "url": "https://littlegames.com/games/fruit-boom",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fruit Boom - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Fruit Boom. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/fruit-boom-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Fruit Boom",
+      "href": "/games/fruit-boom",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_201",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

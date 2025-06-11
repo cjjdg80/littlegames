@@ -1,0 +1,54 @@
+{
+  "gameId": 516,
+  "slug": "wolf-jigsaw",
+  "metadata": {
+    "title": "Puzzle Game Wolf Jigsaw - Test Your Skills",
+    "description": "Put your thinking skills to the test in Wolf Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Wolf Jigsaw online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/wolf-jigsaw",
+    "openGraph": {
+      "title": "Puzzle Game Wolf Jigsaw - Test Your Skills",
+      "description": "Put your thinking skills to the test in Wolf Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/wolf-jigsaw-og.jpg",
+      "url": "https://littlegames.com/games/wolf-jigsaw",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Wolf Jigsaw - Test Your Skills",
+      "description": "Put your thinking skills to the test in Wolf Jigsaw. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/wolf-jigsaw-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Wolf Jigsaw",
+      "href": "/games/wolf-jigsaw",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_002",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

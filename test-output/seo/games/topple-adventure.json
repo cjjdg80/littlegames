@@ -1,0 +1,54 @@
+{
+  "gameId": 2902,
+  "slug": "topple-adventure",
+  "metadata": {
+    "title": "Adventure Game Topple Adventure - Journey Begins",
+    "description": "Begin your quest in Topple Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play Topple Adventure",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/topple-adventure",
+    "openGraph": {
+      "title": "Adventure Game Topple Adventure - Journey Begins",
+      "description": "Begin your quest in Topple Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/topple-adventure-og.jpg",
+      "url": "https://littlegames.com/games/topple-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Topple Adventure - Journey Begins",
+      "description": "Begin your quest in Topple Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/topple-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Topple Adventure",
+      "href": "/games/topple-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_971",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

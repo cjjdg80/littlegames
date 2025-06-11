@@ -1,0 +1,54 @@
+{
+  "gameId": 3174,
+  "slug": "klondike-solitaire",
+  "metadata": {
+    "title": "Action Game Klondike Solitaire - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Klondike Solitaire. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "Klondike Solitaire game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/klondike-solitaire",
+    "openGraph": {
+      "title": "Action Game Klondike Solitaire - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Klondike Solitaire. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/klondike-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/klondike-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Klondike Solitaire - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Klondike Solitaire. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/klondike-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Klondike Solitaire",
+      "href": "/games/klondike-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_400",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

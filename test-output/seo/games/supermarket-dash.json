@@ -1,0 +1,54 @@
+{
+  "gameId": 1076,
+  "slug": "supermarket-dash",
+  "metadata": {
+    "title": "Supermarket Dash - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Supermarket Dash. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Supermarket Dash game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/supermarket-dash",
+    "openGraph": {
+      "title": "Supermarket Dash - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Supermarket Dash. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/supermarket-dash-og.jpg",
+      "url": "https://littlegames.com/games/supermarket-dash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Supermarket Dash - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Supermarket Dash. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/supermarket-dash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Supermarket Dash",
+      "href": "/games/supermarket-dash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_362",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

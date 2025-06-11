@@ -1,0 +1,54 @@
+{
+  "gameId": 2742,
+  "slug": "lows-adventures",
+  "metadata": {
+    "title": "Adventure Game Lows Adventures - Journey Begins",
+    "description": "Lows Adventures offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "adventure games",
+      "Lows Adventures",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/lows-adventures",
+    "openGraph": {
+      "title": "Adventure Game Lows Adventures - Journey Begins",
+      "description": "Lows Adventures offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/lows-adventures-og.jpg",
+      "url": "https://littlegames.com/games/lows-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Lows Adventures - Journey Begins",
+      "description": "Lows Adventures offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/lows-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Lows Adventures",
+      "href": "/games/lows-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_011",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

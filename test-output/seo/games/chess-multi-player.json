@@ -1,0 +1,54 @@
+{
+  "gameId": 5527,
+  "slug": "chess-multi-player",
+  "metadata": {
+    "title": "Chess Multi player Online - Ultimate Action Gaming...",
+    "description": "Dive into the action-packed world of Chess Multi player. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+    "keywords": [
+      "Chess Multi player online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/chess-multi-player",
+    "openGraph": {
+      "title": "Chess Multi player Online - Ultimate Action Gaming...",
+      "description": "Dive into the action-packed world of Chess Multi player. This arcade game features instant browser play and delivers non-stop excitement. Start playing for...",
+      "image": "https://littlegames.com/images/games/chess-multi-player-og.jpg",
+      "url": "https://littlegames.com/games/chess-multi-player",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chess Multi player Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Chess Multi player. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/chess-multi-player-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chess Multi player",
+      "href": "/games/chess-multi-player",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_343",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

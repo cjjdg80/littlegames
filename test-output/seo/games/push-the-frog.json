@@ -1,0 +1,54 @@
+{
+  "gameId": 8736,
+  "slug": "push-the-frog",
+  "metadata": {
+    "title": "Push The Frog - Brain Training Puzzle Challenge",
+    "description": "Exercise your brain with Push The Frog. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Push The Frog",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/push-the-frog",
+    "openGraph": {
+      "title": "Push The Frog - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Push The Frog. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/push-the-frog-og.jpg",
+      "url": "https://littlegames.com/games/push-the-frog",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Push The Frog - Brain Training Puzzle Challenge",
+      "description": "Exercise your brain with Push The Frog. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/push-the-frog-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Push The Frog",
+      "href": "/games/push-the-frog",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_822",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

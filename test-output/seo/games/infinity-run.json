@@ -1,0 +1,54 @@
+{
+  "gameId": 364,
+  "slug": "infinity-run",
+  "metadata": {
+    "title": "Infinity Run Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Infinity Run! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Infinity Run online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/infinity-run",
+    "openGraph": {
+      "title": "Infinity Run Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Infinity Run! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/infinity-run-og.jpg",
+      "url": "https://littlegames.com/games/infinity-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Infinity Run Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Infinity Run! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/infinity-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Infinity Run",
+      "href": "/games/infinity-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_290",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

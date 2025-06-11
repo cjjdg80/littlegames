@@ -1,0 +1,54 @@
+{
+  "gameId": 2468,
+  "slug": "battledudesio",
+  "metadata": {
+    "title": "Action Game BattleDudes.io - Play Free Now",
+    "description": "Join the action in BattleDudes.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play BattleDudes.io",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/battledudesio",
+    "openGraph": {
+      "title": "Action Game BattleDudes.io - Play Free Now",
+      "description": "Join the action in BattleDudes.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/battledudesio-og.jpg",
+      "url": "https://littlegames.com/games/battledudesio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game BattleDudes.io - Play Free Now",
+      "description": "Join the action in BattleDudes.io! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/battledudesio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "BattleDudes.io",
+      "href": "/games/battledudesio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_514",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

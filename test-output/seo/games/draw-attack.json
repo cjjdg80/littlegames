@@ -1,0 +1,54 @@
+{
+  "gameId": 2677,
+  "slug": "draw-attack",
+  "metadata": {
+    "title": "Draw Attack - Exciting Action Adventure Game",
+    "description": "Draw Attack delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Draw Attack",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/draw-attack",
+    "openGraph": {
+      "title": "Draw Attack - Exciting Action Adventure Game",
+      "description": "Draw Attack delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/draw-attack-og.jpg",
+      "url": "https://littlegames.com/games/draw-attack",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Draw Attack - Exciting Action Adventure Game",
+      "description": "Draw Attack delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/draw-attack-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Draw Attack",
+      "href": "/games/draw-attack",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_993",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

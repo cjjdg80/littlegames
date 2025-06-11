@@ -1,0 +1,54 @@
+{
+  "gameId": 5316,
+  "slug": "rope-master",
+  "metadata": {
+    "title": "Puzzle Game Rope Master - Test Your Skills",
+    "description": "Sharpen your mind with Rope Master! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Rope Master",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/rope-master",
+    "openGraph": {
+      "title": "Puzzle Game Rope Master - Test Your Skills",
+      "description": "Sharpen your mind with Rope Master! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/rope-master-og.jpg",
+      "url": "https://littlegames.com/games/rope-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Rope Master - Test Your Skills",
+      "description": "Sharpen your mind with Rope Master! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/rope-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Rope Master",
+      "href": "/games/rope-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_802",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

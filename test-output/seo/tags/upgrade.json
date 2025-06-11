@@ -1,0 +1,46 @@
+{
+  "tag": "upgrade",
+  "displayName": "Upgrade",
+  "metadata": {
+    "title": "Upgrade Games - Play Free Online",
+    "description": "Discover amazing upgrade games! Play 95 free games with upgrade theme. No downloads required.",
+    "keywords": [
+      "upgrade games",
+      "free online games",
+      "browser games",
+      "upgrade theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/upgrade",
+    "openGraph": {
+      "title": "Upgrade Games - Free Online Gaming",
+      "description": "Play the best upgrade games online for free. 95 games available.",
+      "image": "https://littlegames.com/images/tags/upgrade-og.jpg",
+      "url": "https://littlegames.com/tags/upgrade",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Upgrade Games - Free Online",
+      "description": "Play 95 free upgrade games online.",
+      "image": "https://littlegames.com/images/tags/upgrade-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Upgrade",
+      "href": "/tags/upgrade",
+      "current": true
+    }
+  ],
+  "description": "Discover games with upgrade theme! Our collection includes 95 carefully selected games that feature upgrade elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

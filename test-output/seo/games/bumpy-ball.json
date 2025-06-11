@@ -1,0 +1,54 @@
+{
+  "gameId": 5182,
+  "slug": "bumpy-ball",
+  "metadata": {
+    "title": "Action Game Bumpy Ball - Play Free Now",
+    "description": "Experience thrilling action in Bumpy Ball! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Bumpy Ball",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/bumpy-ball",
+    "openGraph": {
+      "title": "Action Game Bumpy Ball - Play Free Now",
+      "description": "Experience thrilling action in Bumpy Ball! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/bumpy-ball-og.jpg",
+      "url": "https://littlegames.com/games/bumpy-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bumpy Ball - Play Free Now",
+      "description": "Experience thrilling action in Bumpy Ball! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/bumpy-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bumpy Ball",
+      "href": "/games/bumpy-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_648",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

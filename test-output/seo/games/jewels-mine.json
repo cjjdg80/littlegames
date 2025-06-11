@@ -1,0 +1,54 @@
+{
+  "gameId": 2933,
+  "slug": "jewels-mine",
+  "metadata": {
+    "title": "Free Jewels Mine Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Jewels Mine. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Jewels Mine online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/jewels-mine",
+    "openGraph": {
+      "title": "Free Jewels Mine Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Jewels Mine. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jewels-mine-og.jpg",
+      "url": "https://littlegames.com/games/jewels-mine",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Jewels Mine Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Jewels Mine. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/jewels-mine-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jewels Mine",
+      "href": "/games/jewels-mine",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_929",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

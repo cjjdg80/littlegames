@@ -1,0 +1,54 @@
+{
+  "gameId": 9101,
+  "slug": "cube-combo",
+  "metadata": {
+    "title": "Cube Combo - Exciting Action Adventure Game",
+    "description": "Cube Combo delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Cube Combo online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/cube-combo",
+    "openGraph": {
+      "title": "Cube Combo - Exciting Action Adventure Game",
+      "description": "Cube Combo delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cube-combo-og.jpg",
+      "url": "https://littlegames.com/games/cube-combo",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cube Combo - Exciting Action Adventure Game",
+      "description": "Cube Combo delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/cube-combo-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Cube Combo",
+      "href": "/games/cube-combo",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_137",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

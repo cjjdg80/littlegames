@@ -1,0 +1,54 @@
+{
+  "gameId": 8019,
+  "slug": "classic-mine-sweeper",
+  "metadata": {
+    "title": "Classic Mine Sweeper - Brain Training Puzzle Challenge",
+    "description": "Classic Mine Sweeper offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "Classic Mine Sweeper online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/classic-mine-sweeper",
+    "openGraph": {
+      "title": "Classic Mine Sweeper - Brain Training Puzzle Challenge",
+      "description": "Classic Mine Sweeper offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/classic-mine-sweeper-og.jpg",
+      "url": "https://littlegames.com/games/classic-mine-sweeper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Classic Mine Sweeper - Brain Training Puzzle Challenge",
+      "description": "Classic Mine Sweeper offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/classic-mine-sweeper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Classic Mine Sweeper",
+      "href": "/games/classic-mine-sweeper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_595",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

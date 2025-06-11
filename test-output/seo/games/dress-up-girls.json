@@ -1,0 +1,54 @@
+{
+  "gameId": 6162,
+  "slug": "dress-up-girls",
+  "metadata": {
+    "title": "Dress Up Girls - Exciting Action Adventure Game",
+    "description": "Dress Up Girls delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Dress Up Girls",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dress-up-girls",
+    "openGraph": {
+      "title": "Dress Up Girls - Exciting Action Adventure Game",
+      "description": "Dress Up Girls delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dress-up-girls-og.jpg",
+      "url": "https://littlegames.com/games/dress-up-girls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dress Up Girls - Exciting Action Adventure Game",
+      "description": "Dress Up Girls delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/dress-up-girls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Dress Up Girls",
+      "href": "/games/dress-up-girls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_028",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8152,
+  "slug": "pin-master",
+  "metadata": {
+    "title": "Free Pin Master Game - Adventure Awaits",
+    "description": "Discover new worlds in Pin Master. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "Pin Master online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/pin-master",
+    "openGraph": {
+      "title": "Free Pin Master Game - Adventure Awaits",
+      "description": "Discover new worlds in Pin Master. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/pin-master-og.jpg",
+      "url": "https://littlegames.com/games/pin-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pin Master Game - Adventure Awaits",
+      "description": "Discover new worlds in Pin Master. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/pin-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Pin Master",
+      "href": "/games/pin-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_721",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

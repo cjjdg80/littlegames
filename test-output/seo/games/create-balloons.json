@@ -1,0 +1,54 @@
+{
+  "gameId": 3116,
+  "slug": "create-balloons",
+  "metadata": {
+    "title": "Create Balloons Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Create Balloons! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Create Balloons",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/create-balloons",
+    "openGraph": {
+      "title": "Create Balloons Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Create Balloons! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/create-balloons-og.jpg",
+      "url": "https://littlegames.com/games/create-balloons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Create Balloons Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Create Balloons! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/create-balloons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Create Balloons",
+      "href": "/games/create-balloons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_602",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

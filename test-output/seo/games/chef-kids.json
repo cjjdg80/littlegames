@@ -1,0 +1,54 @@
+{
+  "gameId": 1263,
+  "slug": "chef-kids",
+  "metadata": {
+    "title": "Chef Kids - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Chef Kids. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Chef Kids game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/chef-kids",
+    "openGraph": {
+      "title": "Chef Kids - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Chef Kids. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/chef-kids-og.jpg",
+      "url": "https://littlegames.com/games/chef-kids",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chef Kids - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Chef Kids. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/chef-kids-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Chef Kids",
+      "href": "/games/chef-kids",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_159",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9923,
+  "slug": "kingdom-match",
+  "metadata": {
+    "title": "Kingdom match - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Kingdom match. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Kingdom match",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/kingdom-match",
+    "openGraph": {
+      "title": "Kingdom match - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Kingdom match. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kingdom-match-og.jpg",
+      "url": "https://littlegames.com/games/kingdom-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kingdom match - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Kingdom match. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/kingdom-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kingdom match",
+      "href": "/games/kingdom-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_619",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

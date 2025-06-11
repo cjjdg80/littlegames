@@ -1,0 +1,54 @@
+{
+  "gameId": 9850,
+  "slug": "blocks-stack-rush",
+  "metadata": {
+    "title": "Adventure Game Blocks Stack Rush - Journey Begins",
+    "description": "Blocks Stack Rush offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Blocks Stack Rush online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/blocks-stack-rush",
+    "openGraph": {
+      "title": "Adventure Game Blocks Stack Rush - Journey Begins",
+      "description": "Blocks Stack Rush offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/blocks-stack-rush-og.jpg",
+      "url": "https://littlegames.com/games/blocks-stack-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Blocks Stack Rush - Journey Begins",
+      "description": "Blocks Stack Rush offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/blocks-stack-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Blocks Stack Rush",
+      "href": "/games/blocks-stack-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_359",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1761,
+  "slug": "swing-monkey",
+  "metadata": {
+    "title": "Action Game Swing Monkey - Play Free Now",
+    "description": "Join the action in Swing Monkey! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Swing Monkey game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/swing-monkey",
+    "openGraph": {
+      "title": "Action Game Swing Monkey - Play Free Now",
+      "description": "Join the action in Swing Monkey! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/swing-monkey-og.jpg",
+      "url": "https://littlegames.com/games/swing-monkey",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Swing Monkey - Play Free Now",
+      "description": "Join the action in Swing Monkey! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/swing-monkey-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Swing Monkey",
+      "href": "/games/swing-monkey",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_597",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5756,
+  "slug": "halloween-memory",
+  "metadata": {
+    "title": "Action Game Halloween Memory - Play Free Now",
+    "description": "Join the action in Halloween Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Halloween Memory",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-memory",
+    "openGraph": {
+      "title": "Action Game Halloween Memory - Play Free Now",
+      "description": "Join the action in Halloween Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/halloween-memory-og.jpg",
+      "url": "https://littlegames.com/games/halloween-memory",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Halloween Memory - Play Free Now",
+      "description": "Join the action in Halloween Memory! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/halloween-memory-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Halloween Memory",
+      "href": "/games/halloween-memory",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_442",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

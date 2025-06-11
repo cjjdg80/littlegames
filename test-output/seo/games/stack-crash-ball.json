@@ -1,0 +1,54 @@
+{
+  "gameId": 5074,
+  "slug": "stack-crash-ball",
+  "metadata": {
+    "title": "Stack Crash Ball Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Stack Crash Ball. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Stack Crash Ball online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/stack-crash-ball",
+    "openGraph": {
+      "title": "Stack Crash Ball Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Stack Crash Ball. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stack-crash-ball-og.jpg",
+      "url": "https://littlegames.com/games/stack-crash-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stack Crash Ball Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Stack Crash Ball. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stack-crash-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stack Crash Ball",
+      "href": "/games/stack-crash-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_300",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

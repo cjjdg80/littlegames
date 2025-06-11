@@ -1,0 +1,54 @@
+{
+  "gameId": 2941,
+  "slug": "happy-hopper",
+  "metadata": {
+    "title": "Free Happy Hopper Game - Action Packed Fun",
+    "description": "Join the action in Happy Hopper! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Happy Hopper",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/happy-hopper",
+    "openGraph": {
+      "title": "Free Happy Hopper Game - Action Packed Fun",
+      "description": "Join the action in Happy Hopper! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-hopper-og.jpg",
+      "url": "https://littlegames.com/games/happy-hopper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Happy Hopper Game - Action Packed Fun",
+      "description": "Join the action in Happy Hopper! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-hopper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Happy Hopper",
+      "href": "/games/happy-hopper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_177",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

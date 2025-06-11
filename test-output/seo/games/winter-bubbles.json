@@ -1,0 +1,54 @@
+{
+  "gameId": 3745,
+  "slug": "winter-bubbles",
+  "metadata": {
+    "title": "Puzzle Game Winter Bubbles - Test Your Skills",
+    "description": "Put your thinking skills to the test in Winter Bubbles. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Winter Bubbles",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/winter-bubbles",
+    "openGraph": {
+      "title": "Puzzle Game Winter Bubbles - Test Your Skills",
+      "description": "Put your thinking skills to the test in Winter Bubbles. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/winter-bubbles-og.jpg",
+      "url": "https://littlegames.com/games/winter-bubbles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Winter Bubbles - Test Your Skills",
+      "description": "Put your thinking skills to the test in Winter Bubbles. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/winter-bubbles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Winter Bubbles",
+      "href": "/games/winter-bubbles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_101",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

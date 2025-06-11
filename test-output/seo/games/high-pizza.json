@@ -1,0 +1,54 @@
+{
+  "gameId": 4441,
+  "slug": "high-pizza",
+  "metadata": {
+    "title": "High Pizza Online - Ultimate Action Gaming Experience",
+    "description": "High Pizza delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "High Pizza",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/high-pizza",
+    "openGraph": {
+      "title": "High Pizza Online - Ultimate Action Gaming Experience",
+      "description": "High Pizza delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/high-pizza-og.jpg",
+      "url": "https://littlegames.com/games/high-pizza",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "High Pizza Online - Ultimate Action Gaming Experience",
+      "description": "High Pizza delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/high-pizza-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "High Pizza",
+      "href": "/games/high-pizza",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_677",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

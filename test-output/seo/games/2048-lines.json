@@ -1,0 +1,54 @@
+{
+  "gameId": 6474,
+  "slug": "2048-lines",
+  "metadata": {
+    "title": "Play 2048 Lines - Free Action Game Online",
+    "description": "2048 Lines delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "2048 Lines online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/2048-lines",
+    "openGraph": {
+      "title": "Play 2048 Lines - Free Action Game Online",
+      "description": "2048 Lines delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048-lines-og.jpg",
+      "url": "https://littlegames.com/games/2048-lines",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2048 Lines - Free Action Game Online",
+      "description": "2048 Lines delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/2048-lines-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2048 Lines",
+      "href": "/games/2048-lines",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_700",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

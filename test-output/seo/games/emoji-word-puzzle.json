@@ -1,0 +1,54 @@
+{
+  "gameId": 3775,
+  "slug": "emoji-word-puzzle",
+  "metadata": {
+    "title": "Play Emoji Word Puzzle - Free Puzzle Game Online",
+    "description": "Emoji Word Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Emoji Word Puzzle online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-word-puzzle",
+    "openGraph": {
+      "title": "Play Emoji Word Puzzle - Free Puzzle Game Online",
+      "description": "Emoji Word Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/emoji-word-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/emoji-word-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Emoji Word Puzzle - Free Puzzle Game Online",
+      "description": "Emoji Word Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/emoji-word-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Emoji Word Puzzle",
+      "href": "/games/emoji-word-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_031",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

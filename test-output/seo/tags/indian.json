@@ -1,0 +1,46 @@
+{
+  "tag": "indian",
+  "displayName": "Indian",
+  "metadata": {
+    "title": "Indian Games - Play Free Online",
+    "description": "Discover amazing indian games! Play 4 free games with indian theme. No downloads required.",
+    "keywords": [
+      "indian games",
+      "free online games",
+      "browser games",
+      "indian theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/indian",
+    "openGraph": {
+      "title": "Indian Games - Free Online Gaming",
+      "description": "Play the best indian games online for free. 4 games available.",
+      "image": "https://littlegames.com/images/tags/indian-og.jpg",
+      "url": "https://littlegames.com/tags/indian",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Indian Games - Free Online",
+      "description": "Play 4 free indian games online.",
+      "image": "https://littlegames.com/images/tags/indian-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Indian",
+      "href": "/tags/indian",
+      "current": true
+    }
+  ],
+  "description": "Discover games with indian theme! Our collection includes 4 carefully selected games that feature indian elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

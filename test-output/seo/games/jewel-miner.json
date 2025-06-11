@@ -1,0 +1,54 @@
+{
+  "gameId": 3277,
+  "slug": "jewel-miner",
+  "metadata": {
+    "title": "Puzzle Game Jewel Miner - Test Your Skills",
+    "description": "Sharpen your mind with Jewel Miner! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Jewel Miner",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/jewel-miner",
+    "openGraph": {
+      "title": "Puzzle Game Jewel Miner - Test Your Skills",
+      "description": "Sharpen your mind with Jewel Miner! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jewel-miner-og.jpg",
+      "url": "https://littlegames.com/games/jewel-miner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Jewel Miner - Test Your Skills",
+      "description": "Sharpen your mind with Jewel Miner! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/jewel-miner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Jewel Miner",
+      "href": "/games/jewel-miner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_593",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "hotel",
+  "displayName": "Hotel",
+  "metadata": {
+    "title": "Hotel Games - Play Free Online",
+    "description": "Discover amazing hotel games! Play 5 free games with hotel theme. No downloads required.",
+    "keywords": [
+      "hotel games",
+      "free online games",
+      "browser games",
+      "hotel theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/hotel",
+    "openGraph": {
+      "title": "Hotel Games - Free Online Gaming",
+      "description": "Play the best hotel games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/hotel-og.jpg",
+      "url": "https://littlegames.com/tags/hotel",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hotel Games - Free Online",
+      "description": "Play 5 free hotel games online.",
+      "image": "https://littlegames.com/images/tags/hotel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hotel",
+      "href": "/tags/hotel",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hotel theme! Our collection includes 5 carefully selected games that feature hotel elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

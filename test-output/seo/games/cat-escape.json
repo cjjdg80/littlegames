@@ -1,0 +1,54 @@
+{
+  "gameId": 3579,
+  "slug": "cat-escape",
+  "metadata": {
+    "title": "Cat Escape Online - Explore and Discover",
+    "description": "Embark on an epic journey in Cat Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Cat Escape online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/cat-escape",
+    "openGraph": {
+      "title": "Cat Escape Online - Explore and Discover",
+      "description": "Embark on an epic journey in Cat Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/cat-escape-og.jpg",
+      "url": "https://littlegames.com/games/cat-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cat Escape Online - Explore and Discover",
+      "description": "Embark on an epic journey in Cat Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/cat-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Cat Escape",
+      "href": "/games/cat-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_958",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

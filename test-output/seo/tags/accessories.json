@@ -1,0 +1,46 @@
+{
+  "tag": "accessories",
+  "displayName": "Accessories",
+  "metadata": {
+    "title": "Accessories Games - Play Free Online",
+    "description": "Discover amazing accessories games! Play 18 free games with accessories theme. No downloads required.",
+    "keywords": [
+      "accessories games",
+      "free online games",
+      "browser games",
+      "accessories theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/accessories",
+    "openGraph": {
+      "title": "Accessories Games - Free Online Gaming",
+      "description": "Play the best accessories games online for free. 18 games available.",
+      "image": "https://littlegames.com/images/tags/accessories-og.jpg",
+      "url": "https://littlegames.com/tags/accessories",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Accessories Games - Free Online",
+      "description": "Play 18 free accessories games online.",
+      "image": "https://littlegames.com/images/tags/accessories-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Accessories",
+      "href": "/tags/accessories",
+      "current": true
+    }
+  ],
+  "description": "Discover games with accessories theme! Our collection includes 18 carefully selected games that feature accessories elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

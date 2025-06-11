@@ -1,0 +1,54 @@
+{
+  "gameId": 3196,
+  "slug": "panda-lifestyle",
+  "metadata": {
+    "title": "Play Panda Lifestyle - Free Action Game Online",
+    "description": "Experience thrilling action in Panda Lifestyle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Panda Lifestyle game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/panda-lifestyle",
+    "openGraph": {
+      "title": "Play Panda Lifestyle - Free Action Game Online",
+      "description": "Experience thrilling action in Panda Lifestyle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/panda-lifestyle-og.jpg",
+      "url": "https://littlegames.com/games/panda-lifestyle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Panda Lifestyle - Free Action Game Online",
+      "description": "Experience thrilling action in Panda Lifestyle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/panda-lifestyle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Panda Lifestyle",
+      "href": "/games/panda-lifestyle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_082",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

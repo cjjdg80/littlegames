@@ -1,0 +1,54 @@
+{
+  "gameId": 1522,
+  "slug": "amazing-colors",
+  "metadata": {
+    "title": "Action Game Amazing Colors - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Amazing Colors. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Amazing Colors game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/amazing-colors",
+    "openGraph": {
+      "title": "Action Game Amazing Colors - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Amazing Colors. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/amazing-colors-og.jpg",
+      "url": "https://littlegames.com/games/amazing-colors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Amazing Colors - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Amazing Colors. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/amazing-colors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Amazing Colors",
+      "href": "/games/amazing-colors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_188",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

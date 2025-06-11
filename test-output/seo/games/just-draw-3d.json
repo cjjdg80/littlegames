@@ -1,0 +1,54 @@
+{
+  "gameId": 1260,
+  "slug": "just-draw-3d",
+  "metadata": {
+    "title": "Just Draw 3D - Exciting Action Adventure Game",
+    "description": "Just Draw 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Just Draw 3D",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/just-draw-3d",
+    "openGraph": {
+      "title": "Just Draw 3D - Exciting Action Adventure Game",
+      "description": "Just Draw 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/just-draw-3d-og.jpg",
+      "url": "https://littlegames.com/games/just-draw-3d",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Just Draw 3D - Exciting Action Adventure Game",
+      "description": "Just Draw 3D delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/just-draw-3d-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Just Draw 3D",
+      "href": "/games/just-draw-3d",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_066",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

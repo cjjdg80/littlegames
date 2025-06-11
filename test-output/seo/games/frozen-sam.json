@@ -1,0 +1,54 @@
+{
+  "gameId": 3317,
+  "slug": "frozen-sam",
+  "metadata": {
+    "title": "Action Game Frozen Sam - Play Free Now",
+    "description": "Join the action in Frozen Sam! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Frozen Sam online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/frozen-sam",
+    "openGraph": {
+      "title": "Action Game Frozen Sam - Play Free Now",
+      "description": "Join the action in Frozen Sam! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/frozen-sam-og.jpg",
+      "url": "https://littlegames.com/games/frozen-sam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Frozen Sam - Play Free Now",
+      "description": "Join the action in Frozen Sam! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/frozen-sam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Frozen Sam",
+      "href": "/games/frozen-sam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_833",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

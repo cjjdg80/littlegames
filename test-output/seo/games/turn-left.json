@@ -1,0 +1,54 @@
+{
+  "gameId": 4466,
+  "slug": "turn-left",
+  "metadata": {
+    "title": "Play Turn Left - Free Action Game Online",
+    "description": "Experience thrilling action in Turn Left! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "play Turn Left",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/turn-left",
+    "openGraph": {
+      "title": "Play Turn Left - Free Action Game Online",
+      "description": "Experience thrilling action in Turn Left! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/turn-left-og.jpg",
+      "url": "https://littlegames.com/games/turn-left",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Turn Left - Free Action Game Online",
+      "description": "Experience thrilling action in Turn Left! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/turn-left-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Turn Left",
+      "href": "/games/turn-left",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_452",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

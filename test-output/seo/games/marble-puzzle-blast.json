@@ -1,0 +1,54 @@
+{
+  "gameId": 6316,
+  "slug": "marble-puzzle-blast",
+  "metadata": {
+    "title": "Marble Puzzle Blast Online - Logic and Strategy Game",
+    "description": "Marble Puzzle Blast offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+    "keywords": [
+      "puzzle games",
+      "Marble Puzzle Blast",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/marble-puzzle-blast",
+    "openGraph": {
+      "title": "Marble Puzzle Blast Online - Logic and Strategy Game",
+      "description": "Marble Puzzle Blast offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your...",
+      "image": "https://littlegames.com/images/games/marble-puzzle-blast-og.jpg",
+      "url": "https://littlegames.com/games/marble-puzzle-blast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Marble Puzzle Blast Online - Logic and Strategy Game",
+      "description": "Marble Puzzle Blast offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/marble-puzzle-blast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Marble Puzzle Blast",
+      "href": "/games/marble-puzzle-blast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_802",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

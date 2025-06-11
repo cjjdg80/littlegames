@@ -1,0 +1,54 @@
+{
+  "gameId": 6395,
+  "slug": "diamond-match",
+  "metadata": {
+    "title": "Diamond Match - Brain Training Puzzle Challenge",
+    "description": "Sharpen your mind with Diamond Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "Diamond Match online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/diamond-match",
+    "openGraph": {
+      "title": "Diamond Match - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Diamond Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/diamond-match-og.jpg",
+      "url": "https://littlegames.com/games/diamond-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diamond Match - Brain Training Puzzle Challenge",
+      "description": "Sharpen your mind with Diamond Match! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/diamond-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Diamond Match",
+      "href": "/games/diamond-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_251",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

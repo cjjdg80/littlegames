@@ -1,0 +1,54 @@
+{
+  "gameId": 8450,
+  "slug": "save-the-beauty",
+  "metadata": {
+    "title": "Save The Beauty - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Save The Beauty. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Save The Beauty game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/save-the-beauty",
+    "openGraph": {
+      "title": "Save The Beauty - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Save The Beauty. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/save-the-beauty-og.jpg",
+      "url": "https://littlegames.com/games/save-the-beauty",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Save The Beauty - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Save The Beauty. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/save-the-beauty-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Save The Beauty",
+      "href": "/games/save-the-beauty",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_956",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

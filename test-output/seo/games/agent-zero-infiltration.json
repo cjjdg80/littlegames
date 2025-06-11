@@ -1,0 +1,54 @@
+{
+  "gameId": 9623,
+  "slug": "agent-zero-infiltration",
+  "metadata": {
+    "title": "Adventure Game Agent Zero: Infiltration - Journey Begins",
+    "description": "Agent Zero: Infiltration offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and...",
+    "keywords": [
+      "Agent Zero: Infiltration game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/agent-zero-infiltration",
+    "openGraph": {
+      "title": "Adventure Game Agent Zero: Infiltration - Journey Begins",
+      "description": "Agent Zero: Infiltration offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and...",
+      "image": "https://littlegames.com/images/games/agent-zero-infiltration-og.jpg",
+      "url": "https://littlegames.com/games/agent-zero-infiltration",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Agent Zero: Infiltration - Journey Begins",
+      "description": "Agent Zero: Infiltration offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/agent-zero-infiltration-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Agent Zero: Infiltration",
+      "href": "/games/agent-zero-infiltration",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_322",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

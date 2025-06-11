@@ -1,0 +1,54 @@
+{
+  "gameId": 2512,
+  "slug": "swipe-ball",
+  "metadata": {
+    "title": "Swipe Ball - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Swipe Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Swipe Ball game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/swipe-ball",
+    "openGraph": {
+      "title": "Swipe Ball - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Swipe Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/swipe-ball-og.jpg",
+      "url": "https://littlegames.com/games/swipe-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Swipe Ball - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Swipe Ball. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/swipe-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Swipe Ball",
+      "href": "/games/swipe-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_878",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

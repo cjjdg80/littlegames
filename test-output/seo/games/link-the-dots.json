@@ -1,0 +1,54 @@
+{
+  "gameId": 3255,
+  "slug": "link-the-dots",
+  "metadata": {
+    "title": "Link the Dots - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Link the Dots. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Link the Dots",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/link-the-dots",
+    "openGraph": {
+      "title": "Link the Dots - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Link the Dots. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/link-the-dots-og.jpg",
+      "url": "https://littlegames.com/games/link-the-dots",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Link the Dots - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Link the Dots. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/link-the-dots-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Link the Dots",
+      "href": "/games/link-the-dots",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_911",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

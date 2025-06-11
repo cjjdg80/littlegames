@@ -1,0 +1,54 @@
+{
+  "gameId": 3216,
+  "slug": "sky-race",
+  "metadata": {
+    "title": "Sky Race - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Sky Race. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Sky Race",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/sky-race",
+    "openGraph": {
+      "title": "Sky Race - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sky Race. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sky-race-og.jpg",
+      "url": "https://littlegames.com/games/sky-race",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sky Race - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Sky Race. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sky-race-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sky Race",
+      "href": "/games/sky-race",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_702",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

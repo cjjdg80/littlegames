@@ -1,0 +1,54 @@
+{
+  "gameId": 659,
+  "slug": "emoticons",
+  "metadata": {
+    "title": "Action Game Emoticons - Play Free Now",
+    "description": "Emoticons delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Emoticons",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/emoticons",
+    "openGraph": {
+      "title": "Action Game Emoticons - Play Free Now",
+      "description": "Emoticons delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/emoticons-og.jpg",
+      "url": "https://littlegames.com/games/emoticons",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Emoticons - Play Free Now",
+      "description": "Emoticons delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/emoticons-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Emoticons",
+      "href": "/games/emoticons",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_435",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

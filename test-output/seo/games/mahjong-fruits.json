@@ -1,0 +1,54 @@
+{
+  "gameId": 3505,
+  "slug": "mahjong-fruits",
+  "metadata": {
+    "title": "Mahjong Fruits Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Mahjong Fruits. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Mahjong Fruits online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-fruits",
+    "openGraph": {
+      "title": "Mahjong Fruits Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mahjong Fruits. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/mahjong-fruits-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-fruits",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mahjong Fruits Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Mahjong Fruits. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/mahjong-fruits-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Fruits",
+      "href": "/games/mahjong-fruits",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_661",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

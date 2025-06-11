@@ -1,0 +1,54 @@
+{
+  "gameId": 3689,
+  "slug": "winter-vacation",
+  "metadata": {
+    "title": "Free Winter Vacation Game - Mind Bending Puzzles",
+    "description": "Put your thinking skills to the test in Winter Vacation. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Winter Vacation",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/winter-vacation",
+    "openGraph": {
+      "title": "Free Winter Vacation Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Winter Vacation. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/winter-vacation-og.jpg",
+      "url": "https://littlegames.com/games/winter-vacation",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Winter Vacation Game - Mind Bending Puzzles",
+      "description": "Put your thinking skills to the test in Winter Vacation. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/winter-vacation-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Winter Vacation",
+      "href": "/games/winter-vacation",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_365",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

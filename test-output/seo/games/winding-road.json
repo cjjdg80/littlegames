@@ -1,0 +1,54 @@
+{
+  "gameId": 4203,
+  "slug": "winding-road",
+  "metadata": {
+    "title": "Winding Road Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Winding Road! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Winding Road",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/winding-road",
+    "openGraph": {
+      "title": "Winding Road Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Winding Road! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/winding-road-og.jpg",
+      "url": "https://littlegames.com/games/winding-road",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Winding Road Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Winding Road! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/winding-road-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Winding Road",
+      "href": "/games/winding-road",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_299",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

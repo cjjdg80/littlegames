@@ -1,0 +1,54 @@
+{
+  "gameId": 9349,
+  "slug": "kinder-garden",
+  "metadata": {
+    "title": "Action Game Kinder Garden - Play Free Now",
+    "description": "Dive into the action-packed world of Kinder Garden. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Kinder Garden",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/kinder-garden",
+    "openGraph": {
+      "title": "Action Game Kinder Garden - Play Free Now",
+      "description": "Dive into the action-packed world of Kinder Garden. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/kinder-garden-og.jpg",
+      "url": "https://littlegames.com/games/kinder-garden",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Kinder Garden - Play Free Now",
+      "description": "Dive into the action-packed world of Kinder Garden. This simulation game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/kinder-garden-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Kinder Garden",
+      "href": "/games/kinder-garden",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_829",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

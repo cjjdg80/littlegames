@@ -1,0 +1,54 @@
+{
+  "gameId": 6642,
+  "slug": "maze-of-death",
+  "metadata": {
+    "title": "Play Maze of Death - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Maze of Death! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Maze of Death online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/maze-of-death",
+    "openGraph": {
+      "title": "Play Maze of Death - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Maze of Death! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/maze-of-death-og.jpg",
+      "url": "https://littlegames.com/games/maze-of-death",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Maze of Death - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Maze of Death! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/maze-of-death-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Maze of Death",
+      "href": "/games/maze-of-death",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_911",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

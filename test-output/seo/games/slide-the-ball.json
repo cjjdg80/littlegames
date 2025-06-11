@@ -1,0 +1,54 @@
+{
+  "gameId": 4035,
+  "slug": "slide-the-ball",
+  "metadata": {
+    "title": "Puzzle Game Slide The Ball - Test Your Skills",
+    "description": "Sharpen your mind with Slide The Ball! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Slide The Ball",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/slide-the-ball",
+    "openGraph": {
+      "title": "Puzzle Game Slide The Ball - Test Your Skills",
+      "description": "Sharpen your mind with Slide The Ball! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/slide-the-ball-og.jpg",
+      "url": "https://littlegames.com/games/slide-the-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Slide The Ball - Test Your Skills",
+      "description": "Sharpen your mind with Slide The Ball! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/slide-the-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Slide The Ball",
+      "href": "/games/slide-the-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_091",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

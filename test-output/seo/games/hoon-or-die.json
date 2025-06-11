@@ -1,0 +1,54 @@
+{
+  "gameId": 6291,
+  "slug": "hoon-or-die",
+  "metadata": {
+    "title": "Hoon or Die Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Hoon or Die. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Hoon or Die",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/hoon-or-die",
+    "openGraph": {
+      "title": "Hoon or Die Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Hoon or Die. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hoon-or-die-og.jpg",
+      "url": "https://littlegames.com/games/hoon-or-die",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hoon or Die Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Hoon or Die. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hoon-or-die-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hoon or Die",
+      "href": "/games/hoon-or-die",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_027",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

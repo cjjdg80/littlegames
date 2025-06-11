@@ -1,0 +1,54 @@
+{
+  "gameId": 6926,
+  "slug": "help-the-kitten",
+  "metadata": {
+    "title": "Help The Kitten Online - Explore and Discover",
+    "description": "Help The Kitten offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Help The Kitten",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/help-the-kitten",
+    "openGraph": {
+      "title": "Help The Kitten Online - Explore and Discover",
+      "description": "Help The Kitten offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/help-the-kitten-og.jpg",
+      "url": "https://littlegames.com/games/help-the-kitten",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Help The Kitten Online - Explore and Discover",
+      "description": "Help The Kitten offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/help-the-kitten-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Help The Kitten",
+      "href": "/games/help-the-kitten",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_715",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

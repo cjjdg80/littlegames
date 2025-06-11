@@ -1,0 +1,54 @@
+{
+  "gameId": 2278,
+  "slug": "pin-and-balls",
+  "metadata": {
+    "title": "Action Game Pin And Balls - Play Free Now",
+    "description": "Dive into the action-packed world of Pin And Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Pin And Balls game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pin-and-balls",
+    "openGraph": {
+      "title": "Action Game Pin And Balls - Play Free Now",
+      "description": "Dive into the action-packed world of Pin And Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pin-and-balls-og.jpg",
+      "url": "https://littlegames.com/games/pin-and-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Pin And Balls - Play Free Now",
+      "description": "Dive into the action-packed world of Pin And Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pin-and-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pin And Balls",
+      "href": "/games/pin-and-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_624",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

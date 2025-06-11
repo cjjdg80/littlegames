@@ -1,0 +1,54 @@
+{
+  "gameId": 5651,
+  "slug": "merge-blast",
+  "metadata": {
+    "title": "Merge Blast Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Merge Blast. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Merge Blast",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/merge-blast",
+    "openGraph": {
+      "title": "Merge Blast Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Merge Blast. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/merge-blast-og.jpg",
+      "url": "https://littlegames.com/games/merge-blast",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Merge Blast Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Merge Blast. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/merge-blast-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Merge Blast",
+      "href": "/games/merge-blast",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_187",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

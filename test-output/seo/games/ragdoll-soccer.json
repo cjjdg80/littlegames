@@ -1,0 +1,54 @@
+{
+  "gameId": 2443,
+  "slug": "ragdoll-soccer",
+  "metadata": {
+    "title": "Free Ragdoll Soccer Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Ragdoll Soccer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Ragdoll Soccer",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/ragdoll-soccer",
+    "openGraph": {
+      "title": "Free Ragdoll Soccer Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Ragdoll Soccer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/ragdoll-soccer-og.jpg",
+      "url": "https://littlegames.com/games/ragdoll-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ragdoll Soccer Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Ragdoll Soccer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/ragdoll-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Ragdoll Soccer",
+      "href": "/games/ragdoll-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_739",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5628,
+  "slug": "gun-shot",
+  "metadata": {
+    "title": "Action Game Gun Shot - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Gun Shot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Gun Shot",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/gun-shot",
+    "openGraph": {
+      "title": "Action Game Gun Shot - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Gun Shot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gun-shot-og.jpg",
+      "url": "https://littlegames.com/games/gun-shot",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Gun Shot - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Gun Shot. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/gun-shot-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Gun Shot",
+      "href": "/games/gun-shot",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_474",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

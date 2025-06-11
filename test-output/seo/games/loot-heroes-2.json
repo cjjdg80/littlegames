@@ -1,0 +1,54 @@
+{
+  "gameId": 4238,
+  "slug": "loot-heroes-2",
+  "metadata": {
+    "title": "Free Loot Heroes 2 Game - Action Packed Fun",
+    "description": "Loot Heroes 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+    "keywords": [
+      "Loot Heroes 2 game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/loot-heroes-2",
+    "openGraph": {
+      "title": "Free Loot Heroes 2 Game - Action Packed Fun",
+      "description": "Loot Heroes 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/loot-heroes-2-og.jpg",
+      "url": "https://littlegames.com/games/loot-heroes-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Loot Heroes 2 Game - Action Packed Fun",
+      "description": "Loot Heroes 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing strategy game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/loot-heroes-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Loot Heroes 2",
+      "href": "/games/loot-heroes-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_386",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

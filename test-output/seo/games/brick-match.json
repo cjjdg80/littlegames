@@ -1,0 +1,54 @@
+{
+  "gameId": 9814,
+  "slug": "brick-match",
+  "metadata": {
+    "title": "Brick Match Online - Logic and Strategy Game",
+    "description": "Exercise your brain with Brick Match. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Brick Match",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/brick-match",
+    "openGraph": {
+      "title": "Brick Match Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Brick Match. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/brick-match-og.jpg",
+      "url": "https://littlegames.com/games/brick-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Brick Match Online - Logic and Strategy Game",
+      "description": "Exercise your brain with Brick Match. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/brick-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Brick Match",
+      "href": "/games/brick-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_240",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3611,
+  "slug": "save-red-square",
+  "metadata": {
+    "title": "Puzzle Game Save RED Square - Test Your Skills",
+    "description": "Put your thinking skills to the test in Save RED Square. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "puzzle games",
+      "Save RED Square",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/save-red-square",
+    "openGraph": {
+      "title": "Puzzle Game Save RED Square - Test Your Skills",
+      "description": "Put your thinking skills to the test in Save RED Square. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/save-red-square-og.jpg",
+      "url": "https://littlegames.com/games/save-red-square",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Save RED Square - Test Your Skills",
+      "description": "Put your thinking skills to the test in Save RED Square. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/save-red-square-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Save RED Square",
+      "href": "/games/save-red-square",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_947",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

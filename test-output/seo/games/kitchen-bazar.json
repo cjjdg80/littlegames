@@ -1,0 +1,54 @@
+{
+  "gameId": 5707,
+  "slug": "kitchen-bazar",
+  "metadata": {
+    "title": "Play Kitchen Bazar - Free Action Game Online",
+    "description": "Join the action in Kitchen Bazar! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Kitchen Bazar",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/kitchen-bazar",
+    "openGraph": {
+      "title": "Play Kitchen Bazar - Free Action Game Online",
+      "description": "Join the action in Kitchen Bazar! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/kitchen-bazar-og.jpg",
+      "url": "https://littlegames.com/games/kitchen-bazar",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Kitchen Bazar - Free Action Game Online",
+      "description": "Join the action in Kitchen Bazar! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/kitchen-bazar-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Kitchen Bazar",
+      "href": "/games/kitchen-bazar",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_923",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3107,
+  "slug": "dr-gun-boots",
+  "metadata": {
+    "title": "DR. Gun Boots - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of DR. Gun Boots. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "DR. Gun Boots",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/dr-gun-boots",
+    "openGraph": {
+      "title": "DR. Gun Boots - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of DR. Gun Boots. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/dr-gun-boots-og.jpg",
+      "url": "https://littlegames.com/games/dr-gun-boots",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "DR. Gun Boots - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of DR. Gun Boots. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/dr-gun-boots-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "DR. Gun Boots",
+      "href": "/games/dr-gun-boots",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_323",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

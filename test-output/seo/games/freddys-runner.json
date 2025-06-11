@@ -1,0 +1,54 @@
+{
+  "gameId": 6134,
+  "slug": "freddys-runner",
+  "metadata": {
+    "title": "Adventure Game Freddy's runner - Journey Begins",
+    "description": "Freddy's runner offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Freddy's runner game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/freddys-runner",
+    "openGraph": {
+      "title": "Adventure Game Freddy's runner - Journey Begins",
+      "description": "Freddy's runner offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/freddys-runner-og.jpg",
+      "url": "https://littlegames.com/games/freddys-runner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Freddy's runner - Journey Begins",
+      "description": "Freddy's runner offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/freddys-runner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Freddy's runner",
+      "href": "/games/freddys-runner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_163",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1360,
+  "slug": "pixel-combat-fortress",
+  "metadata": {
+    "title": "Pixel Combat Fortress Online - Ultimate Action Gaming...",
+    "description": "Experience thrilling action in Pixel Combat Fortress! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Pixel Combat Fortress game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-combat-fortress",
+    "openGraph": {
+      "title": "Pixel Combat Fortress Online - Ultimate Action Gaming...",
+      "description": "Experience thrilling action in Pixel Combat Fortress! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/pixel-combat-fortress-og.jpg",
+      "url": "https://littlegames.com/games/pixel-combat-fortress",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pixel Combat Fortress Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Pixel Combat Fortress! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pixel-combat-fortress-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pixel Combat Fortress",
+      "href": "/games/pixel-combat-fortress",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_166",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

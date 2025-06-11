@@ -1,0 +1,54 @@
+{
+  "gameId": 3909,
+  "slug": "hammer-flight",
+  "metadata": {
+    "title": "Play Hammer Flight - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Hammer Flight. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Hammer Flight",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hammer-flight",
+    "openGraph": {
+      "title": "Play Hammer Flight - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Hammer Flight. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hammer-flight-og.jpg",
+      "url": "https://littlegames.com/games/hammer-flight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Hammer Flight - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Hammer Flight. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hammer-flight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Hammer Flight",
+      "href": "/games/hammer-flight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_185",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9200,
+  "slug": "love-tile-trio",
+  "metadata": {
+    "title": "Love Tile Trio Online - Ultimate Action Gaming Experience",
+    "description": "Love Tile Trio delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Love Tile Trio game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/love-tile-trio",
+    "openGraph": {
+      "title": "Love Tile Trio Online - Ultimate Action Gaming Experience",
+      "description": "Love Tile Trio delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/love-tile-trio-og.jpg",
+      "url": "https://littlegames.com/games/love-tile-trio",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Love Tile Trio Online - Ultimate Action Gaming Experience",
+      "description": "Love Tile Trio delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/love-tile-trio-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Love Tile Trio",
+      "href": "/games/love-tile-trio",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_206",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

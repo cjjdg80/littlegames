@@ -1,0 +1,54 @@
+{
+  "gameId": 3750,
+  "slug": "drop-the-gift",
+  "metadata": {
+    "title": "Drop The Gift Online - Ultimate Action Gaming Experience",
+    "description": "Drop The Gift delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Drop The Gift game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/drop-the-gift",
+    "openGraph": {
+      "title": "Drop The Gift Online - Ultimate Action Gaming Experience",
+      "description": "Drop The Gift delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drop-the-gift-og.jpg",
+      "url": "https://littlegames.com/games/drop-the-gift",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drop The Gift Online - Ultimate Action Gaming Experience",
+      "description": "Drop The Gift delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/drop-the-gift-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Drop The Gift",
+      "href": "/games/drop-the-gift",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_256",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

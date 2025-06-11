@@ -1,0 +1,54 @@
+{
+  "gameId": 8677,
+  "slug": "block-dodger",
+  "metadata": {
+    "title": "Block Dodger Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Block Dodger! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Block Dodger",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/block-dodger",
+    "openGraph": {
+      "title": "Block Dodger Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Block Dodger! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/block-dodger-og.jpg",
+      "url": "https://littlegames.com/games/block-dodger",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Block Dodger Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Block Dodger! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/block-dodger-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Block Dodger",
+      "href": "/games/block-dodger",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_993",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

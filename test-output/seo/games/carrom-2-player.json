@@ -1,0 +1,54 @@
+{
+  "gameId": 1172,
+  "slug": "carrom-2-player",
+  "metadata": {
+    "title": "Carrom 2 Player - Exciting Action Adventure Game",
+    "description": "Carrom 2 Player delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Carrom 2 Player",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/carrom-2-player",
+    "openGraph": {
+      "title": "Carrom 2 Player - Exciting Action Adventure Game",
+      "description": "Carrom 2 Player delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/carrom-2-player-og.jpg",
+      "url": "https://littlegames.com/games/carrom-2-player",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Carrom 2 Player - Exciting Action Adventure Game",
+      "description": "Carrom 2 Player delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/carrom-2-player-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Carrom 2 Player",
+      "href": "/games/carrom-2-player",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_338",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

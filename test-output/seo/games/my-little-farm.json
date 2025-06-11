@@ -1,0 +1,54 @@
+{
+  "gameId": 8447,
+  "slug": "my-little-farm",
+  "metadata": {
+    "title": "My Little Farm Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in My Little Farm. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "My Little Farm online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/my-little-farm",
+    "openGraph": {
+      "title": "My Little Farm Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in My Little Farm. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-little-farm-og.jpg",
+      "url": "https://littlegames.com/games/my-little-farm",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "My Little Farm Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in My Little Farm. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/my-little-farm-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "My Little Farm",
+      "href": "/games/my-little-farm",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_865",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

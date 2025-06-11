@@ -1,0 +1,54 @@
+{
+  "gameId": 9425,
+  "slug": "jello-bubbles",
+  "metadata": {
+    "title": "Action Game Jello Bubbles - Play Free Now",
+    "description": "Join the action in Jello Bubbles! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Jello Bubbles game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jello-bubbles",
+    "openGraph": {
+      "title": "Action Game Jello Bubbles - Play Free Now",
+      "description": "Join the action in Jello Bubbles! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jello-bubbles-og.jpg",
+      "url": "https://littlegames.com/games/jello-bubbles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Jello Bubbles - Play Free Now",
+      "description": "Join the action in Jello Bubbles! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/jello-bubbles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jello Bubbles",
+      "href": "/games/jello-bubbles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_181",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

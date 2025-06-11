@@ -1,0 +1,54 @@
+{
+  "gameId": 5304,
+  "slug": "stickman-vs-zombies",
+  "metadata": {
+    "title": "Stickman vs Zombies - Exciting Action Adventure Game",
+    "description": "Join the action in Stickman vs Zombies! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Stickman vs Zombies game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/stickman-vs-zombies",
+    "openGraph": {
+      "title": "Stickman vs Zombies - Exciting Action Adventure Game",
+      "description": "Join the action in Stickman vs Zombies! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-vs-zombies-og.jpg",
+      "url": "https://littlegames.com/games/stickman-vs-zombies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stickman vs Zombies - Exciting Action Adventure Game",
+      "description": "Join the action in Stickman vs Zombies! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stickman-vs-zombies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stickman vs Zombies",
+      "href": "/games/stickman-vs-zombies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_430",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

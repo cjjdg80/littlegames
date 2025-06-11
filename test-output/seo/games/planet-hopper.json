@@ -1,0 +1,54 @@
+{
+  "gameId": 9403,
+  "slug": "planet-hopper",
+  "metadata": {
+    "title": "Action Game Planet Hopper - Play Free Now",
+    "description": "Join the action in Planet Hopper! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Planet Hopper",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/planet-hopper",
+    "openGraph": {
+      "title": "Action Game Planet Hopper - Play Free Now",
+      "description": "Join the action in Planet Hopper! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/planet-hopper-og.jpg",
+      "url": "https://littlegames.com/games/planet-hopper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Planet Hopper - Play Free Now",
+      "description": "Join the action in Planet Hopper! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/planet-hopper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Planet Hopper",
+      "href": "/games/planet-hopper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_499",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

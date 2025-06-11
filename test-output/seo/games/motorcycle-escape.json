@@ -1,0 +1,54 @@
+{
+  "gameId": 243,
+  "slug": "motorcycle-escape",
+  "metadata": {
+    "title": "Motorcycle escape - Thrilling Adventure Quest",
+    "description": "Discover new worlds in Motorcycle escape. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Motorcycle escape",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/motorcycle-escape",
+    "openGraph": {
+      "title": "Motorcycle escape - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Motorcycle escape. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/motorcycle-escape-og.jpg",
+      "url": "https://littlegames.com/games/motorcycle-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Motorcycle escape - Thrilling Adventure Quest",
+      "description": "Discover new worlds in Motorcycle escape. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/motorcycle-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Motorcycle escape",
+      "href": "/games/motorcycle-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_542",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 5103,
+  "slug": "dream-restaurant",
+  "metadata": {
+    "title": "Dream Restaurant - Exciting Action Adventure Game",
+    "description": "Join the action in Dream Restaurant! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Dream Restaurant",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/dream-restaurant",
+    "openGraph": {
+      "title": "Dream Restaurant - Exciting Action Adventure Game",
+      "description": "Join the action in Dream Restaurant! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dream-restaurant-og.jpg",
+      "url": "https://littlegames.com/games/dream-restaurant",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dream Restaurant - Exciting Action Adventure Game",
+      "description": "Join the action in Dream Restaurant! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/dream-restaurant-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Dream Restaurant",
+      "href": "/games/dream-restaurant",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_199",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

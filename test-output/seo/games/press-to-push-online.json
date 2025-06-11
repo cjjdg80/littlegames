@@ -1,0 +1,54 @@
+{
+  "gameId": 614,
+  "slug": "press-to-push-online",
+  "metadata": {
+    "title": "Press To Push Online - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Press To Push Online! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "Press To Push Online game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/press-to-push-online",
+    "openGraph": {
+      "title": "Press To Push Online - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Press To Push Online! This exciting casual game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/press-to-push-online-og.jpg",
+      "url": "https://littlegames.com/games/press-to-push-online",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Press To Push Online - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Press To Push Online! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/press-to-push-online-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Press To Push Online",
+      "href": "/games/press-to-push-online",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_040",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

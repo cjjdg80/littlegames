@@ -1,0 +1,54 @@
+{
+  "gameId": 1011,
+  "slug": "pinatacraft",
+  "metadata": {
+    "title": "Free PinataCraft Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in PinataCraft. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play PinataCraft",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pinatacraft",
+    "openGraph": {
+      "title": "Free PinataCraft Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in PinataCraft. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pinatacraft-og.jpg",
+      "url": "https://littlegames.com/games/pinatacraft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free PinataCraft Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in PinataCraft. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pinatacraft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "PinataCraft",
+      "href": "/games/pinatacraft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_347",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

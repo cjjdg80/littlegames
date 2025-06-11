@@ -1,0 +1,54 @@
+{
+  "gameId": 338,
+  "slug": "flower-shooter",
+  "metadata": {
+    "title": "Flower Shooter Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in Flower Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Flower Shooter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/flower-shooter",
+    "openGraph": {
+      "title": "Flower Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Flower Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flower-shooter-og.jpg",
+      "url": "https://littlegames.com/games/flower-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flower Shooter Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Flower Shooter! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/flower-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Flower Shooter",
+      "href": "/games/flower-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_484",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

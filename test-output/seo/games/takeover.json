@@ -1,0 +1,54 @@
+{
+  "gameId": 989,
+  "slug": "takeover",
+  "metadata": {
+    "title": "Action Game Takeover - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Takeover. This free online strategy game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Takeover",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/takeover",
+    "openGraph": {
+      "title": "Action Game Takeover - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Takeover. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/takeover-og.jpg",
+      "url": "https://littlegames.com/games/takeover",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Takeover - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Takeover. This free online strategy game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/takeover-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Takeover",
+      "href": "/games/takeover",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_667",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1190,
+  "slug": "super-wash-2",
+  "metadata": {
+    "title": "Super Wash 2 - Exciting Action Adventure Game",
+    "description": "Super Wash 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Super Wash 2 online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/super-wash-2",
+    "openGraph": {
+      "title": "Super Wash 2 - Exciting Action Adventure Game",
+      "description": "Super Wash 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-wash-2-og.jpg",
+      "url": "https://littlegames.com/games/super-wash-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Super Wash 2 - Exciting Action Adventure Game",
+      "description": "Super Wash 2 delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/super-wash-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Super Wash 2",
+      "href": "/games/super-wash-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_896",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

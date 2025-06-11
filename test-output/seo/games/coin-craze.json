@@ -1,0 +1,54 @@
+{
+  "gameId": 2824,
+  "slug": "coin-craze",
+  "metadata": {
+    "title": "Coin Craze - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Coin Craze! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Coin Craze",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/coin-craze",
+    "openGraph": {
+      "title": "Coin Craze - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Coin Craze! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/coin-craze-og.jpg",
+      "url": "https://littlegames.com/games/coin-craze",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Coin Craze - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Coin Craze! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/coin-craze-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Coin Craze",
+      "href": "/games/coin-craze",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_550",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 8574,
+  "slug": "hero-fight-clash",
+  "metadata": {
+    "title": "Free Hero Fight Clash Game - Adventure Awaits",
+    "description": "Start your epic journey with Hero Fight Clash! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Hero Fight Clash",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/hero-fight-clash",
+    "openGraph": {
+      "title": "Free Hero Fight Clash Game - Adventure Awaits",
+      "description": "Start your epic journey with Hero Fight Clash! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hero-fight-clash-og.jpg",
+      "url": "https://littlegames.com/games/hero-fight-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Hero Fight Clash Game - Adventure Awaits",
+      "description": "Start your epic journey with Hero Fight Clash! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/hero-fight-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Hero Fight Clash",
+      "href": "/games/hero-fight-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_803",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

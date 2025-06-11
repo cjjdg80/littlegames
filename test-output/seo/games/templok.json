@@ -1,0 +1,54 @@
+{
+  "gameId": 7391,
+  "slug": "templok",
+  "metadata": {
+    "title": "Templok - Brain Training Puzzle Challenge",
+    "description": "Challenge your mind with Templok! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "Templok game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/templok",
+    "openGraph": {
+      "title": "Templok - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Templok! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/templok-og.jpg",
+      "url": "https://littlegames.com/games/templok",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Templok - Brain Training Puzzle Challenge",
+      "description": "Challenge your mind with Templok! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/templok-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Templok",
+      "href": "/games/templok",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_127",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

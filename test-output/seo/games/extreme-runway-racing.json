@@ -1,0 +1,54 @@
+{
+  "gameId": 6400,
+  "slug": "extreme-runway-racing",
+  "metadata": {
+    "title": "Extreme Runway Racing - Exciting Action Adventure Game",
+    "description": "Join the action in Extreme Runway Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Extreme Runway Racing online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/extreme-runway-racing",
+    "openGraph": {
+      "title": "Extreme Runway Racing - Exciting Action Adventure Game",
+      "description": "Join the action in Extreme Runway Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/extreme-runway-racing-og.jpg",
+      "url": "https://littlegames.com/games/extreme-runway-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Extreme Runway Racing - Exciting Action Adventure Game",
+      "description": "Join the action in Extreme Runway Racing! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/extreme-runway-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Extreme Runway Racing",
+      "href": "/games/extreme-runway-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_406",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

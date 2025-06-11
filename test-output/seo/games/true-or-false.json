@@ -1,0 +1,54 @@
+{
+  "gameId": 968,
+  "slug": "true-or-false",
+  "metadata": {
+    "title": "Puzzle Game True Or False - Test Your Skills",
+    "description": "Sharpen your mind with True Or False! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "True Or False game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/true-or-false",
+    "openGraph": {
+      "title": "Puzzle Game True Or False - Test Your Skills",
+      "description": "Sharpen your mind with True Or False! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/true-or-false-og.jpg",
+      "url": "https://littlegames.com/games/true-or-false",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game True Or False - Test Your Skills",
+      "description": "Sharpen your mind with True Or False! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/true-or-false-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "True Or False",
+      "href": "/games/true-or-false",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_014",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 6430,
+  "slug": "penguin-ice-breaker",
+  "metadata": {
+    "title": "Free Penguin Ice Breaker Game - Adventure Awaits",
+    "description": "Discover new worlds in Penguin Ice Breaker. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Penguin Ice Breaker",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/penguin-ice-breaker",
+    "openGraph": {
+      "title": "Free Penguin Ice Breaker Game - Adventure Awaits",
+      "description": "Discover new worlds in Penguin Ice Breaker. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/penguin-ice-breaker-og.jpg",
+      "url": "https://littlegames.com/games/penguin-ice-breaker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Penguin Ice Breaker Game - Adventure Awaits",
+      "description": "Discover new worlds in Penguin Ice Breaker. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/penguin-ice-breaker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Penguin Ice Breaker",
+      "href": "/games/penguin-ice-breaker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_339",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

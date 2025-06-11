@@ -1,0 +1,54 @@
+{
+  "gameId": 7115,
+  "slug": "bird-tiles-match",
+  "metadata": {
+    "title": "Free Bird Tiles Match Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Bird Tiles Match. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "puzzle games",
+      "Bird Tiles Match",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/bird-tiles-match",
+    "openGraph": {
+      "title": "Free Bird Tiles Match Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Bird Tiles Match. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/bird-tiles-match-og.jpg",
+      "url": "https://littlegames.com/games/bird-tiles-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Bird Tiles Match Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Bird Tiles Match. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/bird-tiles-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bird Tiles Match",
+      "href": "/games/bird-tiles-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_571",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

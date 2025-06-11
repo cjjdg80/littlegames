@@ -1,0 +1,54 @@
+{
+  "gameId": 2894,
+  "slug": "block-stacking",
+  "metadata": {
+    "title": "Puzzle Game Block Stacking - Test Your Skills",
+    "description": "Challenge your mind with Block Stacking! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "Block Stacking game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/block-stacking",
+    "openGraph": {
+      "title": "Puzzle Game Block Stacking - Test Your Skills",
+      "description": "Challenge your mind with Block Stacking! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/block-stacking-og.jpg",
+      "url": "https://littlegames.com/games/block-stacking",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Block Stacking - Test Your Skills",
+      "description": "Challenge your mind with Block Stacking! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/block-stacking-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Block Stacking",
+      "href": "/games/block-stacking",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_720",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

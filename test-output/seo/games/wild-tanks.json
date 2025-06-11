@@ -1,0 +1,54 @@
+{
+  "gameId": 8665,
+  "slug": "wild-tanks",
+  "metadata": {
+    "title": "Play Wild Tanks - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Wild Tanks. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Wild Tanks online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wild-tanks",
+    "openGraph": {
+      "title": "Play Wild Tanks - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Wild Tanks. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wild-tanks-og.jpg",
+      "url": "https://littlegames.com/games/wild-tanks",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Wild Tanks - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Wild Tanks. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wild-tanks-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wild Tanks",
+      "href": "/games/wild-tanks",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_621",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 7087,
+  "slug": "avatar-game",
+  "metadata": {
+    "title": "Avatar Game - Thrilling Adventure Quest",
+    "description": "Start your epic journey with Avatar Game! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Avatar Game game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/avatar-game",
+    "openGraph": {
+      "title": "Avatar Game - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Avatar Game! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/avatar-game-og.jpg",
+      "url": "https://littlegames.com/games/avatar-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Avatar Game - Thrilling Adventure Quest",
+      "description": "Start your epic journey with Avatar Game! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/avatar-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Avatar Game",
+      "href": "/games/avatar-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_706",
+    "customDescription": "Features rich storylines and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

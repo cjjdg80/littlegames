@@ -1,0 +1,54 @@
+{
+  "gameId": 2017,
+  "slug": "christmas-ski",
+  "metadata": {
+    "title": "Christmas Ski - Exciting Action Adventure Game",
+    "description": "Join the action in Christmas Ski! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Christmas Ski online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/christmas-ski",
+    "openGraph": {
+      "title": "Christmas Ski - Exciting Action Adventure Game",
+      "description": "Join the action in Christmas Ski! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/christmas-ski-og.jpg",
+      "url": "https://littlegames.com/games/christmas-ski",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Christmas Ski - Exciting Action Adventure Game",
+      "description": "Join the action in Christmas Ski! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/christmas-ski-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Christmas Ski",
+      "href": "/games/christmas-ski",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_533",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

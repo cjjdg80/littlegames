@@ -1,0 +1,54 @@
+{
+  "gameId": 7001,
+  "slug": "basketball",
+  "metadata": {
+    "title": "Play Basketball - Free Action Game Online",
+    "description": "Join the action in Basketball! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Basketball",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/basketball",
+    "openGraph": {
+      "title": "Play Basketball - Free Action Game Online",
+      "description": "Join the action in Basketball! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basketball-og.jpg",
+      "url": "https://littlegames.com/games/basketball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Basketball - Free Action Game Online",
+      "description": "Join the action in Basketball! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/basketball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Basketball",
+      "href": "/games/basketball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_037",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

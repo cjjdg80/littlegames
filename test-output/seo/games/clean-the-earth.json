@@ -1,0 +1,54 @@
+{
+  "gameId": 5391,
+  "slug": "clean-the-earth",
+  "metadata": {
+    "title": "Clean The Earth Online - Explore and Discover",
+    "description": "Embark on an epic journey in Clean The Earth! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Clean The Earth game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/clean-the-earth",
+    "openGraph": {
+      "title": "Clean The Earth Online - Explore and Discover",
+      "description": "Embark on an epic journey in Clean The Earth! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/clean-the-earth-og.jpg",
+      "url": "https://littlegames.com/games/clean-the-earth",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Clean The Earth Online - Explore and Discover",
+      "description": "Embark on an epic journey in Clean The Earth! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/clean-the-earth-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Clean The Earth",
+      "href": "/games/clean-the-earth",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_130",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4829,
+  "slug": "taxi-driver",
+  "metadata": {
+    "title": "Action Game Taxi Driver - Play Free Now",
+    "description": "Taxi Driver delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Taxi Driver",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/taxi-driver",
+    "openGraph": {
+      "title": "Action Game Taxi Driver - Play Free Now",
+      "description": "Taxi Driver delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/taxi-driver-og.jpg",
+      "url": "https://littlegames.com/games/taxi-driver",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Taxi Driver - Play Free Now",
+      "description": "Taxi Driver delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/taxi-driver-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Taxi Driver",
+      "href": "/games/taxi-driver",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_705",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

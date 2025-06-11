@@ -1,0 +1,54 @@
+{
+  "gameId": 555,
+  "slug": "space-alien-invaders",
+  "metadata": {
+    "title": "Space Alien Invaders - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Space Alien Invaders. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "play Space Alien Invaders",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/space-alien-invaders",
+    "openGraph": {
+      "title": "Space Alien Invaders - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Space Alien Invaders. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/space-alien-invaders-og.jpg",
+      "url": "https://littlegames.com/games/space-alien-invaders",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Space Alien Invaders - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Space Alien Invaders. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/space-alien-invaders-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Space Alien Invaders",
+      "href": "/games/space-alien-invaders",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_211",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9233,
+  "slug": "spider-evolution",
+  "metadata": {
+    "title": "Spider Evolution Online - Explore and Discover",
+    "description": "Spider Evolution offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "play Spider Evolution",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/spider-evolution",
+    "openGraph": {
+      "title": "Spider Evolution Online - Explore and Discover",
+      "description": "Spider Evolution offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/spider-evolution-og.jpg",
+      "url": "https://littlegames.com/games/spider-evolution",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spider Evolution Online - Explore and Discover",
+      "description": "Spider Evolution offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/spider-evolution-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Spider Evolution",
+      "href": "/games/spider-evolution",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_232",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

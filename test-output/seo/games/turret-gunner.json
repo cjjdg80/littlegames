@@ -1,0 +1,54 @@
+{
+  "gameId": 9191,
+  "slug": "turret-gunner",
+  "metadata": {
+    "title": "Play Turret Gunner - Free Action Game Online",
+    "description": "Dive into the action-packed world of Turret Gunner. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Turret Gunner game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/turret-gunner",
+    "openGraph": {
+      "title": "Play Turret Gunner - Free Action Game Online",
+      "description": "Dive into the action-packed world of Turret Gunner. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/turret-gunner-og.jpg",
+      "url": "https://littlegames.com/games/turret-gunner",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Turret Gunner - Free Action Game Online",
+      "description": "Dive into the action-packed world of Turret Gunner. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/turret-gunner-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Turret Gunner",
+      "href": "/games/turret-gunner",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_927",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3563,
+  "slug": "horse-derby-racing",
+  "metadata": {
+    "title": "Horse Derby Racing - Exciting Action Adventure Game",
+    "description": "Horse Derby Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Horse Derby Racing",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/horse-derby-racing",
+    "openGraph": {
+      "title": "Horse Derby Racing - Exciting Action Adventure Game",
+      "description": "Horse Derby Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/horse-derby-racing-og.jpg",
+      "url": "https://littlegames.com/games/horse-derby-racing",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Horse Derby Racing - Exciting Action Adventure Game",
+      "description": "Horse Derby Racing delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/horse-derby-racing-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Horse Derby Racing",
+      "href": "/games/horse-derby-racing",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_459",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

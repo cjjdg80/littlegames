@@ -1,0 +1,54 @@
+{
+  "gameId": 151,
+  "slug": "aris-solitaire",
+  "metadata": {
+    "title": "Play Aris Solitaire - Free Action Game Online",
+    "description": "Join the action in Aris Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Aris Solitaire game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/aris-solitaire",
+    "openGraph": {
+      "title": "Play Aris Solitaire - Free Action Game Online",
+      "description": "Join the action in Aris Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/aris-solitaire-og.jpg",
+      "url": "https://littlegames.com/games/aris-solitaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Aris Solitaire - Free Action Game Online",
+      "description": "Join the action in Aris Solitaire! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/aris-solitaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Aris Solitaire",
+      "href": "/games/aris-solitaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_687",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

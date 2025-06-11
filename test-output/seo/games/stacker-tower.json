@@ -1,0 +1,54 @@
+{
+  "gameId": 2688,
+  "slug": "stacker-tower",
+  "metadata": {
+    "title": "Play Stacker Tower - Free Action Game Online",
+    "description": "Join the action in Stacker Tower! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Stacker Tower",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/stacker-tower",
+    "openGraph": {
+      "title": "Play Stacker Tower - Free Action Game Online",
+      "description": "Join the action in Stacker Tower! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stacker-tower-og.jpg",
+      "url": "https://littlegames.com/games/stacker-tower",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Stacker Tower - Free Action Game Online",
+      "description": "Join the action in Stacker Tower! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/stacker-tower-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Stacker Tower",
+      "href": "/games/stacker-tower",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_334",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

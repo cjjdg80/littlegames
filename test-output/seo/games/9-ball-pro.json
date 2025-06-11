@@ -1,0 +1,54 @@
+{
+  "gameId": 4732,
+  "slug": "9-ball-pro",
+  "metadata": {
+    "title": "9 Ball Pro - Exciting Action Adventure Game",
+    "description": "Join the action in 9 Ball Pro! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play 9 Ball Pro",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/9-ball-pro",
+    "openGraph": {
+      "title": "9 Ball Pro - Exciting Action Adventure Game",
+      "description": "Join the action in 9 Ball Pro! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/9-ball-pro-og.jpg",
+      "url": "https://littlegames.com/games/9-ball-pro",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "9 Ball Pro - Exciting Action Adventure Game",
+      "description": "Join the action in 9 Ball Pro! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/9-ball-pro-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "9 Ball Pro",
+      "href": "/games/9-ball-pro",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_702",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

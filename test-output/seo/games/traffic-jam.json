@@ -1,0 +1,54 @@
+{
+  "gameId": 504,
+  "slug": "traffic-jam",
+  "metadata": {
+    "title": "Traffic Jam - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in Traffic Jam. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Traffic Jam game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/traffic-jam",
+    "openGraph": {
+      "title": "Traffic Jam - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Traffic Jam. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/traffic-jam-og.jpg",
+      "url": "https://littlegames.com/games/traffic-jam",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Traffic Jam - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in Traffic Jam. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/traffic-jam-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Traffic Jam",
+      "href": "/games/traffic-jam",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_630",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

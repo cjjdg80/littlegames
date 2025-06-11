@@ -1,0 +1,54 @@
+{
+  "gameId": 4897,
+  "slug": "sokonumber",
+  "metadata": {
+    "title": "Free Sokonumber Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Sokonumber. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "puzzle games",
+      "Sokonumber",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sokonumber",
+    "openGraph": {
+      "title": "Free Sokonumber Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Sokonumber. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/sokonumber-og.jpg",
+      "url": "https://littlegames.com/games/sokonumber",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sokonumber Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Sokonumber. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/sokonumber-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sokonumber",
+      "href": "/games/sokonumber",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_813",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

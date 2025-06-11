@@ -1,0 +1,54 @@
+{
+  "gameId": 4354,
+  "slug": "bullet-car",
+  "metadata": {
+    "title": "Bullet Car - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Bullet Car. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Bullet Car",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/bullet-car",
+    "openGraph": {
+      "title": "Bullet Car - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Bullet Car. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bullet-car-og.jpg",
+      "url": "https://littlegames.com/games/bullet-car",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bullet Car - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Bullet Car. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/bullet-car-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bullet Car",
+      "href": "/games/bullet-car",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_980",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

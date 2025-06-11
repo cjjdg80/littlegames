@@ -1,0 +1,54 @@
+{
+  "gameId": 6665,
+  "slug": "last-night",
+  "metadata": {
+    "title": "LAST NIGHT Online - Explore and Discover",
+    "description": "LAST NIGHT offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+    "keywords": [
+      "adventure games",
+      "LAST NIGHT",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/last-night",
+    "openGraph": {
+      "title": "LAST NIGHT Online - Explore and Discover",
+      "description": "LAST NIGHT offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/last-night-og.jpg",
+      "url": "https://littlegames.com/games/last-night",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "LAST NIGHT Online - Explore and Discover",
+      "description": "LAST NIGHT offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/last-night-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "LAST NIGHT",
+      "href": "/games/last-night",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_624",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

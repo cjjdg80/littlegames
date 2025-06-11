@@ -1,0 +1,54 @@
+{
+  "gameId": 5622,
+  "slug": "happy-lamb",
+  "metadata": {
+    "title": "Play Happy Lamb - Free Action Game Online",
+    "description": "Join the action in Happy Lamb! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Happy Lamb",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/happy-lamb",
+    "openGraph": {
+      "title": "Play Happy Lamb - Free Action Game Online",
+      "description": "Join the action in Happy Lamb! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-lamb-og.jpg",
+      "url": "https://littlegames.com/games/happy-lamb",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Happy Lamb - Free Action Game Online",
+      "description": "Join the action in Happy Lamb! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/happy-lamb-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Happy Lamb",
+      "href": "/games/happy-lamb",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_288",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

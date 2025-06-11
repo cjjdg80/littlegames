@@ -1,0 +1,54 @@
+{
+  "gameId": 433,
+  "slug": "growing-fish",
+  "metadata": {
+    "title": "Free Growing Fish Game - Action Packed Fun",
+    "description": "Dive into the action-packed world of Growing Fish. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Growing Fish online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/growing-fish",
+    "openGraph": {
+      "title": "Free Growing Fish Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Growing Fish. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/growing-fish-og.jpg",
+      "url": "https://littlegames.com/games/growing-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Growing Fish Game - Action Packed Fun",
+      "description": "Dive into the action-packed world of Growing Fish. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/growing-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Growing Fish",
+      "href": "/games/growing-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_429",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

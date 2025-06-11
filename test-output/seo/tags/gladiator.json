@@ -1,0 +1,46 @@
+{
+  "tag": "gladiator",
+  "displayName": "Gladiator",
+  "metadata": {
+    "title": "Gladiator Games - Play Free Online",
+    "description": "Discover amazing gladiator games! Play 2 free games with gladiator theme. No downloads required.",
+    "keywords": [
+      "gladiator games",
+      "free online games",
+      "browser games",
+      "gladiator theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/gladiator",
+    "openGraph": {
+      "title": "Gladiator Games - Free Online Gaming",
+      "description": "Play the best gladiator games online for free. 2 games available.",
+      "image": "https://littlegames.com/images/tags/gladiator-og.jpg",
+      "url": "https://littlegames.com/tags/gladiator",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gladiator Games - Free Online",
+      "description": "Play 2 free gladiator games online.",
+      "image": "https://littlegames.com/images/tags/gladiator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Gladiator",
+      "href": "/tags/gladiator",
+      "current": true
+    }
+  ],
+  "description": "Discover games with gladiator theme! Our collection includes 2 carefully selected games that feature gladiator elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

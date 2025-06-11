@@ -1,0 +1,54 @@
+{
+  "gameId": 6790,
+  "slug": "super-steve-adventure",
+  "metadata": {
+    "title": "Adventure Game Super Steve Adventure - Journey Begins",
+    "description": "Begin your quest in Super Steve Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Super Steve Adventure game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/super-steve-adventure",
+    "openGraph": {
+      "title": "Adventure Game Super Steve Adventure - Journey Begins",
+      "description": "Begin your quest in Super Steve Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-steve-adventure-og.jpg",
+      "url": "https://littlegames.com/games/super-steve-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Super Steve Adventure - Journey Begins",
+      "description": "Begin your quest in Super Steve Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/super-steve-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Super Steve Adventure",
+      "href": "/games/super-steve-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_499",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

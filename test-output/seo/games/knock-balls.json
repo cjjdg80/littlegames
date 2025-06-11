@@ -1,0 +1,54 @@
+{
+  "gameId": 6752,
+  "slug": "knock-balls",
+  "metadata": {
+    "title": "Knock Balls - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Knock Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Knock Balls",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/knock-balls",
+    "openGraph": {
+      "title": "Knock Balls - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Knock Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/knock-balls-og.jpg",
+      "url": "https://littlegames.com/games/knock-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Knock Balls - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Knock Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/knock-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Knock Balls",
+      "href": "/games/knock-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_318",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

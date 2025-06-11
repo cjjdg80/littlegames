@@ -1,0 +1,54 @@
+{
+  "gameId": 4654,
+  "slug": "tile-master-puzzle",
+  "metadata": {
+    "title": "Play Tile Master Puzzle - Free Puzzle Game Online",
+    "description": "Exercise your brain with Tile Master Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+    "keywords": [
+      "Tile Master Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/tile-master-puzzle",
+    "openGraph": {
+      "title": "Play Tile Master Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with Tile Master Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving...",
+      "image": "https://littlegames.com/images/games/tile-master-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/tile-master-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tile Master Puzzle - Free Puzzle Game Online",
+      "description": "Exercise your brain with Tile Master Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/tile-master-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Tile Master Puzzle",
+      "href": "/games/tile-master-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_280",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

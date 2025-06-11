@@ -1,0 +1,54 @@
+{
+  "gameId": 672,
+  "slug": "pop-the-sugar",
+  "metadata": {
+    "title": "Play Pop The Sugar - Free Action Game Online",
+    "description": "Experience thrilling action in Pop The Sugar! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Pop The Sugar online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pop-the-sugar",
+    "openGraph": {
+      "title": "Play Pop The Sugar - Free Action Game Online",
+      "description": "Experience thrilling action in Pop The Sugar! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/pop-the-sugar-og.jpg",
+      "url": "https://littlegames.com/games/pop-the-sugar",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pop The Sugar - Free Action Game Online",
+      "description": "Experience thrilling action in Pop The Sugar! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/pop-the-sugar-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pop The Sugar",
+      "href": "/games/pop-the-sugar",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_838",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

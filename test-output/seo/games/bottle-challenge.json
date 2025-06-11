@@ -1,0 +1,54 @@
+{
+  "gameId": 8772,
+  "slug": "bottle-challenge",
+  "metadata": {
+    "title": "Bottle challenge - Exciting Action Adventure Game",
+    "description": "Bottle challenge delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Bottle challenge online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bottle-challenge",
+    "openGraph": {
+      "title": "Bottle challenge - Exciting Action Adventure Game",
+      "description": "Bottle challenge delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bottle-challenge-og.jpg",
+      "url": "https://littlegames.com/games/bottle-challenge",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bottle challenge - Exciting Action Adventure Game",
+      "description": "Bottle challenge delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/bottle-challenge-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bottle challenge",
+      "href": "/games/bottle-challenge",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_938",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "mission",
+  "displayName": "Mission",
+  "metadata": {
+    "title": "Mission Games - Play Free Online",
+    "description": "Discover amazing mission games! Play 30 free games with mission theme. No downloads required.",
+    "keywords": [
+      "mission games",
+      "free online games",
+      "browser games",
+      "mission theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/mission",
+    "openGraph": {
+      "title": "Mission Games - Free Online Gaming",
+      "description": "Play the best mission games online for free. 30 games available.",
+      "image": "https://littlegames.com/images/tags/mission-og.jpg",
+      "url": "https://littlegames.com/tags/mission",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mission Games - Free Online",
+      "description": "Play 30 free mission games online.",
+      "image": "https://littlegames.com/images/tags/mission-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Mission",
+      "href": "/tags/mission",
+      "current": true
+    }
+  ],
+  "description": "Discover games with mission theme! Our collection includes 30 carefully selected games that feature mission elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

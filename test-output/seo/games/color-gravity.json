@@ -1,0 +1,54 @@
+{
+  "gameId": 6169,
+  "slug": "color-gravity",
+  "metadata": {
+    "title": "Color Gravity Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Color Gravity. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Color Gravity online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/color-gravity",
+    "openGraph": {
+      "title": "Color Gravity Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Color Gravity. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/color-gravity-og.jpg",
+      "url": "https://littlegames.com/games/color-gravity",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Gravity Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Color Gravity. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/color-gravity-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Color Gravity",
+      "href": "/games/color-gravity",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_245",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

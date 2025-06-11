@@ -1,0 +1,54 @@
+{
+  "gameId": 4332,
+  "slug": "firebug",
+  "metadata": {
+    "title": "Free Firebug Game - Action Packed Fun",
+    "description": "Join the action in Firebug! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Firebug game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/firebug",
+    "openGraph": {
+      "title": "Free Firebug Game - Action Packed Fun",
+      "description": "Join the action in Firebug! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/firebug-og.jpg",
+      "url": "https://littlegames.com/games/firebug",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Firebug Game - Action Packed Fun",
+      "description": "Join the action in Firebug! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/firebug-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Firebug",
+      "href": "/games/firebug",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_298",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

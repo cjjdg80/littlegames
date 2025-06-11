@@ -1,0 +1,54 @@
+{
+  "gameId": 721,
+  "slug": "clash-of-skulls",
+  "metadata": {
+    "title": "Play Clash of Skulls - Free Action Game Online",
+    "description": "Join the action in Clash of Skulls! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Clash of Skulls game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/clash-of-skulls",
+    "openGraph": {
+      "title": "Play Clash of Skulls - Free Action Game Online",
+      "description": "Join the action in Clash of Skulls! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clash-of-skulls-og.jpg",
+      "url": "https://littlegames.com/games/clash-of-skulls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Clash of Skulls - Free Action Game Online",
+      "description": "Join the action in Clash of Skulls! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/clash-of-skulls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Clash of Skulls",
+      "href": "/games/clash-of-skulls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_357",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

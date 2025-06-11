@@ -1,0 +1,54 @@
+{
+  "gameId": 1463,
+  "slug": "cowboy-adventures",
+  "metadata": {
+    "title": "Play Cowboy Adventures - Epic Adventure Game Online",
+    "description": "Embark on an epic journey in Cowboy Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+    "keywords": [
+      "play Cowboy Adventures",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/cowboy-adventures",
+    "openGraph": {
+      "title": "Play Cowboy Adventures - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Cowboy Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play...",
+      "image": "https://littlegames.com/images/games/cowboy-adventures-og.jpg",
+      "url": "https://littlegames.com/games/cowboy-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cowboy Adventures - Epic Adventure Game Online",
+      "description": "Embark on an epic journey in Cowboy Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/cowboy-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Cowboy Adventures",
+      "href": "/games/cowboy-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_362",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

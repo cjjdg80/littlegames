@@ -1,0 +1,54 @@
+{
+  "gameId": 4770,
+  "slug": "destroy-figures",
+  "metadata": {
+    "title": "Free Destroy Figures Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Destroy Figures. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Destroy Figures online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/destroy-figures",
+    "openGraph": {
+      "title": "Free Destroy Figures Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Destroy Figures. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/destroy-figures-og.jpg",
+      "url": "https://littlegames.com/games/destroy-figures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Destroy Figures Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Destroy Figures. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/destroy-figures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Destroy Figures",
+      "href": "/games/destroy-figures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_876",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

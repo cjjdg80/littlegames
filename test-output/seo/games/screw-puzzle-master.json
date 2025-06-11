@@ -1,0 +1,54 @@
+{
+  "gameId": 8780,
+  "slug": "screw-puzzle-master",
+  "metadata": {
+    "title": "Screw Puzzle Master - Exciting Action Adventure Game",
+    "description": "Join the action in Screw Puzzle Master! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Screw Puzzle Master game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/screw-puzzle-master",
+    "openGraph": {
+      "title": "Screw Puzzle Master - Exciting Action Adventure Game",
+      "description": "Join the action in Screw Puzzle Master! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/screw-puzzle-master-og.jpg",
+      "url": "https://littlegames.com/games/screw-puzzle-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Screw Puzzle Master - Exciting Action Adventure Game",
+      "description": "Join the action in Screw Puzzle Master! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/screw-puzzle-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Screw Puzzle Master",
+      "href": "/games/screw-puzzle-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_186",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

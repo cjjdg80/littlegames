@@ -1,0 +1,54 @@
+{
+  "gameId": 6954,
+  "slug": "oxy-words-maker",
+  "metadata": {
+    "title": "OXY - Words maker Online - Explore and Discover",
+    "description": "Begin your quest in OXY - Words maker. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "play OXY - Words maker",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/oxy-words-maker",
+    "openGraph": {
+      "title": "OXY - Words maker Online - Explore and Discover",
+      "description": "Begin your quest in OXY - Words maker. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/oxy-words-maker-og.jpg",
+      "url": "https://littlegames.com/games/oxy-words-maker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "OXY - Words maker Online - Explore and Discover",
+      "description": "Begin your quest in OXY - Words maker. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/oxy-words-maker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "OXY - Words maker",
+      "href": "/games/oxy-words-maker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_583",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

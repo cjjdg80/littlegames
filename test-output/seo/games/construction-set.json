@@ -1,0 +1,54 @@
+{
+  "gameId": 2755,
+  "slug": "construction-set",
+  "metadata": {
+    "title": "Play Construction Set - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Construction Set. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Construction Set game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/construction-set",
+    "openGraph": {
+      "title": "Play Construction Set - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Construction Set. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/construction-set-og.jpg",
+      "url": "https://littlegames.com/games/construction-set",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Construction Set - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Construction Set. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/construction-set-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Construction Set",
+      "href": "/games/construction-set",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_411",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

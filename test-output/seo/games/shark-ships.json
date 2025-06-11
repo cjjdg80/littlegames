@@ -1,0 +1,54 @@
+{
+  "gameId": 3698,
+  "slug": "shark-ships",
+  "metadata": {
+    "title": "Free Shark Ships Game - Action Packed Fun",
+    "description": "Experience thrilling action in Shark Ships! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Shark Ships",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/shark-ships",
+    "openGraph": {
+      "title": "Free Shark Ships Game - Action Packed Fun",
+      "description": "Experience thrilling action in Shark Ships! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/shark-ships-og.jpg",
+      "url": "https://littlegames.com/games/shark-ships",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Shark Ships Game - Action Packed Fun",
+      "description": "Experience thrilling action in Shark Ships! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/shark-ships-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Shark Ships",
+      "href": "/games/shark-ships",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_644",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9725,
+  "slug": "daycare-tycoon",
+  "metadata": {
+    "title": "DayCare Tycoon Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in DayCare Tycoon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "DayCare Tycoon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/daycare-tycoon",
+    "openGraph": {
+      "title": "DayCare Tycoon Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in DayCare Tycoon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/daycare-tycoon-og.jpg",
+      "url": "https://littlegames.com/games/daycare-tycoon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "DayCare Tycoon Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in DayCare Tycoon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/daycare-tycoon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "DayCare Tycoon",
+      "href": "/games/daycare-tycoon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_481",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

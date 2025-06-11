@@ -1,0 +1,54 @@
+{
+  "gameId": 75,
+  "slug": "puppet-hockey-battle",
+  "metadata": {
+    "title": "Play Puppet Hockey Battle - Free Action Game Online",
+    "description": "Experience thrilling action in Puppet Hockey Battle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+    "keywords": [
+      "action games",
+      "Puppet Hockey Battle",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/puppet-hockey-battle",
+    "openGraph": {
+      "title": "Play Puppet Hockey Battle - Free Action Game Online",
+      "description": "Experience thrilling action in Puppet Hockey Battle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
+      "image": "https://littlegames.com/images/games/puppet-hockey-battle-og.jpg",
+      "url": "https://littlegames.com/games/puppet-hockey-battle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Puppet Hockey Battle - Free Action Game Online",
+      "description": "Experience thrilling action in Puppet Hockey Battle! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/puppet-hockey-battle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Puppet Hockey Battle",
+      "href": "/games/puppet-hockey-battle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_331",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

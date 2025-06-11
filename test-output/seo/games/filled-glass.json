@@ -1,0 +1,54 @@
+{
+  "gameId": 2228,
+  "slug": "filled-glass",
+  "metadata": {
+    "title": "Action Game Filled Glass - Play Free Now",
+    "description": "Dive into the action-packed world of Filled Glass. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "action games",
+      "Filled Glass",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/filled-glass",
+    "openGraph": {
+      "title": "Action Game Filled Glass - Play Free Now",
+      "description": "Dive into the action-packed world of Filled Glass. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/filled-glass-og.jpg",
+      "url": "https://littlegames.com/games/filled-glass",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Filled Glass - Play Free Now",
+      "description": "Dive into the action-packed world of Filled Glass. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/filled-glass-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Filled Glass",
+      "href": "/games/filled-glass",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_074",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

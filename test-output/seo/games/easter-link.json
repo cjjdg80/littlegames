@@ -1,0 +1,54 @@
+{
+  "gameId": 2491,
+  "slug": "easter-link",
+  "metadata": {
+    "title": "Easter Link Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Easter Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Easter Link",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/easter-link",
+    "openGraph": {
+      "title": "Easter Link Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Easter Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/easter-link-og.jpg",
+      "url": "https://littlegames.com/games/easter-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Easter Link Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Easter Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/easter-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Easter Link",
+      "href": "/games/easter-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_227",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

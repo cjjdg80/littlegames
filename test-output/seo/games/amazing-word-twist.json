@@ -1,0 +1,54 @@
+{
+  "gameId": 1523,
+  "slug": "amazing-word-twist",
+  "metadata": {
+    "title": "Free Amazing Word Twist Game - Mind Bending Puzzles",
+    "description": "Amazing Word Twist offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Amazing Word Twist game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/amazing-word-twist",
+    "openGraph": {
+      "title": "Free Amazing Word Twist Game - Mind Bending Puzzles",
+      "description": "Amazing Word Twist offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/amazing-word-twist-og.jpg",
+      "url": "https://littlegames.com/games/amazing-word-twist",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Amazing Word Twist Game - Mind Bending Puzzles",
+      "description": "Amazing Word Twist offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/amazing-word-twist-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Amazing Word Twist",
+      "href": "/games/amazing-word-twist",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_219",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

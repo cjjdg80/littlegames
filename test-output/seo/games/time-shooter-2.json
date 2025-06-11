@@ -1,0 +1,54 @@
+{
+  "gameId": 4081,
+  "slug": "time-shooter-2",
+  "metadata": {
+    "title": "Time Shooter 2 - Exciting Action Adventure Game",
+    "description": "Join the action in Time Shooter 2! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Time Shooter 2",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/time-shooter-2",
+    "openGraph": {
+      "title": "Time Shooter 2 - Exciting Action Adventure Game",
+      "description": "Join the action in Time Shooter 2! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/time-shooter-2-og.jpg",
+      "url": "https://littlegames.com/games/time-shooter-2",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Time Shooter 2 - Exciting Action Adventure Game",
+      "description": "Join the action in Time Shooter 2! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/time-shooter-2-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Time Shooter 2",
+      "href": "/games/time-shooter-2",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_517",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

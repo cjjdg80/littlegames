@@ -1,0 +1,54 @@
+{
+  "gameId": 1844,
+  "slug": "potion-flip",
+  "metadata": {
+    "title": "Puzzle Game Potion Flip - Test Your Skills",
+    "description": "Put your thinking skills to the test in Potion Flip. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Potion Flip",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/potion-flip",
+    "openGraph": {
+      "title": "Puzzle Game Potion Flip - Test Your Skills",
+      "description": "Put your thinking skills to the test in Potion Flip. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/potion-flip-og.jpg",
+      "url": "https://littlegames.com/games/potion-flip",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Potion Flip - Test Your Skills",
+      "description": "Put your thinking skills to the test in Potion Flip. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/potion-flip-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Potion Flip",
+      "href": "/games/potion-flip",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_170",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9648,
+  "slug": "master-blender",
+  "metadata": {
+    "title": "Play Master Blender - Free Puzzle Game Online",
+    "description": "Challenge your mind with Master Blender! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+    "keywords": [
+      "play Master Blender",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/master-blender",
+    "openGraph": {
+      "title": "Play Master Blender - Free Puzzle Game Online",
+      "description": "Challenge your mind with Master Blender! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online...",
+      "image": "https://littlegames.com/images/games/master-blender-og.jpg",
+      "url": "https://littlegames.com/games/master-blender",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Master Blender - Free Puzzle Game Online",
+      "description": "Challenge your mind with Master Blender! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/master-blender-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Master Blender",
+      "href": "/games/master-blender",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_094",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

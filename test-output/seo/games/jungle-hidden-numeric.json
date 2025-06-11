@@ -1,0 +1,54 @@
+{
+  "gameId": 1257,
+  "slug": "jungle-hidden-numeric",
+  "metadata": {
+    "title": "Jungle Hidden Numeric - Thrilling Adventure Quest",
+    "description": "Begin your quest in Jungle Hidden Numeric. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Jungle Hidden Numeric game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/jungle-hidden-numeric",
+    "openGraph": {
+      "title": "Jungle Hidden Numeric - Thrilling Adventure Quest",
+      "description": "Begin your quest in Jungle Hidden Numeric. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/jungle-hidden-numeric-og.jpg",
+      "url": "https://littlegames.com/games/jungle-hidden-numeric",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jungle Hidden Numeric - Thrilling Adventure Quest",
+      "description": "Begin your quest in Jungle Hidden Numeric. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/jungle-hidden-numeric-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Jungle Hidden Numeric",
+      "href": "/games/jungle-hidden-numeric",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_976",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for players who love exploration"
+  }
+}

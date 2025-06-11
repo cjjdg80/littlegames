@@ -1,0 +1,54 @@
+{
+  "gameId": 5779,
+  "slug": "racing-horizon",
+  "metadata": {
+    "title": "Action Game Racing Horizon - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Racing Horizon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Racing Horizon online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/racing-horizon",
+    "openGraph": {
+      "title": "Action Game Racing Horizon - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Racing Horizon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/racing-horizon-og.jpg",
+      "url": "https://littlegames.com/games/racing-horizon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Racing Horizon - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Racing Horizon. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/racing-horizon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Racing Horizon",
+      "href": "/games/racing-horizon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_155",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

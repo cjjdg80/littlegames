@@ -1,0 +1,54 @@
+{
+  "gameId": 2110,
+  "slug": "santa-gift-delivery",
+  "metadata": {
+    "title": "Free Santa Gift Delivery Game - Action Packed Fun",
+    "description": "Santa Gift Delivery delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Santa Gift Delivery",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/santa-gift-delivery",
+    "openGraph": {
+      "title": "Free Santa Gift Delivery Game - Action Packed Fun",
+      "description": "Santa Gift Delivery delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/santa-gift-delivery-og.jpg",
+      "url": "https://littlegames.com/games/santa-gift-delivery",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Santa Gift Delivery Game - Action Packed Fun",
+      "description": "Santa Gift Delivery delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/santa-gift-delivery-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Santa Gift Delivery",
+      "href": "/games/santa-gift-delivery",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_416",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

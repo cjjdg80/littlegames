@@ -1,0 +1,54 @@
+{
+  "gameId": 2924,
+  "slug": "zik-zak",
+  "metadata": {
+    "title": "Zik Zak - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Zik Zak. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Zik Zak",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/zik-zak",
+    "openGraph": {
+      "title": "Zik Zak - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Zik Zak. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/zik-zak-og.jpg",
+      "url": "https://littlegames.com/games/zik-zak",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Zik Zak - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Zik Zak. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/zik-zak-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zik Zak",
+      "href": "/games/zik-zak",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_650",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

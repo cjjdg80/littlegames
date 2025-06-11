@@ -1,0 +1,54 @@
+{
+  "gameId": 1984,
+  "slug": "owl-shooter",
+  "metadata": {
+    "title": "Action Game Owl Shooter - Play Free Now",
+    "description": "Experience thrilling action in Owl Shooter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Owl Shooter",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/owl-shooter",
+    "openGraph": {
+      "title": "Action Game Owl Shooter - Play Free Now",
+      "description": "Experience thrilling action in Owl Shooter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/owl-shooter-og.jpg",
+      "url": "https://littlegames.com/games/owl-shooter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Owl Shooter - Play Free Now",
+      "description": "Experience thrilling action in Owl Shooter! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/owl-shooter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Owl Shooter",
+      "href": "/games/owl-shooter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_510",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

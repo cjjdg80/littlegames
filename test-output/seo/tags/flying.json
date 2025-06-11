@@ -1,0 +1,46 @@
+{
+  "tag": "flying",
+  "displayName": "Flying",
+  "metadata": {
+    "title": "Flying Games - Play Free Online",
+    "description": "Discover amazing flying games! Play 44 free games with flying theme. No downloads required.",
+    "keywords": [
+      "flying games",
+      "free online games",
+      "browser games",
+      "flying theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/flying",
+    "openGraph": {
+      "title": "Flying Games - Free Online Gaming",
+      "description": "Play the best flying games online for free. 44 games available.",
+      "image": "https://littlegames.com/images/tags/flying-og.jpg",
+      "url": "https://littlegames.com/tags/flying",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flying Games - Free Online",
+      "description": "Play 44 free flying games online.",
+      "image": "https://littlegames.com/images/tags/flying-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Flying",
+      "href": "/tags/flying",
+      "current": true
+    }
+  ],
+  "description": "Discover games with flying theme! Our collection includes 44 carefully selected games that feature flying elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

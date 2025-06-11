@@ -1,0 +1,54 @@
+{
+  "gameId": 1655,
+  "slug": "classic-mahjong",
+  "metadata": {
+    "title": "Classic Mahjong - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Classic Mahjong. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Classic Mahjong",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/classic-mahjong",
+    "openGraph": {
+      "title": "Classic Mahjong - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Classic Mahjong. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/classic-mahjong-og.jpg",
+      "url": "https://littlegames.com/games/classic-mahjong",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Classic Mahjong - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Classic Mahjong. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/classic-mahjong-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Classic Mahjong",
+      "href": "/games/classic-mahjong",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_311",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

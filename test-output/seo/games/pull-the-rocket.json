@@ -1,0 +1,54 @@
+{
+  "gameId": 2126,
+  "slug": "pull-the-rocket",
+  "metadata": {
+    "title": "Play Pull The Rocket - Free Action Game Online",
+    "description": "Pull The Rocket delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "Pull The Rocket game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/pull-the-rocket",
+    "openGraph": {
+      "title": "Play Pull The Rocket - Free Action Game Online",
+      "description": "Pull The Rocket delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pull-the-rocket-og.jpg",
+      "url": "https://littlegames.com/games/pull-the-rocket",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pull The Rocket - Free Action Game Online",
+      "description": "Pull The Rocket delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/pull-the-rocket-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Pull The Rocket",
+      "href": "/games/pull-the-rocket",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_912",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

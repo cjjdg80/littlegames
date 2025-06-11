@@ -1,0 +1,54 @@
+{
+  "gameId": 5617,
+  "slug": "system-puzzle",
+  "metadata": {
+    "title": "Puzzle Game System Puzzle - Test Your Skills",
+    "description": "Sharpen your mind with System Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "System Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/system-puzzle",
+    "openGraph": {
+      "title": "Puzzle Game System Puzzle - Test Your Skills",
+      "description": "Sharpen your mind with System Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/system-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/system-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game System Puzzle - Test Your Skills",
+      "description": "Sharpen your mind with System Puzzle! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/system-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "System Puzzle",
+      "href": "/games/system-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_133",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

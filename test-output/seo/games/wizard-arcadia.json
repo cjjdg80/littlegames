@@ -1,0 +1,54 @@
+{
+  "gameId": 7194,
+  "slug": "wizard-arcadia",
+  "metadata": {
+    "title": "Play Wizard Arcadia - Free Action Game Online",
+    "description": "Wizard Arcadia delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "play Wizard Arcadia",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/wizard-arcadia",
+    "openGraph": {
+      "title": "Play Wizard Arcadia - Free Action Game Online",
+      "description": "Wizard Arcadia delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/wizard-arcadia-og.jpg",
+      "url": "https://littlegames.com/games/wizard-arcadia",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Wizard Arcadia - Free Action Game Online",
+      "description": "Wizard Arcadia delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/wizard-arcadia-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Wizard Arcadia",
+      "href": "/games/wizard-arcadia",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_020",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

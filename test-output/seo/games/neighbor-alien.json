@@ -1,0 +1,54 @@
+{
+  "gameId": 1562,
+  "slug": "neighbor-alien",
+  "metadata": {
+    "title": "Puzzle Game Neighbor Alien - Test Your Skills",
+    "description": "Exercise your brain with Neighbor Alien. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "Neighbor Alien online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/neighbor-alien",
+    "openGraph": {
+      "title": "Puzzle Game Neighbor Alien - Test Your Skills",
+      "description": "Exercise your brain with Neighbor Alien. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/neighbor-alien-og.jpg",
+      "url": "https://littlegames.com/games/neighbor-alien",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Neighbor Alien - Test Your Skills",
+      "description": "Exercise your brain with Neighbor Alien. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/neighbor-alien-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Neighbor Alien",
+      "href": "/games/neighbor-alien",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_428",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

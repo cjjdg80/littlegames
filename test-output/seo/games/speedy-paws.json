@@ -1,0 +1,54 @@
+{
+  "gameId": 6721,
+  "slug": "speedy-paws",
+  "metadata": {
+    "title": "Speedy Paws - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Speedy Paws! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "Speedy Paws game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/speedy-paws",
+    "openGraph": {
+      "title": "Speedy Paws - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Speedy Paws! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/speedy-paws-og.jpg",
+      "url": "https://littlegames.com/games/speedy-paws",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Speedy Paws - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Speedy Paws! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/speedy-paws-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Speedy Paws",
+      "href": "/games/speedy-paws",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_357",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4813,
+  "slug": "alphabet-game",
+  "metadata": {
+    "title": "Play Alphabet Game - Free Action Game Online",
+    "description": "Join the action in Alphabet Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Alphabet Game online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/alphabet-game",
+    "openGraph": {
+      "title": "Play Alphabet Game - Free Action Game Online",
+      "description": "Join the action in Alphabet Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/alphabet-game-og.jpg",
+      "url": "https://littlegames.com/games/alphabet-game",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Alphabet Game - Free Action Game Online",
+      "description": "Join the action in Alphabet Game! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/alphabet-game-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Alphabet Game",
+      "href": "/games/alphabet-game",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_209",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

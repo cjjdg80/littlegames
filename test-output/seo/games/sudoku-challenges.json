@@ -1,0 +1,54 @@
+{
+  "gameId": 6048,
+  "slug": "sudoku-challenges",
+  "metadata": {
+    "title": "Free Sudoku Challenges Game - Mind Bending Puzzles",
+    "description": "Sudoku Challenges offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Sudoku Challenges game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/sudoku-challenges",
+    "openGraph": {
+      "title": "Free Sudoku Challenges Game - Mind Bending Puzzles",
+      "description": "Sudoku Challenges offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sudoku-challenges-og.jpg",
+      "url": "https://littlegames.com/games/sudoku-challenges",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sudoku Challenges Game - Mind Bending Puzzles",
+      "description": "Sudoku Challenges offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/sudoku-challenges-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Sudoku Challenges",
+      "href": "/games/sudoku-challenges",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_494",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

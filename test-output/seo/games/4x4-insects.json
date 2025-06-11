@@ -1,0 +1,54 @@
+{
+  "gameId": 1019,
+  "slug": "4x4-insects",
+  "metadata": {
+    "title": "Play 4x4 Insects - Free Puzzle Game Online",
+    "description": "4x4 Insects offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "4x4 Insects game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/4x4-insects",
+    "openGraph": {
+      "title": "Play 4x4 Insects - Free Puzzle Game Online",
+      "description": "4x4 Insects offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/4x4-insects-og.jpg",
+      "url": "https://littlegames.com/games/4x4-insects",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 4x4 Insects - Free Puzzle Game Online",
+      "description": "4x4 Insects offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/4x4-insects-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "4x4 Insects",
+      "href": "/games/4x4-insects",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_595",
+    "customDescription": "Includes helpful hints and step-by-step guidance",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

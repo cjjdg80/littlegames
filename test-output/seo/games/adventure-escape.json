@@ -1,0 +1,54 @@
+{
+  "gameId": 574,
+  "slug": "adventure-escape",
+  "metadata": {
+    "title": "Adventure Escape Online - Explore and Discover",
+    "description": "Embark on an epic journey in Adventure Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Adventure Escape game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/adventure-escape",
+    "openGraph": {
+      "title": "Adventure Escape Online - Explore and Discover",
+      "description": "Embark on an epic journey in Adventure Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/adventure-escape-og.jpg",
+      "url": "https://littlegames.com/games/adventure-escape",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Escape Online - Explore and Discover",
+      "description": "Embark on an epic journey in Adventure Escape! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/adventure-escape-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Adventure Escape",
+      "href": "/games/adventure-escape",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_803",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 3224,
+  "slug": "rotate-soccer",
+  "metadata": {
+    "title": "Free Rotate Soccer Game - Action Packed Fun",
+    "description": "Experience thrilling action in Rotate Soccer! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Rotate Soccer",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/rotate-soccer",
+    "openGraph": {
+      "title": "Free Rotate Soccer Game - Action Packed Fun",
+      "description": "Experience thrilling action in Rotate Soccer! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/rotate-soccer-og.jpg",
+      "url": "https://littlegames.com/games/rotate-soccer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Rotate Soccer Game - Action Packed Fun",
+      "description": "Experience thrilling action in Rotate Soccer! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/rotate-soccer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Rotate Soccer",
+      "href": "/games/rotate-soccer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_950",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

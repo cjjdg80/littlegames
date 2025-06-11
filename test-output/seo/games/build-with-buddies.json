@@ -1,0 +1,54 @@
+{
+  "gameId": 3670,
+  "slug": "build-with-buddies",
+  "metadata": {
+    "title": "Build With Buddies Online - Logic and Strategy Game",
+    "description": "Build With Buddies offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Build With Buddies online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/build-with-buddies",
+    "openGraph": {
+      "title": "Build With Buddies Online - Logic and Strategy Game",
+      "description": "Build With Buddies offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/build-with-buddies-og.jpg",
+      "url": "https://littlegames.com/games/build-with-buddies",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Build With Buddies Online - Logic and Strategy Game",
+      "description": "Build With Buddies offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/build-with-buddies-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Build With Buddies",
+      "href": "/games/build-with-buddies",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_776",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

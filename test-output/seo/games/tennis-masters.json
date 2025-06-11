@@ -1,0 +1,54 @@
+{
+  "gameId": 1991,
+  "slug": "tennis-masters",
+  "metadata": {
+    "title": "Play Tennis Masters - Free Action Game Online",
+    "description": "Experience thrilling action in Tennis Masters! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Tennis Masters",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/tennis-masters",
+    "openGraph": {
+      "title": "Play Tennis Masters - Free Action Game Online",
+      "description": "Experience thrilling action in Tennis Masters! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/tennis-masters-og.jpg",
+      "url": "https://littlegames.com/games/tennis-masters",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Tennis Masters - Free Action Game Online",
+      "description": "Experience thrilling action in Tennis Masters! This exciting sports game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/tennis-masters-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Tennis Masters",
+      "href": "/games/tennis-masters",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_727",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

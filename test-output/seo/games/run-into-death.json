@@ -1,0 +1,54 @@
+{
+  "gameId": 335,
+  "slug": "run-into-death",
+  "metadata": {
+    "title": "Run Into Death Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Run Into Death. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Run Into Death",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/run-into-death",
+    "openGraph": {
+      "title": "Run Into Death Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Run Into Death. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/run-into-death-og.jpg",
+      "url": "https://littlegames.com/games/run-into-death",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Run Into Death Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Run Into Death. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/run-into-death-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Run Into Death",
+      "href": "/games/run-into-death",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_391",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

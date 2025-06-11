@@ -1,0 +1,54 @@
+{
+  "gameId": 8976,
+  "slug": "billythebox",
+  "metadata": {
+    "title": "Free BillyTheBox Game - Mind Bending Puzzles",
+    "description": "Challenge your mind with BillyTheBox! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "BillyTheBox game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/billythebox",
+    "openGraph": {
+      "title": "Free BillyTheBox Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with BillyTheBox! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/billythebox-og.jpg",
+      "url": "https://littlegames.com/games/billythebox",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free BillyTheBox Game - Mind Bending Puzzles",
+      "description": "Challenge your mind with BillyTheBox! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/billythebox-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "BillyTheBox",
+      "href": "/games/billythebox",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_262",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

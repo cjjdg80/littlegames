@@ -1,0 +1,54 @@
+{
+  "gameId": 5760,
+  "slug": "mahjong-duels",
+  "metadata": {
+    "title": "Free Mahjong Duels Game - Action Packed Fun",
+    "description": "Mahjong Duels delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mahjong Duels online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/mahjong-duels",
+    "openGraph": {
+      "title": "Free Mahjong Duels Game - Action Packed Fun",
+      "description": "Mahjong Duels delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-duels-og.jpg",
+      "url": "https://littlegames.com/games/mahjong-duels",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mahjong Duels Game - Action Packed Fun",
+      "description": "Mahjong Duels delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mahjong-duels-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mahjong Duels",
+      "href": "/games/mahjong-duels",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_566",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

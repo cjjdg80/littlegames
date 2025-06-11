@@ -1,0 +1,54 @@
+{
+  "gameId": 5872,
+  "slug": "ninja-hands",
+  "metadata": {
+    "title": "Free Ninja Hands Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Ninja Hands. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Ninja Hands",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/ninja-hands",
+    "openGraph": {
+      "title": "Free Ninja Hands Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Ninja Hands. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ninja-hands-og.jpg",
+      "url": "https://littlegames.com/games/ninja-hands",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Ninja Hands Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Ninja Hands. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/ninja-hands-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Ninja Hands",
+      "href": "/games/ninja-hands",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_038",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

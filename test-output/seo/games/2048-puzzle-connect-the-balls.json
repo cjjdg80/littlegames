@@ -1,0 +1,54 @@
+{
+  "gameId": 9006,
+  "slug": "2048-puzzle-connect-the-balls",
+  "metadata": {
+    "title": "Play 2048 Puzzle: Connect the Balls - Free Action Game...",
+    "description": "Dive into the action-packed world of 2048 Puzzle: Connect the Balls. This arcade game features instant browser play and delivers non-stop excitement. Start...",
+    "keywords": [
+      "action games",
+      "2048 Puzzle: Connect the Balls",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/2048-puzzle-connect-the-balls",
+    "openGraph": {
+      "title": "Play 2048 Puzzle: Connect the Balls - Free Action Game...",
+      "description": "Dive into the action-packed world of 2048 Puzzle: Connect the Balls. This arcade game features instant browser play and delivers non-stop excitement. Start...",
+      "image": "https://littlegames.com/images/games/2048-puzzle-connect-the-balls-og.jpg",
+      "url": "https://littlegames.com/games/2048-puzzle-connect-the-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play 2048 Puzzle: Connect the Balls - Free Action Game Online",
+      "description": "Dive into the action-packed world of 2048 Puzzle: Connect the Balls. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/2048-puzzle-connect-the-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2048 Puzzle: Connect the Balls",
+      "href": "/games/2048-puzzle-connect-the-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_192",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

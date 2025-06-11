@@ -1,0 +1,54 @@
+{
+  "gameId": 5541,
+  "slug": "idle-fashion-shop",
+  "metadata": {
+    "title": "Idle Fashion Shop - Exciting Action Adventure Game",
+    "description": "Idle Fashion Shop delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Idle Fashion Shop online",
+      "action gaming",
+      "free games",
+      "simulation adventure"
+    ],
+    "canonical": "https://littlegames.com/games/idle-fashion-shop",
+    "openGraph": {
+      "title": "Idle Fashion Shop - Exciting Action Adventure Game",
+      "description": "Idle Fashion Shop delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/idle-fashion-shop-og.jpg",
+      "url": "https://littlegames.com/games/idle-fashion-shop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idle Fashion Shop - Exciting Action Adventure Game",
+      "description": "Idle Fashion Shop delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/idle-fashion-shop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Idle Fashion Shop",
+      "href": "/games/idle-fashion-shop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_781",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

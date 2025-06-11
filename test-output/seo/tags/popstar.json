@@ -1,0 +1,46 @@
+{
+  "tag": "popstar",
+  "displayName": "Popstar",
+  "metadata": {
+    "title": "Popstar Games - Play Free Online",
+    "description": "Discover amazing popstar games! Play 1 free games with popstar theme. No downloads required.",
+    "keywords": [
+      "popstar games",
+      "free online games",
+      "browser games",
+      "popstar theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/popstar",
+    "openGraph": {
+      "title": "Popstar Games - Free Online Gaming",
+      "description": "Play the best popstar games online for free. 1 games available.",
+      "image": "https://littlegames.com/images/tags/popstar-og.jpg",
+      "url": "https://littlegames.com/tags/popstar",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Popstar Games - Free Online",
+      "description": "Play 1 free popstar games online.",
+      "image": "https://littlegames.com/images/tags/popstar-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Popstar",
+      "href": "/tags/popstar",
+      "current": true
+    }
+  ],
+  "description": "Discover games with popstar theme! Our collection includes 1 carefully selected games that feature popstar elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

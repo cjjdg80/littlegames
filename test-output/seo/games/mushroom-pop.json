@@ -1,0 +1,54 @@
+{
+  "gameId": 2241,
+  "slug": "mushroom-pop",
+  "metadata": {
+    "title": "Free Mushroom Pop Game - Action Packed Fun",
+    "description": "Join the action in Mushroom Pop! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Mushroom Pop game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/mushroom-pop",
+    "openGraph": {
+      "title": "Free Mushroom Pop Game - Action Packed Fun",
+      "description": "Join the action in Mushroom Pop! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mushroom-pop-og.jpg",
+      "url": "https://littlegames.com/games/mushroom-pop",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Mushroom Pop Game - Action Packed Fun",
+      "description": "Join the action in Mushroom Pop! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/mushroom-pop-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mushroom Pop",
+      "href": "/games/mushroom-pop",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_477",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

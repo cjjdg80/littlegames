@@ -1,0 +1,54 @@
+{
+  "gameId": 262,
+  "slug": "sushi-sensei",
+  "metadata": {
+    "title": "Action Game Sushi Sensei - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Sushi Sensei. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Sushi Sensei online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sushi-sensei",
+    "openGraph": {
+      "title": "Action Game Sushi Sensei - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Sushi Sensei. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sushi-sensei-og.jpg",
+      "url": "https://littlegames.com/games/sushi-sensei",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Sushi Sensei - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Sushi Sensei. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sushi-sensei-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Sushi Sensei",
+      "href": "/games/sushi-sensei",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_128",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

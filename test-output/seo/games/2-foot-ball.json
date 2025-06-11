@@ -1,0 +1,54 @@
+{
+  "gameId": 1556,
+  "slug": "2-foot-ball",
+  "metadata": {
+    "title": "2 Foot Ball - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of 2 Foot Ball. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play 2 Foot Ball",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/2-foot-ball",
+    "openGraph": {
+      "title": "2 Foot Ball - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of 2 Foot Ball. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/2-foot-ball-og.jpg",
+      "url": "https://littlegames.com/games/2-foot-ball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2 Foot Ball - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of 2 Foot Ball. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/2-foot-ball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "2 Foot Ball",
+      "href": "/games/2-foot-ball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_242",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

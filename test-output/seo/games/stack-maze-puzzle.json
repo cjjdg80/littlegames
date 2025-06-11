@@ -1,0 +1,54 @@
+{
+  "gameId": 4801,
+  "slug": "stack-maze-puzzle",
+  "metadata": {
+    "title": "Free Stack Maze Puzzle Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Stack Maze Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+    "keywords": [
+      "play Stack Maze Puzzle",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/stack-maze-puzzle",
+    "openGraph": {
+      "title": "Free Stack Maze Puzzle Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Stack Maze Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles...",
+      "image": "https://littlegames.com/images/games/stack-maze-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/stack-maze-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Stack Maze Puzzle Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Stack Maze Puzzle. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/stack-maze-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Stack Maze Puzzle",
+      "href": "/games/stack-maze-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_837",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Great for improving problem-solving skills"
+  }
+}

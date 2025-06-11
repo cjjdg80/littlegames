@@ -1,0 +1,54 @@
+{
+  "gameId": 1577,
+  "slug": "galaxy-defense",
+  "metadata": {
+    "title": "Play Galaxy Defense - Free Action Game Online",
+    "description": "Experience thrilling action in Galaxy Defense! This exciting strategy game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "play Galaxy Defense",
+      "action games online",
+      "free strategy",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/galaxy-defense",
+    "openGraph": {
+      "title": "Play Galaxy Defense - Free Action Game Online",
+      "description": "Experience thrilling action in Galaxy Defense! This exciting strategy game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/galaxy-defense-og.jpg",
+      "url": "https://littlegames.com/games/galaxy-defense",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Galaxy Defense - Free Action Game Online",
+      "description": "Experience thrilling action in Galaxy Defense! This exciting strategy game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/galaxy-defense-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Galaxy Defense",
+      "href": "/games/galaxy-defense",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_895",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

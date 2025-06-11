@@ -1,0 +1,54 @@
+{
+  "gameId": 5815,
+  "slug": "hyperdoll",
+  "metadata": {
+    "title": "HyperDoll Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in HyperDoll. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play HyperDoll",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/hyperdoll",
+    "openGraph": {
+      "title": "HyperDoll Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in HyperDoll. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hyperdoll-og.jpg",
+      "url": "https://littlegames.com/games/hyperdoll",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "HyperDoll Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in HyperDoll. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/hyperdoll-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "HyperDoll",
+      "href": "/games/hyperdoll",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_271",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

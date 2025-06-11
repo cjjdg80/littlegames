@@ -1,0 +1,54 @@
+{
+  "gameId": 7907,
+  "slug": "tail-gun-charlie",
+  "metadata": {
+    "title": "Tail Gun Charlie - Exciting Action Adventure Game",
+    "description": "Join the action in Tail Gun Charlie! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Tail Gun Charlie online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/tail-gun-charlie",
+    "openGraph": {
+      "title": "Tail Gun Charlie - Exciting Action Adventure Game",
+      "description": "Join the action in Tail Gun Charlie! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tail-gun-charlie-og.jpg",
+      "url": "https://littlegames.com/games/tail-gun-charlie",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tail Gun Charlie - Exciting Action Adventure Game",
+      "description": "Join the action in Tail Gun Charlie! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/tail-gun-charlie-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Tail Gun Charlie",
+      "href": "/games/tail-gun-charlie",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_123",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

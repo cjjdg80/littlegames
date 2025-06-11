@@ -1,0 +1,54 @@
+{
+  "gameId": 7010,
+  "slug": "endless-bubbles",
+  "metadata": {
+    "title": "Play Endless Bubbles - Free Action Game Online",
+    "description": "Experience thrilling action in Endless Bubbles! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Endless Bubbles online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/endless-bubbles",
+    "openGraph": {
+      "title": "Play Endless Bubbles - Free Action Game Online",
+      "description": "Experience thrilling action in Endless Bubbles! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/endless-bubbles-og.jpg",
+      "url": "https://littlegames.com/games/endless-bubbles",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Endless Bubbles - Free Action Game Online",
+      "description": "Experience thrilling action in Endless Bubbles! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/endless-bubbles-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Endless Bubbles",
+      "href": "/games/endless-bubbles",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_316",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

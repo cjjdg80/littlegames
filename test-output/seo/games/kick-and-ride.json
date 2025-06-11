@@ -1,0 +1,54 @@
+{
+  "gameId": 8917,
+  "slug": "kick-and-ride",
+  "metadata": {
+    "title": "Free Kick and Ride Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Kick and Ride! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "puzzle games",
+      "Kick and Ride",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/kick-and-ride",
+    "openGraph": {
+      "title": "Free Kick and Ride Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Kick and Ride! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/kick-and-ride-og.jpg",
+      "url": "https://littlegames.com/games/kick-and-ride",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Kick and Ride Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Kick and Ride! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/kick-and-ride-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Kick and Ride",
+      "href": "/games/kick-and-ride",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_433",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

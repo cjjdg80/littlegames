@@ -1,0 +1,54 @@
+{
+  "gameId": 1384,
+  "slug": "math-boxing-comparison",
+  "metadata": {
+    "title": "Math Boxing Comparison - Exciting Action Adventure Game",
+    "description": "Join the action in Math Boxing Comparison! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Math Boxing Comparison online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/math-boxing-comparison",
+    "openGraph": {
+      "title": "Math Boxing Comparison - Exciting Action Adventure Game",
+      "description": "Join the action in Math Boxing Comparison! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/math-boxing-comparison-og.jpg",
+      "url": "https://littlegames.com/games/math-boxing-comparison",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Math Boxing Comparison - Exciting Action Adventure Game",
+      "description": "Join the action in Math Boxing Comparison! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/math-boxing-comparison-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Math Boxing Comparison",
+      "href": "/games/math-boxing-comparison",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_910",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

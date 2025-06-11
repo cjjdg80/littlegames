@@ -1,0 +1,54 @@
+{
+  "gameId": 8449,
+  "slug": "kawaii-realm-adventure",
+  "metadata": {
+    "title": "Adventure Game Kawaii Realm Adventure - Journey Begins",
+    "description": "Begin your quest in Kawaii Realm Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "adventure games",
+      "Kawaii Realm Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/kawaii-realm-adventure",
+    "openGraph": {
+      "title": "Adventure Game Kawaii Realm Adventure - Journey Begins",
+      "description": "Begin your quest in Kawaii Realm Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/kawaii-realm-adventure-og.jpg",
+      "url": "https://littlegames.com/games/kawaii-realm-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Kawaii Realm Adventure - Journey Begins",
+      "description": "Begin your quest in Kawaii Realm Adventure. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/kawaii-realm-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Kawaii Realm Adventure",
+      "href": "/games/kawaii-realm-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_928",
+    "customDescription": "Offers vast worlds to explore and secrets to uncover",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

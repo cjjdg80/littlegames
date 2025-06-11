@@ -1,0 +1,54 @@
+{
+  "gameId": 655,
+  "slug": "school-day",
+  "metadata": {
+    "title": "School Day Online - Ultimate Action Gaming Experience",
+    "description": "Join the action in School Day! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play School Day",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/school-day",
+    "openGraph": {
+      "title": "School Day Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in School Day! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/school-day-og.jpg",
+      "url": "https://littlegames.com/games/school-day",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "School Day Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in School Day! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/school-day-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "School Day",
+      "href": "/games/school-day",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_311",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

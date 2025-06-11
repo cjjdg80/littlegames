@@ -1,0 +1,54 @@
+{
+  "gameId": 4856,
+  "slug": "zoo-slings",
+  "metadata": {
+    "title": "Play Zoo Slings - Free Action Game Online",
+    "description": "Join the action in Zoo Slings! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Zoo Slings",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/zoo-slings",
+    "openGraph": {
+      "title": "Play Zoo Slings - Free Action Game Online",
+      "description": "Join the action in Zoo Slings! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zoo-slings-og.jpg",
+      "url": "https://littlegames.com/games/zoo-slings",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Zoo Slings - Free Action Game Online",
+      "description": "Join the action in Zoo Slings! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/zoo-slings-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Zoo Slings",
+      "href": "/games/zoo-slings",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_542",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

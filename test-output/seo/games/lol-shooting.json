@@ -1,0 +1,54 @@
+{
+  "gameId": 5096,
+  "slug": "lol-shooting",
+  "metadata": {
+    "title": "Action Game LoL Shooting - Play Free Now",
+    "description": "Join the action in LoL Shooting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play LoL Shooting",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/lol-shooting",
+    "openGraph": {
+      "title": "Action Game LoL Shooting - Play Free Now",
+      "description": "Join the action in LoL Shooting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lol-shooting-og.jpg",
+      "url": "https://littlegames.com/games/lol-shooting",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game LoL Shooting - Play Free Now",
+      "description": "Join the action in LoL Shooting! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/lol-shooting-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "LoL Shooting",
+      "href": "/games/lol-shooting",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_982",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

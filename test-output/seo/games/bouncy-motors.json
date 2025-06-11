@@ -1,0 +1,54 @@
+{
+  "gameId": 6713,
+  "slug": "bouncy-motors",
+  "metadata": {
+    "title": "Action Game Bouncy Motors - Play Free Now",
+    "description": "Join the action in Bouncy Motors! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Bouncy Motors",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/bouncy-motors",
+    "openGraph": {
+      "title": "Action Game Bouncy Motors - Play Free Now",
+      "description": "Join the action in Bouncy Motors! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-motors-og.jpg",
+      "url": "https://littlegames.com/games/bouncy-motors",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bouncy Motors - Play Free Now",
+      "description": "Join the action in Bouncy Motors! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bouncy-motors-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Bouncy Motors",
+      "href": "/games/bouncy-motors",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_109",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

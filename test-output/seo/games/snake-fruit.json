@@ -1,0 +1,54 @@
+{
+  "gameId": 351,
+  "slug": "snake-fruit",
+  "metadata": {
+    "title": "Free Snake Fruit Game - Mind Bending Puzzles",
+    "description": "Sharpen your mind with Snake Fruit! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+    "keywords": [
+      "play Snake Fruit",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/snake-fruit",
+    "openGraph": {
+      "title": "Free Snake Fruit Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Snake Fruit! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/snake-fruit-og.jpg",
+      "url": "https://littlegames.com/games/snake-fruit",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Snake Fruit Game - Mind Bending Puzzles",
+      "description": "Sharpen your mind with Snake Fruit! This captivating puzzle game features instant browser play and guarantees intellectual entertainment. Play free now!",
+      "image": "https://littlegames.com/images/games/snake-fruit-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Snake Fruit",
+      "href": "/games/snake-fruit",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_887",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

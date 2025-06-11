@@ -1,0 +1,46 @@
+{
+  "tag": "track",
+  "displayName": "Track",
+  "metadata": {
+    "title": "Track Games - Play Free Online",
+    "description": "Discover amazing track games! Play 52 free games with track theme. No downloads required.",
+    "keywords": [
+      "track games",
+      "free online games",
+      "browser games",
+      "track theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/track",
+    "openGraph": {
+      "title": "Track Games - Free Online Gaming",
+      "description": "Play the best track games online for free. 52 games available.",
+      "image": "https://littlegames.com/images/tags/track-og.jpg",
+      "url": "https://littlegames.com/tags/track",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Track Games - Free Online",
+      "description": "Play 52 free track games online.",
+      "image": "https://littlegames.com/images/tags/track-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Track",
+      "href": "/tags/track",
+      "current": true
+    }
+  ],
+  "description": "Discover games with track theme! Our collection includes 52 carefully selected games that feature track elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

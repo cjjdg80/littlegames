@@ -1,0 +1,54 @@
+{
+  "gameId": 8785,
+  "slug": "cat-life-simulator",
+  "metadata": {
+    "title": "Play Cat Life Simulator - Epic Adventure Game Online",
+    "description": "Begin your quest in Cat Life Simulator. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Cat Life Simulator online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/cat-life-simulator",
+    "openGraph": {
+      "title": "Play Cat Life Simulator - Epic Adventure Game Online",
+      "description": "Begin your quest in Cat Life Simulator. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/cat-life-simulator-og.jpg",
+      "url": "https://littlegames.com/games/cat-life-simulator",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Cat Life Simulator - Epic Adventure Game Online",
+      "description": "Begin your quest in Cat Life Simulator. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/cat-life-simulator-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Cat Life Simulator",
+      "href": "/games/cat-life-simulator",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_344",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

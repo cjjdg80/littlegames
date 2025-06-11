@@ -1,0 +1,54 @@
+{
+  "gameId": 7141,
+  "slug": "parkour-boss",
+  "metadata": {
+    "title": "Action Game Parkour Boss - Play Free Now",
+    "description": "Join the action in Parkour Boss! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Parkour Boss game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/parkour-boss",
+    "openGraph": {
+      "title": "Action Game Parkour Boss - Play Free Now",
+      "description": "Join the action in Parkour Boss! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/parkour-boss-og.jpg",
+      "url": "https://littlegames.com/games/parkour-boss",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Parkour Boss - Play Free Now",
+      "description": "Join the action in Parkour Boss! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/parkour-boss-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parkour Boss",
+      "href": "/games/parkour-boss",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_377",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

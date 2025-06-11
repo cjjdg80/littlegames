@@ -1,0 +1,54 @@
+{
+  "gameId": 8429,
+  "slug": "emoji-match",
+  "metadata": {
+    "title": "Free Emoji Match Game - Action Packed Fun",
+    "description": "Join the action in Emoji Match! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Emoji Match game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/emoji-match",
+    "openGraph": {
+      "title": "Free Emoji Match Game - Action Packed Fun",
+      "description": "Join the action in Emoji Match! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-match-og.jpg",
+      "url": "https://littlegames.com/games/emoji-match",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Emoji Match Game - Action Packed Fun",
+      "description": "Join the action in Emoji Match! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/emoji-match-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Emoji Match",
+      "href": "/games/emoji-match",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_305",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

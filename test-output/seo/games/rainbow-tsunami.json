@@ -1,0 +1,54 @@
+{
+  "gameId": 6259,
+  "slug": "rainbow-tsunami",
+  "metadata": {
+    "title": "Rainbow Tsunami - Thrilling Adventure Quest",
+    "description": "Rainbow Tsunami offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+    "keywords": [
+      "Rainbow Tsunami online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/rainbow-tsunami",
+    "openGraph": {
+      "title": "Rainbow Tsunami - Thrilling Adventure Quest",
+      "description": "Rainbow Tsunami offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new...",
+      "image": "https://littlegames.com/images/games/rainbow-tsunami-og.jpg",
+      "url": "https://littlegames.com/games/rainbow-tsunami",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rainbow Tsunami - Thrilling Adventure Quest",
+      "description": "Rainbow Tsunami offers incredible adventures and discoveries. Experience instant browser play in this amazing adventure game. Play instantly and explore new realms!",
+      "image": "https://littlegames.com/images/games/rainbow-tsunami-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rainbow Tsunami",
+      "href": "/games/rainbow-tsunami",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_038",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

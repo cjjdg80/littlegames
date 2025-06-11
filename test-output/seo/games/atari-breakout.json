@@ -1,0 +1,54 @@
+{
+  "gameId": 2273,
+  "slug": "atari-breakout",
+  "metadata": {
+    "title": "Free Atari Breakout Game - Action Packed Fun",
+    "description": "Join the action in Atari Breakout! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Atari Breakout",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/atari-breakout",
+    "openGraph": {
+      "title": "Free Atari Breakout Game - Action Packed Fun",
+      "description": "Join the action in Atari Breakout! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/atari-breakout-og.jpg",
+      "url": "https://littlegames.com/games/atari-breakout",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Atari Breakout Game - Action Packed Fun",
+      "description": "Join the action in Atari Breakout! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/atari-breakout-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Atari Breakout",
+      "href": "/games/atari-breakout",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_469",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

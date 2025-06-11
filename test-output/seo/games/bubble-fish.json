@@ -1,0 +1,54 @@
+{
+  "gameId": 6999,
+  "slug": "bubble-fish",
+  "metadata": {
+    "title": "Puzzle Game Bubble Fish - Test Your Skills",
+    "description": "Bubble Fish offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Bubble Fish",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/bubble-fish",
+    "openGraph": {
+      "title": "Puzzle Game Bubble Fish - Test Your Skills",
+      "description": "Bubble Fish offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/bubble-fish-og.jpg",
+      "url": "https://littlegames.com/games/bubble-fish",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Bubble Fish - Test Your Skills",
+      "description": "Bubble Fish offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/bubble-fish-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Bubble Fish",
+      "href": "/games/bubble-fish",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_975",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for relaxation and mindfulness"
+  }
+}

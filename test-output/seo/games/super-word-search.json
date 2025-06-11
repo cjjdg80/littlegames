@@ -1,0 +1,54 @@
+{
+  "gameId": 467,
+  "slug": "super-word-search",
+  "metadata": {
+    "title": "Free Super Word Search Game - Mind Bending Puzzles",
+    "description": "Super Word Search offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "puzzle games",
+      "Super Word Search",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/super-word-search",
+    "openGraph": {
+      "title": "Free Super Word Search Game - Mind Bending Puzzles",
+      "description": "Super Word Search offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/super-word-search-og.jpg",
+      "url": "https://littlegames.com/games/super-word-search",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Super Word Search Game - Mind Bending Puzzles",
+      "description": "Super Word Search offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/super-word-search-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Super Word Search",
+      "href": "/games/super-word-search",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_483",
+    "customDescription": "Provides satisfying \"aha!\" moments and achievements",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1022,
+  "slug": "brick-out-adventure",
+  "metadata": {
+    "title": "Play Brick Out Adventure - Epic Adventure Game Online",
+    "description": "Discover new worlds in Brick Out Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Brick Out Adventure",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/brick-out-adventure",
+    "openGraph": {
+      "title": "Play Brick Out Adventure - Epic Adventure Game Online",
+      "description": "Discover new worlds in Brick Out Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/brick-out-adventure-og.jpg",
+      "url": "https://littlegames.com/games/brick-out-adventure",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Brick Out Adventure - Epic Adventure Game Online",
+      "description": "Discover new worlds in Brick Out Adventure. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/brick-out-adventure-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Brick Out Adventure",
+      "href": "/games/brick-out-adventure",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_691",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

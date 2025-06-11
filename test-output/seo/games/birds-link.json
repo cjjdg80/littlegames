@@ -1,0 +1,54 @@
+{
+  "gameId": 5518,
+  "slug": "birds-link",
+  "metadata": {
+    "title": "Birds Link - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Birds Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "action games",
+      "Birds Link",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/birds-link",
+    "openGraph": {
+      "title": "Birds Link - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Birds Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/birds-link-og.jpg",
+      "url": "https://littlegames.com/games/birds-link",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Birds Link - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Birds Link. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/birds-link-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Birds Link",
+      "href": "/games/birds-link",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_064",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

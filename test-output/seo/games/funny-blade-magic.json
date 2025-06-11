@@ -1,0 +1,54 @@
+{
+  "gameId": 7419,
+  "slug": "funny-blade-magic",
+  "metadata": {
+    "title": "Funny Blade & Magic Online - Explore and Discover",
+    "description": "Start your epic journey with Funny Blade & Magic! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "adventure games",
+      "Funny Blade & Magic",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/funny-blade-magic",
+    "openGraph": {
+      "title": "Funny Blade & Magic Online - Explore and Discover",
+      "description": "Start your epic journey with Funny Blade & Magic! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/funny-blade-magic-og.jpg",
+      "url": "https://littlegames.com/games/funny-blade-magic",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Funny Blade & Magic Online - Explore and Discover",
+      "description": "Start your epic journey with Funny Blade & Magic! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/funny-blade-magic-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Funny Blade & Magic",
+      "href": "/games/funny-blade-magic",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_998",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "circus",
+  "displayName": "Circus",
+  "metadata": {
+    "title": "Circus Games - Play Free Online",
+    "description": "Discover amazing circus games! Play 5 free games with circus theme. No downloads required.",
+    "keywords": [
+      "circus games",
+      "free online games",
+      "browser games",
+      "circus theme",
+      "instant play games"
+    ],
+    "canonical": "https://littlegames.com/tags/circus",
+    "openGraph": {
+      "title": "Circus Games - Free Online Gaming",
+      "description": "Play the best circus games online for free. 5 games available.",
+      "image": "https://littlegames.com/images/tags/circus-og.jpg",
+      "url": "https://littlegames.com/tags/circus",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Circus Games - Free Online",
+      "description": "Play 5 free circus games online.",
+      "image": "https://littlegames.com/images/tags/circus-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Circus",
+      "href": "/tags/circus",
+      "current": true
+    }
+  ],
+  "description": "Discover games with circus theme! Our collection includes 5 carefully selected games that feature circus elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

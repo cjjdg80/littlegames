@@ -1,0 +1,54 @@
+{
+  "gameId": 4438,
+  "slug": "marbles-garden",
+  "metadata": {
+    "title": "Play Marbles Garden - Free Action Game Online",
+    "description": "Dive into the action-packed world of Marbles Garden. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Marbles Garden online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/marbles-garden",
+    "openGraph": {
+      "title": "Play Marbles Garden - Free Action Game Online",
+      "description": "Dive into the action-packed world of Marbles Garden. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/marbles-garden-og.jpg",
+      "url": "https://littlegames.com/games/marbles-garden",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Marbles Garden - Free Action Game Online",
+      "description": "Dive into the action-packed world of Marbles Garden. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/marbles-garden-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Marbles Garden",
+      "href": "/games/marbles-garden",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_584",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

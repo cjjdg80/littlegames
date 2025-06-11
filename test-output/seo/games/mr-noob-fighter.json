@@ -1,0 +1,54 @@
+{
+  "gameId": 5319,
+  "slug": "mr-noob-fighter",
+  "metadata": {
+    "title": "Mr Noob Fighter - Exciting Action Adventure Game",
+    "description": "Mr Noob Fighter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Mr Noob Fighter game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/mr-noob-fighter",
+    "openGraph": {
+      "title": "Mr Noob Fighter - Exciting Action Adventure Game",
+      "description": "Mr Noob Fighter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mr-noob-fighter-og.jpg",
+      "url": "https://littlegames.com/games/mr-noob-fighter",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mr Noob Fighter - Exciting Action Adventure Game",
+      "description": "Mr Noob Fighter delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/mr-noob-fighter-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Mr Noob Fighter",
+      "href": "/games/mr-noob-fighter",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_895",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

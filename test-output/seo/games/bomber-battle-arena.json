@@ -1,0 +1,54 @@
+{
+  "gameId": 7878,
+  "slug": "bomber-battle-arena",
+  "metadata": {
+    "title": "Action Game Bomber Battle Arena - Play Free Now",
+    "description": "Join the action in Bomber Battle Arena! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Bomber Battle Arena online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/bomber-battle-arena",
+    "openGraph": {
+      "title": "Action Game Bomber Battle Arena - Play Free Now",
+      "description": "Join the action in Bomber Battle Arena! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bomber-battle-arena-og.jpg",
+      "url": "https://littlegames.com/games/bomber-battle-arena",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Bomber Battle Arena - Play Free Now",
+      "description": "Join the action in Bomber Battle Arena! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/bomber-battle-arena-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Bomber Battle Arena",
+      "href": "/games/bomber-battle-arena",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_224",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

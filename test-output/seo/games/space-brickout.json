@@ -1,0 +1,54 @@
+{
+  "gameId": 538,
+  "slug": "space-brickout",
+  "metadata": {
+    "title": "Puzzle Game Space Brickout - Test Your Skills",
+    "description": "Space Brickout offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Space Brickout online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/space-brickout",
+    "openGraph": {
+      "title": "Puzzle Game Space Brickout - Test Your Skills",
+      "description": "Space Brickout offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/space-brickout-og.jpg",
+      "url": "https://littlegames.com/games/space-brickout",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Space Brickout - Test Your Skills",
+      "description": "Space Brickout offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/space-brickout-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Space Brickout",
+      "href": "/games/space-brickout",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_684",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

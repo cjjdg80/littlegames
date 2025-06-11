@@ -1,0 +1,54 @@
+{
+  "gameId": 3645,
+  "slug": "captain-sniper",
+  "metadata": {
+    "title": "Captain Sniper - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in Captain Sniper! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Captain Sniper game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/captain-sniper",
+    "openGraph": {
+      "title": "Captain Sniper - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Captain Sniper! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/captain-sniper-og.jpg",
+      "url": "https://littlegames.com/games/captain-sniper",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Captain Sniper - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in Captain Sniper! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/captain-sniper-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Captain Sniper",
+      "href": "/games/captain-sniper",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_001",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

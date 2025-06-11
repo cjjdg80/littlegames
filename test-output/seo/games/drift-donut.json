@@ -1,0 +1,54 @@
+{
+  "gameId": 9138,
+  "slug": "drift-donut",
+  "metadata": {
+    "title": "Drift Donut - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Drift Donut. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "Drift Donut game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/drift-donut",
+    "openGraph": {
+      "title": "Drift Donut - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Drift Donut. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/drift-donut-og.jpg",
+      "url": "https://littlegames.com/games/drift-donut",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drift Donut - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Drift Donut. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/drift-donut-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Drift Donut",
+      "href": "/games/drift-donut",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_284",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

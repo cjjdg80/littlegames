@@ -1,0 +1,54 @@
+{
+  "gameId": 7694,
+  "slug": "geometry-lite",
+  "metadata": {
+    "title": "Geometry Lite Online - Explore and Discover",
+    "description": "Discover new worlds in Geometry Lite. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "adventure games",
+      "Geometry Lite",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/geometry-lite",
+    "openGraph": {
+      "title": "Geometry Lite Online - Explore and Discover",
+      "description": "Discover new worlds in Geometry Lite. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/geometry-lite-og.jpg",
+      "url": "https://littlegames.com/games/geometry-lite",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometry Lite Online - Explore and Discover",
+      "description": "Discover new worlds in Geometry Lite. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/geometry-lite-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Geometry Lite",
+      "href": "/games/geometry-lite",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_523",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

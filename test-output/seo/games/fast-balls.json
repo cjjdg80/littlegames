@@ -1,0 +1,54 @@
+{
+  "gameId": 3765,
+  "slug": "fast-balls",
+  "metadata": {
+    "title": "Fast Balls - Exciting Action Adventure Game",
+    "description": "Join the action in Fast Balls! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Fast Balls",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/fast-balls",
+    "openGraph": {
+      "title": "Fast Balls - Exciting Action Adventure Game",
+      "description": "Join the action in Fast Balls! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fast-balls-og.jpg",
+      "url": "https://littlegames.com/games/fast-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fast Balls - Exciting Action Adventure Game",
+      "description": "Join the action in Fast Balls! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/fast-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Fast Balls",
+      "href": "/games/fast-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_721",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

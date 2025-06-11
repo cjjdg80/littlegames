@@ -1,0 +1,54 @@
+{
+  "gameId": 1921,
+  "slug": "rps-exclusive",
+  "metadata": {
+    "title": "RPS Exclusive Online - Ultimate Action Gaming Experience",
+    "description": "RPS Exclusive delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "RPS Exclusive game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/rps-exclusive",
+    "openGraph": {
+      "title": "RPS Exclusive Online - Ultimate Action Gaming Experience",
+      "description": "RPS Exclusive delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rps-exclusive-og.jpg",
+      "url": "https://littlegames.com/games/rps-exclusive",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "RPS Exclusive Online - Ultimate Action Gaming Experience",
+      "description": "RPS Exclusive delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/rps-exclusive-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "RPS Exclusive",
+      "href": "/games/rps-exclusive",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_557",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

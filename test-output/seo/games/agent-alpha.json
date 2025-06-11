@@ -1,0 +1,54 @@
+{
+  "gameId": 5710,
+  "slug": "agent-alpha",
+  "metadata": {
+    "title": "Free Agent Alpha Game - Action Packed Fun",
+    "description": "Join the action in Agent Alpha! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Agent Alpha online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/agent-alpha",
+    "openGraph": {
+      "title": "Free Agent Alpha Game - Action Packed Fun",
+      "description": "Join the action in Agent Alpha! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/agent-alpha-og.jpg",
+      "url": "https://littlegames.com/games/agent-alpha",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Agent Alpha Game - Action Packed Fun",
+      "description": "Join the action in Agent Alpha! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/agent-alpha-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Agent Alpha",
+      "href": "/games/agent-alpha",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_016",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

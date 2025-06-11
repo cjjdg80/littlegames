@@ -1,0 +1,54 @@
+{
+  "gameId": 1329,
+  "slug": "stencil-art",
+  "metadata": {
+    "title": "Action Game Stencil Art - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Stencil Art. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Stencil Art game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/stencil-art",
+    "openGraph": {
+      "title": "Action Game Stencil Art - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Stencil Art. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stencil-art-og.jpg",
+      "url": "https://littlegames.com/games/stencil-art",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Stencil Art - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Stencil Art. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/stencil-art-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Stencil Art",
+      "href": "/games/stencil-art",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_205",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

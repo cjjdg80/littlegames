@@ -1,0 +1,54 @@
+{
+  "gameId": 9122,
+  "slug": "geometry-vibes",
+  "metadata": {
+    "title": "Geometry Vibes - Thrilling Adventure Quest",
+    "description": "Embark on an epic journey in Geometry Vibes! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "Geometry Vibes online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/geometry-vibes",
+    "openGraph": {
+      "title": "Geometry Vibes - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Geometry Vibes! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/geometry-vibes-og.jpg",
+      "url": "https://littlegames.com/games/geometry-vibes",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Geometry Vibes - Thrilling Adventure Quest",
+      "description": "Embark on an epic journey in Geometry Vibes! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/geometry-vibes-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Geometry Vibes",
+      "href": "/games/geometry-vibes",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_791",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

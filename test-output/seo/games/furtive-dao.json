@@ -1,0 +1,54 @@
+{
+  "gameId": 4376,
+  "slug": "furtive-dao",
+  "metadata": {
+    "title": "Free Furtive Dao Game - Action Packed Fun",
+    "description": "Join the action in Furtive Dao! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Furtive Dao online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/furtive-dao",
+    "openGraph": {
+      "title": "Free Furtive Dao Game - Action Packed Fun",
+      "description": "Join the action in Furtive Dao! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/furtive-dao-og.jpg",
+      "url": "https://littlegames.com/games/furtive-dao",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Furtive Dao Game - Action Packed Fun",
+      "description": "Join the action in Furtive Dao! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/furtive-dao-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Furtive Dao",
+      "href": "/games/furtive-dao",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_662",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

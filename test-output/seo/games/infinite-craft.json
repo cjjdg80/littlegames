@@ -1,0 +1,54 @@
+{
+  "gameId": 7956,
+  "slug": "infinite-craft",
+  "metadata": {
+    "title": "Action Game Infinite Craft - Play Free Now",
+    "description": "Infinite Craft delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Infinite Craft",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/infinite-craft",
+    "openGraph": {
+      "title": "Action Game Infinite Craft - Play Free Now",
+      "description": "Infinite Craft delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/infinite-craft-og.jpg",
+      "url": "https://littlegames.com/games/infinite-craft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Infinite Craft - Play Free Now",
+      "description": "Infinite Craft delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/infinite-craft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Infinite Craft",
+      "href": "/games/infinite-craft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_642",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

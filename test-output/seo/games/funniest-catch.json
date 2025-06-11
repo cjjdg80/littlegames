@@ -1,0 +1,54 @@
+{
+  "gameId": 4501,
+  "slug": "funniest-catch",
+  "metadata": {
+    "title": "Free Funniest Catch Game - Action Packed Fun",
+    "description": "Join the action in Funniest Catch! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Funniest Catch online",
+      "action gaming",
+      "free games",
+      "casual adventure"
+    ],
+    "canonical": "https://littlegames.com/games/funniest-catch",
+    "openGraph": {
+      "title": "Free Funniest Catch Game - Action Packed Fun",
+      "description": "Join the action in Funniest Catch! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/funniest-catch-og.jpg",
+      "url": "https://littlegames.com/games/funniest-catch",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Funniest Catch Game - Action Packed Fun",
+      "description": "Join the action in Funniest Catch! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/funniest-catch-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Funniest Catch",
+      "href": "/games/funniest-catch",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_537",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

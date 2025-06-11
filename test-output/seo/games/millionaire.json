@@ -1,0 +1,54 @@
+{
+  "gameId": 1095,
+  "slug": "millionaire",
+  "metadata": {
+    "title": "Millionaire Online - Ultimate Action Gaming Experience",
+    "description": "Dive into the action-packed world of Millionaire. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Millionaire",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/millionaire",
+    "openGraph": {
+      "title": "Millionaire Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Millionaire. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/millionaire-og.jpg",
+      "url": "https://littlegames.com/games/millionaire",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Millionaire Online - Ultimate Action Gaming Experience",
+      "description": "Dive into the action-packed world of Millionaire. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/millionaire-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Millionaire",
+      "href": "/games/millionaire",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_951",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

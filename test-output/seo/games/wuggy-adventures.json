@@ -1,0 +1,54 @@
+{
+  "gameId": 5504,
+  "slug": "wuggy-adventures",
+  "metadata": {
+    "title": "Adventure Game Wuggy Adventures - Journey Begins",
+    "description": "Embark on an epic journey in Wuggy Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+    "keywords": [
+      "adventure games",
+      "Wuggy Adventures",
+      "exploration games",
+      "adventure adventure"
+    ],
+    "canonical": "https://littlegames.com/games/wuggy-adventures",
+    "openGraph": {
+      "title": "Adventure Game Wuggy Adventures - Journey Begins",
+      "description": "Embark on an epic journey in Wuggy Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free...",
+      "image": "https://littlegames.com/images/games/wuggy-adventures-og.jpg",
+      "url": "https://littlegames.com/games/wuggy-adventures",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Wuggy Adventures - Journey Begins",
+      "description": "Embark on an epic journey in Wuggy Adventures! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
+      "image": "https://littlegames.com/images/games/wuggy-adventures-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Wuggy Adventures",
+      "href": "/games/wuggy-adventures",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_633",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

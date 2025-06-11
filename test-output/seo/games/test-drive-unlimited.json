@@ -1,0 +1,54 @@
+{
+  "gameId": 2744,
+  "slug": "test-drive-unlimited",
+  "metadata": {
+    "title": "Action Game Test Drive Unlimited - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Test Drive Unlimited. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "play Test Drive Unlimited",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/test-drive-unlimited",
+    "openGraph": {
+      "title": "Action Game Test Drive Unlimited - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Test Drive Unlimited. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/test-drive-unlimited-og.jpg",
+      "url": "https://littlegames.com/games/test-drive-unlimited",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Test Drive Unlimited - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Test Drive Unlimited. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/test-drive-unlimited-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Test Drive Unlimited",
+      "href": "/games/test-drive-unlimited",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_070",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

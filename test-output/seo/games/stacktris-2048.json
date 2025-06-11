@@ -1,0 +1,54 @@
+{
+  "gameId": 5861,
+  "slug": "stacktris-2048",
+  "metadata": {
+    "title": "Stacktris 2048 Online - Logic and Strategy Game",
+    "description": "Put your thinking skills to the test in Stacktris 2048. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "play Stacktris 2048",
+      "puzzle games online",
+      "free puzzle",
+      "mind games"
+    ],
+    "canonical": "https://littlegames.com/games/stacktris-2048",
+    "openGraph": {
+      "title": "Stacktris 2048 Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Stacktris 2048. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/stacktris-2048-og.jpg",
+      "url": "https://littlegames.com/games/stacktris-2048",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Stacktris 2048 Online - Logic and Strategy Game",
+      "description": "Put your thinking skills to the test in Stacktris 2048. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/stacktris-2048-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Stacktris 2048",
+      "href": "/games/stacktris-2048",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_697",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

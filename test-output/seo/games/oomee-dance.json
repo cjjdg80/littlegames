@@ -1,0 +1,54 @@
+{
+  "gameId": 2938,
+  "slug": "oomee-dance",
+  "metadata": {
+    "title": "Oomee Dance Online - Ultimate Action Gaming Experience",
+    "description": "Oomee Dance delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Oomee Dance",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/oomee-dance",
+    "openGraph": {
+      "title": "Oomee Dance Online - Ultimate Action Gaming Experience",
+      "description": "Oomee Dance delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/oomee-dance-og.jpg",
+      "url": "https://littlegames.com/games/oomee-dance",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Oomee Dance Online - Ultimate Action Gaming Experience",
+      "description": "Oomee Dance delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/oomee-dance-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Oomee Dance",
+      "href": "/games/oomee-dance",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_084",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

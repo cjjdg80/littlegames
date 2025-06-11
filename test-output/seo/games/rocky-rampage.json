@@ -1,0 +1,54 @@
+{
+  "gameId": 5156,
+  "slug": "rocky-rampage",
+  "metadata": {
+    "title": "Rocky Rampage - Thrilling Adventure Quest",
+    "description": "Begin your quest in Rocky Rampage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Rocky Rampage game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/rocky-rampage",
+    "openGraph": {
+      "title": "Rocky Rampage - Thrilling Adventure Quest",
+      "description": "Begin your quest in Rocky Rampage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/rocky-rampage-og.jpg",
+      "url": "https://littlegames.com/games/rocky-rampage",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rocky Rampage - Thrilling Adventure Quest",
+      "description": "Begin your quest in Rocky Rampage. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/rocky-rampage-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Rocky Rampage",
+      "href": "/games/rocky-rampage",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_845",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for discovering new worlds"
+  }
+}

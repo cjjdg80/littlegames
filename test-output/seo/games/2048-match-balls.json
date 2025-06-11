@@ -1,0 +1,54 @@
+{
+  "gameId": 9156,
+  "slug": "2048-match-balls",
+  "metadata": {
+    "title": "2048 Match Balls - Exciting Action Adventure Game",
+    "description": "Experience thrilling action in 2048 Match Balls! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "action games",
+      "2048 Match Balls",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/2048-match-balls",
+    "openGraph": {
+      "title": "2048 Match Balls - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in 2048 Match Balls! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/2048-match-balls-og.jpg",
+      "url": "https://littlegames.com/games/2048-match-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "2048 Match Balls - Exciting Action Adventure Game",
+      "description": "Experience thrilling action in 2048 Match Balls! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/2048-match-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "2048 Match Balls",
+      "href": "/games/2048-match-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_842",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

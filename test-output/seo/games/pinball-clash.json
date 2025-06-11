@@ -1,0 +1,54 @@
+{
+  "gameId": 3363,
+  "slug": "pinball-clash",
+  "metadata": {
+    "title": "Play Pinball Clash - Free Action Game Online",
+    "description": "Dive into the action-packed world of Pinball Clash. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "Pinball Clash online",
+      "action gaming",
+      "free games",
+      "strategy adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pinball-clash",
+    "openGraph": {
+      "title": "Play Pinball Clash - Free Action Game Online",
+      "description": "Dive into the action-packed world of Pinball Clash. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/pinball-clash-og.jpg",
+      "url": "https://littlegames.com/games/pinball-clash",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pinball Clash - Free Action Game Online",
+      "description": "Dive into the action-packed world of Pinball Clash. This strategy game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/pinball-clash-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy"
+    },
+    {
+      "label": "Pinball Clash",
+      "href": "/games/pinball-clash",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "strategy_261",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

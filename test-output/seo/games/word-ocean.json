@@ -1,0 +1,54 @@
+{
+  "gameId": 7304,
+  "slug": "word-ocean",
+  "metadata": {
+    "title": "Play Word Ocean - Free Action Game Online",
+    "description": "Word Ocean delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "play Word Ocean",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/word-ocean",
+    "openGraph": {
+      "title": "Play Word Ocean - Free Action Game Online",
+      "description": "Word Ocean delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/word-ocean-og.jpg",
+      "url": "https://littlegames.com/games/word-ocean",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Word Ocean - Free Action Game Online",
+      "description": "Word Ocean delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/word-ocean-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Word Ocean",
+      "href": "/games/word-ocean",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_430",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

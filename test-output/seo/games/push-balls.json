@@ -1,0 +1,54 @@
+{
+  "gameId": 3862,
+  "slug": "push-balls",
+  "metadata": {
+    "title": "Play Push Balls - Free Action Game Online",
+    "description": "Push Balls delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Push Balls",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/push-balls",
+    "openGraph": {
+      "title": "Play Push Balls - Free Action Game Online",
+      "description": "Push Balls delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/push-balls-og.jpg",
+      "url": "https://littlegames.com/games/push-balls",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Push Balls - Free Action Game Online",
+      "description": "Push Balls delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/push-balls-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Push Balls",
+      "href": "/games/push-balls",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_728",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

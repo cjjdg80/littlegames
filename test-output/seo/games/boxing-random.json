@@ -1,0 +1,54 @@
+{
+  "gameId": 2727,
+  "slug": "boxing-random",
+  "metadata": {
+    "title": "Free Boxing Random Game - Action Packed Fun",
+    "description": "Join the action in Boxing Random! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "action games",
+      "Boxing Random",
+      "free online games",
+      "sports games"
+    ],
+    "canonical": "https://littlegames.com/games/boxing-random",
+    "openGraph": {
+      "title": "Free Boxing Random Game - Action Packed Fun",
+      "description": "Join the action in Boxing Random! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/boxing-random-og.jpg",
+      "url": "https://littlegames.com/games/boxing-random",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Boxing Random Game - Action Packed Fun",
+      "description": "Join the action in Boxing Random! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/boxing-random-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Boxing Random",
+      "href": "/games/boxing-random",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_543",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

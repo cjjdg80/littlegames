@@ -1,0 +1,54 @@
+{
+  "gameId": 9707,
+  "slug": "giant-wanted-monster",
+  "metadata": {
+    "title": "Giant Wanted Monster Online - Ultimate Action Gaming...",
+    "description": "Join the action in Giant Wanted Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Giant Wanted Monster game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/giant-wanted-monster",
+    "openGraph": {
+      "title": "Giant Wanted Monster Online - Ultimate Action Gaming...",
+      "description": "Join the action in Giant Wanted Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/giant-wanted-monster-og.jpg",
+      "url": "https://littlegames.com/games/giant-wanted-monster",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Giant Wanted Monster Online - Ultimate Action Gaming Experience",
+      "description": "Join the action in Giant Wanted Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/giant-wanted-monster-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Giant Wanted Monster",
+      "href": "/games/giant-wanted-monster",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_923",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

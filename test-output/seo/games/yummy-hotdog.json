@@ -1,0 +1,54 @@
+{
+  "gameId": 2040,
+  "slug": "yummy-hotdog",
+  "metadata": {
+    "title": "Action Game Yummy Hotdog - Play Free Now",
+    "description": "Yummy Hotdog delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "play Yummy Hotdog",
+      "action games online",
+      "free simulation",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/yummy-hotdog",
+    "openGraph": {
+      "title": "Action Game Yummy Hotdog - Play Free Now",
+      "description": "Yummy Hotdog delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/yummy-hotdog-og.jpg",
+      "url": "https://littlegames.com/games/yummy-hotdog",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Yummy Hotdog - Play Free Now",
+      "description": "Yummy Hotdog delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/yummy-hotdog-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Yummy Hotdog",
+      "href": "/games/yummy-hotdog",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_250",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

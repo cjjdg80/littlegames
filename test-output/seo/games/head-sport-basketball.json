@@ -1,0 +1,54 @@
+{
+  "gameId": 1393,
+  "slug": "head-sport-basketball",
+  "metadata": {
+    "title": "Free Head Sport Basketball Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Head Sport Basketball. This free online arcade game brings you instant browser play and endless fun. No download...",
+    "keywords": [
+      "play Head Sport Basketball",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/head-sport-basketball",
+    "openGraph": {
+      "title": "Free Head Sport Basketball Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Head Sport Basketball. This free online arcade game brings you instant browser play and endless fun. No download...",
+      "image": "https://littlegames.com/images/games/head-sport-basketball-og.jpg",
+      "url": "https://littlegames.com/games/head-sport-basketball",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Head Sport Basketball Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Head Sport Basketball. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/head-sport-basketball-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Head Sport Basketball",
+      "href": "/games/head-sport-basketball",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_189",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

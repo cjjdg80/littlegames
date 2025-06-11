@@ -1,0 +1,54 @@
+{
+  "gameId": 2407,
+  "slug": "hammer-master",
+  "metadata": {
+    "title": "Action Game Hammer Master - Play Free Now",
+    "description": "Hammer Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Hammer Master",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/hammer-master",
+    "openGraph": {
+      "title": "Action Game Hammer Master - Play Free Now",
+      "description": "Hammer Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hammer-master-og.jpg",
+      "url": "https://littlegames.com/games/hammer-master",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Hammer Master - Play Free Now",
+      "description": "Hammer Master delivers heart-racing action and adventure. Experience instant browser play in this amazing casual game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hammer-master-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Hammer Master",
+      "href": "/games/hammer-master",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_623",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

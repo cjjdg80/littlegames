@@ -1,0 +1,54 @@
+{
+  "gameId": 5610,
+  "slug": "cool-archer",
+  "metadata": {
+    "title": "Cool Archer - Exciting Action Adventure Game",
+    "description": "Dive into the action-packed world of Cool Archer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+    "keywords": [
+      "play Cool Archer",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/cool-archer",
+    "openGraph": {
+      "title": "Cool Archer - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Cool Archer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cool-archer-og.jpg",
+      "url": "https://littlegames.com/games/cool-archer",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cool Archer - Exciting Action Adventure Game",
+      "description": "Dive into the action-packed world of Cool Archer. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/cool-archer-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Cool Archer",
+      "href": "/games/cool-archer",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_916",
+    "customDescription": "Provides immersive storyline and character development",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

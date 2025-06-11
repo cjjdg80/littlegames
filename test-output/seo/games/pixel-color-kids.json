@@ -1,0 +1,54 @@
+{
+  "gameId": 4932,
+  "slug": "pixel-color-kids",
+  "metadata": {
+    "title": "Free Pixel Color Kids Game - Action Packed Fun",
+    "description": "Get ready for adrenaline-pumping action in Pixel Color Kids. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Pixel Color Kids online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-color-kids",
+    "openGraph": {
+      "title": "Free Pixel Color Kids Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Pixel Color Kids. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pixel-color-kids-og.jpg",
+      "url": "https://littlegames.com/games/pixel-color-kids",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Pixel Color Kids Game - Action Packed Fun",
+      "description": "Get ready for adrenaline-pumping action in Pixel Color Kids. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/pixel-color-kids-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Pixel Color Kids",
+      "href": "/games/pixel-color-kids",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_898",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

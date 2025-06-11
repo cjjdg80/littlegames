@@ -1,0 +1,54 @@
+{
+  "gameId": 6945,
+  "slug": "dynamons-5",
+  "metadata": {
+    "title": "Dynamons 5 Online - Explore and Discover",
+    "description": "Discover new worlds in Dynamons 5. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+    "keywords": [
+      "play Dynamons 5",
+      "adventure games online",
+      "free adventure",
+      "story games"
+    ],
+    "canonical": "https://littlegames.com/games/dynamons-5",
+    "openGraph": {
+      "title": "Dynamons 5 Online - Explore and Discover",
+      "description": "Discover new worlds in Dynamons 5. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your...",
+      "image": "https://littlegames.com/images/games/dynamons-5-og.jpg",
+      "url": "https://littlegames.com/games/dynamons-5",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dynamons 5 Online - Explore and Discover",
+      "description": "Discover new worlds in Dynamons 5. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
+      "image": "https://littlegames.com/images/games/dynamons-5-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Dynamons 5",
+      "href": "/games/dynamons-5",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_304",
+    "customDescription": "Delivers memorable characters and epic moments",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

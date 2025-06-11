@@ -1,0 +1,54 @@
+{
+  "gameId": 9407,
+  "slug": "hidden-mushrooms",
+  "metadata": {
+    "title": "Action Game Hidden Mushrooms - Play Free Now",
+    "description": "Hidden Mushrooms delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "Hidden Mushrooms game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/hidden-mushrooms",
+    "openGraph": {
+      "title": "Action Game Hidden Mushrooms - Play Free Now",
+      "description": "Hidden Mushrooms delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hidden-mushrooms-og.jpg",
+      "url": "https://littlegames.com/games/hidden-mushrooms",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Hidden Mushrooms - Play Free Now",
+      "description": "Hidden Mushrooms delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/hidden-mushrooms-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Hidden Mushrooms",
+      "href": "/games/hidden-mushrooms",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_627",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

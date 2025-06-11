@@ -1,0 +1,54 @@
+{
+  "gameId": 2498,
+  "slug": "grid-blocks-puzzle",
+  "metadata": {
+    "title": "Play Grid Blocks Puzzle - Free Puzzle Game Online",
+    "description": "Grid Blocks Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+    "keywords": [
+      "Grid Blocks Puzzle game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/grid-blocks-puzzle",
+    "openGraph": {
+      "title": "Play Grid Blocks Puzzle - Free Puzzle Game Online",
+      "description": "Grid Blocks Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/grid-blocks-puzzle-og.jpg",
+      "url": "https://littlegames.com/games/grid-blocks-puzzle",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Grid Blocks Puzzle - Free Puzzle Game Online",
+      "description": "Grid Blocks Puzzle offers the perfect mental workout. Experience instant browser play in this challenging puzzle game. Play instantly and boost your brainpower!",
+      "image": "https://littlegames.com/images/games/grid-blocks-puzzle-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Grid Blocks Puzzle",
+      "href": "/games/grid-blocks-puzzle",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_444",
+    "customDescription": "Features progressively challenging puzzle levels",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for brain training and mental exercise"
+  }
+}

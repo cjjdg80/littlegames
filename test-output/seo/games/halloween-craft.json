@@ -1,0 +1,54 @@
+{
+  "gameId": 3471,
+  "slug": "halloween-craft",
+  "metadata": {
+    "title": "Halloween Craft Online - Ultimate Action Gaming Experience",
+    "description": "Experience thrilling action in Halloween Craft! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+    "keywords": [
+      "Halloween Craft game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/halloween-craft",
+    "openGraph": {
+      "title": "Halloween Craft Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Halloween Craft! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
+      "image": "https://littlegames.com/images/games/halloween-craft-og.jpg",
+      "url": "https://littlegames.com/games/halloween-craft",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Halloween Craft Online - Ultimate Action Gaming Experience",
+      "description": "Experience thrilling action in Halloween Craft! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/halloween-craft-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Halloween Craft",
+      "href": "/games/halloween-craft",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_607",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

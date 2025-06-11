@@ -1,0 +1,54 @@
+{
+  "gameId": 3561,
+  "slug": "impostor-hook",
+  "metadata": {
+    "title": "Impostor Hook - Exciting Action Adventure Game",
+    "description": "Impostor Hook delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Impostor Hook",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/impostor-hook",
+    "openGraph": {
+      "title": "Impostor Hook - Exciting Action Adventure Game",
+      "description": "Impostor Hook delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/impostor-hook-og.jpg",
+      "url": "https://littlegames.com/games/impostor-hook",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Impostor Hook - Exciting Action Adventure Game",
+      "description": "Impostor Hook delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/impostor-hook-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Impostor Hook",
+      "href": "/games/impostor-hook",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_397",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

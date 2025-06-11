@@ -1,0 +1,54 @@
+{
+  "gameId": 2467,
+  "slug": "jelly-world",
+  "metadata": {
+    "title": "Play Jelly World - Free Action Game Online",
+    "description": "Experience thrilling action in Jelly World! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+    "keywords": [
+      "play Jelly World",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/jelly-world",
+    "openGraph": {
+      "title": "Play Jelly World - Free Action Game Online",
+      "description": "Experience thrilling action in Jelly World! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours...",
+      "image": "https://littlegames.com/images/games/jelly-world-og.jpg",
+      "url": "https://littlegames.com/games/jelly-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Jelly World - Free Action Game Online",
+      "description": "Experience thrilling action in Jelly World! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/jelly-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Jelly World",
+      "href": "/games/jelly-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_483",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

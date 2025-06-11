@@ -1,0 +1,54 @@
+{
+  "gameId": 6479,
+  "slug": "demolish-derby",
+  "metadata": {
+    "title": "Play Demolish Derby - Free Action Game Online",
+    "description": "Get ready for adrenaline-pumping action in Demolish Derby. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "Demolish Derby game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/demolish-derby",
+    "openGraph": {
+      "title": "Play Demolish Derby - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Demolish Derby. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/demolish-derby-og.jpg",
+      "url": "https://littlegames.com/games/demolish-derby",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Demolish Derby - Free Action Game Online",
+      "description": "Get ready for adrenaline-pumping action in Demolish Derby. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/demolish-derby-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Demolish Derby",
+      "href": "/games/demolish-derby",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_855",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

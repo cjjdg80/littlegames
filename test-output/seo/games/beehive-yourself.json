@@ -1,0 +1,54 @@
+{
+  "gameId": 6558,
+  "slug": "beehive-yourself",
+  "metadata": {
+    "title": "Free Beehive Yourself Game - Action Packed Fun",
+    "description": "Join the action in Beehive Yourself! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "Beehive Yourself game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/beehive-yourself",
+    "openGraph": {
+      "title": "Free Beehive Yourself Game - Action Packed Fun",
+      "description": "Join the action in Beehive Yourself! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/beehive-yourself-og.jpg",
+      "url": "https://littlegames.com/games/beehive-yourself",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Beehive Yourself Game - Action Packed Fun",
+      "description": "Join the action in Beehive Yourself! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/beehive-yourself-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Beehive Yourself",
+      "href": "/games/beehive-yourself",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_304",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4845,
+  "slug": "pop-rush",
+  "metadata": {
+    "title": "Puzzle Game Pop Rush - Test Your Skills",
+    "description": "Put your thinking skills to the test in Pop Rush. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+    "keywords": [
+      "Pop Rush game",
+      "logic puzzles",
+      "free brain training",
+      "online puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/pop-rush",
+    "openGraph": {
+      "title": "Puzzle Game Pop Rush - Test Your Skills",
+      "description": "Put your thinking skills to the test in Pop Rush. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pop-rush-og.jpg",
+      "url": "https://littlegames.com/games/pop-rush",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Pop Rush - Test Your Skills",
+      "description": "Put your thinking skills to the test in Pop Rush. This free online puzzle game brings you instant browser play and endless brain-teasing fun.",
+      "image": "https://littlegames.com/images/games/pop-rush-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Pop Rush",
+      "href": "/games/pop-rush",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_201",
+    "customDescription": "Offers multiple solution paths and creative thinking",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for educational entertainment"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 1607,
+  "slug": "grand-commander",
+  "metadata": {
+    "title": "Action Game Grand Commander - Play Free Now",
+    "description": "Dive into the action-packed world of Grand Commander. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+    "keywords": [
+      "play Grand Commander",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/grand-commander",
+    "openGraph": {
+      "title": "Action Game Grand Commander - Play Free Now",
+      "description": "Dive into the action-packed world of Grand Commander. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free...",
+      "image": "https://littlegames.com/images/games/grand-commander-og.jpg",
+      "url": "https://littlegames.com/games/grand-commander",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Grand Commander - Play Free Now",
+      "description": "Dive into the action-packed world of Grand Commander. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
+      "image": "https://littlegames.com/images/games/grand-commander-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Grand Commander",
+      "href": "/games/grand-commander",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_823",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

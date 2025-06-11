@@ -1,0 +1,54 @@
+{
+  "gameId": 4965,
+  "slug": "brain-test",
+  "metadata": {
+    "title": "Free Brain Test Game - Action Packed Fun",
+    "description": "Experience thrilling action in Brain Test! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+    "keywords": [
+      "action games",
+      "Brain Test",
+      "free online games",
+      "casual games"
+    ],
+    "canonical": "https://littlegames.com/games/brain-test",
+    "openGraph": {
+      "title": "Free Brain Test Game - Action Packed Fun",
+      "description": "Experience thrilling action in Brain Test! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
+      "image": "https://littlegames.com/images/games/brain-test-og.jpg",
+      "url": "https://littlegames.com/games/brain-test",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Brain Test Game - Action Packed Fun",
+      "description": "Experience thrilling action in Brain Test! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
+      "image": "https://littlegames.com/images/games/brain-test-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Brain Test",
+      "href": "/games/brain-test",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_921",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

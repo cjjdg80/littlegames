@@ -1,0 +1,54 @@
+{
+  "gameId": 3837,
+  "slug": "parking-man",
+  "metadata": {
+    "title": "Parking Man Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Parking Man. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "action games",
+      "Parking Man",
+      "free online games",
+      "arcade games"
+    ],
+    "canonical": "https://littlegames.com/games/parking-man",
+    "openGraph": {
+      "title": "Parking Man Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Parking Man. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/parking-man-og.jpg",
+      "url": "https://littlegames.com/games/parking-man",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Parking Man Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Parking Man. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/parking-man-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Parking Man",
+      "href": "/games/parking-man",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_953",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

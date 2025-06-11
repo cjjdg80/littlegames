@@ -1,0 +1,54 @@
+{
+  "gameId": 4166,
+  "slug": "amazing-jewel",
+  "metadata": {
+    "title": "Amazing Jewel - Exciting Action Adventure Game",
+    "description": "Join the action in Amazing Jewel! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Amazing Jewel",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/amazing-jewel",
+    "openGraph": {
+      "title": "Amazing Jewel - Exciting Action Adventure Game",
+      "description": "Join the action in Amazing Jewel! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/amazing-jewel-og.jpg",
+      "url": "https://littlegames.com/games/amazing-jewel",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Amazing Jewel - Exciting Action Adventure Game",
+      "description": "Join the action in Amazing Jewel! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/amazing-jewel-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Amazing Jewel",
+      "href": "/games/amazing-jewel",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_152",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

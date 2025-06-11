@@ -1,0 +1,54 @@
+{
+  "gameId": 2459,
+  "slug": "wave-run",
+  "metadata": {
+    "title": "Wave Run Online - Ultimate Action Gaming Experience",
+    "description": "Get ready for adrenaline-pumping action in Wave Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Wave Run",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/wave-run",
+    "openGraph": {
+      "title": "Wave Run Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Wave Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wave-run-og.jpg",
+      "url": "https://littlegames.com/games/wave-run",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wave Run Online - Ultimate Action Gaming Experience",
+      "description": "Get ready for adrenaline-pumping action in Wave Run. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/wave-run-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Wave Run",
+      "href": "/games/wave-run",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_235",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

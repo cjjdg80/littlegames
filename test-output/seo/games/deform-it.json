@@ -1,0 +1,54 @@
+{
+  "gameId": 7645,
+  "slug": "deform-it",
+  "metadata": {
+    "title": "Action Game Deform It - Play Free Now",
+    "description": "Get ready for adrenaline-pumping action in Deform It. This free online casual game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play Deform It",
+      "action games online",
+      "free casual",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/deform-it",
+    "openGraph": {
+      "title": "Action Game Deform It - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Deform It. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/deform-it-og.jpg",
+      "url": "https://littlegames.com/games/deform-it",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Deform It - Play Free Now",
+      "description": "Get ready for adrenaline-pumping action in Deform It. This free online casual game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/deform-it-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Casual",
+      "href": "/categories/casual"
+    },
+    {
+      "label": "Deform It",
+      "href": "/games/deform-it",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "casual_001",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}

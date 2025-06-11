@@ -1,0 +1,54 @@
+{
+  "gameId": 6744,
+  "slug": "sir-knight",
+  "metadata": {
+    "title": "Free Sir Knight Game - Action Packed Fun",
+    "description": "Sir Knight delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Sir Knight online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/sir-knight",
+    "openGraph": {
+      "title": "Free Sir Knight Game - Action Packed Fun",
+      "description": "Sir Knight delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sir-knight-og.jpg",
+      "url": "https://littlegames.com/games/sir-knight",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Sir Knight Game - Action Packed Fun",
+      "description": "Sir Knight delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/sir-knight-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Sir Knight",
+      "href": "/games/sir-knight",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_070",
+    "customDescription": "Delivers fast-paced action and stunning visuals",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

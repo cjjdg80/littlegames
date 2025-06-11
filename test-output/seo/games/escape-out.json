@@ -1,0 +1,54 @@
+{
+  "gameId": 1474,
+  "slug": "escape-out",
+  "metadata": {
+    "title": "Adventure Game Escape Out - Journey Begins",
+    "description": "Start your epic journey with Escape Out! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+    "keywords": [
+      "Escape Out game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/escape-out",
+    "openGraph": {
+      "title": "Adventure Game Escape Out - Journey Begins",
+      "description": "Start your epic journey with Escape Out! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/escape-out-og.jpg",
+      "url": "https://littlegames.com/games/escape-out",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Escape Out - Journey Begins",
+      "description": "Start your epic journey with Escape Out! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
+      "image": "https://littlegames.com/images/games/escape-out-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Escape Out",
+      "href": "/games/escape-out",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_703",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for narrative adventure fans"
+  }
+}

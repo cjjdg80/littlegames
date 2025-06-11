@@ -1,0 +1,54 @@
+{
+  "gameId": 3432,
+  "slug": "the-cargo",
+  "metadata": {
+    "title": "The Cargo Online - Ultimate Action Gaming Experience",
+    "description": "The Cargo delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "The Cargo online",
+      "action gaming",
+      "free games",
+      "arcade adventure"
+    ],
+    "canonical": "https://littlegames.com/games/the-cargo",
+    "openGraph": {
+      "title": "The Cargo Online - Ultimate Action Gaming Experience",
+      "description": "The Cargo delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/the-cargo-og.jpg",
+      "url": "https://littlegames.com/games/the-cargo",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "The Cargo Online - Ultimate Action Gaming Experience",
+      "description": "The Cargo delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/the-cargo-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "The Cargo",
+      "href": "/games/the-cargo",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_398",
+    "customDescription": "Includes dynamic environments and smooth controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

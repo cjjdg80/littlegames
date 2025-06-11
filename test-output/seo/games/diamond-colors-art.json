@@ -1,0 +1,54 @@
+{
+  "gameId": 4749,
+  "slug": "diamond-colors-art",
+  "metadata": {
+    "title": "Diamond Colors Art - Exciting Action Adventure Game",
+    "description": "Join the action in Diamond Colors Art! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Diamond Colors Art",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/diamond-colors-art",
+    "openGraph": {
+      "title": "Diamond Colors Art - Exciting Action Adventure Game",
+      "description": "Join the action in Diamond Colors Art! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/diamond-colors-art-og.jpg",
+      "url": "https://littlegames.com/games/diamond-colors-art",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diamond Colors Art - Exciting Action Adventure Game",
+      "description": "Join the action in Diamond Colors Art! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/diamond-colors-art-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Diamond Colors Art",
+      "href": "/games/diamond-colors-art",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_225",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for competitive players"
+  }
+}

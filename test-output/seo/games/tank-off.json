@@ -1,0 +1,54 @@
+{
+  "gameId": 2904,
+  "slug": "tank-off",
+  "metadata": {
+    "title": "Adventure Game Tank Off - Journey Begins",
+    "description": "Begin your quest in Tank Off. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Tank Off game",
+      "quest games",
+      "free adventure",
+      "online exploration"
+    ],
+    "canonical": "https://littlegames.com/games/tank-off",
+    "openGraph": {
+      "title": "Adventure Game Tank Off - Journey Begins",
+      "description": "Begin your quest in Tank Off. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/tank-off-og.jpg",
+      "url": "https://littlegames.com/games/tank-off",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Tank Off - Journey Begins",
+      "description": "Begin your quest in Tank Off. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/tank-off-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Tank Off",
+      "href": "/games/tank-off",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_033",
+    "customDescription": "Provides beautiful environments and atmospheric music",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for story-driven gaming experiences"
+  }
+}

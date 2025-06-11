@@ -1,0 +1,54 @@
+{
+  "gameId": 6813,
+  "slug": "little-farm-clicker",
+  "metadata": {
+    "title": "Little Farm Clicker - Exciting Action Adventure Game",
+    "description": "Little Farm Clicker delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+    "keywords": [
+      "action games",
+      "Little Farm Clicker",
+      "free online games",
+      "simulation games"
+    ],
+    "canonical": "https://littlegames.com/games/little-farm-clicker",
+    "openGraph": {
+      "title": "Little Farm Clicker - Exciting Action Adventure Game",
+      "description": "Little Farm Clicker delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/little-farm-clicker-og.jpg",
+      "url": "https://littlegames.com/games/little-farm-clicker",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Little Farm Clicker - Exciting Action Adventure Game",
+      "description": "Little Farm Clicker delivers heart-racing action and adventure. Experience instant browser play in this amazing simulation game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/little-farm-clicker-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation"
+    },
+    {
+      "label": "Little Farm Clicker",
+      "href": "/games/little-farm-clicker",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "simulation_213",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Excellent for stress relief and entertainment"
+  }
+}

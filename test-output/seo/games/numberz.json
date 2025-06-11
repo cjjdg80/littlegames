@@ -1,0 +1,54 @@
+{
+  "gameId": 4372,
+  "slug": "numberz",
+  "metadata": {
+    "title": "Numberz! Online - Logic and Strategy Game",
+    "description": "Challenge your mind with Numberz!! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+    "keywords": [
+      "puzzle games",
+      "Numberz!",
+      "brain games",
+      "puzzle puzzles"
+    ],
+    "canonical": "https://littlegames.com/games/numberz",
+    "openGraph": {
+      "title": "Numberz! Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Numberz!! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/numberz-og.jpg",
+      "url": "https://littlegames.com/games/numberz",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Numberz! Online - Logic and Strategy Game",
+      "description": "Challenge your mind with Numberz!! This engaging puzzle game features instant browser play and will test your problem-solving skills. Play free online now!",
+      "image": "https://littlegames.com/images/games/numberz-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Numberz!",
+      "href": "/games/numberz",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_538",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 9211,
+  "slug": "fish-land-fish-world",
+  "metadata": {
+    "title": "Fish Land Fish World Online - Explore and Discover",
+    "description": "Begin your quest in Fish Land Fish World. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+    "keywords": [
+      "Fish Land Fish World online",
+      "adventure gaming",
+      "exploration",
+      "adventure quest"
+    ],
+    "canonical": "https://littlegames.com/games/fish-land-fish-world",
+    "openGraph": {
+      "title": "Fish Land Fish World Online - Explore and Discover",
+      "description": "Begin your quest in Fish Land Fish World. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fish-land-fish-world-og.jpg",
+      "url": "https://littlegames.com/games/fish-land-fish-world",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fish Land Fish World Online - Explore and Discover",
+      "description": "Begin your quest in Fish Land Fish World. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
+      "image": "https://littlegames.com/images/games/fish-land-fish-world-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure"
+    },
+    {
+      "label": "Fish Land Fish World",
+      "href": "/games/fish-land-fish-world",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "adventure_550",
+    "customDescription": "Includes engaging quests and meaningful choices",
+    "featuredTags": [],
+    "recommendationReason": "Great for immersive gameplay sessions"
+  }
+}

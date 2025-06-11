@@ -1,0 +1,54 @@
+{
+  "gameId": 1289,
+  "slug": "pixel-skate",
+  "metadata": {
+    "title": "Play Pixel Skate - Free Action Game Online",
+    "description": "Join the action in Pixel Skate! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+    "keywords": [
+      "play Pixel Skate",
+      "action games online",
+      "free sports",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/pixel-skate",
+    "openGraph": {
+      "title": "Play Pixel Skate - Free Action Game Online",
+      "description": "Join the action in Pixel Skate! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pixel-skate-og.jpg",
+      "url": "https://littlegames.com/games/pixel-skate",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Pixel Skate - Free Action Game Online",
+      "description": "Join the action in Pixel Skate! This captivating sports game offers instant browser play and guarantees hours of entertainment. Play free online now!",
+      "image": "https://littlegames.com/images/games/pixel-skate-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports"
+    },
+    {
+      "label": "Pixel Skate",
+      "href": "/games/pixel-skate",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "sports_965",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Great for quick gaming sessions"
+  }
+}

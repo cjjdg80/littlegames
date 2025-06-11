@@ -1,0 +1,54 @@
+{
+  "gameId": 6160,
+  "slug": "farm-fun",
+  "metadata": {
+    "title": "Free Farm Fun Game - Mind Bending Puzzles",
+    "description": "Exercise your brain with Farm Fun. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+    "keywords": [
+      "Farm Fun online",
+      "brain training",
+      "puzzle solving",
+      "puzzle games"
+    ],
+    "canonical": "https://littlegames.com/games/farm-fun",
+    "openGraph": {
+      "title": "Free Farm Fun Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Farm Fun. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/farm-fun-og.jpg",
+      "url": "https://littlegames.com/games/farm-fun",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free Farm Fun Game - Mind Bending Puzzles",
+      "description": "Exercise your brain with Farm Fun. This clever puzzle game offers instant browser play and provides hours of mental stimulation. Start solving puzzles today!",
+      "image": "https://littlegames.com/images/games/farm-fun-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle"
+    },
+    {
+      "label": "Farm Fun",
+      "href": "/games/farm-fun",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "puzzle_966",
+    "customDescription": "Delivers clean interface and intuitive controls",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players who enjoy logical challenges"
+  }
+}

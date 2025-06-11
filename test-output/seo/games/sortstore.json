@@ -1,0 +1,54 @@
+{
+  "gameId": 9783,
+  "slug": "sortstore",
+  "metadata": {
+    "title": "SORTSTORE - Exciting Action Adventure Game",
+    "description": "Get ready for adrenaline-pumping action in SORTSTORE. This free online arcade game brings you instant browser play and endless fun. No download required!",
+    "keywords": [
+      "play SORTSTORE",
+      "action games online",
+      "free arcade",
+      "browser games"
+    ],
+    "canonical": "https://littlegames.com/games/sortstore",
+    "openGraph": {
+      "title": "SORTSTORE - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in SORTSTORE. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sortstore-og.jpg",
+      "url": "https://littlegames.com/games/sortstore",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "SORTSTORE - Exciting Action Adventure Game",
+      "description": "Get ready for adrenaline-pumping action in SORTSTORE. This free online arcade game brings you instant browser play and endless fun. No download required!",
+      "image": "https://littlegames.com/images/games/sortstore-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "SORTSTORE",
+      "href": "/games/sortstore",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_279",
+    "customDescription": "Features intense combat and strategic gameplay",
+    "featuredTags": [],
+    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "gameId": 4672,
+  "slug": "jasmine-beauty-salon",
+  "metadata": {
+    "title": "Jasmine Beauty Salon - Exciting Action Adventure Game",
+    "description": "Jasmine Beauty Salon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+    "keywords": [
+      "Jasmine Beauty Salon game",
+      "action adventure",
+      "free browser games",
+      "online gaming"
+    ],
+    "canonical": "https://littlegames.com/games/jasmine-beauty-salon",
+    "openGraph": {
+      "title": "Jasmine Beauty Salon - Exciting Action Adventure Game",
+      "description": "Jasmine Beauty Salon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jasmine-beauty-salon-og.jpg",
+      "url": "https://littlegames.com/games/jasmine-beauty-salon",
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jasmine Beauty Salon - Exciting Action Adventure Game",
+      "description": "Jasmine Beauty Salon delivers heart-racing action and adventure. Experience instant browser play in this amazing arcade game. Play instantly in your browser!",
+      "image": "https://littlegames.com/images/games/jasmine-beauty-salon-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade"
+    },
+    {
+      "label": "Jasmine Beauty Salon",
+      "href": "/games/jasmine-beauty-salon",
+      "current": true
+    }
+  ],
+  "relatedGames": [],
+  "contentVariant": {
+    "variantId": "arcade_838",
+    "customDescription": "Offers challenging levels and exciting rewards",
+    "featuredTags": [],
+    "recommendationReason": "Perfect for action game enthusiasts"
+  }
+}
