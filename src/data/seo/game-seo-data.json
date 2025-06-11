@@ -5,7 +5,7 @@
     "description": "SEO metadata for individual game pages",
     "totalGames": 9726,
     "language": "en",
-    "baseUrl": "https://littlegames.com"
+    "baseUrl": "https://playbrowserminigames.com"
   },
   "structure": {
     "description": "This file contains SEO templates and metadata for game pages",
@@ -64,12 +64,12 @@
     },
     "openGraph": {
       "type": "article",
-      "imagePattern": "https://littlegames.com/images/games/{slug}-og.jpg",
-      "urlPattern": "https://littlegames.com/games/{slug}"
+      "imagePattern": "https://playbrowserminigames.com/images/games/{slug}-og.jpg",
+      "urlPattern": "https://playbrowserminigames.com/games/{slug}"
     },
     "twitter": {
       "card": "summary_large_image",
-      "imagePattern": "https://littlegames.com/images/games/{slug}-twitter.jpg"
+      "imagePattern": "https://playbrowserminigames.com/images/games/{slug}-twitter.jpg"
     }
   },
   "qualityMetrics": {

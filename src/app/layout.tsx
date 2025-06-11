@@ -16,10 +16,10 @@ const geistMono = Geist_Mono({
 
 // SEO元数据配置 - 面向欧美用户的英文内容
 export const metadata: Metadata = {
-  title: "LittleGames - Free Online Mini Games Platform",
+  title: "Play Browser Mini Games - Free Online Mini Games Platform",
   description: "Discover and play thousands of free online mini games. Enjoy puzzle games, action games, arcade games and more. No download required, play instantly in your browser.",
   keywords: "free games, online games, mini games, browser games, puzzle games, action games",
-  authors: [{ name: "LittleGames Team" }],
+  authors: [{ name: "Play Browser Mini Games Team" }],
   viewport: "width=device-width, initial-scale=1",
 };
 
