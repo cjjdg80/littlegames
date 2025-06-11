@@ -10,8 +10,10 @@
     "test:crawler": "npx ts-node --project tsconfig.node.json scripts/crawler/testGameList.ts"
   },
   "dependencies": {
+    "@types/node-fetch": "^2.6.12",
     "clsx": "^2.1.1",
     "next": "15.3.3",
+    "node-fetch": "^3.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^3.3.0",
