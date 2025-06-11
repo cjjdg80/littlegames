@@ -1,0 +1,389 @@
+{
+    "metadata": {
+      "total_games": 5,
+      "last_updated": "20250610_112547",
+      "extraction_info": {
+        "success_count": 0,
+        "total_processed": 5
+      }
+    },
+    "games": [
+      {
+        "basic_info": {
+          "id": "capybara-go!",
+          "name": "Capybara Go!",
+          "url": "https://gamedistribution.com/games/capybara-go!/",
+          "company": "未知开发商",
+          "collected_at": "2025-06-09T21:18:31.918058"
+        },
+        "extraction_time": "2025-06-09T23:22:58.565156",
+        "url": "https://gamedistribution.com/games/capybara-go!/",
+        "game_info": {
+          "title": "Capybara Go!",
+          "publisher": "YAD.Com",
+          "publisher_url": "https://gamedistribution.com/games/?company=YAD.Com",
+          "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+          "languages": [
+            "English"
+          ],
+          "gender_tags": [
+            "Male",
+            "Female"
+          ],
+          "age_groups": [
+            "Kids",
+            "Teens",
+            "YoungAdults",
+            "Adults"
+          ]
+        },
+        "genres": [
+          "Adventure"
+        ],
+        "tags": [
+          "army",
+          "battlefield",
+          "defence",
+          "enemies"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-512x512.jpg",
+            "size": "512x512",
+            "alt": "63e8c2d0709e452f842f261a7c9f43f9-512x512.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-512x384.jpg",
+            "size": "512x384",
+            "alt": "63e8c2d0709e452f842f261a7c9f43f9-512x384.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-200x120.jpg",
+            "size": "200x120",
+            "alt": "63e8c2d0709e452f842f261a7c9f43f9-200x120.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-1280x720.jpg",
+            "size": "1280x720",
+            "alt": "63e8c2d0709e452f842f261a7c9f43f9-1280x720.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-1280x550.jpg",
+            "size": "1280x550",
+            "alt": "63e8c2d0709e452f842f261a7c9f43f9-1280x550.jpg"
+          }
+        ],
+        "iframe_code": {
+          "full_code": "<iframe src=\"https://html5.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"720\" height=\"1600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+          "src": "https://html5.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+          "width": "720",
+          "height": "1600"
+        },
+        "description": "Enter the wonderful world of Capybara. In Capybara Go, begin a strategic adventure. You'll be forming and commanding your own little Capybara army. Defeat your opponents and conquer everything through strategy and combat. Lay out your Capybara's to take advantage of each one's strengths and use strategy to defeat powerful enemies.",
+        "instructions": "Mouse click or tap to play"
+      },
+      {
+        "basic_info": {
+          "id": "butterfly-kyodai-rainbow",
+          "name": "Butterfly Kyodai Rainbow",
+          "url": "https://gamedistribution.com/games/butterfly-kyodai-rainbow/",
+          "company": "未知开发商",
+          "collected_at": "2025-06-09T21:18:31.848990"
+        },
+        "extraction_time": "2025-06-09T23:22:56.534901",
+        "url": "https://gamedistribution.com/games/butterfly-kyodai-rainbow/",
+        "game_info": {
+          "title": "Butterfly Kyodai Rainbow",
+          "publisher": "Azerion Casual Games",
+          "publisher_url": "https://gamedistribution.com/games/?company=Azerion%20Casual%20Games",
+          "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+          "languages": [
+            "Czech",
+            "Dutch",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Polish",
+            "Portuguese",
+            "Spanish"
+          ],
+          "gender_tags": [
+            "Male",
+            "Female"
+          ],
+          "age_groups": [
+            "Teens",
+            "YoungAdults",
+            "Adults",
+            "Seniors"
+          ]
+        },
+        "genres": [
+          "Mahjong & Connect"
+        ],
+        "tags": [
+          "butterfly",
+          "matching",
+          "relaxing",
+          "singleplayer"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-512x384.jpg",
+            "size": "512x384",
+            "alt": "8aa0d6a6380147d0a9bf2a3c32d79011-512x384.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-512x512.jpg",
+            "size": "512x512",
+            "alt": "8aa0d6a6380147d0a9bf2a3c32d79011-512x512.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-200x120.jpg",
+            "size": "200x120",
+            "alt": "8aa0d6a6380147d0a9bf2a3c32d79011-200x120.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-1280x720.jpg",
+            "size": "1280x720",
+            "alt": "8aa0d6a6380147d0a9bf2a3c32d79011-1280x720.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-1280x550.jpg",
+            "size": "1280x550",
+            "alt": "8aa0d6a6380147d0a9bf2a3c32d79011-1280x550.jpg"
+          }
+        ],
+        "iframe_code": {
+          "full_code": "<iframe src=\"https://html5.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+          "src": "https://html5.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+          "width": "800",
+          "height": "600"
+        },
+        "description": "Play Butterfly Kyodai Rainbow – a relaxing and colorful butterfly-matching puzzle game with fresh mechanics and vibrant rainbow visuals! Enjoy hundreds of exciting levels, earn daily rewards, take part in special events, and unlock beautiful new wings. A fun Mahjong-style connect game for all ages – no download required!",
+        "instructions": "Tap or click two matching butterfly wings to connect them and set them free. Make sure the path between them is clear — other tiles will block the way. Your goal is to clear the entire board as quickly as possible. Stuck? Use boosters to help you out!"
+      },
+      {
+        "basic_info": {
+          "id": "soccer-tournament",
+          "name": "Soccer Tournament",
+          "url": "https://gamedistribution.com/games/soccer-tournament/",
+          "company": "未知开发商",
+          "collected_at": "2025-06-09T21:18:31.825991"
+        },
+        "extraction_time": "2025-06-09T23:22:56.211647",
+        "url": "https://gamedistribution.com/games/soccer-tournament/",
+        "game_info": {
+          "title": "Soccer Tournament",
+          "publisher": "BestGamesFreePlay.com",
+          "publisher_url": "https://gamedistribution.com/games/?company=BestGamesFreePlay.com",
+          "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+          "languages": [
+            "English",
+            "French",
+            "German",
+            "Russian",
+            "Simple English",
+            "Spanish",
+            "Turkish"
+          ],
+          "gender_tags": [
+            "Male",
+            "Female"
+          ],
+          "age_groups": [
+            "Kids",
+            "Teens",
+            "YoungAdults",
+            "Adults",
+            "Seniors"
+          ]
+        },
+        "genres": [
+          "Football"
+        ],
+        "tags": [
+          "2players",
+          "sport"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://img.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a-512x384.jpg",
+            "size": "512x384",
+            "alt": "66da87c150bf4e7c9f2abef8cdbd2f7a-512x384.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a-512x512.jpg",
+            "size": "512x512",
+            "alt": "66da87c150bf4e7c9f2abef8cdbd2f7a-512x512.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a-200x120.jpg",
+            "size": "200x120",
+            "alt": "66da87c150bf4e7c9f2abef8cdbd2f7a-200x120.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a-1280x720.jpg",
+            "size": "1280x720",
+            "alt": "66da87c150bf4e7c9f2abef8cdbd2f7a-1280x720.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a-1280x550.jpg",
+            "size": "1280x550",
+            "alt": "66da87c150bf4e7c9f2abef8cdbd2f7a-1280x550.jpg"
+          }
+        ],
+        "iframe_code": {
+          "full_code": "<iframe src=\"https://html5.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1120\" height=\"630\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+          "src": "https://html5.gamedistribution.com/66da87c150bf4e7c9f2abef8cdbd2f7a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+          "width": "1120",
+          "height": "630"
+        },
+        "description": "Soccer Tournament is a fun and fast-paced tabletop-style soccer game where you control a team of caps, flicking them to pass, shoot, and score goals. Strategize your moves, outplay your opponent, and aim for victory in this exciting, skill-based challenge!",
+        "instructions": "Tap or click the cap (player) and drag to adjust the direction and shooting power. Release to shoot. Kick the ball into the opponent's goal to score points."
+      },
+      {
+        "basic_info": {
+          "id": "hyper-nurse:-hospital-games",
+          "name": "Hyper Nurse: Hospital Games",
+          "url": "https://gamedistribution.com/games/hyper-nurse:-hospital-games/",
+          "company": "未知开发商",
+          "collected_at": "2025-06-09T21:18:31.985073"
+        },
+        "extraction_time": "2025-06-09T23:23:00.452689",
+        "url": "https://gamedistribution.com/games/hyper-nurse:-hospital-games/",
+        "game_info": {
+          "title": "Hyper Nurse: Hospital Games",
+          "publisher": "Geniteam",
+          "publisher_url": "https://gamedistribution.com/games/?company=Geniteam",
+          "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+          "languages": [
+            "English"
+          ],
+          "gender_tags": [
+            "Male",
+            "Female"
+          ],
+          "age_groups": [
+            "Teens",
+            "YoungAdults"
+          ]
+        },
+        "genres": [
+          "Adventure"
+        ],
+        "tags": [
+          "3d",
+          "hospital"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://img.gamedistribution.com/afcd01218ad8495c847c1475566e7e10-512x512.jpg",
+            "size": "512x512",
+            "alt": "afcd01218ad8495c847c1475566e7e10-512x512.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/afcd01218ad8495c847c1475566e7e10-512x384.jpg",
+            "size": "512x384",
+            "alt": "afcd01218ad8495c847c1475566e7e10-512x384.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/afcd01218ad8495c847c1475566e7e10-1280x720.jpg",
+            "size": "1280x720",
+            "alt": "afcd01218ad8495c847c1475566e7e10-1280x720.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/afcd01218ad8495c847c1475566e7e10-200x120.jpg",
+            "size": "200x120",
+            "alt": "afcd01218ad8495c847c1475566e7e10-200x120.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/afcd01218ad8495c847c1475566e7e10-200x120.jpg",
+            "size": "200x120",
+            "alt": "afcd01218ad8495c847c1475566e7e10-200x120.jpg"
+          }
+        ],
+        "iframe_code": {
+          "full_code": "<iframe src=\"https://html5.gamedistribution.com/afcd01218ad8495c847c1475566e7e10/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+          "src": "https://html5.gamedistribution.com/afcd01218ad8495c847c1475566e7e10/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+          "width": "900",
+          "height": "600"
+        },
+        "description": "Get ready to navigate through the fast-paced world of healthcare, where every second counts. Your mission as a hyper nurse is to provide exceptional care to patients, manage critical situations, and ensure the smooth operation of the hospital. Get ready to put your multitasking skills to the test as you juggle multiple tasks and make crucial decisions in hyper nurse: hospital games.",
+        "instructions": "Use left mouse button to make choices."
+      },
+      {
+        "basic_info": {
+          "id": "color-cargo-puzzle-rush",
+          "name": "Color Cargo Puzzle Rush",
+          "url": "https://gamedistribution.com/games/color-cargo-puzzle-rush/",
+          "company": "未知开发商",
+          "collected_at": "2025-06-09T21:18:31.872563"
+        },
+        "extraction_time": "2025-06-09T23:23:04.701764",
+        "url": "https://gamedistribution.com/games/color-cargo-puzzle-rush/",
+        "game_info": {
+          "title": "Color Cargo Puzzle Rush",
+          "publisher": "Geniteam",
+          "publisher_url": "https://gamedistribution.com/games/?company=Geniteam",
+          "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+          "languages": [
+            "English"
+          ],
+          "gender_tags": [
+            "Male",
+            "Female"
+          ],
+          "age_groups": [
+            "Kids",
+            "Teens",
+            "YoungAdults"
+          ]
+        },
+        "genres": [
+          "Casual",
+          "Puzzle"
+        ],
+        "tags": [
+          "busparking",
+          "parking",
+          "point-and-click"
+        ],
+        "thumbnails": [
+          {
+            "url": "https://img.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d-512x512.jpg",
+            "size": "512x512",
+            "alt": "8bd7f64edc48480f9148388a77618c8d-512x512.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d-1280x720.jpg",
+            "size": "1280x720",
+            "alt": "8bd7f64edc48480f9148388a77618c8d-1280x720.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d-1280x550.jpg",
+            "size": "1280x550",
+            "alt": "8bd7f64edc48480f9148388a77618c8d-1280x550.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d-512x384.jpg",
+            "size": "512x384",
+            "alt": "8bd7f64edc48480f9148388a77618c8d-512x384.jpg"
+          },
+          {
+            "url": "https://img.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d-200x120.jpg",
+            "size": "200x120",
+            "alt": "8bd7f64edc48480f9148388a77618c8d-200x120.jpg"
+          }
+        ],
+        "iframe_code": {
+          "full_code": "<iframe src=\"https://html5.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+          "src": "https://html5.gamedistribution.com/8bd7f64edc48480f9148388a77618c8d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+          "width": "900",
+          "height": "600"
+        },
+        "description": "Color Cargo Puzzle Rush is the ultimate blend of color puzzle games, and sorting games! Dive into this stress-relieving world of ASMR games where you match delivery boxes with the right cargo buses by their colors. Perfect for fans of color sort puzzle and fun games, this game is all about strategy, speed, and precision.",
+        "instructions": "Use mouse left button to play"
+      },

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "total_games": 1,
+    "last_updated": "20250610_120000",
+    "extraction_info": {
+      "success_count": 1,
+      "total_processed": 1
+    }
+  },
+  "games": [
+    {
+      "basic_info": {
+        "id": "test-game",
+        "name": "Test Game",
+        "url": "https://example.com/test-game",
+        "company": "Test Company",
+        "collected_at": "2025-06-10T12:00:00.000000"
+      },
+      "game_info": {
+        "title": "Test Game",
+        "publisher": "Test Publisher",
+        "publisher_url": "https://example.com/publisher",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": ["English"],
+        "gender_tags": ["Male", "Female"],
+        "age_groups": ["Kids", "Teens"]
+      },
+      "genres": ["Action", "Adventure"],
+      "tags": ["fun", "exciting"],
+      "thumbnails": [
+        {
+          "url": "https://example.com/thumb.jpg",
+          "size": "300x200",
+          "alt": "Test Game Thumbnail"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src='https://example.com/game' width='800' height='600'></iframe>",
+        "src": "https://example.com/game",
+        "width": "800",
+        "height": "600"
+      },
+      "description": "A simple test game for validation.",
+      "instructions": "Click to play"
+    }
+  ]
+}

@@ -1,0 +1,2465 @@
+{
+  "metadata": {
+    "batch_number": 34,
+    "total_games": 42,
+    "success_count": 0,
+    "created_at": "20250611_040130",
+    "game_id_range": {
+      "start_id": 9817,
+      "end_id": 9857
+    },
+    "extraction_info": {
+      "thread_count": 6,
+      "delay_range": [
+        1,
+        3
+      ]
+    }
+  },
+  "games": [
+    {
+      "basic_info": {
+        "id": "baby-taylor-extracurricular-activities",
+        "name": "Baby Taylor Extracurricular Activities",
+        "url": "https://gamedistribution.com/games/baby-taylor-extracurricular-activities/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.654714",
+        "global_id": 9820
+      },
+      "extraction_time": "2025-06-11T03:58:35.627511",
+      "url": "https://gamedistribution.com/games/baby-taylor-extracurricular-activities/",
+      "game_info": {
+        "title": "Baby Taylor Extracurricular Activities",
+        "publisher": "babygames.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=babygames.com",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Female"
+        ],
+        "age_groups": [
+          "Kids"
+        ]
+      },
+      "genres": [
+        "Dress-up"
+      ],
+      "tags": [
+        "baby",
+        "bath",
+        "cute"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/e21c40a40f5f4e17ba4860938e3ba81e-512x384.jpeg",
+          "size": "512x384",
+          "alt": "e21c40a40f5f4e17ba4860938e3ba81e-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/e21c40a40f5f4e17ba4860938e3ba81e/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"504\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/e21c40a40f5f4e17ba4860938e3ba81e/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "504",
+        "height": "800"
+      },
+      "description": "It's sunny day. Doris plans to take the children out for extracurricular activities. It’s sounds good, right? Taylor and her friends swing, hide and seek, swimming. Oh no! someone fell into the mud! She needs your help! Have a good day with our cute friends!",
+      "instructions": "Mouse click or tap to play",
+      "game_id": {
+        "global_id": 9820,
+        "batch_id": 4,
+        "extraction_order": 9820
+      }
+    },
+    {
+      "basic_info": {
+        "id": "lucky-looter-1",
+        "name": "Lucky Looter",
+        "url": "https://gamedistribution.com/games/lucky-looter-1/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.673294",
+        "global_id": 9821
+      },
+      "extraction_time": "2025-06-11T03:58:37.536426",
+      "url": "https://gamedistribution.com/games/lucky-looter-1/",
+      "game_info": {
+        "title": "Lucky Looter",
+        "publisher": "YAD.Com",
+        "publisher_url": "https://gamedistribution.com/games/?company=YAD.Com",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "avoid",
+        "car",
+        "collect",
+        "house",
+        "obstacle",
+        "skill"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/5a1b2574105b46d79cfed78621e7d532-512x384.jpeg",
+          "size": "512x384",
+          "alt": "5a1b2574105b46d79cfed78621e7d532-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/5a1b2574105b46d79cfed78621e7d532/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"750\" height=\"1334\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/5a1b2574105b46d79cfed78621e7d532/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "750",
+        "height": "1334"
+      },
+      "description": "Lucky Looter is a cool 3D stealth game. This kind of game is a little bit difficult. You need to be careful to avoid those \"sight range\" to be able to enter safely. Be patient when you are going in or out. With the development of the level, the difficulty will be greater and greater. Wish you can steal more treasures in the game Lucky Looter!",
+      "instructions": "Slide on the screen to play",
+      "game_id": {
+        "global_id": 9821,
+        "batch_id": 5,
+        "extraction_order": 9821
+      }
+    },
+    {
+      "basic_info": {
+        "id": "perfect-pipes-1",
+        "name": "Perfect Pipes",
+        "url": "https://gamedistribution.com/games/perfect-pipes-1/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.692561",
+        "global_id": 9822
+      },
+      "extraction_time": "2025-06-11T03:58:38.348879",
+      "url": "https://gamedistribution.com/games/perfect-pipes-1/",
+      "game_info": {
+        "title": "Perfect Pipes",
+        "publisher": "Gamearcade.org",
+        "publisher_url": "https://gamedistribution.com/games/?company=Gamearcade.org",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "3d",
+        "ball",
+        "beauty"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/214cae90e44747f4a34e542caae19164-512x384.jpeg",
+          "size": "512x384",
+          "alt": "214cae90e44747f4a34e542caae19164-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/214cae90e44747f4a34e542caae19164-512x512.jpeg",
+          "size": "512x512",
+          "alt": "214cae90e44747f4a34e542caae19164-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/214cae90e44747f4a34e542caae19164/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"450\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/214cae90e44747f4a34e542caae19164/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "450",
+        "height": "800"
+      },
+      "description": "In this game full of satisfying graphics and innovative levels, you can challenge yourself, your brain, and your friends! It’s you against physics and the tricky levels — WHO WILL WIN? All balls have to go into the pipe … can you connect the right pipes in the right order and make it happen?",
+      "instructions": "Drag the soft pipes to connect them!",
+      "game_id": {
+        "global_id": 9822,
+        "batch_id": 6,
+        "extraction_order": 9822
+      }
+    },
+    {
+      "basic_info": {
+        "id": "car-charging-station",
+        "name": "Car Charging Station",
+        "url": "https://gamedistribution.com/games/car-charging-station/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.637609",
+        "global_id": 9819
+      },
+      "extraction_time": "2025-06-11T03:58:36.236087",
+      "url": "https://gamedistribution.com/games/car-charging-station/",
+      "game_info": {
+        "title": "Car Charging Station",
+        "publisher": "newgamess",
+        "publisher_url": "https://gamedistribution.com/games/?company=newgamess",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "car"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/0a5c8a16379948c0b3243595e0f4d739-512x384.jpeg",
+          "size": "512x384",
+          "alt": "0a5c8a16379948c0b3243595e0f4d739-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/0a5c8a16379948c0b3243595e0f4d739-512x512.jpeg",
+          "size": "512x512",
+          "alt": "0a5c8a16379948c0b3243595e0f4d739-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/0a5c8a16379948c0b3243595e0f4d739/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/0a5c8a16379948c0b3243595e0f4d739/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1280",
+        "height": "720"
+      },
+      "description": "Car Charging Station is puzzle jigsaw game with images of charging cars. choose image and start to play this game. Click on play and when pieces is shuffled drag it in right place to get the image with charging car.",
+      "instructions": "Use mouse to drag the pieces.",
+      "game_id": {
+        "global_id": 9819,
+        "batch_id": 3,
+        "extraction_order": 9819
+      }
+    },
+    {
+      "basic_info": {
+        "id": "right-shot",
+        "name": "Right Shot",
+        "url": "https://gamedistribution.com/games/right-shot/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.607777",
+        "global_id": 9817
+      },
+      "extraction_time": "2025-06-11T03:58:38.461293",
+      "url": "https://gamedistribution.com/games/right-shot/",
+      "game_info": {
+        "title": "Right Shot",
+        "publisher": "Fun Best Games",
+        "publisher_url": "https://gamedistribution.com/games/?company=Fun%20Best%20Games",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "arcade",
+        "boys",
+        "cannon",
+        "skill"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/92217424ffee4ca2bb5dbe36920018e2-512x384.jpeg",
+          "size": "512x384",
+          "alt": "92217424ffee4ca2bb5dbe36920018e2-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/92217424ffee4ca2bb5dbe36920018e2-512x512.jpeg",
+          "size": "512x512",
+          "alt": "92217424ffee4ca2bb5dbe36920018e2-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/92217424ffee4ca2bb5dbe36920018e2-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "92217424ffee4ca2bb5dbe36920018e2-1280x720.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/92217424ffee4ca2bb5dbe36920018e2-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "92217424ffee4ca2bb5dbe36920018e2-1280x550.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/92217424ffee4ca2bb5dbe36920018e2/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/92217424ffee4ca2bb5dbe36920018e2/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1280",
+        "height": "720"
+      },
+      "description": "Right Shot is a very fun casual game that will test your skills and reasoning. With a “Drag and Drop” system you can pull the elastic to make the ball bounce and knock down the targets. Try to finish each level with as few balls as possible to get more points. You can pop boxes of TNT explosives to break more than one target at the same time and save balls. The designs are beautiful and colorful.",
+      "instructions": "Use mouse or touch the screen!",
+      "game_id": {
+        "global_id": 9817,
+        "batch_id": 1,
+        "extraction_order": 9817
+      }
+    },
+    {
+      "basic_info": {
+        "id": "funny-turkey-jigsaw",
+        "name": "Funny Turkey Jigsaw",
+        "url": "https://gamedistribution.com/games/funny-turkey-jigsaw/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.622535",
+        "global_id": 9818
+      },
+      "extraction_time": "2025-06-11T03:58:38.418697",
+      "url": "https://gamedistribution.com/games/funny-turkey-jigsaw/",
+      "game_info": {
+        "title": "Funny Turkey Jigsaw",
+        "publisher": "Best Games",
+        "publisher_url": "https://gamedistribution.com/games/?company=Best%20Games",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "bird"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/28aee1ae5fd6481b84c599dad3bf640d-512x384.jpeg",
+          "size": "512x384",
+          "alt": "28aee1ae5fd6481b84c599dad3bf640d-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/28aee1ae5fd6481b84c599dad3bf640d-512x512.jpeg",
+          "size": "512x512",
+          "alt": "28aee1ae5fd6481b84c599dad3bf640d-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/28aee1ae5fd6481b84c599dad3bf640d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/28aee1ae5fd6481b84c599dad3bf640d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "960",
+        "height": "540"
+      },
+      "description": "Funny Turkey Jigsaw game is free online game and you have 6 images in three modes to play. Choose one of the mode for the game that you previous choose mode easy, medium or hard and start to play. Drag and drop the pieces to solve the puzzle and create an image. Enjoy, and have fun!",
+      "instructions": "Use mouse to play this game.",
+      "game_id": {
+        "global_id": 9818,
+        "batch_id": 2,
+        "extraction_order": 9818
+      }
+    },
+    {
+      "basic_info": {
+        "id": "sporos",
+        "name": "Sporos",
+        "url": "https://gamedistribution.com/games/sporos/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.484746",
+        "global_id": 9825
+      },
+      "extraction_time": "2025-06-11T03:59:07.746785",
+      "url": "https://gamedistribution.com/games/sporos/",
+      "game_info": {
+        "title": "Sporos",
+        "publisher": "DAB3Games",
+        "publisher_url": "https://gamedistribution.com/games/?company=DAB3Games",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "thinking"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/1d92fd804d894c0596ab8311ddb46aba-512x384.jpeg",
+          "size": "512x384",
+          "alt": "1d92fd804d894c0596ab8311ddb46aba-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/1d92fd804d894c0596ab8311ddb46aba-512x512.jpeg",
+          "size": "512x512",
+          "alt": "1d92fd804d894c0596ab8311ddb46aba-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/1d92fd804d894c0596ab8311ddb46aba/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/1d92fd804d894c0596ab8311ddb46aba/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "800",
+        "height": "600"
+      },
+      "description": "Spread the spores to cover the entire board to complete each puzzle. Try to complete all 50 levels in this fun online brain teasing game.",
+      "instructions": "Click or tap to place the spores",
+      "game_id": {
+        "global_id": 9825,
+        "batch_id": 9,
+        "extraction_order": 9825
+      }
+    },
+    {
+      "basic_info": {
+        "id": "farm-of-dreams",
+        "name": "Farm of Dreams",
+        "url": "https://gamedistribution.com/games/farm-of-dreams/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.713768",
+        "global_id": 9823
+      },
+      "extraction_time": "2025-06-11T03:59:09.853574",
+      "url": "https://gamedistribution.com/games/farm-of-dreams/",
+      "game_info": {
+        "title": "Farm of Dreams",
+        "publisher": "Feig Ltd.",
+        "publisher_url": "https://gamedistribution.com/games/?company=Feig%20Ltd.",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Female"
+        ],
+        "age_groups": [
+          "YoungAdults"
+        ]
+      },
+      "genres": [
+        "Match-3"
+      ],
+      "tags": [
+        "animal",
+        "farm",
+        "matching",
+        "vegetables"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/531c5f6b802c4d1d8d1ea6453d8e03eb-512x384.jpeg",
+          "size": "512x384",
+          "alt": "531c5f6b802c4d1d8d1ea6453d8e03eb-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/531c5f6b802c4d1d8d1ea6453d8e03eb/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/531c5f6b802c4d1d8d1ea6453d8e03eb/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "800",
+        "height": "600"
+      },
+      "description": "Match pairs of 3 and unlock coins to upgrades your farm after each level.",
+      "instructions": "Match the same types of vegetables to win the levels",
+      "game_id": {
+        "global_id": 9823,
+        "batch_id": 7,
+        "extraction_order": 9823
+      }
+    },
+    {
+      "basic_info": {
+        "id": "shooting-zombie-fps-xtreme-good-vs-bad-boys",
+        "name": "Shooting Zombie fps Xtreme Good vs Bad Boys",
+        "url": "https://gamedistribution.com/games/shooting-zombie-fps-xtreme-good-vs-bad-boys/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:09.734676",
+        "global_id": 9824
+      },
+      "extraction_time": "2025-06-11T03:59:10.413910",
+      "url": "https://gamedistribution.com/games/shooting-zombie-fps-xtreme-good-vs-bad-boys/",
+      "game_info": {
+        "title": "Shooting Zombie fps Xtreme Good vs Bad Boys",
+        "publisher": "BestCrazyGames.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=BestCrazyGames.com",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Shooter"
+      ],
+      "tags": [
+        "multiplayer",
+        "realistic"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/483afadadbf943c8b2ec7d4594da012b-512x384.jpeg",
+          "size": "512x384",
+          "alt": "483afadadbf943c8b2ec7d4594da012b-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/483afadadbf943c8b2ec7d4594da012b/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/483afadadbf943c8b2ec7d4594da012b/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "800",
+        "height": "600"
+      },
+      "description": "Shooting Zombie fps Xtreme Good vs Bad Boys free to play against much enemy AI like soldier and realistic zombie, 5 game modes like gun game, survival, TDM, DM and much more, multiplayer play with friends and offline with 40 levels. Have fun here.",
+      "instructions": "WASD - move Mouse - shooting, aim, look around, change gun SPACE - jump TAB - menu SHIFT - run",
+      "game_id": {
+        "global_id": 9824,
+        "batch_id": 8,
+        "extraction_order": 9824
+      }
+    },
+    {
+      "basic_info": {
+        "id": "penguin-avoids",
+        "name": "Penguin Avoids",
+        "url": "https://gamedistribution.com/games/penguin-avoids/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.508759",
+        "global_id": 9826
+      },
+      "extraction_time": "2025-06-11T03:59:13.838451",
+      "url": "https://gamedistribution.com/games/penguin-avoids/",
+      "game_info": {
+        "title": "Penguin Avoids",
+        "publisher": "New Kids Games",
+        "publisher_url": "https://gamedistribution.com/games/?company=New%20Kids%20Games",
+        "mobile_compatible": "Mobile Web Compatible: IOS",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "animal",
+        "avoid",
+        "collect",
+        "skill"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/a59b92a2e8fc4be69a269465360aedb9-512x384.jpeg",
+          "size": "512x384",
+          "alt": "a59b92a2e8fc4be69a269465360aedb9-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/a59b92a2e8fc4be69a269465360aedb9-512x512.jpeg",
+          "size": "512x512",
+          "alt": "a59b92a2e8fc4be69a269465360aedb9-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/a59b92a2e8fc4be69a269465360aedb9/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"480\" height=\"860\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/a59b92a2e8fc4be69a269465360aedb9/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "480",
+        "height": "860"
+      },
+      "description": "Our hero is ready to show you this in the game Penguin Avoids. He is just about to collect gold stars, which have gone down much lower than usual, there are opportunities to get them, and we ate a good job. Click on the penguin and he will bounce. Skip all dangerous objects to achieve the goal. Pay attention to the sharp edges of the field to the left and to the right, it is undesirable to touch them.",
+      "instructions": "Use mouse or touch the screen!",
+      "game_id": {
+        "global_id": 9826,
+        "batch_id": 10,
+        "extraction_order": 9826
+      }
+    },
+    {
+      "basic_info": {
+        "id": "toy-car-simulator-car-simulation-game",
+        "name": "Toy Car Simulator : Car Simulation Game",
+        "url": "https://gamedistribution.com/games/toy-car-simulator-car-simulation-game/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.654605",
+        "global_id": 9830
+      },
+      "extraction_time": "2025-06-11T03:59:23.740431",
+      "url": "https://gamedistribution.com/games/toy-car-simulator-car-simulation-game/",
+      "game_info": {
+        "title": "Toy Car Simulator : Car Simulation Game",
+        "publisher": "MAS PRODUCTION",
+        "publisher_url": "https://gamedistribution.com/games/?company=MAS%20PRODUCTION",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Simulation"
+      ],
+      "tags": [
+        "3d",
+        "car"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/0993d8ab20a44f17aa50260b5ec868ab-512x384.jpeg",
+          "size": "512x384",
+          "alt": "0993d8ab20a44f17aa50260b5ec868ab-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/0993d8ab20a44f17aa50260b5ec868ab/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/0993d8ab20a44f17aa50260b5ec868ab/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "960",
+        "height": "600"
+      },
+      "description": "Toy Car Simulator : Car Simulator Game is a real fun and enjoyment for kids. In this car simulation you have 3 modes and different levels to play.",
+      "instructions": "w for forward, d for left, a for right, s for reverse",
+      "game_id": {
+        "global_id": 9830,
+        "batch_id": 14,
+        "extraction_order": 9830
+      }
+    },
+    {
+      "basic_info": {
+        "id": "cat-doctor-sim",
+        "name": "Cat Doctor Sim",
+        "url": "https://gamedistribution.com/games/cat-doctor-sim/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.579775",
+        "global_id": 9828
+      },
+      "extraction_time": "2025-06-11T03:59:19.730608",
+      "url": "https://gamedistribution.com/games/cat-doctor-sim/",
+      "game_info": {
+        "title": "Cat Doctor Sim",
+        "publisher": "Online Games io",
+        "publisher_url": "https://gamedistribution.com/games/?company=Online%20Games%20io",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Simulation"
+      ],
+      "tags": [
+        "cat",
+        "doctor"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/705e8ca093f84c2d8de69abcf2ba95eb-512x384.jpeg",
+          "size": "512x384",
+          "alt": "705e8ca093f84c2d8de69abcf2ba95eb-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/705e8ca093f84c2d8de69abcf2ba95eb-512x512.jpeg",
+          "size": "512x512",
+          "alt": "705e8ca093f84c2d8de69abcf2ba95eb-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/705e8ca093f84c2d8de69abcf2ba95eb/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"540\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/705e8ca093f84c2d8de69abcf2ba95eb/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "540",
+        "height": "720"
+      },
+      "description": "Work as a vet and take care of cute but sick cats. Features • Good graphics • Multiple levels",
+      "instructions": "Controls • Use mouse to play",
+      "game_id": {
+        "global_id": 9828,
+        "batch_id": 12,
+        "extraction_order": 9828
+      }
+    },
+    {
+      "basic_info": {
+        "id": "monster-truck-impossible-stunt-track",
+        "name": "Monster Truck Impossible Stunt Track",
+        "url": "https://gamedistribution.com/games/monster-truck-impossible-stunt-track/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.531239",
+        "global_id": 9827
+      },
+      "extraction_time": "2025-06-11T03:59:18.721553",
+      "url": "https://gamedistribution.com/games/monster-truck-impossible-stunt-track/",
+      "game_info": {
+        "title": "Monster Truck Impossible Stunt Track",
+        "publisher": "chipchop",
+        "publisher_url": "https://gamedistribution.com/games/?company=chipchop",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "3d",
+        "drift",
+        "offroad",
+        "stunts",
+        "track",
+        "truck"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/42e54d327822408cbc62d00b79374bd8-512x384.jpeg",
+          "size": "512x384",
+          "alt": "42e54d327822408cbc62d00b79374bd8-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/42e54d327822408cbc62d00b79374bd8-512x512.jpeg",
+          "size": "512x512",
+          "alt": "42e54d327822408cbc62d00b79374bd8-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/42e54d327822408cbc62d00b79374bd8-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "42e54d327822408cbc62d00b79374bd8-1280x720.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/42e54d327822408cbc62d00b79374bd8-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "42e54d327822408cbc62d00b79374bd8-1280x550.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/42e54d327822408cbc62d00b79374bd8/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/42e54d327822408cbc62d00b79374bd8/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "900",
+        "height": "600"
+      },
+      "description": "Each of the deadliest stunt races prove your worth as a professional monster truck stunt driver strength and make it sure that you will find it most difficult yet most addictive and interesting.",
+      "instructions": "High quality thrilling background music gives it a real life effect. 3D animation of the trucks and edgy tracks brings out more life into mega truck stunt race. High air jumps and high tracks makes the game deadliest.",
+      "game_id": {
+        "global_id": 9827,
+        "batch_id": 11,
+        "extraction_order": 9827
+      }
+    },
+    {
+      "basic_info": {
+        "id": "body-builder-ring-fighting-arena-wrestling-games",
+        "name": "Body Builder Ring Fighting Arena : Wrestling Games",
+        "url": "https://gamedistribution.com/games/body-builder-ring-fighting-arena-wrestling-games/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.633923",
+        "global_id": 9829
+      },
+      "extraction_time": "2025-06-11T03:59:25.329812",
+      "url": "https://gamedistribution.com/games/body-builder-ring-fighting-arena-wrestling-games/",
+      "game_info": {
+        "title": "Body Builder Ring Fighting Arena : Wrestling Games",
+        "publisher": "zuma studio",
+        "publisher_url": "https://gamedistribution.com/games/?company=zuma%20studio",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Battle"
+      ],
+      "tags": [
+        "3d",
+        "arena",
+        "challenge",
+        "escape",
+        "fighting",
+        "party",
+        "top"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/44f1fd28359b4a3db4ac6cecd64902ed-512x512.jpeg",
+          "size": "512x512",
+          "alt": "44f1fd28359b4a3db4ac6cecd64902ed-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/44f1fd28359b4a3db4ac6cecd64902ed-512x384.jpeg",
+          "size": "512x384",
+          "alt": "44f1fd28359b4a3db4ac6cecd64902ed-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/44f1fd28359b4a3db4ac6cecd64902ed-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "44f1fd28359b4a3db4ac6cecd64902ed-1280x720.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/44f1fd28359b4a3db4ac6cecd64902ed-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "44f1fd28359b4a3db4ac6cecd64902ed-1280x550.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/44f1fd28359b4a3db4ac6cecd64902ed/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/44f1fd28359b4a3db4ac6cecd64902ed/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "900",
+        "height": "600"
+      },
+      "description": "This bodybuildig game is new idea that is totally with the new concept of karate, fight club, westling games, judo, boxing, aikido with the wide range of fitness lessons.",
+      "instructions": "- Play with Keyboard Arrow keys - Keyboard Control Z , X ,C and Space",
+      "game_id": {
+        "global_id": 9829,
+        "batch_id": 13,
+        "extraction_order": 9829
+      }
+    },
+    {
+      "basic_info": {
+        "id": "fruit-ninja",
+        "name": "Fruit Slicing",
+        "url": "https://gamedistribution.com/games/fruit-ninja/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.673461",
+        "global_id": 9831
+      },
+      "extraction_time": "2025-06-11T03:59:35.382313",
+      "url": "https://gamedistribution.com/games/fruit-ninja/",
+      "game_info": {
+        "title": "Fruit Slicing",
+        "publisher": "BestGamesFreePlay.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=BestGamesFreePlay.com",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [
+          "English",
+          "Simple English"
+        ],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "arcade",
+        "blade",
+        "fruits",
+        "ninja",
+        "relax",
+        "slice",
+        "slicing",
+        "top"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/2da1f019d9954a2c94ab30f6646e043d-512x512.jpeg",
+          "size": "512x512",
+          "alt": "2da1f019d9954a2c94ab30f6646e043d-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/2da1f019d9954a2c94ab30f6646e043d-512x384.jpeg",
+          "size": "512x384",
+          "alt": "2da1f019d9954a2c94ab30f6646e043d-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/2da1f019d9954a2c94ab30f6646e043d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/2da1f019d9954a2c94ab30f6646e043d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "960",
+        "height": "540"
+      },
+      "description": "An addicted typical arcade game, simple to play, nice design, fun and relax-able. Slice all the fruits before the time runs out. Some fruits are harder to be sliced (need to slice twice or more to destroy them). Avoid the bomb or your score will be deducted. Collect the special items for more advantages (eg. clock items will slow down the time (or the movement speed), banana items will add bonus scores). Prove that you are a skilled fruit ninja. PLAY NOW!",
+      "instructions": "Swiping to slice fruits.",
+      "game_id": {
+        "global_id": 9831,
+        "batch_id": 15,
+        "extraction_order": 9831
+      }
+    },
+    {
+      "basic_info": {
+        "id": "blackjack-king-offline",
+        "name": "Blackjack King Offline",
+        "url": "https://gamedistribution.com/games/blackjack-king-offline/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.719404",
+        "global_id": 9832
+      },
+      "extraction_time": "2025-06-11T03:59:37.263388",
+      "url": "https://gamedistribution.com/games/blackjack-king-offline/",
+      "game_info": {
+        "title": "Blackjack King Offline",
+        "publisher": "BestGamesFreePlay.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=BestGamesFreePlay.com",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [
+          "English",
+          "Simple English"
+        ],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Cards"
+      ],
+      "tags": [
+        "arcade",
+        "casino",
+        "top"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/e9571879b44c4f52b747d82202b4b489-512x512.jpeg",
+          "size": "512x512",
+          "alt": "e9571879b44c4f52b747d82202b4b489-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/e9571879b44c4f52b747d82202b4b489-512x384.jpeg",
+          "size": "512x384",
+          "alt": "e9571879b44c4f52b747d82202b4b489-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/e9571879b44c4f52b747d82202b4b489/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"540\" height=\"960\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/e9571879b44c4f52b747d82202b4b489/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "540",
+        "height": "960"
+      },
+      "description": "A typical/traditional card game: Blackjack. Enjoy playing casino game without worry of losing real money. Very fun and addicted. PLAY NOW!",
+      "instructions": "Tap or Mouse control.",
+      "game_id": {
+        "global_id": 9832,
+        "batch_id": 16,
+        "extraction_order": 9832
+      }
+    },
+    {
+      "basic_info": {
+        "id": "creepy-creatures-match-3",
+        "name": "Creepy Creatures Match 3",
+        "url": "https://gamedistribution.com/games/creepy-creatures-match-3/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.798240",
+        "global_id": 9836
+      },
+      "extraction_time": "2025-06-11T03:59:42.011409",
+      "url": "https://gamedistribution.com/games/creepy-creatures-match-3/",
+      "game_info": {
+        "title": "Creepy Creatures Match 3",
+        "publisher": "STA network",
+        "publisher_url": "https://gamedistribution.com/games/?company=STA%20network",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Match-3"
+      ],
+      "tags": [],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/6c1b6c105a614393884a71ef0c0ba6c6-512x384.jpeg",
+          "size": "512x384",
+          "alt": "6c1b6c105a614393884a71ef0c0ba6c6-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/6c1b6c105a614393884a71ef0c0ba6c6-512x512.jpeg",
+          "size": "512x512",
+          "alt": "6c1b6c105a614393884a71ef0c0ba6c6-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/6c1b6c105a614393884a71ef0c0ba6c6/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/6c1b6c105a614393884a71ef0c0ba6c6/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1280",
+        "height": "720"
+      },
+      "description": "Creepy Creatures Match 3 – this cool game three in a row, in which you have to put the blocks of the same color in a series of three pieces or more to achieve the highest possible score, be careful to account the scale to the left did not fall too low, otherwise the game will be over. Enjoy the game!",
+      "instructions": "Use your mouse to play the game or tap on the screen!",
+      "game_id": {
+        "global_id": 9836,
+        "batch_id": 20,
+        "extraction_order": 9836
+      }
+    },
+    {
+      "basic_info": {
+        "id": "colorful-clock-1",
+        "name": "Colorful Clock",
+        "url": "https://gamedistribution.com/games/colorful-clock-1/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.778816",
+        "global_id": 9835
+      },
+      "extraction_time": "2025-06-11T03:59:44.733076",
+      "url": "https://gamedistribution.com/games/colorful-clock-1/",
+      "game_info": {
+        "title": "Colorful Clock",
+        "publisher": "MBG Network",
+        "publisher_url": "https://gamedistribution.com/games/?company=MBG%20Network",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "skill"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/6e6b63b615a34ebc8368adaf1650d944-512x384.jpeg",
+          "size": "512x384",
+          "alt": "6e6b63b615a34ebc8368adaf1650d944-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/6e6b63b615a34ebc8368adaf1650d944-512x512.jpeg",
+          "size": "512x512",
+          "alt": "6e6b63b615a34ebc8368adaf1650d944-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/6e6b63b615a34ebc8368adaf1650d944/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"738\" height=\"1366\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/6e6b63b615a34ebc8368adaf1650d944/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "738",
+        "height": "1366"
+      },
+      "description": "The clock is moving very fast and in a very weird way! All you have to do is to match the color of the clock’s hand with the circle around it by clicking on the screen on the right time. It may seems easy, but the clock will move faster and faster as you progress and it changes color and direction after every successful match. You will lose if you don’t click on the right time or you match the wrong colors. So focus and try to earn as much score as you can!",
+      "instructions": "Use your mouse to play the game or tap on the screen!",
+      "game_id": {
+        "global_id": 9835,
+        "batch_id": 19,
+        "extraction_order": 9835
+      }
+    },
+    {
+      "basic_info": {
+        "id": "kill-virus",
+        "name": "Kill Virus",
+        "url": "https://gamedistribution.com/games/kill-virus/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.737632",
+        "global_id": 9833
+      },
+      "extraction_time": "2025-06-11T03:59:45.417097",
+      "url": "https://gamedistribution.com/games/kill-virus/",
+      "game_info": {
+        "title": "Kill Virus",
+        "publisher": "WillingGames.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=WillingGames.com",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "collect"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/57f5eb7d0413444aa6bc6800a2504c34-512x384.jpeg",
+          "size": "512x384",
+          "alt": "57f5eb7d0413444aa6bc6800a2504c34-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/57f5eb7d0413444aa6bc6800a2504c34-512x512.jpeg",
+          "size": "512x512",
+          "alt": "57f5eb7d0413444aa6bc6800a2504c34-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/57f5eb7d0413444aa6bc6800a2504c34/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"640\" height=\"832\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/57f5eb7d0413444aa6bc6800a2504c34/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "640",
+        "height": "832"
+      },
+      "description": "Connect the virus to kill them in this html5 game. Press any virus to start. Now move the 'mouse or finger tip' on identical adjacent virus (horizontally, vertically or diagonally). Select at least 3 virus. Release mouse button to make them match. Each 6th virus will give a bonus. More than 7 virus will give you a time bonus. Kill the request virus within the giving time, or you will lose the game. What's the max level can you play?",
+      "instructions": "Use mouse to play this html5 mobile kill virus games.",
+      "game_id": {
+        "global_id": 9833,
+        "batch_id": 17,
+        "extraction_order": 9833
+      }
+    },
+    {
+      "basic_info": {
+        "id": "running-horse-slide",
+        "name": "Running Horse Slide",
+        "url": "https://gamedistribution.com/games/running-horse-slide/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.759541",
+        "global_id": 9834
+      },
+      "extraction_time": "2025-06-11T03:59:46.227195",
+      "url": "https://gamedistribution.com/games/running-horse-slide/",
+      "game_info": {
+        "title": "Running Horse Slide",
+        "publisher": "WillingGames.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=WillingGames.com",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "animal",
+        "horse"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/737eb6819fcd423dbf003515291aee08-512x384.jpeg",
+          "size": "512x384",
+          "alt": "737eb6819fcd423dbf003515291aee08-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/737eb6819fcd423dbf003515291aee08-512x512.jpeg",
+          "size": "512x512",
+          "alt": "737eb6819fcd423dbf003515291aee08-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/737eb6819fcd423dbf003515291aee08/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1920\" height=\"1080\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/737eb6819fcd423dbf003515291aee08/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1920",
+        "height": "1080"
+      },
+      "description": "Play this slide puzzle games of the running horses. It's include 3 images and 3 modes to play.",
+      "instructions": "Use mouse to play this html5 running horse games.",
+      "game_id": {
+        "global_id": 9834,
+        "batch_id": 18,
+        "extraction_order": 9834
+      }
+    },
+    {
+      "basic_info": {
+        "id": "circus-girl-jigsaw",
+        "name": "Circus Girl Jigsaw",
+        "url": "https://gamedistribution.com/games/circus-girl-jigsaw/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.815673",
+        "global_id": 9837
+      },
+      "extraction_time": "2025-06-11T03:59:51.866329",
+      "url": "https://gamedistribution.com/games/circus-girl-jigsaw/",
+      "game_info": {
+        "title": "Circus Girl Jigsaw",
+        "publisher": "Shunda Inc",
+        "publisher_url": "https://gamedistribution.com/games/?company=Shunda%20Inc",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "circus"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/ec7095e1e3b04cbb8767d19f2d75e22d-512x384.jpeg",
+          "size": "512x384",
+          "alt": "ec7095e1e3b04cbb8767d19f2d75e22d-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/ec7095e1e3b04cbb8767d19f2d75e22d-512x512.jpeg",
+          "size": "512x512",
+          "alt": "ec7095e1e3b04cbb8767d19f2d75e22d-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/ec7095e1e3b04cbb8767d19f2d75e22d-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "ec7095e1e3b04cbb8767d19f2d75e22d-1280x550.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/ec7095e1e3b04cbb8767d19f2d75e22d-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "ec7095e1e3b04cbb8767d19f2d75e22d-1280x720.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/ec7095e1e3b04cbb8767d19f2d75e22d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/ec7095e1e3b04cbb8767d19f2d75e22d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1280",
+        "height": "720"
+      },
+      "description": "Have you ever wondered what it would be like to be in the circus? Well, now you can live it through completing these circus jigsaws of skilled, acrobatic girls. You can choose 3 types of levels, each one harder than the last. Are you up for it? Have fun!",
+      "instructions": "Click the mouse or tap the screen!",
+      "game_id": {
+        "global_id": 9837,
+        "batch_id": 21,
+        "extraction_order": 9837
+      }
+    },
+    {
+      "basic_info": {
+        "id": "princess-collage-random-day",
+        "name": "Princess Collage Random Day",
+        "url": "https://gamedistribution.com/games/princess-collage-random-day/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.848921",
+        "global_id": 9838
+      },
+      "extraction_time": "2025-06-11T03:59:53.900510",
+      "url": "https://gamedistribution.com/games/princess-collage-random-day/",
+      "game_info": {
+        "title": "Princess Collage Random Day",
+        "publisher": "MGS",
+        "publisher_url": "https://gamedistribution.com/games/?company=MGS",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids"
+        ]
+      },
+      "genres": [
+        "Dress-up"
+      ],
+      "tags": [
+        "makeover",
+        "makeup"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/c23584afa24c456bba4de1c7df866dc1-512x512.jpeg",
+          "size": "512x512",
+          "alt": "c23584afa24c456bba4de1c7df866dc1-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/c23584afa24c456bba4de1c7df866dc1-512x384.jpeg",
+          "size": "512x384",
+          "alt": "c23584afa24c456bba4de1c7df866dc1-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/c23584afa24c456bba4de1c7df866dc1/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/c23584afa24c456bba4de1c7df866dc1/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "800",
+        "height": "600"
+      },
+      "description": "Our princess are enjoying their college life. Random day, The girls are getting ready for different events. Let's help our princess to get ready for the random day like party, sports, classroom and dorm party. Have a great day.",
+      "instructions": "Use mouse to click",
+      "game_id": {
+        "global_id": 9838,
+        "batch_id": 22,
+        "extraction_order": 9838
+      }
+    },
+    {
+      "basic_info": {
+        "id": "cartoon-trucks-match-3",
+        "name": "Cartoon Trucks Match 3",
+        "url": "https://gamedistribution.com/games/cartoon-trucks-match-3/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.878745",
+        "global_id": 9839
+      },
+      "extraction_time": "2025-06-11T04:00:02.233872",
+      "url": "https://gamedistribution.com/games/cartoon-trucks-match-3/",
+      "game_info": {
+        "title": "Cartoon Trucks Match 3",
+        "publisher": "newgamess",
+        "publisher_url": "https://gamedistribution.com/games/?company=newgamess",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Match-3"
+      ],
+      "tags": [
+        "matching",
+        "truck"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/daab34ba46114ace8819742da247fd39-512x384.jpeg",
+          "size": "512x384",
+          "alt": "daab34ba46114ace8819742da247fd39-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/daab34ba46114ace8819742da247fd39-512x512.jpeg",
+          "size": "512x512",
+          "alt": "daab34ba46114ace8819742da247fd39-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/daab34ba46114ace8819742da247fd39/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/daab34ba46114ace8819742da247fd39/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "960",
+        "height": "540"
+      },
+      "description": "Change the place of two Cartoon Trucks to match 3 or more in a row, in which you have to put the balls of the same color in a series of three pieces or more to achieve the highest possible score, be careful to account the scale to the left did not fall too low, otherwise the game will be over.",
+      "instructions": "Use mouse only to play this game.",
+      "game_id": {
+        "global_id": 9839,
+        "batch_id": 23,
+        "extraction_order": 9839
+      }
+    },
+    {
+      "basic_info": {
+        "id": "classic-slide-puzzle",
+        "name": "Classic Slide Puzzle",
+        "url": "https://gamedistribution.com/games/classic-slide-puzzle/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.945501",
+        "global_id": 9841
+      },
+      "extraction_time": "2025-06-11T04:00:08.746345",
+      "url": "https://gamedistribution.com/games/classic-slide-puzzle/",
+      "game_info": {
+        "title": "Classic Slide Puzzle",
+        "publisher": "MBG Network",
+        "publisher_url": "https://gamedistribution.com/games/?company=MBG%20Network",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "skill"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/31edf1260d2c4497a56c32250d462249-512x384.jpeg",
+          "size": "512x384",
+          "alt": "31edf1260d2c4497a56c32250d462249-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/31edf1260d2c4497a56c32250d462249-512x512.jpeg",
+          "size": "512x512",
+          "alt": "31edf1260d2c4497a56c32250d462249-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/31edf1260d2c4497a56c32250d462249/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"300\" height=\"416\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/31edf1260d2c4497a56c32250d462249/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "300",
+        "height": "416"
+      },
+      "description": "Another Classic sliding game with numbers. You task is to arrange the numbers in order of magnitude. Sliding the numbers and try to do this fastest as you can. Heave Fun!",
+      "instructions": "Use your mouse to play the game or tap on the screen!",
+      "game_id": {
+        "global_id": 9841,
+        "batch_id": 25,
+        "extraction_order": 9841
+      }
+    },
+    {
+      "basic_info": {
+        "id": "aliens-in-space-hidden",
+        "name": "Aliens In Space Hidden",
+        "url": "https://gamedistribution.com/games/aliens-in-space-hidden/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.987082",
+        "global_id": 9842
+      },
+      "extraction_time": "2025-06-11T04:00:09.383894",
+      "url": "https://gamedistribution.com/games/aliens-in-space-hidden/",
+      "game_info": {
+        "title": "Aliens In Space Hidden",
+        "publisher": "STA network",
+        "publisher_url": "https://gamedistribution.com/games/?company=STA%20network",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "hidden"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/edc9a335f37a4b4d9d3099dc11ce221f-512x384.jpeg",
+          "size": "512x384",
+          "alt": "edc9a335f37a4b4d9d3099dc11ce221f-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/edc9a335f37a4b4d9d3099dc11ce221f-512x512.jpeg",
+          "size": "512x512",
+          "alt": "edc9a335f37a4b4d9d3099dc11ce221f-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/edc9a335f37a4b4d9d3099dc11ce221f/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/edc9a335f37a4b4d9d3099dc11ce221f/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1280",
+        "height": "720"
+      },
+      "description": "Aliens In Space Hidden is a free online game from genre of memory and monsters truck games. Flip the tiles and try to match them up in pairs. Pair up all the tiles to win. Try to complete the game in as few moves as possible! There are is 4 levels. Use mouse to click or tap to screen on the squares. Concentrate yourself and start to play. Enjoy!",
+      "instructions": "Use your mouse to play or tap on the screen!",
+      "game_id": {
+        "global_id": 9842,
+        "batch_id": 26,
+        "extraction_order": 9842
+      }
+    },
+    {
+      "basic_info": {
+        "id": "high-jump",
+        "name": "High Jump",
+        "url": "https://gamedistribution.com/games/high-jump/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:16.910930",
+        "global_id": 9840
+      },
+      "extraction_time": "2025-06-11T04:00:09.218350",
+      "url": "https://gamedistribution.com/games/high-jump/",
+      "game_info": {
+        "title": "High Jump",
+        "publisher": "Fun Best Games",
+        "publisher_url": "https://gamedistribution.com/games/?company=Fun%20Best%20Games",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "jumping",
+        "skill"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/8716890194794b309a4680a0cb36a61b-512x384.jpeg",
+          "size": "512x384",
+          "alt": "8716890194794b309a4680a0cb36a61b-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/8716890194794b309a4680a0cb36a61b-512x512.jpeg",
+          "size": "512x512",
+          "alt": "8716890194794b309a4680a0cb36a61b-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/8716890194794b309a4680a0cb36a61b-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "8716890194794b309a4680a0cb36a61b-1280x550.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/8716890194794b309a4680a0cb36a61b-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "8716890194794b309a4680a0cb36a61b-1280x720.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/8716890194794b309a4680a0cb36a61b/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"450\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/8716890194794b309a4680a0cb36a61b/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "450",
+        "height": "800"
+      },
+      "description": "Our hero will go to a special site and there will stand on the platform. From different sides will appear a different kind of plate, which will move at different speeds. You will have to wait until the platform comes up to our hero and click on the screen. The hero will jump and jump on the block. For this you will get points. If you do not have time to do this, then your hero will hit the block and it will fall off the platform.",
+      "instructions": "Use mouse or touch the screen!",
+      "game_id": {
+        "global_id": 9840,
+        "batch_id": 24,
+        "extraction_order": 9840
+      }
+    },
+    {
+      "basic_info": {
+        "id": "animal-dash-and-jump",
+        "name": "Animal Dash and Jump",
+        "url": "https://gamedistribution.com/games/animal-dash-and-jump/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.044751",
+        "global_id": 9844
+      },
+      "extraction_time": "2025-06-11T04:00:15.196569",
+      "url": "https://gamedistribution.com/games/animal-dash-and-jump/",
+      "game_info": {
+        "title": "Animal Dash and Jump",
+        "publisher": "Playschoolgames",
+        "publisher_url": "https://gamedistribution.com/games/?company=Playschoolgames",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Agility"
+      ],
+      "tags": [
+        "animal",
+        "obstacle",
+        "point-and-click",
+        "skin",
+        "speed"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/5f16be1e25424acb8b370609009e3124-512x384.jpeg",
+          "size": "512x384",
+          "alt": "5f16be1e25424acb8b370609009e3124-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/5f16be1e25424acb8b370609009e3124-512x512.jpeg",
+          "size": "512x512",
+          "alt": "5f16be1e25424acb8b370609009e3124-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/5f16be1e25424acb8b370609009e3124/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"450\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/5f16be1e25424acb8b370609009e3124/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "800",
+        "height": "450"
+      },
+      "description": "You can choose from 48 characters in this game full of Animal Crossing, challenging obstacles and fast animals. Choose the character you want on 3 challenging tracks and enjoy the game. Don't let the colorful cute graphics fool you, finishing this game will be a great success, because this game appeals to professionals.",
+      "instructions": "Left Click or Touch",
+      "game_id": {
+        "global_id": 9844,
+        "batch_id": 28,
+        "extraction_order": 9844
+      }
+    },
+    {
+      "basic_info": {
+        "id": "knife-hit-up-1",
+        "name": "Knife Hit Up",
+        "url": "https://gamedistribution.com/games/knife-hit-up-1/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.009050",
+        "global_id": 9843
+      },
+      "extraction_time": "2025-06-11T04:00:15.768252",
+      "url": "https://gamedistribution.com/games/knife-hit-up-1/",
+      "game_info": {
+        "title": "Knife Hit Up",
+        "publisher": "BestGamesFreePlay.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=BestGamesFreePlay.com",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [
+          "English",
+          "Simple English"
+        ],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "arcade",
+        "knife",
+        "relax",
+        "throwing",
+        "top"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/2ccf176ff7c34c93951cf4995589f787-512x512.jpeg",
+          "size": "512x512",
+          "alt": "2ccf176ff7c34c93951cf4995589f787-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/2ccf176ff7c34c93951cf4995589f787-512x384.jpeg",
+          "size": "512x384",
+          "alt": "2ccf176ff7c34c93951cf4995589f787-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/2ccf176ff7c34c93951cf4995589f787/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"540\" height=\"960\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/2ccf176ff7c34c93951cf4995589f787/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "540",
+        "height": "960"
+      },
+      "description": "An addicted arcade game, simple to control, nice design, fun and relax-able. Prove that you are a skilled knife-throwing master. PLAY NOW!",
+      "instructions": "Tap or Click to throw knives",
+      "game_id": {
+        "global_id": 9843,
+        "batch_id": 27,
+        "extraction_order": 9843
+      }
+    },
+    {
+      "basic_info": {
+        "id": "galactic-judge",
+        "name": "Galactic Judge",
+        "url": "https://gamedistribution.com/games/galactic-judge/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.064365",
+        "global_id": 9845
+      },
+      "extraction_time": "2025-06-11T04:00:18.408837",
+      "url": "https://gamedistribution.com/games/galactic-judge/",
+      "game_info": {
+        "title": "Galactic Judge",
+        "publisher": "kiz10.com",
+        "publisher_url": "https://gamedistribution.com/games/?company=kiz10.com",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male"
+        ],
+        "age_groups": [
+          "Teens",
+          "YoungAdults"
+        ]
+      },
+      "genres": [
+        "Shooter"
+      ],
+      "tags": [],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/bddae93dac474d8db2c7170efa121395-512x384.jpeg",
+          "size": "512x384",
+          "alt": "bddae93dac474d8db2c7170efa121395-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/bddae93dac474d8db2c7170efa121395-512x512.jpeg",
+          "size": "512x512",
+          "alt": "bddae93dac474d8db2c7170efa121395-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/bddae93dac474d8db2c7170efa121395/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"390\" height=\"700\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/bddae93dac474d8db2c7170efa121395/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "390",
+        "height": "700"
+      },
+      "description": "Take control of a combat space fighter and fight hordes of space pirates.Improve your armor and weapons, unlock achievements and spare no one by clearing the level by 100%!",
+      "instructions": "Mouse or Touch for Play",
+      "game_id": {
+        "global_id": 9845,
+        "batch_id": 29,
+        "extraction_order": 9845
+      }
+    },
+    {
+      "basic_info": {
+        "id": "stack-ball-2",
+        "name": "Stack Ball 2",
+        "url": "https://gamedistribution.com/games/stack-ball-2/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.106487",
+        "global_id": 9846
+      },
+      "extraction_time": "2025-06-11T04:00:39.947602",
+      "url": "https://gamedistribution.com/games/stack-ball-2/",
+      "game_info": {
+        "title": "Stack Ball 2",
+        "publisher": "Gamearcade.org",
+        "publisher_url": "https://gamedistribution.com/games/?company=Gamearcade.org",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "3d",
+        "arcade",
+        "ball",
+        "stack"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/3544a1ee19d246e8a875a81f2d90e314-512x384.jpeg",
+          "size": "512x384",
+          "alt": "3544a1ee19d246e8a875a81f2d90e314-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/3544a1ee19d246e8a875a81f2d90e314-512x512.jpeg",
+          "size": "512x512",
+          "alt": "3544a1ee19d246e8a875a81f2d90e314-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/3544a1ee19d246e8a875a81f2d90e314/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"450\" height=\"800\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/3544a1ee19d246e8a875a81f2d90e314/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "450",
+        "height": "800"
+      },
+      "description": "Stack Ball is a 3d arcade game where players smash, bump and bounce through revolving helix platforms to reach the end. Sound easy? You wish!! Your ball smashes like a brick through colorful platforms that block its descent, but if you hit a black one, it's all over! Your ball shatters to pieces and you have to start your fall all over again. But even black platforms are no match for a fireball falling at full speed!",
+      "instructions": "Tap or Hold Mouse to play!",
+      "game_id": {
+        "global_id": 9846,
+        "batch_id": 31,
+        "extraction_order": 9846
+      }
+    },
+    {
+      "basic_info": {
+        "id": "prison-escape-plan",
+        "name": "Prison Escape Plan",
+        "url": "https://gamedistribution.com/games/prison-escape-plan/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.081488",
+        "global_id": 8690
+      },
+      "extraction_time": "2025-06-11T04:00:40.657997",
+      "url": "https://gamedistribution.com/games/prison-escape-plan/",
+      "game_info": {
+        "title": "Prison Escape Plan",
+        "publisher": "Hitgames.org",
+        "publisher_url": "https://gamedistribution.com/games/?company=Hitgames.org",
+        "mobile_compatible": "Mobile Web Compatible: IOS - Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "YoungAdults"
+        ]
+      },
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "3d",
+        "boys",
+        "escape",
+        "point-and-click",
+        "prison"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/ca1282ac2465433fb608eab9a9285bb2-512x384.jpeg",
+          "size": "512x384",
+          "alt": "ca1282ac2465433fb608eab9a9285bb2-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/ca1282ac2465433fb608eab9a9285bb2-512x512.jpeg",
+          "size": "512x512",
+          "alt": "ca1282ac2465433fb608eab9a9285bb2-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/ca1282ac2465433fb608eab9a9285bb2-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "ca1282ac2465433fb608eab9a9285bb2-1280x720.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/ca1282ac2465433fb608eab9a9285bb2-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "ca1282ac2465433fb608eab9a9285bb2-1280x550.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/ca1282ac2465433fb608eab9a9285bb2/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/ca1282ac2465433fb608eab9a9285bb2/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "900",
+        "height": "600"
+      },
+      "description": "In Prison Escape Plan, 3 prisoners decide to escape from prison. A plan is required for this. But 3 prisoners cannot create a plan. They ask for help from this professor. Your task is to kidnap these 3 prisoners from prison as professors. Remember, you shouldn't be caught by cops and detectors. A fluent game awaits you with +50 different levels.",
+      "instructions": "Mouse Swipe or Touch",
+      "game_id": {
+        "global_id": 8690,
+        "batch_id": 30,
+        "extraction_order": 8690
+      }
+    },
+    {
+      "basic_info": {
+        "id": "us-army-commando-elite-commando-war",
+        "name": "US Army Commando : Elite Commando War",
+        "url": "https://gamedistribution.com/games/us-army-commando-elite-commando-war/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.124676",
+        "global_id": 9847
+      },
+      "extraction_time": "2025-06-11T04:00:41.234833",
+      "url": "https://gamedistribution.com/games/us-army-commando-elite-commando-war/",
+      "game_info": {
+        "title": "US Army Commando : Elite Commando War",
+        "publisher": "zuma studio",
+        "publisher_url": "https://gamedistribution.com/games/?company=zuma%20studio",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Battle"
+      ],
+      "tags": [
+        "3d",
+        "army",
+        "battlefield",
+        "blast",
+        "challenge",
+        "combat",
+        "explosion",
+        "fighting",
+        "hardcore",
+        "hero",
+        "military",
+        "tank",
+        "war",
+        "warrior",
+        "weapons"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe-512x384.jpeg",
+          "size": "512x384",
+          "alt": "cf7fcff9b2a14661bd9822c20a21bdfe-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe-512x512.jpeg",
+          "size": "512x512",
+          "alt": "cf7fcff9b2a14661bd9822c20a21bdfe-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "cf7fcff9b2a14661bd9822c20a21bdfe-1280x720.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "cf7fcff9b2a14661bd9822c20a21bdfe-1280x550.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"900\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/cf7fcff9b2a14661bd9822c20a21bdfe/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "900",
+        "height": "600"
+      },
+      "description": "Welcome to the best of new action-packed games like Commando Shooting Battle War 3D, where you are going to play multiple sniper and offline shooting missions. If you really love to play commando gun shooting games in the shooting games category, we have to know what you need. You have to complete all shooting missions to become number one commando in this world best action and new adventure shooting games.",
+      "instructions": "1 A variety of assault rifles and secret weapons for players to choose 2 picture is real 3 according to radar reduction and aiming 4 real combat experience, rich fighting action and fighting sound 5 best first person shooting control experience 6 join the battle",
+      "game_id": {
+        "global_id": 9847,
+        "batch_id": 32,
+        "extraction_order": 9847
+      }
+    },
+    {
+      "basic_info": {
+        "id": "halloween-defence-1",
+        "name": "Halloween Defence",
+        "url": "https://gamedistribution.com/games/halloween-defence-1/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.171353",
+        "global_id": 9850
+      },
+      "extraction_time": "2025-06-11T04:00:45.600675",
+      "url": "https://gamedistribution.com/games/halloween-defence-1/",
+      "game_info": {
+        "title": "Halloween Defence",
+        "publisher": "FTG",
+        "publisher_url": "https://gamedistribution.com/games/?company=FTG",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "halloween"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/cc688e98c72a43a68fc99fa563c473a1-512x384.jpeg",
+          "size": "512x384",
+          "alt": "cc688e98c72a43a68fc99fa563c473a1-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/cc688e98c72a43a68fc99fa563c473a1-512x512.jpeg",
+          "size": "512x512",
+          "alt": "cc688e98c72a43a68fc99fa563c473a1-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/cc688e98c72a43a68fc99fa563c473a1/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1366\" height=\"768\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/cc688e98c72a43a68fc99fa563c473a1/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1366",
+        "height": "768"
+      },
+      "description": "You are attacked by Halloween pumpkins and you need to click or touch them to destroy the pumpkins. They will come from all sides and you need to be careful and to react fast.",
+      "instructions": "Tap on screen to play this game.",
+      "game_id": {
+        "global_id": 9850,
+        "batch_id": 35,
+        "extraction_order": 9850
+      }
+    },
+    {
+      "basic_info": {
+        "id": "scatty-maps-mexico",
+        "name": "Scatty Maps Mexico",
+        "url": "https://gamedistribution.com/games/scatty-maps-mexico/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.155507",
+        "global_id": 9849
+      },
+      "extraction_time": "2025-06-11T04:00:47.376342",
+      "url": "https://gamedistribution.com/games/scatty-maps-mexico/",
+      "game_info": {
+        "title": "Scatty Maps Mexico",
+        "publisher": "Physical Form",
+        "publisher_url": "https://gamedistribution.com/games/?company=Physical%20Form",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Teens"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "geography"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/924df5afa82b40538457489c8583fda6-512x384.jpeg",
+          "size": "512x384",
+          "alt": "924df5afa82b40538457489c8583fda6-512x384.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/924df5afa82b40538457489c8583fda6/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1024\" height=\"1000\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/924df5afa82b40538457489c8583fda6/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1024",
+        "height": "1000"
+      },
+      "description": "Do you know geography of Mexico? It's time to play and learn about this country. Place all Mexican states on right places in the shortest time possible. You'll be able to see their flags, capitals and population and extend your knowledge.",
+      "instructions": "Drag and drop maps of states on the place where they should be.",
+      "game_id": {
+        "global_id": 9849,
+        "batch_id": 34,
+        "extraction_order": 9849
+      }
+    },
+    {
+      "basic_info": {
+        "id": "dogs-jigsaw",
+        "name": "Dogs Jigsaw",
+        "url": "https://gamedistribution.com/games/dogs-jigsaw/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.140904",
+        "global_id": 9848
+      },
+      "extraction_time": "2025-06-11T04:00:48.118645",
+      "url": "https://gamedistribution.com/games/dogs-jigsaw/",
+      "game_info": {
+        "title": "Dogs Jigsaw",
+        "publisher": "Best Games",
+        "publisher_url": "https://gamedistribution.com/games/?company=Best%20Games",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Puzzle"
+      ],
+      "tags": [
+        "animal",
+        "dog"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/a7ab7619396b49538e1421598a4a9197-512x384.jpeg",
+          "size": "512x384",
+          "alt": "a7ab7619396b49538e1421598a4a9197-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/a7ab7619396b49538e1421598a4a9197-512x512.jpeg",
+          "size": "512x512",
+          "alt": "a7ab7619396b49538e1421598a4a9197-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/a7ab7619396b49538e1421598a4a9197/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"960\" height=\"540\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/a7ab7619396b49538e1421598a4a9197/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "960",
+        "height": "540"
+      },
+      "description": "Dogs Jigsaw game is free online game and you have 6 images in three modes to play. Choose one of the mode for the game that you previous choose mode easy, medium or hard and start to play. Drag and drop the pieces to solve the puzzle and create an image. Enjoy, and have fun!",
+      "instructions": "Use mouse to play this game.",
+      "game_id": {
+        "global_id": 9848,
+        "batch_id": 33,
+        "extraction_order": 9848
+      }
+    },
+    {
+      "basic_info": {
+        "id": "mortar-watermelon-1",
+        "name": "Mortar Watermelon",
+        "url": "https://gamedistribution.com/games/mortar-watermelon-1/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.200878",
+        "global_id": 9851
+      },
+      "extraction_time": "2025-06-11T04:00:54.238133",
+      "url": "https://gamedistribution.com/games/mortar-watermelon-1/",
+      "game_info": {
+        "title": "Mortar Watermelon",
+        "publisher": "newgamess",
+        "publisher_url": "https://gamedistribution.com/games/?company=newgamess",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Male",
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Casual"
+      ],
+      "tags": [
+        "logic"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/a7db7f9f68c74dfa8a3a50d891e12f9a-512x384.jpeg",
+          "size": "512x384",
+          "alt": "a7db7f9f68c74dfa8a3a50d891e12f9a-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/a7db7f9f68c74dfa8a3a50d891e12f9a-512x512.jpeg",
+          "size": "512x512",
+          "alt": "a7db7f9f68c74dfa8a3a50d891e12f9a-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/a7db7f9f68c74dfa8a3a50d891e12f9a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"1280\" height=\"720\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/a7db7f9f68c74dfa8a3a50d891e12f9a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "1280",
+        "height": "720"
+      },
+      "description": "Mortar Watermelon is interesting logical puzzle game with 36 levels. You need to collect more fruits on your way and to avoid blades and other obstacles while you move to the goal. use mouse to aim and move the basket with watermelon. Start to play and enjoy in this game.",
+      "instructions": "Use mouse to aim and play",
+      "game_id": {
+        "global_id": 9851,
+        "batch_id": 36,
+        "extraction_order": 9851
+      }
+    },
+    {
+      "basic_info": {
+        "id": "games",
+        "name": "Games",
+        "url": "https://gamedistribution.com/games/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:33.687252",
+        "global_id": 9854
+      },
+      "extraction_time": "2025-06-11T04:00:56.699864",
+      "url": "https://gamedistribution.com/games/",
+      "game_info": {
+        "title": null,
+        "publisher": null,
+        "publisher_url": null,
+        "mobile_compatible": null,
+        "languages": [],
+        "gender_tags": [],
+        "age_groups": []
+      },
+      "genres": [],
+      "tags": [],
+      "thumbnails": [],
+      "iframe_code": null,
+      "description": null,
+      "instructions": null,
+      "game_id": {
+        "global_id": 9854,
+        "batch_id": 39,
+        "extraction_order": 9854
+      }
+    },
+    {
+      "basic_info": {
+        "id": "colors-car-cartoon",
+        "name": "Colors Car Cartoon",
+        "url": "https://gamedistribution.com/games/colors-car-cartoon/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.219615",
+        "global_id": 9852
+      },
+      "extraction_time": "2025-06-11T04:00:56.762209",
+      "url": "https://gamedistribution.com/games/colors-car-cartoon/",
+      "game_info": {
+        "title": "Colors Car Cartoon",
+        "publisher": "MG Studio",
+        "publisher_url": "https://gamedistribution.com/games/?company=MG%20Studio",
+        "mobile_compatible": "Mobile Web Compatible: Android",
+        "languages": [],
+        "gender_tags": [
+          "Female"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Art"
+      ],
+      "tags": [
+        "coloring"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/69d09224b00b4f8db0753977bbbbe944-512x384.jpeg",
+          "size": "512x384",
+          "alt": "69d09224b00b4f8db0753977bbbbe944-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/69d09224b00b4f8db0753977bbbbe944-512x512.jpeg",
+          "size": "512x512",
+          "alt": "69d09224b00b4f8db0753977bbbbe944-512x512.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/69d09224b00b4f8db0753977bbbbe944/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"800\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/69d09224b00b4f8db0753977bbbbe944/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "800",
+        "height": "600"
+      },
+      "description": "Play and enjoy coloring super cartoon cars, use different colors and give new beginning for these super cartoon cars.",
+      "instructions": "Use mouse to click",
+      "game_id": {
+        "global_id": 9852,
+        "batch_id": 37,
+        "extraction_order": 9852
+      }
+    },
+    {
+      "basic_info": {
+        "id": "water-surfing-car-stunts-car-racing-game",
+        "name": "Water Surfing Car Stunts Car Racing Game",
+        "url": "https://gamedistribution.com/games/water-surfing-car-stunts-car-racing-game/",
+        "company": "未知开发商",
+        "collected_at": "2025-06-09T22:27:17.238972",
+        "global_id": 9853
+      },
+      "extraction_time": "2025-06-11T04:00:57.575895",
+      "url": "https://gamedistribution.com/games/water-surfing-car-stunts-car-racing-game/",
+      "game_info": {
+        "title": "Water Surfing Car Stunts Car Racing Game",
+        "publisher": "Inspire Game Studio",
+        "publisher_url": "https://gamedistribution.com/games/?company=Inspire%20Game%20Studio",
+        "mobile_compatible": "Mobile Web Compatible: No",
+        "languages": [],
+        "gender_tags": [
+          "Male"
+        ],
+        "age_groups": [
+          "Kids",
+          "Teens",
+          "YoungAdults",
+          "Adults",
+          "Seniors"
+        ]
+      },
+      "genres": [
+        "Racing & Driving"
+      ],
+      "tags": [
+        "3d",
+        "car",
+        "endless",
+        "jumping",
+        "stunts",
+        "underwater",
+        "water",
+        "waterpark",
+        "waterslide"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://img.gamedistribution.com/927f16ea6aa545bab4857f58a83a0da2-512x384.jpeg",
+          "size": "512x384",
+          "alt": "927f16ea6aa545bab4857f58a83a0da2-512x384.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/927f16ea6aa545bab4857f58a83a0da2-512x512.jpeg",
+          "size": "512x512",
+          "alt": "927f16ea6aa545bab4857f58a83a0da2-512x512.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/927f16ea6aa545bab4857f58a83a0da2-1280x720.jpeg",
+          "size": "1280x720",
+          "alt": "927f16ea6aa545bab4857f58a83a0da2-1280x720.jpeg"
+        },
+        {
+          "url": "https://img.gamedistribution.com/927f16ea6aa545bab4857f58a83a0da2-1280x550.jpeg",
+          "size": "1280x550",
+          "alt": "927f16ea6aa545bab4857f58a83a0da2-1280x550.jpeg"
+        }
+      ],
+      "iframe_code": {
+        "full_code": "<iframe src=\"https://html5.gamedistribution.com/927f16ea6aa545bab4857f58a83a0da2/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}\" width=\"960\" height=\"600\" scrolling=\"none\" frameborder=\"0\"></iframe>",
+        "src": "https://html5.gamedistribution.com/927f16ea6aa545bab4857f58a83a0da2/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+        "width": "960",
+        "height": "600"
+      },
+      "description": "water surfing stunts in agreeable and persuasive manner. It is a real gateway for you to have much broader perspectives than water surfer car stunt of simple matured car driving games. Try your level best to unlock new universe by contesting water car driving in professionally trained car driver during your stay in this current water sports game.",
+      "instructions": "hit play button and control the car with keyboard buttons",
+      "game_id": {
+        "global_id": 9853,
+        "batch_id": 38,
+        "extraction_order": 9853
+      }
+    }
+  ]
+}

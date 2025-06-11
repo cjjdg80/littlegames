@@ -1,0 +1,20 @@
+{
+  "totalGames": 1,
+  "oldestFirst": true,
+  "categories": [
+    {
+      "category": "action",
+      "count": 1,
+      "oldestGameIndex": 0,
+      "newestGameIndex": 0,
+      "generationOrder": [
+        {
+          "id": "test-game",
+          "slug": "test-game",
+          "originalIndex": 0,
+          "generationPriority": 0
+        }
+      ]
+    }
+  ]
+}
