@@ -1,0 +1,40 @@
+{
+  "total_categories": 7,
+  "categories": [
+    {
+      "name": "arcade",
+      "count": 4530,
+      "percentage": "45.6"
+    },
+    {
+      "name": "casual",
+      "count": 2415,
+      "percentage": "24.3"
+    },
+    {
+      "name": "puzzle",
+      "count": 1412,
+      "percentage": "14.2"
+    },
+    {
+      "name": "adventure",
+      "count": 1101,
+      "percentage": "11.1"
+    },
+    {
+      "name": "simulation",
+      "count": 274,
+      "percentage": "2.8"
+    },
+    {
+      "name": "strategy",
+      "count": 111,
+      "percentage": "1.1"
+    },
+    {
+      "name": "sports",
+      "count": 95,
+      "percentage": "1.0"
+    }
+  ]
+}

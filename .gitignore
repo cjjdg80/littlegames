@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/scripts/node_modules
 /.pnp
 .pnp.*
 .yarn/*
@@ -39,3 +40,60 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Large data files
+scripts/output/all_games_extracted.json
+scripts/output/all_games_continuous.json
+scripts/output/batches/
+
+# Test outputs (keep structure but ignore large files)
+test-output/seo/games/*.json
+test-output/seo/tags/*.json
+test-output/seo/categories/*.json
+
+# Script logs and temporary files
+scripts/test-output/seo-logs/
+*.log
+*.tmp
+*.temp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.backup
+*.old

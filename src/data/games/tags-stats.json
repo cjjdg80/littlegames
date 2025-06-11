@@ -1,0 +1,2875 @@
+{
+  "total_tags": 695,
+  "popular_tags": [
+    {
+      "name": "arcade",
+      "count": 1254,
+      "percentage": "12.6"
+    },
+    {
+      "name": "3d",
+      "count": 1012,
+      "percentage": "10.2"
+    },
+    {
+      "name": "1player",
+      "count": 954,
+      "percentage": "9.6"
+    },
+    {
+      "name": "car",
+      "count": 702,
+      "percentage": "7.1"
+    },
+    {
+      "name": "skill",
+      "count": 670,
+      "percentage": "6.7"
+    },
+    {
+      "name": "2d",
+      "count": 600,
+      "percentage": "6.0"
+    },
+    {
+      "name": "singleplayer",
+      "count": 568,
+      "percentage": "5.7"
+    },
+    {
+      "name": "logic",
+      "count": 496,
+      "percentage": "5.0"
+    },
+    {
+      "name": "multiplayer",
+      "count": 462,
+      "percentage": "4.6"
+    },
+    {
+      "name": "animal",
+      "count": 450,
+      "percentage": "4.5"
+    },
+    {
+      "name": "matching",
+      "count": 449,
+      "percentage": "4.5"
+    },
+    {
+      "name": "ball",
+      "count": 443,
+      "percentage": "4.5"
+    },
+    {
+      "name": "platformer",
+      "count": 397,
+      "percentage": "4.0"
+    },
+    {
+      "name": "boys",
+      "count": 355,
+      "percentage": "3.6"
+    },
+    {
+      "name": "collect",
+      "count": 331,
+      "percentage": "3.3"
+    },
+    {
+      "name": "jumping",
+      "count": 313,
+      "percentage": "3.1"
+    },
+    {
+      "name": "avoid",
+      "count": 312,
+      "percentage": "3.1"
+    },
+    {
+      "name": "2players",
+      "count": 307,
+      "percentage": "3.1"
+    },
+    {
+      "name": "block",
+      "count": 301,
+      "percentage": "3.0"
+    },
+    {
+      "name": "girls",
+      "count": 292,
+      "percentage": "2.9"
+    },
+    {
+      "name": "relax",
+      "count": 276,
+      "percentage": "2.8"
+    },
+    {
+      "name": "fighting",
+      "count": 266,
+      "percentage": "2.7"
+    },
+    {
+      "name": "fashion",
+      "count": 264,
+      "percentage": "2.7"
+    },
+    {
+      "name": "runner",
+      "count": 254,
+      "percentage": "2.6"
+    },
+    {
+      "name": "running",
+      "count": 247,
+      "percentage": "2.5"
+    },
+    {
+      "name": "cute",
+      "count": 233,
+      "percentage": "2.3"
+    },
+    {
+      "name": "escape",
+      "count": 230,
+      "percentage": "2.3"
+    },
+    {
+      "name": "challenge",
+      "count": 228,
+      "percentage": "2.3"
+    },
+    {
+      "name": "stickman",
+      "count": 220,
+      "percentage": "2.2"
+    },
+    {
+      "name": "guns",
+      "count": 216,
+      "percentage": "2.2"
+    },
+    {
+      "name": "christmas",
+      "count": 216,
+      "percentage": "2.2"
+    },
+    {
+      "name": "makeup",
+      "count": 204,
+      "percentage": "2.1"
+    },
+    {
+      "name": "dressing",
+      "count": 200,
+      "percentage": "2.0"
+    },
+    {
+      "name": "endless",
+      "count": 200,
+      "percentage": "2.0"
+    },
+    {
+      "name": "co-op",
+      "count": 199,
+      "percentage": "2.0"
+    },
+    {
+      "name": "run",
+      "count": 196,
+      "percentage": "2.0"
+    },
+    {
+      "name": "physics",
+      "count": 196,
+      "percentage": "2.0"
+    },
+    {
+      "name": "halloween",
+      "count": 193,
+      "percentage": "1.9"
+    },
+    {
+      "name": "ices",
+      "count": 193,
+      "percentage": "1.9"
+    },
+    {
+      "name": "zombie",
+      "count": 190,
+      "percentage": "1.9"
+    },
+    {
+      "name": "coloring",
+      "count": 173,
+      "percentage": "1.7"
+    },
+    {
+      "name": "survival",
+      "count": 168,
+      "percentage": "1.7"
+    },
+    {
+      "name": "idle",
+      "count": 161,
+      "percentage": "1.6"
+    },
+    {
+      "name": "truck",
+      "count": 160,
+      "percentage": "1.6"
+    },
+    {
+      "name": "speed",
+      "count": 158,
+      "percentage": "1.6"
+    },
+    {
+      "name": "clicker",
+      "count": 156,
+      "percentage": "1.6"
+    },
+    {
+      "name": "sport",
+      "count": 150,
+      "percentage": "1.5"
+    },
+    {
+      "name": "minecraft",
+      "count": 148,
+      "percentage": "1.5"
+    },
+    {
+      "name": "top",
+      "count": 142,
+      "percentage": "1.4"
+    },
+    {
+      "name": "relaxing",
+      "count": 141,
+      "percentage": "1.4"
+    },
+    {
+      "name": "stunts",
+      "count": 141,
+      "percentage": "1.4"
+    },
+    {
+      "name": "princess",
+      "count": 141,
+      "percentage": "1.4"
+    },
+    {
+      "name": "food",
+      "count": 136,
+      "percentage": "1.4"
+    },
+    {
+      "name": "makeover",
+      "count": 134,
+      "percentage": "1.3"
+    },
+    {
+      "name": "obstacle",
+      "count": 131,
+      "percentage": "1.3"
+    },
+    {
+      "name": "drawing",
+      "count": 131,
+      "percentage": "1.3"
+    },
+    {
+      "name": "arena",
+      "count": 129,
+      "percentage": "1.3"
+    },
+    {
+      "name": "classic",
+      "count": 128,
+      "percentage": "1.3"
+    },
+    {
+      "name": "weapons",
+      "count": 127,
+      "percentage": "1.3"
+    },
+    {
+      "name": "highscore",
+      "count": 127,
+      "percentage": "1.3"
+    },
+    {
+      "name": "warrior",
+      "count": 124,
+      "percentage": "1.2"
+    },
+    {
+      "name": "candy",
+      "count": 124,
+      "percentage": "1.2"
+    },
+    {
+      "name": "winter",
+      "count": 122,
+      "percentage": "1.2"
+    },
+    {
+      "name": "hidden",
+      "count": 121,
+      "percentage": "1.2"
+    },
+    {
+      "name": "color",
+      "count": 119,
+      "percentage": "1.2"
+    },
+    {
+      "name": "pixelart",
+      "count": 118,
+      "percentage": "1.2"
+    },
+    {
+      "name": "match3",
+      "count": 117,
+      "percentage": "1.2"
+    },
+    {
+      "name": "number",
+      "count": 117,
+      "percentage": "1.2"
+    },
+    {
+      "name": "levels",
+      "count": 116,
+      "percentage": "1.2"
+    },
+    {
+      "name": "2048",
+      "count": 114,
+      "percentage": "1.1"
+    },
+    {
+      "name": "family",
+      "count": 114,
+      "percentage": "1.1"
+    },
+    {
+      "name": "cutedressup",
+      "count": 113,
+      "percentage": "1.1"
+    },
+    {
+      "name": "bike",
+      "count": 113,
+      "percentage": "1.1"
+    },
+    {
+      "name": "drift",
+      "count": 111,
+      "percentage": "1.1"
+    },
+    {
+      "name": "cat",
+      "count": 108,
+      "percentage": "1.1"
+    },
+    {
+      "name": "monster",
+      "count": 107,
+      "percentage": "1.1"
+    },
+    {
+      "name": "dress",
+      "count": 107,
+      "percentage": "1.1"
+    },
+    {
+      "name": "tiles",
+      "count": 105,
+      "percentage": "1.1"
+    },
+    {
+      "name": "point-and-click",
+      "count": 97,
+      "percentage": "1.0"
+    },
+    {
+      "name": "solitaire",
+      "count": 97,
+      "percentage": "1.0"
+    },
+    {
+      "name": "spaceship",
+      "count": 97,
+      "percentage": "1.0"
+    },
+    {
+      "name": "cartoon",
+      "count": 96,
+      "percentage": "1.0"
+    },
+    {
+      "name": "decoration",
+      "count": 95,
+      "percentage": "1.0"
+    },
+    {
+      "name": "amongus",
+      "count": 95,
+      "percentage": "1.0"
+    },
+    {
+      "name": "upgrade",
+      "count": 95,
+      "percentage": "1.0"
+    },
+    {
+      "name": "farm",
+      "count": 94,
+      "percentage": "0.9"
+    },
+    {
+      "name": "fruits",
+      "count": 93,
+      "percentage": "0.9"
+    },
+    {
+      "name": "parkour",
+      "count": 92,
+      "percentage": "0.9"
+    },
+    {
+      "name": "timekiller",
+      "count": 91,
+      "percentage": "0.9"
+    },
+    {
+      "name": "parking",
+      "count": 88,
+      "percentage": "0.9"
+    },
+    {
+      "name": "shoot-em-up",
+      "count": 87,
+      "percentage": "0.9"
+    },
+    {
+      "name": "pixel",
+      "count": 86,
+      "percentage": "0.9"
+    },
+    {
+      "name": "alien",
+      "count": 85,
+      "percentage": "0.9"
+    },
+    {
+      "name": "bubble",
+      "count": 84,
+      "percentage": "0.8"
+    },
+    {
+      "name": "differences",
+      "count": 83,
+      "percentage": "0.8"
+    },
+    {
+      "name": "fish",
+      "count": 82,
+      "percentage": "0.8"
+    },
+    {
+      "name": "baby",
+      "count": 82,
+      "percentage": "0.8"
+    },
+    {
+      "name": "school",
+      "count": 81,
+      "percentage": "0.8"
+    },
+    {
+      "name": "motorcycle",
+      "count": 80,
+      "percentage": "0.8"
+    },
+    {
+      "name": "aim",
+      "count": 78,
+      "percentage": "0.8"
+    },
+    {
+      "name": "hero",
+      "count": 78,
+      "percentage": "0.8"
+    },
+    {
+      "name": "tetris",
+      "count": 78,
+      "percentage": "0.8"
+    },
+    {
+      "name": "holiday",
+      "count": 78,
+      "percentage": "0.8"
+    },
+    {
+      "name": "sorting",
+      "count": 76,
+      "percentage": "0.8"
+    },
+    {
+      "name": "colorful",
+      "count": 76,
+      "percentage": "0.8"
+    },
+    {
+      "name": "city",
+      "count": 73,
+      "percentage": "0.7"
+    },
+    {
+      "name": "horror",
+      "count": 72,
+      "percentage": "0.7"
+    },
+    {
+      "name": "fantasy",
+      "count": 72,
+      "percentage": "0.7"
+    },
+    {
+      "name": "thinking",
+      "count": 71,
+      "percentage": "0.7"
+    },
+    {
+      "name": "sliding-puzzle",
+      "count": 71,
+      "percentage": "0.7"
+    },
+    {
+      "name": "retro",
+      "count": 70,
+      "percentage": "0.7"
+    },
+    {
+      "name": "airplane",
+      "count": 69,
+      "percentage": "0.7"
+    },
+    {
+      "name": "war",
+      "count": 69,
+      "percentage": "0.7"
+    },
+    {
+      "name": "archery",
+      "count": 68,
+      "percentage": "0.7"
+    },
+    {
+      "name": "offroad",
+      "count": 68,
+      "percentage": "0.7"
+    },
+    {
+      "name": "math",
+      "count": 67,
+      "percentage": "0.7"
+    },
+    {
+      "name": "kidgames",
+      "count": 65,
+      "percentage": "0.7"
+    },
+    {
+      "name": "ragdoll",
+      "count": 64,
+      "percentage": "0.6"
+    },
+    {
+      "name": "find",
+      "count": 64,
+      "percentage": "0.6"
+    },
+    {
+      "name": "party",
+      "count": 63,
+      "percentage": "0.6"
+    },
+    {
+      "name": "destroy",
+      "count": 62,
+      "percentage": "0.6"
+    },
+    {
+      "name": "board",
+      "count": 62,
+      "percentage": "0.6"
+    },
+    {
+      "name": "doctor",
+      "count": 62,
+      "percentage": "0.6"
+    },
+    {
+      "name": "attack",
+      "count": 61,
+      "percentage": "0.6"
+    },
+    {
+      "name": "tank",
+      "count": 60,
+      "percentage": "0.6"
+    },
+    {
+      "name": "noob",
+      "count": 59,
+      "percentage": "0.6"
+    },
+    {
+      "name": "combat",
+      "count": 58,
+      "percentage": "0.6"
+    },
+    {
+      "name": "ninja",
+      "count": 58,
+      "percentage": "0.6"
+    },
+    {
+      "name": "magic",
+      "count": 57,
+      "percentage": "0.6"
+    },
+    {
+      "name": "water",
+      "count": 57,
+      "percentage": "0.6"
+    },
+    {
+      "name": "painting",
+      "count": 57,
+      "percentage": "0.6"
+    },
+    {
+      "name": "traffic",
+      "count": 57,
+      "percentage": "0.6"
+    },
+    {
+      "name": "colormatch",
+      "count": 56,
+      "percentage": "0.6"
+    },
+    {
+      "name": "crossword",
+      "count": 55,
+      "percentage": "0.6"
+    },
+    {
+      "name": "battlefield",
+      "count": 54,
+      "percentage": "0.5"
+    },
+    {
+      "name": "jewels",
+      "count": 54,
+      "percentage": "0.5"
+    },
+    {
+      "name": "rpg",
+      "count": 54,
+      "percentage": "0.5"
+    },
+    {
+      "name": "blast",
+      "count": 53,
+      "percentage": "0.5"
+    },
+    {
+      "name": "space",
+      "count": 52,
+      "percentage": "0.5"
+    },
+    {
+      "name": "memory",
+      "count": 52,
+      "percentage": "0.5"
+    },
+    {
+      "name": "track",
+      "count": 52,
+      "percentage": "0.5"
+    },
+    {
+      "name": "preschool",
+      "count": 52,
+      "percentage": "0.5"
+    },
+    {
+      "name": "vehicle",
+      "count": 52,
+      "percentage": "0.5"
+    },
+    {
+      "name": "design",
+      "count": 51,
+      "percentage": "0.5"
+    },
+    {
+      "name": "hairstyle",
+      "count": 51,
+      "percentage": "0.5"
+    },
+    {
+      "name": "squidgame",
+      "count": 50,
+      "percentage": "0.5"
+    },
+    {
+      "name": "slide",
+      "count": 50,
+      "percentage": "0.5"
+    },
+    {
+      "name": "connection",
+      "count": 50,
+      "percentage": "0.5"
+    },
+    {
+      "name": "defence",
+      "count": 48,
+      "percentage": "0.5"
+    },
+    {
+      "name": "cook",
+      "count": 48,
+      "percentage": "0.5"
+    },
+    {
+      "name": "shopping",
+      "count": 48,
+      "percentage": "0.5"
+    },
+    {
+      "name": "tower",
+      "count": 48,
+      "percentage": "0.5"
+    },
+    {
+      "name": "love",
+      "count": 48,
+      "percentage": "0.5"
+    },
+    {
+      "name": "bomb",
+      "count": 47,
+      "percentage": "0.5"
+    },
+    {
+      "name": "music",
+      "count": 47,
+      "percentage": "0.5"
+    },
+    {
+      "name": "doll",
+      "count": 47,
+      "percentage": "0.5"
+    },
+    {
+      "name": "summer",
+      "count": 47,
+      "percentage": "0.5"
+    },
+    {
+      "name": "fly",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "reflex",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "rescue",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "cube",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "monstertruck",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "bus",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "santa",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "fall",
+      "count": 46,
+      "percentage": "0.5"
+    },
+    {
+      "name": "beauty",
+      "count": 45,
+      "percentage": "0.5"
+    },
+    {
+      "name": "dog",
+      "count": 45,
+      "percentage": "0.5"
+    },
+    {
+      "name": "cleaning",
+      "count": 44,
+      "percentage": "0.4"
+    },
+    {
+      "name": "flying",
+      "count": 44,
+      "percentage": "0.4"
+    },
+    {
+      "name": "army",
+      "count": 43,
+      "percentage": "0.4"
+    },
+    {
+      "name": "wordsearch",
+      "count": 43,
+      "percentage": "0.4"
+    },
+    {
+      "name": "police",
+      "count": 43,
+      "percentage": "0.4"
+    },
+    {
+      "name": "bird",
+      "count": 41,
+      "percentage": "0.4"
+    },
+    {
+      "name": "girlsdressup",
+      "count": 40,
+      "percentage": "0.4"
+    },
+    {
+      "name": "sniper",
+      "count": 40,
+      "percentage": "0.4"
+    },
+    {
+      "name": "robot",
+      "count": 40,
+      "percentage": "0.4"
+    },
+    {
+      "name": "crush",
+      "count": 40,
+      "percentage": "0.4"
+    },
+    {
+      "name": "snake",
+      "count": 39,
+      "percentage": "0.4"
+    },
+    {
+      "name": "outfit",
+      "count": 38,
+      "percentage": "0.4"
+    },
+    {
+      "name": "indie",
+      "count": 38,
+      "percentage": "0.4"
+    },
+    {
+      "name": "biker",
+      "count": 38,
+      "percentage": "0.4"
+    },
+    {
+      "name": "hair",
+      "count": 38,
+      "percentage": "0.4"
+    },
+    {
+      "name": "fire",
+      "count": 37,
+      "percentage": "0.4"
+    },
+    {
+      "name": "crash",
+      "count": 37,
+      "percentage": "0.4"
+    },
+    {
+      "name": "fashionista",
+      "count": 37,
+      "percentage": "0.4"
+    },
+    {
+      "name": "bounce",
+      "count": 37,
+      "percentage": "0.4"
+    },
+    {
+      "name": "story",
+      "count": 36,
+      "percentage": "0.4"
+    },
+    {
+      "name": "explosion",
+      "count": 36,
+      "percentage": "0.4"
+    },
+    {
+      "name": "realistic",
+      "count": 36,
+      "percentage": "0.4"
+    },
+    {
+      "name": "snow",
+      "count": 36,
+      "percentage": "0.4"
+    },
+    {
+      "name": "restaurant",
+      "count": 35,
+      "percentage": "0.4"
+    },
+    {
+      "name": "business",
+      "count": 35,
+      "percentage": "0.4"
+    },
+    {
+      "name": "rotate",
+      "count": 35,
+      "percentage": "0.4"
+    },
+    {
+      "name": "logical",
+      "count": 35,
+      "percentage": "0.4"
+    },
+    {
+      "name": "hardcore",
+      "count": 35,
+      "percentage": "0.4"
+    },
+    {
+      "name": "link",
+      "count": 34,
+      "percentage": "0.3"
+    },
+    {
+      "name": "surgery",
+      "count": 34,
+      "percentage": "0.3"
+    },
+    {
+      "name": "easter",
+      "count": 33,
+      "percentage": "0.3"
+    },
+    {
+      "name": "fishing",
+      "count": 33,
+      "percentage": "0.3"
+    },
+    {
+      "name": "old-school",
+      "count": 33,
+      "percentage": "0.3"
+    },
+    {
+      "name": "superhero",
+      "count": 33,
+      "percentage": "0.3"
+    },
+    {
+      "name": "golf",
+      "count": 33,
+      "percentage": "0.3"
+    },
+    {
+      "name": "pet",
+      "count": 32,
+      "percentage": "0.3"
+    },
+    {
+      "name": "dash",
+      "count": 32,
+      "percentage": "0.3"
+    },
+    {
+      "name": "roomescape",
+      "count": 32,
+      "percentage": "0.3"
+    },
+    {
+      "name": "build",
+      "count": 32,
+      "percentage": "0.3"
+    },
+    {
+      "name": "dragon",
+      "count": 32,
+      "percentage": "0.3"
+    },
+    {
+      "name": "craft",
+      "count": 32,
+      "percentage": "0.3"
+    },
+    {
+      "name": "roblox",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "celebrity",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "timing",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "wood",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "stack",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "mission",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "trivia",
+      "count": 30,
+      "percentage": "0.3"
+    },
+    {
+      "name": "geometry",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "hospital",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "maze",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "cake",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "road",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "real-time-strategy",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "rider",
+      "count": 29,
+      "percentage": "0.3"
+    },
+    {
+      "name": "building",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "tycoon",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "boat",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "train",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "circle",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "anime",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "activity",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "valentine",
+      "count": 28,
+      "percentage": "0.3"
+    },
+    {
+      "name": "cookie",
+      "count": 27,
+      "percentage": "0.3"
+    },
+    {
+      "name": "dirtbike",
+      "count": 27,
+      "percentage": "0.3"
+    },
+    {
+      "name": "shape",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "killer",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "rolling",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "hunting",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "sudoku",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "basket",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "highway",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "rocket",
+      "count": 26,
+      "percentage": "0.3"
+    },
+    {
+      "name": "tournament",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "scary",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "hunt",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "dinosaurs",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "jelly",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "world",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "balloon",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "santaclause",
+      "count": 25,
+      "percentage": "0.3"
+    },
+    {
+      "name": "panda",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "soldier",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "minigame",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "combine",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "underwater",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "obstacles",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "balance",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "arrow",
+      "count": 24,
+      "percentage": "0.2"
+    },
+    {
+      "name": "enemies",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "ocean",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "mining",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "ship",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "impostor",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "picture",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "beach",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "motercycle",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "infinite",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "motor",
+      "count": 23,
+      "percentage": "0.2"
+    },
+    {
+      "name": "hide",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "kitchen",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "catch",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "bullet",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "transport",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "knight",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "pin",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "10x10",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "competition",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "helicopter",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "emojis",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "hexagon",
+      "count": 22,
+      "percentage": "0.2"
+    },
+    {
+      "name": "battleroyale",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "pirate",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "island",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "bath",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "castle",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "bffs",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "champion",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "drop",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "schoolgirl",
+      "count": 21,
+      "percentage": "0.2"
+    },
+    {
+      "name": "forest",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "garden",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "3players",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "chase",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "supermarket",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "manager",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "eggs",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "prison",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "cargo",
+      "count": 20,
+      "percentage": "0.2"
+    },
+    {
+      "name": "climb",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "king",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "diamonds",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "mountain",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "characters",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "ghost",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "rope",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "boss",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "boxing",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "breakout",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "jungle",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "head",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "time",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "billiard",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "air",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "minigolf",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "pair",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "jet",
+      "count": 19,
+      "percentage": "0.2"
+    },
+    {
+      "name": "chicken",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "pool",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "cupcake",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "battleship",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "stick",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "motorbike",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "hole",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "knife",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "brickbreaker",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "burger",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "accessories",
+      "count": 18,
+      "percentage": "0.2"
+    },
+    {
+      "name": "sea",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "hamburger",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "duel",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "creative",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "tripeaks",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "travel",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "alphabet",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "mario",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "bicycle",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "crafting",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "hairdresser",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "kick",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "dots",
+      "count": 17,
+      "percentage": "0.2"
+    },
+    {
+      "name": "guessing",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "speedrun",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "brick",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "control",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "uphill",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "spring",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "drag",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "dungeon",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "gold",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "cannon",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "quest",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "builder",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "hill",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "jeep",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "vegetables",
+      "count": 16,
+      "percentage": "0.2"
+    },
+    {
+      "name": "8ball",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "watermelon",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "construction",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "evolution",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "musical",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "sword",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "sliding",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "throwing",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "house",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "chess",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "score",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "wordscapes",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "gravity",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "highschool",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "casino",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "chef",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "unicorn",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "wedding",
+      "count": 15,
+      "percentage": "0.2"
+    },
+    {
+      "name": "headsoccer",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "crime",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "agent",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "angry",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "klondike",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "mermaid",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "avatar",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "horse",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "climbing",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "jailbreak",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "fairy",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "smash",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "haircut",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "kitten",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "gifts",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "taxi",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bridge",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "salon",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "snowman",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "babyhazel",
+      "count": 14,
+      "percentage": "0.1"
+    },
+    {
+      "name": "journey",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "flowers",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "fill",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "military",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "dunk",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "dice",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "hexa",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "zoo",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "flip",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "cop",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "snowball",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "dance",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "chain",
+      "count": 13,
+      "percentage": "0.1"
+    },
+    {
+      "name": "transformation",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "fastfood",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "detective",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "tractor",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "slice",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "target",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "danger",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "eat",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "protect",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "empire",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "corona",
+      "count": 12,
+      "percentage": "0.1"
+    },
+    {
+      "name": "puppy",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "pizza",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "japanese",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "assassin",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "flight",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "spiderman",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "worldcup",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "duck",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "wrestling",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "aircombat",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "pong",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "waterslide",
+      "count": 11,
+      "percentage": "0.1"
+    },
+    {
+      "name": "pingpong",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "sky",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "lovers",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "boy",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "beat-em-up",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "jetpack",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "thief",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "ancient",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "sandbox",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "clothing",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "watercolor",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "happy",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bunny",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "helix",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "treasure",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "street",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "cyberpunk",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "student",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "desert",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "slithering",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "skateboard",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "delivery",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "penalty",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "blackfriday",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "drink",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "goalkeeper",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "ski",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "tennis",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "hoops",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "minimal",
+      "count": 10,
+      "percentage": "0.1"
+    },
+    {
+      "name": "timer",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "hangman",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "witch",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "stacker",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "robber",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "icecream",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "flags",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "ice",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "customize",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "couple",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "season",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "firefighters",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "apple",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "fidget",
+      "count": 9,
+      "percentage": "0.1"
+    },
+    {
+      "name": "queen",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "spa",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "health",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "shark",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "waterpark",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "jail",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "maker",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "apocalypse",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "worm",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "stackball",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "chocolate",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "birds",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "dotconnect",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "skate",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "donuts",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "axe",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "wizard",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bomberman",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bowling",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "iaps",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "ladybug",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "treatment",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "hockey",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "kart",
+      "count": 8,
+      "percentage": "0.1"
+    },
+    {
+      "name": "butterfly",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "busparking",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "role-play",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "dodge",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "stickwar",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "backflip",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "skin",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "baseball",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "gangsters",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "reindeer",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "computer",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "egypt",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "dig",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "romance",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "blade",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "candies",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "teacher",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "ambulance",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "cricket",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "swimming",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bingo",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "face",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "pinball",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "prince",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "friends",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "snooker",
+      "count": 7,
+      "percentage": "0.1"
+    },
+    {
+      "name": "repair",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "hamster",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "sushi",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "western",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "checkers",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "domino",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "airport",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "creature",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "phone",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "medical",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "rabbit",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "banana",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "volleyball",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "high",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "harvest",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "airhockey",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "pregnant",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "surf",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "model",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "olympic",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "heart",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "climber",
+      "count": 6,
+      "percentage": "0.1"
+    },
+    {
+      "name": "spelling",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "hotel",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "galaxy",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bricks",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "slingshot",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "kickthebody",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "combo",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "bottle",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "armor",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "grass",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "decor",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "movie",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "demolish",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "gunslinger",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "date",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "circus",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "voodoo",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "boyfriend",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "arrange",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "styling",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "blackjack",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "fitness",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "aquapark",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "daily",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "insect",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "freeze",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "snowboard",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "millionaire",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "tangram",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "swing",
+      "count": 5,
+      "percentage": "0.1"
+    },
+    {
+      "name": "samurai",
+      "count": 5,
+      "percentage": "0.1"
+    }
+  ]
+}

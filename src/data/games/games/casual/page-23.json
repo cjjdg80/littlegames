@@ -1,0 +1,1478 @@
+[
+  {
+    "id": 5575,
+    "slug": "epic-roll",
+    "title": "Epic Roll",
+    "description": "Help the cube to avoid deadly obstacles, traps, pits to survive! Collect coins to unlock new characters. Beat the records of other players by completing the game as far as possible, avoiding pits and traps!",
+    "instructions": "The game is controlled by one touch of the mouse/screen on the phone. Tap the screen when you need to turn aside and avoid falling into pits and traps.",
+    "thumbnail": "https://img.gamedistribution.com/57dd6e0f9e224348ad962487a715b300-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/57dd6e0f9e224348ad962487a715b300/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1000,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "baby",
+      "boys"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Illusions Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:08.243986",
+    "featured": false
+  },
+  {
+    "id": 5574,
+    "slug": "robo-exit",
+    "title": "Robo Exit",
+    "description": "Robo Exit is a platformer game to run, jump, slide on walls and control a robot to reach the exit door. Avoid traps and hazards and collect as many coins as you can.",
+    "instructions": "Use the left mouse button (or touch) to jump and control the robot.",
+    "thumbnail": "https://img.gamedistribution.com/b0af9283c95b48e587759c08d9df5929-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/b0af9283c95b48e587759c08d9df5929/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "2d",
+      "pixel",
+      "platformer",
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Misc.261 Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:08.288324",
+    "featured": false
+  },
+  {
+    "id": 5564,
+    "slug": "fishing-duels",
+    "title": "Fishing Duels",
+    "description": "Fishing Duels is a multiplayer match-3 game for two in the ocean floor! While engaging on Fishing Duels adventures a sharp eye and a good strategy is what you need to prove yourself the best fisherman! Chubby orange fish are floating on the board amongst other fishing items. Collecting those fish and meeting your score before your opponent will grant you a super fishy victory!",
+    "instructions": "Each Fishing Duels board contains a maximum of 81 cells. Each cell may contain a fish or some other object. The player who first collects the required number of fish is the winner. Fish can be collected by switching and matching 3 or more of them horizontally or vertically. A number of fishing items such as floating markers, hooks, rods, wormbaits and basket traps can be collected as well, while they are used to get you in-game power ups.",
+    "thumbnail": "https://img.gamedistribution.com/2df28242083a465294949094e7f35744-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/2df28242083a465294949094e7f35744/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 800,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "2players",
+      "arcade",
+      "challenge",
+      "fish",
+      "matching",
+      "multiplayer",
+      "relax"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "LazyLand SA",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:08.461118",
+    "featured": false
+  },
+  {
+    "id": 5563,
+    "slug": "mini-survival-challenge",
+    "title": "Mini Survival Challenge",
+    "description": "Mini Survival Challenge is a free escape online game for boys on a desert island to survive. There are many players competing here. You need to break through various difficulties by using different props. There are many trap monsters, just observe the design in the scene, and plan the route to escape successfully in the face of crisis!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/6635f063aa7141e59ede637f0f994543-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/6635f063aa7141e59ede637f0f994543/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "animal",
+      "avoid",
+      "boys",
+      "car",
+      "challenge",
+      "escape",
+      "multiplayer",
+      "obstacle",
+      "survival"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:08.475721",
+    "featured": false
+  },
+  {
+    "id": 5557,
+    "slug": "minesweeper",
+    "title": "Minesweeper",
+    "description": "Welcome to the world of Minesweeper, a game of mind! Here you can challenge yourself by trying to beat the campaign of increasingly difficult levels, customize the game in every way, enjoy smooth animation and learn to play the game if you’re a beginner. The objective of the game is to clear a rectangular board containing hidden \"mines\" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field. If a square containing a mine is revealed, the player loses the game. If no mine is revealed, a digit is instead displayed in the square, indicating how many adjacent squares contain mines; if no mines are adjacent, the square becomes blank, and all adjacent squares will be recursively revealed. The player uses this information to deduce the contents of other squares and may either safely reveal each square or mark the square as containing a mine. Remember: any ship can be a minesweeper… once.",
+    "instructions": "Click or tap on a square to reveal the number of mines in the adjacent squares. Detailed tutorial is included.",
+    "thumbnail": "https://img.gamedistribution.com/fa1e3fe036e94cd2b25b2f502937c212-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/fa1e3fe036e94cd2b25b2f502937c212/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1040,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "classic",
+      "clicker",
+      "explosion",
+      "matching",
+      "mining",
+      "singleplayer"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "K17 Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.491761",
+    "featured": false
+  },
+  {
+    "id": 5552,
+    "slug": "bouncy-king",
+    "title": "Bouncy king",
+    "description": "Welcome to Bounce king. In this game, you will enjoy tricky puzzles of 30 levels. the game goal is very simple need put the ball into the hole. But it's a bit difficult to do that because you need to arrange some wood and other things too.",
+    "instructions": "Hold to generate the velocity of the ball and then release.",
+    "thumbnail": "https://img.gamedistribution.com/06a231cfbb3942f09885713ca4f75ff8-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/06a231cfbb3942f09885713ca4f75ff8/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 480,
+    "iframe_height": 854,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "arcade"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "BestGameSpot",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.663157",
+    "featured": false
+  },
+  {
+    "id": 5551,
+    "slug": "math-duck",
+    "title": "Math Duck",
+    "description": "Math Duck is a math-puzzle platformer game. Help the little duck solve all equations from each level and reach the exit door before time runs out. Good luck!",
+    "instructions": "Move: A, D / Arrows Jump: W / Up key Restart: R",
+    "thumbnail": "https://img.gamedistribution.com/6b0c62c42b0a4648ba7d447c2f2d607a-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/6b0c62c42b0a4648ba7d447c2f2d607a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "duck",
+      "math",
+      "pixel",
+      "pixelart"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Misc.261 Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.702327",
+    "featured": false
+  },
+  {
+    "id": 5550,
+    "slug": "slime-ball",
+    "title": "Slime Ball",
+    "description": "It's a 2D soccer game and you're a slime! There are 2 player and single player game modes and map options. You can have a great time and have fun! It's a great feeling to play football as a slime!",
+    "instructions": "Player 1 (Blue Slime) W: Jump A: Go left D: Go right Space: Shot Player 2 (Red Slime) Up Arrow: Jump Left Arrow: Go left Right Arrow: Go right P: Shot",
+    "thumbnail": "https://img.gamedistribution.com/e9a0509988db4c9e84638d131189ee5a-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/e9a0509988db4c9e84638d131189ee5a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "2d",
+      "2players",
+      "arcade",
+      "jumping",
+      "pixelart"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "hexapp",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.604546",
+    "featured": false
+  },
+  {
+    "id": 5549,
+    "slug": "ball-climb",
+    "title": "Ball Climb",
+    "description": "Use your fast fingers and avoid obstacles. Get as high score as possible! Use revive ads to keep going! You have a ball as your disposable move either left and right of the wall to avoid obstacles.",
+    "instructions": "Move from left to right to avoid obstacles. Get as high score as possible!",
+    "thumbnail": "https://img.gamedistribution.com/6a8051285ac9473d9af0985b82b23438-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/6a8051285ac9473d9af0985b82b23438/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "singleplayer"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Ramblo Digital Media",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.681881",
+    "featured": false
+  },
+  {
+    "id": 5546,
+    "slug": "rope-bawling-3",
+    "title": "Rope Bawling 3",
+    "description": "Rope Bawling 3 – This is a game in which you need to cut the rope to help the bowling balls destroy the pins, on your way there will be lasers, thorns and chains that need to be destroyed by the laser. There will also be obstacles cubes that can be destroyed only by a special fireball and pipes from which a powerful flow of air. To pass the levels you need to skillfully control gravity.",
+    "instructions": "Follow ingame instructions.",
+    "thumbnail": "https://img.gamedistribution.com/d5609c10462941d68f04b8b3dc60dd0a-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/d5609c10462941d68f04b8b3dc60dd0a/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "2d"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Gamealliz",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.586919",
+    "featured": false
+  },
+  {
+    "id": 5537,
+    "slug": "jump-dunk",
+    "title": "Jump Dunk",
+    "description": "Score the ball into the cup while jumping on a trampoline! Tap-tap easy-to-learn controls with addictive gameplay mechanics!",
+    "instructions": "Tap-tap easy-to-learn controls with addictive gameplay mechanics!",
+    "thumbnail": "https://img.gamedistribution.com/649aea761cb54e24ae25745e3f8895de-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/649aea761cb54e24ae25745e3f8895de/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "co-op"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "2Play",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.893269",
+    "featured": false
+  },
+  {
+    "id": 5535,
+    "slug": "mosquito-run-3d",
+    "title": "Mosquito Run 3D",
+    "description": "Mosquito Run 3D is a fun running online game for boys. In the game, you will play a mosquito, and there will be many obstacles on the way. You need to increase your team numbers and suck the blood of the person in front of you, so as to get high scores. The gameplay is novel and interesting, you can sprint wildly, and there are beautiful skins waiting for you to unlock. Come to play it.",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/a5cfff6426e64d0caa01171d7066d42f-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/a5cfff6426e64d0caa01171d7066d42f/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "animal",
+      "avoid",
+      "boys",
+      "number",
+      "obstacle",
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:15.980889",
+    "featured": false
+  },
+  {
+    "id": 5534,
+    "slug": "rope-the-city",
+    "title": "Rope The City",
+    "description": "Clutch the city with rope! Improve your rope and clutch the city with your rope! Upgrade with your collected money and grip all buildings!",
+    "instructions": "Use joystick to control character and wrap ropes",
+    "thumbnail": "https://img.gamedistribution.com/ef79dfafff904ab3831bac16e275ca3e-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/ef79dfafff904ab3831bac16e275ca3e/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 600,
+    "iframe_height": 800,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "collect",
+      "destroy"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Bermuda Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:16.042311",
+    "featured": false
+  },
+  {
+    "id": 5529,
+    "slug": "candy-tile-blast",
+    "title": "Candy Tile Blast",
+    "description": "Candy Tile Blast is a fun and addictive matching game. Tap two or more of the same tiles to blast them out. Collect all the required tiles to pass the levels!",
+    "instructions": "- Tap two or more of the same tiles to collect them. - Collect all the tiles required to pass each level.",
+    "thumbnail": "https://img.gamedistribution.com/961fb89a56b54d0ba89f6c86bd7ad123-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/961fb89a56b54d0ba89f6c86bd7ad123/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 880,
+    "iframe_height": 495,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "blast",
+      "candy",
+      "matching"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "BestGamesFreePlay.com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:23.027079",
+    "featured": false
+  },
+  {
+    "id": 5520,
+    "slug": "phone-transform",
+    "title": "Phone Transform",
+    "description": "Welcome to Phone Transform! Phone Transform is a fun casual arcade game of cell phone evolution. Do you know what a cell phone looked like in the last century? Join this game to take you along! Watch out for obstacles on the road! It will make your phone degrade! Go through the green door with a plus sign to make your phone more advanced. How many years can you make it evolve? Come join and try it out! Have fun!",
+    "instructions": "Slide to play",
+    "thumbnail": "https://img.gamedistribution.com/9afbcae2de7e40f0aed36a3cad185ac5-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/9afbcae2de7e40f0aed36a3cad185ac5/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "arcade",
+      "number",
+      "running"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "YAD.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:23.264788",
+    "featured": false
+  },
+  {
+    "id": 5516,
+    "slug": "money-land",
+    "title": "Money Land",
+    "description": "The rules are simple! You are an aspiring investor in a new building town who is ready for a city building game! You will start by collecting your money, and purchase your first investment by unlocking a venue. Shops, banks, restaurants, and many money idle spots to invest and to help you collect even more money! Are you a fan of idle games?",
+    "instructions": "If you love building games, you will love Moneyland! Moneyland is a thrilling tycoon game and one of the best money games for kids! The more the city expands, the harder it will be to continue your money rush. But don’t worry, just get yourself a bike and rush to continue your investment game.",
+    "thumbnail": "https://img.gamedistribution.com/55f8e3a06c504f57bf8d8bfa02ba0a03-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/55f8e3a06c504f57bf8d8bfa02ba0a03/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "2Play",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:23.368294",
+    "featured": false
+  },
+  {
+    "id": 5511,
+    "slug": "draw-love-story",
+    "title": "Draw Love Story",
+    "description": "Draw Love Story is a drawing puzzle online game for boys for free, which brings you a lot of fun. You need to deduce the meaning that the author wants to express through the scene and draw to complete the task. Draw different elements in the game to end the love story and create a happy ending for the couple. There are hundreds of different levels waiting for you, Have a great time!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/b863a161456243f1804b24406bd8c2cf-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/b863a161456243f1804b24406bd8c2cf/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "animal",
+      "boys",
+      "drawing",
+      "love",
+      "story"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:23.459267",
+    "featured": false
+  },
+  {
+    "id": 5496,
+    "slug": "yoyo-hero-3d",
+    "title": "Yoyo Hero 3D",
+    "description": "Do you miss the old days of yo-yo? Yo-yo hero 3D will give you a chance to relive time. Just tap the enemies when you see them. The yo-yo will kill the enemy in one shot. You should kill all the enemies to enter the next level and get the rewards to unlock the more powerful yo-yo. Try it!",
+    "instructions": "Tap to attack",
+    "thumbnail": "https://img.gamedistribution.com/44266098c1924d0db331110811187c99-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/44266098c1924d0db331110811187c99/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "bestgames.com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:30.957649",
+    "featured": false
+  },
+  {
+    "id": 5490,
+    "slug": "find-the-way-home-maze-game",
+    "title": "Find the Way Home Maze Game",
+    "description": "Find The Way Home Maze Game is a maze puzzle game. In this game, you need to send out the alien to their home. But is not easy to complete all 30 levels. Play and Have fun!",
+    "instructions": "Use keyboard arrow keys to move left, right, and up, down to move the character. On mobile swipe, the screen left, right and up, down to move the character",
+    "thumbnail": "https://img.gamedistribution.com/16bf8e0a887941f393144bbcc718050f-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/16bf8e0a887941f393144bbcc718050f/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 854,
+    "iframe_height": 560,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "arcade"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "BestGameSpot",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:31.065707",
+    "featured": false
+  },
+  {
+    "id": 5477,
+    "slug": "10x10-fill-the-grid",
+    "title": "10x10 fill the grid !",
+    "description": "Are you ready to play the most addictive and challenging game in the world ? 10x10 is a superb game where you need to fill a grid of 10 by 10 with puzzle blocks to form lines and destroy them ! It's super simple and super fun, but it really needs you to use your brain. Just fill the grid with shapes to form a line.",
+    "instructions": "Fill the grid with puzzle blocks to form lines and destroy them !",
+    "thumbnail": "https://img.gamedistribution.com/3bc5461b7a124c8ea7b15a1d17a1f3f7-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/3bc5461b7a124c8ea7b15a1d17a1f3f7/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 600,
+    "iframe_height": 800,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "hexagon",
+      "tetris"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Playtouch",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:31.211811",
+    "featured": false
+  },
+  {
+    "id": 5474,
+    "slug": "restoration-master",
+    "title": "Restoration Master",
+    "description": "Create your own workshop for the restoration of various things. You will bring back to life a wide variety of things - from an old candlestick, to modern weapons and rare knives. Plunge into this amazing world of Restoration Master right now!",
+    "instructions": "Use the mouse or touchscreen to control. Follow the instructions of the game. First, open the item box. On the table you will see a dirty item. First, it must be soaked in water. Then apply the cleaner from the can and wait for the foam to soak the dirt. After that, wipe everything with a rag and the cleaned item will go to your collection. Restore the poor condition of items. Make the item new. Gather collections.",
+    "thumbnail": "https://img.gamedistribution.com/87f6137a2dcf48f49eb348d0abcced07-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/87f6137a2dcf48f49eb348d0abcced07/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "2d",
+      "collect",
+      "guns",
+      "painting",
+      "singleplayer"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Vally Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:31.353031",
+    "featured": false
+  },
+  {
+    "id": 5473,
+    "slug": "rocket-fest",
+    "title": "Rocket Fest",
+    "description": "Rocket Fest is a fun rocket runner arcade game. Slide to collect more rockets and pass the number high lane to have more rockets. You have to have enough rockets to destroy the last tank for you to win, otherwise, you have to start again. Take the challenge and enjoy a great game moment!",
+    "instructions": "Slide to play",
+    "thumbnail": "https://img.gamedistribution.com/87bbcb69848e4c5d840dabc0d3f3e1b0-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/87bbcb69848e4c5d840dabc0d3f3e1b0/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "arcade",
+      "relax",
+      "rocket",
+      "running"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "YAD.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:31.437104",
+    "featured": false
+  },
+  {
+    "id": 5470,
+    "slug": "millionaire-trivia-game-show",
+    "title": "Millionaire: Trivia Game Show",
+    "description": "Inspired by a classic quiz show, Millionaire: Trivia Game Show is here to test your intellect and knowledge. The game consists of 15 questions, but you have 4 lifelines to help you on your way. Put all those random facts and trivia you’ve collected over the years to good use, and choose the correct answer of four until you reach the final question and turn your effort into a million play dollars. Remember that in the end your intellect and knowledge are the keys to success. So the real question is “Can you reach a million?”",
+    "instructions": "Tap or click the correct answer Get to a million with four helpful hints",
+    "thumbnail": "https://img.gamedistribution.com/dc415ab7ed5c41b188820ebe0518cbfa-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/dc415ab7ed5c41b188820ebe0518cbfa/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 960,
+    "iframe_height": 540,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "family",
+      "millionaire",
+      "singleplayer",
+      "trivia"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "K17 Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.190867",
+    "featured": false
+  },
+  {
+    "id": 5457,
+    "slug": "drop-squish",
+    "title": "Drop & Squish",
+    "description": "Drop balls into glass and start to squish. Make a similar result as requested in the image. After preparation, sell your perfect glass to buyers or smash it with many actions.",
+    "instructions": "Use mouse to interact",
+    "thumbnail": "https://img.gamedistribution.com/bb0dc632d0a841c1833c91c178bf9c0c-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/bb0dc632d0a841c1833c91c178bf9c0c/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 600,
+    "iframe_height": 800,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "design"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Bermuda Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.494186",
+    "featured": false
+  },
+  {
+    "id": 5451,
+    "slug": "kitten-hide-and-seek",
+    "title": "Kitten Hide And Seek",
+    "description": "Kitten Hide And Seek is a puzzle online game of hide-and-seek for boys for free. In this game, your goal is to help the little girl escape successfully and get the props she needs, while avoiding being found by the kitten's search. If you love Tamagotchi or green light red light, this game is totally for you. You also can decorate your room with props won by beating the level. Have fun with it!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/b78553bf5db34812972452aab68f88c0-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/b78553bf5db34812972452aab68f88c0/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "avoid",
+      "cat",
+      "decoration",
+      "escape",
+      "hide"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.579818",
+    "featured": false
+  },
+  {
+    "id": 5449,
+    "slug": "maze-escape-3d",
+    "title": "Maze Escape 3D",
+    "description": "Maze Escape 3D is a free online escape game for boys with the theme of the maze. You need to quickly walk through the complex maze in a limited time. Many forks require you to distinguish the right road and try every means to find the exit. There are also many modes for you to choose from. You can experience a huge 3D scene by taking adventure here. Come and experience it!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/e888afcaa370408db23c95380d8edb2c-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/e888afcaa370408db23c95380d8edb2c/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "boys",
+      "escape"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.876989",
+    "featured": false
+  },
+  {
+    "id": 5444,
+    "slug": "math-signs-game",
+    "title": "Math Signs Game",
+    "description": "“Math Signs Game” is an educational math game that encourages people to think fast to solve math operations. With the four main mathematical operations, have fun in this game and be as quick as possible to choose between the math signs. Play with your friends or beat your own highscores! The graphics are beautiful and colorful. Good luck and have fun!",
+    "instructions": "Use the mouse on the desktop or touch button on mobile devices.",
+    "thumbnail": "https://img.gamedistribution.com/280c3ef1cb364056a0f4636ffc4c1a9c-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/280c3ef1cb364056a0f4636ffc4c1a9c/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "math"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "JM Neto Game Dev",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.748098",
+    "featured": false
+  },
+  {
+    "id": 5443,
+    "slug": "impulse-ball-2",
+    "title": "Impulse Ball 2",
+    "description": "Impulse Ball 2 is a game in which you need to move the color balls with impulses into the hole, passing the maze, there will be obstacles in the form of thorns that can destroy the player’s colored balls, as well as a huge number of white balls-enemies that prevent you from passing the mazes.",
+    "instructions": "Use mouse or touch the screen!",
+    "thumbnail": "https://img.gamedistribution.com/e9fdb6417d33448daa5020d62f195f63-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/e9fdb6417d33448daa5020d62f195f63/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1080,
+    "iframe_height": 1920,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "ball",
+      "golf",
+      "logic",
+      "minigolf",
+      "obstacle",
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Fun Best Games",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.861079",
+    "featured": false
+  },
+  {
+    "id": 5442,
+    "slug": "alchemy",
+    "title": "Alchemy",
+    "description": "The combination of two elements generates a third. Experiment to discover them all! About logic: 1. Each component can be perceived both literally and figuratively in different situations. For example, \"water\" can represent both water and a fluidity property. 2. The magic component in the game is very strong. The logic is based on the ideas of real alchemists of medieval Europe (and supplemented by the authors). 3. You can create a phoenix, but not a lawn mower! High-tech items cannot be created, at least most of them.",
+    "instructions": "To check whether the 2 elements react, drag (mouse or finger) one on the other and release. In case of difficulties, you can always use the hint for advertising. You can also pull out any open item from the inventory by simply clicking on the desired item. All open recipes (including bonus ones) are displayed in the recipe book.",
+    "thumbnail": "https://img.gamedistribution.com/0cf48b434e614ad897a4e56b3adc01b0-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/0cf48b434e614ad897a4e56b3adc01b0/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "2d",
+      "alchemy"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Little Missle",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.893811",
+    "featured": false
+  },
+  {
+    "id": 5440,
+    "slug": "one-line-draw",
+    "title": "One Line Draw",
+    "description": "One Line Draw is a very interesting painting online game for free. In the game, you need to draw the cat's body shape in one stroke within the scope of space, which is very interesting. There are also many cute animals so that you can get a very good visual experience while challenging in the game. The game has many different levels waiting for you to unlock, have fun!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/fbb8cd1612f64cc0bc7256593c0fa9e6-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/fbb8cd1612f64cc0bc7256593c0fa9e6/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "animal",
+      "boys",
+      "cartoon",
+      "cat",
+      "drawing",
+      "relaxing"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.930055",
+    "featured": false
+  },
+  {
+    "id": 5439,
+    "slug": "fall-down-party",
+    "title": "Fall Down Party",
+    "description": "Defeat the enemies and survive in the arena! Guess the image and don’t fall! Each round you need to be fast and strong to maintain your position on the playground.",
+    "instructions": "Move on the square with the same image as shown by the doll.",
+    "thumbnail": "https://img.gamedistribution.com/cb09e737ce9a465bb98747bbbdfce756-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/cb09e737ce9a465bb98747bbbdfce756/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 960,
+    "iframe_height": 540,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "amongus",
+      "squidgame"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Firstpixel",
+    "batch_number": 15,
+    "collection_time": "2025-06-09T21:54:38.946925",
+    "featured": false
+  },
+  {
+    "id": 5437,
+    "slug": "worlds-hardest-challenge-fill-fridge",
+    "title": "Worlds Hardest Challenge Fill Fridge",
+    "description": "World's Hardest Challenge: Fill Fridge is a very difficult food placement online game for boys for free. You need to place a variety of different foods in the refrigerator and make good use of all the space in the refrigerator. Only by putting everything in the refrigerator can you challenge the next level. It will be a great sense of accomplishment to watch the disorganized goods become organized in your hands. Have fun with it!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/6e3875577696413198067caee5191498-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/6e3875577696413198067caee5191498/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "boys",
+      "challenge",
+      "fill",
+      "fridge",
+      "hardcore",
+      "skill",
+      "world"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.458779",
+    "featured": false
+  },
+  {
+    "id": 5435,
+    "slug": "save-the-sausage-man",
+    "title": "Save The Sausage Man",
+    "description": "Save The Sausage Man is a puzzle rescue online game for free. In the game, the sausage man will face various dangers. You need to use your intelligence to rescue the trapped sausage man. Each level has different challenges, you need to use different props to quickly complete different tasks. Can you successfully rescue the sausage man? Come and use your imagination to unlock more levels.",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/e5874cd4d13445d8aa3676f8db5e44fd-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/e5874cd4d13445d8aa3676f8db5e44fd/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "boys",
+      "escape",
+      "obstacle",
+      "rescue",
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.642607",
+    "featured": false
+  },
+  {
+    "id": 5431,
+    "slug": "beauty-party-rush",
+    "title": "Beauty Party Rush",
+    "description": "Welcome to Beauty Party Rush! Beauty Party Rush is a fun car driving arcade game. The sisters are waiting for you on the road! Try to avoid the annoying pillars and rolling gears that will bounce the sisters in your sports car! How many beautiful girls can you end up carrying? Drive your sports car to start your party journey! Have fun!",
+    "instructions": "Slide to move",
+    "thumbnail": "https://img.gamedistribution.com/a3f465bec24e4a509f287a235ccc93f4-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/a3f465bec24e4a509f287a235ccc93f4/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "arcade",
+      "car",
+      "relax",
+      "running"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "YAD.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.518753",
+    "featured": false
+  },
+  {
+    "id": 5427,
+    "slug": "hide-or-seek",
+    "title": "Hide Or Seek",
+    "description": "Hide Or Seek is a puzzle action online game for boys for free. In this game, you will start the competition with others in a small maze. When seeking other people, you need to carefully observe some dust and footprints around the character as clues to find others. As a hider, you need to avoid the seeker's vision as much as possible, so you should immediately choose an appropriate route to avoid being found within the specified time. Have fun!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/276f4d1886a2409da15d543c42deb31c-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/276f4d1886a2409da15d543c42deb31c/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "avoid",
+      "boys",
+      "hide",
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.921287",
+    "featured": false
+  },
+  {
+    "id": 5425,
+    "slug": "find-a-difference",
+    "title": "Find A Difference",
+    "description": "Find A Difference is a free puzzle-seeking online game for boys. In the game, you have to find the difference between two photos in the shortest time, which can not only improve your reaction ability and concentration ability but also relax your eyes. Lots of pictures are waiting for you to challenge. Come join us and have fun with the game! Release your stress and have fun!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/4de821c5828d4623969e5a58f1e8ad4d-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/4de821c5828d4623969e5a58f1e8ad4d/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 640,
+    "iframe_height": 1136,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "boys",
+      "differences",
+      "find",
+      "matching",
+      "skill"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.876233",
+    "featured": false
+  },
+  {
+    "id": 5424,
+    "slug": "donut-stack",
+    "title": "Donut Stack",
+    "description": "Donut Stack is a free casual online game for boys in which you need to make and collect a variety of donuts, and serve food to customers. There are also many obstacles you need to avoid! The operation of the game is simple, Come join us and have fun with the game! Release your stress and have fun!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/4dea8fa513dc4e9a9829dc109a77bbbd-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/4dea8fa513dc4e9a9829dc109a77bbbd/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "boys",
+      "donuts",
+      "platformer",
+      "skill",
+      "stack"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.678411",
+    "featured": false
+  },
+  {
+    "id": 5423,
+    "slug": "tower-boom",
+    "title": "Tower Boom",
+    "description": "Tower Boom is a puzzle physics-based demolition game, your mission is to destroy all towers by placing dynamites. Enjoy the game!",
+    "instructions": "Click anywhere on the screen to pick the dynamite, place it on the concrete, press detonator to explode all dynamites. Win each level by taking the rubble down under the limit line.",
+    "thumbnail": "https://img.gamedistribution.com/114b5a37924e4909a8a3a0b85225f570-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/114b5a37924e4909a8a3a0b85225f570/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "arcade"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Gamealliz",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.802223",
+    "featured": false
+  },
+  {
+    "id": 5420,
+    "slug": "kuri-in-lull-the-ghosts",
+    "title": "Kuri in Lull the Ghosts!!",
+    "description": "Oh no somebody made the sun go dark and now there are boisterous ghosts everywhere! Use your magic to create some lights to lull the ghosts to sleep!",
+    "instructions": "Fill the screen with light orbs without colliding with the ghosts.",
+    "thumbnail": "https://img.gamedistribution.com/3e311fab4bed4bf791486acf228f8e06-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/3e311fab4bed4bf791486acf228f8e06/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "physics"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "qeshi",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:15.940483",
+    "featured": false
+  },
+  {
+    "id": 5409,
+    "slug": "ninja-gravity",
+    "title": "Ninja Gravity",
+    "description": "Ninja Gravity is a fantastic fast-paced casual HTML5 game. The goal is to run to the castle tower's top without hitting the obstacles. Collect all the gold coins to purchase new skins.",
+    "instructions": "Touch the screen to jump from side to side. Avoid the obstacles and grab as many coins as possible.",
+    "thumbnail": "https://img.gamedistribution.com/e5cc0eabef9a4676aabfb4d289b08a56-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/e5cc0eabef9a4676aabfb4d289b08a56/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "gravity",
+      "jumping",
+      "ninja"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Smart Play Studios",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:16.108599",
+    "featured": false
+  },
+  {
+    "id": 5407,
+    "slug": "pop-ball",
+    "title": "Pop Ball",
+    "description": "If you like ball games, then Pop Ball you can't miss! Tap the screen to generate white balls and let them collide with colored balls to destroy them. You can only pass the game by destroying all the colored balls. If you're in a state of boredom or stress, why not join us! Release the stress, eliminate the boredom and enjoy!",
+    "instructions": "Click to play",
+    "thumbnail": "https://img.gamedistribution.com/59d61d560a644b38b56d6d5ea119ab14-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/59d61d560a644b38b56d6d5ea119ab14/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 720,
+    "iframe_height": 1280,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "ball",
+      "relax"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "YAD.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:23.007567",
+    "featured": false
+  },
+  {
+    "id": 5399,
+    "slug": "rope-slash-online",
+    "title": "Rope Slash Online",
+    "description": "Use your finger to cut the rope and release the ball. Smash all cans to complete a level! Enjoy many levels of this simple and fun arcade puzzle, control the ball and destroy all the cans to complete the levels. Use the physics to guide the ball through different obstacles and cut the ropes to move in different directions, use moving platforms and enjoy this fantastic game!",
+    "instructions": "PC controls: Use the left mouse to cut the ropes. Mobile and Tablet controls: Tap and slide to cut the ropes.",
+    "thumbnail": "https://img.gamedistribution.com/2c9a6f8236ac4f6eb622a143fd020c43-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/2c9a6f8236ac4f6eb622a143fd020c43/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "ball",
+      "cute"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "kiz10.com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:23.051870",
+    "featured": false
+  },
+  {
+    "id": 5395,
+    "slug": "soul-hunter",
+    "title": "Soul Hunter",
+    "description": "Casual puzzle game. Help skull find love by becoming a soul hunter who can take over the soul of other people and creatures. Using these souls, you can preform more tasks, which in the end can lead you back to your love. think before a step ahead.",
+    "instructions": "WASD and R to restart point",
+    "thumbnail": "https://img.gamedistribution.com/5e6049e706c74f1ba5d6ba671747425e-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/5e6049e706c74f1ba5d6ba671747425e/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "arcade"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Gamealliz",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:23.432230",
+    "featured": false
+  },
+  {
+    "id": 5393,
+    "slug": "emoji-maze",
+    "title": "Emoji Maze",
+    "description": "Emoji Maze is a fun game themed around the well-known emojis, you can choose which emoji to play with. Collect the likes through the maze, avoiding being caught by enemies, complete all levels and be the winner.",
+    "instructions": "On the computer, use the arrow key to move. On mobile, tap the arrows on the screen to move.",
+    "thumbnail": "https://img.gamedistribution.com/8cb11b4839634d3b8a38223254f66010-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/8cb11b4839634d3b8a38223254f66010/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 1280,
+    "iframe_height": 720,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "2d",
+      "emojis"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Rich Games",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:23.314044",
+    "featured": false
+  },
+  {
+    "id": 5389,
+    "slug": "mall-service",
+    "title": "Mall Service",
+    "description": "In the Mail Service game, you need to monitor the order, cleanliness and efficiency of the shopping center. Discover new territories and sign contracts for your services. Upgrade your character to cope with the robot faster. With each improvement, you will be paid more for the work done. Features: - Addictive gameplay - Beautiful graphics - Pleasant music - Deep gameplay",
+    "instructions": "Move: Drag Joystick Collect garbage and sell it",
+    "thumbnail": "https://img.gamedistribution.com/91879b5d7d844f078bfb3e14822e7db3-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/91879b5d7d844f078bfb3e14822e7db3/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 600,
+    "iframe_height": 900,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "singleplayer"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Andy Games",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:23.538293",
+    "featured": false
+  },
+  {
+    "id": 5369,
+    "slug": "gurido",
+    "title": "Gurido",
+    "description": "Gurido is a minimalistic puzzle game. At the top of a 10x10 grid of cells, they have an irregularity shaped and coloured figure. By dragging these in a blank space of the grid, let create sets of five or more cells of same color to clear the connected cells. With a big series of connected cells and some luck, catch powerful items to clear more cells. Do your best!",
+    "instructions": "At the top of a 10x10 grid of cells, they have an irregularity shaped and coloured figure. By dragging these in a blank space of the grid, let create sets of five or more cells of same color to clear the connected cells. With a big series of connected cells and some luck, catch powerful items to clear more cells.",
+    "thumbnail": "https://img.gamedistribution.com/0685ec10b09848ec86fd3068a894db55-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/0685ec10b09848ec86fd3068a894db55/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 640,
+    "iframe_height": 960,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "Okashi Games",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:31.088668",
+    "featured": false
+  },
+  {
+    "id": 5359,
+    "slug": "fireman-rescue-maze",
+    "title": "Fireman Rescue Maze",
+    "description": "Fireman Rescue Maze is a free online maze game for boys. In the game, you will become a fireman and take part in fire fighting. You need to avoid various obstacles, put out the fire and take the trapped people out of the building. There are various levels in the game. Are you confident to surpass them? Come and challenge!",
+    "instructions": "Mouse or tap to play.",
+    "thumbnail": "https://img.gamedistribution.com/dec9901195e84785abf590620a8cf156-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/dec9901195e84785abf590620a8cf156/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "3d",
+      "avoid",
+      "boys",
+      "fire",
+      "obstacle",
+      "rescue"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "PuzzleGame.Com",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:31.408713",
+    "featured": false
+  },
+  {
+    "id": 5346,
+    "slug": "pinball-world-cup",
+    "title": "Pinball World Cup",
+    "description": "Hit the pinball paddles to score goals. Score 10 goals to win each level. Don't lose your soccer ball. Over 20 challenging levels filled with opponents. Soccer and football fans will love this game.",
+    "instructions": "Hit the paddles to score goals",
+    "thumbnail": "https://img.gamedistribution.com/993b5e1dece34a82b03de18239aa983f-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/993b5e1dece34a82b03de18239aa983f/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 800,
+    "iframe_height": 600,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "arcade",
+      "family",
+      "physics",
+      "sport"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "MarketJS",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:38.562650",
+    "featured": false
+  },
+  {
+    "id": 5340,
+    "slug": "space-escape",
+    "title": "Space Escape",
+    "description": "Welcome to Space Escape. Help the astronaut to reach the spaceship to escape. This is a new puzzle game for kids. Use your Left, Right, Up, and Down keyboard movements to move the astronaut. Play and have fun!",
+    "instructions": "Use your Left, Right, Up, and Down keyboard movements",
+    "thumbnail": "https://img.gamedistribution.com/090ccd305dd443dba05ef6b5b2df87fe-512x512.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/090ccd305dd443dba05ef6b5b2df87fe/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 854,
+    "iframe_height": 560,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "arcade",
+      "clicker",
+      "spaceship"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "BestGameSpot",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:38.758105",
+    "featured": false
+  },
+  {
+    "id": 5335,
+    "slug": "ninja-slash-shuriken-masters",
+    "title": "Ninja Slash : Shuriken Masters",
+    "description": "Enjoy an enhanced gaming experience Ninja Slash! Collect new Ninja Shuriken! A thriving block breaking game in which you throw a shuriken and break blocks that are born one after another.",
+    "instructions": "Long press the screen to adjust the direction of the shuriken, release your finger, let the shuriken defeat the enemy.",
+    "thumbnail": "https://img.gamedistribution.com/a442ac6e130842d6a3e4c757498c8285-512x384.jpeg",
+    "iframe_src": "https://html5.gamedistribution.com/a442ac6e130842d6a3e4c757498c8285/?gd_sdk_referrer_url=https://www.example.com/games/{game-path}",
+    "iframe_width": 750,
+    "iframe_height": 1334,
+    "primary_category": "casual",
+    "all_categories": [
+      "casual"
+    ],
+    "tags": [
+      "1player",
+      "ninja",
+      "singleplayer"
+    ],
+    "devices": [
+      "desktop",
+      "mobile",
+      "tablet"
+    ],
+    "developer": "BotaGame",
+    "batch_number": 16,
+    "collection_time": "2025-06-09T21:55:38.809104",
+    "featured": false
+  }
+]
