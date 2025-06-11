@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "description": "SEO metadata for game category pages",
+    "totalCategories": 8,
+    "language": "en",
+    "baseUrl": "https://littlegames.com"
+  },
+  "structure": {
+    "description": "This file contains SEO templates and metadata for category pages",
+    "dataSource": "Generated from category-index.json and game classification data",
+    "fields": {
+      "categoryId": "Category identifier",
+      "slug": "SEO-friendly URL slug",
+      "displayName": "Human-readable category name",
+      "gameCount": "Number of games in category",
+      "metadata": {
+        "title": "SEO optimized page title",
+        "description": "Meta description for category page",
+        "keywords": "Category-specific keywords",
+        "canonical": "Canonical URL",
+        "openGraph": "Open Graph metadata",
+        "twitter": "Twitter Card metadata"
+      },
+      "breadcrumbs": "Navigation structure",
+      "featuredGames": "Highlighted games for this category"
+    }
+  },
+  "loadInstructions": {
+    "note": "Category SEO data is generated based on templates below",
+    "usage": "Use category slug to generate SEO metadata dynamically",
+    "fallback": "Default to generic gaming category templates"
+  },
+  "categories": {
+    "adventure": {
+      "displayName": "Adventure Games",
+      "slug": "adventure",
+      "description": "Embark on epic quests and explore mysterious worlds",
+      "seoTitle": "Adventure Games - Epic Quests & Exploration | LittleGames",
+      "seoDescription": "Discover thrilling adventure games! Explore mysterious worlds, solve puzzles, and embark on epic quests. Play free adventure games online now!",
+      "keywords": ["adventure games", "quest games", "exploration games", "story games", "free adventure"],
+      "gameCount": 1200,
+      "featuredTags": ["quest", "exploration", "story", "mystery"]
+    },
+    "casual": {
+      "displayName": "Casual Games",
+      "slug": "casual",
+      "description": "Easy-to-play games perfect for quick entertainment",
+      "seoTitle": "Casual Games - Easy & Fun Online Games | LittleGames",
+      "seoDescription": "Play relaxing casual games online! Easy-to-learn, fun-to-play games perfect for quick breaks. No download required - start playing instantly!",
+      "keywords": ["casual games", "easy games", "relaxing games", "quick games", "simple games"],
+      "gameCount": 2500,
+      "featuredTags": ["relaxing", "simple", "quick-play", "family-friendly"]
+    },
+    "arcade": {
+      "displayName": "Arcade Games",
+      "slug": "arcade",
+      "description": "Classic arcade-style games with retro charm",
+      "seoTitle": "Arcade Games - Classic Retro Gaming Fun | LittleGames",
+      "seoDescription": "Experience classic arcade gaming! Play retro-style games with simple controls and addictive gameplay. Free arcade games online!",
+      "keywords": ["arcade games", "retro games", "classic games", "pixel games", "old school"],
+      "gameCount": 1800,
+      "featuredTags": ["retro", "classic", "pixel-art", "high-score"]
+    },
+    "puzzle": {
+      "displayName": "Puzzle Games",
+      "slug": "puzzle",
+      "description": "Challenge your mind with brain-teasing puzzles",
+      "seoTitle": "Puzzle Games - Brain Teasers & Logic Games | LittleGames",
+      "seoDescription": "Exercise your brain with challenging puzzle games! Solve logic puzzles, brain teasers, and mind-bending challenges. Free puzzle games online!",
+      "keywords": ["puzzle games", "brain teasers", "logic games", "mind games", "thinking games"],
+      "gameCount": 2200,
+      "featuredTags": ["logic", "brain-teaser", "strategy", "problem-solving"]
+    },
+    "simulation": {
+      "displayName": "Simulation Games",
+      "slug": "simulation",
+      "description": "Realistic simulations and life management games",
+      "seoTitle": "Simulation Games - Life & Management Sims | LittleGames",
+      "seoDescription": "Build, manage, and simulate! Play realistic simulation games including city builders, life sims, and management games. Free online!",
+      "keywords": ["simulation games", "management games", "building games", "life simulation", "strategy sim"],
+      "gameCount": 800,
+      "featuredTags": ["building", "management", "realistic", "strategy"]
+    },
+    "strategy": {
+      "displayName": "Strategy Games",
+      "slug": "strategy",
+      "description": "Plan, conquer, and outsmart your opponents",
+      "seoTitle": "Strategy Games - Tactical & War Games | LittleGames",
+      "seoDescription": "Master the art of strategy! Play tactical games, war simulations, and strategic challenges. Plan your moves and conquer! Free strategy games online!",
+      "keywords": ["strategy games", "tactical games", "war games", "planning games", "conquest games"],
+      "gameCount": 900,
+      "featuredTags": ["tactical", "planning", "war", "conquest"]
+    },
+    "sports": {
+      "displayName": "Sports Games",
+      "slug": "sports",
+      "description": "Athletic competitions and sports simulations",
+      "seoTitle": "Sports Games - Athletic & Competition Games | LittleGames",
+      "seoDescription": "Get in the game! Play exciting sports games including football, basketball, soccer, and more. Compete and win! Free sports games online!",
+      "keywords": ["sports games", "athletic games", "competition games", "team sports", "olympic games"],
+      "gameCount": 600,
+      "featuredTags": ["athletic", "competition", "team-sport", "olympic"]
+    },
+    "action": {
+      "displayName": "Action Games",
+      "slug": "action",
+      "description": "Fast-paced games with intense gameplay",
+      "seoTitle": "Action Games - Fast-Paced & Intense Gaming | LittleGames",
+      "seoDescription": "Get your adrenaline pumping! Play intense action games with fast-paced gameplay, combat, and thrilling challenges. Free action games online!",
+      "keywords": ["action games", "fast-paced games", "combat games", "intense games", "adrenaline games"],
+      "gameCount": 1500,
+      "featuredTags": ["fast-paced", "combat", "intense", "adrenaline"]
+    }
+  },
+  "seoTemplates": {
+    "categoryTitle": {
+      "pattern": "{categoryName} - {description} | LittleGames",
+      "maxLength": 60
+    },
+    "categoryDescription": {
+      "pattern": "Play amazing {categoryName}! {description} Free online {categorySlug} games with instant browser play. No download required!",
+      "maxLength": 160
+    },
+    "breadcrumbs": [
+      {"label": "Home", "href": "/"},
+      {"label": "Games", "href": "/games"},
+      {"label": "{categoryName}", "href": "/categories/{categorySlug}", "current": true}
+    ],
+    "openGraph": {
+      "type": "website",
+      "imagePattern": "https://littlegames.com/images/categories/{categorySlug}-og.jpg",
+      "urlPattern": "https://littlegames.com/categories/{categorySlug}"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "imagePattern": "https://littlegames.com/images/categories/{categorySlug}-twitter.jpg"
+    }
+  },
+  "qualityMetrics": {
+    "titleLength": {"min": 40, "max": 60},
+    "descriptionLength": {"min": 120, "max": 160},
+    "keywordCount": {"min": 4, "max": 10},
+    "gameCountAccuracy": {"min": 0.95},
+    "categoryRelevance": {"min": 0.9}
+  }
+}

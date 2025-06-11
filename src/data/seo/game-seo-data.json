@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "description": "SEO metadata for individual game pages",
+    "totalGames": 9726,
+    "language": "en",
+    "baseUrl": "https://littlegames.com"
+  },
+  "structure": {
+    "description": "This file contains SEO templates and metadata for game pages",
+    "dataSource": "Generated from validated-games.json and test-output/seo/games/",
+    "fields": {
+      "gameId": "Unique game identifier",
+      "slug": "SEO-friendly URL slug",
+      "metadata": {
+        "title": "SEO optimized page title",
+        "description": "Meta description (150-160 characters)",
+        "keywords": "Array of relevant keywords",
+        "canonical": "Canonical URL",
+        "openGraph": "Open Graph metadata for social sharing",
+        "twitter": "Twitter Card metadata"
+      },
+      "breadcrumbs": "Navigation breadcrumb structure",
+      "relatedGames": "Array of related game IDs",
+      "contentVariant": "Content variation for A/B testing"
+    }
+  },
+  "loadInstructions": {
+    "note": "Individual game SEO data is stored in test-output/seo/games/ directory",
+    "usage": "Load specific game SEO data using: test-output/seo/games/{slug}.json",
+    "fallback": "Use templates below if specific game data not found"
+  },
+  "categoryReference": {
+    "file": "category-seo-data.json",
+    "description": "Category-specific SEO data and templates"
+  },
+  "seoTemplates": {
+    "gameTitle": {
+      "pattern": "{gameName} - {categoryType} Game",
+      "examples": [
+        "2048 - Exciting Action Adventure Game",
+        "Puzzle Master - Brain Teasing Puzzle Game",
+        "Racing Thunder - High-Speed Racing Game"
+      ]
+    },
+    "gameDescription": {
+      "pattern": "Get ready for {emotion} in {gameName}. This free online {category} game brings you instant browser play and endless fun. No download required!",
+      "emotions": ["adrenaline-pumping action", "brain-teasing challenges", "exciting adventures", "thrilling gameplay"],
+      "maxLength": 160
+    },
+    "keywords": {
+      "base": ["{gameName} game", "free browser games", "online gaming"],
+      "categorySpecific": {
+        "action": ["action games", "fast-paced gaming"],
+        "puzzle": ["puzzle games", "brain teasers"],
+        "adventure": ["adventure games", "exploration"],
+        "casual": ["casual games", "easy gaming"],
+        "arcade": ["arcade games", "retro gaming"],
+        "strategy": ["strategy games", "tactical gaming"],
+        "simulation": ["simulation games", "realistic gaming"],
+        "sports": ["sports games", "athletic gaming"]
+      }
+    },
+    "openGraph": {
+      "type": "article",
+      "imagePattern": "https://littlegames.com/images/games/{slug}-og.jpg",
+      "urlPattern": "https://littlegames.com/games/{slug}"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "imagePattern": "https://littlegames.com/images/games/{slug}-twitter.jpg"
+    }
+  },
+  "qualityMetrics": {
+    "titleLength": {"min": 30, "max": 60},
+    "descriptionLength": {"min": 120, "max": 160},
+    "keywordCount": {"min": 3, "max": 8},
+    "uniquenessScore": {"min": 0.8},
+    "readabilityScore": {"min": 0.7}
+  }
+}
