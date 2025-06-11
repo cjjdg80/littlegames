@@ -65,22 +65,22 @@ class GameDataPreprocessor {
    */
   private initializeCategoryMappings(): void {
     this.categoryMappings = {
-      // 动作类游戏
-      'action': 'action',
-      'fighting': 'action',
-      'shooter': 'action',
-      'platform': 'action',
-      'beat-em-up': 'action',
-      
       // 冒险类游戏
       'adventure': 'adventure',
       'rpg': 'adventure',
       'role-playing': 'adventure',
       'quest': 'adventure',
+      'fighting': 'adventure',
+      'platform': 'adventure',
+      
+      // 街机类游戏
+      'arcade': 'arcade',
+      'action': 'arcade',
+      'shooter': 'arcade',
+      'beat-em-up': 'arcade',
       
       // 休闲类游戏
       'casual': 'casual',
-      'arcade': 'casual',
       'family': 'casual',
       'kids': 'casual',
       
@@ -90,6 +90,11 @@ class GameDataPreprocessor {
       'logic': 'puzzle',
       'word': 'puzzle',
       'trivia': 'puzzle',
+      
+      // 模拟类游戏
+      'simulation': 'simulation',
+      'management': 'simulation',
+      'building': 'simulation',
       
       // 体育类游戏
       'sports': 'sports',
@@ -101,13 +106,9 @@ class GameDataPreprocessor {
       // 策略类游戏
       'strategy': 'strategy',
       'tower-defense': 'strategy',
-      'simulation': 'strategy',
-      'management': 'strategy',
-      
-      // 多人游戏
-      'multiplayer': 'multiplayer',
-      'io': 'multiplayer',
-      'battle-royale': 'multiplayer'
+      'multiplayer': 'strategy',
+      'io': 'strategy',
+      'battle-royale': 'strategy'
     };
   }
 
@@ -406,4 +407,5 @@ if (require.main === module) {
   main();
 }
 
-export { GameDataPreprocessor, GameData, PreprocessingResult };
+export { GameDataPreprocessor };
+export type { GameData, PreprocessingResult };

@@ -60,22 +60,20 @@ var GameDataPreprocessor = /** @class */ (function () {
      */
     GameDataPreprocessor.prototype.initializeCategoryMappings = function () {
         this.categoryMappings = {
-            // 动作类游戏
-            'action': 'action',
-            'fighting': 'action',
-            'shooter': 'action',
-            'platform': 'action',
-            'beat-em-up': 'action',
             // 冒险类游戏
             'adventure': 'adventure',
             'rpg': 'adventure',
             'role-playing': 'adventure',
             'quest': 'adventure',
+            'fighting': 'adventure',
+            'platform': 'adventure',
             // 休闲类游戏
             'casual': 'casual',
             'arcade': 'casual',
             'family': 'casual',
             'kids': 'casual',
+            'shooter': 'casual',
+            'beat-em-up': 'casual',
             // 益智类游戏
             'puzzle': 'puzzle',
             'brain': 'puzzle',
