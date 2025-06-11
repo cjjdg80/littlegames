@@ -695,21 +695,27 @@ export class QualityChecker {
     // 限制标题缓存大小
     if (this.titleCache.size >= MAX_CACHE_SIZE) {
       const firstItem = this.titleCache.values().next().value;
-      this.titleCache.delete(firstItem);
+      if (firstItem !== undefined) {
+        this.titleCache.delete(firstItem);
+      }
     }
     this.titleCache.add(title.toLowerCase());
     
     // 限制内容缓存大小
     if (this.contentCache.size >= MAX_CACHE_SIZE) {
       const firstItem = this.contentCache.values().next().value;
-      this.contentCache.delete(firstItem);
+      if (firstItem !== undefined) {
+        this.contentCache.delete(firstItem);
+      }
     }
     this.contentCache.add(description.toLowerCase());
     
     // 限制描述缓存大小
     if (this.descriptionCache.size >= MAX_CACHE_SIZE) {
       const firstItem = this.descriptionCache.values().next().value;
-      this.descriptionCache.delete(firstItem);
+      if (firstItem !== undefined) {
+        this.descriptionCache.delete(firstItem);
+      }
     }
     this.descriptionCache.add(description.toLowerCase());
   }

@@ -198,7 +198,7 @@ class GameDataValidator {
     } catch (error) {
       console.error(`验证游戏 ${game.name} 时发生错误:`, error);
       validationResult.isValid = false;
-      validationResult.issues.push(`验证过程出错: ${error.message}`);
+      validationResult.issues.push(`验证过程出错: ${error instanceof Error ? error.message : String(error)}`);
       this.validationResults.invalid++;
       this.validationResults.invalidGames.push({
         ...game,
@@ -218,7 +218,6 @@ class GameDataValidator {
     try {
       const response = await fetch(url, {
         method: 'HEAD',
-        timeout: 10000, // 10秒超时
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
@@ -267,7 +266,6 @@ class GameDataValidator {
     try {
       const response = await fetch(imageUrl, {
         method: 'HEAD',
-        timeout: 8000, // 8秒超时
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }

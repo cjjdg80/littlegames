@@ -548,7 +548,8 @@ class GameQueryAPI {
 const gameAPI = new GameQueryAPI();
 
 export default gameAPI;
-export { GameQueryAPI, QueryParams, QueryResult, GameDetail, GameIndex };
+export { GameQueryAPI };
+export type { QueryParams, QueryResult, GameDetail, GameIndex };
 
 // 如果直接运行此文件，执行测试
 if (import.meta.url === `file://${process.argv[1]}`) {

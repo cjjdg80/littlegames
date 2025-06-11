@@ -458,7 +458,7 @@ export class SEOBatchGenerator {
               fileName = `${item.slug || item.id}.json`;
               break;
             case 'category':
-              seoData = this.generator.generateCategorySEO(item, {});
+              seoData = this.generator.generateCategorySEO(item, 0);
               fileName = `${item.category}.json`;
               break;
             case 'tag':
