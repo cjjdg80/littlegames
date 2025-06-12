@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmallGames - UI Preview (Dark Theme)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
+    <!-- 顶部导航 -->
+    <header class="bg-gray-900 border-b border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <!-- Logo区域 -->
+                <div class="flex items-center gap-3">
+                    <div class="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center">
+                        <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold text-white">SmallGames</h1>
+                        <p class="text-xs text-gray-400">Play instantly, anywhere</p>
+                    </div>
+                </div>
+                
+                <!-- 右侧工具栏 -->
+                <div class="flex items-center gap-4">
+                    <div class="flex items-center gap-2 text-gray-300">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M16 4c0-1.11.89-2 2-2s2 .89 2 2-.89 2-2 2-2-.89-2-2zm4 18v-6h2.5l-2.54-7.63A1.5 1.5 0 0 0 18.54 8H16c-.8 0-1.54.37-2.01 1l-2.7 3.6L5.5 9.5c-.28-.28-.67-.5-1.08-.5C3.56 9 3 9.56 3 10.24v.72c0 .28.11.53.29.71L9 17.38V22h2v-6.5l-2.05-2.05 2.2-3.1L12 11.5c0 1.1.9 2 2 2v7h2z"/>
+                        </svg>
+                        <span class="text-sm">12.5K online</span>
+                    </div>
+                    <button class="flex items-center gap-2 px-3 py-2 border border-gray-600 rounded-lg text-sm hover:bg-gray-800 text-gray-300">
+                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                        </svg>
+                        Leaderboard
+                    </button>
+                </div>
+            </div>
+
+            <!-- 搜索栏和控制 -->
+            <div class="mt-4 flex flex-col lg:flex-row gap-4">
+                <div class="relative flex-1">
+                    <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                    </svg>
+                    <input type="search" placeholder="Search games..." class="w-full pl-10 pr-4 py-2 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                </div>
+                
+                <div class="flex items-center gap-2">
+                    <button class="flex items-center gap-2 px-3 py-2 border border-gray-600 rounded-lg text-sm hover:bg-gray-800 text-gray-300">
+                        Sort: popular
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                        </svg>
+                    </button>
+                    
+                    <div class="flex border border-gray-600 rounded-lg">
+                        <button class="px-3 py-2 bg-gray-700 text-white rounded-l-lg">
+                            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M3 3h6v6H3V3zm8 0h6v6h-6V3zm8 0h6v6h-6V3zM3 11h6v6H3v-6zm8 0h6v6h-6v-6zm8 0h6v6h-6v-6zM3 19h6v6H3v-6zm8 0h6v6h-6v-6zm8 0h6v6h-6v-6z"/>
+                            </svg>
+                        </button>
+                        <button class="px-3 py-2 text-gray-400 hover:bg-gray-800 rounded-r-lg">
+                            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h18v2H3v-2z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主内容区域 -->
+    <main class="max-w-7xl mx-auto px-4 py-6">
+        <!-- 分类筛选 -->
+        <div class="mb-6">
+            <div class="flex gap-2 overflow-x-auto pb-2">
+                <button class="whitespace-nowrap text-sm px-4 py-2 bg-white text-gray-900 rounded-lg">All</button>
+                <button class="whitespace-nowrap text-sm px-4 py-2 bg-gray-800 text-gray-300 hover:bg-gray-700 rounded-lg">puzzle</button>
+                <button class="whitespace-nowrap text-sm px-4 py-2 bg-gray-800 text-gray-300 hover:bg-gray-700 rounded-lg">racing</button>
+                <button class="whitespace-nowrap text-sm px-4 py-2 bg-gray-800 text-gray-300 hover:bg-gray-700 rounded-lg">adventure</button>
+                <button class="whitespace-nowrap text-sm px-4 py-2 bg-gray-800 text-gray-300 hover:bg-gray-700 rounded-lg">strategy</button>
+                <button class="whitespace-nowrap text-sm px-4 py-2 bg-gray-800 text-gray-300 hover:bg-gray-700 rounded-lg">action</button>
+            </div>
+        </div>
+
+        <!-- Featured Games 区域 -->
+        <section class="mb-8">
+            <div class="flex items-center gap-2 mb-4">
+                <svg class="w-5 h-5 text-yellow-500 fill-current" viewBox="0 0 24 24">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                </svg>
+                <h2 class="text-xl font-semibold text-white">Featured Games</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <!-- 游戏卡片 1 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop" alt="Puzzle Master" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-yellow-500 text-yellow-900 text-xs px-2 py-1 rounded font-medium">Featured</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Puzzle Master</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.8</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Puzzle</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>2.1M</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 游戏卡片 2 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop" alt="Space Adventure" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-yellow-500 text-yellow-900 text-xs px-2 py-1 rounded font-medium">Featured</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Space Adventure</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.9</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Adventure</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>3.2M</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 游戏卡片 3 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=300&fit=crop" alt="Action Hero" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-yellow-500 text-yellow-900 text-xs px-2 py-1 rounded font-medium">Featured</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Action Hero</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.4</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Action</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>2.8M</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- All Games 区域 -->
+        <section>
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="text-xl font-semibold text-white">All Games</h2>
+                <span class="text-sm text-gray-400">8 games found</span>
+            </div>
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                <!-- 游戏卡片 4 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=300&fit=crop" alt="Memory Challenge" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-yellow-500 text-yellow-900 text-xs px-2 py-1 rounded font-medium">Featured</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Memory Challenge</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.7</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Puzzle</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>1.2M</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 游戏卡片 5 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop" alt="Racing Pro" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-green-500 text-white text-xs px-2 py-1 rounded font-medium">New</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Racing Pro</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.6</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Racing</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>1.8M</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 游戏卡片 6 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&h=300&fit=crop" alt="Strategy Wars" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Strategy Wars</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.5</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Strategy</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>990K</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 游戏卡片 7 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400&h=300&fit=crop" alt="Adventure Quest" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Adventure Quest</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.3</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Adventure</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>1.5M</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 游戏卡片 8 -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group">
+                    <div class="relative aspect-[4/3] overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=400&h=300&fit=crop" alt="Puzzle World" class="w-full h-full object-cover transition-transform duration-200 group-hover:scale-105">
+                        <div class="absolute top-2 left-2">
+                            <span class="bg-green-500 text-white text-xs px-2 py-1 rounded font-medium">New</span>
+                        </div>
+                    </div>
+                    <div class="p-3">
+                        <div class="flex items-start justify-between mb-1">
+                            <h3 class="font-medium text-gray-900 truncate text-sm">Puzzle World</h3>
+                            <div class="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
+                                <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                </svg>
+                                <span class="text-xs font-medium">4.6</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center justify-between text-xs text-gray-600">
+                            <span class="capitalize">Puzzle</span>
+                            <span class="flex items-center gap-1">
+                                <span>↓</span>
+                                <span>800K</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html> 

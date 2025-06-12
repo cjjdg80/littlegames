@@ -1,0 +1,81 @@
+下面是**简洁明了的首页UI区域和元素布局描述**，适合你结合自己的组件复用和扩展。
+
+---
+
+## 首页UI设计元素与区域布局
+
+### 1. 顶部导航栏（Header / Navbar）
+- 左侧：站点Logo + 标题（“playbrowserminigames”），副标题（“Play Browser Mini Games”）
+- 中部：搜索框（带放大镜icon，placeholder：“Search games...”）
+- 右侧：在线人数（如“12.5K online”）、排行榜按钮（带奖杯icon）
+
+---
+
+### 2. 分类标签栏（Tabs / Category Bar）
+- 一行圆角标签按钮：  
+  All / puzzle / racing / adventure / strategy / action  
+  - 选中标签高亮，未选中为浅灰色
+
+---
+
+### 3. 精选游戏区（Featured Games Section）
+- 区域标题：左侧带星星icon，“Featured Games”
+- 横向排列的3个大卡片（居中对齐，带阴影、圆角）
+  - 每卡片包含：
+    - 左上角“Featured”标签
+    - 游戏大图（可覆盖卡片上半部分）
+    - 图片中央叠加“Play Now”按钮（带播放icon、半透明背景）
+    - 卡片底部：游戏名、类型、评分（星星icon+数字）、玩家数（用户icon+数字）
+
+---
+
+### 4. 全部游戏区（All Games Section）
+- 区域标题：“All Games”，右上角显示总数（如“6 games found”）
+- 网格排列（PC端3列2行，移动端1列），每个卡片元素与精选区一致
+  - 卡片左上角可有“Featured”或“New”标签
+  - 游戏图片、名称、类型、评分、玩家数
+
+---
+
+### 5. 页脚（Footer）
+- 左侧：版权信息（如“© 2024 SmallGames Live · Free to play · No downloads required”）
+- 右侧：更新时间说明（“Updated daily”+日历icon）
+
+---
+
+### 6. 其他UI细节
+- 整体背景：浅灰色（如`bg-gray-50`）
+- 卡片：白底、圆角、阴影
+- 所有按钮/标签：圆角，主色调为黄色、绿色、蓝色、黑色
+- 图标：统一风格（如Lucide/Heroicons）
+- 响应式设计：移动端单列，桌面端多列
+
+---
+
+## 区域布局结构（示意）
+
+```
+Header
+ ├─ Logo + Title + Subtitle
+ ├─ SearchBar
+ └─ OnlineCount + LeaderboardBtn
+
+CategoryTabs
+
+FeaturedGamesSection
+ ├─ FeaturedCard
+ ├─ FeaturedCard
+ └─ FeaturedCard
+
+AllGamesSection
+ ├─ GameCard  GameCard  GameCard
+ ├─ GameCard  GameCard  GameCard
+
+Footer
+ ├─ Copyright
+ └─ UpdateInfo
+```
+
+---
+
+你可以根据以上区域和元素，自由组合你自己的栏目和组件。需要某一区域的更详细UI说明，随时告诉我！
