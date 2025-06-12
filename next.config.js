@@ -50,7 +50,20 @@ const nextConfig = {
   // URL重写配置
   async rewrites() {
     return [
-      // API路由重写（如果需要）
+      // 多语言路由重写
+      {
+        source: '/:locale(zh|es|fr|de|ja|ko)/games/:category/:slug',
+        destination: '/:locale/games/:category/:slug',
+      },
+      {
+        source: '/:locale(zh|es|fr|de|ja|ko)/games/:category',
+        destination: '/:locale/games/:category',
+      },
+      {
+        source: '/:locale(zh|es|fr|de|ja|ko)/tags/:tag',
+        destination: '/:locale/tags/:tag',
+      },
+      // API路由重写
       {
         source: '/api/games/:path*',
         destination: '/api/games/:path*',
