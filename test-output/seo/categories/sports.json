@@ -10,12 +10,12 @@
       "no download games",
       "instant play"
     ],
-    "canonical": "https://playbrowserminigames.com/categories/sports",
+    "canonical": "https://playbrowserminigames.com/games/sports",
     "openGraph": {
       "title": "Best Sports Games - Free Browser Gaming",
       "description": "Explore our extensive Sports games library with 95 titles. From classic favorites to new releases, find your perfect game and start playing for free!",
       "image": "https://img.gamedistribution.com/e2c035f654cf4b1d91f6d4c57b649b50-1280x720.jpg",
-      "url": "https://playbrowserminigames.com/categories/sports",
+      "url": "https://playbrowserminigames.com/games/sports",
       "type": "website"
     },
     "twitter": {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Sports",
-      "href": "/categories/sports",
+      "href": "/games/sports",
       "current": true
     }
   ],

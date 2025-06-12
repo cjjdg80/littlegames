@@ -10,12 +10,12 @@
       "online Adventure",
       "game collection"
     ],
-    "canonical": "https://playbrowserminigames.com/categories/adventure",
+    "canonical": "https://playbrowserminigames.com/games/adventure",
     "openGraph": {
       "title": "Adventure Game Collection - Instant Play",
       "description": "Play top-rated Adventure games in your browser. We offer 1101 carefully selected games with hours of entertainment. All games are free and ready to play!",
       "image": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-512x512.jpg",
-      "url": "https://playbrowserminigames.com/categories/adventure",
+      "url": "https://playbrowserminigames.com/games/adventure",
       "type": "website"
     },
     "twitter": {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Adventure",
-      "href": "/categories/adventure",
+      "href": "/games/adventure",
       "current": true
     }
   ],

@@ -10,12 +10,12 @@
       "no download games",
       "instant play"
     ],
-    "canonical": "https://playbrowserminigames.com/categories/casual",
+    "canonical": "https://playbrowserminigames.com/games/casual",
     "openGraph": {
       "title": "Best Casual Games - Free Browser Gaming",
       "description": "Discover the best Casual games online! Our collection features 2415 amazing games that you can play for free. No downloads required - start playing instantly!",
       "image": "https://img.gamedistribution.com/ad14e488375b4e41af52a4617f6837d0-512x384.jpg",
-      "url": "https://playbrowserminigames.com/categories/casual",
+      "url": "https://playbrowserminigames.com/games/casual",
       "type": "website"
     },
     "twitter": {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Casual",
-      "href": "/categories/casual",
+      "href": "/games/casual",
       "current": true
     }
   ],

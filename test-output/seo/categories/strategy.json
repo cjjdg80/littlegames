@@ -10,12 +10,12 @@
       "online Strategy",
       "game collection"
     ],
-    "canonical": "https://playbrowserminigames.com/categories/strategy",
+    "canonical": "https://playbrowserminigames.com/games/strategy",
     "openGraph": {
       "title": "Strategy Game Collection - Instant Play",
       "description": "Play top-rated Strategy games in your browser. We offer 900+ carefully selected games with hours of entertainment. All games are free and ready to play!",
       "image": "https://img.gamedistribution.com/strategy-games-thumbnail.jpg",
-      "url": "https://playbrowserminigames.com/categories/strategy",
+      "url": "https://playbrowserminigames.com/games/strategy",
       "type": "website"
     },
     "twitter": {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Strategy",
-      "href": "/categories/strategy",
+      "href": "/games/strategy",
       "current": true
     }
   ],

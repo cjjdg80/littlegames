@@ -1,0 +1,52 @@
+{
+  "category": "action",
+  "displayName": "Action",
+  "metadata": {
+    "title": "Action Game Collection - Instant Play",
+    "description": "Play top-rated Action games in your browser. We offer 1500+ carefully selected games with hours of entertainment. All games are free and ready to play!",
+    "keywords": [
+      "best Action games",
+      "free browser games",
+      "online Action",
+      "game collection"
+    ],
+    "canonical": "https://playbrowserminigames.com/games/action",
+    "openGraph": {
+      "title": "Action Game Collection - Instant Play",
+      "description": "Play top-rated Action games in your browser. We offer 1500+ carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/action-games-thumbnail.jpg",
+      "url": "https://playbrowserminigames.com/games/action",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Action Game Collection - Instant Play",
+      "description": "Play top-rated Action games in your browser. We offer 1500+ carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/action-games-thumbnail.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Action",
+      "href": "/games/action",
+      "current": true
+    }
+  ],
+  "featuredGames": [
+    "action-hero-adventure",
+    "combat-zone-battle",
+    "ninja-warrior-quest",
+    "space-shooter-galaxy"
+  ],
+  "gameCount": 1500,
+  "description": "Fast-paced and intense games",
+  "featuredTags": ["fast-paced", "combat", "intense", "adrenaline"]
+} 

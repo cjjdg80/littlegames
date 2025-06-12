@@ -10,12 +10,12 @@
       "online gaming",
       "browser entertainment"
     ],
-    "canonical": "https://playbrowserminigames.com/categories/arcade",
+    "canonical": "https://playbrowserminigames.com/games/arcade",
     "openGraph": {
       "title": "Best Arcade Games - Free Browser Gaming",
       "description": "Enjoy the ultimate Arcade gaming experience with our collection of 4530 games. All games are browser-based, free to play, and instantly accessible!",
       "image": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-512x384.jpg",
-      "url": "https://playbrowserminigames.com/categories/arcade",
+      "url": "https://playbrowserminigames.com/games/arcade",
       "type": "website"
     },
     "twitter": {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Arcade",
-      "href": "/categories/arcade",
+      "href": "/games/arcade",
       "current": true
     }
   ],

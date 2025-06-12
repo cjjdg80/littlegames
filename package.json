@@ -1,6 +1,7 @@
 {
-  "name": "littlegames",
+  "name": "play-browser-mini-games",
   "version": "0.1.0",
+  "description": "Free online games platform - playbrowserminigames.com",
   "private": true,
   "scripts": {
     "dev": "next dev",

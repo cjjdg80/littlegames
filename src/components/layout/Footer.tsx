@@ -19,8 +19,12 @@ export default function Footer() {
     ],
     categories: [
       { label: "Action Games", href: "/games/action" },
-      { label: "Puzzle Games", href: "/games/puzzle" },
       { label: "Adventure Games", href: "/games/adventure" },
+      { label: "Arcade Games", href: "/games/arcade" },
+      { label: "Casual Games", href: "/games/casual" },
+      { label: "Puzzle Games", href: "/games/puzzle" },
+      { label: "Simulation Games", href: "/games/simulation" },
+      { label: "Sports Games", href: "/games/sports" },
       { label: "Strategy Games", href: "/games/strategy" },
     ],
     company: [
@@ -48,7 +52,7 @@ export default function Footer() {
               <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center">
                 <Gamepad2 className="w-5 h-5 text-white" />
               </div>
-              <span className="text-lg font-bold text-white">SmallGames</span>
+              <span className="text-lg font-bold text-white">Play Browser Mini Games</span>
             </Link>
             <p className="text-gray-400 text-sm mb-4 leading-relaxed">
               Discover thousands of free online games. Play instantly in your browser - 
@@ -147,7 +151,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             {/* 版权信息 */}
             <div className="text-gray-500 text-sm">
-              © {currentYear} SmallGames. All rights reserved.
+              © {currentYear} Play Browser Mini Games. All rights reserved.
             </div>
 
             {/* 社交媒体和外部链接 */}

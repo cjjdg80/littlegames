@@ -14,14 +14,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// SEO元数据配置 - 面向欧美用户的英文内容
-export const metadata: Metadata = {
-  title: "Play Browser Mini Games - Free Online Mini Games Platform",
-  description: "Discover and play thousands of free online mini games. Enjoy puzzle games, action games, arcade games and more. No download required, play instantly in your browser.",
-  keywords: "free games, online games, mini games, browser games, puzzle games, action games",
-  authors: [{ name: "Play Browser Mini Games Team" }],
-};
-
 // Viewport配置 - Next.js 15+要求单独导出
 export const viewport = {
   width: 'device-width',

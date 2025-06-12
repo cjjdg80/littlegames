@@ -10,12 +10,12 @@
       "online Puzzle",
       "game collection"
     ],
-    "canonical": "https://playbrowserminigames.com/categories/puzzle",
+    "canonical": "https://playbrowserminigames.com/games/puzzle",
     "openGraph": {
       "title": "Puzzle Game Collection - Instant Play",
       "description": "Browse 1412 exciting Puzzle games and find your next favorite. Our curated collection offers something for every player. Play free online now!",
       "image": "https://img.gamedistribution.com/2fefa1516c4a4f8bbfc4ab040295d329-512x384.jpg",
-      "url": "https://playbrowserminigames.com/categories/puzzle",
+      "url": "https://playbrowserminigames.com/games/puzzle",
       "type": "website"
     },
     "twitter": {
@@ -36,7 +36,7 @@
     },
     {
       "label": "Puzzle",
-      "href": "/categories/puzzle",
+      "href": "/games/puzzle",
       "current": true
     }
   ],

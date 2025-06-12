@@ -32,6 +32,12 @@
   },
   "featuredCategories": [
     {
+      "slug": "action",
+      "name": "Action",
+      "description": "Fast-paced and intense games",
+      "gameCount": 1500
+    },
+    {
       "slug": "adventure",
       "name": "Adventure",
       "description": "Epic quests and exploration games",
@@ -44,21 +50,39 @@
       "gameCount": 1800
     },
     {
-      "slug": "action",
-      "name": "Action",
-      "description": "Fast-paced and intense games",
-      "gameCount": 1500
-    },
-    {
       "slug": "strategy",
       "name": "Strategy",
       "description": "Tactical and planning games",
       "gameCount": 900
+    },
+    {
+      "slug": "arcade",
+      "name": "Arcade",
+      "description": "Classic arcade-style games",
+      "gameCount": 2100
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "description": "Athletic and competition games",
+      "gameCount": 600
+    },
+    {
+      "slug": "casual",
+      "name": "Casual",
+      "description": "Easy-to-play games for everyone",
+      "gameCount": 1800
+    },
+    {
+      "slug": "simulation",
+      "name": "Simulation",
+      "description": "Realistic simulations and life management",
+      "gameCount": 800
     }
   ],
   "stats": {
     "totalGames": 9726,
-    "totalCategories": 7,
+    "totalCategories": 8,
     "totalTags": 695,
     "lastUpdated": "2025-06-12"
   },

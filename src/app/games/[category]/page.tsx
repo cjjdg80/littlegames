@@ -4,6 +4,9 @@ import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getCanonicalUrl, generateBreadcrumbs, getCategoryUrl } from '@/lib/url-utils';
+import { getCategoryPageSEO, getAvailableCategories } from '@/lib/categorySEO';
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
 
 // 游戏数据类型定义
 interface Game {
@@ -45,11 +48,19 @@ interface CategoryPageProps {
  */
 export async function generateStaticParams(): Promise<PageParams[]> {
   try {
-    // TODO: 从数据源加载所有分类数据
-    // 这里需要读取分类索引文件
+    // 从SEO数据源加载所有可用分类
+    const availableCategories = await getAvailableCategories();
     
-    // 预定义的游戏分类（基于现有数据）
-    const categories: PageParams[] = [
+    const categories: PageParams[] = availableCategories.map(category => ({
+      category
+    }));
+    
+    console.log(`Generated ${categories.length} static paths for category pages`);
+    return categories;
+  } catch (error) {
+    console.error('Error generating static params for category pages:', error);
+    // 如果读取失败，使用预定义的分类作为后备
+    return [
       { category: 'action' },
       { category: 'adventure' },
       { category: 'arcade' },
@@ -59,12 +70,6 @@ export async function generateStaticParams(): Promise<PageParams[]> {
       { category: 'sports' },
       { category: 'strategy' }
     ];
-    
-    console.log(`Generated ${categories.length} static paths for category pages`);
-    return categories;
-  } catch (error) {
-    console.error('Error generating static params for category pages:', error);
-    return [];
   }
 }
 
@@ -74,53 +79,14 @@ export async function generateStaticParams(): Promise<PageParams[]> {
  */
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
   try {
-    const categoryData = await getCategoryData(params.category);
+    // Next.js 15+ 需要await params
+    const resolvedParams = await params;
+    // 使用SEO工具库加载分类数据
+    const { metadata } = await getCategoryPageSEO(resolvedParams.category);
     
-    if (!categoryData) {
-      return {
-        title: 'Category Not Found',
-        description: 'The requested game category could not be found.'
-      };
-    }
-
-    const canonicalUrl = getCanonicalUrl(getCategoryUrl(params.category));
-    const categoryName = categoryData.displayName || categoryData.name;
-    
+    // 添加robots配置
     return {
-      title: `${categoryName} Games - Play Free Online | ${categoryData.gameCount}+ Games`,
-      description: categoryData.description || `Play the best ${categoryName.toLowerCase()} games online for free. Choose from ${categoryData.gameCount}+ games in our ${categoryName.toLowerCase()} collection.`,
-      keywords: [categoryName, 'free online games', 'browser games', ...categoryData.featuredTags].join(', '),
-      
-      // Open Graph 标签
-      openGraph: {
-        title: `${categoryName} Games - Free Online Collection`,
-        description: `Play ${categoryData.gameCount}+ free ${categoryName.toLowerCase()} games online`,
-        url: canonicalUrl,
-        siteName: 'Play Browser Mini Games',
-        images: [
-          {
-            url: '/images/default-game-thumbnail.svg',
-            width: 1200,
-            height: 630,
-            alt: `${categoryName} games collection`
-          }
-        ],
-        type: 'website'
-      },
-      
-      // Twitter Card 标签
-      twitter: {
-        card: 'summary_large_image',
-        title: `${categoryName} Games - Free Online`,
-        description: `Play ${categoryData.gameCount}+ free ${categoryName.toLowerCase()} games`,
-        images: ['/images/default-game-thumbnail.svg']
-      },
-      
-      // 其他SEO标签
-      alternates: {
-        canonical: canonicalUrl
-      },
-      
+      ...metadata,
       robots: {
         index: true,
         follow: true,
@@ -142,45 +108,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   }
 }
 
-/**
- * 根据分类获取分类数据
- * @param category 分类slug
- * @returns 分类数据或null
- */
-async function getCategoryData(category: string): Promise<Category | null> {
-  try {
-    // TODO: 实现从数据文件加载分类数据的逻辑
-    // 需要读取 src/data/seo/category-seo-data.json 文件
-    
-    console.log(`Loading category data for: ${category}`);
-    
-    // 暂时返回模拟数据
-    const mockCategories: { [key: string]: Category } = {
-      action: {
-        name: 'action',
-        slug: 'action',
-        displayName: 'Action Games',
-        description: 'Fast-paced action games that test your reflexes and skills. Play exciting action games online for free.',
-        gameCount: 1200,
-        featuredTags: ['shooting', 'fighting', 'adventure']
-      },
-      puzzle: {
-        name: 'puzzle',
-        slug: 'puzzle',
-        displayName: 'Puzzle Games',
-        description: 'Challenge your mind with our collection of puzzle games. Solve problems and test your logic skills.',
-        gameCount: 800,
-        featuredTags: ['logic', 'brain', 'strategy']
-      }
-      // 更多分类数据...
-    };
-    
-    return mockCategories[category] || null;
-  } catch (error) {
-    console.error('Error loading category data:', error);
-    return null;
-  }
-}
+
 
 /**
  * 根据分类获取游戏列表
@@ -208,147 +136,167 @@ async function getCategoryGames(category: string, page: number = 1, limit: numbe
  * 游戏分类页面组件
  */
 export default async function CategoryPage({ params, searchParams }: CategoryPageProps) {
-  const categoryData = await getCategoryData(params.category);
+  // Next.js 15+ 需要await params和searchParams
+  const resolvedParams = await params;
+  const resolvedSearchParams = await searchParams;
   
-  if (!categoryData) {
+  // 获取SEO数据和结构化数据
+  const { seoData, structuredData } = await getCategoryPageSEO(resolvedParams.category);
+  
+  if (!seoData) {
     notFound();
   }
   
   // 获取分页参数
-  const currentPage = Number(searchParams.page) || 1;
-  const sortBy = (searchParams.sort as string) || 'popular';
+  const currentPage = Number(resolvedSearchParams.page) || 1;
+  const sortBy = (resolvedSearchParams.sort as string) || 'popular';
   
   // 加载游戏数据
-  const games = await getCategoryGames(params.category, currentPage);
-  
-  // 生成面包屑导航数据
-  const breadcrumbs = generateBreadcrumbs(params.category);
+  const games = await getCategoryGames(resolvedParams.category, currentPage);
   
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* 面包屑导航 */}
-      <nav className="bg-white border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center space-x-2 py-3 text-sm">
-            {breadcrumbs.map((crumb, index) => (
-              <div key={index} className="flex items-center">
-                {index > 0 && <span className="mx-2 text-gray-400">/</span>}
-                {crumb.url === '#' ? (
-                  <span className="text-gray-600 font-medium">{crumb.name}</span>
-                ) : (
-                  <a href={crumb.url} className="text-blue-600 hover:text-blue-800">
-                    {crumb.name}
-                  </a>
-                )}
-              </div>
-            ))}
-          </div>
-        </div>
-      </nav>
+    <>
+      {/* 结构化数据 - JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: structuredData }}
+      />
       
-      {/* 分类标题和描述 */}
-      <div className="bg-white border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="text-center">
-            <h1 className="text-4xl font-bold text-gray-900 mb-4">{categoryData.displayName}</h1>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">{categoryData.description}</p>
-            <div className="flex items-center justify-center space-x-4 text-sm text-gray-500">
-              <span>{categoryData.gameCount}+ Games Available</span>
-              <span>•</span>
-              <span>Free to Play</span>
-              <span>•</span>
-              <span>No Download Required</span>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      {/* 筛选和排序控件 */}
-      <div className="bg-white border-b border-gray-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center space-x-4">
-              <span className="text-sm font-medium text-gray-700">Sort by:</span>
-              <select 
-                className="border border-gray-300 rounded-md px-3 py-1 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
-                defaultValue={sortBy}
-              >
-                <option value="popular">Most Popular</option>
-                <option value="newest">Newest First</option>
-                <option value="name">Name A-Z</option>
-                <option value="rating">Highest Rated</option>
-              </select>
-            </div>
-            
-            <div className="flex items-center space-x-2">
-              <span className="text-sm text-gray-500">View:</span>
-              <button className="p-1 text-gray-400 hover:text-gray-600">
-                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clipRule="evenodd" />
-                </svg>
-              </button>
-              <button className="p-1 text-blue-600">
-                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M5 3a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2V5a2 2 0 00-2-2H5zM5 11a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2v-2a2 2 0 00-2-2H5zM11 5a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V5zM11 13a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
-                </svg>
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      {/* 游戏网格 */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {games.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
-            {games.map((game) => (
-              <div key={game.id} className="bg-white rounded-lg shadow hover:shadow-lg transition-shadow">
-                <div className="aspect-square bg-gray-100 rounded-t-lg overflow-hidden">
-                  <img 
-                    src={game.image_url || '/images/default-game-thumbnail.svg'}
-                    alt={game.name}
-                    className="w-full h-full object-cover hover:scale-105 transition-transform"
-                  />
+      {/* 页面内容 */}
+      <div className="min-h-screen bg-gray-900 flex flex-col">
+        {/* 导航栏 */}
+        <Header />
+
+        {/* 面包屑导航 */}
+        <nav className="bg-gray-800 border-b border-gray-700">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-center space-x-2 py-3 text-sm">
+              {seoData.breadcrumbs.map((crumb, index) => (
+                <div key={index} className="flex items-center">
+                  {index > 0 && <span className="mx-2 text-gray-500">/</span>}
+                  {crumb.current ? (
+                    <span className="text-gray-300 font-medium">{crumb.label}</span>
+                  ) : (
+                    <a href={crumb.href} className="text-blue-400 hover:text-blue-300">
+                      {crumb.label}
+                    </a>
+                  )}
                 </div>
-                <div className="p-3">
-                  <h3 className="font-medium text-gray-900 text-sm mb-1 line-clamp-2">{game.name}</h3>
-                  <div className="flex items-center justify-between">
-                    <span className="text-xs text-gray-500">{game.category}</span>
-                    <button className="text-xs bg-blue-600 text-white px-2 py-1 rounded hover:bg-blue-700">
-                      Play
-                    </button>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        ) : (
-          <div className="text-center py-12">
-            <div className="text-gray-400 mb-4">
-              <svg className="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-              </svg>
+              ))}
             </div>
-            <h3 className="text-lg font-medium text-gray-900 mb-2">Games Coming Soon</h3>
-            <p className="text-gray-500">We're working on adding {categoryData.displayName.toLowerCase()} to our collection.</p>
           </div>
-        )}
+        </nav>
         
-        {/* 分页导航 */}
-        {games.length > 0 && (
-          <div className="mt-8 flex items-center justify-center space-x-2">
-            <button className="px-3 py-2 text-sm border border-gray-300 rounded-md hover:bg-gray-50 disabled:opacity-50" disabled={currentPage <= 1}>
-              Previous
-            </button>
-            <span className="px-3 py-2 text-sm text-gray-700">
-              Page {currentPage}
-            </span>
-            <button className="px-3 py-2 text-sm border border-gray-300 rounded-md hover:bg-gray-50">
-              Next
-            </button>
+        {/* 分类标题和描述 */}
+        <div className="bg-gray-800 border-b border-gray-700">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div className="text-center">
+              <h1 className="text-4xl font-bold text-white mb-4">{seoData.displayName}</h1>
+              <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-6">{seoData.description || seoData.metadata.description}</p>
+              <div className="flex items-center justify-center space-x-4 text-sm text-gray-400">
+                <span>{seoData.gameCount || 0}+ Games Available</span>
+                <span>•</span>
+                <span>Free to Play</span>
+                <span>•</span>
+                <span>No Download Required</span>
+              </div>
+            </div>
           </div>
-        )}
+        </div>
+        
+        {/* 筛选和排序控件 */}
+        <div className="bg-gray-800 border-b border-gray-700">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center space-x-4">
+                <span className="text-sm font-medium text-gray-300">Sort by:</span>
+                <select 
+                  className="border border-gray-600 bg-gray-700 text-white rounded-md px-3 py-1 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  defaultValue={sortBy}
+                >
+                  <option value="popular">Most Popular</option>
+                  <option value="newest">Newest First</option>
+                  <option value="name">Name A-Z</option>
+                  <option value="rating">Highest Rated</option>
+                </select>
+              </div>
+              
+              <div className="flex items-center space-x-2">
+                <span className="text-sm text-gray-400">View:</span>
+                <button className="p-1 text-gray-500 hover:text-gray-300">
+                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clipRule="evenodd" />
+                  </svg>
+                </button>
+                <button className="p-1 text-blue-400">
+                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M5 3a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2V5a2 2 0 00-2-2H5zM5 11a2 2 0 00-2 2v2a2 2 0 002 2h2a2 2 0 002-2v-2a2 2 0 00-2-2H5zM11 5a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V5zM11 13a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        {/* 主要内容区域 */}
+        <main className="flex-1">
+          {/* 游戏网格 */}
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            {games.length > 0 ? (
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
+                {games.map((game) => (
+                  <div key={game.id} className="bg-gray-800 rounded-lg shadow hover:shadow-lg transition-shadow">
+                    <div className="aspect-square bg-gray-700 rounded-t-lg overflow-hidden">
+                      <img 
+                        src={game.image_url || '/images/default-game-thumbnail.svg'}
+                        alt={game.name}
+                        className="w-full h-full object-cover hover:scale-105 transition-transform"
+                      />
+                    </div>
+                    <div className="p-3">
+                      <h3 className="font-medium text-white text-sm mb-1 line-clamp-2">{game.name}</h3>
+                      <div className="flex items-center justify-between">
+                        <span className="text-xs text-gray-400">{game.category}</span>
+                        <button className="text-xs bg-blue-600 text-white px-2 py-1 rounded hover:bg-blue-700">
+                          Play
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className="text-center py-12">
+                <div className="text-gray-500 mb-4">
+                  <svg className="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                  </svg>
+                </div>
+                <h3 className="text-lg font-medium text-white mb-2">Games Coming Soon</h3>
+                <p className="text-gray-400">We're working on adding {seoData.displayName.toLowerCase()} to our collection.</p>
+              </div>
+            )}
+            
+            {/* 分页导航 */}
+            {games.length > 0 && (
+              <div className="mt-8 flex items-center justify-center space-x-2">
+                <button className="px-3 py-2 text-sm border border-gray-600 bg-gray-800 text-gray-300 rounded-md hover:bg-gray-700 disabled:opacity-50" disabled={currentPage <= 1}>
+                  Previous
+                </button>
+                <span className="px-3 py-2 text-sm text-gray-300">
+                  Page {currentPage}
+                </span>
+                <button className="px-3 py-2 text-sm border border-gray-600 bg-gray-800 text-gray-300 rounded-md hover:bg-gray-700">
+                  Next
+                </button>
+              </div>
+            )}
+          </div>
+        </main>
+
+        {/* 页脚 */}
+        <Footer />
       </div>
-    </div>
+    </>
   );
 }

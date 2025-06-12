@@ -25,8 +25,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
               <Gamepad2 className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-white">SmallGames</h1>
-              <p className="text-xs text-gray-400">Play instantly, anywhere</p>
+              <h1 className="text-xl font-bold text-white">Play Browser Mini Games</h1>
+              <p className="text-xs text-gray-400">Free online games, play instantly</p>
             </div>
           </Link>
 
