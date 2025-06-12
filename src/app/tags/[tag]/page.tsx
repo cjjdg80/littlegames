@@ -1,5 +1,6 @@
-// src/app/tags/[tag]/page.tsx - 游戏标签页面动态路由组件
+// src/app/tags/[tag]/page.tsx - 标签页面动态路由组件
 
+import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getCanonicalUrl, getTagUrl } from '@/lib/url-utils';

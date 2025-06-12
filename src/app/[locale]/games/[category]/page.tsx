@@ -1,4 +1,5 @@
-// src/app/[locale]/games/[category]/page.tsx - 多语言游戏分类页面
+// src/app/[locale]/games/[category]/page.tsx - 多语言游戏分类页面组件
+import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { supportedLocales } from '../../layout';

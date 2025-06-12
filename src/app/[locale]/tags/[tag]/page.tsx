@@ -1,4 +1,5 @@
-// src/app/[locale]/tags/[tag]/page.tsx - 多语言游戏标签页面
+// src/app/[locale]/tags/[tag]/page.tsx - 多语言标签页面组件
+import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { supportedLocales } from '../../layout';

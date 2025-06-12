@@ -1,4 +1,7 @@
+// src/app/page.tsx - 首页组件
+
 import Image from "next/image";
+import React from 'react';
 
 export default function Home() {
   return (

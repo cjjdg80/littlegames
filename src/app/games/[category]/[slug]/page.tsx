@@ -1,5 +1,6 @@
-// src/app/games/[category]/[slug]/page.tsx - 游戏详情页面动态路由组件
+// src/app/games/[category]/[slug]/page.tsx - 游戏详情页面组件
 
+import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getCanonicalUrl, generateBreadcrumbs } from '@/lib/url-utils';
