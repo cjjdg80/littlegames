@@ -1,4 +1,5 @@
 // src/app/[locale]/layout.tsx - 多语言布局组件
+import React from 'react';
 import { notFound } from 'next/navigation';
 import { ReactNode } from 'react';
 
