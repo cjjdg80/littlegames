@@ -2,7 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { ChevronRightIcon, HomeIcon } from '@heroicons/react/24/outline';
+import ChevronRightIcon from '@heroicons/react/24/outline/ChevronRightIcon';
+import HomeIcon from '@heroicons/react/24/outline/HomeIcon';
 import { generateBreadcrumbJsonLd } from '@/lib/seo-utils';
 
 export interface BreadcrumbItem {
