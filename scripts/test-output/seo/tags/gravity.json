@@ -1,0 +1,46 @@
+{
+  "tag": "gravity",
+  "displayName": "Gravity",
+  "metadata": {
+    "title": "Gravity Games - Play Free Online",
+    "description": "Discover amazing gravity games! Play 15 free games with gravity theme. No downloads required.",
+    "keywords": [
+      "gravity games",
+      "free online games",
+      "browser games",
+      "gravity theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/gravity",
+    "openGraph": {
+      "title": "Gravity Games - Free Online Gaming",
+      "description": "Play the best gravity games online for free. 15 games available.",
+      "image": "https://img.gamedistribution.com/40334ddfb4e14ae49ffe344c6d380355-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/gravity",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gravity Games - Free Online",
+      "description": "Play 15 free gravity games online.",
+      "image": "https://img.gamedistribution.com/40334ddfb4e14ae49ffe344c6d380355-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Gravity",
+      "href": "/tags/gravity",
+      "current": true
+    }
+  ],
+  "description": "Discover games with gravity theme! Our collection includes 15 carefully selected games that feature gravity elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

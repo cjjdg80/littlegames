@@ -1,0 +1,46 @@
+{
+  "tag": "build",
+  "displayName": "Build",
+  "metadata": {
+    "title": "Build Games - Play Free Online",
+    "description": "Discover amazing build games! Play 32 free games with build theme. No downloads required.",
+    "keywords": [
+      "build games",
+      "free online games",
+      "browser games",
+      "build theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/build",
+    "openGraph": {
+      "title": "Build Games - Free Online Gaming",
+      "description": "Play the best build games online for free. 32 games available.",
+      "image": "https://img.gamedistribution.com/d3f62b226076450db3ee3999d2111cc1-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/build",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Build Games - Free Online",
+      "description": "Play 32 free build games online.",
+      "image": "https://img.gamedistribution.com/d3f62b226076450db3ee3999d2111cc1-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Build",
+      "href": "/tags/build",
+      "current": true
+    }
+  ],
+  "description": "Discover games with build theme! Our collection includes 32 carefully selected games that feature build elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

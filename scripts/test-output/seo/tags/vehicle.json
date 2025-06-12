@@ -1,0 +1,46 @@
+{
+  "tag": "vehicle",
+  "displayName": "Vehicle",
+  "metadata": {
+    "title": "Vehicle Games - Play Free Online",
+    "description": "Discover amazing vehicle games! Play 52 free games with vehicle theme. No downloads required.",
+    "keywords": [
+      "vehicle games",
+      "free online games",
+      "browser games",
+      "vehicle theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/vehicle",
+    "openGraph": {
+      "title": "Vehicle Games - Free Online Gaming",
+      "description": "Play the best vehicle games online for free. 52 games available.",
+      "image": "https://img.gamedistribution.com/090fbd107a024f28880ff1185bdbaba1-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/vehicle",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Vehicle Games - Free Online",
+      "description": "Play 52 free vehicle games online.",
+      "image": "https://img.gamedistribution.com/090fbd107a024f28880ff1185bdbaba1-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Vehicle",
+      "href": "/tags/vehicle",
+      "current": true
+    }
+  ],
+  "description": "Discover games with vehicle theme! Our collection includes 52 carefully selected games that feature vehicle elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

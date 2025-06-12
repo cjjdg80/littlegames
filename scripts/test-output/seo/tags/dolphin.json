@@ -1,0 +1,46 @@
+{
+  "tag": "dolphin",
+  "displayName": "Dolphin",
+  "metadata": {
+    "title": "Dolphin Games - Play Free Online",
+    "description": "Discover amazing dolphin games! Play 3 free games with dolphin theme. No downloads required.",
+    "keywords": [
+      "dolphin games",
+      "free online games",
+      "browser games",
+      "dolphin theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/dolphin",
+    "openGraph": {
+      "title": "Dolphin Games - Free Online Gaming",
+      "description": "Play the best dolphin games online for free. 3 games available.",
+      "image": "https://img.gamedistribution.com/4d4a80cf42c44a9cb74f43ff7844e427-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/dolphin",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dolphin Games - Free Online",
+      "description": "Play 3 free dolphin games online.",
+      "image": "https://img.gamedistribution.com/4d4a80cf42c44a9cb74f43ff7844e427-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dolphin",
+      "href": "/tags/dolphin",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dolphin theme! Our collection includes 3 carefully selected games that feature dolphin elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

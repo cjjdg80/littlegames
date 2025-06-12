@@ -3,8 +3,8 @@
  * 用于测试第一阶段开发的SEO生成器功能
  */
 
-import fs from 'fs';
-import path from 'path';
+import * as fs from 'fs';
+import * as path from 'path';
 import {
   createSEOGenerator,
   createSEOBatchGenerator,

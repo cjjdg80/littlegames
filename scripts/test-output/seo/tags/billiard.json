@@ -1,0 +1,46 @@
+{
+  "tag": "billiard",
+  "displayName": "Billiard",
+  "metadata": {
+    "title": "Billiard Games - Play Free Online",
+    "description": "Discover amazing billiard games! Play 19 free games with billiard theme. No downloads required.",
+    "keywords": [
+      "billiard games",
+      "free online games",
+      "browser games",
+      "billiard theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/billiard",
+    "openGraph": {
+      "title": "Billiard Games - Free Online Gaming",
+      "description": "Play the best billiard games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/46e8360b2d194ffabcc00cbb1699e7c8-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/billiard",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Billiard Games - Free Online",
+      "description": "Play 19 free billiard games online.",
+      "image": "https://img.gamedistribution.com/46e8360b2d194ffabcc00cbb1699e7c8-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Billiard",
+      "href": "/tags/billiard",
+      "current": true
+    }
+  ],
+  "description": "Discover games with billiard theme! Our collection includes 19 carefully selected games that feature billiard elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

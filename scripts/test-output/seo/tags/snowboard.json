@@ -1,0 +1,46 @@
+{
+  "tag": "snowboard",
+  "displayName": "Snowboard",
+  "metadata": {
+    "title": "Snowboard Games - Play Free Online",
+    "description": "Discover amazing snowboard games! Play 5 free games with snowboard theme. No downloads required.",
+    "keywords": [
+      "snowboard games",
+      "free online games",
+      "browser games",
+      "snowboard theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/snowboard",
+    "openGraph": {
+      "title": "Snowboard Games - Free Online Gaming",
+      "description": "Play the best snowboard games online for free. 5 games available.",
+      "image": "https://img.gamedistribution.com/ce6797fbf599415fa270487c9a384001-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/snowboard",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snowboard Games - Free Online",
+      "description": "Play 5 free snowboard games online.",
+      "image": "https://img.gamedistribution.com/ce6797fbf599415fa270487c9a384001-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Snowboard",
+      "href": "/tags/snowboard",
+      "current": true
+    }
+  ],
+  "description": "Discover games with snowboard theme! Our collection includes 5 carefully selected games that feature snowboard elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

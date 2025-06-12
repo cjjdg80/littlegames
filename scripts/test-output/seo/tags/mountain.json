@@ -1,0 +1,46 @@
+{
+  "tag": "mountain",
+  "displayName": "Mountain",
+  "metadata": {
+    "title": "Mountain Games - Play Free Online",
+    "description": "Discover amazing mountain games! Play 19 free games with mountain theme. No downloads required.",
+    "keywords": [
+      "mountain games",
+      "free online games",
+      "browser games",
+      "mountain theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/mountain",
+    "openGraph": {
+      "title": "Mountain Games - Free Online Gaming",
+      "description": "Play the best mountain games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/ad3a92e5a9ee48e0914a056c037db7ba-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/mountain",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mountain Games - Free Online",
+      "description": "Play 19 free mountain games online.",
+      "image": "https://img.gamedistribution.com/ad3a92e5a9ee48e0914a056c037db7ba-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Mountain",
+      "href": "/tags/mountain",
+      "current": true
+    }
+  ],
+  "description": "Discover games with mountain theme! Our collection includes 19 carefully selected games that feature mountain elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

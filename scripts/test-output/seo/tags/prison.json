@@ -1,0 +1,46 @@
+{
+  "tag": "prison",
+  "displayName": "Prison",
+  "metadata": {
+    "title": "Prison Games - Play Free Online",
+    "description": "Discover amazing prison games! Play 20 free games with prison theme. No downloads required.",
+    "keywords": [
+      "prison games",
+      "free online games",
+      "browser games",
+      "prison theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/prison",
+    "openGraph": {
+      "title": "Prison Games - Free Online Gaming",
+      "description": "Play the best prison games online for free. 20 games available.",
+      "image": "https://img.gamedistribution.com/bc1089b38ef24789944883a83e59b44d-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/prison",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Prison Games - Free Online",
+      "description": "Play 20 free prison games online.",
+      "image": "https://img.gamedistribution.com/bc1089b38ef24789944883a83e59b44d-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Prison",
+      "href": "/tags/prison",
+      "current": true
+    }
+  ],
+  "description": "Discover games with prison theme! Our collection includes 20 carefully selected games that feature prison elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

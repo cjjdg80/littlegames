@@ -1,0 +1,46 @@
+{
+  "tag": "pizza",
+  "displayName": "Pizza",
+  "metadata": {
+    "title": "Pizza Games - Play Free Online",
+    "description": "Discover amazing pizza games! Play 11 free games with pizza theme. No downloads required.",
+    "keywords": [
+      "pizza games",
+      "free online games",
+      "browser games",
+      "pizza theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pizza",
+    "openGraph": {
+      "title": "Pizza Games - Free Online Gaming",
+      "description": "Play the best pizza games online for free. 11 games available.",
+      "image": "https://img.gamedistribution.com/3d13bd78d349474ba570b5b78365b2b7-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/pizza",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pizza Games - Free Online",
+      "description": "Play 11 free pizza games online.",
+      "image": "https://img.gamedistribution.com/3d13bd78d349474ba570b5b78365b2b7-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pizza",
+      "href": "/tags/pizza",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pizza theme! Our collection includes 11 carefully selected games that feature pizza elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

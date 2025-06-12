@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2025-06-12T00:57:24.400Z",
+  "config": {
+    "outputDir": "./test-output/seo",
+    "batchSize": 3,
+    "enableQualityCheck": true,
+    "generateProgressReport": true,
+    "concurrency": 2,
+    "baseUrl": "https://playbrowserminigames.com"
+  },
+  "results": {
+    "games": {
+      "total": 9726,
+      "successful": 9723,
+      "failed": 3,
+      "averageQualityScore": 0.6567427513879568
+    },
+    "categories": {
+      "total": 7,
+      "successful": 6,
+      "failed": 1,
+      "averageQualityScore": 0.6728571428571428
+    },
+    "tags": {
+      "total": 695,
+      "successful": 573,
+      "failed": 122,
+      "averageQualityScore": 0.47566906474819853
+    },
+    "home": {
+      "successful": false,
+      "qualityScore": 0.7000000000000001
+    }
+  },
+  "summary": {
+    "totalProcessed": 10429,
+    "totalSuccessful": 10302,
+    "totalFailed": 127,
+    "processingTime": 377597
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "collect",
+  "displayName": "Collect",
+  "metadata": {
+    "title": "Collect Games - Play Free Online",
+    "description": "Discover amazing collect games! Play 331 free games with collect theme. No downloads required.",
+    "keywords": [
+      "collect games",
+      "free online games",
+      "browser games",
+      "collect theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/collect",
+    "openGraph": {
+      "title": "Collect Games - Free Online Gaming",
+      "description": "Play the best collect games online for free. 331 games available.",
+      "image": "https://img.gamedistribution.com/4a58b4ef028242a8b33897ecbafc8648-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/collect",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Collect Games - Free Online",
+      "description": "Play 331 free collect games online.",
+      "image": "https://img.gamedistribution.com/4a58b4ef028242a8b33897ecbafc8648-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Collect",
+      "href": "/tags/collect",
+      "current": true
+    }
+  ],
+  "description": "Discover games with collect theme! Our collection includes 331 carefully selected games that feature collect elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

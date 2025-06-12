@@ -25,7 +25,7 @@ export class SEOGenerator {
   private config: SEOGenerationConfig;
   private baseUrl: string;
   
-  constructor(config?: Partial<SEOGenerationConfig>, baseUrl: string = 'https://littlegames.com') {
+  constructor(config?: Partial<SEOGenerationConfig>, baseUrl: string = 'https://playbrowserminigames.com') {
     // 默认配置
     const defaultConfig: SEOGenerationConfig = {
       enableContentVariation: true,
@@ -70,12 +70,13 @@ export class SEOGenerator {
       developer: gameData.developer || 'Unknown Developer'
     };
     
-    // 生成SEO元数据
+    // 生成SEO元数据（传入游戏数据以使用实际图片URL）
     const metadata = this.generateSEOMetadata(
       template,
       templateVars,
       slug,
-      'game'
+      'game',
+      gameData
     );
     
     // 生成面包屑导航
@@ -98,9 +99,10 @@ export class SEOGenerator {
    * 生成分类页面SEO数据
    * @param category 分类名称
    * @param gameCount 游戏数量
+   * @param categoryGames 分类下的游戏数据（可选，用于获取实际图片）
    * @returns 分类SEO数据
    */
-  generateCategorySEO(category: string, gameCount: number): CategorySEOData {
+  generateCategorySEO(category: string, gameCount: number, categoryGames?: any[]): CategorySEOData {
     const template = getCategorySEOTemplate('overview');
     const displayName = this.formatCategoryName(category);
     
@@ -115,7 +117,8 @@ export class SEOGenerator {
       template,
       templateVars,
       category,
-      'category'
+      'category',
+      categoryGames && categoryGames.length > 0 ? categoryGames[0] : undefined
     );
     
     // 生成面包屑导航
@@ -138,10 +141,22 @@ export class SEOGenerator {
    * 生成标签页面SEO数据
    * @param tagData 标签基础数据
    * @param relatedTags 相关标签列表
+   * @param tagGames 标签下的游戏数据（可选，用于获取实际图片）
    * @returns 标签SEO数据
    */
-  generateTagSEO(tagData: any, relatedTags: string[] = []): TagSEOData {
+  generateTagSEO(tagData: any, relatedTags: string[] = [], tagGames?: any[]): TagSEOData {
     const displayName = this.formatTagName(tagData.tag);
+    
+    // 调试信息：检查传入的tagGames参数
+    if (tagData.tag === 'animal' || tagData.tag === 'adventure' || tagData.tag === 'action') {
+      console.log(`🔍 Generator调试 - 标签 "${tagData.tag}":`);
+      console.log(`   - 传入游戏数: ${tagGames?.length || 0}`);
+      if (tagGames && tagGames.length > 0) {
+        console.log(`   - 第一个游戏: ${tagGames[0].title}`);
+        console.log(`   - 第一个游戏缩略图: ${tagGames[0].thumbnail}`);
+        console.log(`   - 缩略图检查: ${tagGames[0].thumbnail && tagGames[0].thumbnail.trim() !== '' ? '✅有效' : '❌无效'}`);
+      }
+    }
     
     // 生成基础SEO元数据
     const metadata: SEOMetadata = {
@@ -158,7 +173,23 @@ export class SEOGenerator {
       openGraph: {
         title: `${displayName} Games - Free Online Gaming`,
         description: `Play the best ${displayName.toLowerCase()} games online for free. ${tagData.count || 0} games available.`,
-        image: `${this.baseUrl}/images/tags/${tagData.tag}-og.jpg`,
+        image: (() => {
+          const hasGames = tagGames && tagGames.length > 0;
+          const hasThumbnail = hasGames && tagGames[0].thumbnail;
+          const isValidThumbnail = hasThumbnail && tagGames[0].thumbnail.trim() !== '';
+          const selectedImage = isValidThumbnail ? tagGames[0].thumbnail : `${this.baseUrl}/images/tags/${tagData.tag}-og.jpg`;
+          
+          // 调试信息：图片选择逻辑
+          if (tagData.tag === 'animal' || tagData.tag === 'adventure' || tagData.tag === 'action') {
+            console.log(`🔍 图片选择调试 - 标签 "${tagData.tag}":`);
+            console.log(`   - 有游戏: ${hasGames}`);
+            console.log(`   - 有缩略图: ${hasThumbnail}`);
+            console.log(`   - 缩略图有效: ${isValidThumbnail}`);
+            console.log(`   - 选择的图片: ${selectedImage}`);
+          }
+          
+          return selectedImage;
+        })(),
         url: `${this.baseUrl}/tags/${tagData.tag}`,
         type: 'website'
       },
@@ -166,7 +197,13 @@ export class SEOGenerator {
         card: 'summary_large_image',
         title: `${displayName} Games - Free Online`,
         description: `Play ${tagData.count || 0} free ${displayName.toLowerCase()} games online.`,
-        image: `${this.baseUrl}/images/tags/${tagData.tag}-twitter.jpg`
+        image: (() => {
+          const hasGames = tagGames && tagGames.length > 0;
+          const hasThumbnail = hasGames && tagGames[0].thumbnail;
+          const isValidThumbnail = hasThumbnail && tagGames[0].thumbnail.trim() !== '';
+          const selectedImage = isValidThumbnail ? tagGames[0].thumbnail : `${this.baseUrl}/images/tags/${tagData.tag}-twitter.jpg`;
+          return selectedImage;
+        })()
       }
     };
     
@@ -200,7 +237,7 @@ export class SEOGenerator {
   ): HomeSEOData {
     // 生成首页SEO元数据
     const metadata: SEOMetadata = {
-      title: 'Free Online Games - Play Instantly in Your Browser | LittleGames',
+      title: 'Free Online Games - Play Instantly in Your Browser | Play Browser Mini Games',
       description: 'Play thousands of free online games instantly! No downloads required. Enjoy action, puzzle, adventure games and more. Start playing now!',
       keywords: [
         'free online games',
@@ -214,7 +251,7 @@ export class SEOGenerator {
       ],
       canonical: this.baseUrl,
       openGraph: {
-        title: 'Free Online Games - Play Instantly | LittleGames',
+        title: 'Free Online Games - Play Instantly | Play Browser Mini Games',
         description: 'Discover thousands of free online games. Play action, puzzle, adventure games and more instantly in your browser!',
         image: `${this.baseUrl}/images/home-og.jpg`,
         url: this.baseUrl,
@@ -265,13 +302,15 @@ export class SEOGenerator {
    * @param variables 模板变量
    * @param slug 页面slug
    * @param pageType 页面类型
+   * @param gameData 游戏数据（可选，用于获取实际图片URL）
    * @returns SEO元数据
    */
   private generateSEOMetadata(
     template: any,
     variables: Record<string, any>,
     slug: string,
-    pageType: 'game' | 'category' | 'tag'
+    pageType: 'game' | 'category' | 'tag',
+    gameData?: any
   ): SEOMetadata {
     // 生成标题
     const titleTemplate = getRandomTemplate(template.titleTemplates, slug);
@@ -293,6 +332,15 @@ export class SEOGenerator {
       ? `${this.baseUrl}/categories/${slug}`
       : `${this.baseUrl}/tags/${slug}`;
     
+    // 生成图片URL - 对于游戏页面使用实际的缩略图，其他页面使用默认图片
+    const ogImage = gameData?.thumbnail && (pageType === 'game' || pageType === 'tag' || pageType === 'category')
+      ? gameData.thumbnail
+      : `${this.baseUrl}/images/${pageType === 'tag' ? 'tags' : pageType + 's'}/${slug}-og.jpg`;
+    
+    const twitterImage = gameData?.thumbnail && (pageType === 'game' || pageType === 'tag' || pageType === 'category')
+      ? gameData.thumbnail
+      : `${this.baseUrl}/images/${pageType === 'tag' ? 'tags' : pageType + 's'}/${slug}-twitter.jpg`;
+    
     return {
       title: this.truncateText(title, this.config.titleLength.max),
       description: this.truncateText(description, this.config.descriptionLength.max),
@@ -301,7 +349,7 @@ export class SEOGenerator {
       openGraph: {
         title: this.truncateText(title, 60),
         description: this.truncateText(description, 160),
-        image: `${this.baseUrl}/images/${pageType}s/${slug}-og.jpg`,
+        image: ogImage,
         url,
         type: pageType === 'game' ? 'article' : 'website'
       },
@@ -309,7 +357,7 @@ export class SEOGenerator {
         card: 'summary_large_image',
         title: this.truncateText(title, 70),
         description: this.truncateText(description, 200),
-        image: `${this.baseUrl}/images/${pageType}s/${slug}-twitter.jpg`
+        image: twitterImage
       }
     };
   }
@@ -451,7 +499,7 @@ export class SEOGenerator {
     return {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      'name': 'LittleGames',
+      'name': 'Play Browser Mini Games',
       'description': 'Free online games platform with thousands of browser games',
       'url': this.baseUrl,
       'potentialAction': {

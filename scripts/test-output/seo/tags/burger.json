@@ -1,0 +1,46 @@
+{
+  "tag": "burger",
+  "displayName": "Burger",
+  "metadata": {
+    "title": "Burger Games - Play Free Online",
+    "description": "Discover amazing burger games! Play 18 free games with burger theme. No downloads required.",
+    "keywords": [
+      "burger games",
+      "free online games",
+      "browser games",
+      "burger theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/burger",
+    "openGraph": {
+      "title": "Burger Games - Free Online Gaming",
+      "description": "Play the best burger games online for free. 18 games available.",
+      "image": "https://img.gamedistribution.com/53e7add4f6a74aeb90652e008b35e3b4-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/burger",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Burger Games - Free Online",
+      "description": "Play 18 free burger games online.",
+      "image": "https://img.gamedistribution.com/53e7add4f6a74aeb90652e008b35e3b4-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Burger",
+      "href": "/tags/burger",
+      "current": true
+    }
+  ],
+  "description": "Discover games with burger theme! Our collection includes 18 carefully selected games that feature burger elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

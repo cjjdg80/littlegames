@@ -1,0 +1,46 @@
+{
+  "tag": "fridge",
+  "displayName": "Fridge",
+  "metadata": {
+    "title": "Fridge Games - Play Free Online",
+    "description": "Discover amazing fridge games! Play 3 free games with fridge theme. No downloads required.",
+    "keywords": [
+      "fridge games",
+      "free online games",
+      "browser games",
+      "fridge theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/fridge",
+    "openGraph": {
+      "title": "Fridge Games - Free Online Gaming",
+      "description": "Play the best fridge games online for free. 3 games available.",
+      "image": "https://img.gamedistribution.com/c33d8b9400b94da09e6ab4733131b16b-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/fridge",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fridge Games - Free Online",
+      "description": "Play 3 free fridge games online.",
+      "image": "https://img.gamedistribution.com/c33d8b9400b94da09e6ab4733131b16b-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fridge",
+      "href": "/tags/fridge",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fridge theme! Our collection includes 3 carefully selected games that feature fridge elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

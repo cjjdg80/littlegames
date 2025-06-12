@@ -1,0 +1,46 @@
+{
+  "tag": "fighting",
+  "displayName": "Fighting",
+  "metadata": {
+    "title": "Fighting Games - Play Free Online",
+    "description": "Discover amazing fighting games! Play 266 free games with fighting theme. No downloads required.",
+    "keywords": [
+      "fighting games",
+      "free online games",
+      "browser games",
+      "fighting theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/fighting",
+    "openGraph": {
+      "title": "Fighting Games - Free Online Gaming",
+      "description": "Play the best fighting games online for free. 266 games available.",
+      "image": "https://img.gamedistribution.com/a05999d05dec449887e6a7144545665d-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/fighting",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fighting Games - Free Online",
+      "description": "Play 266 free fighting games online.",
+      "image": "https://img.gamedistribution.com/a05999d05dec449887e6a7144545665d-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fighting",
+      "href": "/tags/fighting",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fighting theme! Our collection includes 266 carefully selected games that feature fighting elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

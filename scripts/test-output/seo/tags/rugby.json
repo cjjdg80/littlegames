@@ -1,0 +1,46 @@
+{
+  "tag": "rugby",
+  "displayName": "Rugby",
+  "metadata": {
+    "title": "Rugby Games - Play Free Online",
+    "description": "Discover amazing rugby games! Play 3 free games with rugby theme. No downloads required.",
+    "keywords": [
+      "rugby games",
+      "free online games",
+      "browser games",
+      "rugby theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/rugby",
+    "openGraph": {
+      "title": "Rugby Games - Free Online Gaming",
+      "description": "Play the best rugby games online for free. 3 games available.",
+      "image": "https://img.gamedistribution.com/c48e7b2a5d2047e0a6b37e9599a71a37-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/rugby",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Rugby Games - Free Online",
+      "description": "Play 3 free rugby games online.",
+      "image": "https://img.gamedistribution.com/c48e7b2a5d2047e0a6b37e9599a71a37-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Rugby",
+      "href": "/tags/rugby",
+      "current": true
+    }
+  ],
+  "description": "Discover games with rugby theme! Our collection includes 3 carefully selected games that feature rugby elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

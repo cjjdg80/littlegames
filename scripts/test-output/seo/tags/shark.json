@@ -1,0 +1,46 @@
+{
+  "tag": "shark",
+  "displayName": "Shark",
+  "metadata": {
+    "title": "Shark Games - Play Free Online",
+    "description": "Discover amazing shark games! Play 8 free games with shark theme. No downloads required.",
+    "keywords": [
+      "shark games",
+      "free online games",
+      "browser games",
+      "shark theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/shark",
+    "openGraph": {
+      "title": "Shark Games - Free Online Gaming",
+      "description": "Play the best shark games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/952603b94d8a416182103b2c618a45f9-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/shark",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Shark Games - Free Online",
+      "description": "Play 8 free shark games online.",
+      "image": "https://img.gamedistribution.com/952603b94d8a416182103b2c618a45f9-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Shark",
+      "href": "/tags/shark",
+      "current": true
+    }
+  ],
+  "description": "Discover games with shark theme! Our collection includes 8 carefully selected games that feature shark elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

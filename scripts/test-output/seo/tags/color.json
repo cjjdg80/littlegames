@@ -1,0 +1,46 @@
+{
+  "tag": "color",
+  "displayName": "Color",
+  "metadata": {
+    "title": "Color Games - Play Free Online",
+    "description": "Discover amazing color games! Play 119 free games with color theme. No downloads required.",
+    "keywords": [
+      "color games",
+      "free online games",
+      "browser games",
+      "color theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/color",
+    "openGraph": {
+      "title": "Color Games - Free Online Gaming",
+      "description": "Play the best color games online for free. 119 games available.",
+      "image": "https://img.gamedistribution.com/fa525c7020fb4e848fb3b18a850fb773-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/color",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Color Games - Free Online",
+      "description": "Play 119 free color games online.",
+      "image": "https://img.gamedistribution.com/fa525c7020fb4e848fb3b18a850fb773-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Color",
+      "href": "/tags/color",
+      "current": true
+    }
+  ],
+  "description": "Discover games with color theme! Our collection includes 119 carefully selected games that feature color elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

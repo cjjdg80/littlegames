@@ -86,7 +86,7 @@ export function createSEOBatchGenerator(config?: Partial<BatchGenerationConfig>)
     enableQualityCheck: true,
     generateProgressReport: true,
     concurrency: 3,
-    baseUrl: 'https://littlegames.com'
+    baseUrl: 'https://playbrowserminigames.com'
   };
   
   const finalConfig = { ...defaultConfig, ...config };
@@ -131,5 +131,5 @@ export const DEFAULT_BATCH_CONFIG: BatchGenerationConfig = {
   enableQualityCheck: true,
   outputDir: './src/data/seo',
   generateProgressReport: true,
-  baseUrl: 'https://littlegames.com'
+  baseUrl: 'https://playbrowserminigames.com'
 };

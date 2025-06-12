@@ -1,7 +1,7 @@
 // src/lib/seo/batchGenerator.ts - SEO数据批量生成器
 
-import fs from 'fs/promises';
-import path from 'path';
+import * as fs from 'fs/promises';
+import * as path from 'path';
 import { SEOGenerator, createDefaultSEOConfig } from './generator';
 import { GameSEOData, CategorySEOData, TagSEOData, HomeSEOData } from '../../types/seo';
 import { QualityChecker } from './qualityChecker';
@@ -148,11 +148,13 @@ export class SEOBatchGenerator {
    * 批量生成分类SEO数据
    * @param categoriesData 分类数据数组
    * @param gameStats 游戏统计数据
+   * @param allGames 所有游戏数据（可选，用于获取分类下的游戏）
    * @returns 生成结果数组
    */
   async generateCategoriesSEO(
     categoriesData: any[],
-    gameStats: any
+    gameStats: any,
+    allGames?: any[]
   ): Promise<GenerationResult[]> {
     console.log(`开始生成 ${categoriesData.length} 个分类的SEO数据...`);
     
@@ -163,7 +165,13 @@ export class SEOBatchGenerator {
     
     for (const categoryData of categoriesData) {
       try {
-        const seoData = this.generator.generateCategorySEO(categoryData, gameStats);
+        // 获取该分类下的游戏数据
+        const categoryGames = allGames ? allGames.filter(game => 
+          game.primary_category === categoryData.category || 
+          (game.all_categories && game.all_categories.includes(categoryData.category))
+        ) : [];
+        
+        const seoData = this.generator.generateCategorySEO(categoryData.category, categoryData.count || 0, categoryGames);
         
         // 质量检查
         if (this.config.enableQualityCheck) {
@@ -205,9 +213,10 @@ export class SEOBatchGenerator {
   /**
    * 批量生成标签SEO数据
    * @param tagsData 标签数据数组
+   * @param allGames 所有游戏数据（可选，用于获取标签下的游戏）
    * @returns 生成结果数组
    */
-  async generateTagsSEO(tagsData: any[]): Promise<GenerationResult[]> {
+  async generateTagsSEO(tagsData: any[], allGames?: any[]): Promise<GenerationResult[]> {
     console.log(`开始生成 ${tagsData.length} 个标签的SEO数据...`);
     
     const tagsOutputDir = path.join(this.config.outputDir, 'tags');
@@ -221,7 +230,27 @@ export class SEOBatchGenerator {
     for (const tagData of tagsData) {
       try {
         const relatedTags = relatedTagsMap[tagData.tag] || [];
-        const seoData = this.generator.generateTagSEO(tagData, relatedTags);
+        
+        // 获取该标签下的游戏数据
+        // 优先使用标签数据中的game_ids，如果没有则通过标签名匹配
+        const tagGames = allGames ? (
+          tagData.game_ids && tagData.game_ids.length > 0 ?
+            allGames.filter(game => tagData.game_ids.includes(game.id)) :
+            allGames.filter(game => game.tags && game.tags.includes(tagData.tag))
+        ) : [];
+        
+        // 调试信息：检查标签游戏匹配情况
+        if (tagData.tag === 'animal' || tagData.tag === 'adventure' || tagData.tag === 'action') {
+          console.log(`🔍 调试 - 标签 "${tagData.tag}":`);  
+          console.log(`   - 匹配游戏数: ${tagGames.length}`);
+          if (tagGames.length > 0) {
+            console.log(`   - 第一个游戏: ${tagGames[0].title}`);
+            console.log(`   - 第一个游戏缩略图: ${tagGames[0].thumbnail}`);
+            console.log(`   - 缩略图有效性: ${tagGames[0].thumbnail && tagGames[0].thumbnail.trim() !== '' ? '✅' : '❌'}`);
+          }
+        }
+        
+        const seoData = this.generator.generateTagSEO(tagData, relatedTags, tagGames);
         
         // 质量检查
         if (this.config.enableQualityCheck) {
@@ -370,11 +399,11 @@ export class SEOBatchGenerator {
     console.log(`步骤1完成: 游戏SEO生成完成，成功 ${gameResults.filter(r => r.success).length} 个`);
     
     console.log('步骤2: 开始生成分类SEO数据...');
-    const categoryResults = await this.generateCategoriesSEO(categories, gameStats);
+    const categoryResults = await this.generateCategoriesSEO(categories, gameStats, games);
     console.log(`步骤2完成: 分类SEO生成完成，成功 ${categoryResults.filter(r => r.success).length} 个`);
     
     console.log('步骤3: 开始生成标签SEO数据...');
-    const tagResults = await this.generateTagsSEO(tags);
+    const tagResults = await this.generateTagsSEO(tags, games);
     console.log(`步骤3完成: 标签SEO生成完成，成功 ${tagResults.filter(r => r.success).length} 个`);
     
     console.log('步骤4: 开始生成首页SEO数据...');
@@ -458,11 +487,11 @@ export class SEOBatchGenerator {
               fileName = `${item.slug || item.id}.json`;
               break;
             case 'category':
-              seoData = this.generator.generateCategorySEO(item, 0);
+              seoData = this.generator.generateCategorySEO(item.category, item.count || 0);
               fileName = `${item.category}.json`;
               break;
             case 'tag':
-              seoData = this.generator.generateTagSEO(item);
+              seoData = this.generator.generateTagSEO(item, []);
               fileName = `${item.tag}.json`;
               break;
             default:
@@ -666,6 +695,6 @@ export function createDefaultBatchConfig(outputDir: string): BatchGenerationConf
     enableQualityCheck: true,
     generateProgressReport: true,
     concurrency: 5,
-    baseUrl: 'https://littlegames.com'
+    baseUrl: 'https://playbrowserminigames.com'
   };
 }

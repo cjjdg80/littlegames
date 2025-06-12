@@ -1,0 +1,46 @@
+{
+  "tag": "tictactoe",
+  "displayName": "Tictactoe",
+  "metadata": {
+    "title": "Tictactoe Games - Play Free Online",
+    "description": "Discover amazing tictactoe games! Play 4 free games with tictactoe theme. No downloads required.",
+    "keywords": [
+      "tictactoe games",
+      "free online games",
+      "browser games",
+      "tictactoe theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/tictactoe",
+    "openGraph": {
+      "title": "Tictactoe Games - Free Online Gaming",
+      "description": "Play the best tictactoe games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/e5352822802c45fd8b65ba439d8a61e2-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/tictactoe",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tictactoe Games - Free Online",
+      "description": "Play 4 free tictactoe games online.",
+      "image": "https://img.gamedistribution.com/e5352822802c45fd8b65ba439d8a61e2-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tictactoe",
+      "href": "/tags/tictactoe",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tictactoe theme! Our collection includes 4 carefully selected games that feature tictactoe elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

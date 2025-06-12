@@ -1,0 +1,48 @@
+{
+  "tag": "school",
+  "displayName": "School",
+  "metadata": {
+    "title": "School Games - Play Free Online",
+    "description": "Discover amazing school games! Play 81 free games with school theme. No downloads required.",
+    "keywords": [
+      "school games",
+      "free online games",
+      "browser games",
+      "school theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/school",
+    "openGraph": {
+      "title": "School Games - Free Online Gaming",
+      "description": "Play the best school games online for free. 81 games available.",
+      "image": "https://img.gamedistribution.com/761169e0288b433f8f8ddcd27da627e5-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/school",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "School Games - Free Online",
+      "description": "Play 81 free school games online.",
+      "image": "https://img.gamedistribution.com/761169e0288b433f8f8ddcd27da627e5-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "School",
+      "href": "/tags/school",
+      "current": true
+    }
+  ],
+  "description": "Discover games with school theme! Our collection includes 81 carefully selected games that feature school elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": [
+    "old-school"
+  ]
+}

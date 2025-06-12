@@ -1,0 +1,46 @@
+{
+  "tag": "competition",
+  "displayName": "Competition",
+  "metadata": {
+    "title": "Competition Games - Play Free Online",
+    "description": "Discover amazing competition games! Play 22 free games with competition theme. No downloads required.",
+    "keywords": [
+      "competition games",
+      "free online games",
+      "browser games",
+      "competition theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/competition",
+    "openGraph": {
+      "title": "Competition Games - Free Online Gaming",
+      "description": "Play the best competition games online for free. 22 games available.",
+      "image": "https://img.gamedistribution.com/d0046c8fd4eb4d4fb2492ba8013909f0-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/competition",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Competition Games - Free Online",
+      "description": "Play 22 free competition games online.",
+      "image": "https://img.gamedistribution.com/d0046c8fd4eb4d4fb2492ba8013909f0-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Competition",
+      "href": "/tags/competition",
+      "current": true
+    }
+  ],
+  "description": "Discover games with competition theme! Our collection includes 22 carefully selected games that feature competition elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "skate",
+  "displayName": "Skate",
+  "metadata": {
+    "title": "Skate Games - Play Free Online",
+    "description": "Discover amazing skate games! Play 8 free games with skate theme. No downloads required.",
+    "keywords": [
+      "skate games",
+      "free online games",
+      "browser games",
+      "skate theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/skate",
+    "openGraph": {
+      "title": "Skate Games - Free Online Gaming",
+      "description": "Play the best skate games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/d648419e573946be98a32bde0c905f14-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/skate",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Skate Games - Free Online",
+      "description": "Play 8 free skate games online.",
+      "image": "https://img.gamedistribution.com/d648419e573946be98a32bde0c905f14-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Skate",
+      "href": "/tags/skate",
+      "current": true
+    }
+  ],
+  "description": "Discover games with skate theme! Our collection includes 8 carefully selected games that feature skate elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

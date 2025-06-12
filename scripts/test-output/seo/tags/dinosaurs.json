@@ -1,0 +1,46 @@
+{
+  "tag": "dinosaurs",
+  "displayName": "Dinosaurs",
+  "metadata": {
+    "title": "Dinosaurs Games - Play Free Online",
+    "description": "Discover amazing dinosaurs games! Play 25 free games with dinosaurs theme. No downloads required.",
+    "keywords": [
+      "dinosaurs games",
+      "free online games",
+      "browser games",
+      "dinosaurs theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/dinosaurs",
+    "openGraph": {
+      "title": "Dinosaurs Games - Free Online Gaming",
+      "description": "Play the best dinosaurs games online for free. 25 games available.",
+      "image": "https://img.gamedistribution.com/d74ac3341c7a4aafb9589555e277d8d7-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/dinosaurs",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dinosaurs Games - Free Online",
+      "description": "Play 25 free dinosaurs games online.",
+      "image": "https://img.gamedistribution.com/d74ac3341c7a4aafb9589555e277d8d7-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dinosaurs",
+      "href": "/tags/dinosaurs",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dinosaurs theme! Our collection includes 25 carefully selected games that feature dinosaurs elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

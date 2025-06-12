@@ -1,0 +1,46 @@
+{
+  "tag": "smash",
+  "displayName": "Smash",
+  "metadata": {
+    "title": "Smash Games - Play Free Online",
+    "description": "Discover amazing smash games! Play 14 free games with smash theme. No downloads required.",
+    "keywords": [
+      "smash games",
+      "free online games",
+      "browser games",
+      "smash theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/smash",
+    "openGraph": {
+      "title": "Smash Games - Free Online Gaming",
+      "description": "Play the best smash games online for free. 14 games available.",
+      "image": "https://img.gamedistribution.com/949529aaea9841cf8f410b19e6d71619-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/smash",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Smash Games - Free Online",
+      "description": "Play 14 free smash games online.",
+      "image": "https://img.gamedistribution.com/949529aaea9841cf8f410b19e6d71619-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Smash",
+      "href": "/tags/smash",
+      "current": true
+    }
+  ],
+  "description": "Discover games with smash theme! Our collection includes 14 carefully selected games that feature smash elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

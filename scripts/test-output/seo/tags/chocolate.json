@@ -1,0 +1,46 @@
+{
+  "tag": "chocolate",
+  "displayName": "Chocolate",
+  "metadata": {
+    "title": "Chocolate Games - Play Free Online",
+    "description": "Discover amazing chocolate games! Play 8 free games with chocolate theme. No downloads required.",
+    "keywords": [
+      "chocolate games",
+      "free online games",
+      "browser games",
+      "chocolate theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/chocolate",
+    "openGraph": {
+      "title": "Chocolate Games - Free Online Gaming",
+      "description": "Play the best chocolate games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/8bbb246747684364a3c72b1c34c4767c-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/chocolate",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chocolate Games - Free Online",
+      "description": "Play 8 free chocolate games online.",
+      "image": "https://img.gamedistribution.com/8bbb246747684364a3c72b1c34c4767c-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Chocolate",
+      "href": "/tags/chocolate",
+      "current": true
+    }
+  ],
+  "description": "Discover games with chocolate theme! Our collection includes 8 carefully selected games that feature chocolate elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

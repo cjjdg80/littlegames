@@ -1,0 +1,46 @@
+{
+  "tag": "music",
+  "displayName": "Music",
+  "metadata": {
+    "title": "Music Games - Play Free Online",
+    "description": "Discover amazing music games! Play 47 free games with music theme. No downloads required.",
+    "keywords": [
+      "music games",
+      "free online games",
+      "browser games",
+      "music theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/music",
+    "openGraph": {
+      "title": "Music Games - Free Online Gaming",
+      "description": "Play the best music games online for free. 47 games available.",
+      "image": "https://img.gamedistribution.com/96a1b686984a4e5ca58884bd34069a75-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/music",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Music Games - Free Online",
+      "description": "Play 47 free music games online.",
+      "image": "https://img.gamedistribution.com/96a1b686984a4e5ca58884bd34069a75-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Music",
+      "href": "/tags/music",
+      "current": true
+    }
+  ],
+  "description": "Discover games with music theme! Our collection includes 47 carefully selected games that feature music elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

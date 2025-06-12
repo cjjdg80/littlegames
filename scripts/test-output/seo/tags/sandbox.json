@@ -1,0 +1,46 @@
+{
+  "tag": "sandbox",
+  "displayName": "Sandbox",
+  "metadata": {
+    "title": "Sandbox Games - Play Free Online",
+    "description": "Discover amazing sandbox games! Play 10 free games with sandbox theme. No downloads required.",
+    "keywords": [
+      "sandbox games",
+      "free online games",
+      "browser games",
+      "sandbox theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/sandbox",
+    "openGraph": {
+      "title": "Sandbox Games - Free Online Gaming",
+      "description": "Play the best sandbox games online for free. 10 games available.",
+      "image": "https://img.gamedistribution.com/3e212271911e454c924dedbe7f8999d3-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/sandbox",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sandbox Games - Free Online",
+      "description": "Play 10 free sandbox games online.",
+      "image": "https://img.gamedistribution.com/3e212271911e454c924dedbe7f8999d3-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Sandbox",
+      "href": "/tags/sandbox",
+      "current": true
+    }
+  ],
+  "description": "Discover games with sandbox theme! Our collection includes 10 carefully selected games that feature sandbox elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

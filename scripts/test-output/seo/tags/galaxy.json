@@ -1,0 +1,46 @@
+{
+  "tag": "galaxy",
+  "displayName": "Galaxy",
+  "metadata": {
+    "title": "Galaxy Games - Play Free Online",
+    "description": "Discover amazing galaxy games! Play 5 free games with galaxy theme. No downloads required.",
+    "keywords": [
+      "galaxy games",
+      "free online games",
+      "browser games",
+      "galaxy theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/galaxy",
+    "openGraph": {
+      "title": "Galaxy Games - Free Online Gaming",
+      "description": "Play the best galaxy games online for free. 5 games available.",
+      "image": "https://img.gamedistribution.com/42fb822bb06f41299d218b5262248eba-1280x550.jpg",
+      "url": "https://playbrowserminigames.com/tags/galaxy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Galaxy Games - Free Online",
+      "description": "Play 5 free galaxy games online.",
+      "image": "https://img.gamedistribution.com/42fb822bb06f41299d218b5262248eba-1280x550.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Galaxy",
+      "href": "/tags/galaxy",
+      "current": true
+    }
+  ],
+  "description": "Discover games with galaxy theme! Our collection includes 5 carefully selected games that feature galaxy elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

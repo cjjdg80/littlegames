@@ -1,0 +1,46 @@
+{
+  "tag": "mining",
+  "displayName": "Mining",
+  "metadata": {
+    "title": "Mining Games - Play Free Online",
+    "description": "Discover amazing mining games! Play 23 free games with mining theme. No downloads required.",
+    "keywords": [
+      "mining games",
+      "free online games",
+      "browser games",
+      "mining theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/mining",
+    "openGraph": {
+      "title": "Mining Games - Free Online Gaming",
+      "description": "Play the best mining games online for free. 23 games available.",
+      "image": "https://img.gamedistribution.com/ddcd71fc39e745e28274a32671c254d3-200x120.jpg",
+      "url": "https://playbrowserminigames.com/tags/mining",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mining Games - Free Online",
+      "description": "Play 23 free mining games online.",
+      "image": "https://img.gamedistribution.com/ddcd71fc39e745e28274a32671c254d3-200x120.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Mining",
+      "href": "/tags/mining",
+      "current": true
+    }
+  ],
+  "description": "Discover games with mining theme! Our collection includes 23 carefully selected games that feature mining elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "ocean",
+  "displayName": "Ocean",
+  "metadata": {
+    "title": "Ocean Games - Play Free Online",
+    "description": "Discover amazing ocean games! Play 23 free games with ocean theme. No downloads required.",
+    "keywords": [
+      "ocean games",
+      "free online games",
+      "browser games",
+      "ocean theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/ocean",
+    "openGraph": {
+      "title": "Ocean Games - Free Online Gaming",
+      "description": "Play the best ocean games online for free. 23 games available.",
+      "image": "https://img.gamedistribution.com/e319a42ce8774347b3c3fa906c0df382-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/ocean",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ocean Games - Free Online",
+      "description": "Play 23 free ocean games online.",
+      "image": "https://img.gamedistribution.com/e319a42ce8774347b3c3fa906c0df382-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Ocean",
+      "href": "/tags/ocean",
+      "current": true
+    }
+  ],
+  "description": "Discover games with ocean theme! Our collection includes 23 carefully selected games that feature ocean elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

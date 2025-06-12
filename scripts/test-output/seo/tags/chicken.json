@@ -1,0 +1,46 @@
+{
+  "tag": "chicken",
+  "displayName": "Chicken",
+  "metadata": {
+    "title": "Chicken Games - Play Free Online",
+    "description": "Discover amazing chicken games! Play 18 free games with chicken theme. No downloads required.",
+    "keywords": [
+      "chicken games",
+      "free online games",
+      "browser games",
+      "chicken theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/chicken",
+    "openGraph": {
+      "title": "Chicken Games - Free Online Gaming",
+      "description": "Play the best chicken games online for free. 18 games available.",
+      "image": "https://img.gamedistribution.com/015cc016b4f04be28f8593e14c70ccef-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/chicken",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chicken Games - Free Online",
+      "description": "Play 18 free chicken games online.",
+      "image": "https://img.gamedistribution.com/015cc016b4f04be28f8593e14c70ccef-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Chicken",
+      "href": "/tags/chicken",
+      "current": true
+    }
+  ],
+  "description": "Discover games with chicken theme! Our collection includes 18 carefully selected games that feature chicken elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

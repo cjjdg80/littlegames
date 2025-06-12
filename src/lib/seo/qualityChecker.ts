@@ -492,8 +492,8 @@ export class QualityChecker {
     const set1 = new Set(words1);
     const set2 = new Set(words2);
     
-    const intersection = new Set([...set1].filter(x => set2.has(x)));
-    const union = new Set([...set1, ...set2]);
+    const intersection = new Set(Array.from(set1).filter(x => set2.has(x)));
+    const union = new Set([...Array.from(set1), ...Array.from(set2)]);
     
     return intersection.size / union.size;
   }
@@ -507,7 +507,7 @@ export class QualityChecker {
   private calculateContentVariation(title: string, description: string): number {
     const titleWords = new Set(title.toLowerCase().split(/\s+/));
     const descWords = new Set(description.toLowerCase().split(/\s+/));
-    const uniqueWords = new Set([...titleWords, ...descWords]);
+    const uniqueWords = new Set([...Array.from(titleWords), ...Array.from(descWords)]);
     
     // 计算词汇多样性
     const totalWords = title.split(/\s+/).length + description.split(/\s+/).length;

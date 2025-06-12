@@ -1,0 +1,46 @@
+{
+  "tag": "cyber",
+  "displayName": "Cyber",
+  "metadata": {
+    "title": "Cyber Games - Play Free Online",
+    "description": "Discover amazing cyber games! Play 4 free games with cyber theme. No downloads required.",
+    "keywords": [
+      "cyber games",
+      "free online games",
+      "browser games",
+      "cyber theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/cyber",
+    "openGraph": {
+      "title": "Cyber Games - Free Online Gaming",
+      "description": "Play the best cyber games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/eb01fd92038d4ab9b4722aba898855ea-512x512.jpeg",
+      "url": "https://playbrowserminigames.com/tags/cyber",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cyber Games - Free Online",
+      "description": "Play 4 free cyber games online.",
+      "image": "https://img.gamedistribution.com/eb01fd92038d4ab9b4722aba898855ea-512x512.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Cyber",
+      "href": "/tags/cyber",
+      "current": true
+    }
+  ],
+  "description": "Discover games with cyber theme! Our collection includes 4 carefully selected games that feature cyber elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

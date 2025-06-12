@@ -1,0 +1,46 @@
+{
+  "tag": "heist",
+  "displayName": "Heist",
+  "metadata": {
+    "title": "Heist Games - Play Free Online",
+    "description": "Discover amazing heist games! Play 1 free games with heist theme. No downloads required.",
+    "keywords": [
+      "heist games",
+      "free online games",
+      "browser games",
+      "heist theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/heist",
+    "openGraph": {
+      "title": "Heist Games - Free Online Gaming",
+      "description": "Play the best heist games online for free. 1 games available.",
+      "image": "https://img.gamedistribution.com/350cf59fde7443e28c68e3205949ab24-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/heist",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Heist Games - Free Online",
+      "description": "Play 1 free heist games online.",
+      "image": "https://img.gamedistribution.com/350cf59fde7443e28c68e3205949ab24-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Heist",
+      "href": "/tags/heist",
+      "current": true
+    }
+  ],
+  "description": "Discover games with heist theme! Our collection includes 1 carefully selected games that feature heist elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

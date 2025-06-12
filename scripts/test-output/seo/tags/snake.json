@@ -1,0 +1,46 @@
+{
+  "tag": "snake",
+  "displayName": "Snake",
+  "metadata": {
+    "title": "Snake Games - Play Free Online",
+    "description": "Discover amazing snake games! Play 39 free games with snake theme. No downloads required.",
+    "keywords": [
+      "snake games",
+      "free online games",
+      "browser games",
+      "snake theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/snake",
+    "openGraph": {
+      "title": "Snake Games - Free Online Gaming",
+      "description": "Play the best snake games online for free. 39 games available.",
+      "image": "https://img.gamedistribution.com/99724b7d35664539a172e389933a8f06-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/snake",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Snake Games - Free Online",
+      "description": "Play 39 free snake games online.",
+      "image": "https://img.gamedistribution.com/99724b7d35664539a172e389933a8f06-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Snake",
+      "href": "/tags/snake",
+      "current": true
+    }
+  ],
+  "description": "Discover games with snake theme! Our collection includes 39 carefully selected games that feature snake elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

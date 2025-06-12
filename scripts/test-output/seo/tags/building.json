@@ -1,0 +1,46 @@
+{
+  "tag": "building",
+  "displayName": "Building",
+  "metadata": {
+    "title": "Building Games - Play Free Online",
+    "description": "Discover amazing building games! Play 28 free games with building theme. No downloads required.",
+    "keywords": [
+      "building games",
+      "free online games",
+      "browser games",
+      "building theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/building",
+    "openGraph": {
+      "title": "Building Games - Free Online Gaming",
+      "description": "Play the best building games online for free. 28 games available.",
+      "image": "https://img.gamedistribution.com/72819ef0b4404b5a8d9bd4530f34938a-1280x550.jpg",
+      "url": "https://playbrowserminigames.com/tags/building",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Building Games - Free Online",
+      "description": "Play 28 free building games online.",
+      "image": "https://img.gamedistribution.com/72819ef0b4404b5a8d9bd4530f34938a-1280x550.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Building",
+      "href": "/tags/building",
+      "current": true
+    }
+  ],
+  "description": "Discover games with building theme! Our collection includes 28 carefully selected games that feature building elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

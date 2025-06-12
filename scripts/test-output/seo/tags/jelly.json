@@ -1,0 +1,46 @@
+{
+  "tag": "jelly",
+  "displayName": "Jelly",
+  "metadata": {
+    "title": "Jelly Games - Play Free Online",
+    "description": "Discover amazing jelly games! Play 25 free games with jelly theme. No downloads required.",
+    "keywords": [
+      "jelly games",
+      "free online games",
+      "browser games",
+      "jelly theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/jelly",
+    "openGraph": {
+      "title": "Jelly Games - Free Online Gaming",
+      "description": "Play the best jelly games online for free. 25 games available.",
+      "image": "https://img.gamedistribution.com/b3b89257a045429d8c1cf79d118efcd9-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/jelly",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jelly Games - Free Online",
+      "description": "Play 25 free jelly games online.",
+      "image": "https://img.gamedistribution.com/b3b89257a045429d8c1cf79d118efcd9-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Jelly",
+      "href": "/tags/jelly",
+      "current": true
+    }
+  ],
+  "description": "Discover games with jelly theme! Our collection includes 25 carefully selected games that feature jelly elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}
