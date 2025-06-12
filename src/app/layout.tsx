@@ -20,7 +20,12 @@ export const metadata: Metadata = {
   description: "Discover and play thousands of free online mini games. Enjoy puzzle games, action games, arcade games and more. No download required, play instantly in your browser.",
   keywords: "free games, online games, mini games, browser games, puzzle games, action games",
   authors: [{ name: "Play Browser Mini Games Team" }],
-  viewport: "width=device-width, initial-scale=1",
+};
+
+// Viewport配置 - Next.js 15+要求单独导出
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
 };
 
 export default function RootLayout({
