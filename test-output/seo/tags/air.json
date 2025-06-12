@@ -1,0 +1,46 @@
+{
+  "tag": "air",
+  "displayName": "Air",
+  "metadata": {
+    "title": "Air Games - Play Free Online",
+    "description": "Discover amazing air games! Play 19 free games with air theme. No downloads required.",
+    "keywords": [
+      "air games",
+      "free online games",
+      "browser games",
+      "air theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/air",
+    "openGraph": {
+      "title": "Air Games - Free Online Gaming",
+      "description": "Play the best air games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/7d6904e6be5649a5a771cf41dcb76827-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/air",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Air Games - Free Online",
+      "description": "Play 19 free air games online.",
+      "image": "https://img.gamedistribution.com/7d6904e6be5649a5a771cf41dcb76827-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Air",
+      "href": "/tags/air",
+      "current": true
+    }
+  ],
+  "description": "Discover games with air theme! Our collection includes 19 carefully selected games that feature air elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "hide",
+  "displayName": "Hide",
+  "metadata": {
+    "title": "Hide Games - Play Free Online",
+    "description": "Discover amazing hide games! Play 22 free games with hide theme. No downloads required.",
+    "keywords": [
+      "hide games",
+      "free online games",
+      "browser games",
+      "hide theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/hide",
+    "openGraph": {
+      "title": "Hide Games - Free Online Gaming",
+      "description": "Play the best hide games online for free. 22 games available.",
+      "image": "https://img.gamedistribution.com/18e7a43aa4b2464599e969427ea44aed-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/hide",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hide Games - Free Online",
+      "description": "Play 22 free hide games online.",
+      "image": "https://img.gamedistribution.com/18e7a43aa4b2464599e969427ea44aed-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hide",
+      "href": "/tags/hide",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hide theme! Our collection includes 22 carefully selected games that feature hide elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

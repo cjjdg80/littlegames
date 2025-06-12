@@ -1,0 +1,46 @@
+{
+  "tag": "tank",
+  "displayName": "Tank",
+  "metadata": {
+    "title": "Tank Games - Play Free Online",
+    "description": "Discover amazing tank games! Play 60 free games with tank theme. No downloads required.",
+    "keywords": [
+      "tank games",
+      "free online games",
+      "browser games",
+      "tank theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/tank",
+    "openGraph": {
+      "title": "Tank Games - Free Online Gaming",
+      "description": "Play the best tank games online for free. 60 games available.",
+      "image": "https://img.gamedistribution.com/11d063f81e1b41c99bf6d1a40c83eb37-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/tank",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tank Games - Free Online",
+      "description": "Play 60 free tank games online.",
+      "image": "https://img.gamedistribution.com/11d063f81e1b41c99bf6d1a40c83eb37-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tank",
+      "href": "/tags/tank",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tank theme! Our collection includes 60 carefully selected games that feature tank elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

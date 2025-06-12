@@ -1,0 +1,53 @@
+{
+  "category": "sports",
+  "displayName": "Sports",
+  "metadata": {
+    "title": "Best Sports Games - Free Browser Gaming",
+    "description": "Explore our extensive Sports games library with 95 titles. From classic favorites to new releases, find your perfect game and start playing for free!",
+    "keywords": [
+      "Sports games online",
+      "free games",
+      "no download games",
+      "instant play"
+    ],
+    "canonical": "https://playbrowserminigames.com/categories/sports",
+    "openGraph": {
+      "title": "Best Sports Games - Free Browser Gaming",
+      "description": "Explore our extensive Sports games library with 95 titles. From classic favorites to new releases, find your perfect game and start playing for free!",
+      "image": "https://img.gamedistribution.com/e2c035f654cf4b1d91f6d4c57b649b50-1280x720.jpg",
+      "url": "https://playbrowserminigames.com/categories/sports",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Best Sports Games - Free Browser Gaming",
+      "description": "Explore our extensive Sports games library with 95 titles. From classic favorites to new releases, find your perfect game and start playing for free!",
+      "image": "https://img.gamedistribution.com/e2c035f654cf4b1d91f6d4c57b649b50-1280x720.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Sports",
+      "href": "/categories/sports",
+      "current": true
+    }
+  ],
+  "content": {
+    "mainDescription": "Explore our collection of sports games! We have carefully selected 95 amazing games that will provide hours of entertainment.",
+    "featuredContent": "Provides regular updates with new games",
+    "gameStats": {
+      "total": 95,
+      "featured": 9,
+      "recent": 19
+    }
+  },
+  "subcategories": []
+}

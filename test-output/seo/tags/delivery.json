@@ -1,0 +1,46 @@
+{
+  "tag": "delivery",
+  "displayName": "Delivery",
+  "metadata": {
+    "title": "Delivery Games - Play Free Online",
+    "description": "Discover amazing delivery games! Play 10 free games with delivery theme. No downloads required.",
+    "keywords": [
+      "delivery games",
+      "free online games",
+      "browser games",
+      "delivery theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/delivery",
+    "openGraph": {
+      "title": "Delivery Games - Free Online Gaming",
+      "description": "Play the best delivery games online for free. 10 games available.",
+      "image": "https://img.gamedistribution.com/4748ebf577bb47bb9913ce908571377a-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/delivery",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Delivery Games - Free Online",
+      "description": "Play 10 free delivery games online.",
+      "image": "https://img.gamedistribution.com/4748ebf577bb47bb9913ce908571377a-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Delivery",
+      "href": "/tags/delivery",
+      "current": true
+    }
+  ],
+  "description": "Discover games with delivery theme! Our collection includes 10 carefully selected games that feature delivery elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

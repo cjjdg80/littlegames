@@ -1,0 +1,46 @@
+{
+  "tag": "pong",
+  "displayName": "Pong",
+  "metadata": {
+    "title": "Pong Games - Play Free Online",
+    "description": "Discover amazing pong games! Play 11 free games with pong theme. No downloads required.",
+    "keywords": [
+      "pong games",
+      "free online games",
+      "browser games",
+      "pong theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pong",
+    "openGraph": {
+      "title": "Pong Games - Free Online Gaming",
+      "description": "Play the best pong games online for free. 11 games available.",
+      "image": "https://img.gamedistribution.com/f030c38f2d2649e6b7daf3e89fc0fe95-512x512.jpeg",
+      "url": "https://playbrowserminigames.com/tags/pong",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pong Games - Free Online",
+      "description": "Play 11 free pong games online.",
+      "image": "https://img.gamedistribution.com/f030c38f2d2649e6b7daf3e89fc0fe95-512x512.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pong",
+      "href": "/tags/pong",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pong theme! Our collection includes 11 carefully selected games that feature pong elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

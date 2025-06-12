@@ -1,0 +1,46 @@
+{
+  "tag": "idle",
+  "displayName": "Idle",
+  "metadata": {
+    "title": "Idle Games - Play Free Online",
+    "description": "Discover amazing idle games! Play 161 free games with idle theme. No downloads required.",
+    "keywords": [
+      "idle games",
+      "free online games",
+      "browser games",
+      "idle theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/idle",
+    "openGraph": {
+      "title": "Idle Games - Free Online Gaming",
+      "description": "Play the best idle games online for free. 161 games available.",
+      "image": "https://img.gamedistribution.com/206682eb20b54d449e1ceed2bdec1389-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/idle",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Idle Games - Free Online",
+      "description": "Play 161 free idle games online.",
+      "image": "https://img.gamedistribution.com/206682eb20b54d449e1ceed2bdec1389-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Idle",
+      "href": "/tags/idle",
+      "current": true
+    }
+  ],
+  "description": "Discover games with idle theme! Our collection includes 161 carefully selected games that feature idle elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

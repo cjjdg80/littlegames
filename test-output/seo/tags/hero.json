@@ -1,0 +1,46 @@
+{
+  "tag": "hero",
+  "displayName": "Hero",
+  "metadata": {
+    "title": "Hero Games - Play Free Online",
+    "description": "Discover amazing hero games! Play 78 free games with hero theme. No downloads required.",
+    "keywords": [
+      "hero games",
+      "free online games",
+      "browser games",
+      "hero theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/hero",
+    "openGraph": {
+      "title": "Hero Games - Free Online Gaming",
+      "description": "Play the best hero games online for free. 78 games available.",
+      "image": "https://img.gamedistribution.com/a05999d05dec449887e6a7144545665d-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/hero",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hero Games - Free Online",
+      "description": "Play 78 free hero games online.",
+      "image": "https://img.gamedistribution.com/a05999d05dec449887e6a7144545665d-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hero",
+      "href": "/tags/hero",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hero theme! Our collection includes 78 carefully selected games that feature hero elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

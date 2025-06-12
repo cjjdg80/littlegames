@@ -1,0 +1,46 @@
+{
+  "tag": "movie",
+  "displayName": "Movie",
+  "metadata": {
+    "title": "Movie Games - Play Free Online",
+    "description": "Discover amazing movie games! Play 5 free games with movie theme. No downloads required.",
+    "keywords": [
+      "movie games",
+      "free online games",
+      "browser games",
+      "movie theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/movie",
+    "openGraph": {
+      "title": "Movie Games - Free Online Gaming",
+      "description": "Play the best movie games online for free. 5 games available.",
+      "image": "https://img.gamedistribution.com/2a22f3134d1643389fff2d16099e1a49-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/movie",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Movie Games - Free Online",
+      "description": "Play 5 free movie games online.",
+      "image": "https://img.gamedistribution.com/2a22f3134d1643389fff2d16099e1a49-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Movie",
+      "href": "/tags/movie",
+      "current": true
+    }
+  ],
+  "description": "Discover games with movie theme! Our collection includes 5 carefully selected games that feature movie elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

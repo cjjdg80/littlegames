@@ -1,0 +1,46 @@
+{
+  "tag": "queen",
+  "displayName": "Queen",
+  "metadata": {
+    "title": "Queen Games - Play Free Online",
+    "description": "Discover amazing queen games! Play 8 free games with queen theme. No downloads required.",
+    "keywords": [
+      "queen games",
+      "free online games",
+      "browser games",
+      "queen theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/queen",
+    "openGraph": {
+      "title": "Queen Games - Free Online Gaming",
+      "description": "Play the best queen games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/b511303e158f4d15b58484a5558dd173-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/queen",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Queen Games - Free Online",
+      "description": "Play 8 free queen games online.",
+      "image": "https://img.gamedistribution.com/b511303e158f4d15b58484a5558dd173-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Queen",
+      "href": "/tags/queen",
+      "current": true
+    }
+  ],
+  "description": "Discover games with queen theme! Our collection includes 8 carefully selected games that feature queen elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

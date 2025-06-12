@@ -1,0 +1,46 @@
+{
+  "tag": "ludo",
+  "displayName": "Ludo",
+  "metadata": {
+    "title": "Ludo Games - Play Free Online",
+    "description": "Discover amazing ludo games! Play 3 free games with ludo theme. No downloads required.",
+    "keywords": [
+      "ludo games",
+      "free online games",
+      "browser games",
+      "ludo theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/ludo",
+    "openGraph": {
+      "title": "Ludo Games - Free Online Gaming",
+      "description": "Play the best ludo games online for free. 3 games available.",
+      "image": "https://img.gamedistribution.com/a6221e83c05947c198e681edcf5be3d9-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/ludo",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ludo Games - Free Online",
+      "description": "Play 3 free ludo games online.",
+      "image": "https://img.gamedistribution.com/a6221e83c05947c198e681edcf5be3d9-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Ludo",
+      "href": "/tags/ludo",
+      "current": true
+    }
+  ],
+  "description": "Discover games with ludo theme! Our collection includes 3 carefully selected games that feature ludo elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

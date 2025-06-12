@@ -1,0 +1,46 @@
+{
+  "tag": "fire",
+  "displayName": "Fire",
+  "metadata": {
+    "title": "Fire Games - Play Free Online",
+    "description": "Discover amazing fire games! Play 37 free games with fire theme. No downloads required.",
+    "keywords": [
+      "fire games",
+      "free online games",
+      "browser games",
+      "fire theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/fire",
+    "openGraph": {
+      "title": "Fire Games - Free Online Gaming",
+      "description": "Play the best fire games online for free. 37 games available.",
+      "image": "https://img.gamedistribution.com/d2469e2bac9247108bd72573893b76fe-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/fire",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fire Games - Free Online",
+      "description": "Play 37 free fire games online.",
+      "image": "https://img.gamedistribution.com/d2469e2bac9247108bd72573893b76fe-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fire",
+      "href": "/tags/fire",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fire theme! Our collection includes 37 carefully selected games that feature fire elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

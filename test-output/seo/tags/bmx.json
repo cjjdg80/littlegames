@@ -1,0 +1,46 @@
+{
+  "tag": "bmx",
+  "displayName": "Bmx",
+  "metadata": {
+    "title": "Bmx Games - Play Free Online",
+    "description": "Discover amazing bmx games! Play 3 free games with bmx theme. No downloads required.",
+    "keywords": [
+      "bmx games",
+      "free online games",
+      "browser games",
+      "bmx theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/bmx",
+    "openGraph": {
+      "title": "Bmx Games - Free Online Gaming",
+      "description": "Play the best bmx games online for free. 3 games available.",
+      "image": "https://playbrowserminigames.com/images/tags/bmx-og.jpg",
+      "url": "https://playbrowserminigames.com/tags/bmx",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bmx Games - Free Online",
+      "description": "Play 3 free bmx games online.",
+      "image": "https://playbrowserminigames.com/images/tags/bmx-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bmx",
+      "href": "/tags/bmx",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bmx theme! Our collection includes 3 carefully selected games that feature bmx elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

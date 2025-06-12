@@ -1,0 +1,46 @@
+{
+  "tag": "drop",
+  "displayName": "Drop",
+  "metadata": {
+    "title": "Drop Games - Play Free Online",
+    "description": "Discover amazing drop games! Play 21 free games with drop theme. No downloads required.",
+    "keywords": [
+      "drop games",
+      "free online games",
+      "browser games",
+      "drop theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/drop",
+    "openGraph": {
+      "title": "Drop Games - Free Online Gaming",
+      "description": "Play the best drop games online for free. 21 games available.",
+      "image": "https://img.gamedistribution.com/2e7fc01b567b4f2cb09f3945a601ef17-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/drop",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drop Games - Free Online",
+      "description": "Play 21 free drop games online.",
+      "image": "https://img.gamedistribution.com/2e7fc01b567b4f2cb09f3945a601ef17-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Drop",
+      "href": "/tags/drop",
+      "current": true
+    }
+  ],
+  "description": "Discover games with drop theme! Our collection includes 21 carefully selected games that feature drop elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "pair",
+  "displayName": "Pair",
+  "metadata": {
+    "title": "Pair Games - Play Free Online",
+    "description": "Discover amazing pair games! Play 19 free games with pair theme. No downloads required.",
+    "keywords": [
+      "pair games",
+      "free online games",
+      "browser games",
+      "pair theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pair",
+    "openGraph": {
+      "title": "Pair Games - Free Online Gaming",
+      "description": "Play the best pair games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/1e0be8315c8d415aa5f0646f3f3fd577-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/pair",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pair Games - Free Online",
+      "description": "Play 19 free pair games online.",
+      "image": "https://img.gamedistribution.com/1e0be8315c8d415aa5f0646f3f3fd577-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pair",
+      "href": "/tags/pair",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pair theme! Our collection includes 19 carefully selected games that feature pair elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "balance",
+  "displayName": "Balance",
+  "metadata": {
+    "title": "Balance Games - Play Free Online",
+    "description": "Discover amazing balance games! Play 24 free games with balance theme. No downloads required.",
+    "keywords": [
+      "balance games",
+      "free online games",
+      "browser games",
+      "balance theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/balance",
+    "openGraph": {
+      "title": "Balance Games - Free Online Gaming",
+      "description": "Play the best balance games online for free. 24 games available.",
+      "image": "https://img.gamedistribution.com/7a3a9263137348699dfbb13b0a4c7163-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/balance",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Balance Games - Free Online",
+      "description": "Play 24 free balance games online.",
+      "image": "https://img.gamedistribution.com/7a3a9263137348699dfbb13b0a4c7163-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Balance",
+      "href": "/tags/balance",
+      "current": true
+    }
+  ],
+  "description": "Discover games with balance theme! Our collection includes 24 carefully selected games that feature balance elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

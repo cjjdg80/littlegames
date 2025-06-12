@@ -1,0 +1,46 @@
+{
+  "tag": "bear",
+  "displayName": "Bear",
+  "metadata": {
+    "title": "Bear Games - Play Free Online",
+    "description": "Discover amazing bear games! Play 4 free games with bear theme. No downloads required.",
+    "keywords": [
+      "bear games",
+      "free online games",
+      "browser games",
+      "bear theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/bear",
+    "openGraph": {
+      "title": "Bear Games - Free Online Gaming",
+      "description": "Play the best bear games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/985f6d7242614e8da34cb3e51455e31c-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/bear",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bear Games - Free Online",
+      "description": "Play 4 free bear games online.",
+      "image": "https://img.gamedistribution.com/985f6d7242614e8da34cb3e51455e31c-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bear",
+      "href": "/tags/bear",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bear theme! Our collection includes 4 carefully selected games that feature bear elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

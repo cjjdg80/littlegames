@@ -1,0 +1,46 @@
+{
+  "tag": "car",
+  "displayName": "Car",
+  "metadata": {
+    "title": "Car Games - Play Free Online",
+    "description": "Discover amazing car games! Play 702 free games with car theme. No downloads required.",
+    "keywords": [
+      "car games",
+      "free online games",
+      "browser games",
+      "car theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/car",
+    "openGraph": {
+      "title": "Car Games - Free Online Gaming",
+      "description": "Play the best car games online for free. 702 games available.",
+      "image": "https://img.gamedistribution.com/be4f7b9d1f3c4370a27cd86ba14fe15e-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/car",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Car Games - Free Online",
+      "description": "Play 702 free car games online.",
+      "image": "https://img.gamedistribution.com/be4f7b9d1f3c4370a27cd86ba14fe15e-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Car",
+      "href": "/tags/car",
+      "current": true
+    }
+  ],
+  "description": "Discover games with car theme! Our collection includes 702 carefully selected games that feature car elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

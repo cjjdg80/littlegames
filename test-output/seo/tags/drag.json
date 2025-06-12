@@ -1,0 +1,46 @@
+{
+  "tag": "drag",
+  "displayName": "Drag",
+  "metadata": {
+    "title": "Drag Games - Play Free Online",
+    "description": "Discover amazing drag games! Play 16 free games with drag theme. No downloads required.",
+    "keywords": [
+      "drag games",
+      "free online games",
+      "browser games",
+      "drag theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/drag",
+    "openGraph": {
+      "title": "Drag Games - Free Online Gaming",
+      "description": "Play the best drag games online for free. 16 games available.",
+      "image": "https://img.gamedistribution.com/4fee373f40e54e209cf439e467da7730-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/drag",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Drag Games - Free Online",
+      "description": "Play 16 free drag games online.",
+      "image": "https://img.gamedistribution.com/4fee373f40e54e209cf439e467da7730-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Drag",
+      "href": "/tags/drag",
+      "current": true
+    }
+  ],
+  "description": "Discover games with drag theme! Our collection includes 16 carefully selected games that feature drag elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

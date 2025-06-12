@@ -1,0 +1,46 @@
+{
+  "tag": "target",
+  "displayName": "Target",
+  "metadata": {
+    "title": "Target Games - Play Free Online",
+    "description": "Discover amazing target games! Play 12 free games with target theme. No downloads required.",
+    "keywords": [
+      "target games",
+      "free online games",
+      "browser games",
+      "target theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/target",
+    "openGraph": {
+      "title": "Target Games - Free Online Gaming",
+      "description": "Play the best target games online for free. 12 games available.",
+      "image": "https://img.gamedistribution.com/17e7c212747b426890b8b040d13b7fa3-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/target",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Target Games - Free Online",
+      "description": "Play 12 free target games online.",
+      "image": "https://img.gamedistribution.com/17e7c212747b426890b8b040d13b7fa3-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Target",
+      "href": "/tags/target",
+      "current": true
+    }
+  ],
+  "description": "Discover games with target theme! Our collection includes 12 carefully selected games that feature target elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

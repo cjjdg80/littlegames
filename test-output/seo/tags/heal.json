@@ -1,0 +1,46 @@
+{
+  "tag": "heal",
+  "displayName": "Heal",
+  "metadata": {
+    "title": "Heal Games - Play Free Online",
+    "description": "Discover amazing heal games! Play 3 free games with heal theme. No downloads required.",
+    "keywords": [
+      "heal games",
+      "free online games",
+      "browser games",
+      "heal theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/heal",
+    "openGraph": {
+      "title": "Heal Games - Free Online Gaming",
+      "description": "Play the best heal games online for free. 3 games available.",
+      "image": "https://img.gamedistribution.com/cd1e8ed33c0640098f4cd41ccf252c63-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/heal",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Heal Games - Free Online",
+      "description": "Play 3 free heal games online.",
+      "image": "https://img.gamedistribution.com/cd1e8ed33c0640098f4cd41ccf252c63-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Heal",
+      "href": "/tags/heal",
+      "current": true
+    }
+  ],
+  "description": "Discover games with heal theme! Our collection includes 3 carefully selected games that feature heal elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

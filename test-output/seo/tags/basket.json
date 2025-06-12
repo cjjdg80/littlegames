@@ -1,0 +1,46 @@
+{
+  "tag": "basket",
+  "displayName": "Basket",
+  "metadata": {
+    "title": "Basket Games - Play Free Online",
+    "description": "Discover amazing basket games! Play 26 free games with basket theme. No downloads required.",
+    "keywords": [
+      "basket games",
+      "free online games",
+      "browser games",
+      "basket theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/basket",
+    "openGraph": {
+      "title": "Basket Games - Free Online Gaming",
+      "description": "Play the best basket games online for free. 26 games available.",
+      "image": "https://img.gamedistribution.com/3d99e3788d994f6f9b564f06da722ce3-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/basket",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Basket Games - Free Online",
+      "description": "Play 26 free basket games online.",
+      "image": "https://img.gamedistribution.com/3d99e3788d994f6f9b564f06da722ce3-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Basket",
+      "href": "/tags/basket",
+      "current": true
+    }
+  ],
+  "description": "Discover games with basket theme! Our collection includes 26 carefully selected games that feature basket elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

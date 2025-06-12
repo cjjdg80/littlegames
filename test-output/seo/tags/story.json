@@ -1,0 +1,46 @@
+{
+  "tag": "story",
+  "displayName": "Story",
+  "metadata": {
+    "title": "Story Games - Play Free Online",
+    "description": "Discover amazing story games! Play 36 free games with story theme. No downloads required.",
+    "keywords": [
+      "story games",
+      "free online games",
+      "browser games",
+      "story theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/story",
+    "openGraph": {
+      "title": "Story Games - Free Online Gaming",
+      "description": "Play the best story games online for free. 36 games available.",
+      "image": "https://img.gamedistribution.com/95255a7e37364fee8761658ab51a35eb-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/story",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Story Games - Free Online",
+      "description": "Play 36 free story games online.",
+      "image": "https://img.gamedistribution.com/95255a7e37364fee8761658ab51a35eb-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Story",
+      "href": "/tags/story",
+      "current": true
+    }
+  ],
+  "description": "Discover games with story theme! Our collection includes 36 carefully selected games that feature story elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

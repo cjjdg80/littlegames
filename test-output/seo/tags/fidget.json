@@ -1,0 +1,46 @@
+{
+  "tag": "fidget",
+  "displayName": "Fidget",
+  "metadata": {
+    "title": "Fidget Games - Play Free Online",
+    "description": "Discover amazing fidget games! Play 9 free games with fidget theme. No downloads required.",
+    "keywords": [
+      "fidget games",
+      "free online games",
+      "browser games",
+      "fidget theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/fidget",
+    "openGraph": {
+      "title": "Fidget Games - Free Online Gaming",
+      "description": "Play the best fidget games online for free. 9 games available.",
+      "image": "https://img.gamedistribution.com/9214ef9669ee4a3486d6fd6d6dc104bd-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/fidget",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fidget Games - Free Online",
+      "description": "Play 9 free fidget games online.",
+      "image": "https://img.gamedistribution.com/9214ef9669ee4a3486d6fd6d6dc104bd-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fidget",
+      "href": "/tags/fidget",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fidget theme! Our collection includes 9 carefully selected games that feature fidget elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

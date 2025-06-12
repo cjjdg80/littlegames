@@ -1,0 +1,46 @@
+{
+  "tag": "minimal",
+  "displayName": "Minimal",
+  "metadata": {
+    "title": "Minimal Games - Play Free Online",
+    "description": "Discover amazing minimal games! Play 10 free games with minimal theme. No downloads required.",
+    "keywords": [
+      "minimal games",
+      "free online games",
+      "browser games",
+      "minimal theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/minimal",
+    "openGraph": {
+      "title": "Minimal Games - Free Online Gaming",
+      "description": "Play the best minimal games online for free. 10 games available.",
+      "image": "https://img.gamedistribution.com/7fe79c6805e24f3d9312e5a03622d9f6-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/minimal",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Minimal Games - Free Online",
+      "description": "Play 10 free minimal games online.",
+      "image": "https://img.gamedistribution.com/7fe79c6805e24f3d9312e5a03622d9f6-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Minimal",
+      "href": "/tags/minimal",
+      "current": true
+    }
+  ],
+  "description": "Discover games with minimal theme! Our collection includes 10 carefully selected games that feature minimal elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

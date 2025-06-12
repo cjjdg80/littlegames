@@ -1,0 +1,46 @@
+{
+  "tag": "mom",
+  "displayName": "Mom",
+  "metadata": {
+    "title": "Mom Games - Play Free Online",
+    "description": "Discover amazing mom games! Play 2 free games with mom theme. No downloads required.",
+    "keywords": [
+      "mom games",
+      "free online games",
+      "browser games",
+      "mom theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/mom",
+    "openGraph": {
+      "title": "Mom Games - Free Online Gaming",
+      "description": "Play the best mom games online for free. 2 games available.",
+      "image": "https://img.gamedistribution.com/2a211cc047a2428fa96e649ac773029b-512x512.jpeg",
+      "url": "https://playbrowserminigames.com/tags/mom",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Mom Games - Free Online",
+      "description": "Play 2 free mom games online.",
+      "image": "https://img.gamedistribution.com/2a211cc047a2428fa96e649ac773029b-512x512.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Mom",
+      "href": "/tags/mom",
+      "current": true
+    }
+  ],
+  "description": "Discover games with mom theme! Our collection includes 2 carefully selected games that feature mom elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

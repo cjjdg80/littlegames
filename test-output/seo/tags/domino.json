@@ -1,0 +1,46 @@
+{
+  "tag": "domino",
+  "displayName": "Domino",
+  "metadata": {
+    "title": "Domino Games - Play Free Online",
+    "description": "Discover amazing domino games! Play 6 free games with domino theme. No downloads required.",
+    "keywords": [
+      "domino games",
+      "free online games",
+      "browser games",
+      "domino theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/domino",
+    "openGraph": {
+      "title": "Domino Games - Free Online Gaming",
+      "description": "Play the best domino games online for free. 6 games available.",
+      "image": "https://img.gamedistribution.com/2166d2fa6eb64dcda7e47e9a848ac9dc-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/domino",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Domino Games - Free Online",
+      "description": "Play 6 free domino games online.",
+      "image": "https://img.gamedistribution.com/2166d2fa6eb64dcda7e47e9a848ac9dc-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Domino",
+      "href": "/tags/domino",
+      "current": true
+    }
+  ],
+  "description": "Discover games with domino theme! Our collection includes 6 carefully selected games that feature domino elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "highscore",
+  "displayName": "Highscore",
+  "metadata": {
+    "title": "Highscore Games - Play Free Online",
+    "description": "Discover amazing highscore games! Play 127 free games with highscore theme. No downloads required.",
+    "keywords": [
+      "highscore games",
+      "free online games",
+      "browser games",
+      "highscore theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/highscore",
+    "openGraph": {
+      "title": "Highscore Games - Free Online Gaming",
+      "description": "Play the best highscore games online for free. 127 games available.",
+      "image": "https://img.gamedistribution.com/97968209babf41e1b51ef8830b75c47a-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/highscore",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Highscore Games - Free Online",
+      "description": "Play 127 free highscore games online.",
+      "image": "https://img.gamedistribution.com/97968209babf41e1b51ef8830b75c47a-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Highscore",
+      "href": "/tags/highscore",
+      "current": true
+    }
+  ],
+  "description": "Discover games with highscore theme! Our collection includes 127 carefully selected games that feature highscore elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

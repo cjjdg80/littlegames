@@ -1,0 +1,46 @@
+{
+  "tag": "blue",
+  "displayName": "Blue",
+  "metadata": {
+    "title": "Blue Games - Play Free Online",
+    "description": "Discover amazing blue games! Play 4 free games with blue theme. No downloads required.",
+    "keywords": [
+      "blue games",
+      "free online games",
+      "browser games",
+      "blue theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/blue",
+    "openGraph": {
+      "title": "Blue Games - Free Online Gaming",
+      "description": "Play the best blue games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/2ebf8f54f1b14a81bfc912f93c7ac20e-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/blue",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Blue Games - Free Online",
+      "description": "Play 4 free blue games online.",
+      "image": "https://img.gamedistribution.com/2ebf8f54f1b14a81bfc912f93c7ac20e-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Blue",
+      "href": "/tags/blue",
+      "current": true
+    }
+  ],
+  "description": "Discover games with blue theme! Our collection includes 4 carefully selected games that feature blue elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "cat",
+  "displayName": "Cat",
+  "metadata": {
+    "title": "Cat Games - Play Free Online",
+    "description": "Discover amazing cat games! Play 108 free games with cat theme. No downloads required.",
+    "keywords": [
+      "cat games",
+      "free online games",
+      "browser games",
+      "cat theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/cat",
+    "openGraph": {
+      "title": "Cat Games - Free Online Gaming",
+      "description": "Play the best cat games online for free. 108 games available.",
+      "image": "https://img.gamedistribution.com/206682eb20b54d449e1ceed2bdec1389-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/cat",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Cat Games - Free Online",
+      "description": "Play 108 free cat games online.",
+      "image": "https://img.gamedistribution.com/206682eb20b54d449e1ceed2bdec1389-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Cat",
+      "href": "/tags/cat",
+      "current": true
+    }
+  ],
+  "description": "Discover games with cat theme! Our collection includes 108 carefully selected games that feature cat elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

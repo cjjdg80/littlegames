@@ -1,0 +1,53 @@
+{
+  "category": "simulation",
+  "displayName": "Simulation",
+  "metadata": {
+    "title": "Simulation Games Collection - Best Free Games",
+    "description": "Play top-rated Simulation games in your browser. We offer 274 carefully selected games with hours of entertainment. All games are free and ready to play!",
+    "keywords": [
+      "Simulation games online",
+      "free games",
+      "no download games",
+      "instant play"
+    ],
+    "canonical": "https://playbrowserminigames.com/categories/simulation",
+    "openGraph": {
+      "title": "Simulation Games Collection - Best Free Games",
+      "description": "Play top-rated Simulation games in your browser. We offer 274 carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/b0873448cc8e425893f755e7b2ba4323-512x384.jpg",
+      "url": "https://playbrowserminigames.com/categories/simulation",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Simulation Games Collection - Best Free Games",
+      "description": "Play top-rated Simulation games in your browser. We offer 274 carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/b0873448cc8e425893f755e7b2ba4323-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Simulation",
+      "href": "/categories/simulation",
+      "current": true
+    }
+  ],
+  "content": {
+    "mainDescription": "Explore our collection of simulation games! We have carefully selected 274 amazing games that will provide hours of entertainment.",
+    "featuredContent": "Offers both classic and modern {category} titles",
+    "gameStats": {
+      "total": 274,
+      "featured": 10,
+      "recent": 20
+    }
+  },
+  "subcategories": []
+}

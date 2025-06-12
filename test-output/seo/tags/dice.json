@@ -1,0 +1,46 @@
+{
+  "tag": "dice",
+  "displayName": "Dice",
+  "metadata": {
+    "title": "Dice Games - Play Free Online",
+    "description": "Discover amazing dice games! Play 13 free games with dice theme. No downloads required.",
+    "keywords": [
+      "dice games",
+      "free online games",
+      "browser games",
+      "dice theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/dice",
+    "openGraph": {
+      "title": "Dice Games - Free Online Gaming",
+      "description": "Play the best dice games online for free. 13 games available.",
+      "image": "https://img.gamedistribution.com/d0046c8fd4eb4d4fb2492ba8013909f0-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/dice",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dice Games - Free Online",
+      "description": "Play 13 free dice games online.",
+      "image": "https://img.gamedistribution.com/d0046c8fd4eb4d4fb2492ba8013909f0-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dice",
+      "href": "/tags/dice",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dice theme! Our collection includes 13 carefully selected games that feature dice elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

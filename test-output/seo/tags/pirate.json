@@ -1,0 +1,46 @@
+{
+  "tag": "pirate",
+  "displayName": "Pirate",
+  "metadata": {
+    "title": "Pirate Games - Play Free Online",
+    "description": "Discover amazing pirate games! Play 21 free games with pirate theme. No downloads required.",
+    "keywords": [
+      "pirate games",
+      "free online games",
+      "browser games",
+      "pirate theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pirate",
+    "openGraph": {
+      "title": "Pirate Games - Free Online Gaming",
+      "description": "Play the best pirate games online for free. 21 games available.",
+      "image": "https://img.gamedistribution.com/99cb820d54f1406ba3bae16ab6b71ef7-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/pirate",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pirate Games - Free Online",
+      "description": "Play 21 free pirate games online.",
+      "image": "https://img.gamedistribution.com/99cb820d54f1406ba3bae16ab6b71ef7-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pirate",
+      "href": "/tags/pirate",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pirate theme! Our collection includes 21 carefully selected games that feature pirate elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

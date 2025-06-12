@@ -1,0 +1,46 @@
+{
+  "tag": "pool",
+  "displayName": "Pool",
+  "metadata": {
+    "title": "Pool Games - Play Free Online",
+    "description": "Discover amazing pool games! Play 18 free games with pool theme. No downloads required.",
+    "keywords": [
+      "pool games",
+      "free online games",
+      "browser games",
+      "pool theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pool",
+    "openGraph": {
+      "title": "Pool Games - Free Online Gaming",
+      "description": "Play the best pool games online for free. 18 games available.",
+      "image": "https://img.gamedistribution.com/c62767db6c984841a95341d73ff498b5-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/pool",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pool Games - Free Online",
+      "description": "Play 18 free pool games online.",
+      "image": "https://img.gamedistribution.com/c62767db6c984841a95341d73ff498b5-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pool",
+      "href": "/tags/pool",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pool theme! Our collection includes 18 carefully selected games that feature pool elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

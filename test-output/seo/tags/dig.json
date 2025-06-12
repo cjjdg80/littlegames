@@ -1,0 +1,46 @@
+{
+  "tag": "dig",
+  "displayName": "Dig",
+  "metadata": {
+    "title": "Dig Games - Play Free Online",
+    "description": "Discover amazing dig games! Play 7 free games with dig theme. No downloads required.",
+    "keywords": [
+      "dig games",
+      "free online games",
+      "browser games",
+      "dig theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/dig",
+    "openGraph": {
+      "title": "Dig Games - Free Online Gaming",
+      "description": "Play the best dig games online for free. 7 games available.",
+      "image": "https://img.gamedistribution.com/df82edd9f8954cefbfed8928d0035e9b-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/dig",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dig Games - Free Online",
+      "description": "Play 7 free dig games online.",
+      "image": "https://img.gamedistribution.com/df82edd9f8954cefbfed8928d0035e9b-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dig",
+      "href": "/tags/dig",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dig theme! Our collection includes 7 carefully selected games that feature dig elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

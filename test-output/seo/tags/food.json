@@ -1,0 +1,46 @@
+{
+  "tag": "food",
+  "displayName": "Food",
+  "metadata": {
+    "title": "Food Games - Play Free Online",
+    "description": "Discover amazing food games! Play 136 free games with food theme. No downloads required.",
+    "keywords": [
+      "food games",
+      "free online games",
+      "browser games",
+      "food theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/food",
+    "openGraph": {
+      "title": "Food Games - Free Online Gaming",
+      "description": "Play the best food games online for free. 136 games available.",
+      "image": "https://img.gamedistribution.com/a7c0a9b6245c4726ae5f841e32586ea9-200x120.jpg",
+      "url": "https://playbrowserminigames.com/tags/food",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Food Games - Free Online",
+      "description": "Play 136 free food games online.",
+      "image": "https://img.gamedistribution.com/a7c0a9b6245c4726ae5f841e32586ea9-200x120.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Food",
+      "href": "/tags/food",
+      "current": true
+    }
+  ],
+  "description": "Discover games with food theme! Our collection includes 136 carefully selected games that feature food elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

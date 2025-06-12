@@ -1,0 +1,53 @@
+{
+  "category": "arcade",
+  "displayName": "Arcade",
+  "metadata": {
+    "title": "Best Arcade Games - Free Browser Gaming",
+    "description": "Enjoy the ultimate Arcade gaming experience with our collection of 4530 games. All games are browser-based, free to play, and instantly accessible!",
+    "keywords": [
+      "play Arcade games",
+      "free Arcade",
+      "online gaming",
+      "browser entertainment"
+    ],
+    "canonical": "https://playbrowserminigames.com/categories/arcade",
+    "openGraph": {
+      "title": "Best Arcade Games - Free Browser Gaming",
+      "description": "Enjoy the ultimate Arcade gaming experience with our collection of 4530 games. All games are browser-based, free to play, and instantly accessible!",
+      "image": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-512x384.jpg",
+      "url": "https://playbrowserminigames.com/categories/arcade",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Best Arcade Games - Free Browser Gaming",
+      "description": "Enjoy the ultimate Arcade gaming experience with our collection of 4530 games. All games are browser-based, free to play, and instantly accessible!",
+      "image": "https://img.gamedistribution.com/8aa0d6a6380147d0a9bf2a3c32d79011-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Arcade",
+      "href": "/categories/arcade",
+      "current": true
+    }
+  ],
+  "content": {
+    "mainDescription": "Explore our collection of arcade games! We have carefully selected 4530 amazing games that will provide hours of entertainment.",
+    "featuredContent": "Provides regular updates with new games",
+    "gameStats": {
+      "total": 4530,
+      "featured": 10,
+      "recent": 20
+    }
+  },
+  "subcategories": []
+}

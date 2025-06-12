@@ -1,0 +1,46 @@
+{
+  "tag": "sea",
+  "displayName": "Sea",
+  "metadata": {
+    "title": "Sea Games - Play Free Online",
+    "description": "Discover amazing sea games! Play 17 free games with sea theme. No downloads required.",
+    "keywords": [
+      "sea games",
+      "free online games",
+      "browser games",
+      "sea theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/sea",
+    "openGraph": {
+      "title": "Sea Games - Free Online Gaming",
+      "description": "Play the best sea games online for free. 17 games available.",
+      "image": "https://img.gamedistribution.com/82a43013636b44e2b7593fb73026e570-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/sea",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sea Games - Free Online",
+      "description": "Play 17 free sea games online.",
+      "image": "https://img.gamedistribution.com/82a43013636b44e2b7593fb73026e570-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Sea",
+      "href": "/tags/sea",
+      "current": true
+    }
+  ],
+  "description": "Discover games with sea theme! Our collection includes 17 carefully selected games that feature sea elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

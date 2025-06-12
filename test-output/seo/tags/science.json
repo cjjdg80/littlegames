@@ -1,0 +1,46 @@
+{
+  "tag": "science",
+  "displayName": "Science",
+  "metadata": {
+    "title": "Science Games - Play Free Online",
+    "description": "Discover amazing science games! Play 4 free games with science theme. No downloads required.",
+    "keywords": [
+      "science games",
+      "free online games",
+      "browser games",
+      "science theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/science",
+    "openGraph": {
+      "title": "Science Games - Free Online Gaming",
+      "description": "Play the best science games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/fa8eb6fd876d4423b1b1ec26f11ee394-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/science",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Science Games - Free Online",
+      "description": "Play 4 free science games online.",
+      "image": "https://img.gamedistribution.com/fa8eb6fd876d4423b1b1ec26f11ee394-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Science",
+      "href": "/tags/science",
+      "current": true
+    }
+  ],
+  "description": "Discover games with science theme! Our collection includes 4 carefully selected games that feature science elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

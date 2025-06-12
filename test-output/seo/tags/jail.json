@@ -1,0 +1,46 @@
+{
+  "tag": "jail",
+  "displayName": "Jail",
+  "metadata": {
+    "title": "Jail Games - Play Free Online",
+    "description": "Discover amazing jail games! Play 8 free games with jail theme. No downloads required.",
+    "keywords": [
+      "jail games",
+      "free online games",
+      "browser games",
+      "jail theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/jail",
+    "openGraph": {
+      "title": "Jail Games - Free Online Gaming",
+      "description": "Play the best jail games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/409446fcec744caf800db61b515df98f-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/jail",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Jail Games - Free Online",
+      "description": "Play 8 free jail games online.",
+      "image": "https://img.gamedistribution.com/409446fcec744caf800db61b515df98f-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Jail",
+      "href": "/tags/jail",
+      "current": true
+    }
+  ],
+  "description": "Discover games with jail theme! Our collection includes 8 carefully selected games that feature jail elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

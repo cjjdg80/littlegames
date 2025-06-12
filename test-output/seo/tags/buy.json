@@ -1,0 +1,46 @@
+{
+  "tag": "buy",
+  "displayName": "Buy",
+  "metadata": {
+    "title": "Buy Games - Play Free Online",
+    "description": "Discover amazing buy games! Play 4 free games with buy theme. No downloads required.",
+    "keywords": [
+      "buy games",
+      "free online games",
+      "browser games",
+      "buy theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/buy",
+    "openGraph": {
+      "title": "Buy Games - Free Online Gaming",
+      "description": "Play the best buy games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/ecb7f115b5464a4ea6f7e9f19e6cba23-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/buy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Buy Games - Free Online",
+      "description": "Play 4 free buy games online.",
+      "image": "https://img.gamedistribution.com/ecb7f115b5464a4ea6f7e9f19e6cba23-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Buy",
+      "href": "/tags/buy",
+      "current": true
+    }
+  ],
+  "description": "Discover games with buy theme! Our collection includes 4 carefully selected games that feature buy elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "spa",
+  "displayName": "Spa",
+  "metadata": {
+    "title": "Spa Games - Play Free Online",
+    "description": "Discover amazing spa games! Play 8 free games with spa theme. No downloads required.",
+    "keywords": [
+      "spa games",
+      "free online games",
+      "browser games",
+      "spa theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/spa",
+    "openGraph": {
+      "title": "Spa Games - Free Online Gaming",
+      "description": "Play the best spa games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/d25314c77d8a4931b7d3c7a8d7ee35ea-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/spa",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Spa Games - Free Online",
+      "description": "Play 8 free spa games online.",
+      "image": "https://img.gamedistribution.com/d25314c77d8a4931b7d3c7a8d7ee35ea-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Spa",
+      "href": "/tags/spa",
+      "current": true
+    }
+  ],
+  "description": "Discover games with spa theme! Our collection includes 8 carefully selected games that feature spa elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

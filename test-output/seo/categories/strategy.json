@@ -1,0 +1,52 @@
+{
+  "category": "strategy",
+  "displayName": "Strategy",
+  "metadata": {
+    "title": "Strategy Game Collection - Instant Play",
+    "description": "Play top-rated Strategy games in your browser. We offer 900+ carefully selected games with hours of entertainment. All games are free and ready to play!",
+    "keywords": [
+      "best Strategy games",
+      "free browser games",
+      "online Strategy",
+      "game collection"
+    ],
+    "canonical": "https://playbrowserminigames.com/categories/strategy",
+    "openGraph": {
+      "title": "Strategy Game Collection - Instant Play",
+      "description": "Play top-rated Strategy games in your browser. We offer 900+ carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/strategy-games-thumbnail.jpg",
+      "url": "https://playbrowserminigames.com/categories/strategy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Strategy Game Collection - Instant Play",
+      "description": "Play top-rated Strategy games in your browser. We offer 900+ carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/strategy-games-thumbnail.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Strategy",
+      "href": "/categories/strategy",
+      "current": true
+    }
+  ],
+  "featuredGames": [
+    "strategy-of-war-tanks-and-helicopters",
+    "chaserace-esport-strategy-racing-game",
+    "empire-rush-rome-wars",
+    "gold-miner-tower-defense"
+  ],
+  "gameCount": 900,
+  "description": "Plan, conquer, and outsmart your opponents",
+  "featuredTags": ["tactical", "planning", "war", "conquest"]
+}

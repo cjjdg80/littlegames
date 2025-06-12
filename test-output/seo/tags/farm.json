@@ -1,0 +1,46 @@
+{
+  "tag": "farm",
+  "displayName": "Farm",
+  "metadata": {
+    "title": "Farm Games - Play Free Online",
+    "description": "Discover amazing farm games! Play 94 free games with farm theme. No downloads required.",
+    "keywords": [
+      "farm games",
+      "free online games",
+      "browser games",
+      "farm theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/farm",
+    "openGraph": {
+      "title": "Farm Games - Free Online Gaming",
+      "description": "Play the best farm games online for free. 94 games available.",
+      "image": "https://img.gamedistribution.com/9e90ce4e83244923bb4680672a407022-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/farm",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Farm Games - Free Online",
+      "description": "Play 94 free farm games online.",
+      "image": "https://img.gamedistribution.com/9e90ce4e83244923bb4680672a407022-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Farm",
+      "href": "/tags/farm",
+      "current": true
+    }
+  ],
+  "description": "Discover games with farm theme! Our collection includes 94 carefully selected games that feature farm elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

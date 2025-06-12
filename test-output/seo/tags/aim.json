@@ -1,0 +1,46 @@
+{
+  "tag": "aim",
+  "displayName": "Aim",
+  "metadata": {
+    "title": "Aim Games - Play Free Online",
+    "description": "Discover amazing aim games! Play 78 free games with aim theme. No downloads required.",
+    "keywords": [
+      "aim games",
+      "free online games",
+      "browser games",
+      "aim theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/aim",
+    "openGraph": {
+      "title": "Aim Games - Free Online Gaming",
+      "description": "Play the best aim games online for free. 78 games available.",
+      "image": "https://img.gamedistribution.com/81b03a635d5f4147876166033620ef25-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/aim",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Aim Games - Free Online",
+      "description": "Play 78 free aim games online.",
+      "image": "https://img.gamedistribution.com/81b03a635d5f4147876166033620ef25-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Aim",
+      "href": "/tags/aim",
+      "current": true
+    }
+  ],
+  "description": "Discover games with aim theme! Our collection includes 78 carefully selected games that feature aim elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

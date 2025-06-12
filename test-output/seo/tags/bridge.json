@@ -1,0 +1,46 @@
+{
+  "tag": "bridge",
+  "displayName": "Bridge",
+  "metadata": {
+    "title": "Bridge Games - Play Free Online",
+    "description": "Discover amazing bridge games! Play 14 free games with bridge theme. No downloads required.",
+    "keywords": [
+      "bridge games",
+      "free online games",
+      "browser games",
+      "bridge theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/bridge",
+    "openGraph": {
+      "title": "Bridge Games - Free Online Gaming",
+      "description": "Play the best bridge games online for free. 14 games available.",
+      "image": "https://img.gamedistribution.com/c0d7138391e14de091894c3e19b2c30b-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/bridge",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bridge Games - Free Online",
+      "description": "Play 14 free bridge games online.",
+      "image": "https://img.gamedistribution.com/c0d7138391e14de091894c3e19b2c30b-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bridge",
+      "href": "/tags/bridge",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bridge theme! Our collection includes 14 carefully selected games that feature bridge elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

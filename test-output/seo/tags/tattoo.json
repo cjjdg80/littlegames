@@ -1,0 +1,46 @@
+{
+  "tag": "tattoo",
+  "displayName": "Tattoo",
+  "metadata": {
+    "title": "Tattoo Games - Play Free Online",
+    "description": "Discover amazing tattoo games! Play 3 free games with tattoo theme. No downloads required.",
+    "keywords": [
+      "tattoo games",
+      "free online games",
+      "browser games",
+      "tattoo theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/tattoo",
+    "openGraph": {
+      "title": "Tattoo Games - Free Online Gaming",
+      "description": "Play the best tattoo games online for free. 3 games available.",
+      "image": "https://img.gamedistribution.com/566d727ed5b345169b06a85e0431ea4f-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/tattoo",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tattoo Games - Free Online",
+      "description": "Play 3 free tattoo games online.",
+      "image": "https://img.gamedistribution.com/566d727ed5b345169b06a85e0431ea4f-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Tattoo",
+      "href": "/tags/tattoo",
+      "current": true
+    }
+  ],
+  "description": "Discover games with tattoo theme! Our collection includes 3 carefully selected games that feature tattoo elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

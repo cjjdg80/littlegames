@@ -1,0 +1,46 @@
+{
+  "tag": "fox",
+  "displayName": "Fox",
+  "metadata": {
+    "title": "Fox Games - Play Free Online",
+    "description": "Discover amazing fox games! Play 4 free games with fox theme. No downloads required.",
+    "keywords": [
+      "fox games",
+      "free online games",
+      "browser games",
+      "fox theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/fox",
+    "openGraph": {
+      "title": "Fox Games - Free Online Gaming",
+      "description": "Play the best fox games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/2ba7b7718d154070a7f326fa260624ea-1280x720.jpg",
+      "url": "https://playbrowserminigames.com/tags/fox",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Fox Games - Free Online",
+      "description": "Play 4 free fox games online.",
+      "image": "https://img.gamedistribution.com/2ba7b7718d154070a7f326fa260624ea-1280x720.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Fox",
+      "href": "/tags/fox",
+      "current": true
+    }
+  ],
+  "description": "Discover games with fox theme! Our collection includes 4 carefully selected games that feature fox elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

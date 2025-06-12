@@ -1,0 +1,57 @@
+{
+  "category": "adventure",
+  "displayName": "Adventure",
+  "metadata": {
+    "title": "Adventure Game Collection - Instant Play",
+    "description": "Play top-rated Adventure games in your browser. We offer 1101 carefully selected games with hours of entertainment. All games are free and ready to play!",
+    "keywords": [
+      "best Adventure games",
+      "free browser games",
+      "online Adventure",
+      "game collection"
+    ],
+    "canonical": "https://playbrowserminigames.com/categories/adventure",
+    "openGraph": {
+      "title": "Adventure Game Collection - Instant Play",
+      "description": "Play top-rated Adventure games in your browser. We offer 1101 carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-512x512.jpg",
+      "url": "https://playbrowserminigames.com/categories/adventure",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Adventure Game Collection - Instant Play",
+      "description": "Play top-rated Adventure games in your browser. We offer 1101 carefully selected games with hours of entertainment. All games are free and ready to play!",
+      "image": "https://img.gamedistribution.com/63e8c2d0709e452f842f261a7c9f43f9-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Adventure",
+      "href": "/categories/adventure",
+      "current": true
+    }
+  ],
+  "content": {
+    "mainDescription": "Explore our collection of adventure games! We have carefully selected 1101 amazing games that will provide hours of entertainment.",
+    "featuredContent": "Delivers high-quality {category} gaming experiences",
+    "gameStats": {
+      "total": 1101,
+      "featured": 10,
+      "recent": 20
+    }
+  },
+  "subcategories": [
+    "rpg",
+    "quest",
+    "exploration"
+  ]
+}

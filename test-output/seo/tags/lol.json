@@ -1,0 +1,46 @@
+{
+  "tag": "lol",
+  "displayName": "Lol",
+  "metadata": {
+    "title": "Lol Games - Play Free Online",
+    "description": "Discover amazing lol games! Play 4 free games with lol theme. No downloads required.",
+    "keywords": [
+      "lol games",
+      "free online games",
+      "browser games",
+      "lol theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/lol",
+    "openGraph": {
+      "title": "Lol Games - Free Online Gaming",
+      "description": "Play the best lol games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/d2e5b8969a24463286ba074724014336-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/lol",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Lol Games - Free Online",
+      "description": "Play 4 free lol games online.",
+      "image": "https://img.gamedistribution.com/d2e5b8969a24463286ba074724014336-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Lol",
+      "href": "/tags/lol",
+      "current": true
+    }
+  ],
+  "description": "Discover games with lol theme! Our collection includes 4 carefully selected games that feature lol elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

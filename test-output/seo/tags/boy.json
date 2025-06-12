@@ -1,0 +1,46 @@
+{
+  "tag": "boy",
+  "displayName": "Boy",
+  "metadata": {
+    "title": "Boy Games - Play Free Online",
+    "description": "Discover amazing boy games! Play 10 free games with boy theme. No downloads required.",
+    "keywords": [
+      "boy games",
+      "free online games",
+      "browser games",
+      "boy theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/boy",
+    "openGraph": {
+      "title": "Boy Games - Free Online Gaming",
+      "description": "Play the best boy games online for free. 10 games available.",
+      "image": "https://img.gamedistribution.com/093e91aab5604ba39ac2c37530e50be8-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/boy",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Boy Games - Free Online",
+      "description": "Play 10 free boy games online.",
+      "image": "https://img.gamedistribution.com/093e91aab5604ba39ac2c37530e50be8-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Boy",
+      "href": "/tags/boy",
+      "current": true
+    }
+  ],
+  "description": "Discover games with boy theme! Our collection includes 10 carefully selected games that feature boy elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

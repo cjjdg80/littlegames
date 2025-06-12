@@ -1,0 +1,46 @@
+{
+  "tag": "blast",
+  "displayName": "Blast",
+  "metadata": {
+    "title": "Blast Games - Play Free Online",
+    "description": "Discover amazing blast games! Play 53 free games with blast theme. No downloads required.",
+    "keywords": [
+      "blast games",
+      "free online games",
+      "browser games",
+      "blast theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/blast",
+    "openGraph": {
+      "title": "Blast Games - Free Online Gaming",
+      "description": "Play the best blast games online for free. 53 games available.",
+      "image": "https://img.gamedistribution.com/70d6750398804d318190af8234eaa955-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/blast",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Blast Games - Free Online",
+      "description": "Play 53 free blast games online.",
+      "image": "https://img.gamedistribution.com/70d6750398804d318190af8234eaa955-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Blast",
+      "href": "/tags/blast",
+      "current": true
+    }
+  ],
+  "description": "Discover games with blast theme! Our collection includes 53 carefully selected games that feature blast elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "chef",
+  "displayName": "Chef",
+  "metadata": {
+    "title": "Chef Games - Play Free Online",
+    "description": "Discover amazing chef games! Play 15 free games with chef theme. No downloads required.",
+    "keywords": [
+      "chef games",
+      "free online games",
+      "browser games",
+      "chef theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/chef",
+    "openGraph": {
+      "title": "Chef Games - Free Online Gaming",
+      "description": "Play the best chef games online for free. 15 games available.",
+      "image": "https://img.gamedistribution.com/a4bdaa15542d4c37b89f947d2b946b9f-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/chef",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chef Games - Free Online",
+      "description": "Play 15 free chef games online.",
+      "image": "https://img.gamedistribution.com/a4bdaa15542d4c37b89f947d2b946b9f-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Chef",
+      "href": "/tags/chef",
+      "current": true
+    }
+  ],
+  "description": "Discover games with chef theme! Our collection includes 15 carefully selected games that feature chef elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

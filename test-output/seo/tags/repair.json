@@ -1,0 +1,46 @@
+{
+  "tag": "repair",
+  "displayName": "Repair",
+  "metadata": {
+    "title": "Repair Games - Play Free Online",
+    "description": "Discover amazing repair games! Play 6 free games with repair theme. No downloads required.",
+    "keywords": [
+      "repair games",
+      "free online games",
+      "browser games",
+      "repair theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/repair",
+    "openGraph": {
+      "title": "Repair Games - Free Online Gaming",
+      "description": "Play the best repair games online for free. 6 games available.",
+      "image": "https://img.gamedistribution.com/5c16552163804e5fb7733b0790377833-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/repair",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Repair Games - Free Online",
+      "description": "Play 6 free repair games online.",
+      "image": "https://img.gamedistribution.com/5c16552163804e5fb7733b0790377833-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Repair",
+      "href": "/tags/repair",
+      "current": true
+    }
+  ],
+  "description": "Discover games with repair theme! Our collection includes 6 carefully selected games that feature repair elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

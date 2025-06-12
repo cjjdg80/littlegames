@@ -1,0 +1,46 @@
+{
+  "tag": "dog",
+  "displayName": "Dog",
+  "metadata": {
+    "title": "Dog Games - Play Free Online",
+    "description": "Discover amazing dog games! Play 45 free games with dog theme. No downloads required.",
+    "keywords": [
+      "dog games",
+      "free online games",
+      "browser games",
+      "dog theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/dog",
+    "openGraph": {
+      "title": "Dog Games - Free Online Gaming",
+      "description": "Play the best dog games online for free. 45 games available.",
+      "image": "https://img.gamedistribution.com/f4cd73bd55df4befaf6262e8f5f412a3-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/dog",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dog Games - Free Online",
+      "description": "Play 45 free dog games online.",
+      "image": "https://img.gamedistribution.com/f4cd73bd55df4befaf6262e8f5f412a3-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dog",
+      "href": "/tags/dog",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dog theme! Our collection includes 45 carefully selected games that feature dog elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

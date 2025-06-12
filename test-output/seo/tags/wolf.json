@@ -1,0 +1,46 @@
+{
+  "tag": "wolf",
+  "displayName": "Wolf",
+  "metadata": {
+    "title": "Wolf Games - Play Free Online",
+    "description": "Discover amazing wolf games! Play 4 free games with wolf theme. No downloads required.",
+    "keywords": [
+      "wolf games",
+      "free online games",
+      "browser games",
+      "wolf theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/wolf",
+    "openGraph": {
+      "title": "Wolf Games - Free Online Gaming",
+      "description": "Play the best wolf games online for free. 4 games available.",
+      "image": "https://img.gamedistribution.com/ce5722d11d38481183a7c66963f762d4-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/wolf",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Wolf Games - Free Online",
+      "description": "Play 4 free wolf games online.",
+      "image": "https://img.gamedistribution.com/ce5722d11d38481183a7c66963f762d4-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Wolf",
+      "href": "/tags/wolf",
+      "current": true
+    }
+  ],
+  "description": "Discover games with wolf theme! Our collection includes 4 carefully selected games that feature wolf elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

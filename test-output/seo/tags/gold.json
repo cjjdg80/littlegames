@@ -1,0 +1,46 @@
+{
+  "tag": "gold",
+  "displayName": "Gold",
+  "metadata": {
+    "title": "Gold Games - Play Free Online",
+    "description": "Discover amazing gold games! Play 16 free games with gold theme. No downloads required.",
+    "keywords": [
+      "gold games",
+      "free online games",
+      "browser games",
+      "gold theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/gold",
+    "openGraph": {
+      "title": "Gold Games - Free Online Gaming",
+      "description": "Play the best gold games online for free. 16 games available.",
+      "image": "https://playbrowserminigames.com/images/tags/gold-og.jpg",
+      "url": "https://playbrowserminigames.com/tags/gold",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gold Games - Free Online",
+      "description": "Play 16 free gold games online.",
+      "image": "https://playbrowserminigames.com/images/tags/gold-twitter.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Gold",
+      "href": "/tags/gold",
+      "current": true
+    }
+  ],
+  "description": "Discover games with gold theme! Our collection includes 16 carefully selected games that feature gold elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

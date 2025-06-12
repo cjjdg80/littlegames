@@ -1,0 +1,66 @@
+{
+  "page": "home",
+  "metadata": {
+    "title": "Play Browser Mini Games - Free Online Games Collection",
+    "description": "Discover thousands of free browser games! Play instantly without downloads. Adventure, puzzle, action, strategy games and more. Start playing now!",
+    "keywords": [
+      "free browser games",
+      "online games",
+      "mini games",
+      "instant play games",
+      "no download games",
+      "web games",
+      "casual games",
+      "game collection"
+    ],
+    "canonical": "https://playbrowserminigames.com/",
+    "openGraph": {
+      "title": "Play Browser Mini Games - Free Online Games Collection",
+      "description": "Discover thousands of free browser games! Play instantly without downloads. Adventure, puzzle, action, strategy games and more. Start playing now!",
+      "image": "https://playbrowserminigames.com/images/og-home.jpg",
+      "url": "https://playbrowserminigames.com/",
+      "type": "website",
+      "siteName": "Play Browser Mini Games"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Play Browser Mini Games - Free Online Games Collection",
+      "description": "Discover thousands of free browser games! Play instantly without downloads. Adventure, puzzle, action, strategy games and more. Start playing now!",
+      "image": "https://playbrowserminigames.com/images/twitter-home.jpg",
+      "site": "@playbrowsergames"
+    }
+  },
+  "featuredCategories": [
+    {
+      "slug": "adventure",
+      "name": "Adventure",
+      "description": "Epic quests and exploration games",
+      "gameCount": 1200
+    },
+    {
+      "slug": "puzzle",
+      "name": "Puzzle",
+      "description": "Brain teasers and logic games",
+      "gameCount": 1800
+    },
+    {
+      "slug": "action",
+      "name": "Action",
+      "description": "Fast-paced and intense games",
+      "gameCount": 1500
+    },
+    {
+      "slug": "strategy",
+      "name": "Strategy",
+      "description": "Tactical and planning games",
+      "gameCount": 900
+    }
+  ],
+  "stats": {
+    "totalGames": 9726,
+    "totalCategories": 7,
+    "totalTags": 695,
+    "lastUpdated": "2025-06-12"
+  },
+  "qualityScore": 0.85
+}

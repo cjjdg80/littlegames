@@ -1,0 +1,46 @@
+{
+  "tag": "hunt",
+  "displayName": "Hunt",
+  "metadata": {
+    "title": "Hunt Games - Play Free Online",
+    "description": "Discover amazing hunt games! Play 25 free games with hunt theme. No downloads required.",
+    "keywords": [
+      "hunt games",
+      "free online games",
+      "browser games",
+      "hunt theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/hunt",
+    "openGraph": {
+      "title": "Hunt Games - Free Online Gaming",
+      "description": "Play the best hunt games online for free. 25 games available.",
+      "image": "https://img.gamedistribution.com/7fa16181fc5c4ce2a7d3b9a171d48f76-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/hunt",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Hunt Games - Free Online",
+      "description": "Play 25 free hunt games online.",
+      "image": "https://img.gamedistribution.com/7fa16181fc5c4ce2a7d3b9a171d48f76-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Hunt",
+      "href": "/tags/hunt",
+      "current": true
+    }
+  ],
+  "description": "Discover games with hunt theme! Our collection includes 25 carefully selected games that feature hunt elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

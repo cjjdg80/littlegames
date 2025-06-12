@@ -1,0 +1,48 @@
+{
+  "tag": "time",
+  "displayName": "Time",
+  "metadata": {
+    "title": "Time Games - Play Free Online",
+    "description": "Discover amazing time games! Play 19 free games with time theme. No downloads required.",
+    "keywords": [
+      "time games",
+      "free online games",
+      "browser games",
+      "time theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/time",
+    "openGraph": {
+      "title": "Time Games - Free Online Gaming",
+      "description": "Play the best time games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/2a5e3480843b4ae299debb9f829f6f97-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/time",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Time Games - Free Online",
+      "description": "Play 19 free time games online.",
+      "image": "https://img.gamedistribution.com/2a5e3480843b4ae299debb9f829f6f97-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Time",
+      "href": "/tags/time",
+      "current": true
+    }
+  ],
+  "description": "Discover games with time theme! Our collection includes 19 carefully selected games that feature time elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": [
+    "real-time-strategy"
+  ]
+}

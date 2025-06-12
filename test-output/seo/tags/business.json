@@ -1,0 +1,46 @@
+{
+  "tag": "business",
+  "displayName": "Business",
+  "metadata": {
+    "title": "Business Games - Play Free Online",
+    "description": "Discover amazing business games! Play 35 free games with business theme. No downloads required.",
+    "keywords": [
+      "business games",
+      "free online games",
+      "browser games",
+      "business theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/business",
+    "openGraph": {
+      "title": "Business Games - Free Online Gaming",
+      "description": "Play the best business games online for free. 35 games available.",
+      "image": "https://img.gamedistribution.com/196df99b32324438b39a4dcf18f0f838-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/business",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Business Games - Free Online",
+      "description": "Play 35 free business games online.",
+      "image": "https://img.gamedistribution.com/196df99b32324438b39a4dcf18f0f838-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Business",
+      "href": "/tags/business",
+      "current": true
+    }
+  ],
+  "description": "Discover games with business theme! Our collection includes 35 carefully selected games that feature business elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

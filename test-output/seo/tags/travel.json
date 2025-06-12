@@ -1,0 +1,46 @@
+{
+  "tag": "travel",
+  "displayName": "Travel",
+  "metadata": {
+    "title": "Travel Games - Play Free Online",
+    "description": "Discover amazing travel games! Play 17 free games with travel theme. No downloads required.",
+    "keywords": [
+      "travel games",
+      "free online games",
+      "browser games",
+      "travel theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/travel",
+    "openGraph": {
+      "title": "Travel Games - Free Online Gaming",
+      "description": "Play the best travel games online for free. 17 games available.",
+      "image": "https://img.gamedistribution.com/d8d6561225dd4c82bc28bfc506c8798a-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/travel",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Travel Games - Free Online",
+      "description": "Play 17 free travel games online.",
+      "image": "https://img.gamedistribution.com/d8d6561225dd4c82bc28bfc506c8798a-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Travel",
+      "href": "/tags/travel",
+      "current": true
+    }
+  ],
+  "description": "Discover games with travel theme! Our collection includes 17 carefully selected games that feature travel elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "chess",
+  "displayName": "Chess",
+  "metadata": {
+    "title": "Chess Games - Play Free Online",
+    "description": "Discover amazing chess games! Play 15 free games with chess theme. No downloads required.",
+    "keywords": [
+      "chess games",
+      "free online games",
+      "browser games",
+      "chess theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/chess",
+    "openGraph": {
+      "title": "Chess Games - Free Online Gaming",
+      "description": "Play the best chess games online for free. 15 games available.",
+      "image": "https://img.gamedistribution.com/b80ebde6ee1b4adfaa96398a4261db80-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/chess",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Chess Games - Free Online",
+      "description": "Play 15 free chess games online.",
+      "image": "https://img.gamedistribution.com/b80ebde6ee1b4adfaa96398a4261db80-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Chess",
+      "href": "/tags/chess",
+      "current": true
+    }
+  ],
+  "description": "Discover games with chess theme! Our collection includes 15 carefully selected games that feature chess elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

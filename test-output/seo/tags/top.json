@@ -1,0 +1,46 @@
+{
+  "tag": "top",
+  "displayName": "Top",
+  "metadata": {
+    "title": "Top Games - Play Free Online",
+    "description": "Discover amazing top games! Play 142 free games with top theme. No downloads required.",
+    "keywords": [
+      "top games",
+      "free online games",
+      "browser games",
+      "top theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/top",
+    "openGraph": {
+      "title": "Top Games - Free Online Gaming",
+      "description": "Play the best top games online for free. 142 games available.",
+      "image": "https://img.gamedistribution.com/d2e5b8969a24463286ba074724014336-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/top",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Top Games - Free Online",
+      "description": "Play 142 free top games online.",
+      "image": "https://img.gamedistribution.com/d2e5b8969a24463286ba074724014336-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Top",
+      "href": "/tags/top",
+      "current": true
+    }
+  ],
+  "description": "Discover games with top theme! Our collection includes 142 carefully selected games that feature top elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

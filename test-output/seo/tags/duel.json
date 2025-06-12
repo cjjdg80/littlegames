@@ -1,0 +1,46 @@
+{
+  "tag": "duel",
+  "displayName": "Duel",
+  "metadata": {
+    "title": "Duel Games - Play Free Online",
+    "description": "Discover amazing duel games! Play 17 free games with duel theme. No downloads required.",
+    "keywords": [
+      "duel games",
+      "free online games",
+      "browser games",
+      "duel theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/duel",
+    "openGraph": {
+      "title": "Duel Games - Free Online Gaming",
+      "description": "Play the best duel games online for free. 17 games available.",
+      "image": "https://img.gamedistribution.com/017920ea7a7a41cebd5a05bb4f9fa994-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/duel",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Duel Games - Free Online",
+      "description": "Play 17 free duel games online.",
+      "image": "https://img.gamedistribution.com/017920ea7a7a41cebd5a05bb4f9fa994-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Duel",
+      "href": "/tags/duel",
+      "current": true
+    }
+  ],
+  "description": "Discover games with duel theme! Our collection includes 17 carefully selected games that feature duel elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

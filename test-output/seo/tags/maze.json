@@ -1,0 +1,46 @@
+{
+  "tag": "maze",
+  "displayName": "Maze",
+  "metadata": {
+    "title": "Maze Games - Play Free Online",
+    "description": "Discover amazing maze games! Play 29 free games with maze theme. No downloads required.",
+    "keywords": [
+      "maze games",
+      "free online games",
+      "browser games",
+      "maze theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/maze",
+    "openGraph": {
+      "title": "Maze Games - Free Online Gaming",
+      "description": "Play the best maze games online for free. 29 games available.",
+      "image": "https://img.gamedistribution.com/6fa3476e999940758e7fb6175cdf2b87-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/maze",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Maze Games - Free Online",
+      "description": "Play 29 free maze games online.",
+      "image": "https://img.gamedistribution.com/6fa3476e999940758e7fb6175cdf2b87-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Maze",
+      "href": "/tags/maze",
+      "current": true
+    }
+  ],
+  "description": "Discover games with maze theme! Our collection includes 29 carefully selected games that feature maze elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

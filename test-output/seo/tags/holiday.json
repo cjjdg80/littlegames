@@ -1,0 +1,46 @@
+{
+  "tag": "holiday",
+  "displayName": "Holiday",
+  "metadata": {
+    "title": "Holiday Games - Play Free Online",
+    "description": "Discover amazing holiday games! Play 78 free games with holiday theme. No downloads required.",
+    "keywords": [
+      "holiday games",
+      "free online games",
+      "browser games",
+      "holiday theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/holiday",
+    "openGraph": {
+      "title": "Holiday Games - Free Online Gaming",
+      "description": "Play the best holiday games online for free. 78 games available.",
+      "image": "https://img.gamedistribution.com/27ad571356914b3094dd021e7d0e8bf9-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/holiday",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Holiday Games - Free Online",
+      "description": "Play 78 free holiday games online.",
+      "image": "https://img.gamedistribution.com/27ad571356914b3094dd021e7d0e8bf9-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Holiday",
+      "href": "/tags/holiday",
+      "current": true
+    }
+  ],
+  "description": "Discover games with holiday theme! Our collection includes 78 carefully selected games that feature holiday elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

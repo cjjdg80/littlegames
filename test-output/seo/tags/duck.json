@@ -1,0 +1,46 @@
+{
+  "tag": "duck",
+  "displayName": "Duck",
+  "metadata": {
+    "title": "Duck Games - Play Free Online",
+    "description": "Discover amazing duck games! Play 11 free games with duck theme. No downloads required.",
+    "keywords": [
+      "duck games",
+      "free online games",
+      "browser games",
+      "duck theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/duck",
+    "openGraph": {
+      "title": "Duck Games - Free Online Gaming",
+      "description": "Play the best duck games online for free. 11 games available.",
+      "image": "https://img.gamedistribution.com/8319e0bf2b334bf09e5fbe649741596c-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/duck",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Duck Games - Free Online",
+      "description": "Play 11 free duck games online.",
+      "image": "https://img.gamedistribution.com/8319e0bf2b334bf09e5fbe649741596c-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Duck",
+      "href": "/tags/duck",
+      "current": true
+    }
+  ],
+  "description": "Discover games with duck theme! Our collection includes 11 carefully selected games that feature duck elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

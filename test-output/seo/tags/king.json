@@ -1,0 +1,46 @@
+{
+  "tag": "king",
+  "displayName": "King",
+  "metadata": {
+    "title": "King Games - Play Free Online",
+    "description": "Discover amazing king games! Play 19 free games with king theme. No downloads required.",
+    "keywords": [
+      "king games",
+      "free online games",
+      "browser games",
+      "king theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/king",
+    "openGraph": {
+      "title": "King Games - Free Online Gaming",
+      "description": "Play the best king games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/2a19100d0eae469e8e61d8ee7697cb6c-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/king",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "King Games - Free Online",
+      "description": "Play 19 free king games online.",
+      "image": "https://img.gamedistribution.com/2a19100d0eae469e8e61d8ee7697cb6c-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "King",
+      "href": "/tags/king",
+      "current": true
+    }
+  ],
+  "description": "Discover games with king theme! Our collection includes 19 carefully selected games that feature king elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "sky",
+  "displayName": "Sky",
+  "metadata": {
+    "title": "Sky Games - Play Free Online",
+    "description": "Discover amazing sky games! Play 10 free games with sky theme. No downloads required.",
+    "keywords": [
+      "sky games",
+      "free online games",
+      "browser games",
+      "sky theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/sky",
+    "openGraph": {
+      "title": "Sky Games - Free Online Gaming",
+      "description": "Play the best sky games online for free. 10 games available.",
+      "image": "https://img.gamedistribution.com/96ab76bfdfbd472aad509cc7b278d8ce-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/sky",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sky Games - Free Online",
+      "description": "Play 10 free sky games online.",
+      "image": "https://img.gamedistribution.com/96ab76bfdfbd472aad509cc7b278d8ce-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Sky",
+      "href": "/tags/sky",
+      "current": true
+    }
+  ],
+  "description": "Discover games with sky theme! Our collection includes 10 carefully selected games that feature sky elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

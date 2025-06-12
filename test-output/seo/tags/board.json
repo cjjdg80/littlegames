@@ -1,0 +1,46 @@
+{
+  "tag": "board",
+  "displayName": "Board",
+  "metadata": {
+    "title": "Board Games - Play Free Online",
+    "description": "Discover amazing board games! Play 62 free games with board theme. No downloads required.",
+    "keywords": [
+      "board games",
+      "free online games",
+      "browser games",
+      "board theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/board",
+    "openGraph": {
+      "title": "Board Games - Free Online Gaming",
+      "description": "Play the best board games online for free. 62 games available.",
+      "image": "https://img.gamedistribution.com/678f54b0c203460b8f8916a239a28bff-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/board",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Board Games - Free Online",
+      "description": "Play 62 free board games online.",
+      "image": "https://img.gamedistribution.com/678f54b0c203460b8f8916a239a28bff-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Board",
+      "href": "/tags/board",
+      "current": true
+    }
+  ],
+  "description": "Discover games with board theme! Our collection includes 62 carefully selected games that feature board elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

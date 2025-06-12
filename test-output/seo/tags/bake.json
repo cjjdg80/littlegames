@@ -1,0 +1,46 @@
+{
+  "tag": "bake",
+  "displayName": "Bake",
+  "metadata": {
+    "title": "Bake Games - Play Free Online",
+    "description": "Discover amazing bake games! Play 2 free games with bake theme. No downloads required.",
+    "keywords": [
+      "bake games",
+      "free online games",
+      "browser games",
+      "bake theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/bake",
+    "openGraph": {
+      "title": "Bake Games - Free Online Gaming",
+      "description": "Play the best bake games online for free. 2 games available.",
+      "image": "https://img.gamedistribution.com/b416a34ed4d54c4e83f6ef82c6cf5413-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/bake",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bake Games - Free Online",
+      "description": "Play 2 free bake games online.",
+      "image": "https://img.gamedistribution.com/b416a34ed4d54c4e83f6ef82c6cf5413-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bake",
+      "href": "/tags/bake",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bake theme! Our collection includes 2 carefully selected games that feature bake elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

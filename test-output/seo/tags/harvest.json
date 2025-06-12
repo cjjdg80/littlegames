@@ -1,0 +1,46 @@
+{
+  "tag": "harvest",
+  "displayName": "Harvest",
+  "metadata": {
+    "title": "Harvest Games - Play Free Online",
+    "description": "Discover amazing harvest games! Play 6 free games with harvest theme. No downloads required.",
+    "keywords": [
+      "harvest games",
+      "free online games",
+      "browser games",
+      "harvest theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/harvest",
+    "openGraph": {
+      "title": "Harvest Games - Free Online Gaming",
+      "description": "Play the best harvest games online for free. 6 games available.",
+      "image": "https://img.gamedistribution.com/7cc63d2cc7dd4167aca725036cb17b08-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/harvest",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Harvest Games - Free Online",
+      "description": "Play 6 free harvest games online.",
+      "image": "https://img.gamedistribution.com/7cc63d2cc7dd4167aca725036cb17b08-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Harvest",
+      "href": "/tags/harvest",
+      "current": true
+    }
+  ],
+  "description": "Discover games with harvest theme! Our collection includes 6 carefully selected games that feature harvest elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

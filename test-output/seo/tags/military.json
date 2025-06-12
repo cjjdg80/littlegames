@@ -1,0 +1,46 @@
+{
+  "tag": "military",
+  "displayName": "Military",
+  "metadata": {
+    "title": "Military Games - Play Free Online",
+    "description": "Discover amazing military games! Play 13 free games with military theme. No downloads required.",
+    "keywords": [
+      "military games",
+      "free online games",
+      "browser games",
+      "military theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/military",
+    "openGraph": {
+      "title": "Military Games - Free Online Gaming",
+      "description": "Play the best military games online for free. 13 games available.",
+      "image": "https://img.gamedistribution.com/30c319848d544c30afbe82ad24fbac5b-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/military",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Military Games - Free Online",
+      "description": "Play 13 free military games online.",
+      "image": "https://img.gamedistribution.com/30c319848d544c30afbe82ad24fbac5b-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Military",
+      "href": "/tags/military",
+      "current": true
+    }
+  ],
+  "description": "Discover games with military theme! Our collection includes 13 carefully selected games that feature military elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

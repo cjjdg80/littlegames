@@ -1,0 +1,46 @@
+{
+  "tag": "boss",
+  "displayName": "Boss",
+  "metadata": {
+    "title": "Boss Games - Play Free Online",
+    "description": "Discover amazing boss games! Play 19 free games with boss theme. No downloads required.",
+    "keywords": [
+      "boss games",
+      "free online games",
+      "browser games",
+      "boss theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/boss",
+    "openGraph": {
+      "title": "Boss Games - Free Online Gaming",
+      "description": "Play the best boss games online for free. 19 games available.",
+      "image": "https://img.gamedistribution.com/d055c4fa86664e88997a02c6e296c818-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/boss",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Boss Games - Free Online",
+      "description": "Play 19 free boss games online.",
+      "image": "https://img.gamedistribution.com/d055c4fa86664e88997a02c6e296c818-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Boss",
+      "href": "/tags/boss",
+      "current": true
+    }
+  ],
+  "description": "Discover games with boss theme! Our collection includes 19 carefully selected games that feature boss elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

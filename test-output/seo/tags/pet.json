@@ -1,0 +1,46 @@
+{
+  "tag": "pet",
+  "displayName": "Pet",
+  "metadata": {
+    "title": "Pet Games - Play Free Online",
+    "description": "Discover amazing pet games! Play 32 free games with pet theme. No downloads required.",
+    "keywords": [
+      "pet games",
+      "free online games",
+      "browser games",
+      "pet theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pet",
+    "openGraph": {
+      "title": "Pet Games - Free Online Gaming",
+      "description": "Play the best pet games online for free. 32 games available.",
+      "image": "https://img.gamedistribution.com/9bb23e5f7308446b9f99d2d17403a0cc-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/pet",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pet Games - Free Online",
+      "description": "Play 32 free pet games online.",
+      "image": "https://img.gamedistribution.com/9bb23e5f7308446b9f99d2d17403a0cc-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pet",
+      "href": "/tags/pet",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pet theme! Our collection includes 32 carefully selected games that feature pet elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "skin",
+  "displayName": "Skin",
+  "metadata": {
+    "title": "Skin Games - Play Free Online",
+    "description": "Discover amazing skin games! Play 7 free games with skin theme. No downloads required.",
+    "keywords": [
+      "skin games",
+      "free online games",
+      "browser games",
+      "skin theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/skin",
+    "openGraph": {
+      "title": "Skin Games - Free Online Gaming",
+      "description": "Play the best skin games online for free. 7 games available.",
+      "image": "https://img.gamedistribution.com/229593f7a6f74ab5a29281e03c85af1b-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/skin",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Skin Games - Free Online",
+      "description": "Play 7 free skin games online.",
+      "image": "https://img.gamedistribution.com/229593f7a6f74ab5a29281e03c85af1b-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Skin",
+      "href": "/tags/skin",
+      "current": true
+    }
+  ],
+  "description": "Discover games with skin theme! Our collection includes 7 carefully selected games that feature skin elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "helix",
+  "displayName": "Helix",
+  "metadata": {
+    "title": "Helix Games - Play Free Online",
+    "description": "Discover amazing helix games! Play 10 free games with helix theme. No downloads required.",
+    "keywords": [
+      "helix games",
+      "free online games",
+      "browser games",
+      "helix theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/helix",
+    "openGraph": {
+      "title": "Helix Games - Free Online Gaming",
+      "description": "Play the best helix games online for free. 10 games available.",
+      "image": "https://img.gamedistribution.com/2e7fc01b567b4f2cb09f3945a601ef17-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/helix",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Helix Games - Free Online",
+      "description": "Play 10 free helix games online.",
+      "image": "https://img.gamedistribution.com/2e7fc01b567b4f2cb09f3945a601ef17-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Helix",
+      "href": "/tags/helix",
+      "current": true
+    }
+  ],
+  "description": "Discover games with helix theme! Our collection includes 10 carefully selected games that feature helix elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

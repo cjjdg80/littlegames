@@ -1,0 +1,57 @@
+{
+  "category": "puzzle",
+  "displayName": "Puzzle",
+  "metadata": {
+    "title": "Puzzle Game Collection - Instant Play",
+    "description": "Browse 1412 exciting Puzzle games and find your next favorite. Our curated collection offers something for every player. Play free online now!",
+    "keywords": [
+      "best Puzzle games",
+      "free browser games",
+      "online Puzzle",
+      "game collection"
+    ],
+    "canonical": "https://playbrowserminigames.com/categories/puzzle",
+    "openGraph": {
+      "title": "Puzzle Game Collection - Instant Play",
+      "description": "Browse 1412 exciting Puzzle games and find your next favorite. Our curated collection offers something for every player. Play free online now!",
+      "image": "https://img.gamedistribution.com/2fefa1516c4a4f8bbfc4ab040295d329-512x384.jpg",
+      "url": "https://playbrowserminigames.com/categories/puzzle",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Puzzle Game Collection - Instant Play",
+      "description": "Browse 1412 exciting Puzzle games and find your next favorite. Our curated collection offers something for every player. Play free online now!",
+      "image": "https://img.gamedistribution.com/2fefa1516c4a4f8bbfc4ab040295d329-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Games",
+      "href": "/games"
+    },
+    {
+      "label": "Puzzle",
+      "href": "/categories/puzzle",
+      "current": true
+    }
+  ],
+  "content": {
+    "mainDescription": "Explore our collection of puzzle games! We have carefully selected 1412 amazing games that will provide hours of entertainment.",
+    "featuredContent": "Delivers high-quality {category} gaming experiences",
+    "gameStats": {
+      "total": 1412,
+      "featured": 10,
+      "recent": 20
+    }
+  },
+  "subcategories": [
+    "logic",
+    "word",
+    "math"
+  ]
+}

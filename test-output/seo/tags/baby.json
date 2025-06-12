@@ -1,0 +1,46 @@
+{
+  "tag": "baby",
+  "displayName": "Baby",
+  "metadata": {
+    "title": "Baby Games - Play Free Online",
+    "description": "Discover amazing baby games! Play 82 free games with baby theme. No downloads required.",
+    "keywords": [
+      "baby games",
+      "free online games",
+      "browser games",
+      "baby theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/baby",
+    "openGraph": {
+      "title": "Baby Games - Free Online Gaming",
+      "description": "Play the best baby games online for free. 82 games available.",
+      "image": "https://img.gamedistribution.com/f67cf4d8f9164fe3a5c3a12d27de8606-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/baby",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Baby Games - Free Online",
+      "description": "Play 82 free baby games online.",
+      "image": "https://img.gamedistribution.com/f67cf4d8f9164fe3a5c3a12d27de8606-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Baby",
+      "href": "/tags/baby",
+      "current": true
+    }
+  ],
+  "description": "Discover games with baby theme! Our collection includes 82 carefully selected games that feature baby elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

@@ -70,9 +70,7 @@ scripts/output/all_games_continuous.json
 scripts/output/batches/
 
 # Test outputs (keep structure but ignore large files)
-test-output/seo/games/*.json
-test-output/seo/tags/*.json
-test-output/seo/categories/*.json
+# Removed SEO file exclusions to allow git backup
 
 # Script logs and temporary files
 scripts/test-output/seo-logs/

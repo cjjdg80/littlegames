@@ -1,0 +1,46 @@
+{
+  "tag": "kart",
+  "displayName": "Kart",
+  "metadata": {
+    "title": "Kart Games - Play Free Online",
+    "description": "Discover amazing kart games! Play 8 free games with kart theme. No downloads required.",
+    "keywords": [
+      "kart games",
+      "free online games",
+      "browser games",
+      "kart theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/kart",
+    "openGraph": {
+      "title": "Kart Games - Free Online Gaming",
+      "description": "Play the best kart games online for free. 8 games available.",
+      "image": "https://img.gamedistribution.com/d29ae646ec6047da893a74fc988f1727-512x384.jpeg",
+      "url": "https://playbrowserminigames.com/tags/kart",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kart Games - Free Online",
+      "description": "Play 8 free kart games online.",
+      "image": "https://img.gamedistribution.com/d29ae646ec6047da893a74fc988f1727-512x384.jpeg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Kart",
+      "href": "/tags/kart",
+      "current": true
+    }
+  ],
+  "description": "Discover games with kart theme! Our collection includes 8 carefully selected games that feature kart elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

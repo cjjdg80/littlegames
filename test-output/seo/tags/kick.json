@@ -1,0 +1,46 @@
+{
+  "tag": "kick",
+  "displayName": "Kick",
+  "metadata": {
+    "title": "Kick Games - Play Free Online",
+    "description": "Discover amazing kick games! Play 17 free games with kick theme. No downloads required.",
+    "keywords": [
+      "kick games",
+      "free online games",
+      "browser games",
+      "kick theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/kick",
+    "openGraph": {
+      "title": "Kick Games - Free Online Gaming",
+      "description": "Play the best kick games online for free. 17 games available.",
+      "image": "https://img.gamedistribution.com/e06e45bf9c844821b4d7424482cd749c-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/kick",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kick Games - Free Online",
+      "description": "Play 17 free kick games online.",
+      "image": "https://img.gamedistribution.com/e06e45bf9c844821b4d7424482cd749c-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Kick",
+      "href": "/tags/kick",
+      "current": true
+    }
+  ],
+  "description": "Discover games with kick theme! Our collection includes 17 carefully selected games that feature kick elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

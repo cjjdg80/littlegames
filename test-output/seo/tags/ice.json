@@ -1,0 +1,46 @@
+{
+  "tag": "ice",
+  "displayName": "Ice",
+  "metadata": {
+    "title": "Ice Games - Play Free Online",
+    "description": "Discover amazing ice games! Play 9 free games with ice theme. No downloads required.",
+    "keywords": [
+      "ice games",
+      "free online games",
+      "browser games",
+      "ice theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/ice",
+    "openGraph": {
+      "title": "Ice Games - Free Online Gaming",
+      "description": "Play the best ice games online for free. 9 games available.",
+      "image": "https://img.gamedistribution.com/99f63b78d97c41f99f3322ca2347892c-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/ice",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ice Games - Free Online",
+      "description": "Play 9 free ice games online.",
+      "image": "https://img.gamedistribution.com/99f63b78d97c41f99f3322ca2347892c-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Ice",
+      "href": "/tags/ice",
+      "current": true
+    }
+  ],
+  "description": "Discover games with ice theme! Our collection includes 9 carefully selected games that feature ice elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

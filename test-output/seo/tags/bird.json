@@ -1,0 +1,46 @@
+{
+  "tag": "bird",
+  "displayName": "Bird",
+  "metadata": {
+    "title": "Bird Games - Play Free Online",
+    "description": "Discover amazing bird games! Play 41 free games with bird theme. No downloads required.",
+    "keywords": [
+      "bird games",
+      "free online games",
+      "browser games",
+      "bird theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/bird",
+    "openGraph": {
+      "title": "Bird Games - Free Online Gaming",
+      "description": "Play the best bird games online for free. 41 games available.",
+      "image": "https://img.gamedistribution.com/96ab76bfdfbd472aad509cc7b278d8ce-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/bird",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bird Games - Free Online",
+      "description": "Play 41 free bird games online.",
+      "image": "https://img.gamedistribution.com/96ab76bfdfbd472aad509cc7b278d8ce-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Bird",
+      "href": "/tags/bird",
+      "current": true
+    }
+  ],
+  "description": "Discover games with bird theme! Our collection includes 41 carefully selected games that feature bird elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

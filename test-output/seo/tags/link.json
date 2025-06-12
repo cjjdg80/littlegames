@@ -1,0 +1,46 @@
+{
+  "tag": "link",
+  "displayName": "Link",
+  "metadata": {
+    "title": "Link Games - Play Free Online",
+    "description": "Discover amazing link games! Play 34 free games with link theme. No downloads required.",
+    "keywords": [
+      "link games",
+      "free online games",
+      "browser games",
+      "link theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/link",
+    "openGraph": {
+      "title": "Link Games - Free Online Gaming",
+      "description": "Play the best link games online for free. 34 games available.",
+      "image": "https://img.gamedistribution.com/a2dd720fa92e4126b57c6c43a78aa2bb-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/link",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Link Games - Free Online",
+      "description": "Play 34 free link games online.",
+      "image": "https://img.gamedistribution.com/a2dd720fa92e4126b57c6c43a78aa2bb-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Link",
+      "href": "/tags/link",
+      "current": true
+    }
+  ],
+  "description": "Discover games with link theme! Our collection includes 34 carefully selected games that feature link elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

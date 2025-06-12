@@ -1,0 +1,46 @@
+{
+  "tag": "slice",
+  "displayName": "Slice",
+  "metadata": {
+    "title": "Slice Games - Play Free Online",
+    "description": "Discover amazing slice games! Play 12 free games with slice theme. No downloads required.",
+    "keywords": [
+      "slice games",
+      "free online games",
+      "browser games",
+      "slice theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/slice",
+    "openGraph": {
+      "title": "Slice Games - Free Online Gaming",
+      "description": "Play the best slice games online for free. 12 games available.",
+      "image": "https://img.gamedistribution.com/b6a85169a7284d388a28fe5d0c6eaaf6-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/slice",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Slice Games - Free Online",
+      "description": "Play 12 free slice games online.",
+      "image": "https://img.gamedistribution.com/b6a85169a7284d388a28fe5d0c6eaaf6-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Slice",
+      "href": "/tags/slice",
+      "current": true
+    }
+  ],
+  "description": "Discover games with slice theme! Our collection includes 12 carefully selected games that feature slice elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

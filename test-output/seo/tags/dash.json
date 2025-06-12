@@ -1,0 +1,46 @@
+{
+  "tag": "dash",
+  "displayName": "Dash",
+  "metadata": {
+    "title": "Dash Games - Play Free Online",
+    "description": "Discover amazing dash games! Play 32 free games with dash theme. No downloads required.",
+    "keywords": [
+      "dash games",
+      "free online games",
+      "browser games",
+      "dash theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/dash",
+    "openGraph": {
+      "title": "Dash Games - Free Online Gaming",
+      "description": "Play the best dash games online for free. 32 games available.",
+      "image": "https://img.gamedistribution.com/8c6bbf416a8240cea3c6c9b6f041832e-512x512.jpg",
+      "url": "https://playbrowserminigames.com/tags/dash",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Dash Games - Free Online",
+      "description": "Play 32 free dash games online.",
+      "image": "https://img.gamedistribution.com/8c6bbf416a8240cea3c6c9b6f041832e-512x512.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Dash",
+      "href": "/tags/dash",
+      "current": true
+    }
+  ],
+  "description": "Discover games with dash theme! Our collection includes 32 carefully selected games that feature dash elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

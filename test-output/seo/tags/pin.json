@@ -1,0 +1,46 @@
+{
+  "tag": "pin",
+  "displayName": "Pin",
+  "metadata": {
+    "title": "Pin Games - Play Free Online",
+    "description": "Discover amazing pin games! Play 22 free games with pin theme. No downloads required.",
+    "keywords": [
+      "pin games",
+      "free online games",
+      "browser games",
+      "pin theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/pin",
+    "openGraph": {
+      "title": "Pin Games - Free Online Gaming",
+      "description": "Play the best pin games online for free. 22 games available.",
+      "image": "https://img.gamedistribution.com/a6c8940d3c91429984ed040a65cad06a-512x384.jpg",
+      "url": "https://playbrowserminigames.com/tags/pin",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pin Games - Free Online",
+      "description": "Play 22 free pin games online.",
+      "image": "https://img.gamedistribution.com/a6c8940d3c91429984ed040a65cad06a-512x384.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Pin",
+      "href": "/tags/pin",
+      "current": true
+    }
+  ],
+  "description": "Discover games with pin theme! Our collection includes 22 carefully selected games that feature pin elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}

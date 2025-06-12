@@ -1,0 +1,46 @@
+{
+  "tag": "minecraft",
+  "displayName": "Minecraft",
+  "metadata": {
+    "title": "Minecraft Games - Play Free Online",
+    "description": "Discover amazing minecraft games! Play 148 free games with minecraft theme. No downloads required.",
+    "keywords": [
+      "minecraft games",
+      "free online games",
+      "browser games",
+      "minecraft theme",
+      "instant play games"
+    ],
+    "canonical": "https://playbrowserminigames.com/tags/minecraft",
+    "openGraph": {
+      "title": "Minecraft Games - Free Online Gaming",
+      "description": "Play the best minecraft games online for free. 148 games available.",
+      "image": "https://img.gamedistribution.com/ac446b8b43bb4d09ba5202adc6385154-1280x720.jpg",
+      "url": "https://playbrowserminigames.com/tags/minecraft",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Minecraft Games - Free Online",
+      "description": "Play 148 free minecraft games online.",
+      "image": "https://img.gamedistribution.com/ac446b8b43bb4d09ba5202adc6385154-1280x720.jpg"
+    }
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Tags",
+      "href": "/tags"
+    },
+    {
+      "label": "Minecraft",
+      "href": "/tags/minecraft",
+      "current": true
+    }
+  ],
+  "description": "Discover games with minecraft theme! Our collection includes 148 carefully selected games that feature minecraft elements. Perfect for players who enjoy this specific gaming style.",
+  "relatedTags": []
+}
