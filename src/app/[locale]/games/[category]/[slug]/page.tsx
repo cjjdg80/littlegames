@@ -30,7 +30,8 @@ export default async function LocaleGamePage({ params }: LocaleGamePageProps) {
     description: `This is a sample game description in ${locale}`,
     category,
     slug,
-    locale
+    locale,
+    image_url: '/images/default-game-thumbnail.svg'
   };
 
   // 生成面包屑导航
@@ -62,9 +63,10 @@ export default async function LocaleGamePage({ params }: LocaleGamePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: generateGameJsonLd({
-            title: gameData.title,
+            name: gameData.title,
             description: gameData.description,
             category: gameData.category,
+            image_url: gameData.image_url || '/images/default-game-thumbnail.svg',
             url: getCanonicalUrl(`/${locale}/games/${category}/${slug}`)
           })
         }}
