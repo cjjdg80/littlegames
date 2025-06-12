@@ -1,0 +1,45 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景渐变 -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="512" height="512" fill="url(#bgGradient)" rx="24" ry="24"/>
+  
+  <!-- 游戏手柄图标 -->
+  <g transform="translate(256,256)">
+    <!-- 手柄主体 -->
+    <path d="M-80,-40 Q-100,-40 -100,-20 L-100,20 Q-100,40 -80,40 L-40,40 L-20,60 Q0,80 20,60 L40,40 L80,40 Q100,40 100,20 L100,-20 Q100,-40 80,-40 Z" 
+          fill="url(#iconGradient)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+    
+    <!-- 左侧按钮 -->
+    <circle cx="-60" cy="-10" r="8" fill="rgba(255,255,255,0.8)"/>
+    <circle cx="-40" cy="10" r="8" fill="rgba(255,255,255,0.8)"/>
+    
+    <!-- 右侧按钮 -->
+    <circle cx="60" cy="-10" r="8" fill="rgba(255,255,255,0.8)"/>
+    <circle cx="40" cy="10" r="8" fill="rgba(255,255,255,0.8)"/>
+    
+    <!-- 方向键 -->
+    <g transform="translate(-60,0)">
+      <rect x="-2" y="-12" width="4" height="24" fill="rgba(255,255,255,0.6)" rx="2"/>
+      <rect x="-12" y="-2" width="24" height="4" fill="rgba(255,255,255,0.6)" rx="2"/>
+    </g>
+    
+    <!-- 中央装饰 -->
+    <circle cx="0" cy="0" r="12" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.5)" stroke-width="1"/>
+    <circle cx="0" cy="0" r="6" fill="rgba(255,255,255,0.5)"/>
+  </g>
+  
+  <!-- 底部文字 -->
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="rgba(255,255,255,0.8)">Game</text>
+  <text x="256" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.6)">No Image Available</text>
+</svg>

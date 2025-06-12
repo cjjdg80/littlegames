@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-06-12T03:37:35.669Z",
+  "files": [
+    {
+      "filename": "gameStaticData.json",
+      "exists": true,
+      "valid_json": true,
+      "size_kb": 3431,
+      "record_count": 9938,
+      "errors": []
+    },
+    {
+      "filename": "categoryIndex.json",
+      "exists": true,
+      "valid_json": true,
+      "size_kb": 135,
+      "record_count": 7,
+      "errors": []
+    },
+    {
+      "filename": "gameRelations.json",
+      "exists": true,
+      "valid_json": true,
+      "size_kb": 5211,
+      "record_count": 9938,
+      "errors": []
+    },
+    {
+      "filename": "sitemapData.json",
+      "exists": true,
+      "valid_json": true,
+      "size_kb": 1523,
+      "record_count": 10045,
+      "errors": []
+    }
+  ]
+}
