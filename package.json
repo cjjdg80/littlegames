@@ -2,7 +2,6 @@
   "name": "littlegames",
   "version": "0.1.0",
   "private": true,
-
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,6 +10,7 @@
     "test:crawler": "npx ts-node --project tsconfig.node.json scripts/crawler/testGameList.ts"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
     "@types/node-fetch": "^2.6.12",
     "autoprefixer": "^10.4.21",
     "clsx": "^2.1.1",
