@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-06-12T06:37:54.688Z",
+  "summary": {
+    "total": 9938,
+    "valid": 9938,
+    "invalid": 0,
+    "validPercentage": "100.00"
+  },
+  "validationDetails": {
+    "urlValidation": {
+      "passed": 9938,
+      "failed": 0
+    },
+    "iframeValidation": {
+      "passed": 9938,
+      "failed": 0
+    },
+    "imageValidation": {
+      "passed": 9679,
+      "failed": 259
+    }
+  },
+  "invalidGames": []
+}

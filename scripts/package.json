@@ -9,8 +9,12 @@
     "reorganize:data": "tsx data-processing/gameDataReorganizer.ts"
   },
   "devDependencies": {
+    "@types/node": "^20.0.0",
     "tsx": "^4.0.0",
-    "typescript": "^5.0.0",
-    "@types/node": "^20.0.0"
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.6.12",
+    "node-fetch": "^3.3.2"
   }
 }
