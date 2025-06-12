@@ -268,6 +268,14 @@ export class SEOBatchGenerator {
         // 保存文件
         const fileName = `${tagData.tag}.json`;
         const filePath = path.join(tagsOutputDir, fileName);
+
+        // 调试信息：检查写入文件前的数据
+        if (tagData.tag === 'animal' || tagData.tag === 'adventure' || tagData.tag === 'action') {
+          console.log(`💾 写入文件前调试 - 标签 "${tagData.tag}":`);
+          console.log(`   - seoData.metadata.openGraph.image: ${seoData.metadata?.openGraph?.image}`);
+          console.log(`   - seoData.metadata.twitter.image: ${seoData.metadata?.twitter?.image}`);
+        }
+
         await fs.writeFile(filePath, JSON.stringify(seoData, null, 2), 'utf-8');
         
         results.push({

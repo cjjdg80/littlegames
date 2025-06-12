@@ -1,13 +1,14 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "CommonJS", // 改回 CommonJS
     "target": "ES2020",
-    "moduleResolution": "node",
+    "moduleResolution": "node", // 改回 node
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
   },
   "ts-node": {
-    "esm": false
+    "esm": false, // 改回 false
+    "experimentalSpecifierResolution": "node"
   }
 }

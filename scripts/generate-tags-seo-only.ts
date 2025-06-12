@@ -1,271 +1,134 @@
-// scripts/generate-tags-seo-only.ts - 专门用于生成标签SEO数据的脚本
-
+// scripts/generate-tags-seo-only.ts
+// 功能说明: 专门用于生成标签SEO数据的脚本，仅用于测试和调试目的。
 import * as fs from 'fs';
 import * as path from 'path';
-import { SEOBatchGenerator, BatchGenerationConfig } from '../src/lib/seo/batchGenerator';
+
+// 确保 BatchGenerationConfig 类型被导入，如果它在 batchGenerator 中定义
+// import { BatchGenerationConfig } from '../src/lib/seo/batchGenerator'; // 移除，因为 BatchGenerator 会被动态导入
+
+const LOG_FILE_PATH = path.join(process.cwd(), 'script_debug.log');
 
 /**
- * 专门生成标签SEO数据的配置
+ * 主函数，执行标签SEO数据生成。
  */
-const TAGS_SEO_CONFIG: BatchGenerationConfig = {
-  outputDir: path.join(__dirname, 'test-output', 'seo'),
-  batchSize: 50,
-  enableQualityCheck: true,
-  generateProgressReport: true,
-  concurrency: 5,
-  baseUrl: 'https://playbrowserminigames.com'
-};
+async function main() {
+  // 清空或创建日志文件
+  fs.writeFileSync(LOG_FILE_PATH, '');
 
-/**
- * 加载游戏数据
- */
-function loadGamesData(): any[] {
-  const gamesPath = path.join(__dirname, 'processed/preprocessed-games.json');
-  if (!fs.existsSync(gamesPath)) {
-    console.error('❌ 游戏数据文件不存在:', gamesPath);
-    return [];
-  }
-  
+  /**
+   * 将日志消息附加到日志文件和控制台。
+   * @param {string} message - 要记录的消息。
+   */
+  const logMessage = (message: string) => {
+    fs.appendFileSync(LOG_FILE_PATH, message + '\n');
+    console.log(message);
+  };
+
+  logMessage('开始执行 generate-tags-seo-only.ts 脚本...');
+
   try {
-    const gamesData = JSON.parse(fs.readFileSync(gamesPath, 'utf-8'));
-    console.log(`✅ 成功加载 ${gamesData.length} 个游戏数据`);
-    return gamesData;
-  } catch (error) {
-    console.error('❌ 加载游戏数据失败:', error);
-    return [];
-  }
-}
-
-/**
- * 加载标签数据
- */
-function loadTagsData(): any[] {
-  const tagsPath = path.join(__dirname, 'processed/tags-index.json');
-  if (!fs.existsSync(tagsPath)) {
-    console.error('❌ 标签数据文件不存在:', tagsPath);
-    return [];
-  }
-  
-  try {
-    const tagsIndex = JSON.parse(fs.readFileSync(tagsPath, 'utf-8'));
-    // 将标签索引对象转换为数组格式
-    const tagsData = Object.entries(tagsIndex).map(([tag, data]: [string, any]) => ({
-      tag,
-      count: data.count,
-      game_ids: data.game_ids
-    }));
-    console.log(`✅ 成功加载 ${tagsData.length} 个标签数据`);
-    return tagsData;
-  } catch (error) {
-    console.error('❌ 加载标签数据失败:', error);
-    return [];
-  }
-}
-
-/**
- * 确保输出目录存在
- */
-function ensureOutputDir(outputPath: string): void {
-  if (!fs.existsSync(outputPath)) {
-    fs.mkdirSync(outputPath, { recursive: true });
-    console.log(`✅ 创建输出目录: ${outputPath}`);
-  }
-}
-
-/**
- * 主函数：生成标签SEO数据
- */
-async function generateTagsSEOOnly(): Promise<void> {
-  console.log('🚀 开始专门生成标签SEO数据...');
-  console.log('='.repeat(50));
-  
-  try {
-    // 加载数据
-    const gamesData = loadGamesData();
-    const tagsData = loadTagsData();
+    logMessage('导入模块...');
+    // 导入 batchGenerator
+    const { SEOBatchGenerator } = require('../src/lib/seo/batchGenerator');
     
-    if (gamesData.length === 0 || tagsData.length === 0) {
-      console.error('❌ 缺少必要的数据文件，无法继续');
-      return;
+    // 定义本地配置接口
+    interface BatchGenerationConfig {
+      outputDir: string;
+      batchSize: number;
+      enableQualityCheck: boolean;
+      generateProgressReport: boolean;
+      concurrency: number;
+      baseUrl: string;
     }
-    
+
+    // 加载游戏数据
+    const gamesIndexPath = path.join(process.cwd(), 'src/data/games/games-index.json');
+    const gamesData = JSON.parse(fs.readFileSync(gamesIndexPath, 'utf-8'));
+    logMessage(`加载游戏数据: ${Object.keys(gamesData).length} 个游戏`);
+
+    // 加载标签数据
+    const tagsIndexPath = path.join(process.cwd(), 'src/data/games/tags-index.json');
+    const tagsData = JSON.parse(fs.readFileSync(tagsIndexPath, 'utf-8'));
+    logMessage(`加载标签数据: ${Object.keys(tagsData).length} 个标签`);
+    logMessage('模块导入成功。');
+
     // 确保输出目录存在
-    const outputDir = path.join(__dirname, '../test-output/seo/tags');
-    ensureOutputDir(outputDir);
-    
-    // 创建批量生成器
-    const batchGenerator = new SEOBatchGenerator(TAGS_SEO_CONFIG);
-    
-    console.log(`📊 数据统计:`);
-    console.log(`   - 游戏数量: ${gamesData.length}`);
-    console.log(`   - 标签数量: ${tagsData.length}`);
-    console.log('');
-    
-    // 生成标签SEO数据
-    console.log('🏷️ 开始生成标签SEO数据...');
-    
-    // 调试：检查游戏数据中的标签
-    console.log('🔍 调试信息:');
-    const sampleGame = gamesData[0];
-    console.log(`   - 示例游戏: ${sampleGame?.title || 'N/A'}`);
-    console.log(`   - 示例游戏标签: ${JSON.stringify(sampleGame?.tags || [])}`);
-    console.log(`   - 示例游戏缩略图: ${sampleGame?.thumbnail || 'N/A'}`);
-    
-    // 检查标签数据
-    const sampleTag = tagsData[0];
-    console.log(`   - 示例标签: ${sampleTag?.tag || 'N/A'}`);
-    console.log(`   - 示例标签游戏数: ${sampleTag?.count || 0}`);
-    
-    // 检查标签和游戏的匹配情况
-    const tagGamesCount = gamesData.filter(game => 
-      game.tags && game.tags.includes(sampleTag?.tag)
-    ).length;
-    console.log(`   - 标签 "${sampleTag?.tag}" 匹配的游戏数: ${tagGamesCount}`);
-    
-    // 测试一个实际存在的标签
-    const adventureGamesCount = gamesData.filter(game => 
-      game.tags && game.tags.includes('adventure')
-    ).length;
-    console.log(`   - 标签 "adventure" 匹配的游戏数: ${adventureGamesCount}`);
-    
-    // 查找包含zombie标签的游戏
-     const gamesZombie = gamesData.filter(game => 
-       game.tags && game.tags.includes('zombie')
-     );
-     console.log(`   - 标签 "zombie" 匹配的游戏数: ${gamesZombie.length}`);
-     if (gamesZombie.length > 0) {
-       console.log(`   - 第一个zombie游戏: ${gamesZombie[0].title}`);
-       console.log(`   - 第一个zombie游戏缩略图: ${gamesZombie[0].thumbnail}`);
-       console.log(`   - 缩略图是否有效: ${gamesZombie[0].thumbnail && gamesZombie[0].thumbnail.trim() !== '' ? '✅' : '❌'}`);
-     }
-     
-     // 检查action标签的游戏
-     const gamesAction = gamesData.filter(game => 
-       game.tags && game.tags.includes('action')
-     );
-     console.log(`   - 标签 "action" 匹配的游戏数: ${gamesAction.length}`);
-     if (gamesAction.length > 0) {
-       console.log(`   - 第一个action游戏: ${gamesAction[0].title}`);
-       console.log(`   - 第一个action游戏缩略图: ${gamesAction[0].thumbnail}`);
-       console.log(`   - 缩略图是否有效: ${gamesAction[0].thumbnail && gamesAction[0].thumbnail.trim() !== '' ? '✅' : '❌'}`);
-     }
-     
-     // 检查animal标签的游戏
-     const gamesAnimal = gamesData.filter(game => 
-       game.tags && game.tags.includes('animal')
-     );
-     console.log(`   - 标签 "animal" 匹配的游戏数: ${gamesAnimal.length}`);
-     if (gamesAnimal.length > 0) {
-       console.log(`   - 第一个animal游戏: ${gamesAnimal[0].title}`);
-       console.log(`   - 第一个animal游戏缩略图: ${gamesAnimal[0].thumbnail}`);
-       console.log(`   - 缩略图是否有效: ${gamesAnimal[0].thumbnail && gamesAnimal[0].thumbnail.trim() !== '' ? '✅' : '❌'}`);
-     }
-     
-     // 检查标签数据结构
-     console.log(`   - 标签数据示例: ${JSON.stringify(tagsData[0], null, 2)}`);
-     console.log(`   - 游戏数据示例标签字段: ${JSON.stringify(gamesData[0].tags, null, 2)}`);
-     
-     // 查找包含animal的游戏（不区分大小写）
-     const animalGamesAny = gamesData.filter(game => {
-       if (!game.tags) return false;
-       return game.tags.some(tag => tag.toLowerCase().includes('animal'));
-     });
-     console.log(`   - 包含"animal"的游戏数（不区分大小写）: ${animalGamesAny.length}`);
-     if (animalGamesAny.length > 0) {
-       console.log(`   - 第一个包含animal的游戏: ${animalGamesAny[0].title}`);
-       console.log(`   - 该游戏的标签: ${JSON.stringify(animalGamesAny[0].tags)}`);
-     }
-     
-     // 查找包含2048标签的游戏
-     const games2048 = gamesData.filter(game => 
-       game.tags && game.tags.includes('2048')
-     );
-     console.log(`   - 标签 "2048" 匹配的游戏数: ${games2048.length}`);
-     if (games2048.length > 0) {
-       console.log(`   - 第一个2048游戏: ${games2048[0].title}`);
-       console.log(`   - 第一个2048游戏缩略图: ${games2048[0].thumbnail}`);
-     }
-    console.log('');
-    
-    const startTime = Date.now();
-    
-    const tagResults = await batchGenerator.generateTagsSEO(tagsData, gamesData);
-    
-    const endTime = Date.now();
-    const duration = endTime - startTime;
-    
-    // 统计结果
-    const successCount = tagResults.filter(r => r.success).length;
-    const failureCount = tagResults.filter(r => !r.success).length;
-    
-    console.log('');
-    console.log('='.repeat(50));
-    console.log('📈 生成结果统计:');
-    console.log(`   ✅ 成功: ${successCount}`);
-    console.log(`   ❌ 失败: ${failureCount}`);
-    console.log(`   ⏱️ 耗时: ${duration}ms`);
-    
-    // 显示失败的标签
-    if (failureCount > 0) {
-      console.log('');
-      console.log('❌ 失败的标签:');
-      tagResults
-        .filter(r => !r.success)
-        .slice(0, 10) // 只显示前10个失败的
-        .forEach(r => {
-          console.log(`   - ${r.error}`);
-        });
-      
-      if (failureCount > 10) {
-        console.log(`   ... 还有 ${failureCount - 10} 个失败项`);
-      }
+    const baseOutputDir = path.join(process.cwd(), 'test-output', 'seo');
+    if (!fs.existsSync(baseOutputDir)) {
+      fs.mkdirSync(baseOutputDir, { recursive: true });
     }
+    logMessage(`基础输出目录: ${baseOutputDir}`);
+
+    const config: BatchGenerationConfig = {
+      outputDir: baseOutputDir,
+      batchSize: 10,
+      enableQualityCheck: false,
+      generateProgressReport: true,
+      concurrency: 3,
+      baseUrl: 'https://playbrowserminigames.com'
+    };
+    logMessage('配置信息准备完毕。');
+
+    const generator = new SEOBatchGenerator(config);
+    logMessage('SEOBatchGenerator 实例已创建。');
+
+    logMessage('开始生成标签SEO数据...');
+    // generateTagsSEO需要tagsData数组，而不是tagNames
+    // 将标签对象转换为包含tag属性的数组格式
+    const tagsArray = Object.entries(tagsData).map(([tagName, tagInfo]: [string, any]) => ({
+      tag: tagName,
+      count: tagInfo.count,
+      game_ids: tagInfo.game_ids
+    }));
+    const gamesArray = Array.isArray(gamesData) ? gamesData : Object.values(gamesData);
+    logMessage(`转换后的标签数组长度: ${tagsArray.length}`);
     
-    // 检查生成的文件
-    console.log('');
-    console.log('🔍 检查生成的文件...');
-    const generatedFiles = fs.readdirSync(outputDir).filter(f => f.endsWith('.json'));
-    console.log(`📁 生成的文件数量: ${generatedFiles.length}`);
-    
-    // 随机检查几个文件的内容
+    await generator.generateTagsSEO(tagsArray, gamesArray);
+    logMessage('标签SEO数据生成完成。');
+
+    // 可以在这里添加一些验证逻辑，例如检查生成的文件数量或内容
+    const tagsOutputDir = path.join(baseOutputDir, 'tags');
+    const generatedFiles = fs.readdirSync(tagsOutputDir);
+    logMessage(`在 ${tagsOutputDir} 中生成的文件数量: ${generatedFiles.length}`);
+
     if (generatedFiles.length > 0) {
-      console.log('');
-      console.log('🔍 随机检查文件内容:');
-      
-      const sampleFiles = generatedFiles.slice(0, 3); // 检查前3个文件
-      for (const fileName of sampleFiles) {
-        const filePath = path.join(outputDir, fileName);
+      logMessage(`抽查前3个生成的文件内容:`);
+      for (let i = 0; i < Math.min(3, generatedFiles.length); i++) {
+        const fileName = generatedFiles[i];
+        const filePath = path.join(tagsOutputDir, fileName);
         try {
-          const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-          const hasGameThumbnail = content.metadata?.openGraph?.image?.includes('img.gamedistribution.com') || 
-                                  content.metadata?.openGraph?.image?.includes('cdn') ||
-                                  !content.metadata?.openGraph?.image?.includes('/images/tags/');
-          
-          console.log(`   📄 ${fileName}:`);
-          console.log(`      - 标题: ${content.metadata?.title || 'N/A'}`);
-          console.log(`      - 图片: ${content.metadata?.openGraph?.image || 'N/A'}`);
-          console.log(`      - 使用游戏缩略图: ${hasGameThumbnail ? '✅' : '❌'}`);
-        } catch (error) {
-          console.log(`   📄 ${fileName}: ❌ 读取失败`);
+          const fileContent = fs.readFileSync(filePath, 'utf-8');
+          const jsonData = JSON.parse(fileContent);
+          logMessage(`  文件: ${fileName}`);
+          logMessage(`    og:image: ${jsonData.metadata?.openGraph?.image}`);
+          logMessage(`    twitter:image: ${jsonData.metadata?.twitter?.image}`);
+          // 检查是否使用了游戏缩略图 (这是一个简化的检查)
+          if (jsonData.metadata?.openGraph?.image && !jsonData.metadata.openGraph.image.includes('default_')) {
+            logMessage(`    ✅ ${fileName} 使用了游戏缩略图 (OG)。`);
+          } else {
+            logMessage(`    ❌ ${fileName} 可能使用了默认图片 (OG)。`);
+          }
+        } catch (e: any) {
+          logMessage(`  读取或解析文件 ${fileName} 失败: ${e.message}`);
         }
       }
     }
-    
-    console.log('');
-    console.log('🎉 标签SEO数据生成完成!');
-    
-  } catch (error) {
-    console.error('❌ 生成过程中发生错误:', error);
-    process.exit(1);
+
+  } catch (error: any) {
+    logMessage(`脚本执行出错: ${error.message}`);
+    logMessage(error.stack);
+    process.exit(1); // 错误退出
   }
 }
 
-// 运行脚本
-if (require.main === module) {
-  generateTagsSEOOnly().catch(error => {
-    console.error('❌ 脚本执行失败:', error);
-    process.exit(1);
-  });
-}
+// 调用主函数
+main().then(() => {
+  console.log('generate-tags-seo-only.ts 脚本执行完毕。查看 debug_output.log 获取详细日志。');
+}).catch(error => {
+  console.error('脚本执行中发生未捕获的顶级错误:', error);
+  fs.appendFileSync(LOG_FILE_PATH, '脚本执行中发生未捕获的顶级错误: ' + error.message + '\n' + error.stack + '\n');
+  process.exit(1);
+});
 
-export { generateTagsSEOOnly };
+// 移除了独立的 generateTagsSEOOnly 函数，其逻辑合并到 main 中
+// export { generateTagsSEOOnly }; // 如果不需要导出，可以移除

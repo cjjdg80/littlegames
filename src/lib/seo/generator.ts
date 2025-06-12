@@ -158,6 +158,23 @@ export class SEOGenerator {
       }
     }
     
+    // 图片选择逻辑 - 提取到变量中避免重复执行
+    const hasGames = tagGames && tagGames.length > 0;
+    const hasThumbnail = hasGames && tagGames[0].thumbnail;
+    const isValidThumbnail = hasThumbnail && tagGames[0].thumbnail.trim() !== '';
+    const selectedOGImage = isValidThumbnail ? tagGames[0].thumbnail : `${this.baseUrl}/images/tags/${tagData.tag}-og.jpg`;
+    const selectedTwitterImage = isValidThumbnail ? tagGames[0].thumbnail : `${this.baseUrl}/images/tags/${tagData.tag}-twitter.jpg`;
+    
+    // 调试信息：图片选择逻辑
+    if (tagData.tag === 'animal' || tagData.tag === 'adventure' || tagData.tag === 'action') {
+      console.log(`🔍 图片选择调试 - 标签 "${tagData.tag}":`); 
+      console.log(`   - 有游戏: ${hasGames}`);
+      console.log(`   - 有缩略图: ${hasThumbnail}`);
+      console.log(`   - 缩略图有效: ${isValidThumbnail}`);
+      console.log(`   - 选择的OG图片: ${selectedOGImage}`);
+      console.log(`   - 选择的Twitter图片: ${selectedTwitterImage}`);
+    }
+    
     // 生成基础SEO元数据
     const metadata: SEOMetadata = {
       title: `${displayName} Games - Play Free Online`,
@@ -173,23 +190,7 @@ export class SEOGenerator {
       openGraph: {
         title: `${displayName} Games - Free Online Gaming`,
         description: `Play the best ${displayName.toLowerCase()} games online for free. ${tagData.count || 0} games available.`,
-        image: (() => {
-          const hasGames = tagGames && tagGames.length > 0;
-          const hasThumbnail = hasGames && tagGames[0].thumbnail;
-          const isValidThumbnail = hasThumbnail && tagGames[0].thumbnail.trim() !== '';
-          const selectedImage = isValidThumbnail ? tagGames[0].thumbnail : `${this.baseUrl}/images/tags/${tagData.tag}-og.jpg`;
-          
-          // 调试信息：图片选择逻辑
-          if (tagData.tag === 'animal' || tagData.tag === 'adventure' || tagData.tag === 'action') {
-            console.log(`🔍 图片选择调试 - 标签 "${tagData.tag}":`);
-            console.log(`   - 有游戏: ${hasGames}`);
-            console.log(`   - 有缩略图: ${hasThumbnail}`);
-            console.log(`   - 缩略图有效: ${isValidThumbnail}`);
-            console.log(`   - 选择的图片: ${selectedImage}`);
-          }
-          
-          return selectedImage;
-        })(),
+        image: selectedOGImage,
         url: `${this.baseUrl}/tags/${tagData.tag}`,
         type: 'website'
       },
@@ -197,13 +198,7 @@ export class SEOGenerator {
         card: 'summary_large_image',
         title: `${displayName} Games - Free Online`,
         description: `Play ${tagData.count || 0} free ${displayName.toLowerCase()} games online.`,
-        image: (() => {
-          const hasGames = tagGames && tagGames.length > 0;
-          const hasThumbnail = hasGames && tagGames[0].thumbnail;
-          const isValidThumbnail = hasThumbnail && tagGames[0].thumbnail.trim() !== '';
-          const selectedImage = isValidThumbnail ? tagGames[0].thumbnail : `${this.baseUrl}/images/tags/${tagData.tag}-twitter.jpg`;
-          return selectedImage;
-        })()
+        image: selectedTwitterImage
       }
     };
     
