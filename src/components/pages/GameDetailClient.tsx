@@ -10,6 +10,7 @@ import GameCard from "@/components/ui/GameCard";
 import { cn } from "@/lib/utils";
 import { Skeleton } from "@/components/ui/Skeleton";
 import GameAdContainer from "@/components/ads/GameAdContainer";
+import { usePathname } from "next/navigation";
 
 interface Game {
   id: string;
@@ -41,6 +42,20 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [iframeError, setIframeError] = useState(false);
   const [views, setViews] = useState<number | null>(null);
+  const pathname = typeof window === 'undefined' ? '' : window.location.pathname;
+  const siteOrigin = "https://playbrowserminigames.com";
+  const [iframeSrc, setIframeSrc] = useState(() => {
+    // SSR/SSG阶段，尽量用slug拼接
+    if (typeof window === "undefined" && game.slug) {
+      const fullUrl = siteOrigin + "/games/" + game.slug;
+      return game.iframe_src.replace(
+        /gd_sdk_referrer_url=[^&]+/,
+        `gd_sdk_referrer_url=${encodeURIComponent(fullUrl)}`
+      );
+    }
+    // 默认返回原始src，客户端再动态替换
+    return game.iframe_src;
+  });
 
   const handleFullscreen = () => {
     setIsFullscreen(!isFullscreen);
@@ -74,6 +89,19 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
     // TODO: 可扩展为调用后端API统计
   }, [game.id]);
 
+  useEffect(() => {
+    // 客户端渲染时，动态拼接当前页面完整URL
+    if (typeof window !== "undefined" && game.iframe_src) {
+      const fullUrl = siteOrigin + window.location.pathname;
+      const replaced = game.iframe_src.replace(
+        /gd_sdk_referrer_url=[^&]+/,
+        `gd_sdk_referrer_url=${encodeURIComponent(fullUrl)}`
+      );
+      setIframeSrc(replaced);
+    }
+    // eslint-disable-next-line
+  }, [game.iframe_src]);
+
   return (
     <div className="space-y-8">
       {/* 主内容区：横向分栏 */}
@@ -91,7 +119,7 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
                 </div>
               ) : (
                 <iframe
-                  src={game.iframe_src}
+                  src={iframeSrc}
                   width={game.iframe_width}
                   height={game.iframe_height}
                   className={cn(
@@ -264,6 +292,28 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
             ))}
           </div>
         </div>
+      )}
+      {/* 随机游戏展示区（全站内链SEO优化，后续完善数据） */}
+      <RandomGamesSection />
+    </div>
+  );
+}
+
+// 随机游戏展示区（占位实现，后续完善数据逻辑）
+function RandomGamesSection() {
+  // TODO: 后续实现真实随机游戏数据
+  const randomGames: any[] = [];
+  return (
+    <div className="bg-gray-800 rounded-lg p-6 mt-8">
+      <h2 className="text-xl font-semibold text-white mb-6">Discover More Games</h2>
+      {randomGames.length > 0 ? (
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+          {randomGames.map((game) => (
+            <GameCard key={game.id} game={game} viewMode="grid" />
+          ))}
+        </div>
+      ) : (
+        <div className="text-gray-400 text-center">Random games will be displayed here.</div>
       )}
     </div>
   );
