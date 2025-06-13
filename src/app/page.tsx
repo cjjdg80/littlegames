@@ -19,10 +19,10 @@ export default async function HomePage() {
   // 获取SEO数据和结构化数据
   const { structuredData, seoData } = await getHomePageSEO();
   
-  // 加载真实游戏数据
+  // 加载真实游戏数据 - 精选游戏10个（2排×5个），所有游戏50个（10排×5个）
   const [featuredGames, newestGames] = await Promise.all([
-    getFeaturedGamesFromLatest(6), // 获取6个精选游戏
-    getNewestGames(12) // 获取12个最新游戏
+    getFeaturedGamesFromLatest(10), // 获取10个精选游戏，显示2排×5个
+    getNewestGames(50) // 获取50个最新游戏，显示10排×5个，支持分页
   ]);
   
   // 转换为首页组件期望的格式

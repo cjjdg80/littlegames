@@ -1,5 +1,5 @@
 // src/components/sections/AllGames.tsx - 全部游戏展示区组件
-// 功能说明: 展示所有游戏列表，支持4列网格布局、搜索筛选、分页和加载更多
+// 功能说明: 展示所有游戏列表，支持5列网格布局、分页，每页50个游戏（10排×5个）
 
 "use client";
 
@@ -40,7 +40,7 @@ export default function AllGames({
   viewMode = "grid",
   currentPage = 1,
   totalPages = 1,
-  gamesPerPage = 8,
+  gamesPerPage = 50, // 每页50个游戏
   onPlayGame,
   onFavoriteGame,
   onShareGame,
@@ -75,14 +75,10 @@ export default function AllGames({
           </span>
         </div>
 
-        {/* 游戏网格 */}
+        {/* 游戏网格 - 5列布局 */}
         {games.length > 0 ? (
           <>
-            <div className={`grid gap-4 ${
-              viewMode === "grid" 
-                ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
-                : "grid-cols-1"
-            }`}>
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
               {games.map((game) => (
                 <GameCard
                   key={game.id}
@@ -97,25 +93,13 @@ export default function AllGames({
                   slug={game.slug}
                   description={game.description}
                   viewMode={viewMode}
+                  size="compact"
                   onPlay={onPlayGame}
                   onFavorite={onFavoriteGame}
                   onShare={onShareGame}
                 />
               ))}
             </div>
-
-            {/* 加载更多按钮 */}
-            {hasMore && (
-              <div className="text-center mt-8">
-                <button
-                  onClick={handleLoadMore}
-                  disabled={isLoadingMore}
-                  className="bg-gray-800 hover:bg-gray-700 text-white px-6 py-3 rounded-lg font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                  {isLoadingMore ? "Loading..." : "Load More Games"}
-                </button>
-              </div>
-            )}
 
             {/* 分页导航 */}
             {totalPages > 1 && (
@@ -175,7 +159,7 @@ export default function AllGames({
             {totalPages > 1 && (
               <div className="text-center mt-4">
                 <span className="text-sm text-gray-500">
-                  Page {currentPage} of {totalPages}
+                  Page {currentPage} of {totalPages} • {gamesPerPage} games per page
                 </span>
               </div>
             )}
@@ -198,10 +182,8 @@ export default function AllGames({
         {/* 加载指示器 */}
         {loading && (
           <div className="text-center py-8">
-            <div className="inline-flex items-center gap-2 text-gray-400">
-              <div className="w-4 h-4 border-2 border-gray-600 border-t-blue-500 rounded-full animate-spin"></div>
-              Loading games...
-            </div>
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500 mx-auto"></div>
+            <p className="text-gray-400 mt-2">Loading games...</p>
           </div>
         )}
       </div>

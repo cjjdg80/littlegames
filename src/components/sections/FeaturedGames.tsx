@@ -1,9 +1,10 @@
 // src/components/sections/FeaturedGames.tsx - 热门游戏展示区组件
-// 功能说明: 展示精选推荐游戏，支持3列网格布局和轮播功能
+// 功能说明: 展示精选推荐游戏，支持5列网格布局，显示10个游戏（2排×5个）
 
 "use client";
 
 import React from "react";
+import Link from "next/link";
 import { Star } from "lucide-react";
 import GameCard from "@/components/ui/GameCard";
 
@@ -37,14 +38,22 @@ export default function FeaturedGames({
     <section className="py-8">
       <div className="max-w-7xl mx-auto px-4">
         {/* 标题区域 */}
-        <div className="flex items-center gap-2 mb-6">
-          <Star className="w-5 h-5 text-yellow-500 fill-current" />
-          <h2 className="text-xl font-semibold text-white">Featured Games</h2>
+        <div className="flex items-center justify-between mb-6">
+          <div className="flex items-center gap-2">
+            <Star className="w-5 h-5 text-yellow-500 fill-current" />
+            <h2 className="text-xl font-semibold text-white">Featured Games</h2>
+          </div>
+          <Link 
+            href="/games/featured" 
+            className="text-blue-400 hover:text-blue-300 text-sm font-medium transition-colors"
+          >
+            View All Featured Games →
+          </Link>
         </div>
 
-        {/* 游戏网格 */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {games.slice(0, 3).map((game) => (
+        {/* 游戏网格 - 5列布局，显示10个游戏（2排×5个） */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+          {games.slice(0, 10).map((game) => (
             <GameCard
               key={game.id}
               id={game.id}
@@ -58,18 +67,12 @@ export default function FeaturedGames({
               slug={game.slug}
               description={game.description}
               viewMode="grid"
+              size="compact"
               onPlay={onPlayGame}
               onFavorite={onFavoriteGame}
               onShare={onShareGame}
             />
           ))}
-        </div>
-
-        {/* 查看更多链接 */}
-        <div className="text-center mt-6">
-          <button className="text-blue-400 hover:text-blue-300 text-sm font-medium transition-colors">
-            View All Featured Games →
-          </button>
         </div>
       </div>
     </section>
