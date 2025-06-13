@@ -9,13 +9,27 @@ import Image from "next/image";
 import { Play, Star, Download, Heart, Share2 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-interface GameCardProps {
+interface Game {
   id: string;
   title: string;
   category: string;
   rating: number;
   downloads: string;
   image: string;
+  featured?: boolean;
+  isNew?: boolean;
+  slug?: string;
+  description?: string;
+}
+
+interface GameCardProps {
+  game?: Game;
+  id?: string;
+  title?: string;
+  category?: string;
+  rating?: number;
+  downloads?: string;
+  image?: string;
   featured?: boolean;
   isNew?: boolean;
   slug?: string;
@@ -27,6 +41,7 @@ interface GameCardProps {
 }
 
 export default function GameCard({
+  game,
   id,
   title,
   category,
@@ -42,29 +57,41 @@ export default function GameCard({
   onFavorite,
   onShare,
 }: GameCardProps) {
+  // 如果提供了 game 对象，使用其属性
+  const gameId = game?.id || id;
+  const gameTitle = game?.title || title;
+  const gameCategory = game?.category || category;
+  const gameRating = game?.rating || rating;
+  const gameDownloads = game?.downloads || downloads;
+  const gameImage = game?.image || image;
+  const gameFeatured = game?.featured || featured;
+  const gameIsNew = game?.isNew || isNew;
+  const gameSlug = game?.slug || slug;
+  const gameDescription = game?.description || description;
+
   const [isHovered, setIsHovered] = useState(false);
   const [imageError, setImageError] = useState(false);
   const [isFavorited, setIsFavorited] = useState(false);
 
-  const gameUrl = slug ? `/games/${category.toLowerCase()}/${slug}` : `/games/${id}`;
+  const gameUrl = gameSlug ? `/games/${gameCategory?.toLowerCase()}/${gameSlug}` : `/games/${gameId}`;
 
   const handlePlay = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    onPlay?.(id);
+    onPlay?.(gameId!);
   };
 
   const handleFavorite = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
     setIsFavorited(!isFavorited);
-    onFavorite?.(id);
+    onFavorite?.(gameId!);
   };
 
   const handleShare = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    onShare?.(id);
+    onShare?.(gameId!);
   };
 
   if (viewMode === "list") {
@@ -76,8 +103,8 @@ export default function GameCard({
             <div className="relative w-24 h-18 flex-shrink-0 overflow-hidden rounded-lg">
               {!imageError ? (
                 <Image
-                  src={image}
-                  alt={title}
+                  src={gameImage!}
+                  alt={gameTitle!}
                   fill
                   className="object-cover"
                   onError={() => setImageError(true)}
@@ -90,12 +117,12 @@ export default function GameCard({
               
               {/* 标签 */}
               <div className="absolute top-1 left-1 flex gap-1">
-                {featured && (
+                {gameFeatured && (
                   <span className="bg-yellow-500 text-yellow-900 text-xs px-1.5 py-0.5 rounded font-medium">
                     Featured
                   </span>
                 )}
-                {isNew && (
+                {gameIsNew && (
                   <span className="bg-green-500 text-white text-xs px-1.5 py-0.5 rounded font-medium">
                     New
                   </span>
@@ -104,25 +131,25 @@ export default function GameCard({
             </div>
 
             {/* 内容 */}
-            <div className="flex-1 min-w-0">
+            <div className="flex-1">
               <div className="flex items-start justify-between mb-2">
-                <h3 className="font-medium text-gray-900 text-base line-clamp-1">{title}</h3>
+                <h3 className="font-medium text-gray-900 text-base line-clamp-1">{gameTitle}</h3>
                 <div className="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
                   <Star className="w-4 h-4 fill-current" />
-                  <span className="text-sm font-medium">{rating}</span>
+                  <span className="text-sm font-medium">{gameRating}</span>
                 </div>
               </div>
               
-              {description && (
-                <p className="text-sm text-gray-600 mb-2 line-clamp-2">{description}</p>
+              {gameDescription && (
+                <p className="text-sm text-gray-600 mb-2 line-clamp-2">{gameDescription}</p>
               )}
               
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-4 text-sm text-gray-500">
-                  <span className="capitalize">{category}</span>
+                  <span className="capitalize">{gameCategory}</span>
                   <span className="flex items-center gap-1">
                     <Download className="w-3 h-3" />
-                    {downloads}
+                    {gameDownloads}
                   </span>
                 </div>
                 
@@ -172,8 +199,8 @@ export default function GameCard({
         <div className="relative aspect-[4/3] overflow-hidden">
           {!imageError ? (
             <Image
-              src={image}
-              alt={title}
+              src={gameImage!}
+              alt={gameTitle!}
               fill
               className="object-cover transition-transform duration-200 group-hover:scale-105"
               onError={() => setImageError(true)}
@@ -186,12 +213,12 @@ export default function GameCard({
           
           {/* 标签 */}
           <div className="absolute top-2 left-2 flex gap-1">
-            {featured && (
+            {gameFeatured && (
               <span className="bg-yellow-500 text-yellow-900 text-xs px-2 py-1 rounded font-medium">
                 Featured
               </span>
             )}
-            {isNew && (
+            {gameIsNew && (
               <span className="bg-green-500 text-white text-xs px-2 py-1 rounded font-medium">
                 New
               </span>
@@ -233,18 +260,18 @@ export default function GameCard({
 
         <div className="p-3">
           <div className="flex items-start justify-between mb-1">
-            <h3 className="font-medium text-gray-900 truncate text-sm">{title}</h3>
+            <h3 className="font-medium text-gray-900 truncate text-sm">{gameTitle}</h3>
             <div className="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
               <Star className="w-3 h-3 fill-current" />
-              <span className="text-xs font-medium">{rating}</span>
+              <span className="text-xs font-medium">{gameRating}</span>
             </div>
           </div>
           
           <div className="flex items-center justify-between text-xs text-gray-600">
-            <span className="capitalize">{category}</span>
+            <span className="capitalize">{gameCategory}</span>
             <span className="flex items-center gap-1">
               <Download className="w-3 h-3" />
-              <span>{downloads}</span>
+              <span>{gameDownloads}</span>
             </span>
           </div>
         </div>
