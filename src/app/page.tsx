@@ -4,7 +4,7 @@
 import React from "react";
 import type { Metadata } from "next";
 import { getHomePageSEO } from "@/lib/homeSEO";
-import { getFeaturedGamesFromLatest, getNewestGames } from "@/lib/gameDataLoader";
+import { getFeaturedGamesFromLatest, getAllNewestGames } from "@/lib/gameDataLoader";
 import { adaptGamesForHomePage } from "@/lib/gameDataAdapter";
 import HomePageClient from "@/components/pages/HomePageClient";
 
@@ -19,15 +19,15 @@ export default async function HomePage() {
   // 获取SEO数据和结构化数据
   const { structuredData, seoData } = await getHomePageSEO();
   
-  // 加载真实游戏数据 - 精选游戏10个（2排×5个），所有游戏50个（10排×5个）
-  const [featuredGames, newestGames] = await Promise.all([
+  // 加载真实游戏数据 - 动态加载所有可用游戏以支持客户端分页
+  const [featuredGames, allNewestGames] = await Promise.all([
     getFeaturedGamesFromLatest(10), // 获取10个精选游戏，显示2排×5个
-    getNewestGames(50) // 获取50个最新游戏，显示10排×5个，支持分页
+    getAllNewestGames() // 获取所有可用的最新游戏，支持客户端分页（每页50个）
   ]);
   
   // 转换为首页组件期望的格式
   const adaptedFeaturedGames = adaptGamesForHomePage(featuredGames);
-  const adaptedNewestGames = adaptGamesForHomePage(newestGames);
+  const adaptedAllNewestGames = adaptGamesForHomePage(allNewestGames);
 
   return (
     <>
@@ -41,7 +41,7 @@ export default async function HomePage() {
       <HomePageClient 
         seoData={seoData}
         featuredGames={adaptedFeaturedGames}
-        newestGames={adaptedNewestGames}
+        newestGames={adaptedAllNewestGames}
       />
     </>
   );

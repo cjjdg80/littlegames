@@ -64,6 +64,12 @@ export interface Game {
   thumbnail: string;
   /** 游戏封面大图URL */
   coverImage?: string;
+  /** 游戏图片URL（用于GameCard组件） */
+  image?: string;
+  /** 游戏评分（用于GameCard组件） */
+  rating?: number;
+  /** 下载量（用于GameCard组件） */
+  downloads?: string;
   /** iframe嵌入配置 */
   iframe: IframeConfig;
   /** 游戏分类 */
