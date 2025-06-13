@@ -2,8 +2,7 @@
 import React from 'react';
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import "./globals.css";
-import "../../styles/home.css";
+import "../globals.css";
 import { notFound } from 'next/navigation';
 import { ReactNode } from 'react';
 

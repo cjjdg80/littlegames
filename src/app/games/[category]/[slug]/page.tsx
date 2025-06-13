@@ -11,40 +11,48 @@ import AdBanner from "@/components/ads/AdBanner";
 import fs from "fs";
 import path from "path";
 
-// 生成静态路径
+// 生成静态路径 - 只生成最新100个游戏的静态页面
 export async function generateStaticParams() {
-  // 遍历 src/data/games/games/ 目录下所有分类和分页文件，收集所有游戏的 category 和 slug
   const fs = require("fs");
   const path = require("path");
-  const gamesRoot = path.join(process.cwd(), "src/data/games/games");
-  const params: { category: string; slug: string }[] = [];
-
-  if (!fs.existsSync(gamesRoot)) return [];
-  const categories = fs.readdirSync(gamesRoot).filter((dir: string) => fs.statSync(path.join(gamesRoot, dir)).isDirectory());
-
-  for (const category of categories) {
-    const categoryDir = path.join(gamesRoot, category);
-    const files = fs.readdirSync(categoryDir).filter((f: string) => f.endsWith(".json"));
-    for (const file of files) {
-      const filePath = path.join(categoryDir, file);
-      const games = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-      for (const game of games) {
-        if (game.slug) {
-          params.push({ category, slug: game.slug });
-        }
+  
+  try {
+    // 读取最新100个游戏的索引数据
+    const latest100Path = path.join(process.cwd(), "src/data/latest-100-games.json");
+    
+    if (!fs.existsSync(latest100Path)) {
+      console.warn('最新100个游戏索引文件不存在，请先运行生成脚本');
+      return [];
+    }
+    
+    const latest100Games = JSON.parse(fs.readFileSync(latest100Path, "utf-8"));
+    const params: { category: string; slug: string }[] = [];
+    
+    // 为每个游戏生成静态路径参数
+    for (const game of latest100Games) {
+      if (game.slug && game.primary_category) {
+        params.push({ 
+          category: game.primary_category, 
+          slug: game.slug 
+        });
       }
     }
+    
+    console.log(`生成静态路径参数: ${params.length} 个游戏页面`);
+    return params;
+  } catch (error) {
+    console.error('生成静态路径参数失败:', error);
+    return [];
   }
-  return params;
 }
 
 // 生成页面元数据
 export async function generateMetadata({
   params,
 }: {
-  params: { category: string; slug: string };
+  params: Promise<{ category: string; slug: string }>;
 }): Promise<Metadata> {
-  const resolvedParams = await Promise.resolve(params);
+  const resolvedParams = await params;
   // 优先读取SEO文件
   const seoFilePath = path.join(process.cwd(), "test-output/seo/games", `${resolvedParams.slug}.json`);
   try {
@@ -139,9 +147,9 @@ export async function generateMetadata({
 export default async function GamePage({
   params,
 }: {
-  params: { category: string; slug: string };
+  params: Promise<{ category: string; slug: string }>;
 }) {
-  const resolvedParams = await Promise.resolve(params);
+  const resolvedParams = await params;
   // 获取游戏数据
   const game = await getGameBySlug(resolvedParams.category, resolvedParams.slug);
   

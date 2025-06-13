@@ -36,8 +36,8 @@ interface PageParams {
 }
 
 interface TagPageProps {
-  params: PageParams;
-  searchParams: { [key: string]: string | string[] | undefined };
+  params: Promise<PageParams>;
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }
 
 /**
@@ -71,7 +71,8 @@ export async function generateStaticParams(): Promise<PageParams[]> {
  */
 export async function generateMetadata({ params }: TagPageProps): Promise<Metadata> {
   try {
-    const tagData = await getTagData(params.tag);
+    const resolvedParams = await params;
+    const tagData = await getTagData(resolvedParams.tag);
     
     if (!tagData) {
       return {
@@ -80,7 +81,7 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
       };
     }
 
-    const canonicalUrl = getCanonicalUrl(getTagUrl(params.tag));
+    const canonicalUrl = getCanonicalUrl(getTagUrl(resolvedParams.tag));
     const tagName = tagData.displayName || tagData.name;
     
     return {
@@ -207,19 +208,21 @@ async function getTagGames(tag: string, page: number = 1, limit: number = 24): P
  * 游戏标签页面组件
  */
 export default async function TagPage({ params, searchParams }: TagPageProps) {
-  const tagData = await getTagData(params.tag);
+  const resolvedParams = await params;
+  const resolvedSearchParams = await searchParams;
+  const tagData = await getTagData(resolvedParams.tag);
   
   if (!tagData) {
     notFound();
   }
   
   // 获取分页参数
-  const currentPage = Number(searchParams.page) || 1;
-  const sortBy = (searchParams.sort as string) || 'popular';
-  const categoryFilter = searchParams.category as string;
+  const currentPage = Number(resolvedSearchParams.page) || 1;
+  const sortBy = (resolvedSearchParams.sort as string) || 'popular';
+  const categoryFilter = resolvedSearchParams.category as string;
   
   // 加载游戏数据
-  const games = await getTagGames(params.tag, currentPage);
+  const games = await getTagGames(resolvedParams.tag, currentPage);
   
   return (
     <div className="min-h-screen bg-gray-50">

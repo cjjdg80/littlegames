@@ -38,8 +38,8 @@ interface PageParams {
 }
 
 interface CategoryPageProps {
-  params: PageParams;
-  searchParams: { [key: string]: string | string[] | undefined };
+  params: Promise<PageParams>;
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }
 
 /**

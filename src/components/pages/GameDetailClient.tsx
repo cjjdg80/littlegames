@@ -3,8 +3,9 @@
 
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { Play, Star, Download, Heart, Share2, Maximize2 } from "lucide-react";
 import GameCard from "@/components/ui/GameCard";
 import { cn } from "@/lib/utils";
@@ -30,29 +31,68 @@ interface Game {
   slug?: string;
 }
 
+// GameCard组件期望的Game类型
+interface GameCardGame {
+  id: string;
+  title: string;
+  category: string;
+  rating: number;
+  downloads: string;
+  image: string;
+  featured?: boolean;
+  isNew?: boolean;
+  slug?: string;
+  description?: string;
+}
+
 interface GameDetailClientProps {
   game: Game;
   relatedGames: Game[];
 }
 
 /**
- * 生成带有正确referrer_url的iframe_src
- * 统一服务端和客户端的URL生成逻辑
+ * 将GameDetailClient的Game类型转换为GameCard期望的Game类型
+ */
+function adaptGameForCard(game: Game): GameCardGame {
+  return {
+    id: game.id,
+    title: game.title,
+    category: game.primary_category,
+    rating: game.rating || 0,
+    downloads: game.downloads || "0",
+    image: game.thumbnail,
+    featured: game.featured,
+    isNew: game.isNew,
+    slug: game.slug,
+    description: game.description
+  };
+}
+
+/**
+ * 生成动态iframe src，替换referrer参数
+ * @param originalSrc 原始iframe src
+ * @param gameSlug 游戏slug（可选）
+ * @param gameCategory 游戏分类（可选）
+ * @returns 处理后的iframe src
  */
 function generateIframeSrc(originalSrc: string, gameSlug?: string, gameCategory?: string): string {
-  const siteOrigin = "https://playbrowserminigames.com";
-  
-  // 构建游戏页面URL
-  let gameUrl = siteOrigin;
-  if (gameSlug && gameCategory) {
-    gameUrl = `${siteOrigin}/games/${gameCategory}/${gameSlug}`;
+  try {
+    const url = new URL(originalSrc);
+    
+    // 构建当前页面的referrer URL
+    const currentPath = gameSlug && gameCategory 
+      ? `/games/${gameCategory}/${gameSlug}`
+      : '/';
+    const referrerUrl = `https://playbrowserminigames.com${currentPath}`;
+    
+    // 替换gd_sdk_referrer_url参数
+    url.searchParams.set('gd_sdk_referrer_url', referrerUrl);
+    
+    return url.toString();
+  } catch (error) {
+    console.error('Error generating iframe src:', error);
+    return originalSrc;
   }
-  
-  // 替换gd_sdk_referrer_url参数
-  return originalSrc.replace(
-    /gd_sdk_referrer_url=[^&]+/,
-    `gd_sdk_referrer_url=${encodeURIComponent(gameUrl)}`
-  );
 }
 
 export default function GameDetailClient({ game, relatedGames }: GameDetailClientProps) {
@@ -67,6 +107,11 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
   const iframeSrc = useMemo(() => {
     return generateIframeSrc(game.iframe_src, game.slug, game.primary_category);
   }, [game.iframe_src, game.slug, game.primary_category]);
+
+  // 转换相关游戏数据为GameCard期望的格式
+  const adaptedRelatedGames = useMemo(() => {
+    return relatedGames.map(adaptGameForCard);
+  }, [relatedGames]);
 
   const handleFullscreen = () => {
     setIsFullscreen(!isFullscreen);
@@ -145,8 +190,8 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
           <div className="bg-gray-800 rounded-lg p-4 mb-4 flex flex-col h-full">
             <h2 className="text-lg font-semibold text-white mb-4">Related Games</h2>
             <div className="flex flex-col gap-4 max-h-[600px] overflow-y-auto pr-2 flex-1">
-              {relatedGames.length > 0 ? (
-                relatedGames.map((relatedGame) => (
+              {adaptedRelatedGames.length > 0 ? (
+                adaptedRelatedGames.map((relatedGame) => (
                   <GameCard
                     key={relatedGame.id}
                     game={relatedGame}
@@ -275,13 +320,13 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
         </div>
       )}
       {/* 更多推荐游戏 */}
-      {relatedGames.length > 0 && (
+      {adaptedRelatedGames.length > 0 && (
         <div className="bg-gray-800 rounded-lg p-6">
           <h2 className="text-xl font-semibold text-white mb-6">
             More Recommended Games
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {relatedGames.map((relatedGame) => (
+            {adaptedRelatedGames.map((relatedGame) => (
               <GameCard
                 key={relatedGame.id}
                 game={relatedGame}
