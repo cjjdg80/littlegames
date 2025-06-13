@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-06-13T16:19:27.444Z",
+  "total_games": 200,
+  "valid_games": 5,
+  "links_configured": 200,
+  "category_distribution": {
+    "adventure": 22,
+    "casual": 84,
+    "arcade": 67,
+    "puzzle": 19,
+    "simulation": 7,
+    "strategy": 1
+  },
+  "test_urls": [
+    "/games/adventure/capybara-go",
+    "/games/casual/italian-brainrot-obby-parkour",
+    "/games/adventure/obby-survive-parkour",
+    "/games/arcade/butterfly-kyodai-rainbow",
+    "/games/casual/color-cargo-puzzle-rush",
+    "/games/casual/patterns",
+    "/games/arcade/soccer-tournament",
+    "/games/arcade/royal-garden-match",
+    "/games/casual/chicken-scream-race",
+    "/games/adventure/geometry-vibes-monster"
+  ],
+  "status": "success"
+}

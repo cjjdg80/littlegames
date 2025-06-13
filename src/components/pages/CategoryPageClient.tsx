@@ -366,7 +366,7 @@ export default function CategoryPageClient({
                     id={game.id}
                     title={game.title.en}
                     category={game.category}
-                    rating={game.rating || 4.5}
+                    rating={game.rating || 5.0}
                     downloads={game.downloads || "1K+"}
                     image={game.image || game.thumbnail}
                     featured={game.featured}

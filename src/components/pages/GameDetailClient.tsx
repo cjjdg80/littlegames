@@ -8,6 +8,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Play, Star, Download, Heart, Share2, Maximize2 } from "lucide-react";
 import GameCard from "@/components/ui/GameCard";
+import ShareButton from "@/components/ui/ShareButton";
 import { cn } from "@/lib/utils";
 import { Skeleton } from "@/components/ui/Skeleton";
 import GameAdContainer from "@/components/ads/GameAdContainer";
@@ -48,6 +49,7 @@ interface GameCardGame {
 interface GameDetailClientProps {
   game: Game;
   relatedGames: Game[];
+  discoverMoreGames?: Game[];
 }
 
 /**
@@ -58,8 +60,8 @@ function adaptGameForCard(game: Game): GameCardGame {
     id: game.id,
     title: game.title,
     category: game.primary_category,
-    rating: game.rating || 0,
-    downloads: game.downloads || "0",
+    rating: game.rating || 5.0,
+    downloads: game.downloads || "1K+",
     image: game.thumbnail,
     featured: game.featured,
     isNew: game.isNew,
@@ -95,7 +97,7 @@ function generateIframeSrc(originalSrc: string, gameSlug?: string, gameCategory?
   }
 }
 
-export default function GameDetailClient({ game, relatedGames }: GameDetailClientProps) {
+export default function GameDetailClient({ game, relatedGames, discoverMoreGames = [] }: GameDetailClientProps) {
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [isFavorited, setIsFavorited] = useState(false);
   const [imageError, setImageError] = useState(false);
@@ -108,10 +110,19 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
     return generateIframeSrc(game.iframe_src, game.slug, game.primary_category);
   }, [game.iframe_src, game.slug, game.primary_category]);
 
-  // 转换相关游戏数据为GameCard期望的格式
+  // 转换相关游戏数据为GameCard期望的格式，并限制数量以适应自适应高度
   const adaptedRelatedGames = useMemo(() => {
-    return relatedGames.map(adaptGameForCard);
+    // 根据屏幕高度和GameCard高度估算最大显示数量
+    // 每个GameCard在list模式下大约120px高度，加上间距约140px
+    // 最大高度600px，大约可以显示4-5个游戏
+    const maxRelatedGames = 4;
+    return relatedGames.slice(0, maxRelatedGames).map(adaptGameForCard);
   }, [relatedGames]);
+
+  // 转换Discover More Games数据为GameCard期望的格式
+  const adaptedDiscoverMoreGames = useMemo(() => {
+    return discoverMoreGames.map(adaptGameForCard);
+  }, [discoverMoreGames]);
 
   const handleFullscreen = () => {
     setIsFullscreen(!isFullscreen);
@@ -119,20 +130,6 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
 
   const handleFavorite = () => {
     setIsFavorited(!isFavorited);
-  };
-
-  const handleShare = () => {
-    if (navigator.share) {
-      navigator.share({
-        title: game.title,
-        text: `Play ${game.title} online for free!`,
-        url: window.location.href,
-      });
-    } else {
-      // 复制链接到剪贴板
-      navigator.clipboard.writeText(window.location.href);
-      alert("Link copied to clipboard!");
-    }
   };
 
   // 访问量统计：本地存储+API预留
@@ -189,17 +186,40 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
         <div className="w-full lg:w-[260px] flex-shrink-0">
           <div className="bg-gray-800 rounded-lg p-4 mb-4 flex flex-col h-full">
             <h2 className="text-lg font-semibold text-white mb-4">Related Games</h2>
-            <div className="flex flex-col gap-4 max-h-[600px] overflow-y-auto pr-2 flex-1">
+            <div className="flex flex-col gap-3 max-h-[600px] overflow-y-auto pr-2 flex-1">
               {adaptedRelatedGames.length > 0 ? (
                 adaptedRelatedGames.map((relatedGame) => (
-                  <GameCard
-                    key={relatedGame.id}
-                    game={relatedGame}
-                    viewMode="list"
-                  />
+                  <Link 
+                    key={relatedGame.id} 
+                    href={`/games/${relatedGame.category}/${relatedGame.slug}`}
+                    className="group"
+                  >
+                    <div className="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-700 transition-colors">
+                      <div className="relative w-12 h-12 rounded-lg overflow-hidden flex-shrink-0">
+                        <Image
+                          src={relatedGame.image}
+                          alt={relatedGame.title}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-200"
+                          sizes="48px"
+                        />
+                        {relatedGame.featured && (
+                          <div className="absolute top-0 left-0 w-2 h-2 bg-yellow-500 rounded-full"></div>
+                        )}
+                      </div>
+                      <div className="flex-1 min-w-0">
+                        <h3 className="text-white text-sm font-medium line-clamp-2 leading-tight">
+                          {relatedGame.title}
+                        </h3>
+                        <p className="text-gray-400 text-xs mt-1 capitalize">
+                          {relatedGame.category}
+                        </p>
+                      </div>
+                    </div>
+                  </Link>
                 ))
               ) : (
-                <div className="text-gray-400 text-center">No related games</div>
+                <div className="text-gray-400 text-center text-sm">No related games</div>
               )}
             </div>
             {/* --- Ad Slot #2: Sidebar/Related Games Area ---
@@ -294,13 +314,13 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
               <Heart className={cn("w-5 h-5", isFavorited && "fill-current")} />
               {isFavorited ? "Favorited" : "Add to Favorites"}
             </button>
-            <button
-              onClick={handleShare}
-              className="flex items-center gap-2 px-4 py-2 bg-gray-700 text-gray-300 rounded-lg hover:bg-gray-600 transition-colors"
-            >
-              <Share2 className="w-5 h-5" />
-              Share
-            </button>
+            <ShareButton
+              gameTitle={game.title}
+              gameImage={game.thumbnail}
+              gameUrl={typeof window !== 'undefined' ? window.location.href : ''}
+              gameDescription={game.description}
+              gameCategory={game.primary_category}
+            />
           </div>
           {/* 操作说明 */}
           {game.instructions && (
@@ -319,44 +339,43 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
           </p>
         </div>
       )}
-      {/* 更多推荐游戏 */}
-      {adaptedRelatedGames.length > 0 && (
+      {/* Discover More Games区域（一排8个游戏） */}
+      {adaptedDiscoverMoreGames.length > 0 && (
         <div className="bg-gray-800 rounded-lg p-6">
-          <h2 className="text-xl font-semibold text-white mb-6">
-            More Recommended Games
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {adaptedRelatedGames.map((relatedGame) => (
-              <GameCard
-                key={relatedGame.id}
-                game={relatedGame}
-                viewMode="grid"
-              />
+          <h2 className="text-xl font-semibold text-white mb-6">Discover More Games</h2>
+          <div className="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-3">
+            {adaptedDiscoverMoreGames.slice(0, 8).map((discoverGame) => (
+              <div key={discoverGame.id} className="group">
+                <Link href={`/games/${discoverGame.category}/${discoverGame.slug}`}>
+                  <div className="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                    <div className="relative aspect-square">
+                      <Image
+                        src={discoverGame.image}
+                        alt={discoverGame.title}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-200"
+                        sizes="(max-width: 640px) 25vw, (max-width: 1024px) 16vw, 12vw"
+                      />
+                      {discoverGame.featured && (
+                        <div className="absolute top-1 left-1 bg-yellow-500 text-black text-xs px-1 py-0.5 rounded font-bold">
+                          Featured
+                        </div>
+                      )}
+                    </div>
+                    <div className="p-2">
+                      <h3 className="text-white text-xs font-medium line-clamp-2 leading-tight">
+                        {discoverGame.title}
+                      </h3>
+                      <p className="text-gray-400 text-xs mt-1 capitalize">
+                        {discoverGame.category}
+                      </p>
+                    </div>
+                  </div>
+                </Link>
+              </div>
             ))}
           </div>
         </div>
-      )}
-      {/* 随机游戏展示区（全站内链SEO优化，后续完善数据） */}
-      <RandomGamesSection />
-    </div>
-  );
-}
-
-// 随机游戏展示区（占位实现，后续完善数据逻辑）
-function RandomGamesSection() {
-  // TODO: 后续实现真实随机游戏数据
-  const randomGames: any[] = [];
-  return (
-    <div className="bg-gray-800 rounded-lg p-6 mt-8">
-      <h2 className="text-xl font-semibold text-white mb-6">Discover More Games</h2>
-      {randomGames.length > 0 ? (
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
-          {randomGames.map((game) => (
-            <GameCard key={game.id} game={game} viewMode="grid" />
-          ))}
-        </div>
-      ) : (
-        <div className="text-gray-400 text-center">Random games will be displayed here.</div>
       )}
     </div>
   );

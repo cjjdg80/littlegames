@@ -11,25 +11,43 @@ import AdBanner from "@/components/ads/AdBanner";
 import fs from "fs";
 import path from "path";
 
-// 生成静态路径 - 只生成最新100个游戏的静态页面
+// 获取游戏内链配置的函数
+async function getGameLinksConfig(gameId: number) {
+  try {
+    const configPath = path.join(process.cwd(), 'src/data/game-links-config-200.json');
+    
+    if (!fs.existsSync(configPath)) {
+      console.warn('游戏内链配置文件不存在，使用默认推荐');
+      return null;
+}
+
+    const configData = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
+    return configData.links[gameId.toString()] || null;
+  } catch (error) {
+    console.error('读取游戏内链配置失败:', error);
+    return null;
+}
+}
+
+// 生成静态路径 - 生成最新200个游戏的静态页面
 export async function generateStaticParams() {
   const fs = require("fs");
   const path = require("path");
   
   try {
-    // 读取最新100个游戏的索引数据
-    const latest100Path = path.join(process.cwd(), "src/data/latest-100-games.json");
+    // 读取最新200个游戏的索引数据
+    const latest200Path = path.join(process.cwd(), "src/data/latest-200-games.json");
     
-    if (!fs.existsSync(latest100Path)) {
-      console.warn('最新100个游戏索引文件不存在，请先运行生成脚本');
+    if (!fs.existsSync(latest200Path)) {
+      console.warn('最新200个游戏索引文件不存在，请先运行生成脚本');
       return [];
     }
     
-    const latest100Games = JSON.parse(fs.readFileSync(latest100Path, "utf-8"));
+    const latest200Games = JSON.parse(fs.readFileSync(latest200Path, "utf-8"));
     const params: { category: string; slug: string }[] = [];
     
     // 为每个游戏生成静态路径参数
-    for (const game of latest100Games) {
+    for (const game of latest200Games) {
       if (game.slug && game.primary_category) {
         params.push({ 
           category: game.primary_category, 
@@ -53,95 +71,77 @@ export async function generateMetadata({
   params: Promise<{ category: string; slug: string }>;
 }): Promise<Metadata> {
   const resolvedParams = await params;
-  // 优先读取SEO文件
-  const seoFilePath = path.join(process.cwd(), "test-output/seo/games", `${resolvedParams.slug}.json`);
+  
   try {
+    // 优先从SEO文件读取元数据
+    const seoFilePath = path.join(
+      process.cwd(),
+      "test-output/seo/games",
+      `${resolvedParams.slug}.json`
+    );
+
     if (fs.existsSync(seoFilePath)) {
       const seoData = JSON.parse(fs.readFileSync(seoFilePath, "utf-8"));
-      // 使用正确的嵌套结构读取SEO数据
+      
       return {
-        title: seoData.metadata.title,
-        description: seoData.metadata.description,
-        keywords: seoData.metadata.keywords?.join(', '),
+        title: seoData.title,
+        description: seoData.description,
+        keywords: seoData.keywords,
         openGraph: {
-          title: seoData.metadata.openGraph.title,
-          description: seoData.metadata.openGraph.description,
-          url: seoData.metadata.openGraph.url,
-          siteName: 'Play Browser Mini Games',
-          images: [
-            {
-              url: seoData.metadata.openGraph.image,
-              width: 1200,
-              height: 630,
-              alt: `${seoData.metadata.title} game screenshot`
-            }
-          ],
-          type: 'article'
+          title: seoData.openGraph?.title || seoData.title,
+          description: seoData.openGraph?.description || seoData.description,
+          images: seoData.openGraph?.images || [],
+          type: 'website',
         },
         twitter: {
           card: 'summary_large_image',
-          title: seoData.metadata.twitter.title,
-          description: seoData.metadata.twitter.description,
-          images: [seoData.metadata.twitter.image]
+          title: seoData.twitter?.title || seoData.title,
+          description: seoData.twitter?.description || seoData.description,
+          images: seoData.twitter?.images || [],
         },
         alternates: {
-          canonical: seoData.metadata.canonical
+          canonical: seoData.canonical,
         },
-        robots: {
-          index: true,
-          follow: true,
-          googleBot: {
-            index: true,
-            follow: true,
-            'max-video-preview': -1,
-            'max-image-preview': 'large',
-            'max-snippet': -1
-          }
-        }
       };
     }
-  } catch (e) {
-    console.error('读取SEO文件失败:', e);
-    // 读取SEO文件失败，降级为主数据生成
-  }
-  // fallback 到主数据生成
-  const game = await getGameBySlug(resolvedParams.category, resolvedParams.slug);
-  if (!game) {
+
+    // 降级到动态生成元数据
+    const game = await getGameBySlug(resolvedParams.category, resolvedParams.slug);
+    if (!game) {
+      return {
+        title: "Game Not Found",
+        description: "The requested game could not be found.",
+      };
+    }
+
+    // 生成基础元数据（不使用generateGameMetadata函数，因为没有SEO数据）
+    const gameTitle = typeof game.title === 'string' ? game.title : game.title.en;
+    const gameDescription = typeof game.description === 'string' ? game.description : game.description.en;
+    
     return {
-      title: "Game Not Found",
-      description: "The requested game could not be found.",
+      title: `${gameTitle} - Play Free Online Game`,
+      description: gameDescription || `Play ${gameTitle} online for free. Fun and engaging browser game.`,
+      keywords: game.tags?.join(', ') || 'online game, browser game, free game',
+      openGraph: {
+        title: `${gameTitle} - Play Free Online Game`,
+        description: gameDescription || `Play ${gameTitle} online for free.`,
+        images: [game.thumbnail],
+        type: 'website',
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: `${gameTitle} - Play Free Online Game`,
+        description: gameDescription || `Play ${gameTitle} online for free.`,
+        images: [game.thumbnail],
+      },
+    };
+  } catch (error) {
+    console.error("Error generating metadata:", error);
+    return {
+      title: "Game Page",
+      description: "Play free online games",
     };
   }
-  
-  // 使用游戏基础数据生成简单的metadata
-  const gameTitle = typeof game.title === 'string' ? game.title : game.title.en;
-  const gameDescription = typeof game.description === 'string' ? game.description : game.description.en;
-  
-  return {
-    title: `Play ${gameTitle} - Free Online Game`,
-    description: gameDescription || `Play ${gameTitle} online for free. No download required!`,
-    openGraph: {
-      title: `Play ${gameTitle} - Free Online Game`,
-      description: gameDescription || `Play ${gameTitle} online for free. No download required!`,
-      url: `https://playbrowserminigames.com/games/${resolvedParams.category}/${resolvedParams.slug}`,
-      siteName: 'Play Browser Mini Games',
-      images: [
-        {
-          url: game.thumbnail,
-          width: 1200,
-          height: 630,
-          alt: `${gameTitle} game screenshot`
-        }
-      ],
-      type: 'article'
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: `Play ${gameTitle} - Free Online Game`,
-      description: gameDescription || `Play ${gameTitle} online for free. No download required!`,
-      images: [game.thumbnail]
-    }
-  };
 }
 
 export default async function GamePage({
@@ -156,9 +156,27 @@ export default async function GamePage({
   if (!game) {
     notFound();
   }
-
-  // 获取相关游戏推荐
-  const relatedGames = await getRelatedGames(game.id, game.category, 6);
+  
+  // 获取游戏内链配置（优先使用预生成的内链配置）
+  const gameLinksConfig = await getGameLinksConfig(parseInt(game.id));
+  
+  // 如果有预生成的内链配置，使用它；否则使用默认推荐
+  let relatedGames = [];
+  let discoverMoreGames = [];
+  let featuredGames = [];
+  
+  if (gameLinksConfig) {
+    // 使用预生成的内链配置
+    relatedGames = gameLinksConfig.relatedGames || [];
+    discoverMoreGames = gameLinksConfig.discoverMoreGames || [];
+    featuredGames = gameLinksConfig.featuredGames || [];
+    console.log(`✅ 使用预生成内链配置 - 游戏ID: ${game.id}, 相关游戏: ${relatedGames.length}, 发现更多: ${discoverMoreGames.length}, 精选: ${featuredGames.length}`);
+  } else {
+    // 降级到默认推荐
+    const defaultRelated = await getRelatedGames(game.id, game.category, 6);
+    relatedGames = defaultRelated;
+    console.warn(`⚠️  使用默认推荐 - 游戏ID: ${game.id}`);
+  }
 
   // 转换Game类型以适配GameDetailClient组件
   const adaptedGame = {
@@ -176,19 +194,35 @@ export default async function GamePage({
     slug: game.slug
   };
 
-  const adaptedRelatedGames = relatedGames.map(relatedGame => ({
+  const adaptedRelatedGames = relatedGames.map((relatedGame: any) => ({
     id: relatedGame.id,
-    title: typeof relatedGame.title === 'string' ? relatedGame.title : relatedGame.title.en,
-    primary_category: (relatedGame as any).primary_category || relatedGame.category,
+    title: typeof relatedGame.title === 'string' ? relatedGame.title : relatedGame.title,
+    primary_category: (relatedGame as any).primary_category || relatedGame.primary_category,
     thumbnail: relatedGame.thumbnail,
-    description: typeof relatedGame.description === 'string' ? relatedGame.description : relatedGame.description.en,
-    instructions: typeof relatedGame.instructions === 'string' ? relatedGame.instructions : relatedGame.instructions?.en,
-    iframe_src: (relatedGame as any).iframe_src || relatedGame.iframe?.src,
-    iframe_width: (relatedGame as any).iframe_width || relatedGame.iframe?.width || 800,
-    iframe_height: (relatedGame as any).iframe_height || relatedGame.iframe?.height || 600,
-    tags: relatedGame.tags,
+    description: typeof relatedGame.description === 'string' ? relatedGame.description : relatedGame.description,
+    instructions: typeof relatedGame.instructions === 'string' ? relatedGame.instructions : relatedGame.instructions,
+    iframe_src: (relatedGame as any).iframe_src || '',
+    iframe_width: (relatedGame as any).iframe_width || 800,
+    iframe_height: (relatedGame as any).iframe_height || 600,
+    tags: relatedGame.tags || [],
     featured: relatedGame.featured,
     slug: relatedGame.slug
+  }));
+
+  // 转换Discover More Games数据
+  const adaptedDiscoverMoreGames = discoverMoreGames.map((discoverGame: any) => ({
+    id: discoverGame.id,
+    title: discoverGame.title,
+    primary_category: discoverGame.primary_category,
+    thumbnail: discoverGame.thumbnail,
+    description: discoverGame.description || `Play ${discoverGame.title} online for free.`,
+    instructions: discoverGame.instructions || '',
+    iframe_src: discoverGame.iframe_src || '',
+    iframe_width: 800,
+    iframe_height: 600,
+    tags: discoverGame.tags || [],
+    featured: discoverGame.featured,
+    slug: discoverGame.slug
   }));
 
   // 构建面包屑导航数据
@@ -199,18 +233,19 @@ export default async function GamePage({
     { name: gameCategory, url: `/games/${gameCategory}` },
     { name: adaptedGame.title, url: `/games/${gameCategory}/${game.slug}` },
   ];
-
+  
   return (
     <main className="min-h-screen bg-gray-900">
       {/* 面包屑导航 */}
       <div className="container mx-auto px-4 py-4">
         <Breadcrumb items={breadcrumbItems} />
-      </div>
+              </div>
       {/* 游戏详情内容 */}
       <div className="container mx-auto px-4 py-8">
         <GameDetailClient 
           game={adaptedGame}
           relatedGames={adaptedRelatedGames}
+          discoverMoreGames={adaptedDiscoverMoreGames}
         />
       </div>
     </main>

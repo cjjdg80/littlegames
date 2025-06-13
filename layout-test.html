@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>游戏详情页面布局测试</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-2xl font-bold mb-8">游戏详情页面布局测试</h1>
+        
+        <!-- 主内容区：横向分栏 -->
+        <div class="flex flex-col lg:flex-row gap-8 mb-8">
+            <!-- 左侧：游戏iframe区域 -->
+            <div class="flex-1 min-w-0">
+                <div class="bg-gray-800 rounded-lg overflow-hidden mb-4 min-h-[400px] flex items-center justify-center">
+                    <span class="text-gray-400">游戏 iframe 区域</span>
+                </div>
+            </div>
+            
+            <!-- 右侧：相关推荐区域 -->
+            <div class="w-full lg:w-[260px] flex-shrink-0">
+                <div class="bg-gray-800 rounded-lg p-4 mb-4 flex flex-col h-full">
+                    <h2 class="text-lg font-semibold text-white mb-4">Related Games</h2>
+                    <div class="flex flex-col gap-3 max-h-[600px] overflow-y-auto pr-2 flex-1">
+                        <!-- 相关游戏项目 -->
+                        <div class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-700 transition-colors cursor-pointer">
+                            <div class="relative w-12 h-12 rounded-lg overflow-hidden flex-shrink-0 bg-gray-600">
+                                <div class="absolute top-0 left-0 w-2 h-2 bg-yellow-500 rounded-full"></div>
+                            </div>
+                            <div class="flex-1 min-w-0">
+                                <h3 class="text-white text-sm font-medium line-clamp-2 leading-tight">
+                                    Butterfly Kyodai Rainbow
+                                </h3>
+                                <p class="text-gray-400 text-xs mt-1 capitalize">
+                                    arcade
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-700 transition-colors cursor-pointer">
+                            <div class="relative w-12 h-12 rounded-lg overflow-hidden flex-shrink-0 bg-gray-600">
+                                <div class="absolute top-0 left-0 w-2 h-2 bg-yellow-500 rounded-full"></div>
+                            </div>
+                            <div class="flex-1 min-w-0">
+                                <h3 class="text-white text-sm font-medium line-clamp-2 leading-tight">
+                                    Soccer Tournament
+                                </h3>
+                                <p class="text-gray-400 text-xs mt-1 capitalize">
+                                    arcade
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-700 transition-colors cursor-pointer">
+                            <div class="relative w-12 h-12 rounded-lg overflow-hidden flex-shrink-0 bg-gray-600">
+                            </div>
+                            <div class="flex-1 min-w-0">
+                                <h3 class="text-white text-sm font-medium line-clamp-2 leading-tight">
+                                    Football Rush 3D
+                                </h3>
+                                <p class="text-gray-400 text-xs mt-1 capitalize">
+                                    arcade
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-700 transition-colors cursor-pointer">
+                            <div class="relative w-12 h-12 rounded-lg overflow-hidden flex-shrink-0 bg-gray-600">
+                                <div class="absolute top-0 left-0 w-2 h-2 bg-yellow-500 rounded-full"></div>
+                            </div>
+                            <div class="flex-1 min-w-0">
+                                <h3 class="text-white text-sm font-medium line-clamp-2 leading-tight">
+                                    Aventador Vice Crime City
+                                </h3>
+                                <p class="text-gray-400 text-xs mt-1 capitalize">
+                                    arcade
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Discover More Games区域（一排8个游戏） -->
+        <div class="bg-gray-800 rounded-lg p-6">
+            <h2 class="text-xl font-semibold text-white mb-6">Discover More Games</h2>
+            <div class="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-3">
+                <!-- 游戏卡片 -->
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                            <div class="absolute top-1 left-1 bg-yellow-500 text-black text-xs px-1 py-0.5 rounded font-bold">
+                                Featured
+                            </div>
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Color Cargo Puzzle Rush
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                casual
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                            <div class="absolute top-1 left-1 bg-yellow-500 text-black text-xs px-1 py-0.5 rounded font-bold">
+                                Featured
+                            </div>
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Patterns
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                casual
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                            <div class="absolute top-1 left-1 bg-yellow-500 text-black text-xs px-1 py-0.5 rounded font-bold">
+                                Featured
+                            </div>
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Soccer Tournament
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                arcade
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                            <div class="absolute top-1 left-1 bg-yellow-500 text-black text-xs px-1 py-0.5 rounded font-bold">
+                                Featured
+                            </div>
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Capybara Go!
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                adventure
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Italian Brainrot Obby Parkour
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                casual
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                            <div class="absolute top-1 left-1 bg-yellow-500 text-black text-xs px-1 py-0.5 rounded font-bold">
+                                Featured
+                            </div>
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Obby Survive Parkour
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                adventure
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Pet Tile Master
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                arcade
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="group cursor-pointer">
+                    <div class="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
+                        <div class="relative aspect-square bg-gray-600">
+                        </div>
+                        <div class="p-2">
+                            <h3 class="text-white text-xs font-medium line-clamp-2 leading-tight">
+                                Diamond Mosaic
+                            </h3>
+                            <p class="text-gray-400 text-xs mt-1 capitalize">
+                                arcade
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
