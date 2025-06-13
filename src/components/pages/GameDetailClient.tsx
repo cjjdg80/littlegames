@@ -3,7 +3,7 @@
 
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import Image from "next/image";
 import { Play, Star, Download, Heart, Share2, Maximize2 } from "lucide-react";
 import GameCard from "@/components/ui/GameCard";
@@ -35,6 +35,26 @@ interface GameDetailClientProps {
   relatedGames: Game[];
 }
 
+/**
+ * 生成带有正确referrer_url的iframe_src
+ * 统一服务端和客户端的URL生成逻辑
+ */
+function generateIframeSrc(originalSrc: string, gameSlug?: string, gameCategory?: string): string {
+  const siteOrigin = "https://playbrowserminigames.com";
+  
+  // 构建游戏页面URL
+  let gameUrl = siteOrigin;
+  if (gameSlug && gameCategory) {
+    gameUrl = `${siteOrigin}/games/${gameCategory}/${gameSlug}`;
+  }
+  
+  // 替换gd_sdk_referrer_url参数
+  return originalSrc.replace(
+    /gd_sdk_referrer_url=[^&]+/,
+    `gd_sdk_referrer_url=${encodeURIComponent(gameUrl)}`
+  );
+}
+
 export default function GameDetailClient({ game, relatedGames }: GameDetailClientProps) {
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [isFavorited, setIsFavorited] = useState(false);
@@ -42,20 +62,11 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [iframeError, setIframeError] = useState(false);
   const [views, setViews] = useState<number | null>(null);
-  const pathname = typeof window === 'undefined' ? '' : window.location.pathname;
-  const siteOrigin = "https://playbrowserminigames.com";
-  const [iframeSrc, setIframeSrc] = useState(() => {
-    // SSR/SSG阶段，尽量用slug拼接
-    if (typeof window === "undefined" && game.slug) {
-      const fullUrl = siteOrigin + "/games/" + game.slug;
-      return game.iframe_src.replace(
-        /gd_sdk_referrer_url=[^&]+/,
-        `gd_sdk_referrer_url=${encodeURIComponent(fullUrl)}`
-      );
-    }
-    // 默认返回原始src，客户端再动态替换
-    return game.iframe_src;
-  });
+
+  // 使用useMemo确保服务端和客户端生成相同的iframe_src
+  const iframeSrc = useMemo(() => {
+    return generateIframeSrc(game.iframe_src, game.slug, game.primary_category);
+  }, [game.iframe_src, game.slug, game.primary_category]);
 
   const handleFullscreen = () => {
     setIsFullscreen(!isFullscreen);
@@ -88,19 +99,6 @@ export default function GameDetailClient({ game, relatedGames }: GameDetailClien
     setViews(count);
     // TODO: 可扩展为调用后端API统计
   }, [game.id]);
-
-  useEffect(() => {
-    // 客户端渲染时，动态拼接当前页面完整URL
-    if (typeof window !== "undefined" && game.iframe_src) {
-      const fullUrl = siteOrigin + window.location.pathname;
-      const replaced = game.iframe_src.replace(
-        /gd_sdk_referrer_url=[^&]+/,
-        `gd_sdk_referrer_url=${encodeURIComponent(fullUrl)}`
-      );
-      setIframeSrc(replaced);
-    }
-    // eslint-disable-next-line
-  }, [game.iframe_src]);
 
   return (
     <div className="space-y-8">
