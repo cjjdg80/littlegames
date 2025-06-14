@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# 优化爬虫行为
+Crawl-delay: 1
+
+# 允许所有页面被索引
+Allow: /games/
+Allow: /categories/
+Allow: /popular/
+Allow: /new/
+Allow: /featured/
+Allow: /leaderboard/
+Allow: /help/
+Allow: /faq/
+Allow: /report/
+Allow: /suggest/
