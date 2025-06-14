@@ -1,7 +1,7 @@
 // src/app/[locale]/games/[category]/[slug]/page.tsx - 多语言游戏详情页面
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { supportedLocales } from '../../../layout';
+import { SUPPORTED_LOCALES } from '@/lib/seo-utils';
 import { getCanonicalUrl, generateBreadcrumbs } from '@/lib/url-utils';
 import { generateGameJsonLd, generatePageSEO } from '@/lib/seo-utils';
 
@@ -20,7 +20,7 @@ export default async function LocaleGamePage({ params }: LocaleGamePageProps) {
   const { locale, category, slug } = await params;
 
   // 验证语言代码
-  if (!supportedLocales.includes(locale)) {
+  if (!SUPPORTED_LOCALES.includes(locale)) {
     notFound();
   }
 

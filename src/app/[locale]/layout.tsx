@@ -50,7 +50,5 @@ export async function generateStaticParams() {
   }));
 }
 
-/**
- * 导出支持的语言列表
- */
-export { supportedLocales };
+// 注意：supportedLocales 不能在布局文件中导出，因为Next.js类型限制
+// 如需使用，请从 src/lib/seo-utils.ts 中的 SUPPORTED_LOCALES 导入

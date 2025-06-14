@@ -2,7 +2,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { supportedLocales } from '../../layout';
+import { SUPPORTED_LOCALES } from '@/lib/seo-utils';
 import { getCanonicalUrl, getTagUrl } from '@/lib/url-utils';
 import { generatePageSEO } from '@/lib/seo-utils';
 
@@ -20,7 +20,7 @@ export default async function LocaleTagPage({ params }: LocaleTagPageProps) {
   const { locale, tag } = await params;
 
   // 验证语言代码
-  if (!supportedLocales.includes(locale)) {
+  if (!SUPPORTED_LOCALES.includes(locale)) {
     notFound();
   }
 

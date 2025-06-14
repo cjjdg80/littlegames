@@ -2,6 +2,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { SITE_CONFIG, DEFAULT_SEO } from "@/lib/seo-utils";
 
 // 配置Geist字体，支持拉丁字符集
 const geistSans = Geist({
@@ -18,6 +19,67 @@ const geistMono = Geist_Mono({
 export const viewport = {
   width: 'device-width',
   initialScale: 1,
+};
+
+// 全局metadata配置，包含metadataBase
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE_CONFIG.url), // 设置基础URL为 https://playbrowserminigames.com
+  title: {
+    default: SITE_CONFIG.name,
+    template: `%s | ${SITE_CONFIG.name}`,
+  },
+  description: SITE_CONFIG.description,
+  keywords: DEFAULT_SEO.keywords,
+  authors: [{ name: SITE_CONFIG.name }],
+  creator: SITE_CONFIG.name,
+  publisher: SITE_CONFIG.name,
+  
+  // Open Graph配置
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: SITE_CONFIG.url,
+    siteName: SITE_CONFIG.name,
+    title: SITE_CONFIG.name,
+    description: SITE_CONFIG.description,
+    images: [
+      {
+        url: SITE_CONFIG.ogImage,
+        width: 1200,
+        height: 630,
+        alt: SITE_CONFIG.name,
+      },
+    ],
+  },
+  
+  // Twitter Card配置
+  twitter: {
+    card: 'summary_large_image',
+    title: SITE_CONFIG.name,
+    description: SITE_CONFIG.description,
+    images: [SITE_CONFIG.ogImage],
+    creator: SITE_CONFIG.twitterHandle,
+  },
+  
+  // 其他SEO配置
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  
+  // 验证标签（预留）
+  verification: {
+    // google: 'your-google-verification-code',
+    // yandex: 'your-yandex-verification-code',
+    // yahoo: 'your-yahoo-verification-code',
+  },
 };
 
 export default function RootLayout({

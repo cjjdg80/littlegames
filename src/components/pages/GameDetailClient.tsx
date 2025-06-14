@@ -79,6 +79,12 @@ function adaptGameForCard(game: Game): GameCardGame {
  */
 function generateIframeSrc(originalSrc: string, gameSlug?: string, gameCategory?: string): string {
   try {
+    // 检查originalSrc是否有效
+    if (!originalSrc || originalSrc === 'undefined' || originalSrc === 'null') {
+      console.error(`Invalid iframe_src for game: ${gameSlug} (${gameCategory}), originalSrc: ${originalSrc}`);
+      return `https://html5.gamedistribution.com/placeholder/?gd_sdk_referrer_url=https://playbrowserminigames.com/games/${gameCategory}/${gameSlug}`;
+    }
+    
     const url = new URL(originalSrc);
     
     // 构建当前页面的referrer URL
@@ -92,8 +98,9 @@ function generateIframeSrc(originalSrc: string, gameSlug?: string, gameCategory?
     
     return url.toString();
   } catch (error) {
-    console.error('Error generating iframe src:', error);
-    return originalSrc;
+    console.error(`Error generating iframe src for game: ${gameSlug} (${gameCategory}), originalSrc: ${originalSrc}`, error);
+    // 返回一个默认的iframe URL作为后备
+    return `https://html5.gamedistribution.com/placeholder/?gd_sdk_referrer_url=https://playbrowserminigames.com/games/${gameCategory}/${gameSlug}`;
   }
 }
 
