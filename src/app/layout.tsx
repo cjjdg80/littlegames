@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { SITE_CONFIG, DEFAULT_SEO } from "@/lib/seo-utils";
+import GoogleAnalytics from "@/components/analytics/GoogleAnalytics";
 
 // 配置Geist字体，支持拉丁字符集
 const geistSans = Geist({
@@ -89,6 +90,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        {/* Google Analytics跟踪代码 - 紧跟在<head>元素之后 */}
+        <GoogleAnalytics />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}
       >
