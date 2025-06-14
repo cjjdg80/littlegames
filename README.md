@@ -144,3 +144,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ for gamers worldwide | © 2025 Play Browser Mini Games
+# Trigger deployment
