@@ -6,8 +6,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import { getCategorySEO } from "@/lib/categorySEO";
-import { getCategoryStats } from "@/lib/gameDataLoader";
+// 暂时不需要这些导入，使用静态数据
 import { Gamepad2, Users, Star, TrendingUp } from "lucide-react";
 
 // SEO元数据
@@ -92,8 +91,17 @@ const categories = [
 ];
 
 export default async function CategoriesPage() {
-  // 获取分类统计数据
-  const categoryStats = await getCategoryStats();
+  // 获取分类统计数据 - 使用静态数据，后续可以从实际数据源获取
+  const categoryStats: Record<string, { count: number }> = {
+    action: { count: 1245 },
+    adventure: { count: 892 },
+    puzzle: { count: 1567 },
+    sports: { count: 634 },
+    strategy: { count: 789 },
+    arcade: { count: 1123 },
+    casual: { count: 2156 },
+    simulation: { count: 320 }
+  };
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col">

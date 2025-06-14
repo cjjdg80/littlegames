@@ -34,8 +34,8 @@ function GameCard({ game }: { game: any }) {
       {/* 游戏图片 */}
       <div className="relative aspect-video overflow-hidden">
         <Image
-          src={game.image_url || "/images/default-game-thumbnail.svg"}
-          alt={game.name}
+          src={game.image || "/images/default-game-thumbnail.svg"}
+          alt={game.title}
           fill
           className="object-cover group-hover:scale-110 transition-transform duration-300"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -60,7 +60,7 @@ function GameCard({ game }: { game: any }) {
       {/* 游戏信息 */}
       <div className="p-4">
         <h3 className="font-semibold text-white group-hover:text-blue-400 transition-colors line-clamp-1 mb-2">
-          {game.name}
+          {game.title}
         </h3>
         <p className="text-gray-400 text-sm line-clamp-2 mb-3">
           {game.description || "Play this exciting new game instantly in your browser!"}

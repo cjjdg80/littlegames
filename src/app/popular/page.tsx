@@ -7,7 +7,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { getFeaturedGamesFromLatest, getAllNewestGames } from "@/lib/gameDataLoader";
 import { adaptGamesForHomePage } from "@/lib/gameDataAdapter";
-import { TrendingUp, Star, Users, Fire, Trophy, Heart } from "lucide-react";
+import { TrendingUp, Star, Users, Flame as Fire, Trophy, Heart } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -59,8 +59,8 @@ function PopularGameCard({ game, rank }: { game: any; rank: number }) {
       {/* 游戏图片 */}
       <div className="relative aspect-video overflow-hidden">
         <Image
-          src={game.image_url || "/images/default-game-thumbnail.svg"}
-          alt={game.name}
+          src={game.image || "/images/default-game-thumbnail.svg"}
+          alt={game.title}
           fill
           className="object-cover group-hover:scale-110 transition-transform duration-300"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -82,7 +82,7 @@ function PopularGameCard({ game, rank }: { game: any; rank: number }) {
       {/* 游戏信息 */}
       <div className="p-4">
         <h3 className="font-semibold text-white group-hover:text-blue-400 transition-colors line-clamp-1 mb-2">
-          {game.name}
+          {game.title}
         </h3>
         <p className="text-gray-400 text-sm line-clamp-2 mb-3">
           {game.description || "One of the most popular games on our platform!"}
