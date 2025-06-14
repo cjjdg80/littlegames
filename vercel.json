@@ -1,8 +1,7 @@
 {
   "version": 2,
   "name": "play-browser-mini-games",
-  "alias": ["playbrowserminigames.com", "www.playbrowserminigames.com"],
-  "regions": ["hnd1", "sfo1", "fra1"],
+    "alias": ["playbrowserminigames.com", "www.playbrowserminigames.com"],
   "build": {
     "env": {
       "NODE_ENV": "production"
