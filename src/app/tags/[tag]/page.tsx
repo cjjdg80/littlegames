@@ -230,9 +230,9 @@ export default async function TagPage({ params, searchParams }: TagPageProps) {
       <nav className="bg-white border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center space-x-2 py-3 text-sm">
-            <a href="/" className="text-blue-600 hover:text-blue-800">Home</a>
+            <a href="/" className="text-blue-600 hover:text-blue-800" target="_blank" rel="noopener noreferrer">Home</a>
             <span className="mx-2 text-gray-400">/</span>
-            <a href="/tags" className="text-blue-600 hover:text-blue-800">Tags</a>
+            <a href="/tags" className="text-blue-600 hover:text-blue-800" target="_blank" rel="noopener noreferrer">Tags</a>
             <span className="mx-2 text-gray-400">/</span>
             <span className="text-gray-600 font-medium">{tagData.displayName}</span>
           </div>
@@ -273,6 +273,8 @@ export default async function TagPage({ params, searchParams }: TagPageProps) {
                     key={relatedTag}
                     href={getTagUrl(relatedTag)}
                     className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800 hover:bg-gray-200 transition-colors"
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     {relatedTag}
                   </a>

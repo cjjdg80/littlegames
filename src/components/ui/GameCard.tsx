@@ -101,8 +101,8 @@ export default function GameCard({
 
   if (viewMode === "list") {
     return (
-      <Link href={gameUrl} className="block">
-        <div className="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer">
+      <Link href={gameUrl} className="block" target="_blank" rel="noopener noreferrer">
+        <div className="bg-gray-800 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer border border-gray-700 hover:border-gray-600">
           <div className="flex gap-4 p-4">
             {/* 缩略图 */}
             <div className={cn(
@@ -118,7 +118,7 @@ export default function GameCard({
                   onError={() => setImageError(true)}
                 />
               ) : (
-                <div className="w-full h-full bg-gray-200 flex items-center justify-center">
+                <div className="w-full h-full bg-gray-700 flex items-center justify-center">
                   <Play className={cn("text-gray-400", isCompact ? "w-4 h-4" : "w-6 h-6")} />
                 </div>
               )}
@@ -148,7 +148,7 @@ export default function GameCard({
             <div className="flex-1">
               <div className="flex items-start justify-between mb-2">
                 <h3 className={cn(
-                  "font-medium text-gray-900 line-clamp-1",
+                  "font-medium text-white line-clamp-1",
                   isCompact ? "text-sm" : "text-base"
                 )}>{gameTitle}</h3>
                 <div className="flex items-center gap-1 text-yellow-500 ml-2 flex-shrink-0">
@@ -158,12 +158,12 @@ export default function GameCard({
               </div>
               
               {!isCompact && gameDescription && (
-                <p className="text-sm text-gray-600 mb-2 line-clamp-2">{gameDescription}</p>
+                <p className="text-sm text-gray-300 mb-2 line-clamp-2">{gameDescription}</p>
               )}
               
               <div className="flex items-center justify-between">
                 <div className={cn(
-                  "flex items-center gap-4 text-gray-500",
+                  "flex items-center gap-4 text-gray-400",
                   isCompact ? "text-xs" : "text-sm"
                 )}>
                   <span className="capitalize">{gameCategory}</span>
@@ -181,7 +181,7 @@ export default function GameCard({
                         onClick={handleFavorite}
                         className={cn(
                           "p-1.5 rounded-full transition-colors",
-                          isFavorited ? "text-red-500 bg-red-50" : "text-gray-400 hover:text-red-500"
+                          isFavorited ? "text-red-500 bg-red-900/30" : "text-gray-400 hover:text-red-500"
                         )}
                         title="Add to favorites"
                       >
@@ -217,10 +217,10 @@ export default function GameCard({
 
   // Grid view (默认)
   return (
-    <Link href={gameUrl} className="block">
+    <Link href={gameUrl} className="block" target="_blank" rel="noopener noreferrer">
       <div 
         className={cn(
-          "bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group",
+          "bg-gray-800 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 cursor-pointer group border border-gray-700 hover:border-gray-600",
           isCompact && "shadow-xs hover:shadow-sm"
         )}
         onMouseEnter={() => setIsHovered(true)}
@@ -239,7 +239,7 @@ export default function GameCard({
               onError={() => setImageError(true)}
             />
           ) : (
-            <div className="w-full h-full bg-gray-200 flex items-center justify-center">
+            <div className="w-full h-full bg-gray-700 flex items-center justify-center">
               <Play className={cn("text-gray-400", isCompact ? "w-6 h-6" : "w-8 h-8")} />
             </div>
           )}
@@ -312,7 +312,7 @@ export default function GameCard({
         )}>
           <div className="flex items-start justify-between mb-2">
             <h3 className={cn(
-              "font-medium text-gray-900 line-clamp-2",
+              "font-medium text-white line-clamp-2",
               isCompact ? "text-sm leading-tight" : "text-base"
             )}>
               {gameTitle}
@@ -325,7 +325,7 @@ export default function GameCard({
           
           <div className="flex items-center justify-between">
             <div className={cn(
-              "flex items-center gap-3 text-gray-500",
+              "flex items-center gap-3 text-gray-400",
               isCompact ? "text-xs" : "text-sm"
             )}>
               <span className="capitalize">{gameCategory}</span>

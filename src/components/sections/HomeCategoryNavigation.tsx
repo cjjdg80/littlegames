@@ -88,7 +88,9 @@ export default function HomeCategoryNavigation({ categories = defaultCategories 
             <Link
               key={category.slug}
               href={`/games/${category.slug}`}
-              className="group bg-gray-700 rounded-lg p-4 hover:bg-gray-600 transition-colors duration-200"
+              className="group block p-6 bg-gray-700 rounded-xl hover:bg-gray-600 transition-all duration-200 hover:shadow-lg hover:shadow-blue-500/10 border border-gray-600"
+              target="_blank" 
+              rel="noopener noreferrer"
             >
               <div className="flex items-center justify-between mb-2">
                 <Gamepad2 className="w-6 h-6 text-blue-400 group-hover:text-blue-300" />
@@ -112,12 +114,13 @@ export default function HomeCategoryNavigation({ categories = defaultCategories 
 
         {/* 查看全部链接 */}
         <div className="text-center mt-8">
-          <Link 
+          <Link
             href="/games"
-            className="inline-flex items-center text-blue-400 hover:text-blue-300 transition-colors"
+            className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+            target="_blank" 
+            rel="noopener noreferrer"
           >
-            View All Categories
-            <ChevronRight className="w-4 h-4 ml-1" />
+            Browse All Games
           </Link>
         </div>
       </div>

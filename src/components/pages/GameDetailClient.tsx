@@ -193,6 +193,8 @@ export default function GameDetailClient({ game, relatedGames, discoverMoreGames
                     key={relatedGame.id} 
                     href={`/games/${relatedGame.category}/${relatedGame.slug}`}
                     className="group"
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     <div className="flex items-center gap-3 p-2 rounded-lg hover:bg-gray-700 transition-colors">
                       <div className="relative w-12 h-12 rounded-lg overflow-hidden flex-shrink-0">
@@ -346,7 +348,7 @@ export default function GameDetailClient({ game, relatedGames, discoverMoreGames
           <div className="grid grid-cols-4 sm:grid-cols-6 lg:grid-cols-8 gap-3">
             {adaptedDiscoverMoreGames.slice(0, 8).map((discoverGame) => (
               <div key={discoverGame.id} className="group">
-                <Link href={`/games/${discoverGame.category}/${discoverGame.slug}`}>
+                <Link href={`/games/${discoverGame.category}/${discoverGame.slug}`} target="_blank" rel="noopener noreferrer">
                   <div className="bg-gray-700 rounded-lg overflow-hidden hover:bg-gray-600 transition-colors">
                     <div className="relative aspect-square">
                       <Image

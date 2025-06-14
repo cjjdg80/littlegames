@@ -48,7 +48,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           {/* Logo和简介 */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex items-center gap-2 mb-4">
+            <Link href="/" className="flex items-center gap-2 mb-4" target="_blank" rel="noopener noreferrer">
               <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center">
                 <Gamepad2 className="w-5 h-5 text-white" />
               </div>
@@ -75,6 +75,8 @@ export default function Footer() {
                   <Link
                     href={link.href}
                     className="text-gray-400 hover:text-white text-sm transition-colors"
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     {link.label}
                   </Link>
@@ -92,6 +94,8 @@ export default function Footer() {
                   <Link
                     href={link.href}
                     className="text-gray-400 hover:text-white text-sm transition-colors"
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     {link.label}
                   </Link>
@@ -109,6 +113,8 @@ export default function Footer() {
                   <Link
                     href={link.href}
                     className="text-gray-400 hover:text-white text-sm transition-colors"
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     {link.label}
                   </Link>
@@ -126,6 +132,8 @@ export default function Footer() {
                   <Link
                     href={link.href}
                     className="text-gray-400 hover:text-white text-sm transition-colors"
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     {link.label}
                   </Link>

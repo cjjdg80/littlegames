@@ -70,6 +70,8 @@ export default function Breadcrumb({ items, className = '' }: BreadcrumbProps) {
                     <Link
                       href={item.url}
                       className="text-sm font-medium text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition-colors duration-200"
+                      target="_blank" 
+                      rel="noopener noreferrer"
                     >
                       {item.name}
                     </Link>
@@ -156,6 +158,8 @@ export function SimpleBreadcrumb({ items, className = '' }: BreadcrumbProps) {
                 <Link
                   href={item.url}
                   className="text-blue-600 hover:text-blue-800 transition-colors duration-200"
+                  target="_blank" 
+                  rel="noopener noreferrer"
                 >
                   {item.name}
                 </Link>

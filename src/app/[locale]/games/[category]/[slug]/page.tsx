@@ -44,7 +44,7 @@ export default async function LocaleGamePage({ params }: LocaleGamePageProps) {
         {breadcrumbs.map((crumb, index) => (
           <span key={index}>
             {index > 0 && ' > '}
-            <a href={crumb.url}>{crumb.name}</a>
+            <a href={crumb.url} target="_blank" rel="noopener noreferrer">{crumb.name}</a>
           </span>
         ))}
       </nav>

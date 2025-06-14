@@ -54,15 +54,19 @@ export default function HeroSection({ gameCount = 9900, userCount = "12.5K" }: H
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link
               href="/games"
-              className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center gap-2"
+              className="inline-flex items-center px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors transform hover:scale-105 duration-200 shadow-lg"
+              target="_blank" 
+              rel="noopener noreferrer"
             >
-              <Play className="w-5 h-5" />
+              <Play className="w-5 h-5 mr-2" />
               Start Playing Now
             </Link>
             
             <Link
               href="/popular"
               className="bg-transparent border-2 border-gray-600 hover:border-white text-gray-300 hover:text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-200 flex items-center gap-2"
+              target="_blank" 
+              rel="noopener noreferrer"
             >
               <Star className="w-5 h-5" />
               Popular Games

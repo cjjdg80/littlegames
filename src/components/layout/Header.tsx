@@ -20,7 +20,7 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Logo区域 */}
-          <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
+          <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity" target="_blank" rel="noopener noreferrer">
             <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center">
               <Gamepad2 className="w-5 h-5 text-white" />
             </div>
@@ -32,16 +32,16 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
 
           {/* 桌面端导航链接 */}
           <nav className="hidden md:flex items-center gap-6">
-            <Link href="/games" className="text-gray-300 hover:text-white transition-colors">
+            <Link href="/games" className="text-gray-300 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
               Games
             </Link>
-            <Link href="/categories" className="text-gray-300 hover:text-white transition-colors">
+            <Link href="/categories" className="text-gray-300 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
               Categories
             </Link>
-            <Link href="/new" className="text-gray-300 hover:text-white transition-colors">
+            <Link href="/new" className="text-gray-300 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
               New Games
             </Link>
-            <Link href="/popular" className="text-gray-300 hover:text-white transition-colors">
+            <Link href="/popular" className="text-gray-300 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
               Popular
             </Link>
           </nav>
@@ -58,6 +58,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
             <Link 
               href="/leaderboard"
               className="hidden sm:flex items-center gap-2 px-3 py-2 border border-gray-600 rounded-lg text-sm hover:bg-gray-800 text-gray-300 transition-colors"
+              target="_blank" 
+              rel="noopener noreferrer"
             >
               <Trophy className="w-4 h-4" />
               Leaderboard
@@ -95,6 +97,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
                 href="/games" 
                 className="text-gray-300 hover:text-white transition-colors"
                 onClick={() => setIsMenuOpen(false)}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 Games
               </Link>
@@ -102,6 +106,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
                 href="/categories" 
                 className="text-gray-300 hover:text-white transition-colors"
                 onClick={() => setIsMenuOpen(false)}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 Categories
               </Link>
@@ -109,6 +115,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
                 href="/new" 
                 className="text-gray-300 hover:text-white transition-colors"
                 onClick={() => setIsMenuOpen(false)}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 New Games
               </Link>
@@ -116,6 +124,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
                 href="/popular" 
                 className="text-gray-300 hover:text-white transition-colors"
                 onClick={() => setIsMenuOpen(false)}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 Popular
               </Link>
@@ -123,6 +133,8 @@ export default function Header({ searchQuery = "", onSearchChange }: HeaderProps
                 href="/leaderboard" 
                 className="flex items-center gap-2 text-gray-300 hover:text-white transition-colors"
                 onClick={() => setIsMenuOpen(false)}
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 <Trophy className="w-4 h-4" />
                 Leaderboard

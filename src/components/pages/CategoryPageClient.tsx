@@ -237,7 +237,7 @@ export default function CategoryPageClient({
                 {crumb.current ? (
                   <span className="text-gray-300 font-medium">{crumb.label}</span>
                 ) : (
-                  <a href={crumb.href} className="text-blue-400 hover:text-blue-300">
+                  <a href={crumb.href} className="text-blue-400 hover:text-blue-300" target="_blank" rel="noopener noreferrer">
                     {crumb.label}
                   </a>
                 )}

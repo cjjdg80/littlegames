@@ -202,7 +202,7 @@ export default async function GamesOverviewPage() {
         <nav className="bg-gray-800 border-b border-gray-700">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center space-x-2 py-3 text-sm">
-              <Link href="/" className="text-blue-400 hover:text-blue-300">
+              <Link href="/" className="text-blue-400 hover:text-blue-300" target="_blank" rel="noopener noreferrer">
                 Home
               </Link>
               <span className="mx-2 text-gray-500">/</span>
@@ -255,32 +255,36 @@ export default async function GamesOverviewPage() {
                 <Link
                   key={category.slug}
                   href={`/games/${category.slug}`}
-                  className="group bg-gray-800 rounded-xl p-6 hover:bg-gray-700 transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-700 hover:border-gray-600"
+                  className="group block h-full"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
-                  {/* 分类图标 */}
-                  <div className="flex items-center justify-between mb-4">
-                    <div className="text-3xl">{category.icon}</div>
-                    <ChevronRight className="w-5 h-5 text-gray-500 group-hover:text-blue-400 transition-colors" />
-                  </div>
+                  <div className="bg-gray-800 rounded-xl p-6 hover:bg-gray-700 transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-700 hover:border-gray-600 h-full">
+                    {/* 分类图标 */}
+                    <div className="flex items-center justify-between mb-4">
+                      <div className="text-3xl">{category.icon}</div>
+                      <ChevronRight className="w-5 h-5 text-gray-500 group-hover:text-blue-400 transition-colors" />
+                    </div>
 
-                  {/* 分类信息 */}
-                  <div className="mb-4">
-                    <h3 className="text-xl font-bold text-white mb-2 group-hover:text-blue-300 transition-colors">
-                      {category.name}
-                    </h3>
-                    <p className="text-gray-400 text-sm leading-relaxed group-hover:text-gray-300 transition-colors">
-                      {category.description}
-                    </p>
-                  </div>
+                    {/* 分类信息 */}
+                    <div className="mb-4">
+                      <h3 className="text-xl font-bold text-white mb-2 group-hover:text-blue-300 transition-colors">
+                        {category.name}
+                      </h3>
+                      <p className="text-gray-400 text-sm leading-relaxed group-hover:text-gray-300 transition-colors">
+                        {category.description}
+                      </p>
+                    </div>
 
-                  {/* 游戏数量 */}
-                  <div className="flex items-center justify-between">
-                    <span className="text-sm text-gray-500 group-hover:text-gray-400 transition-colors">
-                      {category.gameCount.toLocaleString()}+ games
-                    </span>
-                    <div className="flex items-center text-blue-400 group-hover:text-blue-300 transition-colors">
-                      <Gamepad2 className="w-4 h-4 mr-1" />
-                      <span className="text-sm font-medium">Play Now</span>
+                    {/* 游戏数量 */}
+                    <div className="flex items-center justify-between">
+                      <span className="text-sm text-gray-500 group-hover:text-gray-400 transition-colors">
+                        {category.gameCount.toLocaleString()}+ games
+                      </span>
+                      <div className="flex items-center text-blue-400 group-hover:text-blue-300 transition-colors">
+                        <Gamepad2 className="w-4 h-4 mr-1" />
+                        <span className="text-sm font-medium">Play Now</span>
+                      </div>
                     </div>
                   </div>
                 </Link>
@@ -300,6 +304,8 @@ export default async function GamesOverviewPage() {
               <Link
                 href="/"
                 className="inline-flex items-center bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors"
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 <Gamepad2 className="w-5 h-5 mr-2" />
                 Start Playing Now

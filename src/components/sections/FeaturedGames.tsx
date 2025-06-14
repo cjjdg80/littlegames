@@ -5,7 +5,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { Star } from "lucide-react";
+import { Star, ChevronRight } from "lucide-react";
 import GameCard from "@/components/ui/GameCard";
 
 interface Game {
@@ -38,16 +38,15 @@ export default function FeaturedGames({
     <section className="py-8">
       <div className="max-w-7xl mx-auto px-4">
         {/* 标题区域 */}
-        <div className="flex items-center justify-between mb-6">
-          <div className="flex items-center gap-2">
-            <Star className="w-5 h-5 text-yellow-500 fill-current" />
-            <h2 className="text-xl font-semibold text-white">Featured Games</h2>
-          </div>
-          <Link 
-            href="/games/featured" 
-            className="text-blue-400 hover:text-blue-300 text-sm font-medium transition-colors"
+        <div className="flex justify-between items-center mb-6">
+          <h2 className="text-2xl font-bold text-white">Featured Games</h2>
+          <Link
+            href="/games/featured"
+            className="text-blue-400 hover:text-blue-300 transition-colors flex items-center gap-1"
+            target="_blank" 
+            rel="noopener noreferrer"
           >
-            View All Featured Games →
+            View All <ChevronRight className="w-4 h-4" />
           </Link>
         </div>
 

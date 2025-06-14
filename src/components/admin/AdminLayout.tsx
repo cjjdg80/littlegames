@@ -100,6 +100,8 @@ export default function AdminLayout({ children, onLogout }: AdminLayoutProps) {
                         : 'text-gray-300 hover:bg-gray-700 hover:text-white'
                       }
                     `}
+                    target="_blank" 
+                    rel="noopener noreferrer"
                   >
                     <item.icon className="w-5 h-5 mr-3 flex-shrink-0" />
                     <div className="min-w-0">
@@ -144,6 +146,8 @@ export default function AdminLayout({ children, onLogout }: AdminLayoutProps) {
               <Link 
                 href="/" 
                 className="text-gray-400 hover:text-white flex items-center flex-shrink-0"
+                target="_blank" 
+                rel="noopener noreferrer"
               >
                 <ChevronLeft className="w-4 h-4 mr-1" />
                 返回网站
