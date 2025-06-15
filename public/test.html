@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Test - Play Browser Mini Games</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #1a1a1a;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            width: 100%;
+            text-align: center;
+        }
+        
+        h1 {
+            color: #4ade80;
+            margin-bottom: 20px;
+        }
+        
+        .game-container {
+            background: #2a2a2a;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        
+        iframe {
+            border-radius: 8px;
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .info {
+            background: #333;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: left;
+        }
+        
+        .back-link {
+            display: inline-block;
+            background: #4ade80;
+            color: #1a1a1a;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 6px;
+            margin-top: 20px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        
+        .back-link:hover {
+            background: #22c55e;
+        }
+        
+        @media (max-width: 768px) {
+            iframe {
+                width: 100%;
+                height: 400px;
+            }
+            
+            .container {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 游戏测试页面</h1>
+        
+        <div class="game-container">
+            <h2>测试游戏加载</h2>
+            <iframe 
+                src="https://html5.gamedistribution.com/d632553ef7264d99aa438310073a6dc3/?gd_sdk_referrer_url=https://playbrowserminigames.com" 
+                width="800" 
+                height="600" 
+                scrolling="none" 
+                frameborder="0"
+                allowfullscreen>
+            </iframe>
+        </div>
+        
+        <div class="info">
+            <h3>📋 测试信息</h3>
+            <p><strong>游戏ID:</strong> d632553ef7264d99aa438310073a6dc3</p>
+            <p><strong>来源URL:</strong> https://playbrowserminigames.com</p>
+            <p><strong>iframe尺寸:</strong> 800x600</p>
+            <p><strong>测试目的:</strong> 验证游戏是否能正常加载和运行</p>
+            <p><strong>访问地址:</strong> <a href="https://playbrowserminigames.com/test.html" target="_blank" style="color: #4ade80;">https://playbrowserminigames.com/test.html</a></p>
+        </div>
+        
+        <a href="/" class="back-link">← 返回首页</a>
+    </div>
+    
+    <script>
+        // 简单的错误监听
+        window.addEventListener('error', function(e) {
+            console.error('页面错误:', e.error);
+        });
+        
+        // iframe加载监听
+        document.querySelector('iframe').addEventListener('load', function() {
+            console.log('✅ iframe加载完成');
+        });
+        
+        document.querySelector('iframe').addEventListener('error', function() {
+            console.error('❌ iframe加载失败');
+        });
+        
+        // 显示当前时间
+        console.log('🕒 测试页面加载时间:', new Date().toLocaleString());
+    </script>
+</body>
+</html> 
