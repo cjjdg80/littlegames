@@ -38,8 +38,11 @@
         
         iframe {
             border-radius: 8px;
+            width: 800px;
+            height: 600px;
             max-width: 100%;
-            height: auto;
+            display: block;
+            margin: 0 auto;
         }
         
         .info {
@@ -66,14 +69,21 @@
             background: #22c55e;
         }
         
-        @media (max-width: 768px) {
+        @media (max-width: 900px) {
             iframe {
-                width: 100%;
-                height: 400px;
+                width: 100% !important;
+                height: 450px !important;
             }
             
             .container {
                 padding: 10px;
+            }
+        }
+        
+        @media (max-width: 600px) {
+            iframe {
+                width: 100% !important;
+                height: 350px !important;
             }
         }
     </style>
