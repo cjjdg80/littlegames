@@ -1,0 +1,35 @@
+{
+  "title": "Tomb Escaper - Play Free Online Casual Game",
+  "description": "Relax and have fun with Tomb Escaper! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/tomb-escaper",
+  "openGraph": {
+    "title": "Tomb Escaper - Free Online Game",
+    "description": "Relax and have fun with Tomb Escaper! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/ds2heii3l2c33s49adyu4p7bw38ws8mh/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/tomb-escaper"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Tomb Escaper - Free Online Game",
+    "description": "Relax and have fun with Tomb Escaper! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/ds2heii3l2c33s49adyu4p7bw38ws8mh/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Tomb Escaper",
+    "description": "Relax and have fun with Tomb Escaper! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/ds2heii3l2c33s49adyu4p7bw38ws8mh/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/tomb-escaper",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

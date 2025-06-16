@@ -1,0 +1,35 @@
+{
+  "title": "Candy Match Sagas 2 - Play Free Online Puzzle Game",
+  "description": "Challenge your mind with Candy Match Sagas 2! Solve clever puzzles and test your problem-solving skills.",
+  "keywords": "brain, puzzle, browser game, logic, thinking, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/puzzle/candy-match-sagas-2",
+  "openGraph": {
+    "title": "Candy Match Sagas 2 - Free Online Game",
+    "description": "Challenge your mind with Candy Match Sagas 2! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/o2bv4nu33660pv8v0zgh4u1zzw6eylge/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/puzzle/candy-match-sagas-2"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Candy Match Sagas 2 - Free Online Game",
+    "description": "Challenge your mind with Candy Match Sagas 2! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/o2bv4nu33660pv8v0zgh4u1zzw6eylge/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Candy Match Sagas 2",
+    "description": "Challenge your mind with Candy Match Sagas 2! Solve clever puzzles and test your problem-solving skills.",
+    "image": "https://img.gamemonetize.com/o2bv4nu33660pv8v0zgh4u1zzw6eylge/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/puzzle/candy-match-sagas-2",
+    "genre": "Puzzle",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

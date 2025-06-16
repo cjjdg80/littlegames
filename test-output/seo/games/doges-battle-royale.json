@@ -1,54 +1,35 @@
 {
-  "gameId": 9806,
-  "slug": "doges-battle-royale",
-  "metadata": {
-    "title": "Action Game Doge's Battle Royale - Play Free Now",
-    "description": "Experience thrilling action in Doge's Battle Royale! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-    "keywords": [
-      "Doge's Battle Royale online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "Doges Battle Royale - Play Free Online Action Game",
+  "description": "Experience thrilling action in Doges Battle Royale! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+  "keywords": "browser game, shooting, action, fighting, combat, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/action/doges-battle-royale",
+  "openGraph": {
+    "title": "Doges Battle Royale - Free Online Game",
+    "description": "Experience thrilling action in Doges Battle Royale! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/xoizh6if2cufeb2hyt7wswprisj25o4h/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/doges-battle-royale",
-    "openGraph": {
-      "title": "Action Game Doge's Battle Royale - Play Free Now",
-      "description": "Experience thrilling action in Doge's Battle Royale! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-      "image": "https://img.gamedistribution.com/f7106e2740504e31be69410a12304172-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/doges-battle-royale",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game Doge's Battle Royale - Play Free Now",
-      "description": "Experience thrilling action in Doge's Battle Royale! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/f7106e2740504e31be69410a12304172-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/action/doges-battle-royale"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Doge's Battle Royale",
-      "href": "/games/doges-battle-royale",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_992",
-    "customDescription": "Includes dynamic environments and smooth controls",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Doges Battle Royale - Free Online Game",
+    "description": "Experience thrilling action in Doges Battle Royale! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/xoizh6if2cufeb2hyt7wswprisj25o4h/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Doges Battle Royale",
+    "description": "Experience thrilling action in Doges Battle Royale! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "image": "https://img.gamemonetize.com/xoizh6if2cufeb2hyt7wswprisj25o4h/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/action/doges-battle-royale",
+    "genre": "Action",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

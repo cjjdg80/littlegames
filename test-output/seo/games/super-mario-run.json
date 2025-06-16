@@ -1,0 +1,35 @@
+{
+  "title": "Super Mario Run - Play Free Online Casual Game",
+  "description": "Relax and have fun with Super Mario Run! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/super-mario-run",
+  "openGraph": {
+    "title": "Super Mario Run - Free Online Game",
+    "description": "Relax and have fun with Super Mario Run! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/pooszvaulpq40v81v8z3cfdpzau4hro6/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/super-mario-run"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Super Mario Run - Free Online Game",
+    "description": "Relax and have fun with Super Mario Run! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/pooszvaulpq40v81v8z3cfdpzau4hro6/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Super Mario Run",
+    "description": "Relax and have fun with Super Mario Run! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/pooszvaulpq40v81v8z3cfdpzau4hro6/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/super-mario-run",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

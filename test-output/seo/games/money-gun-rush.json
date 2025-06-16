@@ -1,0 +1,35 @@
+{
+  "title": "Money Gun Rush - Play Free Online Casual Game",
+  "description": "Relax and have fun with Money Gun Rush! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/money-gun-rush",
+  "openGraph": {
+    "title": "Money Gun Rush - Free Online Game",
+    "description": "Relax and have fun with Money Gun Rush! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/0wjwmk4e5iuyblfr9ycaqnkaqkhpe8n9/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/money-gun-rush"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Money Gun Rush - Free Online Game",
+    "description": "Relax and have fun with Money Gun Rush! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/0wjwmk4e5iuyblfr9ycaqnkaqkhpe8n9/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Money Gun Rush",
+    "description": "Relax and have fun with Money Gun Rush! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/0wjwmk4e5iuyblfr9ycaqnkaqkhpe8n9/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/money-gun-rush",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

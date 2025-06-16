@@ -150,8 +150,19 @@ export default async function GamePage({
   params: Promise<{ category: string; slug: string }>;
 }) {
   const resolvedParams = await params;
-  // 获取游戏数据
-  const game = await getGameBySlug(resolvedParams.category, resolvedParams.slug);
+  
+  // 从latest-200-games.json中查找游戏数据
+  const fs = require("fs");
+  const path = require("path");
+  
+  let game = null;
+  try {
+    const latest200Path = path.join(process.cwd(), "src/data/latest-200-games.json");
+    const latest200Games = JSON.parse(fs.readFileSync(latest200Path, "utf-8"));
+    game = latest200Games.find((g: any) => g.slug === resolvedParams.slug && g.primary_category === resolvedParams.category);
+  } catch (error) {
+    console.error('Error loading game data:', error);
+  }
   
   if (!game) {
     notFound();
@@ -180,24 +191,24 @@ export default async function GamePage({
 
   // 转换Game类型以适配GameDetailClient组件
   const adaptedGame = {
-    id: game.id,
-    title: typeof game.title === 'string' ? game.title : game.title.en,
-    primary_category: (game as any).primary_category || game.category,
+    id: game.id.toString(),
+    title: game.title,
+    primary_category: game.primary_category,
     thumbnail: game.thumbnail,
-    description: typeof game.description === 'string' ? game.description : game.description.en,
-    instructions: typeof game.instructions === 'string' ? game.instructions : game.instructions?.en,
-    iframe_src: (game as any).iframe_src || game.iframe?.src,
-    iframe_width: (game as any).iframe_width || game.iframe?.width || 800,
-    iframe_height: (game as any).iframe_height || game.iframe?.height || 600,
-    tags: game.tags,
-    featured: game.featured,
+    description: game.description,
+    instructions: game.instructions || '',
+    iframe_src: game.iframe_src,
+    iframe_width: game.iframe_width || 800,
+    iframe_height: game.iframe_height || 600,
+    tags: game.tags || [],
+    featured: game.featured || false,
     slug: game.slug
   };
 
   const adaptedRelatedGames = relatedGames.map((relatedGame: any) => ({
-    id: relatedGame.id,
-    title: typeof relatedGame.title === 'string' ? relatedGame.title : relatedGame.title,
-    primary_category: (relatedGame as any).primary_category || relatedGame.primary_category,
+    id: relatedGame.id.toString(),
+    title: relatedGame.title,
+    primary_category: relatedGame.primary_category,
     thumbnail: relatedGame.thumbnail,
     description: typeof relatedGame.description === 'string' ? relatedGame.description : relatedGame.description,
     instructions: typeof relatedGame.instructions === 'string' ? relatedGame.instructions : relatedGame.instructions,

@@ -1,0 +1,35 @@
+{
+  "title": "Santa Dash - Play Free Online Casual Game",
+  "description": "Relax and have fun with Santa Dash! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/santa-dash",
+  "openGraph": {
+    "title": "Santa Dash - Free Online Game",
+    "description": "Relax and have fun with Santa Dash! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/rknengrq9tntzjn84bsav8hlq1x2o50t/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/santa-dash"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Santa Dash - Free Online Game",
+    "description": "Relax and have fun with Santa Dash! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/rknengrq9tntzjn84bsav8hlq1x2o50t/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Santa Dash",
+    "description": "Relax and have fun with Santa Dash! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/rknengrq9tntzjn84bsav8hlq1x2o50t/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/santa-dash",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

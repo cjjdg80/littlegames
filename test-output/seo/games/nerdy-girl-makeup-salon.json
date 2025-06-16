@@ -1,0 +1,35 @@
+{
+  "title": "Nerdy Girl Makeup Salon - Play Free Online Casual Game",
+  "description": "Relax and have fun with Nerdy Girl Makeup Salon! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/nerdy-girl-makeup-salon",
+  "openGraph": {
+    "title": "Nerdy Girl Makeup Salon - Free Online Game",
+    "description": "Relax and have fun with Nerdy Girl Makeup Salon! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/uawlb6auc3jgnr8r8zmxscqoitvnjuva/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/nerdy-girl-makeup-salon"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Nerdy Girl Makeup Salon - Free Online Game",
+    "description": "Relax and have fun with Nerdy Girl Makeup Salon! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/uawlb6auc3jgnr8r8zmxscqoitvnjuva/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Nerdy Girl Makeup Salon",
+    "description": "Relax and have fun with Nerdy Girl Makeup Salon! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/uawlb6auc3jgnr8r8zmxscqoitvnjuva/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/nerdy-girl-makeup-salon",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

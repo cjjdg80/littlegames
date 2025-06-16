@@ -1,54 +1,35 @@
 {
-  "gameId": 8967,
-  "slug": "holiday-hex-sort",
-  "metadata": {
-    "title": "Action Game Holiday Hex Sort - Play Free Now",
-    "description": "Dive into the action-packed world of Holiday Hex Sort. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
-    "keywords": [
-      "action games",
-      "Holiday Hex Sort",
-      "free online games",
-      "casual games"
+  "title": "Holiday Hex Sort - Play Free Online Casual Game",
+  "description": "Relax and have fun with Holiday Hex Sort! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/holiday-hex-sort",
+  "openGraph": {
+    "title": "Holiday Hex Sort - Free Online Game",
+    "description": "Relax and have fun with Holiday Hex Sort! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/twq47apmwo98gqxz06j4ayvycngyijdy/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/holiday-hex-sort",
-    "openGraph": {
-      "title": "Action Game Holiday Hex Sort - Play Free Now",
-      "description": "Dive into the action-packed world of Holiday Hex Sort. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
-      "image": "https://img.gamedistribution.com/301305d77df24f82a9d274671b470784-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/holiday-hex-sort",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game Holiday Hex Sort - Play Free Now",
-      "description": "Dive into the action-packed world of Holiday Hex Sort. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
-      "image": "https://img.gamedistribution.com/301305d77df24f82a9d274671b470784-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/holiday-hex-sort"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Holiday Hex Sort",
-      "href": "/games/holiday-hex-sort",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_983",
-    "customDescription": "Delivers fast-paced action and stunning visuals",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for competitive players"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Holiday Hex Sort - Free Online Game",
+    "description": "Relax and have fun with Holiday Hex Sort! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/twq47apmwo98gqxz06j4ayvycngyijdy/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Holiday Hex Sort",
+    "description": "Relax and have fun with Holiday Hex Sort! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/twq47apmwo98gqxz06j4ayvycngyijdy/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/holiday-hex-sort",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

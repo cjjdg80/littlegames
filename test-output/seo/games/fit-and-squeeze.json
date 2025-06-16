@@ -1,0 +1,35 @@
+{
+  "title": "Fit And Squeeze - Play Free Online Casual Game",
+  "description": "Relax and have fun with Fit And Squeeze! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/fit-and-squeeze",
+  "openGraph": {
+    "title": "Fit And Squeeze - Free Online Game",
+    "description": "Relax and have fun with Fit And Squeeze! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/1iaunc2hoz5s75vbb0zfrymoh6mhf7wg/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/fit-and-squeeze"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Fit And Squeeze - Free Online Game",
+    "description": "Relax and have fun with Fit And Squeeze! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/1iaunc2hoz5s75vbb0zfrymoh6mhf7wg/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Fit And Squeeze",
+    "description": "Relax and have fun with Fit And Squeeze! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/1iaunc2hoz5s75vbb0zfrymoh6mhf7wg/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/fit-and-squeeze",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

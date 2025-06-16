@@ -1,0 +1,35 @@
+{
+  "title": "Romantic Bridal Salon - Play Free Online Casual Game",
+  "description": "Relax and have fun with Romantic Bridal Salon! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/romantic-bridal-salon",
+  "openGraph": {
+    "title": "Romantic Bridal Salon - Free Online Game",
+    "description": "Relax and have fun with Romantic Bridal Salon! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/fkjyj703d5a6nyhd8wos2jjylhmsmz4c/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/romantic-bridal-salon"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Romantic Bridal Salon - Free Online Game",
+    "description": "Relax and have fun with Romantic Bridal Salon! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/fkjyj703d5a6nyhd8wos2jjylhmsmz4c/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Romantic Bridal Salon",
+    "description": "Relax and have fun with Romantic Bridal Salon! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/fkjyj703d5a6nyhd8wos2jjylhmsmz4c/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/romantic-bridal-salon",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

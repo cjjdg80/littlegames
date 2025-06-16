@@ -1,0 +1,35 @@
+{
+  "title": "Christmas Spot differences - Play Free Online Casual Game",
+  "description": "Relax and have fun with Christmas Spot differences! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/christmas-spot-differences",
+  "openGraph": {
+    "title": "Christmas Spot differences - Free Online Game",
+    "description": "Relax and have fun with Christmas Spot differences! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/hax4sf4gh0h9x1geblco3u3u99i3lnvc/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/christmas-spot-differences"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Christmas Spot differences - Free Online Game",
+    "description": "Relax and have fun with Christmas Spot differences! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/hax4sf4gh0h9x1geblco3u3u99i3lnvc/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Christmas Spot differences",
+    "description": "Relax and have fun with Christmas Spot differences! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/hax4sf4gh0h9x1geblco3u3u99i3lnvc/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/christmas-spot-differences",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

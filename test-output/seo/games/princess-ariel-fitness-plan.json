@@ -1,0 +1,35 @@
+{
+  "title": "Princess Ariel Fitness Plan - Play Free Online Casual Game",
+  "description": "Relax and have fun with Princess Ariel Fitness Plan! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/princess-ariel-fitness-plan",
+  "openGraph": {
+    "title": "Princess Ariel Fitness Plan - Free Online Game",
+    "description": "Relax and have fun with Princess Ariel Fitness Plan! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/mmlomn5d8uiqnu7x51js0w9soxphvxl6/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/princess-ariel-fitness-plan"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Princess Ariel Fitness Plan - Free Online Game",
+    "description": "Relax and have fun with Princess Ariel Fitness Plan! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/mmlomn5d8uiqnu7x51js0w9soxphvxl6/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Princess Ariel Fitness Plan",
+    "description": "Relax and have fun with Princess Ariel Fitness Plan! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/mmlomn5d8uiqnu7x51js0w9soxphvxl6/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/princess-ariel-fitness-plan",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

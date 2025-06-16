@@ -1,54 +1,35 @@
 {
-  "gameId": 9674,
-  "slug": "rollance-going-balls",
-  "metadata": {
-    "title": "Free Rollance Going Balls Game - Action Packed Fun",
-    "description": "Dive into the action-packed world of Rollance Going Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
-    "keywords": [
-      "Rollance Going Balls game",
-      "action adventure",
-      "free browser games",
-      "online gaming"
+  "title": "Rollance Going Balls - Play Free Online Casual Game",
+  "description": "Relax and have fun with Rollance Going Balls! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/rollance-going-balls",
+  "openGraph": {
+    "title": "Rollance Going Balls - Free Online Game",
+    "description": "Relax and have fun with Rollance Going Balls! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/jar8i1jwd21n874enkjd3rmdcvkmm763/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/rollance-going-balls",
-    "openGraph": {
-      "title": "Free Rollance Going Balls Game - Action Packed Fun",
-      "description": "Dive into the action-packed world of Rollance Going Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for...",
-      "image": "https://img.gamedistribution.com/c11215065b6a464a82fc73116fd70fb9-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/rollance-going-balls",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Free Rollance Going Balls Game - Action Packed Fun",
-      "description": "Dive into the action-packed world of Rollance Going Balls. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
-      "image": "https://img.gamedistribution.com/c11215065b6a464a82fc73116fd70fb9-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/rollance-going-balls"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Rollance Going Balls",
-      "href": "/games/rollance-going-balls",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_900",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Rollance Going Balls - Free Online Game",
+    "description": "Relax and have fun with Rollance Going Balls! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/jar8i1jwd21n874enkjd3rmdcvkmm763/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Rollance Going Balls",
+    "description": "Relax and have fun with Rollance Going Balls! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/jar8i1jwd21n874enkjd3rmdcvkmm763/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/rollance-going-balls",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

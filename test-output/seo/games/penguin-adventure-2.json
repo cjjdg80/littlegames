@@ -1,0 +1,35 @@
+{
+  "title": "Penguin Adventure 2 - Play Free Online Adventure Game",
+  "description": "Embark on an epic adventure in Penguin Adventure 2! Explore mysterious worlds and solve challenging puzzles.",
+  "keywords": "exploration, browser game, adventure, quest, story, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/adventure/penguin-adventure-2",
+  "openGraph": {
+    "title": "Penguin Adventure 2 - Free Online Game",
+    "description": "Embark on an epic adventure in Penguin Adventure 2! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/0moizrof18ozv73qcg41djoene3rpfcq/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/adventure/penguin-adventure-2"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Penguin Adventure 2 - Free Online Game",
+    "description": "Embark on an epic adventure in Penguin Adventure 2! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/0moizrof18ozv73qcg41djoene3rpfcq/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Penguin Adventure 2",
+    "description": "Embark on an epic adventure in Penguin Adventure 2! Explore mysterious worlds and solve challenging puzzles.",
+    "image": "https://img.gamemonetize.com/0moizrof18ozv73qcg41djoene3rpfcq/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/adventure/penguin-adventure-2",
+    "genre": "Adventure",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Voice Of The Soul - Play Free Online Casual Game",
+  "description": "Relax and have fun with Voice Of The Soul! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/voice-of-the-soul",
+  "openGraph": {
+    "title": "Voice Of The Soul - Free Online Game",
+    "description": "Relax and have fun with Voice Of The Soul! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/w07a9a1t3kt7xoh747zcgawbhr8i7y0s/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/voice-of-the-soul"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Voice Of The Soul - Free Online Game",
+    "description": "Relax and have fun with Voice Of The Soul! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/w07a9a1t3kt7xoh747zcgawbhr8i7y0s/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Voice Of The Soul",
+    "description": "Relax and have fun with Voice Of The Soul! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/w07a9a1t3kt7xoh747zcgawbhr8i7y0s/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/voice-of-the-soul",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

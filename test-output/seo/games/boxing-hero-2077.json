@@ -1,0 +1,35 @@
+{
+  "title": "Boxing Hero 2077 - Play Free Online Casual Game",
+  "description": "Relax and have fun with Boxing Hero 2077! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/boxing-hero-2077",
+  "openGraph": {
+    "title": "Boxing Hero 2077 - Free Online Game",
+    "description": "Relax and have fun with Boxing Hero 2077! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/kifi3s13rqi1mbjwr0jis6xunf3phv12/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/boxing-hero-2077"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Boxing Hero 2077 - Free Online Game",
+    "description": "Relax and have fun with Boxing Hero 2077! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/kifi3s13rqi1mbjwr0jis6xunf3phv12/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Boxing Hero 2077",
+    "description": "Relax and have fun with Boxing Hero 2077! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/kifi3s13rqi1mbjwr0jis6xunf3phv12/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/boxing-hero-2077",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

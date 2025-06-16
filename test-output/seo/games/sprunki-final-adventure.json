@@ -1,0 +1,35 @@
+{
+  "title": "Sprunki Final Adventure - Play Free Online Adventure Game",
+  "description": "Embark on an epic adventure in Sprunki Final Adventure! Explore mysterious worlds and solve challenging puzzles.",
+  "keywords": "exploration, browser game, adventure, quest, story, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/adventure/sprunki-final-adventure",
+  "openGraph": {
+    "title": "Sprunki Final Adventure - Free Online Game",
+    "description": "Embark on an epic adventure in Sprunki Final Adventure! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/pi59ob2e68whmfav5unp04fvph7m2dtq/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/adventure/sprunki-final-adventure"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Sprunki Final Adventure - Free Online Game",
+    "description": "Embark on an epic adventure in Sprunki Final Adventure! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/pi59ob2e68whmfav5unp04fvph7m2dtq/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Sprunki Final Adventure",
+    "description": "Embark on an epic adventure in Sprunki Final Adventure! Explore mysterious worlds and solve challenging puzzles.",
+    "image": "https://img.gamemonetize.com/pi59ob2e68whmfav5unp04fvph7m2dtq/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/adventure/sprunki-final-adventure",
+    "genre": "Adventure",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,54 +1,35 @@
 {
-  "gameId": 9017,
-  "slug": "fidget-trading-card-toy",
-  "metadata": {
-    "title": "Action Game Fidget Trading Card Toy - Play Free Now",
-    "description": "Experience thrilling action in Fidget Trading Card Toy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-    "keywords": [
-      "action games",
-      "Fidget Trading Card Toy",
-      "free online games",
-      "arcade games"
+  "title": "Fidget Trading Card Toy - Play Free Online Sports Game",
+  "description": "Compete and win in Fidget Trading Card Toy! Exciting sports action with realistic gameplay and competitive challenges.",
+  "keywords": "browser game, sports, racing, athletic, competition, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/sports/fidget-trading-card-toy",
+  "openGraph": {
+    "title": "Fidget Trading Card Toy - Free Online Game",
+    "description": "Compete and win in Fidget Trading Card Toy! Exciting sports action with realistic gameplay and competitive challenges.",
+    "images": [
+      "https://img.gamemonetize.com/7zoawxqu9m4lg1d02ew9z3t7bmktj5bw/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/fidget-trading-card-toy",
-    "openGraph": {
-      "title": "Action Game Fidget Trading Card Toy - Play Free Now",
-      "description": "Experience thrilling action in Fidget Trading Card Toy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-      "image": "https://img.gamedistribution.com/10f8f3bc9d4e475297c90f1723891356-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/fidget-trading-card-toy",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game Fidget Trading Card Toy - Play Free Now",
-      "description": "Experience thrilling action in Fidget Trading Card Toy! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/10f8f3bc9d4e475297c90f1723891356-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/sports/fidget-trading-card-toy"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Fidget Trading Card Toy",
-      "href": "/games/fidget-trading-card-toy",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_533",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Great for quick gaming sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Fidget Trading Card Toy - Free Online Game",
+    "description": "Compete and win in Fidget Trading Card Toy! Exciting sports action with realistic gameplay and competitive challenges.",
+    "images": [
+      "https://img.gamemonetize.com/7zoawxqu9m4lg1d02ew9z3t7bmktj5bw/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Fidget Trading Card Toy",
+    "description": "Compete and win in Fidget Trading Card Toy! Exciting sports action with realistic gameplay and competitive challenges.",
+    "image": "https://img.gamemonetize.com/7zoawxqu9m4lg1d02ew9z3t7bmktj5bw/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/sports/fidget-trading-card-toy",
+    "genre": "Sports",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

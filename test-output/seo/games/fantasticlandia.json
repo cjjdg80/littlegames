@@ -1,0 +1,35 @@
+{
+  "title": "FantasticLandia - Play Free Online Casual Game",
+  "description": "Relax and have fun with FantasticLandia! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/fantasticlandia",
+  "openGraph": {
+    "title": "FantasticLandia - Free Online Game",
+    "description": "Relax and have fun with FantasticLandia! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/drrktlmcefmg76eh077p4hwfo4kitnz2/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/fantasticlandia"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "FantasticLandia - Free Online Game",
+    "description": "Relax and have fun with FantasticLandia! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/drrktlmcefmg76eh077p4hwfo4kitnz2/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "FantasticLandia",
+    "description": "Relax and have fun with FantasticLandia! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/drrktlmcefmg76eh077p4hwfo4kitnz2/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/fantasticlandia",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

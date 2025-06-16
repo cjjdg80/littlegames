@@ -1,54 +1,35 @@
 {
-  "gameId": 5296,
-  "slug": "aquapark-shark",
-  "metadata": {
-    "title": "Play Aquapark Shark - Epic Adventure Game Online",
-    "description": "Begin your quest in Aquapark Shark. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
-    "keywords": [
-      "Aquapark Shark online",
-      "adventure gaming",
-      "exploration",
-      "adventure quest"
+  "title": "Aquapark Shark - Play Free Online Casual Game",
+  "description": "Relax and have fun with Aquapark Shark! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/aquapark-shark",
+  "openGraph": {
+    "title": "Aquapark Shark - Free Online Game",
+    "description": "Relax and have fun with Aquapark Shark! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/tll0a54tsmdg7bmzvkm8pi0abrfrhwrp/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/aquapark-shark",
-    "openGraph": {
-      "title": "Play Aquapark Shark - Epic Adventure Game Online",
-      "description": "Begin your quest in Aquapark Shark. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
-      "image": "https://img.gamedistribution.com/bf2f6bcba5f84f28b8d92ccf5da654f2-512x384.jpeg",
-      "url": "https://playbrowserminigames.com/games/aquapark-shark",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Play Aquapark Shark - Epic Adventure Game Online",
-      "description": "Begin your quest in Aquapark Shark. This free online adventure game brings you instant browser play and captivating storylines. No download required!",
-      "image": "https://img.gamedistribution.com/bf2f6bcba5f84f28b8d92ccf5da654f2-512x384.jpeg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/aquapark-shark"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Adventure",
-      "href": "/categories/adventure"
-    },
-    {
-      "label": "Aquapark Shark",
-      "href": "/games/aquapark-shark",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "adventure_185",
-    "customDescription": "Offers vast worlds to explore and secrets to uncover",
-    "featuredTags": [],
-    "recommendationReason": "Great for immersive gameplay sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Aquapark Shark - Free Online Game",
+    "description": "Relax and have fun with Aquapark Shark! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/tll0a54tsmdg7bmzvkm8pi0abrfrhwrp/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Aquapark Shark",
+    "description": "Relax and have fun with Aquapark Shark! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/tll0a54tsmdg7bmzvkm8pi0abrfrhwrp/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/aquapark-shark",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "title": "Dream Mania Happy Match - Play Free Online Puzzle Game",
+  "description": "Challenge your mind with Dream Mania Happy Match! Solve clever puzzles and test your problem-solving skills.",
+  "keywords": "brain, puzzle, browser game, logic, thinking, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/puzzle/dream-mania-happy-match",
+  "openGraph": {
+    "title": "Dream Mania Happy Match - Free Online Game",
+    "description": "Challenge your mind with Dream Mania Happy Match! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/510g06dcndhuy8sj6whcvlobcfwintlq/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/puzzle/dream-mania-happy-match"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Dream Mania Happy Match - Free Online Game",
+    "description": "Challenge your mind with Dream Mania Happy Match! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/510g06dcndhuy8sj6whcvlobcfwintlq/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Dream Mania Happy Match",
+    "description": "Challenge your mind with Dream Mania Happy Match! Solve clever puzzles and test your problem-solving skills.",
+    "image": "https://img.gamemonetize.com/510g06dcndhuy8sj6whcvlobcfwintlq/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/puzzle/dream-mania-happy-match",
+    "genre": "Puzzle",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

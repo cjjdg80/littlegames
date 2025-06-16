@@ -1,54 +1,35 @@
 {
-  "gameId": 9004,
-  "slug": "black-pink-christmas-concert",
-  "metadata": {
-    "title": "Play Black Pink Christmas Concert - Free Action Game Online",
-    "description": "Experience thrilling action in Black Pink Christmas Concert! This exciting arcade game offers intense gameplay with instant browser play. Play free online now...",
-    "keywords": [
-      "Black Pink Christmas Concert game",
-      "action adventure",
-      "free browser games",
-      "online gaming"
+  "title": "Black Pink Christmas Concert - Play Free Online Casual Game",
+  "description": "Relax and have fun with Black Pink Christmas Concert! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/black-pink-christmas-concert",
+  "openGraph": {
+    "title": "Black Pink Christmas Concert - Free Online Game",
+    "description": "Relax and have fun with Black Pink Christmas Concert! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/wf8ieyvzq5wvimz6rb2ee74gizm0bjea/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/black-pink-christmas-concert",
-    "openGraph": {
-      "title": "Play Black Pink Christmas Concert - Free Action Game Online",
-      "description": "Experience thrilling action in Black Pink Christmas Concert! This exciting arcade game offers intense gameplay with instant browser play. Play free online now...",
-      "image": "https://img.gamedistribution.com/e3b3010ebb194a6b82b4e368251c51a7-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/black-pink-christmas-concert",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Play Black Pink Christmas Concert - Free Action Game Online",
-      "description": "Experience thrilling action in Black Pink Christmas Concert! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/e3b3010ebb194a6b82b4e368251c51a7-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/black-pink-christmas-concert"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Black Pink Christmas Concert",
-      "href": "/games/black-pink-christmas-concert",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_130",
-    "customDescription": "Offers challenging levels and exciting rewards",
-    "featuredTags": [],
-    "recommendationReason": "Great for quick gaming sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Black Pink Christmas Concert - Free Online Game",
+    "description": "Relax and have fun with Black Pink Christmas Concert! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/wf8ieyvzq5wvimz6rb2ee74gizm0bjea/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Black Pink Christmas Concert",
+    "description": "Relax and have fun with Black Pink Christmas Concert! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/wf8ieyvzq5wvimz6rb2ee74gizm0bjea/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/black-pink-christmas-concert",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

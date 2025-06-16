@@ -1,0 +1,35 @@
+{
+  "title": "Vehicle Stunts Sky Sim - Play Free Online Simulation Game",
+  "description": "Build and manage in Vehicle Stunts Sky Sim! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/vehicle-stunts-sky-sim",
+  "openGraph": {
+    "title": "Vehicle Stunts Sky Sim - Free Online Game",
+    "description": "Build and manage in Vehicle Stunts Sky Sim! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/ousj5se644v7dap2ct2hbr9332glci0h/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/vehicle-stunts-sky-sim"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Vehicle Stunts Sky Sim - Free Online Game",
+    "description": "Build and manage in Vehicle Stunts Sky Sim! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/ousj5se644v7dap2ct2hbr9332glci0h/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Vehicle Stunts Sky Sim",
+    "description": "Build and manage in Vehicle Stunts Sky Sim! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/ousj5se644v7dap2ct2hbr9332glci0h/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/vehicle-stunts-sky-sim",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

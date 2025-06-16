@@ -1,79 +1,53 @@
-// src/app/api/sitemap/route.ts - 动态生成sitemap.xml文件 (MVP版本 - 200个游戏)
+// src/app/api/sitemap/route.ts - 动态生成sitemap.xml文件 (基于游戏数据源)
 
 import { NextResponse } from 'next/server';
 import { generateSitemapUrl, SITE_CONFIG } from '@/lib/seo-utils';
 import fs from 'fs';
 import path from 'path';
 
-/**
- * 从200个游戏数据文件加载游戏数据 (MVP版本)
- */
-async function loadLatest200GamesData() {
-  try {
-    const gamesDataPath = path.join(process.cwd(), 'src/data/latest-200-games.json');
-    const gamesData = JSON.parse(fs.readFileSync(gamesDataPath, 'utf-8'));
-    return gamesData;
-  } catch (error) {
-    console.error('Error loading latest 200 games data:', error);
-    return [];
-  }
+interface GameData {
+  slug: string;
+  primary_category: string;
+  featured?: boolean;
 }
 
 /**
- * 从分类索引加载分类数据
+ * 从游戏数据文件中加载游戏信息
  */
-async function loadCategoriesData() {
+async function loadGamesData(): Promise<GameData[]> {
   try {
-    const categoriesDataPath = path.join(process.cwd(), 'scripts/processed/categoryIndex.json');
-    const categoriesData = JSON.parse(fs.readFileSync(categoriesDataPath, 'utf-8'));
+    const gamesFilePath = path.join(process.cwd(), 'src/data/latest-200-games.json');
     
-    // 提取分类列表
-    const categories = Object.keys(categoriesData.categories || {}).map(slug => ({
-      slug,
-      count: categoriesData.categories[slug].count
+    if (!fs.existsSync(gamesFilePath)) {
+      console.error('Games data file not found:', gamesFilePath);
+      return [];
+    }
+    
+    const gamesData = JSON.parse(fs.readFileSync(gamesFilePath, 'utf-8'));
+    console.log(`Loaded ${gamesData.length} games from data source`);
+    
+    return gamesData.map((game: any) => ({
+      slug: game.slug,
+      primary_category: game.primary_category,
+      featured: game.featured || false
     }));
-    
-    return categories;
   } catch (error) {
-    console.error('Error loading categories data:', error);
-    // 返回默认分类作为后备
-    return [
-      { slug: 'action', count: 100 },
-      { slug: 'adventure', count: 100 },
-      { slug: 'arcade', count: 100 },
-      { slug: 'casual', count: 100 },
-      { slug: 'puzzle', count: 100 },
-      { slug: 'simulation', count: 100 },
-      { slug: 'sports', count: 100 },
-      { slug: 'strategy', count: 100 }
-    ];
+    console.error('Error loading games data:', error);
+    return [];
   }
 }
 
 /**
- * 从标签索引加载热门标签数据 (限制前50个)
+ * 获取所有可用的游戏分类
  */
-async function loadTopTagsData() {
-  try {
-    const tagsDataPath = path.join(process.cwd(), 'scripts/processed/tags-index.json');
-    const tagsData = JSON.parse(fs.readFileSync(tagsDataPath, 'utf-8'));
-    
-    // 提取前50个热门标签
-    const tags = Object.entries(tagsData)
-      .filter(([key]) => key !== 'metadata') // 排除元数据
-      .map(([slug, data]: [string, any]) => ({
-        slug,
-        count: data.count
-      }))
-      .sort((a, b) => b.count - a.count) // 按数量降序排序
-      .slice(0, 50) // 只取前50个热门标签
-      .map(tag => ({ slug: tag.slug }));
-    
-    return tags;
-  } catch (error) {
-    console.error('Error loading tags data:', error);
-    return [];
-  }
+function getUniqueCategories(games: GameData[]): string[] {
+  const categories = new Set<string>();
+  games.forEach(game => {
+    if (game.primary_category) {
+      categories.add(game.primary_category);
+    }
+  });
+  return Array.from(categories).sort();
 }
 
 /**
@@ -82,7 +56,7 @@ async function loadTopTagsData() {
 function generateSitemapXML(urls: Array<{
   url: string;
   lastModified: string;
-  changeFrequency: string;
+  changeFrequency: 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never';
   priority: number;
 }>) {
   const urlsXML = urls.map(({ url, lastModified, changeFrequency, priority }) => `
@@ -98,99 +72,124 @@ function generateSitemapXML(urls: Array<{
 </urlset>`;
 }
 
+/**
+ * 确定页面优先级
+ */
+function getPagePriority(url: string, featured: boolean = false): number {
+  if (url === '/') return 1.0;
+  if (url === '/games') return 0.9;
+  if (url.match(/^\/games\/[^\/]+$/)) return 0.8; // 分类页面
+  if (url.match(/^\/games\/[^\/]+\/[^\/]+$/)) {
+    // 游戏页面 - 推荐游戏优先级更高
+    return featured ? 0.8 : 0.7;
+  }
+  if (url.startsWith('/tags/')) return 0.6;
+  return 0.5;
+}
+
+/**
+ * 确定更新频率
+ */
+function getChangeFrequency(url: string): 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never' {
+  if (url === '/') return 'daily';
+  if (url === '/games') return 'weekly';
+  if (url.match(/^\/games\/[^\/]+$/)) return 'weekly'; // 分类页面
+  if (url.match(/^\/games\/[^\/]+\/[^\/]+$/)) return 'weekly'; // 游戏页面
+  if (url.startsWith('/tags/')) return 'weekly';
+  return 'monthly';
+}
+
 export async function GET() {
   try {
-    const urls = [];
     const currentDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD格式
+    console.log(`Generating sitemap on ${currentDate} based on games data`);
 
-    // 添加首页
-    urls.push(generateSitemapUrl({
-      url: '/',
-      lastmod: currentDate,
-      changefreq: 'daily',
-      priority: 1.0
-    }));
-
-    // 添加游戏总览页面
-    urls.push(generateSitemapUrl({
-      url: '/games',
-      lastmod: currentDate,
-      changefreq: 'weekly',
-      priority: 0.9
-    }));
-
-    // 加载并添加200个游戏页面 (MVP版本)
-    const games = await loadLatest200GamesData();
-    console.log(`Loading ${games.length} games for sitemap`);
+    // 加载游戏数据
+    const games = await loadGamesData();
+    const categories = getUniqueCategories(games);
     
-    for (const game of games) {
-      if (game.slug && game.primary_category) {
-        urls.push(generateSitemapUrl({
-          url: `/games/${game.primary_category}/${game.slug}`,
-          lastmod: currentDate,
-          changefreq: 'weekly',
-          priority: game.featured ? 0.8 : 0.7 // 精选游戏优先级更高
-        }));
-      }
-    }
+    const sitemapUrls: Array<{
+      url: string;
+      lastModified: string;
+      changeFrequency: 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never';
+      priority: number;
+    }> = [];
 
-    // 加载并添加分类页面
-    const categories = await loadCategoriesData();
-    console.log(`Loading ${categories.length} categories for sitemap`);
-    
-    for (const category of categories) {
-      if (category.slug) {
-        urls.push(generateSitemapUrl({
-          url: `/games/${category.slug}`,
-          lastmod: currentDate,
-          changefreq: 'weekly',
-          priority: 0.7
-        }));
-      }
-    }
-
-    // 加载并添加热门标签页面 (限制前50个)
-    const tags = await loadTopTagsData();
-    console.log(`Loading ${tags.length} top tags for sitemap`);
-    
-    for (const tag of tags) {
-      if (tag.slug) {
-        urls.push(generateSitemapUrl({
-          url: `/tags/${tag.slug}`,
-          lastmod: currentDate,
-          changefreq: 'weekly',
-          priority: 0.6
-        }));
-      }
-    }
-
-    // 添加其他重要页面
-    const staticPages = [
-      { path: '/about', priority: 0.5 },
-      { path: '/privacy', priority: 0.3 },
-      { path: '/terms', priority: 0.3 },
-      { path: '/contact', priority: 0.4 }
-    ];
-
-    for (const page of staticPages) {
-      urls.push(generateSitemapUrl({
-        url: page.path,
+    // 1. 添加首页
+    sitemapUrls.push({
+      url: generateSitemapUrl({
+        url: '/',
         lastmod: currentDate,
-        changefreq: 'monthly',
-        priority: page.priority
-      }));
-    }
+        changefreq: 'daily',
+        priority: 1.0
+      }).url,
+      lastModified: currentDate,
+      changeFrequency: 'daily',
+      priority: 1.0
+    });
 
-    console.log(`Generated sitemap with ${urls.length} URLs`);
+    // 2. 添加游戏总览页面
+    sitemapUrls.push({
+      url: generateSitemapUrl({
+        url: '/games',
+        lastmod: currentDate,
+        changefreq: 'weekly',
+        priority: 0.9
+      }).url,
+      lastModified: currentDate,
+      changeFrequency: 'weekly',
+      priority: 0.9
+    });
+
+    // 3. 添加分类页面
+    categories.forEach(category => {
+      const url = `/games/${category}`;
+      sitemapUrls.push({
+        url: generateSitemapUrl({
+          url,
+          lastmod: currentDate,
+          changefreq: getChangeFrequency(url),
+          priority: getPagePriority(url)
+        }).url,
+        lastModified: currentDate,
+        changeFrequency: getChangeFrequency(url),
+        priority: getPagePriority(url)
+      });
+    });
+
+    // 4. 添加游戏页面
+    games.forEach(game => {
+      const url = `/games/${game.primary_category}/${game.slug}`;
+      sitemapUrls.push({
+        url: generateSitemapUrl({
+          url,
+          lastmod: currentDate,
+          changefreq: getChangeFrequency(url),
+          priority: getPagePriority(url, game.featured)
+        }).url,
+        lastModified: currentDate,
+        changeFrequency: getChangeFrequency(url),
+        priority: getPagePriority(url, game.featured)
+      });
+    });
+
+    console.log(`Generated sitemap with ${sitemapUrls.length} URLs from games data:`);
+    console.log(`- Home page: 1`);
+    console.log(`- Games overview page: 1`);
+    console.log(`- Category pages: ${categories.length}`);
+    console.log(`- Game pages: ${games.length}`);
+    console.log(`- Total URLs: ${sitemapUrls.length}`);
 
     // 生成XML
-    const sitemapXML = generateSitemapXML(urls);
+    const sitemapXML = generateSitemapXML(sitemapUrls);
     
     return new NextResponse(sitemapXML, {
       status: 200,
       headers: {
         'Content-Type': 'application/xml',
-        'Cache-Control': 'public, max-age=3600, s-maxage=3600', // 缓存1小时
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0'
       },
     });
   } catch (error) {

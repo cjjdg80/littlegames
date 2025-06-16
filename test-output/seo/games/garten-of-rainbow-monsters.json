@@ -1,54 +1,35 @@
 {
-  "gameId": 6791,
-  "slug": "garten-of-rainbow-monsters",
-  "metadata": {
-    "title": "Play Garten of Rainbow Monsters - Free Action Game Online",
-    "description": "Dive into the action-packed world of Garten of Rainbow Monsters. This arcade game features instant browser play and delivers non-stop excitement. Start playing...",
-    "keywords": [
-      "Garten of Rainbow Monsters online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "Garten Of Rainbow Monsters - Play Free Online Casual Game",
+  "description": "Relax and have fun with Garten Of Rainbow Monsters! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/garten-of-rainbow-monsters",
+  "openGraph": {
+    "title": "Garten Of Rainbow Monsters - Free Online Game",
+    "description": "Relax and have fun with Garten Of Rainbow Monsters! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/5mv8c9ym2sod7trmhxna4818oyf0auxb/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/garten-of-rainbow-monsters",
-    "openGraph": {
-      "title": "Play Garten of Rainbow Monsters - Free Action Game Online",
-      "description": "Dive into the action-packed world of Garten of Rainbow Monsters. This arcade game features instant browser play and delivers non-stop excitement. Start playing...",
-      "image": "https://img.gamedistribution.com/56e27caa4c424fc8b9254273f264583f-512x384.jpeg",
-      "url": "https://playbrowserminigames.com/games/garten-of-rainbow-monsters",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Play Garten of Rainbow Monsters - Free Action Game Online",
-      "description": "Dive into the action-packed world of Garten of Rainbow Monsters. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
-      "image": "https://img.gamedistribution.com/56e27caa4c424fc8b9254273f264583f-512x384.jpeg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/garten-of-rainbow-monsters"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Garten of Rainbow Monsters",
-      "href": "/games/garten-of-rainbow-monsters",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_527",
-    "customDescription": "Offers challenging levels and exciting rewards",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Garten Of Rainbow Monsters - Free Online Game",
+    "description": "Relax and have fun with Garten Of Rainbow Monsters! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/5mv8c9ym2sod7trmhxna4818oyf0auxb/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Garten Of Rainbow Monsters",
+    "description": "Relax and have fun with Garten Of Rainbow Monsters! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/5mv8c9ym2sod7trmhxna4818oyf0auxb/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/garten-of-rainbow-monsters",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

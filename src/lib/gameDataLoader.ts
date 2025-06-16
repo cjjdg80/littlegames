@@ -430,32 +430,26 @@ export const getLatest200Games = cache(async (): Promise<Game[]> => {
     return gamesData.map((game: any) => ({
       id: game.id.toString(),
       slug: game.slug,
-      title: {
-        en: game.title
-      },
-      description: {
-        en: game.description || `Play ${game.title} online for free. An exciting ${game.primary_category} game.`
-      },
+      title: game.title, // 直接使用字符串格式
+      description: game.description || `Play ${game.title} online for free. An exciting ${game.primary_category} game.`,
       thumbnail: game.thumbnail,
-      image: game.thumbnail,
-      rating: 5.0,
-      downloads: "1K+",
       iframe: {
         src: game.iframe_src || '',
-        width: 800,
-        height: 600,
+        width: game.iframe_width || 800,
+        height: game.iframe_height || 600,
         frameborder: 0,
         scrolling: 'no',
         allowfullscreen: true
       },
-      category: game.primary_category as GameCategory,
+      category: game.primary_category as GameCategory, // 修复：使用primary_category映射到category
       tags: game.tags || [],
-      devices: ['desktop', 'mobile', 'tablet'] as DeviceType[],
-      supportedLanguages: ['en'] as Locale[],
+      devices: game.devices || ['desktop', 'mobile', 'tablet'] as DeviceType[],
+      supportedLanguages: game.languages || ['en'] as Locale[],
       orientation: 'both' as const,
       featured: game.featured || false,
-      createdAt: new Date().toISOString(),
-      updatedAt: new Date().toISOString()
+      developer: game.developer,
+      createdAt: game.collection_time || new Date().toISOString(),
+      updatedAt: game.collection_time || new Date().toISOString()
     }));
   } catch (error) {
     console.error('Error loading latest 200 games:', error);
@@ -474,17 +468,13 @@ export const getFeaturedGamesFromLatest = cache(async (limit: number = 6): Promi
 // 获取最新游戏（按ID降序排列）
 export const getNewestGames = cache(async (limit?: number): Promise<Game[]> => {
   const latest200Games = await getLatest200Games();
-  const sortedGames = latest200Games.sort((a, b) => parseInt(b.id) - parseInt(a.id));
-  
-  // 如果没有指定limit或limit为-1，返回所有游戏
-  if (limit === undefined || limit === -1) {
-    return sortedGames;
-  }
-  
-  return sortedGames.slice(0, limit);
+  return latest200Games
+    .sort((a, b) => parseInt(b.id) - parseInt(a.id))
+    .slice(0, limit);
 });
 
-// 获取所有最新游戏（不限制数量）
+// 获取所有最新游戏（用于首页展示）
 export const getAllNewestGames = cache(async (): Promise<Game[]> => {
-  return getNewestGames(-1);
+  const latest200Games = await getLatest200Games();
+  return latest200Games.sort((a, b) => parseInt(b.id) - parseInt(a.id));
 });

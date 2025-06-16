@@ -1,0 +1,35 @@
+{
+  "title": "Diamond Painting For Girls - Play Free Online Casual Game",
+  "description": "Relax and have fun with Diamond Painting For Girls! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/diamond-painting-for-girls",
+  "openGraph": {
+    "title": "Diamond Painting For Girls - Free Online Game",
+    "description": "Relax and have fun with Diamond Painting For Girls! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3sb09aa2vrsi6g8i23z8ybjp70jvm2v9/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/diamond-painting-for-girls"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Diamond Painting For Girls - Free Online Game",
+    "description": "Relax and have fun with Diamond Painting For Girls! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3sb09aa2vrsi6g8i23z8ybjp70jvm2v9/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Diamond Painting For Girls",
+    "description": "Relax and have fun with Diamond Painting For Girls! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/3sb09aa2vrsi6g8i23z8ybjp70jvm2v9/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/diamond-painting-for-girls",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

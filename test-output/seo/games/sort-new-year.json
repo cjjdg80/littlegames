@@ -1,0 +1,35 @@
+{
+  "title": "Sort New Year! - Play Free Online Casual Game",
+  "description": "Relax and have fun with Sort New Year!! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/sort-new-year",
+  "openGraph": {
+    "title": "Sort New Year! - Free Online Game",
+    "description": "Relax and have fun with Sort New Year!! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/7159t7yly2mi03sz0gfm1cujzf9k05u0/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/sort-new-year"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Sort New Year! - Free Online Game",
+    "description": "Relax and have fun with Sort New Year!! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/7159t7yly2mi03sz0gfm1cujzf9k05u0/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Sort New Year!",
+    "description": "Relax and have fun with Sort New Year!! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/7159t7yly2mi03sz0gfm1cujzf9k05u0/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/sort-new-year",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

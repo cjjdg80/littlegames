@@ -1,0 +1,35 @@
+{
+  "title": "Squad Shooter Simulation Shootout - Play Free Online Action Game",
+  "description": "Experience thrilling action in Squad Shooter Simulation Shootout! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+  "keywords": "browser game, shooting, action, fighting, combat, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/action/squad-shooter-simulation-shootout",
+  "openGraph": {
+    "title": "Squad Shooter Simulation Shootout - Free Online Game",
+    "description": "Experience thrilling action in Squad Shooter Simulation Shootout! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/pbqkkhkop6rk9lihboh8j4zt3zsitvy7/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/action/squad-shooter-simulation-shootout"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Squad Shooter Simulation Shootout - Free Online Game",
+    "description": "Experience thrilling action in Squad Shooter Simulation Shootout! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/pbqkkhkop6rk9lihboh8j4zt3zsitvy7/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Squad Shooter Simulation Shootout",
+    "description": "Experience thrilling action in Squad Shooter Simulation Shootout! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "image": "https://img.gamemonetize.com/pbqkkhkop6rk9lihboh8j4zt3zsitvy7/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/action/squad-shooter-simulation-shootout",
+    "genre": "Action",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

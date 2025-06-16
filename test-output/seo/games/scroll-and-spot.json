@@ -1,54 +1,35 @@
 {
-  "gameId": 9013,
-  "slug": "scroll-and-spot",
-  "metadata": {
-    "title": "Play Scroll and Spot - Free Action Game Online",
-    "description": "Join the action in Scroll and Spot! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-    "keywords": [
-      "Scroll and Spot game",
-      "action adventure",
-      "free browser games",
-      "online gaming"
+  "title": "Scroll and Spot - Play Free Online Casual Game",
+  "description": "Relax and have fun with Scroll and Spot! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/scroll-and-spot",
+  "openGraph": {
+    "title": "Scroll and Spot - Free Online Game",
+    "description": "Relax and have fun with Scroll and Spot! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/8jxfjtyj3zka0yqz6i8qvr04lmcg8hb8/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/scroll-and-spot",
-    "openGraph": {
-      "title": "Play Scroll and Spot - Free Action Game Online",
-      "description": "Join the action in Scroll and Spot! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-      "image": "https://img.gamedistribution.com/23fa647cfc094a2cb1d367c988aa6024-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/scroll-and-spot",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Play Scroll and Spot - Free Action Game Online",
-      "description": "Join the action in Scroll and Spot! This captivating casual game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-      "image": "https://img.gamedistribution.com/23fa647cfc094a2cb1d367c988aa6024-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/scroll-and-spot"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Scroll and Spot",
-      "href": "/games/scroll-and-spot",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_409",
-    "customDescription": "Includes dynamic environments and smooth controls",
-    "featuredTags": [],
-    "recommendationReason": "Great for quick gaming sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Scroll and Spot - Free Online Game",
+    "description": "Relax and have fun with Scroll and Spot! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/8jxfjtyj3zka0yqz6i8qvr04lmcg8hb8/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Scroll and Spot",
+    "description": "Relax and have fun with Scroll and Spot! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/8jxfjtyj3zka0yqz6i8qvr04lmcg8hb8/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/scroll-and-spot",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

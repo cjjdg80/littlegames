@@ -1,0 +1,35 @@
+{
+  "title": "Construction Simulator Lite - Play Free Online Simulation Game",
+  "description": "Build and manage in Construction Simulator Lite! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/construction-simulator-lite",
+  "openGraph": {
+    "title": "Construction Simulator Lite - Free Online Game",
+    "description": "Build and manage in Construction Simulator Lite! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/iifqhn3k4bln57rcd9w1saylv5y6bine/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/construction-simulator-lite"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Construction Simulator Lite - Free Online Game",
+    "description": "Build and manage in Construction Simulator Lite! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/iifqhn3k4bln57rcd9w1saylv5y6bine/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Construction Simulator Lite",
+    "description": "Build and manage in Construction Simulator Lite! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/iifqhn3k4bln57rcd9w1saylv5y6bine/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/construction-simulator-lite",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Html Games For Your Website - GameMonetize.com - Play Free Online Casual Game",
+  "description": "Relax and have fun with Html Games For Your Website - GameMonetize.com! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "online game, fun, casual, free game, html5 game, browser game, easy, relaxing",
+  "canonical": "https://playbrowserminigames.com/games/casual/html-games-for-your-website-gamemonetizecom",
+  "openGraph": {
+    "title": "Html Games For Your Website - GameMonetize.com - Free Online Game",
+    "description": "Relax and have fun with Html Games For Your Website - GameMonetize.com! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "/images/default-game-thumbnail.svg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/html-games-for-your-website-gamemonetizecom"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Html Games For Your Website - GameMonetize.com - Free Online Game",
+    "description": "Relax and have fun with Html Games For Your Website - GameMonetize.com! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "/images/default-game-thumbnail.svg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Html Games For Your Website - GameMonetize.com",
+    "description": "Relax and have fun with Html Games For Your Website - GameMonetize.com! Perfect casual game for players of all ages and skill levels.",
+    "image": "/images/default-game-thumbnail.svg",
+    "url": "https://playbrowserminigames.com/games/casual/html-games-for-your-website-gamemonetizecom",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

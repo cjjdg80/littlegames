@@ -1,0 +1,35 @@
+{
+  "title": "Pirate Treasure Island - Play Free Online Casual Game",
+  "description": "Relax and have fun with Pirate Treasure Island! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/pirate-treasure-island",
+  "openGraph": {
+    "title": "Pirate Treasure Island - Free Online Game",
+    "description": "Relax and have fun with Pirate Treasure Island! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/tyzkj3xbbe3a440rsjg54nwv86bxkjmj/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/pirate-treasure-island"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Pirate Treasure Island - Free Online Game",
+    "description": "Relax and have fun with Pirate Treasure Island! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/tyzkj3xbbe3a440rsjg54nwv86bxkjmj/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Pirate Treasure Island",
+    "description": "Relax and have fun with Pirate Treasure Island! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/tyzkj3xbbe3a440rsjg54nwv86bxkjmj/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/pirate-treasure-island",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

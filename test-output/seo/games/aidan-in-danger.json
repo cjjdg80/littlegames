@@ -1,54 +1,35 @@
 {
-  "gameId": 9467,
-  "slug": "aidan-in-danger",
-  "metadata": {
-    "title": "Aidan in Danger - Thrilling Adventure Quest",
-    "description": "Start your epic journey with Aidan in Danger! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
-    "keywords": [
-      "play Aidan in Danger",
-      "adventure games online",
-      "free adventure",
-      "story games"
+  "title": "Aidan in Danger - Play Free Online Casual Game",
+  "description": "Relax and have fun with Aidan in Danger! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/aidan-in-danger",
+  "openGraph": {
+    "title": "Aidan in Danger - Free Online Game",
+    "description": "Relax and have fun with Aidan in Danger! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2zfo9lcezs29bmcw1zh6q0w62ws8upkt/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/aidan-in-danger",
-    "openGraph": {
-      "title": "Aidan in Danger - Thrilling Adventure Quest",
-      "description": "Start your epic journey with Aidan in Danger! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
-      "image": "https://img.gamedistribution.com/d2a553b074984b2bafdf9693ed01c8f3-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/aidan-in-danger",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Aidan in Danger - Thrilling Adventure Quest",
-      "description": "Start your epic journey with Aidan in Danger! This engaging adventure game features instant browser play and promises hours of adventure. Play free now!",
-      "image": "https://img.gamedistribution.com/d2a553b074984b2bafdf9693ed01c8f3-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/aidan-in-danger"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Adventure",
-      "href": "/categories/adventure"
-    },
-    {
-      "label": "Aidan in Danger",
-      "href": "/games/aidan-in-danger",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "adventure_486",
-    "customDescription": "Features rich storylines and character development",
-    "featuredTags": [],
-    "recommendationReason": "Great for immersive gameplay sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Aidan in Danger - Free Online Game",
+    "description": "Relax and have fun with Aidan in Danger! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2zfo9lcezs29bmcw1zh6q0w62ws8upkt/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Aidan in Danger",
+    "description": "Relax and have fun with Aidan in Danger! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/2zfo9lcezs29bmcw1zh6q0w62ws8upkt/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/aidan-in-danger",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

@@ -1,54 +1,35 @@
 {
-  "gameId": 2495,
-  "slug": "bouncing-eggs",
-  "metadata": {
-    "title": "Bouncing Eggs - Exciting Action Adventure Game",
-    "description": "Dive into the action-packed world of Bouncing Eggs. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
-    "keywords": [
-      "Bouncing Eggs online",
-      "action gaming",
-      "free games",
-      "casual adventure"
+  "title": "Bouncing Eggs - Play Free Online Casual Game",
+  "description": "Relax and have fun with Bouncing Eggs! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/bouncing-eggs",
+  "openGraph": {
+    "title": "Bouncing Eggs - Free Online Game",
+    "description": "Relax and have fun with Bouncing Eggs! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/pterkidttjellmklrvni7qqyrfw921bn/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/bouncing-eggs",
-    "openGraph": {
-      "title": "Bouncing Eggs - Exciting Action Adventure Game",
-      "description": "Dive into the action-packed world of Bouncing Eggs. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
-      "image": "https://img.gamedistribution.com/6a19997652de474fa5920ad0fed2285c-512x384.jpeg",
-      "url": "https://playbrowserminigames.com/games/bouncing-eggs",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Bouncing Eggs - Exciting Action Adventure Game",
-      "description": "Dive into the action-packed world of Bouncing Eggs. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
-      "image": "https://img.gamedistribution.com/6a19997652de474fa5920ad0fed2285c-512x384.jpeg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/bouncing-eggs"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Bouncing Eggs",
-      "href": "/games/bouncing-eggs",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_351",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Bouncing Eggs - Free Online Game",
+    "description": "Relax and have fun with Bouncing Eggs! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/pterkidttjellmklrvni7qqyrfw921bn/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Bouncing Eggs",
+    "description": "Relax and have fun with Bouncing Eggs! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/pterkidttjellmklrvni7qqyrfw921bn/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/bouncing-eggs",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

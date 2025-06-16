@@ -1,0 +1,35 @@
+{
+  "title": "Angry Battle Birds Mania - Play Free Online Action Game",
+  "description": "Experience thrilling action in Angry Battle Birds Mania! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+  "keywords": "browser game, shooting, action, fighting, combat, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/action/angry-battle-birds-mania",
+  "openGraph": {
+    "title": "Angry Battle Birds Mania - Free Online Game",
+    "description": "Experience thrilling action in Angry Battle Birds Mania! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/3pfhniq2exy97nw1jp07ehb5832l1adk/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/action/angry-battle-birds-mania"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Angry Battle Birds Mania - Free Online Game",
+    "description": "Experience thrilling action in Angry Battle Birds Mania! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/3pfhniq2exy97nw1jp07ehb5832l1adk/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Angry Battle Birds Mania",
+    "description": "Experience thrilling action in Angry Battle Birds Mania! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "image": "https://img.gamemonetize.com/3pfhniq2exy97nw1jp07ehb5832l1adk/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/action/angry-battle-birds-mania",
+    "genre": "Action",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Chicken Jockey Deadflip - Play Free Online Casual Game",
+  "description": "Relax and have fun with Chicken Jockey Deadflip! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/chicken-jockey-deadflip",
+  "openGraph": {
+    "title": "Chicken Jockey Deadflip - Free Online Game",
+    "description": "Relax and have fun with Chicken Jockey Deadflip! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2v30ysa752e9s07flwtrp1yo3v8jpf78/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/chicken-jockey-deadflip"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Chicken Jockey Deadflip - Free Online Game",
+    "description": "Relax and have fun with Chicken Jockey Deadflip! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2v30ysa752e9s07flwtrp1yo3v8jpf78/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Chicken Jockey Deadflip",
+    "description": "Relax and have fun with Chicken Jockey Deadflip! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/2v30ysa752e9s07flwtrp1yo3v8jpf78/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/chicken-jockey-deadflip",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

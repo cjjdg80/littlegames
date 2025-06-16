@@ -1,0 +1,35 @@
+{
+  "title": "Santa Giftbox 2 Player - Play Free Online Casual Game",
+  "description": "Relax and have fun with Santa Giftbox 2 Player! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/santa-giftbox-2-player",
+  "openGraph": {
+    "title": "Santa Giftbox 2 Player - Free Online Game",
+    "description": "Relax and have fun with Santa Giftbox 2 Player! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/nngjr5g2xn0wa47v5g7q1rblajzq3hza/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/santa-giftbox-2-player"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Santa Giftbox 2 Player - Free Online Game",
+    "description": "Relax and have fun with Santa Giftbox 2 Player! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/nngjr5g2xn0wa47v5g7q1rblajzq3hza/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Santa Giftbox 2 Player",
+    "description": "Relax and have fun with Santa Giftbox 2 Player! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/nngjr5g2xn0wa47v5g7q1rblajzq3hza/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/santa-giftbox-2-player",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

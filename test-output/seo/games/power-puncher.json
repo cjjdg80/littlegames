@@ -1,0 +1,35 @@
+{
+  "title": "Power Puncher - Play Free Online Casual Game",
+  "description": "Relax and have fun with Power Puncher! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/power-puncher",
+  "openGraph": {
+    "title": "Power Puncher - Free Online Game",
+    "description": "Relax and have fun with Power Puncher! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/b1bs81bovd287yxmsx5af8vms6awdnm6/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/power-puncher"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Power Puncher - Free Online Game",
+    "description": "Relax and have fun with Power Puncher! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/b1bs81bovd287yxmsx5af8vms6awdnm6/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Power Puncher",
+    "description": "Relax and have fun with Power Puncher! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/b1bs81bovd287yxmsx5af8vms6awdnm6/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/power-puncher",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

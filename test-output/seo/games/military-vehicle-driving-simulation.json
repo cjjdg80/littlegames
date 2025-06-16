@@ -1,0 +1,35 @@
+{
+  "title": "Military Vehicle Driving Simulation - Play Free Online Simulation Game",
+  "description": "Build and manage in Military Vehicle Driving Simulation! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/military-vehicle-driving-simulation",
+  "openGraph": {
+    "title": "Military Vehicle Driving Simulation - Free Online Game",
+    "description": "Build and manage in Military Vehicle Driving Simulation! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/ko9f4fjkf5yghqs0xg6luz1w58pffaa1/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/military-vehicle-driving-simulation"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Military Vehicle Driving Simulation - Free Online Game",
+    "description": "Build and manage in Military Vehicle Driving Simulation! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/ko9f4fjkf5yghqs0xg6luz1w58pffaa1/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Military Vehicle Driving Simulation",
+    "description": "Build and manage in Military Vehicle Driving Simulation! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/ko9f4fjkf5yghqs0xg6luz1w58pffaa1/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/military-vehicle-driving-simulation",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

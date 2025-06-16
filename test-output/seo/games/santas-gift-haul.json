@@ -1,0 +1,35 @@
+{
+  "title": "Santas Gift Haul - Play Free Online Casual Game",
+  "description": "Relax and have fun with Santas Gift Haul! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/santas-gift-haul",
+  "openGraph": {
+    "title": "Santas Gift Haul - Free Online Game",
+    "description": "Relax and have fun with Santas Gift Haul! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/0zbplzck4osta8j5w8mteg6u4vuznk6w/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/santas-gift-haul"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Santas Gift Haul - Free Online Game",
+    "description": "Relax and have fun with Santas Gift Haul! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/0zbplzck4osta8j5w8mteg6u4vuznk6w/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Santas Gift Haul",
+    "description": "Relax and have fun with Santas Gift Haul! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/0zbplzck4osta8j5w8mteg6u4vuznk6w/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/santas-gift-haul",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

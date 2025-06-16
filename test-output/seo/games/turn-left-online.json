@@ -1,0 +1,35 @@
+{
+  "title": "Turn Left Online - Play Free Online Casual Game",
+  "description": "Relax and have fun with Turn Left Online! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/turn-left-online",
+  "openGraph": {
+    "title": "Turn Left Online - Free Online Game",
+    "description": "Relax and have fun with Turn Left Online! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/t09d6sz6x3ganx60no7xd9c850obrs64/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/turn-left-online"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Turn Left Online - Free Online Game",
+    "description": "Relax and have fun with Turn Left Online! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/t09d6sz6x3ganx60no7xd9c850obrs64/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Turn Left Online",
+    "description": "Relax and have fun with Turn Left Online! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/t09d6sz6x3ganx60no7xd9c850obrs64/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/turn-left-online",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Mythinsects Tower Defense - Play Free Online Strategy Game",
+  "description": "Plan and conquer in Mythinsects Tower Defense! Strategic gameplay requiring tactical thinking and careful planning.",
+  "keywords": "tactical, browser game, strategy, defense, planning, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/strategy/mythinsects-tower-defense",
+  "openGraph": {
+    "title": "Mythinsects Tower Defense - Free Online Game",
+    "description": "Plan and conquer in Mythinsects Tower Defense! Strategic gameplay requiring tactical thinking and careful planning.",
+    "images": [
+      "https://img.gamemonetize.com/p81xm64z2zd7cyl65hi5uhp1nv6xnt2a/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/strategy/mythinsects-tower-defense"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Mythinsects Tower Defense - Free Online Game",
+    "description": "Plan and conquer in Mythinsects Tower Defense! Strategic gameplay requiring tactical thinking and careful planning.",
+    "images": [
+      "https://img.gamemonetize.com/p81xm64z2zd7cyl65hi5uhp1nv6xnt2a/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Mythinsects Tower Defense",
+    "description": "Plan and conquer in Mythinsects Tower Defense! Strategic gameplay requiring tactical thinking and careful planning.",
+    "image": "https://img.gamemonetize.com/p81xm64z2zd7cyl65hi5uhp1nv6xnt2a/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/strategy/mythinsects-tower-defense",
+    "genre": "Strategy",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

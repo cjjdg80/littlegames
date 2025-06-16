@@ -1,0 +1,35 @@
+{
+  "title": "Castle Raid 3D - Play Free Online Casual Game",
+  "description": "Relax and have fun with Castle Raid 3D! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/castle-raid-3d",
+  "openGraph": {
+    "title": "Castle Raid 3D - Free Online Game",
+    "description": "Relax and have fun with Castle Raid 3D! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2bxp1a7yeaw5molup73wdwk7bmauvfob/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/castle-raid-3d"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Castle Raid 3D - Free Online Game",
+    "description": "Relax and have fun with Castle Raid 3D! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2bxp1a7yeaw5molup73wdwk7bmauvfob/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Castle Raid 3D",
+    "description": "Relax and have fun with Castle Raid 3D! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/2bxp1a7yeaw5molup73wdwk7bmauvfob/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/castle-raid-3d",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

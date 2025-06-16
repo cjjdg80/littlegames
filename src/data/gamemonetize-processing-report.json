@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-06-16T16:28:26.733301",
+  "total_games": 200,
+  "categories": {
+    "action": 10,
+    "simulation": 10,
+    "sports": 10,
+    "casual": 156,
+    "puzzle": 7,
+    "strategy": 1,
+    "adventure": 6
+  },
+  "top_developers": {
+    "bestgames.com": 31,
+    "Kiz10": 21,
+    "babygames.com": 13,
+    "BestCrazyGames": 10,
+    "HELLOSOFT LTD": 7,
+    "Video Igrice": 6,
+    "LofGames.com": 6,
+    "Mapi Games": 6,
+    "cutedressup.com": 5,
+    "cargames.com": 4
+  },
+  "featured_games": 0,
+  "mobile_compatible": 200,
+  "data_source": "GameMonetize",
+  "processing_version": "1.0.0"
+}

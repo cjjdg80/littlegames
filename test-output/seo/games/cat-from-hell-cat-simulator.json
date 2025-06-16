@@ -1,54 +1,35 @@
 {
-  "gameId": 9686,
-  "slug": "cat-from-hell-cat-simulator",
-  "metadata": {
-    "title": "Action Game Cat From Hell Cat Simulator - Play Free Now",
-    "description": "Get ready for adrenaline-pumping action in Cat From Hell Cat Simulator. This free online casual game brings you instant browser play and endless fun. No...",
-    "keywords": [
-      "action games",
-      "Cat From Hell Cat Simulator",
-      "free online games",
-      "casual games"
+  "title": "Cat From Hell Cat Simulator - Play Free Online Simulation Game",
+  "description": "Build and manage in Cat From Hell Cat Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/cat-from-hell-cat-simulator",
+  "openGraph": {
+    "title": "Cat From Hell Cat Simulator - Free Online Game",
+    "description": "Build and manage in Cat From Hell Cat Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/7fqv2vwixs5mjms5ngb8akiqixbzc3pv/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/cat-from-hell-cat-simulator",
-    "openGraph": {
-      "title": "Action Game Cat From Hell Cat Simulator - Play Free Now",
-      "description": "Get ready for adrenaline-pumping action in Cat From Hell Cat Simulator. This free online casual game brings you instant browser play and endless fun. No...",
-      "image": "https://img.gamedistribution.com/1ec4588d702a4b6b81838ff25acec5c7-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/cat-from-hell-cat-simulator",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game Cat From Hell Cat Simulator - Play Free Now",
-      "description": "Get ready for adrenaline-pumping action in Cat From Hell Cat Simulator. This free online casual game brings you instant browser play and endless fun. No download required!",
-      "image": "https://img.gamedistribution.com/1ec4588d702a4b6b81838ff25acec5c7-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/cat-from-hell-cat-simulator"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Cat From Hell Cat Simulator",
-      "href": "/games/cat-from-hell-cat-simulator",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_272",
-    "customDescription": "Features intense combat and strategic gameplay",
-    "featuredTags": [],
-    "recommendationReason": "Great for quick gaming sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Cat From Hell Cat Simulator - Free Online Game",
+    "description": "Build and manage in Cat From Hell Cat Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/7fqv2vwixs5mjms5ngb8akiqixbzc3pv/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Cat From Hell Cat Simulator",
+    "description": "Build and manage in Cat From Hell Cat Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/7fqv2vwixs5mjms5ngb8akiqixbzc3pv/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/cat-from-hell-cat-simulator",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

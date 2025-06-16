@@ -1,54 +1,35 @@
 {
-  "gameId": 9642,
-  "slug": "gt-formula-championship",
-  "metadata": {
-    "title": "GT Formula Championship Online - Ultimate Action Gaming...",
-    "description": "Experience thrilling action in GT Formula Championship! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-    "keywords": [
-      "GT Formula Championship online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "GT Formula Championship - Play Free Online Casual Game",
+  "description": "Relax and have fun with GT Formula Championship! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/gt-formula-championship",
+  "openGraph": {
+    "title": "GT Formula Championship - Free Online Game",
+    "description": "Relax and have fun with GT Formula Championship! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/t2k033u0g3n11gnyyur592liam2k86wc/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/gt-formula-championship",
-    "openGraph": {
-      "title": "GT Formula Championship Online - Ultimate Action Gaming...",
-      "description": "Experience thrilling action in GT Formula Championship! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-      "image": "https://img.gamedistribution.com/c20fc92d9de64674a67c621cb03e079d-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/gt-formula-championship",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "GT Formula Championship Online - Ultimate Action Gaming Experience",
-      "description": "Experience thrilling action in GT Formula Championship! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/c20fc92d9de64674a67c621cb03e079d-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/gt-formula-championship"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "GT Formula Championship",
-      "href": "/games/gt-formula-championship",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_908",
-    "customDescription": "Delivers fast-paced action and stunning visuals",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "GT Formula Championship - Free Online Game",
+    "description": "Relax and have fun with GT Formula Championship! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/t2k033u0g3n11gnyyur592liam2k86wc/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "GT Formula Championship",
+    "description": "Relax and have fun with GT Formula Championship! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/t2k033u0g3n11gnyyur592liam2k86wc/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/gt-formula-championship",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

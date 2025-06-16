@@ -1,54 +1,35 @@
 {
-  "gameId": 8911,
-  "slug": "ellie-christmas-makeup",
-  "metadata": {
-    "title": "Ellie Christmas Makeup - Exciting Action Adventure Game",
-    "description": "Experience thrilling action in Ellie Christmas Makeup! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-    "keywords": [
-      "Ellie Christmas Makeup online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "Ellie Christmas Makeup - Play Free Online Casual Game",
+  "description": "Relax and have fun with Ellie Christmas Makeup! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/ellie-christmas-makeup",
+  "openGraph": {
+    "title": "Ellie Christmas Makeup - Free Online Game",
+    "description": "Relax and have fun with Ellie Christmas Makeup! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/giot1874bxde80idjmxs1npskcj1nava/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/ellie-christmas-makeup",
-    "openGraph": {
-      "title": "Ellie Christmas Makeup - Exciting Action Adventure Game",
-      "description": "Experience thrilling action in Ellie Christmas Makeup! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-      "image": "https://img.gamedistribution.com/ade15335d6f143429e272fc068014b2d-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/ellie-christmas-makeup",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Ellie Christmas Makeup - Exciting Action Adventure Game",
-      "description": "Experience thrilling action in Ellie Christmas Makeup! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/ade15335d6f143429e272fc068014b2d-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/ellie-christmas-makeup"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Ellie Christmas Makeup",
-      "href": "/games/ellie-christmas-makeup",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_247",
-    "customDescription": "Features intense combat and strategic gameplay",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Ellie Christmas Makeup - Free Online Game",
+    "description": "Relax and have fun with Ellie Christmas Makeup! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/giot1874bxde80idjmxs1npskcj1nava/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Ellie Christmas Makeup",
+    "description": "Relax and have fun with Ellie Christmas Makeup! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/giot1874bxde80idjmxs1npskcj1nava/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/ellie-christmas-makeup",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

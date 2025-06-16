@@ -1,0 +1,35 @@
+{
+  "title": "Hide and Luig - Play Free Online Casual Game",
+  "description": "Relax and have fun with Hide and Luig! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/hide-and-luig",
+  "openGraph": {
+    "title": "Hide and Luig - Free Online Game",
+    "description": "Relax and have fun with Hide and Luig! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/h31mj5h9t2r0imhvrmwf3xelw5nw2vjf/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/hide-and-luig"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Hide and Luig - Free Online Game",
+    "description": "Relax and have fun with Hide and Luig! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/h31mj5h9t2r0imhvrmwf3xelw5nw2vjf/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Hide and Luig",
+    "description": "Relax and have fun with Hide and Luig! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/h31mj5h9t2r0imhvrmwf3xelw5nw2vjf/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/hide-and-luig",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

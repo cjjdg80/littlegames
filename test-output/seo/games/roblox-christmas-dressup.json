@@ -1,54 +1,35 @@
 {
-  "gameId": 9021,
-  "slug": "roblox-christmas-dressup",
-  "metadata": {
-    "title": "Action Game Roblox Christmas Dressup - Play Free Now",
-    "description": "Join the action in Roblox Christmas Dressup! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online...",
-    "keywords": [
-      "Roblox Christmas Dressup online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "Roblox Christmas Dressup - Play Free Online Casual Game",
+  "description": "Relax and have fun with Roblox Christmas Dressup! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/roblox-christmas-dressup",
+  "openGraph": {
+    "title": "Roblox Christmas Dressup - Free Online Game",
+    "description": "Relax and have fun with Roblox Christmas Dressup! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2prwfwgqxzt9jj9qcsihcu6oym126roa/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/roblox-christmas-dressup",
-    "openGraph": {
-      "title": "Action Game Roblox Christmas Dressup - Play Free Now",
-      "description": "Join the action in Roblox Christmas Dressup! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online...",
-      "image": "https://img.gamedistribution.com/46d14d33ab354fadb179016a9513048c-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/roblox-christmas-dressup",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game Roblox Christmas Dressup - Play Free Now",
-      "description": "Join the action in Roblox Christmas Dressup! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-      "image": "https://img.gamedistribution.com/46d14d33ab354fadb179016a9513048c-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/roblox-christmas-dressup"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Roblox Christmas Dressup",
-      "href": "/games/roblox-christmas-dressup",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_657",
-    "customDescription": "Features intense combat and strategic gameplay",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for action game enthusiasts"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Roblox Christmas Dressup - Free Online Game",
+    "description": "Relax and have fun with Roblox Christmas Dressup! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/2prwfwgqxzt9jj9qcsihcu6oym126roa/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Roblox Christmas Dressup",
+    "description": "Relax and have fun with Roblox Christmas Dressup! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/2prwfwgqxzt9jj9qcsihcu6oym126roa/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/roblox-christmas-dressup",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

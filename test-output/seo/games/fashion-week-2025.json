@@ -1,0 +1,35 @@
+{
+  "title": "Fashion Week 2025 - Play Free Online Casual Game",
+  "description": "Relax and have fun with Fashion Week 2025! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/fashion-week-2025",
+  "openGraph": {
+    "title": "Fashion Week 2025 - Free Online Game",
+    "description": "Relax and have fun with Fashion Week 2025! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/i1sdictu7ji0osgsqu4mxen28dogf4yk/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/fashion-week-2025"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Fashion Week 2025 - Free Online Game",
+    "description": "Relax and have fun with Fashion Week 2025! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/i1sdictu7ji0osgsqu4mxen28dogf4yk/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Fashion Week 2025",
+    "description": "Relax and have fun with Fashion Week 2025! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/i1sdictu7ji0osgsqu4mxen28dogf4yk/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/fashion-week-2025",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,54 +1,35 @@
 {
-  "gameId": 2229,
-  "slug": "infinite-stairs-online",
-  "metadata": {
-    "title": "Infinite Stairs Online Online - Explore and Discover",
-    "description": "Discover new worlds in Infinite Stairs Online. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
-    "keywords": [
-      "adventure games",
-      "Infinite Stairs Online",
-      "exploration games",
-      "adventure adventure"
+  "title": "Infinite Stairs Online - Play Free Online Casual Game",
+  "description": "Relax and have fun with Infinite Stairs Online! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/infinite-stairs-online",
+  "openGraph": {
+    "title": "Infinite Stairs Online - Free Online Game",
+    "description": "Relax and have fun with Infinite Stairs Online! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/uq1tpsyrgnk54dblhtso34oh3y12tjfn/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/infinite-stairs-online",
-    "openGraph": {
-      "title": "Infinite Stairs Online Online - Explore and Discover",
-      "description": "Discover new worlds in Infinite Stairs Online. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start...",
-      "image": "https://img.gamedistribution.com/55312a660398453689a46363021849c2-512x384.jpeg",
-      "url": "https://playbrowserminigames.com/games/infinite-stairs-online",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Infinite Stairs Online Online - Explore and Discover",
-      "description": "Discover new worlds in Infinite Stairs Online. This exciting adventure game offers instant browser play and provides endless exploration opportunities. Start your adventure today!",
-      "image": "https://img.gamedistribution.com/55312a660398453689a46363021849c2-512x384.jpeg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/infinite-stairs-online"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Adventure",
-      "href": "/categories/adventure"
-    },
-    {
-      "label": "Infinite Stairs Online",
-      "href": "/games/infinite-stairs-online",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "adventure_108",
-    "customDescription": "Offers vast worlds to explore and secrets to uncover",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for narrative adventure fans"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Infinite Stairs Online - Free Online Game",
+    "description": "Relax and have fun with Infinite Stairs Online! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/uq1tpsyrgnk54dblhtso34oh3y12tjfn/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Infinite Stairs Online",
+    "description": "Relax and have fun with Infinite Stairs Online! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/uq1tpsyrgnk54dblhtso34oh3y12tjfn/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/infinite-stairs-online",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

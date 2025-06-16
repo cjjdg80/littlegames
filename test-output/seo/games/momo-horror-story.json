@@ -1,0 +1,35 @@
+{
+  "title": "Momo Horror Story - Play Free Online Casual Game",
+  "description": "Relax and have fun with Momo Horror Story! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/momo-horror-story",
+  "openGraph": {
+    "title": "Momo Horror Story - Free Online Game",
+    "description": "Relax and have fun with Momo Horror Story! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/5fv1qjs4y57ltbk9q74zpteyeq3p6mob/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/momo-horror-story"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Momo Horror Story - Free Online Game",
+    "description": "Relax and have fun with Momo Horror Story! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/5fv1qjs4y57ltbk9q74zpteyeq3p6mob/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Momo Horror Story",
+    "description": "Relax and have fun with Momo Horror Story! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/5fv1qjs4y57ltbk9q74zpteyeq3p6mob/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/momo-horror-story",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

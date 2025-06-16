@@ -1,54 +1,35 @@
 {
-  "gameId": 9133,
-  "slug": "the-grench-couple-holiday-dress-up",
-  "metadata": {
-    "title": "Action Game The Grench Couple Holiday Dress up - Play Free...",
-    "description": "Dive into the action-packed world of The Grench Couple Holiday Dress up. This arcade game features instant browser play and delivers non-stop excitement. Start...",
-    "keywords": [
-      "play The Grench Couple Holiday Dress up",
-      "action games online",
-      "free arcade",
-      "browser games"
+  "title": "The Grench Couple Holiday Dress up - Play Free Online Casual Game",
+  "description": "Relax and have fun with The Grench Couple Holiday Dress up! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/the-grench-couple-holiday-dress-up",
+  "openGraph": {
+    "title": "The Grench Couple Holiday Dress up - Free Online Game",
+    "description": "Relax and have fun with The Grench Couple Holiday Dress up! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/f8p53afrxzvzswyvillbj2oz2mxv9e7m/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/the-grench-couple-holiday-dress-up",
-    "openGraph": {
-      "title": "Action Game The Grench Couple Holiday Dress up - Play Free...",
-      "description": "Dive into the action-packed world of The Grench Couple Holiday Dress up. This arcade game features instant browser play and delivers non-stop excitement. Start...",
-      "image": "https://img.gamedistribution.com/22f236fbc80f489c906970a2ef2e8051-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/the-grench-couple-holiday-dress-up",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game The Grench Couple Holiday Dress up - Play Free Now",
-      "description": "Dive into the action-packed world of The Grench Couple Holiday Dress up. This arcade game features instant browser play and delivers non-stop excitement. Start playing for free today!",
-      "image": "https://img.gamedistribution.com/22f236fbc80f489c906970a2ef2e8051-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/the-grench-couple-holiday-dress-up"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "The Grench Couple Holiday Dress up",
-      "href": "/games/the-grench-couple-holiday-dress-up",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_129",
-    "customDescription": "Delivers fast-paced action and stunning visuals",
-    "featuredTags": [],
-    "recommendationReason": "Great for quick gaming sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "The Grench Couple Holiday Dress up - Free Online Game",
+    "description": "Relax and have fun with The Grench Couple Holiday Dress up! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/f8p53afrxzvzswyvillbj2oz2mxv9e7m/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "The Grench Couple Holiday Dress up",
+    "description": "Relax and have fun with The Grench Couple Holiday Dress up! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/f8p53afrxzvzswyvillbj2oz2mxv9e7m/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/the-grench-couple-holiday-dress-up",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

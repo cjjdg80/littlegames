@@ -1,0 +1,35 @@
+{
+  "title": "Candy Cutter Saga - Play Free Online Casual Game",
+  "description": "Relax and have fun with Candy Cutter Saga! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/candy-cutter-saga",
+  "openGraph": {
+    "title": "Candy Cutter Saga - Free Online Game",
+    "description": "Relax and have fun with Candy Cutter Saga! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/wvkxvnqi8xg8dvya4g99jhs4xvabit49/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/candy-cutter-saga"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Candy Cutter Saga - Free Online Game",
+    "description": "Relax and have fun with Candy Cutter Saga! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/wvkxvnqi8xg8dvya4g99jhs4xvabit49/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Candy Cutter Saga",
+    "description": "Relax and have fun with Candy Cutter Saga! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/wvkxvnqi8xg8dvya4g99jhs4xvabit49/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/candy-cutter-saga",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,54 +1,35 @@
 {
-  "gameId": 3799,
-  "slug": "santa-claus-merge-numbers",
-  "metadata": {
-    "title": "Santa Claus Merge Numbers - Exciting Action Adventure Game",
-    "description": "Get ready for adrenaline-pumping action in Santa Claus Merge Numbers. This free online casual game brings you instant browser play and endless fun. No download...",
-    "keywords": [
-      "Santa Claus Merge Numbers game",
-      "action adventure",
-      "free browser games",
-      "online gaming"
+  "title": "Santa Claus Merge Numbers - Play Free Online Casual Game",
+  "description": "Relax and have fun with Santa Claus Merge Numbers! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/santa-claus-merge-numbers",
+  "openGraph": {
+    "title": "Santa Claus Merge Numbers - Free Online Game",
+    "description": "Relax and have fun with Santa Claus Merge Numbers! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/6t75s4bqhjglzut4uq8yyql8erxau52z/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/santa-claus-merge-numbers",
-    "openGraph": {
-      "title": "Santa Claus Merge Numbers - Exciting Action Adventure Game",
-      "description": "Get ready for adrenaline-pumping action in Santa Claus Merge Numbers. This free online casual game brings you instant browser play and endless fun. No download...",
-      "image": "https://img.gamedistribution.com/e58795ae9a9f479bada07ad48f9a498f-512x512.jpeg",
-      "url": "https://playbrowserminigames.com/games/santa-claus-merge-numbers",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Santa Claus Merge Numbers - Exciting Action Adventure Game",
-      "description": "Get ready for adrenaline-pumping action in Santa Claus Merge Numbers. This free online casual game brings you instant browser play and endless fun. No download required!",
-      "image": "https://img.gamedistribution.com/e58795ae9a9f479bada07ad48f9a498f-512x512.jpeg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/santa-claus-merge-numbers"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Santa Claus Merge Numbers",
-      "href": "/games/santa-claus-merge-numbers",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_775",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Santa Claus Merge Numbers - Free Online Game",
+    "description": "Relax and have fun with Santa Claus Merge Numbers! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/6t75s4bqhjglzut4uq8yyql8erxau52z/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Santa Claus Merge Numbers",
+    "description": "Relax and have fun with Santa Claus Merge Numbers! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/6t75s4bqhjglzut4uq8yyql8erxau52z/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/santa-claus-merge-numbers",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

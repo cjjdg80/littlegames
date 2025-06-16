@@ -1,0 +1,35 @@
+{
+  "title": "Tralalero Tralala Hidden Stars - Play Free Online Casual Game",
+  "description": "Relax and have fun with Tralalero Tralala Hidden Stars! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/tralalero-tralala-hidden-stars",
+  "openGraph": {
+    "title": "Tralalero Tralala Hidden Stars - Free Online Game",
+    "description": "Relax and have fun with Tralalero Tralala Hidden Stars! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/kk6se97y755w2qkbzi997r349cx8kf91/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/tralalero-tralala-hidden-stars"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Tralalero Tralala Hidden Stars - Free Online Game",
+    "description": "Relax and have fun with Tralalero Tralala Hidden Stars! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/kk6se97y755w2qkbzi997r349cx8kf91/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Tralalero Tralala Hidden Stars",
+    "description": "Relax and have fun with Tralalero Tralala Hidden Stars! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/kk6se97y755w2qkbzi997r349cx8kf91/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/tralalero-tralala-hidden-stars",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

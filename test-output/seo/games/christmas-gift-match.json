@@ -1,0 +1,35 @@
+{
+  "title": "Christmas Gift Match - Play Free Online Puzzle Game",
+  "description": "Challenge your mind with Christmas Gift Match! Solve clever puzzles and test your problem-solving skills.",
+  "keywords": "brain, puzzle, browser game, logic, thinking, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/puzzle/christmas-gift-match",
+  "openGraph": {
+    "title": "Christmas Gift Match - Free Online Game",
+    "description": "Challenge your mind with Christmas Gift Match! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/6hjszik1u2u42mo6pg1yqxfabgsf9ob6/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/puzzle/christmas-gift-match"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Christmas Gift Match - Free Online Game",
+    "description": "Challenge your mind with Christmas Gift Match! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/6hjszik1u2u42mo6pg1yqxfabgsf9ob6/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Christmas Gift Match",
+    "description": "Challenge your mind with Christmas Gift Match! Solve clever puzzles and test your problem-solving skills.",
+    "image": "https://img.gamemonetize.com/6hjszik1u2u42mo6pg1yqxfabgsf9ob6/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/puzzle/christmas-gift-match",
+    "genre": "Puzzle",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

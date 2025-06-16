@@ -27,7 +27,7 @@ export interface HomePageGame {
 export function adaptGameForHomePage(game: Game): HomePageGame {
   return {
     id: game.id,
-    title: game.title.en,
+    title: typeof game.title === 'string' ? game.title : game.title.en,
     category: game.category,
     rating: 5.0, // 默认评分，后续可以从真实数据获取
     downloads: generateDownloads(game.id), // 生成下载量显示
@@ -35,7 +35,7 @@ export function adaptGameForHomePage(game: Game): HomePageGame {
     featured: game.featured,
     isNew: isNewGame(game.createdAt),
     slug: game.slug,
-    description: game.description.en
+    description: typeof game.description === 'string' ? game.description : game.description.en
   };
 }
 

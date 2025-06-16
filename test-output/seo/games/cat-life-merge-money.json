@@ -1,54 +1,35 @@
 {
-  "gameId": 8718,
-  "slug": "cat-life-merge-money",
-  "metadata": {
-    "title": "Free Cat Life Merge Money Game - Action Packed Fun",
-    "description": "Experience thrilling action in Cat Life Merge Money! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and...",
-    "keywords": [
-      "action games",
-      "Cat Life Merge Money",
-      "free online games",
-      "simulation games"
+  "title": "Cat Life Merge Money - Play Free Online Casual Game",
+  "description": "Relax and have fun with Cat Life Merge Money! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/cat-life-merge-money",
+  "openGraph": {
+    "title": "Cat Life Merge Money - Free Online Game",
+    "description": "Relax and have fun with Cat Life Merge Money! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/02oaz5794rypk5gf2x113fxeibwrh1po/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/cat-life-merge-money",
-    "openGraph": {
-      "title": "Free Cat Life Merge Money Game - Action Packed Fun",
-      "description": "Experience thrilling action in Cat Life Merge Money! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and...",
-      "image": "https://img.gamedistribution.com/25330011429846999effc9f00e39add4-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/cat-life-merge-money",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Free Cat Life Merge Money Game - Action Packed Fun",
-      "description": "Experience thrilling action in Cat Life Merge Money! This exciting simulation game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/25330011429846999effc9f00e39add4-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/cat-life-merge-money"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Simulation",
-      "href": "/categories/simulation"
-    },
-    {
-      "label": "Cat Life Merge Money",
-      "href": "/games/cat-life-merge-money",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "simulation_268",
-    "customDescription": "Offers challenging levels and exciting rewards",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Cat Life Merge Money - Free Online Game",
+    "description": "Relax and have fun with Cat Life Merge Money! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/02oaz5794rypk5gf2x113fxeibwrh1po/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Cat Life Merge Money",
+    "description": "Relax and have fun with Cat Life Merge Money! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/02oaz5794rypk5gf2x113fxeibwrh1po/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/cat-life-merge-money",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "title": "Weird Toilet Flush! - Play Free Online Casual Game",
+  "description": "Relax and have fun with Weird Toilet Flush!! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/weird-toilet-flush",
+  "openGraph": {
+    "title": "Weird Toilet Flush! - Free Online Game",
+    "description": "Relax and have fun with Weird Toilet Flush!! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/koj23uvx7hs3gdsj1b8nwfa6d0lqqw5x/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/weird-toilet-flush"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Weird Toilet Flush! - Free Online Game",
+    "description": "Relax and have fun with Weird Toilet Flush!! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/koj23uvx7hs3gdsj1b8nwfa6d0lqqw5x/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Weird Toilet Flush!",
+    "description": "Relax and have fun with Weird Toilet Flush!! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/koj23uvx7hs3gdsj1b8nwfa6d0lqqw5x/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/weird-toilet-flush",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

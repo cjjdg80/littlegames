@@ -1,0 +1,35 @@
+{
+  "title": "Santa: The Magic of Tree Decorating - Play Free Online Casual Game",
+  "description": "Relax and have fun with Santa: The Magic of Tree Decorating! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/santa-the-magic-of-tree-decorating",
+  "openGraph": {
+    "title": "Santa: The Magic of Tree Decorating - Free Online Game",
+    "description": "Relax and have fun with Santa: The Magic of Tree Decorating! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/ao0fdvi0iud8vcnmtsz6m7b3vj6ph652/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/santa-the-magic-of-tree-decorating"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Santa: The Magic of Tree Decorating - Free Online Game",
+    "description": "Relax and have fun with Santa: The Magic of Tree Decorating! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/ao0fdvi0iud8vcnmtsz6m7b3vj6ph652/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Santa: The Magic of Tree Decorating",
+    "description": "Relax and have fun with Santa: The Magic of Tree Decorating! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/ao0fdvi0iud8vcnmtsz6m7b3vj6ph652/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/santa-the-magic-of-tree-decorating",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

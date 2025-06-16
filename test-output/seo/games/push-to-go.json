@@ -1,54 +1,35 @@
 {
-  "gameId": 9724,
-  "slug": "push-to-go",
-  "metadata": {
-    "title": "Play Push To Go - Free Action Game Online",
-    "description": "Experience thrilling action in Push To Go! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
-    "keywords": [
-      "play Push To Go",
-      "action games online",
-      "free casual",
-      "browser games"
+  "title": "Push To Go - Play Free Online Casual Game",
+  "description": "Relax and have fun with Push To Go! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/push-to-go",
+  "openGraph": {
+    "title": "Push To Go - Free Online Game",
+    "description": "Relax and have fun with Push To Go! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/lrckq5mmzt9ieg2mwwd9zi72vqde6uhb/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/push-to-go",
-    "openGraph": {
-      "title": "Play Push To Go - Free Action Game Online",
-      "description": "Experience thrilling action in Push To Go! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of...",
-      "image": "https://img.gamedistribution.com/b6a85169a7284d388a28fe5d0c6eaaf6-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/push-to-go",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Play Push To Go - Free Action Game Online",
-      "description": "Experience thrilling action in Push To Go! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/b6a85169a7284d388a28fe5d0c6eaaf6-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/push-to-go"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Push To Go",
-      "href": "/games/push-to-go",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_450",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Push To Go - Free Online Game",
+    "description": "Relax and have fun with Push To Go! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/lrckq5mmzt9ieg2mwwd9zi72vqde6uhb/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Push To Go",
+    "description": "Relax and have fun with Push To Go! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/lrckq5mmzt9ieg2mwwd9zi72vqde6uhb/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/push-to-go",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

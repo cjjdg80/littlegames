@@ -1,0 +1,35 @@
+{
+  "title": "BitLife - Life Simulator - Play Free Online Simulation Game",
+  "description": "Build and manage in BitLife - Life Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/bitlife-life-simulator",
+  "openGraph": {
+    "title": "BitLife - Life Simulator - Free Online Game",
+    "description": "Build and manage in BitLife - Life Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/sunlne8825d1006jux3b1xrl9vda49f1/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/bitlife-life-simulator"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "BitLife - Life Simulator - Free Online Game",
+    "description": "Build and manage in BitLife - Life Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/sunlne8825d1006jux3b1xrl9vda49f1/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "BitLife - Life Simulator",
+    "description": "Build and manage in BitLife - Life Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/sunlne8825d1006jux3b1xrl9vda49f1/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/bitlife-life-simulator",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "RSS Builder - Play Free Online Strategy Game",
+  "description": "Plan and conquer in RSS Builder! Strategic gameplay requiring tactical thinking and careful planning.",
+  "keywords": "online game, planning, strategy, tactical, free game, defense, html5 game, browser game",
+  "canonical": "https://playbrowserminigames.com/games/strategy/rss-builder",
+  "openGraph": {
+    "title": "RSS Builder - Free Online Game",
+    "description": "Plan and conquer in RSS Builder! Strategic gameplay requiring tactical thinking and careful planning.",
+    "images": [
+      "/images/default-game-thumbnail.svg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/strategy/rss-builder"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "RSS Builder - Free Online Game",
+    "description": "Plan and conquer in RSS Builder! Strategic gameplay requiring tactical thinking and careful planning.",
+    "images": [
+      "/images/default-game-thumbnail.svg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "RSS Builder",
+    "description": "Plan and conquer in RSS Builder! Strategic gameplay requiring tactical thinking and careful planning.",
+    "image": "/images/default-game-thumbnail.svg",
+    "url": "https://playbrowserminigames.com/games/strategy/rss-builder",
+    "genre": "Strategy",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Among Us Space Rush - Play Free Online Casual Game",
+  "description": "Relax and have fun with Among Us Space Rush! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/among-us-space-rush",
+  "openGraph": {
+    "title": "Among Us Space Rush - Free Online Game",
+    "description": "Relax and have fun with Among Us Space Rush! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3iaqi4b196ujgycgvjnxhegwcj0y4617/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/among-us-space-rush"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Among Us Space Rush - Free Online Game",
+    "description": "Relax and have fun with Among Us Space Rush! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3iaqi4b196ujgycgvjnxhegwcj0y4617/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Among Us Space Rush",
+    "description": "Relax and have fun with Among Us Space Rush! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/3iaqi4b196ujgycgvjnxhegwcj0y4617/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/among-us-space-rush",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

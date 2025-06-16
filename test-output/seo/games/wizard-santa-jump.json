@@ -1,0 +1,35 @@
+{
+  "title": "Wizard Santa Jump - Play Free Online Casual Game",
+  "description": "Relax and have fun with Wizard Santa Jump! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/wizard-santa-jump",
+  "openGraph": {
+    "title": "Wizard Santa Jump - Free Online Game",
+    "description": "Relax and have fun with Wizard Santa Jump! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/81shja9hgxavi6i5bbyy29926j3c82gk/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/wizard-santa-jump"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Wizard Santa Jump - Free Online Game",
+    "description": "Relax and have fun with Wizard Santa Jump! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/81shja9hgxavi6i5bbyy29926j3c82gk/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Wizard Santa Jump",
+    "description": "Relax and have fun with Wizard Santa Jump! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/81shja9hgxavi6i5bbyy29926j3c82gk/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/wizard-santa-jump",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

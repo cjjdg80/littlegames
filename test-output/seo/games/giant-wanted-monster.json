@@ -1,54 +1,35 @@
 {
-  "gameId": 9707,
-  "slug": "giant-wanted-monster",
-  "metadata": {
-    "title": "Giant Wanted Monster Online - Ultimate Action Gaming...",
-    "description": "Join the action in Giant Wanted Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-    "keywords": [
-      "Giant Wanted Monster game",
-      "action adventure",
-      "free browser games",
-      "online gaming"
+  "title": "Giant Wanted Monster - Play Free Online Casual Game",
+  "description": "Relax and have fun with Giant Wanted Monster! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/giant-wanted-monster",
+  "openGraph": {
+    "title": "Giant Wanted Monster - Free Online Game",
+    "description": "Relax and have fun with Giant Wanted Monster! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3xlseluxd857tfjdkzpfjz8ts4its0bi/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/giant-wanted-monster",
-    "openGraph": {
-      "title": "Giant Wanted Monster Online - Ultimate Action Gaming...",
-      "description": "Join the action in Giant Wanted Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-      "image": "https://img.gamedistribution.com/036e270492174a10a16ab5d5ef91cb45-200x120.jpg",
-      "url": "https://playbrowserminigames.com/games/giant-wanted-monster",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Giant Wanted Monster Online - Ultimate Action Gaming Experience",
-      "description": "Join the action in Giant Wanted Monster! This captivating arcade game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-      "image": "https://img.gamedistribution.com/036e270492174a10a16ab5d5ef91cb45-200x120.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/giant-wanted-monster"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Giant Wanted Monster",
-      "href": "/games/giant-wanted-monster",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_923",
-    "customDescription": "Offers challenging levels and exciting rewards",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for action game enthusiasts"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Giant Wanted Monster - Free Online Game",
+    "description": "Relax and have fun with Giant Wanted Monster! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3xlseluxd857tfjdkzpfjz8ts4its0bi/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Giant Wanted Monster",
+    "description": "Relax and have fun with Giant Wanted Monster! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/3xlseluxd857tfjdkzpfjz8ts4its0bi/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/giant-wanted-monster",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

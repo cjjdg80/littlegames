@@ -1,54 +1,35 @@
 {
-  "gameId": 8851,
-  "slug": "dino-simulator-city-attack",
-  "metadata": {
-    "title": "Free Dino Simulator City Attack Game - Adventure Awaits",
-    "description": "Embark on an epic journey in Dino Simulator City Attack! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
-    "keywords": [
-      "Dino Simulator City Attack online",
-      "adventure gaming",
-      "exploration",
-      "adventure quest"
+  "title": "Dino Simulator City Attack - Play Free Online Simulation Game",
+  "description": "Build and manage in Dino Simulator City Attack! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/dino-simulator-city-attack",
+  "openGraph": {
+    "title": "Dino Simulator City Attack - Free Online Game",
+    "description": "Build and manage in Dino Simulator City Attack! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/3jeh3dg86fnn2nlnjjqq2y8dsru7ld3c/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/dino-simulator-city-attack",
-    "openGraph": {
-      "title": "Free Dino Simulator City Attack Game - Adventure Awaits",
-      "description": "Embark on an epic journey in Dino Simulator City Attack! This immersive adventure game features instant browser play and takes you on unforgettable adventures....",
-      "image": "https://img.gamedistribution.com/96070f9edc1648e9a22b7635a38c678c-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/dino-simulator-city-attack",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Free Dino Simulator City Attack Game - Adventure Awaits",
-      "description": "Embark on an epic journey in Dino Simulator City Attack! This immersive adventure game features instant browser play and takes you on unforgettable adventures. Play free online now!",
-      "image": "https://img.gamedistribution.com/96070f9edc1648e9a22b7635a38c678c-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/dino-simulator-city-attack"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Adventure",
-      "href": "/categories/adventure"
-    },
-    {
-      "label": "Dino Simulator City Attack",
-      "href": "/games/dino-simulator-city-attack",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "adventure_390",
-    "customDescription": "Delivers memorable characters and epic moments",
-    "featuredTags": [],
-    "recommendationReason": "Great for immersive gameplay sessions"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Dino Simulator City Attack - Free Online Game",
+    "description": "Build and manage in Dino Simulator City Attack! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/3jeh3dg86fnn2nlnjjqq2y8dsru7ld3c/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Dino Simulator City Attack",
+    "description": "Build and manage in Dino Simulator City Attack! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/3jeh3dg86fnn2nlnjjqq2y8dsru7ld3c/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/dino-simulator-city-attack",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

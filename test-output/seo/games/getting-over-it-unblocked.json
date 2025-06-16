@@ -1,0 +1,35 @@
+{
+  "title": "Getting Over It Unblocked - Play Free Online Puzzle Game",
+  "description": "Challenge your mind with Getting Over It Unblocked! Solve clever puzzles and test your problem-solving skills.",
+  "keywords": "brain, puzzle, browser game, logic, thinking, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/puzzle/getting-over-it-unblocked",
+  "openGraph": {
+    "title": "Getting Over It Unblocked - Free Online Game",
+    "description": "Challenge your mind with Getting Over It Unblocked! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/99gjodm9l46o7lbkuf26qhc54pxyzp1o/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/puzzle/getting-over-it-unblocked"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Getting Over It Unblocked - Free Online Game",
+    "description": "Challenge your mind with Getting Over It Unblocked! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/99gjodm9l46o7lbkuf26qhc54pxyzp1o/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Getting Over It Unblocked",
+    "description": "Challenge your mind with Getting Over It Unblocked! Solve clever puzzles and test your problem-solving skills.",
+    "image": "https://img.gamemonetize.com/99gjodm9l46o7lbkuf26qhc54pxyzp1o/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/puzzle/getting-over-it-unblocked",
+    "genre": "Puzzle",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

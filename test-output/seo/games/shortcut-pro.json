@@ -1,0 +1,35 @@
+{
+  "title": "Shortcut Pro - Play Free Online Casual Game",
+  "description": "Relax and have fun with Shortcut Pro! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/shortcut-pro",
+  "openGraph": {
+    "title": "Shortcut Pro - Free Online Game",
+    "description": "Relax and have fun with Shortcut Pro! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/1vnprxr0epkagwx7lvfw638r6lo32vx4/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/shortcut-pro"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Shortcut Pro - Free Online Game",
+    "description": "Relax and have fun with Shortcut Pro! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/1vnprxr0epkagwx7lvfw638r6lo32vx4/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Shortcut Pro",
+    "description": "Relax and have fun with Shortcut Pro! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/1vnprxr0epkagwx7lvfw638r6lo32vx4/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/shortcut-pro",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

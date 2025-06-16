@@ -1,0 +1,35 @@
+{
+  "title": "Blog - Play Free Online Casual Game",
+  "description": "Relax and have fun with Blog! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "online game, fun, casual, free game, html5 game, browser game, easy, relaxing",
+  "canonical": "https://playbrowserminigames.com/games/casual/blog",
+  "openGraph": {
+    "title": "Blog - Free Online Game",
+    "description": "Relax and have fun with Blog! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "/images/default-game-thumbnail.svg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/blog"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Blog - Free Online Game",
+    "description": "Relax and have fun with Blog! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "/images/default-game-thumbnail.svg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Blog",
+    "description": "Relax and have fun with Blog! Perfect casual game for players of all ages and skill levels.",
+    "image": "/images/default-game-thumbnail.svg",
+    "url": "https://playbrowserminigames.com/games/casual/blog",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

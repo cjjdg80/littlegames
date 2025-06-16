@@ -1,0 +1,35 @@
+{
+  "title": "Bouncy Santa Claus - Play Free Online Casual Game",
+  "description": "Relax and have fun with Bouncy Santa Claus! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/bouncy-santa-claus",
+  "openGraph": {
+    "title": "Bouncy Santa Claus - Free Online Game",
+    "description": "Relax and have fun with Bouncy Santa Claus! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/8tfvu3aj61a7q45lq76408ezltj4ycgx/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/bouncy-santa-claus"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Bouncy Santa Claus - Free Online Game",
+    "description": "Relax and have fun with Bouncy Santa Claus! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/8tfvu3aj61a7q45lq76408ezltj4ycgx/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Bouncy Santa Claus",
+    "description": "Relax and have fun with Bouncy Santa Claus! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/8tfvu3aj61a7q45lq76408ezltj4ycgx/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/bouncy-santa-claus",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

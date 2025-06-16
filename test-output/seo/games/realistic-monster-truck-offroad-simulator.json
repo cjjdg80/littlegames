@@ -1,0 +1,35 @@
+{
+  "title": "Realistic Monster Truck Offroad Simulator - Play Free Online Simulation Game",
+  "description": "Build and manage in Realistic Monster Truck Offroad Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/realistic-monster-truck-offroad-simulator",
+  "openGraph": {
+    "title": "Realistic Monster Truck Offroad Simulator - Free Online Game",
+    "description": "Build and manage in Realistic Monster Truck Offroad Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/oyql8cwsas24prq2plynllt9trjs0tga/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/realistic-monster-truck-offroad-simulator"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Realistic Monster Truck Offroad Simulator - Free Online Game",
+    "description": "Build and manage in Realistic Monster Truck Offroad Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/oyql8cwsas24prq2plynllt9trjs0tga/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Realistic Monster Truck Offroad Simulator",
+    "description": "Build and manage in Realistic Monster Truck Offroad Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/oyql8cwsas24prq2plynllt9trjs0tga/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/realistic-monster-truck-offroad-simulator",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

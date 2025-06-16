@@ -1,0 +1,35 @@
+{
+  "title": "Super Wario Riders - Play Free Online Action Game",
+  "description": "Experience thrilling action in Super Wario Riders! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+  "keywords": "browser game, shooting, action, fighting, combat, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/action/super-wario-riders",
+  "openGraph": {
+    "title": "Super Wario Riders - Free Online Game",
+    "description": "Experience thrilling action in Super Wario Riders! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/sly30piwilci61j7pc5x8n36cdu9n19f/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/action/super-wario-riders"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Super Wario Riders - Free Online Game",
+    "description": "Experience thrilling action in Super Wario Riders! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "images": [
+      "https://img.gamemonetize.com/sly30piwilci61j7pc5x8n36cdu9n19f/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Super Wario Riders",
+    "description": "Experience thrilling action in Super Wario Riders! Fast-paced gameplay with exciting challenges and dynamic combat mechanics.",
+    "image": "https://img.gamemonetize.com/sly30piwilci61j7pc5x8n36cdu9n19f/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/action/super-wario-riders",
+    "genre": "Action",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Adventure Home - Play Free Online Adventure Game",
+  "description": "Embark on an epic adventure in Adventure Home! Explore mysterious worlds and solve challenging puzzles.",
+  "keywords": "exploration, browser game, adventure, quest, story, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/adventure/adventure-home",
+  "openGraph": {
+    "title": "Adventure Home - Free Online Game",
+    "description": "Embark on an epic adventure in Adventure Home! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/6mw96kdp3ketqjyafnad8t2099h4z9tv/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/adventure/adventure-home"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Adventure Home - Free Online Game",
+    "description": "Embark on an epic adventure in Adventure Home! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/6mw96kdp3ketqjyafnad8t2099h4z9tv/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Adventure Home",
+    "description": "Embark on an epic adventure in Adventure Home! Explore mysterious worlds and solve challenging puzzles.",
+    "image": "https://img.gamemonetize.com/6mw96kdp3ketqjyafnad8t2099h4z9tv/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/adventure/adventure-home",
+    "genre": "Adventure",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

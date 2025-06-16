@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test:crawler": "npx ts-node --project tsconfig.node.json scripts/crawler/testGameList.ts"
+    "test:crawler": "npx ts-node --project tsconfig.node.json scripts/crawler/testGameList.ts",
+    "generate:sitemap": "node scripts/generate-static-sitemap.js"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

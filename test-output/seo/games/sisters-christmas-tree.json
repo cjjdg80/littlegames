@@ -1,0 +1,35 @@
+{
+  "title": "SISTERS CHRISTMAS TREE - Play Free Online Casual Game",
+  "description": "Relax and have fun with SISTERS CHRISTMAS TREE! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/sisters-christmas-tree",
+  "openGraph": {
+    "title": "SISTERS CHRISTMAS TREE - Free Online Game",
+    "description": "Relax and have fun with SISTERS CHRISTMAS TREE! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/0s424dxoch4j48mtv8u06icfbohhu40v/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/sisters-christmas-tree"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "SISTERS CHRISTMAS TREE - Free Online Game",
+    "description": "Relax and have fun with SISTERS CHRISTMAS TREE! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/0s424dxoch4j48mtv8u06icfbohhu40v/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "SISTERS CHRISTMAS TREE",
+    "description": "Relax and have fun with SISTERS CHRISTMAS TREE! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/0s424dxoch4j48mtv8u06icfbohhu40v/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/sisters-christmas-tree",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,54 +1,35 @@
 {
-  "gameId": 8999,
-  "slug": "xmas-presents-mahjong",
-  "metadata": {
-    "title": "Free Xmas Presents Mahjong Game - Action Packed Fun",
-    "description": "Experience thrilling action in Xmas Presents Mahjong! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-    "keywords": [
-      "play Xmas Presents Mahjong",
-      "action games online",
-      "free arcade",
-      "browser games"
+  "title": "Xmas Presents Mahjong - Play Free Online Casual Game",
+  "description": "Relax and have fun with Xmas Presents Mahjong! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/xmas-presents-mahjong",
+  "openGraph": {
+    "title": "Xmas Presents Mahjong - Free Online Game",
+    "description": "Relax and have fun with Xmas Presents Mahjong! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/cmtzbjqrvj0phn80gxdsoxsu8gcmijv5/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/xmas-presents-mahjong",
-    "openGraph": {
-      "title": "Free Xmas Presents Mahjong Game - Action Packed Fun",
-      "description": "Experience thrilling action in Xmas Presents Mahjong! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and...",
-      "image": "https://img.gamedistribution.com/a74d80bd74874dbba1b71ab265216aca-512x512.jpg",
-      "url": "https://playbrowserminigames.com/games/xmas-presents-mahjong",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Free Xmas Presents Mahjong Game - Action Packed Fun",
-      "description": "Experience thrilling action in Xmas Presents Mahjong! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/a74d80bd74874dbba1b71ab265216aca-512x512.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/xmas-presents-mahjong"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Xmas Presents Mahjong",
-      "href": "/games/xmas-presents-mahjong",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_975",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for competitive players"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Xmas Presents Mahjong - Free Online Game",
+    "description": "Relax and have fun with Xmas Presents Mahjong! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/cmtzbjqrvj0phn80gxdsoxsu8gcmijv5/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Xmas Presents Mahjong",
+    "description": "Relax and have fun with Xmas Presents Mahjong! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/cmtzbjqrvj0phn80gxdsoxsu8gcmijv5/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/xmas-presents-mahjong",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

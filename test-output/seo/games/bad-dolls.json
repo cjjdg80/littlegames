@@ -1,0 +1,35 @@
+{
+  "title": "Bad Dolls - Play Free Online Casual Game",
+  "description": "Relax and have fun with Bad Dolls! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/bad-dolls",
+  "openGraph": {
+    "title": "Bad Dolls - Free Online Game",
+    "description": "Relax and have fun with Bad Dolls! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/gldqt2h3m8ykhrbknlw40iv9sw791j1b/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/bad-dolls"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Bad Dolls - Free Online Game",
+    "description": "Relax and have fun with Bad Dolls! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/gldqt2h3m8ykhrbknlw40iv9sw791j1b/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Bad Dolls",
+    "description": "Relax and have fun with Bad Dolls! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/gldqt2h3m8ykhrbknlw40iv9sw791j1b/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/bad-dolls",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

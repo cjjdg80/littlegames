@@ -1,0 +1,35 @@
+{
+  "title": "Mini Games Calm And Puzzle - Play Free Online Puzzle Game",
+  "description": "Challenge your mind with Mini Games Calm And Puzzle! Solve clever puzzles and test your problem-solving skills.",
+  "keywords": "brain, puzzle, browser game, logic, thinking, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/puzzle/mini-games-calm-and-puzzle",
+  "openGraph": {
+    "title": "Mini Games Calm And Puzzle - Free Online Game",
+    "description": "Challenge your mind with Mini Games Calm And Puzzle! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/0214qop28koqriu3rkkkziyr5053gxyj/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/puzzle/mini-games-calm-and-puzzle"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Mini Games Calm And Puzzle - Free Online Game",
+    "description": "Challenge your mind with Mini Games Calm And Puzzle! Solve clever puzzles and test your problem-solving skills.",
+    "images": [
+      "https://img.gamemonetize.com/0214qop28koqriu3rkkkziyr5053gxyj/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Mini Games Calm And Puzzle",
+    "description": "Challenge your mind with Mini Games Calm And Puzzle! Solve clever puzzles and test your problem-solving skills.",
+    "image": "https://img.gamemonetize.com/0214qop28koqriu3rkkkziyr5053gxyj/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/puzzle/mini-games-calm-and-puzzle",
+    "genre": "Puzzle",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

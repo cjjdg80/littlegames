@@ -1,0 +1,35 @@
+{
+  "title": "Christmas Deer - Play Free Online Casual Game",
+  "description": "Relax and have fun with Christmas Deer! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/christmas-deer",
+  "openGraph": {
+    "title": "Christmas Deer - Free Online Game",
+    "description": "Relax and have fun with Christmas Deer! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/fev0wfdpyfx06ey93abhifo2p9bjwrj4/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/christmas-deer"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Christmas Deer - Free Online Game",
+    "description": "Relax and have fun with Christmas Deer! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/fev0wfdpyfx06ey93abhifo2p9bjwrj4/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Christmas Deer",
+    "description": "Relax and have fun with Christmas Deer! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/fev0wfdpyfx06ey93abhifo2p9bjwrj4/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/christmas-deer",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

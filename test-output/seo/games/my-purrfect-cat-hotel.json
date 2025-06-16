@@ -1,54 +1,35 @@
 {
-  "gameId": 9849,
-  "slug": "my-purrfect-cat-hotel",
-  "metadata": {
-    "title": "My Purrfect Cat Hotel - Exciting Action Adventure Game",
-    "description": "Join the action in My Purrfect Cat Hotel! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online...",
-    "keywords": [
-      "My Purrfect Cat Hotel game",
-      "action adventure",
-      "free browser games",
-      "online gaming"
+  "title": "My Purrfect Cat Hotel - Play Free Online Casual Game",
+  "description": "Relax and have fun with My Purrfect Cat Hotel! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/my-purrfect-cat-hotel",
+  "openGraph": {
+    "title": "My Purrfect Cat Hotel - Free Online Game",
+    "description": "Relax and have fun with My Purrfect Cat Hotel! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/p1kzm09seq85pi8vz57nog7fr7sit4b1/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/my-purrfect-cat-hotel",
-    "openGraph": {
-      "title": "My Purrfect Cat Hotel - Exciting Action Adventure Game",
-      "description": "Join the action in My Purrfect Cat Hotel! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online...",
-      "image": "https://img.gamedistribution.com/b0873448cc8e425893f755e7b2ba4323-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/my-purrfect-cat-hotel",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "My Purrfect Cat Hotel - Exciting Action Adventure Game",
-      "description": "Join the action in My Purrfect Cat Hotel! This captivating simulation game offers instant browser play and guarantees hours of entertainment. Play free online now!",
-      "image": "https://img.gamedistribution.com/b0873448cc8e425893f755e7b2ba4323-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/my-purrfect-cat-hotel"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Simulation",
-      "href": "/categories/simulation"
-    },
-    {
-      "label": "My Purrfect Cat Hotel",
-      "href": "/games/my-purrfect-cat-hotel",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "simulation_329",
-    "customDescription": "Delivers fast-paced action and stunning visuals",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "My Purrfect Cat Hotel - Free Online Game",
+    "description": "Relax and have fun with My Purrfect Cat Hotel! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/p1kzm09seq85pi8vz57nog7fr7sit4b1/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "My Purrfect Cat Hotel",
+    "description": "Relax and have fun with My Purrfect Cat Hotel! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/p1kzm09seq85pi8vz57nog7fr7sit4b1/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/my-purrfect-cat-hotel",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

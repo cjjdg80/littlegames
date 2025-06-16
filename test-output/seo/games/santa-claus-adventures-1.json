@@ -1,0 +1,35 @@
+{
+  "title": "Santa Claus Adventures 1 - Play Free Online Adventure Game",
+  "description": "Embark on an epic adventure in Santa Claus Adventures 1! Explore mysterious worlds and solve challenging puzzles.",
+  "keywords": "exploration, browser game, adventure, quest, story, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/adventure/santa-claus-adventures-1",
+  "openGraph": {
+    "title": "Santa Claus Adventures 1 - Free Online Game",
+    "description": "Embark on an epic adventure in Santa Claus Adventures 1! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/bl9jsif89ke2flf8m1ubq26q84pk0o4z/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/adventure/santa-claus-adventures-1"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Santa Claus Adventures 1 - Free Online Game",
+    "description": "Embark on an epic adventure in Santa Claus Adventures 1! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/bl9jsif89ke2flf8m1ubq26q84pk0o4z/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Santa Claus Adventures 1",
+    "description": "Embark on an epic adventure in Santa Claus Adventures 1! Explore mysterious worlds and solve challenging puzzles.",
+    "image": "https://img.gamemonetize.com/bl9jsif89ke2flf8m1ubq26q84pk0o4z/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/adventure/santa-claus-adventures-1",
+    "genre": "Adventure",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

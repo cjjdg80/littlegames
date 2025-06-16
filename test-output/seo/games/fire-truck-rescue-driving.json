@@ -1,0 +1,35 @@
+{
+  "title": "Fire Truck Rescue Driving - Play Free Online Casual Game",
+  "description": "Relax and have fun with Fire Truck Rescue Driving! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/fire-truck-rescue-driving",
+  "openGraph": {
+    "title": "Fire Truck Rescue Driving - Free Online Game",
+    "description": "Relax and have fun with Fire Truck Rescue Driving! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3s3sdyaskvv3ijp4t6yx6663q2uhqmzb/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/fire-truck-rescue-driving"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Fire Truck Rescue Driving - Free Online Game",
+    "description": "Relax and have fun with Fire Truck Rescue Driving! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3s3sdyaskvv3ijp4t6yx6663q2uhqmzb/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Fire Truck Rescue Driving",
+    "description": "Relax and have fun with Fire Truck Rescue Driving! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/3s3sdyaskvv3ijp4t6yx6663q2uhqmzb/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/fire-truck-rescue-driving",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

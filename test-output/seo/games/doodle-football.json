@@ -1,54 +1,35 @@
 {
-  "gameId": 9241,
-  "slug": "doodle-football",
-  "metadata": {
-    "title": "Action Game Doodle Football - Play Free Now",
-    "description": "Dive into the action-packed world of Doodle Football. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
-    "keywords": [
-      "action games",
-      "Doodle Football",
-      "free online games",
-      "casual games"
+  "title": "Doodle Football - Play Free Online Casual Game",
+  "description": "Relax and have fun with Doodle Football! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/doodle-football",
+  "openGraph": {
+    "title": "Doodle Football - Free Online Game",
+    "description": "Relax and have fun with Doodle Football! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/otkghh55wx2a5zrrjvqemefeeozufjy3/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/doodle-football",
-    "openGraph": {
-      "title": "Action Game Doodle Football - Play Free Now",
-      "description": "Dive into the action-packed world of Doodle Football. This casual game features instant browser play and delivers non-stop excitement. Start playing for free...",
-      "image": "https://img.gamedistribution.com/2babe9f2198b4ac38944b8f4c81fff7c-512x512.jpg",
-      "url": "https://playbrowserminigames.com/games/doodle-football",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Action Game Doodle Football - Play Free Now",
-      "description": "Dive into the action-packed world of Doodle Football. This casual game features instant browser play and delivers non-stop excitement. Start playing for free today!",
-      "image": "https://img.gamedistribution.com/2babe9f2198b4ac38944b8f4c81fff7c-512x512.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/doodle-football"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Doodle Football",
-      "href": "/games/doodle-football",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_477",
-    "customDescription": "Includes dynamic environments and smooth controls",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for action game enthusiasts"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Doodle Football - Free Online Game",
+    "description": "Relax and have fun with Doodle Football! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/otkghh55wx2a5zrrjvqemefeeozufjy3/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Doodle Football",
+    "description": "Relax and have fun with Doodle Football! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/otkghh55wx2a5zrrjvqemefeeozufjy3/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/doodle-football",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "title": "Truck Transport Simulator - Play Free Online Simulation Game",
+  "description": "Build and manage in Truck Transport Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+  "keywords": "building, management, browser game, html5 game, strategy, simulation, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/simulation/truck-transport-simulator",
+  "openGraph": {
+    "title": "Truck Transport Simulator - Free Online Game",
+    "description": "Build and manage in Truck Transport Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/0yowl6lwz72aululkpwscu00who4si65/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/simulation/truck-transport-simulator"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Truck Transport Simulator - Free Online Game",
+    "description": "Build and manage in Truck Transport Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "images": [
+      "https://img.gamemonetize.com/0yowl6lwz72aululkpwscu00who4si65/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Truck Transport Simulator",
+    "description": "Build and manage in Truck Transport Simulator! Realistic simulation gameplay with detailed mechanics and strategy.",
+    "image": "https://img.gamemonetize.com/0yowl6lwz72aululkpwscu00who4si65/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/simulation/truck-transport-simulator",
+    "genre": "Simulation",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

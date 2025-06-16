@@ -1,0 +1,35 @@
+{
+  "title": "Stunt Sprint - Play Free Online Casual Game",
+  "description": "Relax and have fun with Stunt Sprint! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/stunt-sprint",
+  "openGraph": {
+    "title": "Stunt Sprint - Free Online Game",
+    "description": "Relax and have fun with Stunt Sprint! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/6wehfwvhqz38sko3kanj7a5btwrrtk6n/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/stunt-sprint"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Stunt Sprint - Free Online Game",
+    "description": "Relax and have fun with Stunt Sprint! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/6wehfwvhqz38sko3kanj7a5btwrrtk6n/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Stunt Sprint",
+    "description": "Relax and have fun with Stunt Sprint! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/6wehfwvhqz38sko3kanj7a5btwrrtk6n/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/stunt-sprint",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

@@ -1,54 +1,35 @@
 {
-  "gameId": 6958,
-  "slug": "bottle-jump-3d",
-  "metadata": {
-    "title": "Bottle Jump 3D - Exciting Action Adventure Game",
-    "description": "Experience thrilling action in Bottle Jump 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
-    "keywords": [
-      "action games",
-      "Bottle Jump 3D",
-      "free online games",
-      "arcade games"
+  "title": "Bottle Jump 3D - Play Free Online Casual Game",
+  "description": "Relax and have fun with Bottle Jump 3D! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/bottle-jump-3d",
+  "openGraph": {
+    "title": "Bottle Jump 3D - Free Online Game",
+    "description": "Relax and have fun with Bottle Jump 3D! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/f14bz73o1rildj9zrlsf72w9bywi206p/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/bottle-jump-3d",
-    "openGraph": {
-      "title": "Bottle Jump 3D - Exciting Action Adventure Game",
-      "description": "Experience thrilling action in Bottle Jump 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy...",
-      "image": "https://img.gamedistribution.com/b7a07125bd47437a996198ed28029559-512x384.jpeg",
-      "url": "https://playbrowserminigames.com/games/bottle-jump-3d",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Bottle Jump 3D - Exciting Action Adventure Game",
-      "description": "Experience thrilling action in Bottle Jump 3D! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/b7a07125bd47437a996198ed28029559-512x384.jpeg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/bottle-jump-3d"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Bottle Jump 3D",
-      "href": "/games/bottle-jump-3d",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_704",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Ideal for players seeking thrilling adventures"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Bottle Jump 3D - Free Online Game",
+    "description": "Relax and have fun with Bottle Jump 3D! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/f14bz73o1rildj9zrlsf72w9bywi206p/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Bottle Jump 3D",
+    "description": "Relax and have fun with Bottle Jump 3D! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/f14bz73o1rildj9zrlsf72w9bywi206p/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/bottle-jump-3d",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

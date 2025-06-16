@@ -1,54 +1,35 @@
 {
-  "gameId": 9018,
-  "slug": "nutcracker-new-years-adventures",
-  "metadata": {
-    "title": "Free Nutcracker New Years Adventures Game - Action Packed...",
-    "description": "Experience thrilling action in Nutcracker New Years Adventures! This exciting arcade game offers intense gameplay with instant browser play. Play free online...",
-    "keywords": [
-      "Nutcracker New Years Adventures online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "Nutcracker New Years Adventures - Play Free Online Adventure Game",
+  "description": "Embark on an epic adventure in Nutcracker New Years Adventures! Explore mysterious worlds and solve challenging puzzles.",
+  "keywords": "exploration, browser game, adventure, quest, story, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/adventure/nutcracker-new-years-adventures",
+  "openGraph": {
+    "title": "Nutcracker New Years Adventures - Free Online Game",
+    "description": "Embark on an epic adventure in Nutcracker New Years Adventures! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/dh1hgwbe6zn2m30w34n9n131yj7jcgvr/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/nutcracker-new-years-adventures",
-    "openGraph": {
-      "title": "Free Nutcracker New Years Adventures Game - Action Packed...",
-      "description": "Experience thrilling action in Nutcracker New Years Adventures! This exciting arcade game offers intense gameplay with instant browser play. Play free online...",
-      "image": "https://img.gamedistribution.com/f42a105055a846978d6446710ea9e3b6-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/nutcracker-new-years-adventures",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Free Nutcracker New Years Adventures Game - Action Packed Fun",
-      "description": "Experience thrilling action in Nutcracker New Years Adventures! This exciting arcade game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/f42a105055a846978d6446710ea9e3b6-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/adventure/nutcracker-new-years-adventures"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Nutcracker New Years Adventures",
-      "href": "/games/nutcracker-new-years-adventures",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_564",
-    "customDescription": "Includes dynamic environments and smooth controls",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for competitive players"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Nutcracker New Years Adventures - Free Online Game",
+    "description": "Embark on an epic adventure in Nutcracker New Years Adventures! Explore mysterious worlds and solve challenging puzzles.",
+    "images": [
+      "https://img.gamemonetize.com/dh1hgwbe6zn2m30w34n9n131yj7jcgvr/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Nutcracker New Years Adventures",
+    "description": "Embark on an epic adventure in Nutcracker New Years Adventures! Explore mysterious worlds and solve challenging puzzles.",
+    "image": "https://img.gamemonetize.com/dh1hgwbe6zn2m30w34n9n131yj7jcgvr/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/adventure/nutcracker-new-years-adventures",
+    "genre": "Adventure",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

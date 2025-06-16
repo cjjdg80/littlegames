@@ -1,54 +1,35 @@
 {
-  "gameId": 7805,
-  "slug": "easter-glamping-trip",
-  "metadata": {
-    "title": "Easter Glamping Trip Online - Ultimate Action Gaming...",
-    "description": "Get ready for adrenaline-pumping action in Easter Glamping Trip. This free online arcade game brings you instant browser play and endless fun. No download...",
-    "keywords": [
-      "Easter Glamping Trip online",
-      "action gaming",
-      "free games",
-      "arcade adventure"
+  "title": "Easter Glamping Trip - Play Free Online Casual Game",
+  "description": "Relax and have fun with Easter Glamping Trip! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/easter-glamping-trip",
+  "openGraph": {
+    "title": "Easter Glamping Trip - Free Online Game",
+    "description": "Relax and have fun with Easter Glamping Trip! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/au806knrn6g48wau9bqealf0mar4vj53/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/easter-glamping-trip",
-    "openGraph": {
-      "title": "Easter Glamping Trip Online - Ultimate Action Gaming...",
-      "description": "Get ready for adrenaline-pumping action in Easter Glamping Trip. This free online arcade game brings you instant browser play and endless fun. No download...",
-      "image": "https://img.gamedistribution.com/91d9a8d5176c444a8cfa20e1551a6e16-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/easter-glamping-trip",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Easter Glamping Trip Online - Ultimate Action Gaming Experience",
-      "description": "Get ready for adrenaline-pumping action in Easter Glamping Trip. This free online arcade game brings you instant browser play and endless fun. No download required!",
-      "image": "https://img.gamedistribution.com/91d9a8d5176c444a8cfa20e1551a6e16-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/easter-glamping-trip"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Arcade",
-      "href": "/categories/arcade"
-    },
-    {
-      "label": "Easter Glamping Trip",
-      "href": "/games/easter-glamping-trip",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "arcade_961",
-    "customDescription": "Provides immersive storyline and character development",
-    "featuredTags": [],
-    "recommendationReason": "Perfect for action game enthusiasts"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Easter Glamping Trip - Free Online Game",
+    "description": "Relax and have fun with Easter Glamping Trip! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/au806knrn6g48wau9bqealf0mar4vj53/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Easter Glamping Trip",
+    "description": "Relax and have fun with Easter Glamping Trip! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/au806knrn6g48wau9bqealf0mar4vj53/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/easter-glamping-trip",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "title": "Australia Animal Hair Salon - Play Free Online Casual Game",
+  "description": "Relax and have fun with Australia Animal Hair Salon! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/australia-animal-hair-salon",
+  "openGraph": {
+    "title": "Australia Animal Hair Salon - Free Online Game",
+    "description": "Relax and have fun with Australia Animal Hair Salon! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/00dbl4cktpuucb2zlmr6uzg1wpw1bc6j/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/australia-animal-hair-salon"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Australia Animal Hair Salon - Free Online Game",
+    "description": "Relax and have fun with Australia Animal Hair Salon! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/00dbl4cktpuucb2zlmr6uzg1wpw1bc6j/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Australia Animal Hair Salon",
+    "description": "Relax and have fun with Australia Animal Hair Salon! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/00dbl4cktpuucb2zlmr6uzg1wpw1bc6j/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/australia-animal-hair-salon",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

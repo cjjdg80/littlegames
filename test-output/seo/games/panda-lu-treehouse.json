@@ -1,54 +1,35 @@
 {
-  "gameId": 9904,
-  "slug": "panda-lu-treehouse",
-  "metadata": {
-    "title": "Panda Lu Treehouse - Exciting Action Adventure Game",
-    "description": "Experience thrilling action in Panda Lu Treehouse! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
-    "keywords": [
-      "action games",
-      "Panda Lu Treehouse",
-      "free online games",
-      "casual games"
+  "title": "Panda Lu Treehouse - Play Free Online Casual Game",
+  "description": "Relax and have fun with Panda Lu Treehouse! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/panda-lu-treehouse",
+  "openGraph": {
+    "title": "Panda Lu Treehouse - Free Online Game",
+    "description": "Relax and have fun with Panda Lu Treehouse! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/hf9o15x1rczaw7jp7w175j2kaqjmw7bx/512x384.jpg"
     ],
-    "canonical": "https://playbrowserminigames.com/games/panda-lu-treehouse",
-    "openGraph": {
-      "title": "Panda Lu Treehouse - Exciting Action Adventure Game",
-      "description": "Experience thrilling action in Panda Lu Treehouse! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy...",
-      "image": "https://img.gamedistribution.com/fc3ce1599d374f1f9c9586a1fdfaa316-512x384.jpg",
-      "url": "https://playbrowserminigames.com/games/panda-lu-treehouse",
-      "type": "article"
-    },
-    "twitter": {
-      "card": "summary_large_image",
-      "title": "Panda Lu Treehouse - Exciting Action Adventure Game",
-      "description": "Experience thrilling action in Panda Lu Treehouse! This exciting casual game offers intense gameplay with instant browser play. Play free online now and enjoy hours of entertainment.",
-      "image": "https://img.gamedistribution.com/fc3ce1599d374f1f9c9586a1fdfaa316-512x384.jpg"
-    }
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/panda-lu-treehouse"
   },
-  "breadcrumbs": [
-    {
-      "label": "Home",
-      "href": "/"
-    },
-    {
-      "label": "Games",
-      "href": "/games"
-    },
-    {
-      "label": "Casual",
-      "href": "/categories/casual"
-    },
-    {
-      "label": "Panda Lu Treehouse",
-      "href": "/games/panda-lu-treehouse",
-      "current": true
-    }
-  ],
-  "relatedGames": [],
-  "contentVariant": {
-    "variantId": "casual_030",
-    "customDescription": "Includes dynamic environments and smooth controls",
-    "featuredTags": [],
-    "recommendationReason": "Excellent for stress relief and entertainment"
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Panda Lu Treehouse - Free Online Game",
+    "description": "Relax and have fun with Panda Lu Treehouse! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/hf9o15x1rczaw7jp7w175j2kaqjmw7bx/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Panda Lu Treehouse",
+    "description": "Relax and have fun with Panda Lu Treehouse! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/hf9o15x1rczaw7jp7w175j2kaqjmw7bx/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/panda-lu-treehouse",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
   }
 }

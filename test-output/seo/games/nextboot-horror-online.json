@@ -1,0 +1,35 @@
+{
+  "title": "NextBoot Horror Online - Play Free Online Casual Game",
+  "description": "Relax and have fun with NextBoot Horror Online! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/nextboot-horror-online",
+  "openGraph": {
+    "title": "NextBoot Horror Online - Free Online Game",
+    "description": "Relax and have fun with NextBoot Horror Online! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/yr9mf562kof41vm1emecwl7ddfpth8oi/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/nextboot-horror-online"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "NextBoot Horror Online - Free Online Game",
+    "description": "Relax and have fun with NextBoot Horror Online! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/yr9mf562kof41vm1emecwl7ddfpth8oi/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "NextBoot Horror Online",
+    "description": "Relax and have fun with NextBoot Horror Online! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/yr9mf562kof41vm1emecwl7ddfpth8oi/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/nextboot-horror-online",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}

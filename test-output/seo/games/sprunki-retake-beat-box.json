@@ -1,0 +1,35 @@
+{
+  "title": "Sprunki Retake Beat Box - Play Free Online Casual Game",
+  "description": "Relax and have fun with Sprunki Retake Beat Box! Perfect casual game for players of all ages and skill levels.",
+  "keywords": "casual, browser game, relaxing, fun, easy, html5 game, online game, free game",
+  "canonical": "https://playbrowserminigames.com/games/casual/sprunki-retake-beat-box",
+  "openGraph": {
+    "title": "Sprunki Retake Beat Box - Free Online Game",
+    "description": "Relax and have fun with Sprunki Retake Beat Box! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3llos0rv1123h52b98hngq806d2c8j0c/512x384.jpg"
+    ],
+    "type": "website",
+    "url": "https://playbrowserminigames.com/games/casual/sprunki-retake-beat-box"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Sprunki Retake Beat Box - Free Online Game",
+    "description": "Relax and have fun with Sprunki Retake Beat Box! Perfect casual game for players of all ages and skill levels.",
+    "images": [
+      "https://img.gamemonetize.com/3llos0rv1123h52b98hngq806d2c8j0c/512x384.jpg"
+    ]
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Game",
+    "name": "Sprunki Retake Beat Box",
+    "description": "Relax and have fun with Sprunki Retake Beat Box! Perfect casual game for players of all ages and skill levels.",
+    "image": "https://img.gamemonetize.com/3llos0rv1123h52b98hngq806d2c8j0c/512x384.jpg",
+    "url": "https://playbrowserminigames.com/games/casual/sprunki-retake-beat-box",
+    "genre": "Casual",
+    "gamePlatform": "Web Browser",
+    "operatingSystem": "Any",
+    "applicationCategory": "Game"
+  }
+}
