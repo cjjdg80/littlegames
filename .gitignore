@@ -69,11 +69,35 @@ scripts/output/all_games_extracted.json
 scripts/output/all_games_continuous.json
 scripts/output/batches/
 
+# GameMonetize crawler data and outputs
+scripts/crawler/gamemonetize_enhanced_games_*.json
+scripts/crawler/gamemonetize_enhanced_failed_*.json
+scripts/crawler/gamemonetize_enhanced_report_*.json
+scripts/crawler/gamemonetize_enhanced_games_progress_*.json
+scripts/crawler/gamemonetize_enhanced_failed_progress_*.json
+scripts/crawler/gamemonetize_seo_output/
+scripts/crawler/test_fixed_crawler_results.json
+scripts/crawler/test_enhanced_results.json
+
+# Other crawler outputs
+scripts/crawler/gamemonetize_hot_games_*.json
+scripts/crawler/gamemonetize_failed_games_*.json
+scripts/crawler/gamemonetize_crawl_report_*.json
+
+# SEO generation outputs
+scripts/crawler/test_seo_batch_output/
+scripts/crawler/*_seo_output/
+
+# Large test and result files
+scripts/crawler/*_results.json
+scripts/crawler/*_progress_*.json
+
 # Test outputs (keep structure but ignore large files)
 # Removed SEO file exclusions to allow git backup
 
 # Script logs and temporary files
 scripts/test-output/seo-logs/
+scripts/crawler/*.log
 *.log
 *.tmp
 *.temp
